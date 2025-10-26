@@ -118,24 +118,24 @@ class BaseAdapter(ABC, Generic[T]):
     ) -> AdapterResponse[T]:
         """
         Build a successful AdapterResponse.
-        
+
         Helper method to construct response with calculated metrics.
         """
         end_time = datetime.utcnow()
         duration = (end_time - start_time).total_seconds()
-        
+
         # Determine status
         if not errors:
             status = AdapterStatus.SUCCESS
         else:
             status = AdapterStatus.PARTIAL_SUCCESS
-        
+
         # Calculate cache expiry
         cache_until = None
         if cache_ttl_seconds:
             from datetime import timedelta
             cache_until = end_time + timedelta(seconds=cache_ttl_seconds)
-        
+
         avg_latency, p95_latency = self._latency_stats()
 
         response = AdapterResponse(
@@ -173,12 +173,12 @@ class BaseAdapter(ABC, Generic[T]):
     ) -> AdapterResponse[T]:
         """
         Build a failed AdapterResponse.
-        
+
         Used when entire fetch operation fails (source unavailable, etc.)
         """
         end_time = datetime.utcnow()
         duration = (end_time - start_time).total_seconds()
-        
+
         avg_latency, p95_latency = self._latency_stats()
 
         response = AdapterResponse(
@@ -303,7 +303,8 @@ class BaseAdapter(ABC, Generic[T]):
                         self._register_failure()
                         response.raise_for_status()
                     delay = self._status_retry_delay(response, attempt)
-                    self._register_status_retry(response.status_code, delay, attempt)
+                    self._register_status_retry(
+                        response.status_code, delay, attempt)
                     await asyncio.sleep(delay)
                     continue
 

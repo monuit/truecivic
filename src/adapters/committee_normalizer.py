@@ -49,7 +49,8 @@ def parse_committee(
         matched_session: Optional[Dict[str, Any]] = None
         if isinstance(sessions_payload, list):
             for session_entry in sessions_payload:
-                session_value = session_entry.get("session") or session_entry.get("sessnum")
+                session_value = session_entry.get(
+                    "session") or session_entry.get("sessnum")
                 if session_value is None:
                     continue
                 session_text = str(session_value).strip()
@@ -107,12 +108,14 @@ def parse_committee(
         short_name_fr_raw = data.get("short_name_fr") or data.get("short_name")
 
         if isinstance(short_name_en_raw, dict):
-            short_name_en = short_name_en_raw.get("en") or short_name_en_raw.get("fr")
+            short_name_en = short_name_en_raw.get(
+                "en") or short_name_en_raw.get("fr")
         else:
             short_name_en = short_name_en_raw
 
         if isinstance(short_name_fr_raw, dict):
-            short_name_fr = short_name_fr_raw.get("fr") or short_name_fr_raw.get("en")
+            short_name_fr = short_name_fr_raw.get(
+                "fr") or short_name_fr_raw.get("en")
         else:
             short_name_fr = short_name_fr_raw
 
@@ -120,7 +123,8 @@ def parse_committee(
         parent_slug: Optional[str] = None
         if parent_committee:
             if isinstance(parent_committee, dict):
-                parent_slug = parent_committee.get("slug") or parent_committee.get("code")
+                parent_slug = parent_committee.get(
+                    "slug") or parent_committee.get("code")
             elif isinstance(parent_committee, str):
                 parent_slug = parent_committee
         else:
@@ -136,7 +140,8 @@ def parse_committee(
                 parent_slug = parent_slug
 
         chamber = "House"
-        normalized_name_en = (name_en or "") if isinstance(name_en, str) else str(name_en or "")
+        normalized_name_en = (name_en or "") if isinstance(
+            name_en, str) else str(name_en or "")
 
         if data.get("joint"):
             chamber = "Joint"
@@ -195,10 +200,12 @@ def parse_committee_meeting(
     try:
         identifier = build_committee_identifier(identifier_seed)
     except ValueError as exc:
-        logger.warning("Unable to resolve committee identifier for meeting: %s", exc)
+        logger.warning(
+            "Unable to resolve committee identifier for meeting: %s", exc)
         return None
 
-    parliament = _resolve_parliament_value(data.get("parliament"), default_parliament)
+    parliament = _resolve_parliament_value(
+        data.get("parliament"), default_parliament)
     session = _resolve_session_value(data.get("session"), default_session)
 
     meeting_number = _safe_int(data.get("number"))
@@ -274,10 +281,12 @@ def enrich_committee_meeting_detail(
         session=_resolve_session_value(
             detail_payload.get("session"), meeting.session
         ),
-        meeting_date=_parse_datetime(detail_payload.get("date")) or meeting.meeting_date,
+        meeting_date=_parse_datetime(
+            detail_payload.get("date")) or meeting.meeting_date,
         title_en=meeting.title_en,
         title_fr=meeting.title_fr,
-        meeting_type=detail_payload.get("meeting_type") or meeting.meeting_type,
+        meeting_type=detail_payload.get(
+            "meeting_type") or meeting.meeting_type,
         room=detail_payload.get("room") or meeting.room,
         time_of_day=detail_payload.get("start_time") or meeting.time_of_day,
         source_url=meeting.source_url,

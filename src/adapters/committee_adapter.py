@@ -25,7 +25,7 @@ from src.utils.committee_registry import build_committee_identifier
 
 class CommitteeAdapter(BaseAdapter[CommitteeData]):
     """Adapter for fetching committee data from OpenParliament API."""
-    
+
     def __init__(self, api_base_url: str = "https://api.openparliament.ca"):
         super().__init__(
             source_name="openparliament_committees",
@@ -41,14 +41,15 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
                 "Accept": "application/json",
             },
         )
-    
+
     async def fetch(self, **kwargs: Any):  # type: ignore[override]
         """Generic fetch is not implemented for this legacy adapter."""
         raise NotImplementedError(
             "Use fetch_committees_for_session or fetch_all_committees instead."
         )
 
-    def normalize(self, raw_data: Any) -> CommitteeData:  # type: ignore[override]
+    # type: ignore[override]
+    def normalize(self, raw_data: Any) -> CommitteeData:
         """Normalization is handled by specialized parser helpers."""
         raise NotImplementedError(
             "CommitteeAdapter uses parse_committee helper for normalization."
@@ -66,12 +67,12 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
     ) -> AdapterResponse[CommitteeData]:
         """
         Fetch all committees for a given parliament session.
-        
+
         Args:
             parliament: Parliament number (e.g., 44)
             session: Session number (e.g., 1)
             limit: Results per page
-            
+
         Returns:
             AdapterResponse with committee records for the session
         """
@@ -186,7 +187,7 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
                 exc_info=True,
             )
             return self._build_failure_response(exc, start_time, retryable=False)
-    
+
     async def fetch_committee_detail(
         self,
         committee_slug: str,
@@ -195,12 +196,12 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
     ) -> AdapterResponse[CommitteeData]:
         """
         Fetch detailed committee information.
-        
+
         Args:
             committee_slug: Committee slug/acronym (e.g., "HUMA")
             parliament: Parliament number
             session: Session number
-            
+
         Returns:
             AdapterResponse containing the committee record, if available
         """
@@ -299,13 +300,13 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
     ) -> List[Dict[str, Any]]:
         """
         Fetch committee activities (meetings, reports, etc.).
-        
+
         Args:
             committee_slug: Committee slug/acronym
             parliament: Parliament number
             session: Session number
             limit: Results per page
-            
+
         Returns:
             List of activity dictionaries
         """
@@ -318,7 +319,8 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
             "format": "json",
         }
 
-        self.logger.info("Fetching activities for committee %s", committee_slug)
+        self.logger.info(
+            "Fetching activities for committee %s", committee_slug)
 
         while current_url:
             response = await self._http_get(
@@ -360,7 +362,7 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
         )
 
         return activities
-    
+
     async def fetch_committee_meetings(
         self,
         committee_identifier: str,
@@ -430,7 +432,8 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
                             if isinstance(detail_id, int):
                                 detail = await self._fetch_meeting_detail(detail_id)
                                 if isinstance(detail, dict) and detail:
-                                    meeting = enrich_committee_meeting_detail(meeting, detail)
+                                    meeting = enrich_committee_meeting_detail(
+                                        meeting, detail)
                                 elif isinstance(detail, AdapterError):
                                     errors.append(detail)
                         meetings.append(meeting)
@@ -526,10 +529,10 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
     async def fetch_all_committees(self, limit: int = 100) -> AdapterResponse[CommitteeData]:
         """
         Fetch all committees across all sessions.
-        
+
         Args:
             limit: Results per page
-            
+
         Returns:
             AdapterResponse aggregating all committee records
         """
@@ -579,8 +582,10 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
                                 else session_info
                             )
                             if isinstance(latest_session, dict):
-                                parliament_value = int(latest_session.get("parliamentnum") or parliament_value)
-                                session_value = int(latest_session.get("sessnum") or session_value)
+                                parliament_value = int(latest_session.get(
+                                    "parliamentnum") or parliament_value)
+                                session_value = int(latest_session.get(
+                                    "sessnum") or session_value)
                             else:
                                 parts = str(latest_session).split("-")
                                 if parts and parts[0].isdigit():
@@ -649,7 +654,8 @@ class CommitteeAdapter(BaseAdapter[CommitteeData]):
             )
 
         except httpx.HTTPError as exc:
-            self.logger.error("HTTP error fetching all committees: %s", exc, exc_info=True)
+            self.logger.error(
+                "HTTP error fetching all committees: %s", exc, exc_info=True)
             return self._build_failure_response(exc, start_time, retryable=True)
         except Exception as exc:
             self.logger.error(

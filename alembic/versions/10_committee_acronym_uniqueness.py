@@ -54,7 +54,8 @@ def upgrade() -> None:
     # Ensure slug uniqueness constraint exists
     if not _constraint_exists("committees", "uq_committee_slug"):
         with op.batch_alter_table("committees") as batch_op:
-            batch_op.create_unique_constraint("uq_committee_slug", ["committee_slug"])
+            batch_op.create_unique_constraint(
+                "uq_committee_slug", ["committee_slug"])
 
     # Create acronym unique constraint and supporting index
     if not _constraint_exists("committees", "uq_committee_acronym"):
@@ -80,4 +81,3 @@ def downgrade() -> None:
     if _constraint_exists("committees", "uq_committee_acronym"):
         with op.batch_alter_table("committees") as batch_op:
             batch_op.drop_constraint("uq_committee_acronym", type_="unique")
-

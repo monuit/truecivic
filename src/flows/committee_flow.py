@@ -26,18 +26,19 @@ logger = logging.getLogger(__name__)
 async def fetch_committees_task(parliament: int, session: int, limit: int = 100) -> List[CommitteeData]:
     """
     Fetch committees for a parliament session.
-    
+
     Args:
         parliament: Parliament number
         session: Session number
         limit: Results per page
-        
+
     Returns:
         List of CommitteeData objects
     """
     logger = get_run_logger()
-    logger.info(f"Fetching committees for Parliament {parliament}, Session {session}")
-    
+    logger.info(
+        f"Fetching committees for Parliament {parliament}, Session {session}")
+
     adapter = CommitteeAdapter()
     try:
         response = await adapter.fetch_committees_for_session(parliament, session, limit)
@@ -72,16 +73,16 @@ async def fetch_committees_task(parliament: int, session: int, limit: int = 100)
 async def fetch_all_committees_task(limit: int = 100) -> List[CommitteeData]:
     """
     Fetch all committees across all sessions.
-    
+
     Args:
         limit: Results per page
-        
+
     Returns:
         List of CommitteeData objects
     """
     logger = get_run_logger()
     logger.info(f"Fetching all committees")
-    
+
     adapter = CommitteeAdapter()
     try:
         response = await adapter.fetch_all_committees(limit)
@@ -116,16 +117,16 @@ async def fetch_all_committees_task(limit: int = 100) -> List[CommitteeData]:
 async def store_committees_task(committees: List[CommitteeData]) -> int:
     """
     Store committees in the database.
-    
+
     Args:
         committees: List of CommitteeData objects
-        
+
     Returns:
         Number of committees stored
     """
     logger = get_run_logger()
     logger.info(f"Storing {len(committees)} committees in database")
-    
+
     stored_count = 0
 
     if not committees:
@@ -152,7 +153,8 @@ async def store_committees_task(committees: List[CommitteeData]) -> int:
                 session = committee_data.session
 
                 if parliament is None or session is None:
-                    raise ValueError("Committee payload missing parliament/session metadata")
+                    raise ValueError(
+                        "Committee payload missing parliament/session metadata")
 
                 name_en = committee_data.name_en or identifier.code
                 name_fr = committee_data.name_fr or name_en
@@ -170,7 +172,8 @@ async def store_committees_task(committees: List[CommitteeData]) -> int:
                         f"?parl={parliament_value}&session={session_value}"
                     )
 
-                acronym_en = (committee_data.acronym_en or identifier.code).upper()
+                acronym_en = (
+                    committee_data.acronym_en or identifier.code).upper()
                 acronym_fr = (committee_data.acronym_fr or acronym_en).upper()
                 short_name_en = committee_data.short_name_en or name_en
                 short_name_fr = committee_data.short_name_fr or name_fr or short_name_en
@@ -209,7 +212,8 @@ async def store_committees_task(committees: List[CommitteeData]) -> int:
                 )
 
         if not payloads:
-            logger.warning("All committee payloads failed validation; nothing stored")
+            logger.warning(
+                "All committee payloads failed validation; nothing stored")
             return 0
 
         async with session.begin():
@@ -379,29 +383,29 @@ async def fetch_committees_flow(
 ) -> dict:
     """
     Main flow to fetch and store committee data for a specific session.
-    
+
     Args:
         parliament: Parliament number (default: 44)
         session: Session number (default: 1)
         limit: Results per page (default: 100)
-        
+
     Returns:
         Dictionary with flow results
     """
     logger = get_run_logger()
     logger.info(f"Starting committee fetch flow for {parliament}-{session}")
-    
+
     start_time = datetime.utcnow()
-    
+
     # Fetch committees
     committees = await fetch_committees_task(parliament, session, limit)
-    
+
     # Store committees
     stored_count = await store_committees_task(committees)
-    
+
     end_time = datetime.utcnow()
     duration = (end_time - start_time).total_seconds()
-    
+
     result = {
         "status": "success",
         "parliament": parliament,
@@ -411,7 +415,7 @@ async def fetch_committees_flow(
         "duration_seconds": duration,
         "timestamp": end_time.isoformat()
     }
-    
+
     logger.info(f"Committee fetch flow completed: {result}")
     return result
 
@@ -476,27 +480,27 @@ async def fetch_committee_meetings_flow(
 async def fetch_all_committees_flow(limit: int = 100) -> dict:
     """
     Fetch and store all committees across all sessions.
-    
+
     Args:
         limit: Results per page (default: 100)
-        
+
     Returns:
         Dictionary with flow results
     """
     logger = get_run_logger()
     logger.info(f"Starting all committees fetch flow")
-    
+
     start_time = datetime.utcnow()
-    
+
     # Fetch all committees
     committees = await fetch_all_committees_task(limit)
-    
+
     # Store committees
     stored_count = await store_committees_task(committees)
-    
+
     end_time = datetime.utcnow()
     duration = (end_time - start_time).total_seconds()
-    
+
     result = {
         "status": "success",
         "committees_fetched": len(committees),
@@ -504,7 +508,7 @@ async def fetch_all_committees_flow(limit: int = 100) -> dict:
         "duration_seconds": duration,
         "timestamp": end_time.isoformat()
     }
-    
+
     logger.info(f"All committees fetch flow completed: {result}")
     return result
 
