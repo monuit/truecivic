@@ -19,21 +19,21 @@ from ..models.adapter_models import AdapterResponse, AdapterError
 class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
     """
     Adapter for fetching bills from OpenParliament API.
-    
+
     Key features:
     - Fetches bills in reverse chronological order (latest first)
     - Supports pagination for large result sets
     - Extracts legisinfo_id for enrichment linking
     - Handles bilingual content (EN/FR)
     - Rate limited to 2 requests/second
-    
+
     Example:
         adapter = OpenParliamentBillsAdapter()
         response = await adapter.fetch(parliament=44, session=1, limit=100)
     """
-    
+
     BASE_URL = "https://api.openparliament.ca"
-    
+
     def __init__(self):
         """Initialize OpenParliament bills adapter"""
         super().__init__(
@@ -42,7 +42,7 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
             max_retries=3,
             timeout_seconds=30
         )
-        
+
         # Initialize HTTP client
         self.client = httpx.AsyncClient(
             timeout=self.timeout_seconds,
@@ -52,7 +52,7 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
             },
             follow_redirects=True
         )
-    
+
     async def fetch(
         self,
         parliament: Optional[int] = None,
@@ -64,16 +64,16 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
     ) -> AdapterResponse[Bill]:
         """
         Fetch bills from OpenParliament API.
-        
+
         Bills are returned in REVERSE CHRONOLOGICAL ORDER (latest first)
         using the -introduced date sort parameter.
-        
+
         Args:
             parliament: Filter by parliament number (e.g., 44)
             session: Filter by session number (e.g., 1)
             limit: Maximum records to fetch (pagination handled automatically)
             **kwargs: Additional parameters (ignored)
-        
+
         Returns:
             AdapterResponse containing list of Bill objects
         """
@@ -81,65 +81,70 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
         start_time = datetime.utcnow()
         bills: list[Bill] = []
         errors: list[AdapterError] = []
-        
+
         self.logger.info(
             f"Fetching bills: parliament={parliament}, session={session}, limit={limit}"
         )
-        
+
         try:
             # Build initial URL with filters
             url = f"{self.BASE_URL}/bills/"
             params: Dict[str, Any] = {
                 "format": "json",
                 "limit": min(limit, 100),  # API max per page
-                "order_by": "-introduced"  # CRITICAL: Latest bills first (DESC)
+                # CRITICAL: Latest bills first (DESC)
+                "order_by": "-introduced"
             }
-            
+
             if parliament:
-                # Filter by parliament (e.g., 44)
-                # API expects session format like "44-1"
-                if session:
-                    session_str = f"{parliament}-{session}"
-                else:
-                    # Just parliament, get all sessions
-                    session_str = f"{parliament}"
-                
-                # Note: OpenParliament uses session filtering differently
-                # We'll fetch and filter in normalize() if needed
-                self.logger.debug(f"Filtering for parliament {parliament}, session {session}")
+                # Note: OpenParliament uses session filtering differently; fetch all and filter locally.
+                self.logger.debug(
+                    "Filtering for parliament %s, session %s",
+                    parliament,
+                    session,
+                )
 
             if introduced_after:
                 params["introduced__gte"] = introduced_after.date().isoformat()
             if introduced_before:
                 params["introduced__lte"] = introduced_before.date().isoformat()
-            
+
             records_fetched = 0
-            
+            not_modified = False
+
             # Paginate through results
-            while url and records_fetched < limit:
-                # Apply rate limiting
-                await self.rate_limiter.acquire()
-                
-                self.logger.debug(f"GET {url}")
-                
-                # Make request
-                response = await self._request_with_retries(
-                    self.client.get,
-                    url,
-                    params=params if params else None,
+            current_url = url
+            current_params: Optional[Dict[str, Any]] = params
+            while current_url and records_fetched < limit:
+                self.logger.debug("GET %s", current_url)
+
+                response = await self._http_get(
+                    self.client,
+                    current_url,
+                    params=current_params,
+                    cache_key=self._cache_key(current_url, current_params),
                 )
+
+                if response.status_code == httpx.codes.NOT_MODIFIED:
+                    not_modified = True
+                    self.logger.info(
+                        "%s responded 304 Not Modified; stopping pagination",
+                        current_url,
+                    )
+                    break
+
                 response.raise_for_status()
-                
+
                 data = response.json()
-                
+
                 # Extract bills from response
                 raw_bills = data.get("objects", [])
-                
+
                 for raw_bill in raw_bills:
                     try:
                         # Normalize each bill
                         bill = self.normalize(raw_bill)
-                        
+
                         # Apply parliament/session filter if specified
                         if parliament and bill.parliament != parliament:
                             continue
@@ -151,14 +156,14 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
                             continue
                         if introduced_after and bill.introduced_date is None:
                             continue
-                        
+
                         bills.append(bill)
                         records_fetched += 1
-                        
+
                         # Stop if we've hit limit
                         if records_fetched >= limit:
                             break
-                            
+
                     except Exception as e:
                         # Log normalization error but continue
                         self.logger.warning(
@@ -169,43 +174,46 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
                             timestamp=datetime.utcnow(),
                             error_type=type(e).__name__,
                             message=str(e),
-                            context={"bill_url": raw_bill.get("url", "unknown")},
+                            context={"bill_url": raw_bill.get(
+                                "url", "unknown")},
                             retryable=False
                         ))
-                
+
                 # Check for next page
                 pagination = data.get("pagination", {})
                 next_url = pagination.get("next_url")
-                
+
                 if next_url:
                     # Handle relative URLs
-                    if next_url.startswith("/"):
-                        url = f"{self.BASE_URL}{next_url}"
-                    else:
-                        url = next_url
+                    current_url = (
+                        f"{self.BASE_URL}{next_url}"
+                        if next_url.startswith("/")
+                        else next_url
+                    )
                 else:
-                    url = None
-                
-                params = None  # Next URL has params embedded
-                
+                    current_url = None
+
+                current_params = None  # Next URL has params embedded
+
                 self.logger.debug(
                     f"Fetched {len(raw_bills)} bills, "
                     f"total so far: {records_fetched}"
                 )
-            
+
             self.logger.info(
                 f"Successfully fetched {len(bills)} bills, "
                 f"{len(errors)} errors"
             )
-            
+
             # Build success response
             return self._build_success_response(
                 data=bills,
                 errors=errors,
                 start_time=start_time,
-                cache_ttl_seconds=6 * 3600  # Cache for 6 hours
+                cache_ttl_seconds=6 * 3600,  # Cache for 6 hours
+                metadata={"not_modified": not_modified},
             )
-        
+
         except httpx.HTTPError as e:
             # Network/HTTP error - entire operation failed
             self.logger.error(f"HTTP error fetching bills: {e}", exc_info=True)
@@ -214,26 +222,27 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
                 start_time=start_time,
                 retryable=True
             )
-        
+
         except Exception as e:
             # Unexpected error
-            self.logger.error(f"Unexpected error fetching bills: {e}", exc_info=True)
+            self.logger.error(
+                f"Unexpected error fetching bills: {e}", exc_info=True)
             return self._build_failure_response(
                 error=e,
                 start_time=start_time,
                 retryable=False
             )
-    
+
     def normalize(self, raw_data: Dict[str, Any]) -> Bill:
         """
         Normalize OpenParliament bill JSON to Bill model.
-        
+
         Args:
             raw_data: Raw bill dict from OpenParliament API
-        
+
         Returns:
             Normalized Bill instance
-        
+
         Raises:
             ValueError: If required fields are missing
         """
@@ -242,43 +251,44 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
         session_str = raw_data.get("session")
         if not session_str:
             raise ValueError("Bill missing session field")
-        
+
         # Parse session string
         parts = session_str.split("-")
-        
+
         if len(parts) != 2:
             raise ValueError(f"Invalid session format: {session_str}")
-        
+
         parliament = int(parts[0])
         session = int(parts[1])
-        
+
         # Extract bill number
         number = raw_data.get("number")
         if not number:
             raise ValueError("Bill missing number field")
-        
+
         # Extract titles
         name = raw_data.get("name", {})
         title_en = name.get("en", "")
         title_fr = name.get("fr")
-        
+
         short_title = raw_data.get("short_title", {})
         short_title_en = short_title.get("en") if short_title else None
         short_title_fr = short_title.get("fr") if short_title else None
-        
+
         # Extract sponsor ID
         sponsor_url = raw_data.get("sponsor_politician_url")
-        sponsor_id = self._extract_id_from_url(sponsor_url) if sponsor_url else None
-        
+        sponsor_id = self._extract_id_from_url(
+            sponsor_url) if sponsor_url else None
+
         # Extract legisinfo_id (CRITICAL for enrichment)
         legisinfo_id = raw_data.get("legisinfo_id")
-        
+
         # Extract dates
         introduced_date = self._parse_date(raw_data.get("introduced"))
-        
+
         # Extract law status
         law_status = raw_data.get("law")
-        
+
         return Bill(
             jurisdiction="ca-federal",
             parliament=parliament,
@@ -295,11 +305,11 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
             source_openparliament=True,
             last_fetched_at=datetime.utcnow()
         )
-    
+
     def _extract_id_from_url(self, url: str) -> Optional[int]:
         """
         Extract numeric ID from OpenParliament URL.
-        
+
         Example: "/politicians/123/" -> 123
         """
         try:
@@ -307,11 +317,11 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
             return int(parts[-1])
         except (ValueError, IndexError):
             return None
-    
+
     def _parse_date(self, date_str: Optional[str]) -> Optional[datetime]:
         """
         Parse ISO date string to datetime.
-        
+
         Example: "2023-01-15" -> datetime(2023, 1, 15)
         """
         if not date_str:
@@ -326,7 +336,7 @@ class OpenParliamentBillsAdapter(BaseAdapter[Bill]):
                 return datetime.strptime(date_str, "%Y-%m-%d")
         except (ValueError, AttributeError):
             return None
-    
+
     async def close(self):
         """Close HTTP client connection"""
         await self.client.aclose()
