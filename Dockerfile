@@ -45,7 +45,8 @@ ENV PATH="/app/.venv/bin:$PATH"
 
 COPY config-examples/settings.py.example parliament/settings.py
 
-RUN python manage.py compress --settings=parliament.offline_compress_settings
+# Collect static files (compression handled at runtime if needed)
+# RUN python manage.py compress --settings=parliament.offline_compress_settings
 
 EXPOSE 8000
 CMD ["gunicorn", "parliament.wsgi:application", "-c", "gunicorn.conf.py"]
