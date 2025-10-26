@@ -121,9 +121,9 @@ LOGGING = {
     },
 }
 
-# Disable compression in production (handled by gunicorn/nginx)
-COMPRESS_ENABLED = False
-COMPRESS_OFFLINE = False
+# Enable offline compressor bundles produced during image build
+COMPRESS_ENABLED = True
+COMPRESS_OFFLINE = True
 
 # Hansard cache directory
 HANSARD_CACHE_DIR = os.path.join(os.path.dirname(PROJ_ROOT), 'hansard-cache')

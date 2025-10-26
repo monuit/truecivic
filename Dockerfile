@@ -40,8 +40,9 @@ ENV DJANGO_SETTINGS_MODULE=parliament.settings
 
 # Prepare static asset directories (match STATIC_ROOT/COMPRESS_ROOT) and collect
 # assets using the project virtualenv managed by uv.
-RUN mkdir -p /staticfiles /frontend_bundles && \
-    uv run python manage.py collectstatic --noinput
+RUN mkdir -p /app/staticfiles /app/frontend_bundles && \
+    uv run python manage.py collectstatic --noinput && \
+    uv run python manage.py compress --settings=parliament.offline_compress_settings --force
 
 # RUN mkdir /staticfiles && chown appuser /staticfiles && mkdir /frontend_bundles && chown appuser /frontend_bundles
 
@@ -52,4 +53,4 @@ COPY config-examples/settings.py.example parliament/settings_railway.py
 RUN test -f parliament/settings.py || cp parliament/settings_railway.py parliament/settings.py || true
 
 EXPOSE 8000
-CMD ["gunicorn", "parliament.wsgi:application", "-c", "gunicorn.conf.py"]
+CMD ["sh", "-c", "python manage.py migrate --noinput && gunicorn parliament.wsgi:application -c gunicorn.conf.py"]

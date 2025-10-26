@@ -537,7 +537,11 @@ class SessionManager(models.Manager):
         return self.get_queryset().filter(bill__number_only__gt=1).distinct()
     
     def current(self):
-        return self.get_queryset().order_by('-start')[0]
+        queryset = self.get_queryset().order_by('-start')
+        current = queryset.first()
+        if not current:
+            raise self.model.DoesNotExist("No sessions are available")
+        return current
 
     def get_by_date(self, date):
         return self.filter(models.Q(end__isnull=True) | models.Q(end__gte=date))\

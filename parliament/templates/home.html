@@ -23,10 +23,14 @@
 <div class="row">
   <div class="context-col"><h2>What they’re talking about</h2></div>
   <div class="main-col">
+    {% if latest_hansard %}
     <p>The latest House transcript is from <strong>{{ latest_hansard.date|date:"F jS"}}</strong>{% if latest_hansard.most_frequent_word %}, when the <span class="tipunderline" data-tooltip title="Most frequently spoken word, compared to other recent debates.">word of the day</span> was <strong>{{ latest_hansard.most_frequent_word }}</strong>{% endif %}. These are the topics that were discussed.</p>
     {% if hansard_topics_ai_summary %}{% include "ai_warning.inc" %}{% endif %}
     {% include "hansards/topics_list.inc" with topics_data=hansard_topics_data document=latest_hansard only %}
     {% if hansard_topics_ai_summary %}{% include "summary_poll.inc" with summary=hansard_topics_ai_summary %}{% endif %}
+    {% else %}
+    <p>We do not have any Hansard transcripts available yet. Once data is ingested, recent debate topics will appear here.</p>
+    {% endif %}
 
   </div>
 </div>
@@ -67,11 +71,13 @@
 {% block js %}
 <script>
 $(function() {
+  {% if latest_hansard and wordcloud_js %}
   var document_url = "{{ latest_hansard.get_absolute_url|escapejs }}";
   var wordcloud_opts = {
       searchURL: '/search/?q=Document:+%22' + document_url + '%22+'
   };
   {{ wordcloud_js }}
+  {% endif %}
 });
 </script>
 <script type="application/ld+json">

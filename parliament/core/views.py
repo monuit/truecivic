@@ -16,23 +16,35 @@ from parliament.text_analysis.models import TextAnalysis
 
 def home(request):
     t = loader.get_template("home.html")
-    latest_hansard = Document.debates.filter(date__isnull=False, public=True)[0]
-    hansard_topics_data, hansard_topics_summary_obj = get_hansard_sections_or_summary(latest_hansard)
+    latest_hansard = Document.debates.filter(date__isnull=False, public=True).first()
+    hansard_topics_data = []
+    hansard_topics_summary_obj = None
+    wordcloud_js = None
+
+    if latest_hansard:
+        hansard_topics_data, hansard_topics_summary_obj = get_hansard_sections_or_summary(latest_hansard)
+        wordcloud_js = TextAnalysis.objects.get_wordcloud_js(
+            key=latest_hansard.get_text_analysis_url())
+
     recently_debated_bills = Bill.objects.filter(
             latest_debate_date__isnull=False).order_by('-latest_debate_date').values(
                 'session', 'number', 'name_en', 'short_title_en'
             )[:6]
+
+    try:
+        current_session = Session.objects.current()
+    except Session.DoesNotExist:
+        current_session = None
     c = {
         'latest_hansard': latest_hansard,
         'hansard_topics_data': hansard_topics_data,
         'hansard_topics_ai_summary': hansard_topics_summary_obj,
         'sitenews': SiteNews.objects.filter(active=True,
             date__gte=datetime.datetime.now() - datetime.timedelta(days=90))[:6],
-        'votes': VoteQuestion.objects.filter(session=Session.objects.current())
-            .select_related('bill')[:6],
+        'votes': VoteQuestion.objects.filter(session=current_session)
+            .select_related('bill')[:6] if current_session else [],
         'recently_debated_bills': recently_debated_bills,
-        'wordcloud_js': TextAnalysis.objects.get_wordcloud_js(
-            key=latest_hansard.get_text_analysis_url())
+        'wordcloud_js': wordcloud_js
     }
     return HttpResponse(t.render(c, request))
     
