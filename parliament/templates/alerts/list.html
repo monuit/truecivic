@@ -1,0 +1,74 @@
+{% extends "alerts/base.html" %}
+
+{% block content %}
+<div class="row align-right">
+	<div class="main-col"><p>You&rsquo;re signed in as <strong>{{ alerts_user.email }}</strong>. If that&rsquo;s not who you want to be today, <a href="#" class="auth-logout">sign out</a>.</p>
+
+	{% if alerts_user.email_bouncing %}
+	<p class="inline-error">We've been having trouble delivering email to {{ alerts_user.email }}, and have disabled your account as a result. Please <a class="maillink">get in touch</a> and we'll try to figure out the problem.</p>
+	{% endif %}
+	</div>
+
+</div>
+
+{% if subscriptions %}
+<div class="row">
+	<div class="context-col"><h2>Existing alerts</h2></div>
+	<div class="main-col">
+	<table id="subscriptions" class="table-striped" style="width: 80%">
+		{% for sub in subscriptions %}
+		<tr data-subscription-id="{{ sub.id }}">
+			<td style="padding-right: 30px; width: 75%;font-style: italic;">{{ sub.topic }}</td>
+			<td>{% if sub.active %}<button class="button" type="button" data-action="disable">Pause</button>{% else %}<button class="button success" data-action="enable">Enable</button>{% endif %}</td>
+			<td><button class="button alert delete" data-action="delete">Delete</button></td>
+		</tr>
+		{% endfor %}
+	</table>
+	</div>
+</div>
+{% endif %}
+
+<div class="row">
+	<div class="context-col"><h2>Creating alerts</h2></div>
+	<div class="main-col"><p>To create an alert, use our <a href="/search/">search</a> to look for something like:</p>
+	{% include "alerts/search_examples.inc.html" %}
+	<p>Then click the <strong>Create an alert</strong> button on the left of the search page.</p>
+	</div>
+</div>
+{% endblock %}
+
+{% block breadcrumbs %}<li>Alerts</li>{% endblock %}
+
+{% block js %}
+{{ block.super }}
+<script type="text/javascript">
+$(function() {
+	$('table#subscriptions').on('click', 'button', function(e) {
+		var $button = $(e.target);
+		var $row = $button.closest('tr');
+		var subscription = $row.data('subscription-id');
+		if (!subscription) {
+			return OP.utils.notify("Oh dear. Something went wrong.", 'error');
+		}
+		var url = '/alerts/' + subscription + '/';
+		var action = $button.attr('data-action');
+		$.ajax({
+			type: 'POST',
+			data: { action: action },
+			url: url,
+			success: function(data) {
+				if (action === 'enable') {
+					$button.attr('data-action', 'disable').removeClass('success').text('Pause');
+				}
+				else if (action === 'disable') {
+					$button.attr('data-action', 'enable').addClass('success').text('Enable');
+				}
+				else if (action === 'delete') {
+					$row.fadeOut();
+				}
+			}
+		});
+	});
+});
+</script>
+{% endblock %}

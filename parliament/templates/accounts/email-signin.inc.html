@@ -1,0 +1,25 @@
+<div class="input-group" id="email_login" style="max-width: 650px"><!-- <span class="input-group-label">Your email</span> --><input type="email" class="input-group-field" placeholder="Your email"><div class="input-group-button"><button class="button" type="button">Continue</button></div></div>
+
+<script>
+$(function() {
+	var request_token = function(e) {
+		e.preventDefault();
+		$('#email_login button').text('Working...').removeClass('btn-primary');
+		var email = $('#email_login input').val();
+        $.ajax({
+            type: 'POST',
+            url: '/accounts/email_token/',
+            data: {'email': email},
+            success: function() { 
+            	$('#email_login').children().remove();
+            	$('#email_login').addClass('success').append("<b>Okay!</b> We've sent an email to " + email + ". Follow the link there to log in.");
+            },
+            error: function (res, status, xhr) {
+                OP.utils.notify("Oops! Please check that this is a valid email.", 'error');
+        		$('#email_login button').text('Continue').addClass('btn-primary');
+            }
+        });
+	};
+	$('#email_login button').click(request_token);
+});
+</script>

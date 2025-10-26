@@ -1,0 +1,28 @@
+{% if GOOGLE_CLIENT_ID %}
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+<div id="g_id_onload" data-client_id="{{ GOOGLE_CLIENT_ID }}" data-context="signin" data-ux_mode="popup" data-callback="onGoogleSignIn"
+    data-auto_prompt="false">
+</div>
+<div style="max-width: 40rem">
+<div class="g_id_signin" data-type="standard" data-shape="rectangular" data-theme="outline" data-text="signin_with"
+    data-size="large" data-width="220" data-logo_alignment="left" style="width:230px; margin: 0 auto 20px auto;">
+</div>
+</div>
+
+<script>
+function onGoogleSignIn(resp) {
+    console.log(resp);
+    $.ajax({
+        type: 'POST',
+        url: '/accounts/google/login/',
+        data: {token: resp.credential},
+        success: function(res, status, xhr) { 
+        	window.location.reload();
+        },
+        error: function(res, status, xhr) {
+            OP.utils.notify("Oops! There was a problem logging you in. Please let us know if this persists.", 'error');
+        }
+    });
+}
+</script>
+{% else %}Oops! Google signin isn't configured properly -- if you see this error, please let us know.{% endif %}

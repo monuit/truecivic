@@ -1,0 +1,23 @@
+{% extends "committees/base.html" %}
+
+{% block breadcrumbs %}<li><a href="{% url "committee_list" %}">Committees</a></li> <li><a href="{{ committee.get_absolute_url }}">{{ committee.short_name }}</a></li> <li>{{ year }}</li>{% endblock %}
+
+{% block content %}
+<div class="row">
+	<div class="context-col"><h2>Meetings</h2></div>
+	<div class="main-col">
+		{% include "committees/meeting_list.html.inc" %}
+	</div>
+</div>
+
+{% if studies %}
+<div class="row">
+	<div class="context-col"><h2>Studies</h2></div>
+	<div class="main-col">
+		<div class="row tile dense small-up-1 medium-up-2">
+			{% for study in studies %}<div class="column column-block threeline overflowtip"><a href="{{ study.get_absolute_url }}">{{ study }}</a></div>{% endfor %}
+		</div>
+	</div>
+</div>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,189 @@
+@charset 'utf-8';
+
+// Declare some variables to prevent warnings;
+// can likely be removed if/when we upgrade Foundation
+$primary-color: null;
+$secondary-color: null;
+$success-color: null;
+$warning-color: null;
+$alert-color: null;
+$-zf-size: null;
+$-zf-bp-value: null;
+$-normalize-exclude: null;
+$-normalize-include: null;
+
+@import 'foundation-settings';
+@import 'bower_components/foundation-sites/scss/foundation';
+
+@include foundation-global-styles;
+// @include foundation-grid;
+@include foundation-flex-grid;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-forms;
+// @include foundation-range-input;
+@include foundation-accordion;
+// @include foundation-accordion-menu;
+// @include foundation-badge;
+@include foundation-breadcrumbs;
+// @include foundation-button-group;
+// @include foundation-callout;
+// @include foundation-card;
+// @include foundation-close-button;
+@include foundation-menu;
+@include foundation-menu-icon;
+// @include foundation-drilldown-menu;
+@include foundation-dropdown;
+// @include foundation-dropdown-menu;
+// @include foundation-responsive-embed;
+// @include foundation-label;
+// @include foundation-media-object;
+// @include foundation-off-canvas;
+// @include foundation-orbit;
+@include foundation-pagination;
+// @include foundation-progress-bar;
+// @include foundation-progress-element;
+// @include foundation-meter-element;
+// @include foundation-slider;
+// @include foundation-sticky;
+// @include foundation-reveal;
+// @include foundation-switch;
+// @include foundation-table;
+@include foundation-tabs;
+// @include foundation-thumbnail;
+// @include foundation-title-bar;
+@include foundation-tooltip;
+// @include foundation-top-bar;
+@include foundation-visibility-classes;
+// @include foundation-float-classes;
+@include foundation-flex-classes;
+
+$max_text_width: 40rem;
+$link_color: #1A59C7;
+
+body {
+  background-color: #DDDDDD;
+}
+a {
+  color: $link_color;
+  text-decoration:none;
+  font-weight:bold;
+  outline:none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+h1 {
+  font-weight: bold;
+  max-width: $max_text_width * 1.2;
+}
+h2 {
+  font-weight: normal;
+  font-weight: 300;
+  color: #522D07;
+}
+h3 {
+  color: #522D07;
+}
+p {
+  max-width: $max_text_width;
+}
+.tipunderline{
+  border-bottom: 1px dashed #333333;
+}
+.quiet {
+  font-size: .75rem;
+  color: #555;
+}
+a.quiet {font-weight: normal;}
+@include breakpoint(medium) {
+  ul.bulleted{
+    list-style:none outside url('../images/bullet.png');
+    margin:0 0 20px 0;
+    padding:0;
+    &.inside {
+      padding-left: 18px;
+    }
+    li {
+      padding: 0 0 4px 0;
+      max-width: $max_text_width;
+    }
+  }
+}
+
+.oneline {
+  max-height: ($paragraph_lineheight * 1rem);
+  overflow: hidden;
+}
+.twoline {
+  max-height: ($paragraph_lineheight * 2rem);
+  overflow: hidden;
+}
+.threeline {
+  max-height: ($paragraph_lineheight * 3rem);
+  overflow: hidden;
+}
+
+
+.content {
+  width: 100%;
+  padding-top: .5rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+  border-top: 2px solid #999999;
+
+  .row {
+    margin-bottom: 1.5rem;
+    &.tile {
+      margin-bottom: 0;
+
+      &.dense .column-block {
+        margin-bottom: .6rem;
+      }
+    }
+  }
+  .main-col .row, nav.row {
+    margin-bottom: 0;
+  }
+}
+
+.context-col {
+  @include flex-grid-column(12);
+  @include breakpoint(medium) {
+    @include flex-grid-size(3);
+  }
+
+}
+.content:not(.wide-context-col) .context-col {
+  @include breakpoint(large) {
+    @include flex-grid-size(2);
+  }  
+}
+
+.main-col {
+  @include flex-grid-column(12);
+  @include breakpoint(medium) {
+    @include flex-grid-size(9);
+  }
+}
+.content:not(.wide-context-col) .main-col {
+  @include breakpoint(large) {
+    @include flex-grid-size(10);
+  }  
+}
+
+.tooltip {
+  max-width: 20rem;
+}
+a.has-tip {
+  cursor: pointer;
+}
+.feed{margin-left:3px;padding:0 0 0 19px;background:url("../images/feed-icon-14x14.png") no-repeat 0 50%;}
+
+@import 'navigation';
+@import 'politician';
+@import 'tag_boxes';
+@import 'hansard';
+@import 'notifications';
+@import 'search';
+

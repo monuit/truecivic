@@ -1,0 +1,219 @@
+$navbar_background_default: #2f6970;
+$navbar_background_debates: #46567d;
+$navbar_background_bills: #530909;
+$navbar_background_politicians: #563d7c;
+$navbar_background_committees: #465f1b;
+
+.navbar {
+  background-color: $navbar_background_default;
+  width: 100%;
+  padding: 0.5rem 0;
+
+  .bills & {
+    background-color: $navbar_background_bills;
+  }
+  .debates & {
+    background-color: $navbar_background_debates;
+  }
+  .politicians & {
+    background-color: $navbar_background_politicians;
+  }
+  .committees & {
+    background-color: $navbar_background_committees;
+  }
+
+  .bills & {
+    background-color: $navbar_background_bills;
+  }
+  .debates & {
+    background-color: $navbar_background_debates;
+  }
+  .politicians & {
+    background-color: $navbar_background_politicians;
+  }
+  .committees & {
+    background-color: $navbar_background_committees;
+  }
+
+  .logo-col {
+    @include flex-grid-column(8);
+    @include breakpoint(medium) {
+      @include flex-grid-size(6);
+    }
+    @include breakpoint(large) {
+      @include flex-grid-size(3);
+    }
+    img {
+      width: 220px;
+      .fr & {
+        width: 231px;
+      }
+    }
+    align-self: flex-start;
+    order: 1;
+  }
+
+  .menu-col {
+    @include flex-grid-column(12);
+    order: 3;
+    text-align: right;
+    line-height: 0;
+    li a {
+      padding-left: 0;
+      padding-right: 0;
+    }
+    @include breakpoint(large) {
+      text-align: center;
+      order: 2;
+      @include flex-grid-size(7);
+      position: relative;
+      left: 20px;
+      li a {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+    }
+  }
+  .button-col {
+    @include flex-grid-column(4);
+    order: 2;
+    @include breakpoint(medium) {
+      @include flex-grid-size(6);
+    }
+    @include breakpoint(large) {
+      order: 3;
+      @include flex-grid-size(2);
+    }
+    text-align: right;
+    .active {
+      color: $menu-item-color-active;
+      svg {
+        fill: $menu-item-color-active;
+      }
+    }
+    svg {
+      height: 1.5rem;
+      width: 1.5rem;
+      fill: #EEEEEE;
+      padding-left: .25rem;
+      vertical-align: middle;
+      position: relative;
+      top: -3px;
+    }
+    a {
+      vertical-align: middle;
+      padding-left: 1rem;
+      color: #EEEEEE;
+      &:hover {
+        text-decoration: none;
+        &:not(.active) {
+          color: white;
+          svg {
+            fill: white;
+          }
+        }
+        span {
+          text-decoration: underline;
+        }
+      }
+    }
+
+  }
+
+  .menu {
+    display: inline-block;
+    li.active a {
+      color: $menu-item-color-active;
+    }
+    a {
+      color: #EEEEEE;
+      font-weight: bold;
+      &:hover {
+        text-decoration: underline;
+        color: #FFFFFF;
+      }
+    }
+  }
+}
+
+.no-js {
+  .navbar .menu-col {
+    display: none;
+  }
+
+  @include breakpoint(large) {
+    .navbar .menu-col {
+      display: block;
+    }
+    .button-col .menu {
+      display: none;
+    }
+  }
+}
+
+.navbar-search {
+  background-color: #153033;
+  .input-group {
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 1.5rem 0;
+  }
+}
+
+footer {
+  color: #777777;
+  width: 100%;
+  padding: 1rem 0.5rem;
+  font-size: .85rem;
+
+  a {
+    font-weight: normal;
+    text-decoration: underline;
+    color: #777777;
+    &:hover {
+      color: #1A59C7;
+    }
+  }
+
+  @include flex-grid-row(null, $grid-row-width, 16) {
+
+    .opennorth-col {
+      @include show-for(medium)
+      @include flex-grid-column(8);
+      text-align: center;
+      @include breakpoint(large) {
+        @include flex-grid-size(3);
+      }
+    }
+    .blurb-col {
+      @include flex-grid-column(16);
+      @include breakpoint(medium) {
+        @include flex-grid-size(8);
+      }
+      @include breakpoint(large) {
+        @include flex-grid-size(4);
+      }
+    }
+    .links-col {
+      margin-bottom: 1rem;
+      @include flex-grid-column(8);
+      @include breakpoint(medium) {
+        @include flex-grid-size(5);
+      }
+      @include breakpoint(large) {
+        @include flex-grid-size(3);
+      }
+    }
+  }
+}
+
+.opennorth_logo {
+  display: inline-block;
+  width: 160px;
+  height: 54px;
+  background-image: url(../images/opennorth-160.png);
+
+  &:hover {
+    background-position: 0 -54px;
+  }
+}

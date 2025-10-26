@@ -1,0 +1,54 @@
+
+from .default_settings import *
+
+DEBUG = True
+
+ALLOWED_HOSTS = ['localhost', '.openparliament.ca']
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3', # Add 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
+        'NAME': 'parliament.sqlite',                      # Or path to database file if using sqlite3.
+        'USER': '',                      # Not used with sqlite3.
+        'PASSWORD': '',                  # Not used with sqlite3.
+        'HOST': '',                      # Set to empty string for localhost. Not used with sqlite3.
+        'PORT': '',                      # Set to empty string for default. Not used with sqlite3.
+    },
+}
+
+import dj_database_url
+
+DATABASES = {
+    'default': dj_database_url.config()
+}
+
+HANSARD_CACHE_DIR = os.path.join(PROJ_ROOT, 'hansard-cache')
+SITE_URL='http://openparliament.ca'
+
+# You'll need this to allow Google login
+# GOOGLE_CLIENT_ID = "YOUR_ID"
+
+SILENCED_SYSTEM_CHECKS = ['django_recaptcha.recaptcha_test_key_error']
+
+CACHES = {
+    'default': {
+        'BACKEND': 'django.core.cache.backends.dummy.DummyCache',
+    }
+}
+
+CACHE_MIDDLEWARE_SECONDS = 60 * 60 * 3
+
+# For search to work, you need to have a running instance of Apache Solr
+# (If you just leave this as an invalid URL, the site will work with the
+# exception of search features.)
+PARLIAMENT_SOLR_URL = 'http://solr:8983/solr/parliament-en'
+# If True, will keep track of updated or deleted items and leave notes in the
+# IndexingTask table; the consume_indexing_queue mangement command will then
+# perform all those tasks when called.
+PARLIAMENT_TRACK_INDEXING_TASKS = True
+
+PARLIAMENT_SEND_EMAIL = False
+
+# Make this unique, and don't share it with anybody.
+SECRET_KEY = 'verysecretindeed'
+

@@ -2,45 +2,84 @@
   "$schema": "https://railway.app/schema.json",
   "build": {
     "builder": "dockerfile",
-    "dockerfile": "railway-worker.dockerfile"
+    "dockerfile": "Dockerfile"
   },
   "deploy": {
-    "startCommand": "prefect worker start --pool default-agent-pool --name railway-worker",
-    "restartPolicyMaxRetries": 5,
+    "startCommand": "gunicorn parliament.wsgi:application -c gunicorn.conf.py",
+    "restartPolicyMaxRetries": 3,
     "restartPolicyWindowSeconds": 60
   },
   "services": {
-    "prefect-worker": {
-      "name": "Prefect Worker",
-      "description": "Executes ETL flows for bill, vote, committee, and debate data ingestion",
-      "serviceType": "worker",
-      "dockerfile": "railway-worker.dockerfile",
+    "web": {
+      "name": "TrueCivic Web",
+      "description": "Django web application for Canadian parliamentary data",
+      "serviceType": "web",
+      "dockerfile": "Dockerfile",
       "rootDirectory": "/app",
       "environment": {
-        "PREFECT_API_URL": {
-          "reference": "${{Prefect_Server.PREFECT_API_URL}}",
-          "description": "URL of Prefect Cloud instance"
+        "DJANGO_SETTINGS_MODULE": {
+          "value": "parliament.settings",
+          "description": "Django settings module"
         },
-        "DATABASE_PUBLIC_URL": {
-          "reference": "${{PostgreSQL.DATABASE_PUBLIC_URL}}",
-          "description": "PostgreSQL connection URL with pgvector"
+        "DATABASE_URL": {
+          "reference": "${{Postgres.DATABASE_URL}}",
+          "description": "PostgreSQL connection URL"
         },
         "REDIS_URL": {
           "reference": "${{Redis.REDIS_URL}}",
-          "description": "Redis URL for Prefect result backend"
+          "description": "Redis URL for caching and sessions"
         },
         "PYTHONUNBUFFERED": {
           "value": "1",
           "description": "Enable unbuffered Python output for logs"
+        },
+        "PORT": {
+          "value": "8000",
+          "description": "Port for the web application"
         }
       },
       "resources": {
         "cpu": "0.5",
         "memory": "1G",
-        "maxConcurrency": 1
+        "maxConcurrency": 10
       },
       "networking": {
-        "exposePort": false
+        "exposePort": true,
+        "port": 8000
+      }
+    },
+    "postgres": {
+      "name": "PostgreSQL",
+      "description": "Primary database with pgvector support",
+      "serviceType": "database",
+      "image": "postgres:16-alpine",
+      "environment": {
+        "POSTGRES_DB": {
+          "value": "parliament",
+          "description": "Database name"
+        },
+        "POSTGRES_USER": {
+          "value": "parliament",
+          "description": "Database user"
+        },
+        "POSTGRES_PASSWORD": {
+          "value": "${{Postgres.POSTGRES_PASSWORD}}",
+          "description": "Database password"
+        }
+      },
+      "resources": {
+        "cpu": "1",
+        "memory": "1G"
+      }
+    },
+    "redis": {
+      "name": "Redis",
+      "description": "In-memory cache and session store",
+      "serviceType": "database",
+      "image": "redis:7-alpine",
+      "resources": {
+        "cpu": "0.25",
+        "memory": "512M"
       }
     }
   }

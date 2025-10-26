@@ -1,0 +1,195 @@
+{% extends "bills/base.html" %}
+{% load ours compress static %}
+
+{% block js %}
+{{ block.super }}
+<script type="text/javascript" src="{% static 'bower_components/jquery-expander/jquery.expander.min.js' %}"></script>
+<script type="text/javascript">
+$(function () {
+	$('.bill_summary').expander({slicePoint: 400, widow: 60});
+
+	$('#bill-tabs a').click(function(e) {
+    e.preventDefault();
+  	window.history.pushState(null, null, this.href);
+    window.OP.AJAXNavigate(this.href);
+	});
+  
+  // Redirect links within summary to appear within the bill page
+  document.addEventListener("click", function (event) {
+    let target = event.target.closest(".ai_summary a");
+    if (target && target.getAttribute("href")?.startsWith("/debates/")) {
+        event.preventDefault();
+        // Call AJAXNavigate with the URL of this page, with ?speech= plus the URL of the target a,
+        // stripped of the #anchor part
+        let href = target.getAttribute("href");
+        let url = new URL(window.location.href);
+        let anchor = href.split("#")[1];
+        url.searchParams.set("speech", href.split('#')[0]);
+        url.searchParams.delete("page");
+        window.OP.AJAXNavigate(url.href, '#' + anchor)
+    }
+  });
+
+	$(window).on('contentLoad', function() {
+    // General pagination code takes care of most of the work; we just need to update
+    // the active tab
+    var tab = OP.utils.getQueryParam('tab') || "{{ tab|escapejs }}";
+
+		$('#bill-tabs li a').attr('aria-selected', 'false');
+    (tab ? $('#bill-tabs li.' + tab + ' a') : $('#bill-tabs li a').first()).attr('aria-selected', 'true');
+	});
+});
+</script>
+{% endblock %}
+
+{% block breadcrumbs %}<li><a href="{% url "bills" %}">Bills</a></li>
+<li><a href="{% url "bills_for_session" session_id=bill.session.id %}">{{ bill.session }}</a></li> <li>{{ title }}</li>{% endblock %}
+{% block headextra %}
+{% if not bill.session.end %}<link rel="alternate" type="application/rss+xml" title="Speeches about Bill {{ bill.number }}" href="{% url "bill_feed" session_id=bill.session.id bill_number=bill.number %}">{% endif %}
+{% endblock %}
+{% block content %}
+
+<div class="row align-right">
+  <div class="main-col">
+  {% if bill.short_title %}<h2>{{ bill.short_title }}</h2>{% endif %}    
+  <h3>{{ bill.name }}</h3>
+  {% if bill.session.end %}<p>This bill is from the {{ bill.session }}, which ended in {{ bill.session.end|date:"F Y"}}.</p>{% endif %}
+  {% if bill.number_only == 1 %}<p>This bill, the first introduced in any session, is a <a href="http://en.wikipedia.org/wiki/Bills_C-1_and_S-1">formal tradition</a> rather than proposed legislation. {% if bill.institution == 'S' %}It doesn't actually have anything to do with railways.{% else %}(It has nothing to do with oaths of office. The Senate equivalent is called <em>An Act relating to Railways</em> and&mdash;you guessed it!&mdash;in no way relates to railways.){% endif %}</p>{% endif %}
+  </div>
+</div>
+{% if bill.sponsor_politician %}
+<div class="row">
+  <div class="context-col"><h2>Sponsor</h2></div>
+  <div class="main-col"><p><a href="{{ bill.sponsor_politician.get_absolute_url }}">{{ bill.sponsor_politician.name }}</a> {% if bill.sponsor_member %}&nbsp;<span class="tag partytag_{{ bill.sponsor_member.party.slug|lower }}">{{ bill.sponsor_member.party.short_name }}</span>{% endif %}</p>
+  {% if bill.privatemember %}<p>Introduced as a <strong>private member’s bill</strong>. {% if not bill.law %}(These don’t often become law.){% endif %}</p>{% endif %}</div>
+</div>
+{% endif %}
+
+{% if bill.status or bill.law %}
+<div class="row">
+  <div class="context-col"><h2>Status</h2></div>
+  <div class="main-col">
+    <p>{% if bill.law %}This bill has received Royal Assent and {% if bill.session.end %}is now{% else %}is, or will soon become,{% endif %} <strong>law</strong>.{% else %}{{ bill.status }}{% if bill.status_date %}, as of {{ bill.status_date }}{% endif %} {% if bill.session.end %}<br>(This bill <strong>did not</strong> become law.){% endif %}{% endif %}</p>
+    {% if not bill.session.end and not bill.law %}<p>Subscribe to a <a href="{% url "bill_feed" session_id=bill.session.id bill_number=bill.number %}" class="feed">feed</a> (<a href="/about/rss/">what's a feed?</a>) of speeches and votes in the House related to Bill {{ bill.number }}.</p>{% endif %}
+  </div>
+</div>
+{% endif %}
+
+{% with bill.get_summary as bill_summary %}{% with bill.get_library_summary_url as library_summary_url %}{% if bill_summary or library_summary_url %}
+<div class="row">
+  <div class="context-col">
+    <h2>Summary</h2>
+    {% if bill_summary %}<p class="quiet">This is from the published bill. {% if library_summary_url %}The Library of Parliament has also written a full <a href="{{ library_summary_url }}">legislative summary</a> of the bill.{% endif %}</p>{% endif %}
+  </div>
+  <div class="main-col">
+    {% if bill_summary %}<div class="bill_summary">{{ bill_summary }}</div>
+    {% elif library_summary_url %}<p>The Library of Parliament has written a full <a href="{{ library_summary_url }}">legislative summary</a> of the bill.</p>{% endif %}
+  </div>
+</div>
+{% endif %}{% endwith %}{% endwith %}
+
+{% if similar_bills %}
+<div class="row">
+  <div class="context-col"><h2>Similar bills</h2></div>
+  <div class="main-col">
+    <div class="row tile small-up-1 medium-up-2">
+        {% for similar_bill in similar_bills %}
+        <div class="column column-block">
+          <a href="{{ similar_bill.get_absolute_url }}">{{ similar_bill.number }} ({% if not similar_bill.session.end %}current session{% else %}{{ similar_bill.session.name }}{% endif %})</a>
+          {% if similar_bill.law %}<span class="tag bill_law">Law</span>{% endif %}
+          {% if similar_bill.short_title %}{{ similar_bill.short_title }}{% else %}{{ similar_bill.name }}{% endif %}
+        </div>
+        {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+{% if bill.name %}
+<div class="row">
+  <div class="context-col"><h2>Elsewhere</h2></div>
+  <div class="main-col"><p>All sorts of information on this bill is available at <a href="{{ bill.legisinfo_url }}">LEGISinfo</a>, an excellent resource from Parliament.{% if bill.text_docid %} You can also read the <a href="{{ bill.get_billtext_url }}">full text of the bill</a>.{% endif %}</p>
+  {% if same_number_bills %}<p>Bill numbers are reused for different bills each new session. Perhaps you were looking for one of these other {{ bill.number }}s:</p>
+    <div class="row tile small-up-1 medium-up-2">
+      {% for same_number_bill in same_number_bills %}{% if same_number_bill not in similar_bills %}
+      <div class="column column-block threeline overflowtip">
+        <a href="{{ same_number_bill.get_absolute_url }}">{{ same_number_bill.number }} ({% if same_number_bill.introduced %}{{ same_number_bill.introduced.year }}{% else %}{{ same_number_bill.session.start.year }}{% endif %})</a>
+        {% if same_number_bill.law %}<span class="tag bill_law">Law</span>{% endif %}
+        {% if same_number_bill.short_title %}{{ same_number_bill.short_title }}{% else %}{{ same_number_bill.name }}{% endif %}
+      </div>
+      {% endif %}{% endfor %}
+    </div>
+  {% endif %}
+  </div>
+</div>
+{% endif %}
+
+{% if votequestions %}
+<div class="row">
+  <div class="context-col"><h2>Votes</h2></div>
+  <div class="main-col">
+    <div class="row tile small-up-1 medium-up-2">
+      {% for vote in votequestions %}<div class="column column-block threeline overflowtip"><a href="{{ vote.get_absolute_url }}">{{ vote.date|date:"N j, Y" }}</a> <span class="tag voteresult_{{ vote.result }}">{{ vote.get_result_display }}</span> {{ vote.description }}</div>{% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="row align-right">
+  <div class="main-col">
+  	<ul class="tabs" id="bill-tabs">
+      {% if debate_stages.3 %}
+      <li class="tabs-title stage-3">
+        <a href="?tab=stage-3" {% if tab == 'stage-3' %}aria-selected="true"{% endif %}>3<sup>rd</sup> reading</a>
+      </li>
+      {% endif %}
+      {% if debate_stages.report %}
+      <li class="tabs-title stage-report">
+        <a href="?tab=stage-report" {% if tab == 'stage-report' %}aria-selected="true"{% endif %}>House debate at report stage</a>
+      </li>
+      {% endif %}
+      {% if debate_stages.2 %}
+      <li class="tabs-title stage-2">
+        <a href="?tab=stage-2" {% if tab == 'stage-2' %}aria-selected="true"{% endif %}>2<sup>nd</sup> reading</a>
+      </li>
+      {% endif %}
+      {% if debate_stages.1 %}
+      <li class="tabs-title stage-1">
+        <a href="?tab=stage-1" {% if tab == 'stage-1' %}aria-selected="true"{% endif %}>1<sup>st</sup> reading</a>
+      </li>
+      {% endif %}
+      {% if debate_stages.senate %}
+      <li class="tabs-title stage-senate">
+        <a href="?tab=stage-senate" {% if tab == 'stage-senate' %}aria-selected="true"{% endif %}>House debate of Senate amendments</a>
+      </li>
+      {% endif %}       
+      {% if debate_stages.other %}
+      <li class="tabs-title stage-other">
+        <a href="?tab=stage-other" {% if tab == 'stage-other' %}aria-selected="true"{% endif %}>House debate (motions &amp; other)</a>
+      </li>
+      {% endif %}     
+      {% if has_mentions %}
+      <li class="tabs-title mentions">
+        <a href="?tab=mentions" {% if tab == 'mentions' %}aria-selected="true"{% endif %}>Other House mentions</a>
+      </li>
+      {% endif %}
+      {% if has_meetings %}
+      <li class="tabs-title meetings">
+        <a href="?tab=meetings" {% if tab == 'meetings' %}aria-selected="true"{% endif %}>Committee meetings</a>
+      </li>
+      {% endif %}
+    </ul>
+  </div>
+</div>
+
+<div id="paginated">
+    
+{% if page %}
+	{% include "bills/reading_debate.inc" %}
+{% elif tab == 'meetings' %}
+	{% include "bills/related_meetings.inc" %}
+{% endif %}
+
+</div>
+
+{% endblock content %}
