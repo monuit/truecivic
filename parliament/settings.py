@@ -2,6 +2,7 @@
 Production settings for truecivic Django application on Railway
 """
 
+import dj_database_url
 import os
 from .default_settings import *
 
@@ -15,7 +16,6 @@ ALLOWED_HOSTS = os.getenv(
 SECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-placeholder-change-me')
 
 # Database configuration - Railway provides DATABASE_URL via postgres service
-import dj_database_url
 
 if os.getenv('DATABASE_URL'):
     DATABASES = {
@@ -73,7 +73,8 @@ SECURE_HSTS_PRELOAD = True
 
 # Email configuration
 PARLIAMENT_SEND_EMAIL = True
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'  # Change to proper email backend
+# Change to proper email backend
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 # Site configuration
 fallback_host = ALLOWED_HOSTS[0] if ALLOWED_HOSTS[0] != '*' else 'truecivic.ca'
@@ -115,4 +116,5 @@ COMPRESS_OFFLINE = False
 # Hansard cache directory
 HANSARD_CACHE_DIR = os.path.join(os.path.dirname(PROJ_ROOT), 'hansard-cache')
 
-print(f"Django settings loaded: DEBUG={DEBUG}, DATABASES configured: {bool(DATABASES.get('default'))}")
+print(
+    f"Django settings loaded: DEBUG={DEBUG}, DATABASES configured: {bool(DATABASES.get('default'))}")
