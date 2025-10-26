@@ -35,6 +35,10 @@ RUN uv sync --frozen --no-install-project --no-dev --extra production
 COPY . /app
 RUN uv sync --frozen --no-dev --extra production
 
+# Prepare static asset directories and collect assets at build time
+RUN mkdir -p /app/staticfiles /app/frontend_bundles && \
+	python manage.py collectstatic --noinput
+
 ENV PATH="/app/.venv/bin:$PATH"
 ENV DJANGO_SETTINGS_MODULE=parliament.settings
 
