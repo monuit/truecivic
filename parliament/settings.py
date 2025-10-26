@@ -9,7 +9,9 @@ from .default_settings import *
 DEBUG = os.getenv('DEBUG', 'False') == 'True'
 
 # Security settings for production
-ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', '*').split(',')
+ALLOWED_HOSTS = os.getenv(
+    'ALLOWED_HOSTS', 'truecivic.ca,www.truecivic.ca,localhost,127.0.0.1'
+).split(',')
 SECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-placeholder-change-me')
 
 # Database configuration - Railway provides DATABASE_URL via postgres service
@@ -74,7 +76,8 @@ PARLIAMENT_SEND_EMAIL = True
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'  # Change to proper email backend
 
 # Site configuration
-SITE_URL = os.getenv('SITE_URL', f'https://{ALLOWED_HOSTS[0] if ALLOWED_HOSTS[0] != "*" else "localhost"}')
+fallback_host = ALLOWED_HOSTS[0] if ALLOWED_HOSTS[0] != '*' else 'truecivic.ca'
+SITE_URL = os.getenv('SITE_URL', f'https://{fallback_host}')
 
 # Logging configuration for production
 LOGGING = {
