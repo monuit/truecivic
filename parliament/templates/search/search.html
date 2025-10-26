@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% load static compress %}
+{% load static %}
 {% block breadcrumbs %}{{ block.super }}Search{% endblock %}
 {% block pagetitle %}Search: {{ query }}{% endblock %}
 {% block pageheading_override %}{% endblock %}
@@ -33,16 +33,13 @@
 </div>
 {% endblock %}
 {% block headextra %}
-	{% compress css %}
-    <link rel="stylesheet" type="text/css" href="{% static 'css/vendor/visualsearch-datauri.css' %}">
+	<link rel="stylesheet" type="text/css" href="{% static 'css/vendor/visualsearch-datauri.css' %}">
 	<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/vendor/jquery-ui.structure.css">
 	<link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/vendor/jquery-ui.theme.css">
-	{% endcompress %}
 
 {% endblock headextra %}
 {% block js %}
 {{ block.super }}
-{% compress js %}
 <script type="text/javascript" src="{% static 'bower_components/jquery-ui/ui/version.js' %}"></script>
 <script type="text/javascript" src="{% static 'bower_components/jquery-ui/ui/widget.js' %}"></script>
 <script type="text/javascript" src="{% static 'bower_components/jquery-ui/ui/position.js' %}"></script>
@@ -62,8 +59,6 @@
 <script type="text/javascript" src="{% static 'js/search/searchdata.js' %}"></script>
 <script type="text/javascript" src="{% static 'js/search/datefilter.js' %}"></script>
 <script type="text/javascript" src="{% static 'js/search/facets.js' %}"></script>
-
-{% endcompress %}
 <script type="text/javascript">
 	$(function() {
 		OP.search.init("{{ query|escapejs }}");
