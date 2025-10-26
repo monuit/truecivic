@@ -10,13 +10,14 @@ COMPRESS_ENABLED = True
 COMPRESS_OFFLINE = True
 COMPRESS_ROOT = STATIC_ROOT
 
-# Use an in-memory SQLite database so offline compression does not require
-# external services during image builds.
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': ':memory:',
+# Fallback to an in-memory SQLite database only if no database configuration
+# is provided. Railway will inject DATABASE_URL so Postgres remains the default.
+if not os.environ.get('DATABASE_URL'):
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': ':memory:',
+        }
     }
-}
 
 SECRET_KEY = 'compression!'
