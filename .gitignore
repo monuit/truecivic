@@ -115,6 +115,7 @@ temp/
 *.tmp
 *.bak
 *.swp
+.history/
 
 # OS
 .DS_Store

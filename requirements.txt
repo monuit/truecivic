@@ -32,6 +32,7 @@ redis>=5.0.0
 # Storage & Streaming
 minio>=7.2.0  # S3-compatible object storage
 aiokafka>=0.10.0  # Kafka async client
+aiohttp>=3.13.0  # Async HTTP client for OpenParliament adapters
 tenacity>=8.2.2  # Retry utility used by adapters
 
 # CLI & Reporting
