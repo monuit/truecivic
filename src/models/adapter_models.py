@@ -79,6 +79,41 @@ class AdapterMetrics(BaseModel):
         default=0,
         description="Number of retries performed"
     )
+    http_request_count: int = Field(
+        ge=0,
+        default=0,
+        description="Total HTTP requests issued by the adapter"
+    )
+    http_not_modified: int = Field(
+        ge=0,
+        default=0,
+        description="Number of 304 Not Modified responses encountered"
+    )
+    http_retry_429: int = Field(
+        ge=0,
+        default=0,
+        description="Retry attempts triggered by HTTP 429 responses"
+    )
+    http_retry_5xx: int = Field(
+        ge=0,
+        default=0,
+        description="Retry attempts triggered by HTTP 5xx responses"
+    )
+    http_retry_other: int = Field(
+        ge=0,
+        default=0,
+        description="Retry attempts triggered by other retryable responses"
+    )
+    http_latency_avg_ms: float = Field(
+        ge=0.0,
+        default=0.0,
+        description="Average HTTP latency (milliseconds)"
+    )
+    http_latency_p95_ms: float = Field(
+        ge=0.0,
+        default=0.0,
+        description="95th percentile HTTP latency (milliseconds)"
+    )
 
 
 T = TypeVar('T')
@@ -108,6 +143,10 @@ class AdapterResponse(BaseModel, Generic[T]):
     cache_until: Optional[datetime] = Field(
         default=None,
         description="When cached data should expire (UTC)"
+    )
+    metadata: Dict[str, Any] = Field(
+        default_factory=dict,
+        description="Additional diagnostics or context payload"
     )
     
     class Config:
@@ -193,3 +232,22 @@ class CommitteeData:
     source_slug: Optional[str] = None
     parent_committee: Optional[str] = None
     source_url: Optional[str] = None
+
+
+@dataclass
+class CommitteeMeetingData:
+    """Normalized committee meeting payload."""
+    committee_slug: str
+    committee_code: str
+    meeting_number: Optional[int]
+    parliament: int
+    session: int
+    meeting_date: Optional[datetime]
+    title_en: Optional[str]
+    title_fr: Optional[str]
+    meeting_type: Optional[str]
+    room: Optional[str]
+    time_of_day: Optional[str]
+    source_url: Optional[str]
+    witnesses: Optional[List[Dict[str, Any]]] = None
+    documents: Optional[List[Dict[str, Any]]] = None
