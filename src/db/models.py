@@ -453,7 +453,9 @@ class CommitteeModel(Base):
     __table_args__ = (
         UniqueConstraint('jurisdiction', 'committee_code', name='uq_committee_natural_key'),
         UniqueConstraint('committee_slug', name='uq_committee_slug'),
+        UniqueConstraint('jurisdiction', 'acronym_en', name='uq_committee_acronym'),
         Index('idx_committee_slug', 'committee_slug'),
+        Index('idx_committee_acronym', 'jurisdiction', 'acronym_en'),
     )
     
     def __repr__(self) -> str:
