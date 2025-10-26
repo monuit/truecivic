@@ -14,22 +14,25 @@ from parliament.hansards.utils import get_hansard_sections_or_summary
 from parliament.core.templatetags.markup import markdown
 from parliament.text_analysis.models import TextAnalysis
 
+
 def home(request):
     t = loader.get_template("home.html")
-    latest_hansard = Document.debates.filter(date__isnull=False, public=True).first()
+    latest_hansard = Document.debates.filter(
+        date__isnull=False, public=True).first()
     hansard_topics_data = []
     hansard_topics_summary_obj = None
     wordcloud_js = None
 
     if latest_hansard:
-        hansard_topics_data, hansard_topics_summary_obj = get_hansard_sections_or_summary(latest_hansard)
+        hansard_topics_data, hansard_topics_summary_obj = get_hansard_sections_or_summary(
+            latest_hansard)
         wordcloud_js = TextAnalysis.objects.get_wordcloud_js(
             key=latest_hansard.get_text_analysis_url())
 
     recently_debated_bills = Bill.objects.filter(
-            latest_debate_date__isnull=False).order_by('-latest_debate_date').values(
-                'session', 'number', 'name_en', 'short_title_en'
-            )[:6]
+        latest_debate_date__isnull=False).order_by('-latest_debate_date').values(
+        'session', 'number', 'name_en', 'short_title_en'
+    )[:6]
 
     try:
         current_session = Session.objects.current()
@@ -40,14 +43,15 @@ def home(request):
         'hansard_topics_data': hansard_topics_data,
         'hansard_topics_ai_summary': hansard_topics_summary_obj,
         'sitenews': SiteNews.objects.filter(active=True,
-            date__gte=datetime.datetime.now() - datetime.timedelta(days=90))[:6],
+                                            date__gte=datetime.datetime.now() - datetime.timedelta(days=90))[:6],
         'votes': VoteQuestion.objects.filter(session=current_session)
-            .select_related('bill')[:6] if current_session else [],
+        .select_related('bill')[:6] if current_session else [],
         'recently_debated_bills': recently_debated_bills,
         'wordcloud_js': wordcloud_js
     }
     return HttpResponse(t.render(c, request))
-    
+
+
 @never_cache
 def closed(request, message=None):
     if not message:
@@ -55,6 +59,7 @@ def closed(request, message=None):
     resp = flatpage_response(request, 'closedparliament.ca', message)
     resp.status_code = 503
     return resp
+
 
 @never_cache
 def db_readonly(request, *args, **kwargs):
@@ -65,11 +70,13 @@ def db_readonly(request, *args, **kwargs):
     resp.status_code = 503
     return resp
 
+
 def disable_on_readonly_db(view):
     if settings.PARLIAMENT_DB_READONLY:
         return db_readonly
     return view
-    
+
+
 def flatpage_response(request, title, message):
     t = loader.get_template("flatpages/default.html")
     c = {
@@ -79,25 +86,25 @@ def flatpage_response(request, title, message):
         },
     }
     return HttpResponse(t.render(c, request))
-    
+
+
 class SiteNewsFeed(Feed):
-    
+
     title = "openparliament.ca: Site news"
     link = "http://openparliament.ca/"
     description = "Announcements about the openparliament.ca site"
-    
+
     def items(self):
         return SiteNews.public.all()[:6]
-        
+
     def item_title(self, item):
         return item.title
-        
+
     def item_description(self, item):
         return markdown(item.text)
-        
+
     def item_link(self):
         return 'http://openparliament.ca/'
-        
+
     def item_guid(self, item):
         return str(item.id)
-    
