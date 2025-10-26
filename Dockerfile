@@ -39,9 +39,8 @@ ENV PATH="/app/.venv/bin:$PATH"
 ENV DJANGO_SETTINGS_MODULE=parliament.settings
 
 # Prepare static asset directories (match STATIC_ROOT/COMPRESS_ROOT) and collect
-# assets offline using the project virtualenv managed by uv.
+# assets using the project virtualenv managed by uv.
 RUN mkdir -p /staticfiles /frontend_bundles && \
-    uv run python manage.py compress --force && \
     uv run python manage.py collectstatic --noinput
 
 # RUN mkdir /staticfiles && chown appuser /staticfiles && mkdir /frontend_bundles && chown appuser /frontend_bundles
