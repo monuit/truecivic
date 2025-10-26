@@ -65,7 +65,7 @@ else:
 # Static files handling for production
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(os.path.dirname(PROJ_ROOT), 'staticfiles')
-COMPRESS_ROOT = os.path.join(os.path.dirname(PROJ_ROOT), 'frontend_bundles')
+COMPRESS_ROOT = STATIC_ROOT
 
 # Enable WhiteNoise for static files
 MIDDLEWARE.insert(1, 'whitenoise.middleware.WhiteNoiseMiddleware')
