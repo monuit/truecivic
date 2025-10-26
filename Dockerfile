@@ -26,7 +26,7 @@ COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
 ENV UV_COMPILE_BYTECODE=1
 ENV UV_LINK_MODE=copy
 
-RUN --mount=type=cache,id=cache-uv,target=/root/.cache/uv \
+RUN --mount=type=cache,target=/root/.cache/uv,id=uvpip \
     --mount=type=bind,source=uv.lock,target=uv.lock \
     --mount=type=bind,source=pyproject.toml,target=pyproject.toml \
     uv sync --frozen --no-install-project --no-dev --extra production
@@ -34,7 +34,7 @@ RUN --mount=type=cache,id=cache-uv,target=/root/.cache/uv \
 # Then, add the rest of the project source code and install it
 # Installing separately from its dependencies allows optimal layer caching
 ADD . /app
-RUN --mount=type=cache,id=cache-uv,target=/root/.cache/uv \
+RUN --mount=type=cache,target=/root/.cache/uv,id=uvpip \
     uv sync --frozen --no-dev --extra production
 
 ENV PATH="/app/.venv/bin:$PATH"
