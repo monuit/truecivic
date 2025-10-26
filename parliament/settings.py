@@ -10,9 +10,8 @@ from .default_settings import *
 DEBUG = os.getenv('DEBUG', 'False') == 'True'
 
 # Security settings for production
-ALLOWED_HOSTS = os.getenv(
-    'ALLOWED_HOSTS', 'truecivic.ca,www.truecivic.ca,localhost,127.0.0.1'
-).split(',')
+default_hosts = 'truecivic.ca,www.truecivic.ca,truecivic-ca.up.railway.app,localhost,127.0.0.1'
+ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', default_hosts).split(',')
 SECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-placeholder-change-me')
 
 # Database configuration - Railway provides DATABASE_URL via postgres service
@@ -70,6 +69,12 @@ CSRF_COOKIE_SECURE = not DEBUG
 SECURE_HSTS_SECONDS = 31536000
 SECURE_HSTS_INCLUDE_SUBDOMAINS = True
 SECURE_HSTS_PRELOAD = True
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+USE_X_FORWARDED_HOST = True
+
+CSRF_TRUSTED_ORIGINS = os.getenv(
+    'CSRF_TRUSTED_ORIGINS', 'https://truecivic.ca,https://www.truecivic.ca'
+).split(',')
 
 # Email configuration
 PARLIAMENT_SEND_EMAIL = True
