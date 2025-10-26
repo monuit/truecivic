@@ -38,15 +38,15 @@ RUN --mount=type=cache,target=/root/.cache/uv \
     uv sync --frozen --no-dev --extra production
 
 ENV PATH="/app/.venv/bin:$PATH"
+ENV DJANGO_SETTINGS_MODULE=parliament.settings
 
 # RUN mkdir /staticfiles && chown appuser /staticfiles && mkdir /frontend_bundles && chown appuser /frontend_bundles
 
 # USER appuser
 
-COPY config-examples/settings.py.example parliament/settings.py
-
-# Collect static files (compression handled at runtime if needed)
-# RUN python manage.py compress --settings=parliament.offline_compress_settings
+# Copy example settings if no settings exist
+COPY config-examples/settings.py.example parliament/settings_railway.py
+RUN test -f parliament/settings.py || cp parliament/settings_railway.py parliament/settings.py || true
 
 EXPOSE 8000
 CMD ["gunicorn", "parliament.wsgi:application", "-c", "gunicorn.conf.py"]
