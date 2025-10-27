@@ -14,6 +14,11 @@ default_hosts = 'truecivic.ca,www.truecivic.ca,truecivic-ca.up.railway.app,local
 ALLOWED_HOSTS = os.getenv('ALLOWED_HOSTS', default_hosts).split(',')
 SECRET_KEY = os.getenv('SECRET_KEY', 'django-insecure-placeholder-change-me')
 
+RECAPTCHA_PUBLIC_KEY = os.getenv(
+    'RECAPTCHA_PUBLIC_KEY', 'dummy-public-key-change-me')
+RECAPTCHA_PRIVATE_KEY = os.getenv(
+    'RECAPTCHA_PRIVATE_KEY', 'dummy-private-key-change-me')
+
 # Database configuration - Railway provides DATABASE_URL via postgres service
 
 if os.getenv('DATABASE_URL'):
