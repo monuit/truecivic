@@ -150,6 +150,7 @@ exploration-*
 test-outputs/
 scratch/
 sandbox/
+data-dump/
 
 # Working Documents (local only)
 PHASE0_COMPLETE.md
