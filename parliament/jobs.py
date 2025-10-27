@@ -12,17 +12,22 @@ from parliament.activity import utils as activityutils
 from parliament.activity.models import Activity
 from parliament.text_analysis import corpora
 from parliament.summaries.generation import update_hansard_summaries, update_reading_summaries
+from parliament.rag.ingest import RagIngestor
+from src.services.ai.embedding_service import EmbeddingConfig, EmbeddingService
 
 import logging
 logger = logging.getLogger(__name__)
 
 mps = update_mps_from_ourcommons
-        
+
+
 def votes():
     parlvotes.import_votes()
-    
+
+
 def bills():
     legisinfo.import_bills(Session.objects.current())
+
 
 @transaction.atomic
 def prune_activities():
@@ -30,19 +35,22 @@ def prune_activities():
         activityutils.prune(Activity.public.filter(politician=pol))
     return True
 
+
 def committee_evidence():
     for document in Document.evidence\
-      .annotate(scount=models.Count('statement'))\
-      .exclude(scount__gt=0).exclude(skip_parsing=True).order_by('date').iterator():
+        .annotate(scount=models.Count('statement'))\
+            .exclude(scount__gt=0).exclude(skip_parsing=True).order_by('date').iterator():
         try:
             print(document)
             parl_document.import_document(document, allow_reimport=False)
             if document.statement_set.all().count():
                 document.save_activity()
         except Exception as e:
-            logger.exception("Evidence parse failure on #%s: %r" % (document.id, e))
+            logger.exception("Evidence parse failure on #%s: %r" %
+                             (document.id, e))
             continue
-    
+
+
 def committees(sess=None):
     if sess is None:
         sess = Session.objects.current()
@@ -54,42 +62,71 @@ def committees(sess=None):
         logger.exception("Committee list import failure")
     parl_cmte.import_committee_documents(sess)
 
+
 def committees_full():
     committees()
     committee_evidence()
-    
+
+
 @transaction.atomic
 def hansards_load():
     parl_document.fetch_latest_debates()
-        
+
+
 def hansards_parse():
     for hansard in Document.objects.filter(document_type=Document.DEBATE)\
-      .annotate(scount=models.Count('statement'))\
-      .exclude(scount__gt=0).exclude(skip_parsing=True).order_by('date').iterator():
+        .annotate(scount=models.Count('statement'))\
+            .exclude(scount__gt=0).exclude(skip_parsing=True).order_by('date').iterator():
         with transaction.atomic():
             try:
                 with transaction.atomic():
-                    parl_document.import_document(hansard, allow_reimport=False)
+                    parl_document.import_document(
+                        hansard, allow_reimport=False)
             except Exception as e:
-                logger.exception("Hansard parse failure on #%s: %r" % (hansard.id, e))
+                logger.exception(
+                    "Hansard parse failure on #%s: %r" % (hansard.id, e))
                 continue
             # now reload the Hansard to get the date
             hansard = Document.objects.get(pk=hansard.id)
             hansard.save_activity()
-            
+
+
 def hansards():
     hansards_load()
     hansards_parse()
 
+
 def reimport():
     parl_document.reimport_recent_documents()
-    
+
+
 def corpus_for_debates():
     corpora.generate_for_debates()
+
 
 def corpus_for_committees():
     corpora.generate_for_committees()
 
+
 def summaries():
     update_hansard_summaries()
     update_reading_summaries(Session.objects.current())
+
+
+def rag_ingest():
+    try:
+        embedding_service = EmbeddingService(EmbeddingConfig.from_env())
+    except RuntimeError as exc:
+        logger.warning(
+            "Skipping rag_ingest; embedding configuration missing: %s", exc)
+        return
+
+    try:
+        ingestor = RagIngestor(embedding_service)
+    except RuntimeError as exc:
+        logger.warning(
+            "Skipping rag_ingest; vector store configuration missing: %s", exc
+        )
+        return
+    ingestor.sync_recent_hansards()
+    ingestor.sync_recent_bills()
