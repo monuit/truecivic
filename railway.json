@@ -36,6 +36,22 @@
         "PORT": {
           "value": "8000",
           "description": "Port for the web application"
+        },
+        "QDRANT_URL": {
+          "value": "",
+          "description": "Internal URL for the Qdrant vector store"
+        },
+        "QDRANT_API_KEY": {
+          "value": "",
+          "description": "Optional API key for Qdrant if authentication is enabled"
+        },
+        "QDRANT_COLLECTION": {
+          "value": "knowledge_chunks",
+          "description": "Collection used for chat retrieval"
+        },
+        "QDRANT_TIMEOUT_SECONDS": {
+          "value": "5",
+          "description": "HTTP timeout used for Qdrant operations"
         }
       },
       "resources": {
@@ -50,7 +66,7 @@
     },
     "postgres": {
       "name": "PostgreSQL",
-      "description": "Primary database with pgvector support",
+      "description": "Primary relational database for canonical data",
       "serviceType": "database",
       "image": "postgres:16-alpine",
       "environment": {
