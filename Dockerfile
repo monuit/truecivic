@@ -11,6 +11,7 @@ WORKDIR /app
 
 RUN apt-get update \
     && apt-get upgrade -y \
+    && apt-get install -y --no-install-recommends build-essential gcc \
     && rm -rf /var/lib/apt/lists/*
 
 # Create a non-privileged user that the app will run under.
