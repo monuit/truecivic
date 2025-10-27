@@ -1,4 +1,4 @@
-FROM python:3.13
+FROM python:3.13-slim
 
 # Prevents Python from writing pyc files.
 ENV PYTHONDONTWRITEBYTECODE=1
@@ -8,6 +8,10 @@ ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
 WORKDIR /app
+
+RUN apt-get update \
+    && apt-get upgrade -y \
+    && rm -rf /var/lib/apt/lists/*
 
 # Create a non-privileged user that the app will run under.
 # See https://docs.docker.com/go/dockerfile-user-best-practices/
@@ -53,4 +57,4 @@ COPY config-examples/settings.py.example parliament/settings_railway.py
 RUN test -f parliament/settings.py || cp parliament/settings_railway.py parliament/settings.py || true
 
 EXPOSE 8000
-CMD ["sh", "-c", "python manage.py migrate --noinput && gunicorn parliament.wsgi:application -c gunicorn.conf.py"]
+CMD ["sh", "-c", "python manage.py migrate --noinput && python manage.py verify_embeddings && gunicorn parliament.wsgi:application -c gunicorn.conf.py"]
