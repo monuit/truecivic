@@ -23,6 +23,10 @@ dependencies = [
     "webob",
     "oauth2client",
     "whitenoise",
+    "confluent-kafka",
+    "apscheduler",
+    "qdrant-client>=1.11.0",
+    "openai>=1.45.0",
 ]
 
 [project.optional-dependencies]
