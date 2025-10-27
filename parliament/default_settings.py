@@ -38,7 +38,8 @@ USE_L10N = True
 
 # Absolute path to the directory that holds media.
 # Example: "/home/media/media.lawrence.com/"
-MEDIA_ROOT = os.path.realpath(os.path.join(PROJ_ROOT, '..', '..', 'mediafiles'))
+MEDIA_ROOT = os.path.realpath(os.path.join(
+    PROJ_ROOT, '..', '..', 'mediafiles'))
 
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
@@ -46,7 +47,8 @@ MEDIA_ROOT = os.path.realpath(os.path.join(PROJ_ROOT, '..', '..', 'mediafiles'))
 MEDIA_URL = '/media/'
 
 STATICFILES_DIRS = [os.path.join(PROJ_ROOT, 'static')]
-STATIC_ROOT = os.path.realpath(os.path.join(PROJ_ROOT, '..', '..', 'staticfiles'))
+STATIC_ROOT = os.path.realpath(os.path.join(
+    PROJ_ROOT, '..', '..', 'staticfiles'))
 STATIC_URL = '/static/'
 
 STATICFILES_FINDERS = [
@@ -72,14 +74,17 @@ COMPRESS_FILTERS = {
     'css': [
         'compressor.filters.css_default.CssAbsoluteFilter',
         'compressor.filters.cssmin.rCSSMinFilter'
-    ], 
+    ],
     'js': [
-         'compressor.filters.jsmin.CalmjsFilter' # the rjsmin filter conflicts with some vendor js
+        # the rjsmin filter conflicts with some vendor js
+        'compressor.filters.jsmin.CalmjsFilter'
     ]
 }
-COMPRESS_ROOT = os.path.realpath(os.path.join(PROJ_ROOT, '..', '..', 'frontend_bundles'))
+COMPRESS_ROOT = os.path.realpath(os.path.join(
+    PROJ_ROOT, '..', '..', 'frontend_bundles'))
 
-PARLIAMENT_LANGUAGE_MODEL_PATH = os.path.realpath(os.path.join(PROJ_ROOT, '..', '..', 'language_models'))
+PARLIAMENT_LANGUAGE_MODEL_PATH = os.path.realpath(
+    os.path.join(PROJ_ROOT, '..', '..', 'language_models'))
 PARLIAMENT_GENERATE_TEXT_ANALYSIS = False
 
 APPEND_SLASH = False
@@ -127,11 +132,11 @@ MIDDLEWARE = [
     'django.middleware.common.CommonMiddleware',
     'parliament.accounts.middleware.AuthenticatedEmailMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    #'django.middleware.csrf.CsrfViewMiddleware',
+    # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    #'debug_toolbar.middleware.DebugToolbarMiddleware',
+    # 'debug_toolbar.middleware.DebugToolbarMiddleware',
     'django.contrib.flatpages.middleware.FlatpageFallbackMiddleware',
     'parliament.core.api.FetchFromCacheMiddleware',
 ]
@@ -164,6 +169,7 @@ INSTALLED_APPS = [
     'parliament.alerts',
     'parliament.committees',
     'parliament.search',
+    'parliament.rag',
     'parliament.text_analysis',
     'parliament.haiku',
     'parliament.summaries',
@@ -209,5 +215,3 @@ LOGGING = {
         }
     },
 }
-
-
