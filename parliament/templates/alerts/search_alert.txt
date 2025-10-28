@@ -2,31 +2,31 @@
 {% for document in documents %}{% if document.django_ct == 'hansards.statement' %}
 {{ document.date|date:"F jS, P" }}
 {{ document.politician }} {% if document.topic %}on {{ document.topic }}{% elif document.committee %}at the {{ document.committee }} committee{% endif %}
-https://openparliament.ca{{ document.url }}
+https://truecivic.ca{{ document.url }}
 ----------------------------------------------------------
 
 {{ document.text|text_highlight }}
 {% elif document.django_ct == 'bills.bill' %}
 Bill {{ document.number }}
 {{ document.title }}
-https://openparliament.ca{{ document.url }}
+https://truecivic.ca{{ document.url }}
 {{ document.text|text_highlight }}
 {% else %}
-https://openparliament.ca{{ document.url }}
+https://truecivic.ca{{ document.url }}
 {{ document.text|text_highlight }}
 {% endif %}
 {% endfor %}
 
 ************
-You're receiving this e-mail because you signed up at openparliament.ca to
+You're receiving this e-mail because you signed up at truecivic.ca to
 receive alerts about {{ topic }}.
 
 If you no longer want to subscribe to this alert, just follow the link below:
 {{ unsubscribe_url }}
 
 To manage your list of alerts, visit:
-https://openparliament.ca/alerts/
+https://truecivic.ca/alerts/
 
 love,
-openparliament.ca
+TrueCivic
 {% endfilter %}{% endautoescape %}
