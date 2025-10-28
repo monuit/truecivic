@@ -90,9 +90,9 @@ def flatpage_response(request, title, message):
 
 class SiteNewsFeed(Feed):
 
-    title = "openparliament.ca: Site news"
-    link = "http://openparliament.ca/"
-    description = "Announcements about the openparliament.ca site"
+    title = "TrueCivic: Site news"
+    link = "https://truecivic.ca/"
+    description = "Announcements about the truecivic.ca site"
 
     def items(self):
         return SiteNews.public.all()[:6]
@@ -104,7 +104,7 @@ class SiteNewsFeed(Feed):
         return markdown(item.text)
 
     def item_link(self):
-        return 'http://openparliament.ca/'
+        return 'https://truecivic.ca/'
 
     def item_guid(self, item):
         return str(item.id)
