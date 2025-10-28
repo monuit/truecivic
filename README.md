@@ -119,4 +119,4 @@ Frontend tests are not yet present; consider adding Storybook or Playwright cove
 
 ## License
 
-Code is released under the GNU Affero General Public License v3 (AGPLv3). Any derived site must not use the openparliament.ca name or logo without explicit permission. See `LICENSE` for full terms.
+Code is released under the GNU Affero General Public License v3 (AGPLv3). Any derived site must not use the TrueCivic name or logo without explicit permission. See `LICENSE` for full terms.
