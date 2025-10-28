@@ -9,6 +9,21 @@ export type KnowledgeChunk = {
   updated_at: string;
 };
 
+export type KnowledgeChunkScope = {
+  source_type: string;
+  source_identifier: string;
+};
+
+type KnowledgeChunkScopeLike = KnowledgeChunkScope | {
+  source_type: string;
+  source_identifier: string;
+};
+
+type FetchKnowledgeChunkOptions = {
+  limit?: number;
+  init?: RequestInit;
+};
+
 const DEFAULT_LIMIT = 3;
 
 function resolveChunksEndpoint(): string {
@@ -22,28 +37,31 @@ function resolveChunksEndpoint(): string {
 }
 
 function normalizeBillIdentifier(identifier: string): string {
-  return identifier.startsWith("bill:") ? identifier : `bill:${identifier}`;
+  const trimmed = identifier.trim();
+  return trimmed.startsWith("bill:") ? trimmed : `bill:${trimmed}`;
 }
 
-export async function fetchBillSummaries(
-  identifier: string,
-  limit: number = DEFAULT_LIMIT,
-  init?: RequestInit,
+export async function fetchKnowledgeChunks(
+  scope: KnowledgeChunkScopeLike | null | undefined,
+  options: FetchKnowledgeChunkOptions = {},
 ): Promise<KnowledgeChunk[]> {
+  if (!scope?.source_type || !scope.source_identifier) {
+    return [];
+  }
+  const { limit = DEFAULT_LIMIT, init } = options;
+  const cappedLimit = Math.max(1, Math.min(limit, 25));
   const endpoint = resolveChunksEndpoint();
   const searchParams = new URLSearchParams({
-    source_type: "bill",
-    source_identifier: normalizeBillIdentifier(identifier),
-    limit: String(Math.max(1, Math.min(limit, 25))),
+    source_type: scope.source_type,
+    source_identifier: scope.source_identifier,
+    limit: String(cappedLimit),
   });
 
-  const response = await fetch(`${endpoint}?${searchParams.toString()}`, {
-    cache: "no-store",
-    ...init,
-  });
+  const requestInit: RequestInit = { cache: "no-store", ...(init || {}) };
+  const response = await fetch(`${endpoint}?${searchParams.toString()}`, requestInit);
 
   if (!response.ok) {
-    throw new Error(`Failed to load bill summaries: ${response.status}`);
+    throw new Error(`Failed to load knowledge chunks: ${response.status}`);
   }
 
   const payload = await response.json();
@@ -51,4 +69,25 @@ export async function fetchBillSummaries(
     return [];
   }
   return payload.chunks as KnowledgeChunk[];
+}
+
+export async function fetchBillSummaries(
+  identifier: string,
+  limit: number = DEFAULT_LIMIT,
+  init?: RequestInit,
+): Promise<KnowledgeChunk[]> {
+  const scope: KnowledgeChunkScope = {
+    source_type: "bill",
+    source_identifier: normalizeBillIdentifier(identifier),
+  };
+  return fetchKnowledgeChunks(scope, { limit, init });
+}
+
+export async function fetchKnowledgePreview(
+  scope: KnowledgeChunkScopeLike | null | undefined,
+  limit: number = 1,
+  init?: RequestInit,
+): Promise<KnowledgeChunk[]> {
+  const previewLimit = Math.max(1, limit);
+  return fetchKnowledgeChunks(scope, { limit: previewLimit, init });
 }
