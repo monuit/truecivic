@@ -65,7 +65,8 @@ class CurrentMPView(ModelListView):
                 name=obj.politician.name,
                 url=obj.politician.get_absolute_url(),
                 current_party={"short_name": {"en": obj.party.short_name}},
-                current_riding={"province": obj.riding.province, "name": {"en": obj.riding.dashed_name}},
+                current_riding={"province": obj.riding.province,
+                                "name": {"en": obj.riding.dashed_name}},
                 image=obj.politician.headshot.url if obj.politician.headshot else None,
             )
         else:
@@ -78,6 +79,8 @@ class CurrentMPView(ModelListView):
             'title': 'Current Members of Parliament'
         }
         return HttpResponse(t.render(c, request))
+
+
 current_mps = CurrentMPView.as_view()
 
 
@@ -105,6 +108,8 @@ class FormerMPView(ModelListView):
         }
         t = loader.get_template("politicians/former_electedmember_list.html")
         return HttpResponse(t.render(c, request))
+
+
 former_mps = FormerMPView.as_view()
 
 
@@ -127,7 +132,7 @@ class PoliticianView(ModelDetailView):
             'speeches_url': reverse('speeches') + pol_query,
             'ballots_url': reverse('vote_ballots') + pol_query,
             'sponsored_bills_url': reverse('bills') + '?' +
-                urlencode({'sponsor_politician': obj.identifier}),
+            urlencode({'sponsor_politician': obj.identifier}),
             'activity_rss_url': reverse('politician_activity_feed', kwargs={'pol_id': obj.id})
         }
 
@@ -137,7 +142,7 @@ class PoliticianView(ModelDetailView):
             return HttpResponsePermanentRedirect(pol.get_absolute_url())
 
         show_statements = bool('page' in request.GET or
-            (pol.latest_member and not pol.latest_member.current))
+                               (pol.latest_member and not pol.latest_member.current))
 
         if show_statements:
             STATEMENTS_PER_PAGE = 10
@@ -169,10 +174,13 @@ class PoliticianView(ModelDetailView):
                 key=pol.get_absolute_url() + 'text-analysis/')
         }
         if is_ajax(request):
-            t = loader.get_template("hansards/statement_page_politician_view.inc")
+            t = loader.get_template(
+                "hansards/statement_page_politician_view.inc")
         else:
             t = loader.get_template("politicians/politician.html")
         return HttpResponse(t.render(c, request))
+
+
 politician = vary_on_headers('X-Requested-With')(PoliticianView.as_view())
 
 
@@ -215,11 +223,14 @@ class PoliticianAutocompleteView(JSONView):
                 'name', 'name_family', 'slug', 'id').order_by('name_family'))
 
         results = (
-            {'value': p['slug'] if p['slug'] else str(p['id']), 'label': p['name']}
+            {'value': p['slug'] if p['slug'] else str(
+                p['id']), 'label': p['name']}
             for p in self.politician_list
             if p['name'].lower().startswith(q) or p['name_family'].lower().startswith(q)
         )
         return list(itertools.islice(results, 15))
+
+
 politician_autocomplete = PoliticianAutocompleteView.as_view()
 
 
@@ -249,10 +260,10 @@ class PoliticianStatementFeed(Feed):
         return "%s in the House of Commons" % pol.name
 
     def link(self, pol):
-        return "http://openparliament.ca" + pol.get_absolute_url()
+        return "https://truecivic.ca" + pol.get_absolute_url()
 
     def description(self, pol):
-        return "Statements by %s in the House of Commons, from openparliament.ca." % pol.name
+        return "Statements by %s in the House of Commons, from truecivic.ca." % pol.name
 
     def items(self, pol):
         return Statement.objects.filter(
@@ -270,6 +281,7 @@ class PoliticianStatementFeed(Feed):
     def item_pubdate(self, statement):
         return statement.time
 
+
 politician_statement_feed = feed_wrapper(PoliticianStatementFeed)
 
 r_title = re.compile(r'<span class="tag.+?>(.+?)</span>')
@@ -286,10 +298,10 @@ class PoliticianActivityFeed(Feed):
         return pol.name
 
     def link(self, pol):
-        return "http://openparliament.ca" + pol.get_absolute_url()
+        return "https://truecivic.ca" + pol.get_absolute_url()
 
     def description(self, pol):
-        return "Recent news about %s, from openparliament.ca." % pol.name
+        return "Recent news about %s, from truecivic.ca." % pol.name
 
     def items(self, pol):
         return activity.iter_recent(Activity.objects.filter(politician=pol))
@@ -310,12 +322,14 @@ class PoliticianActivityFeed(Feed):
         return activity.guid
 
     def item_description(self, activity):
-        payload = r_excerpt.sub('<br><span style="display: block; border-left: 1px dotted #AAAAAA; margin-left: 2em; padding-left: 1em; font-style: italic; margin-top: 5px;">', activity.payload_wrapped())
+        payload = r_excerpt.sub(
+            '<br><span style="display: block; border-left: 1px dotted #AAAAAA; margin-left: 2em; padding-left: 1em; font-style: italic; margin-top: 5px;">', activity.payload_wrapped())
         payload = r_title.sub('', payload)
         return payload
 
     def item_pubdate(self, activity):
         return datetime.datetime(activity.date.year, activity.date.month, activity.date.day)
+
 
 class PoliticianTextAnalysisView(TextAnalysisView):
 
@@ -330,10 +344,12 @@ class PoliticianTextAnalysisView(TextAnalysisView):
         return pol.get_text_analysis_qs()
 
     def get_analysis(self, request, **kwargs):
-        analysis = super(PoliticianTextAnalysisView, self).get_analysis(request, **kwargs)
+        analysis = super(PoliticianTextAnalysisView,
+                         self).get_analysis(request, **kwargs)
         word = analysis.top_word
         if word and word != request.pol.info().get('favourite_word'):
             request.pol.set_info('favourite_word', word)
         return analysis
 
-analysis = PoliticianTextAnalysisView.as_view()   
+
+analysis = PoliticianTextAnalysisView.as_view()
