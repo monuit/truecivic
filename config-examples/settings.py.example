@@ -3,7 +3,7 @@ from .default_settings import *
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '.openparliament.ca']
+ALLOWED_HOSTS = ['localhost', '.truecivic.ca']
 
 DATABASES = {
     'default': {
@@ -23,7 +23,7 @@ DATABASES = {
 }
 
 HANSARD_CACHE_DIR = os.path.join(PROJ_ROOT, 'hansard-cache')
-SITE_URL='http://openparliament.ca'
+SITE_URL='https://truecivic.ca'
 
 # You'll need this to allow Google login
 # GOOGLE_CLIENT_ID = "YOUR_ID"
