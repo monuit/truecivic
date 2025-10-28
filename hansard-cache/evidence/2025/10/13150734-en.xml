@@ -1,0 +1,1662 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13150734">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Procedure and House Affairs</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, October 2, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 2 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Procedure and House Affairs</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 2, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 004</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">02</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/02 11:05:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la procédure et des affaires de la Chambre</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Procedure and House Affairs</ExtractedItem>
+    <ExtractedItem Name="Acronyme">PROC</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Chris Bittle</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150738">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair (Chris Bittle (St. Catharines, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912698"> Welcome, everyone. I call this meeting to order.</ParaText>
+              <ParaText id="8912699">Welcome to meeting number four of the House of Commons Standing Committee on Procedure and House Affairs. Pursuant to Standing Order 108(3), the committee is meeting in public on the “Report on the 45th General Election of April 28, 2025”.</ParaText>
+              <ParaText id="8912700">Today's meeting is taking place in a hybrid format pursuant to the Standing Orders. Members are attending in person in the room and remotely using the Zoom application.</ParaText>
+              <ParaText id="8912701">Before we continue, I would ask all in-person participants to consult the guidelines written on the cards on the table. These measures are in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including interpreters. You will also notice a QR code on the card, which links to a short awareness video.</ParaText>
+              <ParaText id="8912702">I have a quick reminder, though you all know this, that all comments should be addressed through the chair. For members in the room, if you wish to speak, raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can.</ParaText>
+              <ParaText id="8912703">We have witnesses for today, but before we get to them, I know we've spoken to everyone and I believe, if I seek it, I will find unanimous consent to amend the motion before us in the manner that was provided to the parties.</ParaText>
+              <ParaText id="8912704">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8912705">
+                <B>The Chair:</B> Thank you so much.</ParaText>
+              <ParaText id="8912706">I would now like to welcome our witnesses for today's meeting. From the Office of the Chief Electoral Officer, we have Monsieur Stéphane Perrault, Chief Electoral Officer, and Monsieur Michel Roussel, deputy chief electoral officer, electoral events and innovation.</ParaText>
+              <ParaText id="8912707">Monsieur Perrault will deliver his opening remarks. It's usually five minutes, but since you're here for two hours, I think you will have the latitude to go a bit longer should you need to.</ParaText>
+              <ParaText id="8912708">Monsieur Perrault, please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150752">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault (Chief Electoral Officer, Office of the Chief Electoral Officer)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912709"> Thank you, Mr. Chair, for the opportunity to speak with the committee today about the 45th general election.</ParaText>
+              <ParaText id="8912710">I would like at the outset to express my gratitude to the 343 returning officers and their teams, as well as to the more than 230,000 Canadians who served their neighbours and allowed them to cast their vote.</ParaText>
+              <ParaText id="8912711">Going into this election, in addition to ensuring the transition to the new electoral map, which we obviously did, Elections Canada focused its efforts on securing the electoral process and improving voting services. While these areas of action presented challenges, which I will address over the next few minutes, the delivery of the 45th general election was an overall success.</ParaText>
+              <ParaText id="8912712"> Since the previous election in 2021, there have been important discussions about election security and foreign interference.</ParaText>
+              <ParaText id="8912713">In the lead-up to and during the election, we continued to work with our security partners to understand potential threats and to secure our IT systems and the overall electoral process. I can say today that Elections Canada did not experience any breaches to our IT infrastructure or interference with our electoral operations during the election.</ParaText>
+              <ParaText id="8912714">The Hogue Commission described disinformation as the single biggest threat to our democracy. To counter information manipulation, we developed a range of information products, including a multimedia Voter Information Campaign that is available in 50 languages, as well as detailed content on electoral integrity mechanisms.</ParaText>
+              <ParaText id="8912715">We also monitored the information environment to observe inaccurate narratives about the electoral process, both before and during the election. While we did observe an increase in inaccurate narratives, we were able to ensure that Canadians had access to correct information about the electoral process and to promptly correct misinformation through our various channels, such as our repository of official communications and our social media posts.</ParaText>
+              <ParaText id="8912716">With respect to improving voter services, we put in place the broadest range of services ever offered in any general election.</ParaText>
+              <ParaText id="8912717">The vote on campus program was delivered for the first time outside a fixed-date election context. Despite the fact that the election coincided with the end of the spring semester, around 76,000 electors voted at 109 service points in 96 post-secondary institutions.</ParaText>
+              <ParaText id="8912718"> Early engagement with indigenous communities before the election also allowed Elections Canada to offer more flexible voting services to those who wanted such services, including in remote, isolated and low-density communities. Thanks to this engagement, advance voting services in communities increased by 127%, more than doubling, and election day services by 8%.</ParaText>
+              <ParaText id="8912719"> While we were able to better serve and collaborate with indigenous communities overall, a lack of engagement on our part in Nunavik led to operational challenges, and some electors were unable to cast their ballot as a result. This is clearly unacceptable. This is why I launched a fact-finding enquiry to determine exactly what went wrong so that we can address the shortfalls and make sure it does not happen again. The conclusions of the enquiry will be published later this fall. Our intention moving forward is to work with the communities and various organizations to better serve electors in Nunavik and all first nations, Inuit and Métis communities.</ParaText>
+              <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912720"> Overall, close to 20 million electors voted during the 45th general election, resulting in a voter turnout of 69%. This is the highest since 1993. Importantly, a record number of 8.8 million, or 44%, voted prior to election day. Of these, 7.5 million voted at advance polls and 1.2 million used a special ballot. In comparison, just 25 years ago, less than 7% of those who voted did so before election day. This ongoing trend shows a deep and lasting evolution in Canadians' voting behaviour and service expectations. It also puts enormous pressure on our infrastructure and, in particular, on our returning officers.</ParaText>
+              <ParaText id="8912721">Any election is a major logistical undertaking and requires the coordinated efforts of an extraordinary number of people over an immense territory. It is done without any permanent infrastructure during a very short period and based on a calendar that is unknown ahead of time.</ParaText>
+              <ParaText id="8912722">In a snap election context, with only 36 days, the ability of returning officers to secure polling sites, to recruit a sufficient number of poll workers, not just overall but in each and every community, and to offer a range of special voting services may have reached its limit. In some cases, these pressures may have also contributed to some of the issues we experienced with special ballot voting in a few electoral districts, which I mentioned in my report.</ParaText>
+              <ParaText id="8912723">We are currently reviewing special ballot training, control mechanisms and processes to minimize the risk of errors, and we will implement changes in the coming months as we prepare for the next election, but it is important to also examine how we can adapt to the evolving needs and service expectations of Canadians, not just for the next election but for future ones as well.</ParaText>
+              <ParaText id="8912724">As I indicated in my 2022 recommendations report, outside of a fixed-date election context, a short 36-day campaign may not be sufficient to meet those evolving service needs. Increasing early voting services, whether by adding advance polling days, as was contemplated in the last Parliament, or simply increasing service points within the same four advance polling days, as we did in this election, requires more lead time.</ParaText>
+              <ParaText id="8912725">We have also been testing electronic lists of electors in by-elections and will continue to do so in order to modernize our processes and make them more efficient and flexible. The introduction of technology at the polls to serve electors, even as we maintain our paper ballot, needs to be gradual and prudent.</ParaText>
+              <ParaText id="8912726">To conclude, Canada has a strong electoral process built on gradual change and adaptation. My report, as was the case with previous reports, is an opportunity to reflect on what adjustments are necessary to meet the evolving expectations of Canadians.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912727">I look forward to answering members’ questions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150805">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912728">Thank you so much.</ParaText>
+              <ParaText id="8912729">Mr. Cooper, go ahead for six minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150808">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper (St. Albert—Sturgeon River, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912730"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912731">Thank you, Mr. Perrault and Mr. Roussel. It's good to see both of you back at the committee.</ParaText>
+              <ParaText id="8912732">I'm going to ask Mr. Perrault some questions about the so-called longest ballot committee, which you reference in your report. In the last election, this group targeted the Carleton riding, although prior to the last election, they targeted several by-elections and then later targeted the Battle River—Crowfoot riding in the recent by-election, with a total of 91 candidates in Carleton and a record 203 candidates in Battle River—Crowfoot.</ParaText>
+              <ParaText id="8912733">Would you agree, broadly speaking, that the committee's tactic of flooding the ballot with an endless list of candidates had an overall disruptive and negative impact on the electoral process in Carleton, in the prior by-elections and in Battle River—Crowfoot?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150814">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912734">Certainly, it did have such an impact and it was a challenge for a number of voters, especially those with disabilities, to be able to cast their ballots with such a long list of electors. That is why I have come to this committee in the past and recommended some changes to make sure this can be addressed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150817">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912735">To flesh out some of the challenges that this committee created, you referred to voters with disabilities. That would include voters with visual impairments, mobility issues and literacy challenges. Would that be correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150822">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912736">That would include as well voters with dexterity issues. To handle such a large ballot, people who are physically impaired or who have limitations would also face a challenge.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150859">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912737">It negatively impacted voter autonomy. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150861">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912738">That's what we found, yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150864">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912739">Further to that, in the Carleton riding, it resulted in longer lineups at the polls.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150866">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912740">It certainly resulted in longer lineups and, of course, much longer processes to count the ballots, as we're aware. We had to advance the count for three hours for the advance polls during that day, and the count extended throughout the night.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150870">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912741"> In the Battle River—Crowfoot riding, it necessitated the adoption of an adapted ballot and, I presume, that also created challenges for certain voters. Is that fair?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150871">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912742">Certainly, for example, voters who use the Braille list to cast a ballot would have a different experience, so yes, it does create challenges. Electors with low literacy or people who have difficulty writing, manipulating a pen or a pencil, may find that to be challenging.</ParaText>
+              <ParaText id="8912743">From my perspective, one important point is also the fact that it requires me to set aside the rules that Parliament has passed for the format of the ballot, and that's something, of course, that I had to do to make sure the election could proceed. However, as I said before at this committee, it's not something that I do lightly. That's why I hesitated before moving to a write-in ballot format, which is a greater variation from what is prescribed in the legislation. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150879">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912744">You mentioned that you had recommended some amendments to the Canada Elections Act. I know that, in September 2024, following disruptions that occurred in by-elections, you wrote to the then minister of democratic institutions, <Affiliation DbId="317629" Type="2">Dominic LeBlanc</Affiliation>, to express your concerns about the impact of the longest ballot committee and propose an amendment to the Canada Elections Act. </ParaText>
+              <ParaText id="8912745">Did you receive a response from the minister?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150886">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912746">Mr. Chair, I'd just like to also mention that I shared, of course, that recommendation with the committee as well. It wasn't just to the minister. </ParaText>
+              <ParaText id="8912747">In terms of a commitment to make the changes, I did not receive any commitment that they would make those changes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150887">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912748">That recommendation was what? Could you elaborate on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150888">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912749">My recommendation was to ensure that the hundred signatures that are currently required—it's fewer for some of the remote ridings, the low-density ridings—be unique signatures. I believe that is the philosophy of the legislation, though not the letter: that a person who endorses the nomination of a candidate endorses the nomination of that particular candidate and not just any candidate, whoever that candidate may be. I believe that the approach of the longest ballot committee signatories is that they endorse anybody and everybody who wishes to be part of the long ballot initiative, so I don't think that's aligned with the spirit of the legislation.</ParaText>
+              <ParaText id="8912750">I also caution, however, that, should it be implemented, the requirement to have unique signatures should be something that may carry a fine. For example, it could be a few hundred or a few thousand dollars, but it should not be cause to invalidate a nomination. The candidate, a good-faith candidate, would not know that somebody has signed on to somebody else's nomination paper. The last thing we would want is returning officers having to verify 100 signatures and to chase down the potential double signatures, which may be in good faith—they may be somebody who was confused, wanted to be supportive or didn't understand the rules. However, we certainly don't want a candidate nomination to be questioned just because one of the hundred names happened to be on somebody else's nomination paper as well.</ParaText>
+              <ParaText id="8912751">My recommendation was that there be a prohibition on double signatures and a prohibition on inducing or encouraging people to do that, accompanied by sanctions—again, it could be a fine—but without such a rule invalidating the nomination of any candidate, unless the candidate did the inducing himself or herself.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150909">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912752">Thank you, Mr. Cooper.</ParaText>
+              <ParaText id="8912753">Mr. Louis, go ahead for six minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150911">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis (Kitchener—Conestoga, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912754"> Thank you, Chair. </ParaText>
+              <ParaText id="8912755">Thank you, Monsieur Perrault and Monsieur Roussel, for being here. I appreciate it. </ParaText>
+              <ParaText id="8912756">Canadians want to thank you for the job you did in protecting our elections and, at the same time, thank the 230,000 people who stepped up to serve their country for elections, including the 343 electoral officers, who had that thankless job for which, if everything goes right, they are unnoticed, but if something goes wrong, they're on the front page. I just want to take this time to thank you also for a very thorough report on the election and for agreeing to be here today, because this is an ongoing issue on which we can always strive to be better. You're getting challenges that are changing constantly.</ParaText>
+              <ParaText id="8912757">I want to touch base on maintaining electoral integrity and addressing disinformation. In your words, I believe you said that disinformation was the biggest threat. What specific disinformation narratives did Elections Canada encounter during the election, and how do you address something like that in real time? In your words, you had a month and change to address this. What are the challenges there, and what did you see as far as disinformation is concerned?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150928">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912758"> There were a number of narratives, and not necessarily surprising ones. We see similar narratives emerge in different jurisdictions, whether it's the U.K., the U.S. or Australia. They tend to circulate.</ParaText>
+              <ParaText id="8912759">For instance, the very common one, and probably one of the most dominant ones, in this election was the idea that pencils were provided so that votes could be erased. Of course, that's not the reason pencils are provided; people can use a pen if they so wish. That is something that is entirely predictable. For these kinds of narratives, as we observe them around the world, we prepare and we provide resources. One of the resources was “ElectoFacts”, where we had a list of common false narratives or incorrect narratives with correct information on them. By preparing this in advance and by having a range of information on every aspect of the electoral process, we were ready to respond quickly to point people to the correct information.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150942">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912760">Great.</ParaText>
+              <ParaText id="8912761">I was going to ask about ElectoFacts, and I'll tie that in. It was used to counter false claims. Was social media the way that disinformation was spread the most? Is that something you're monitoring as well and then addressing with ElectoFacts? Is that something you're looking at in between elections to get on top of whatever trends might be happening elsewhere?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150944">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912762">We do monitor between elections across the electoral cycle, but not with the same size of team. In this election, for instance, we monitored some 60 platforms in 22 languages, so it is quite extensive during the election period. The number of languages and platforms is reduced between elections.</ParaText>
+              <ParaText id="8912763">Obviously, Canadians are increasingly getting their information from social media, and that certainly contributes to the challenge of combatting disinformation about the electoral process.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150955">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912764">I think we're on the same page, because my next question dovetails with that as well.</ParaText>
+              <ParaText id="8912765">We're a multicultural nation, and there are, I believe you said, up to 60 digital platforms monitored in multiple languages. What are the extra challenges, and how do you decide how to reach out through various channels in various languages? How are those decisions made?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150959">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912766">We have information products in different languages. As I mentioned, we have them in 50 languages, but we also provided media information packages. That's particularly important for diaspora communities, who often have their own media, radio or channels. We provide additional information to those media in the languages of the diaspora communities. We did that in this election more than.... I don't have the numbers with me, but certainly in Chinese and Mandarin, for example, we had more information available in those languages to circulate. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150964">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912767">In election cycles, is that an ongoing conversation that you would have with these established networks?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150965">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912768">Much less so. In the lead-up to the election in Edmonton, we piloted a regional coordinator who did civic education for both students and adults. We have a very large network of Inspire Democracy groups that receive our information and share it with their members, and that can happen at any time. It tends to be more active during the election period, but they certainly do that across the electoral cycle. We have a range of ethno-linguistic communities that receive information through the Inspire Democracy program. We have right now some 900 partner organizations.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150971">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912769">Thank you. </ParaText>
+              <ParaText id="8912770">I have one last question.</ParaText>
+              <ParaText id="8912771">You talked about the vote on campus program. This was the first time it was done in a non-fixed-date election. What additional outreach education strategies are being considered to increase the percentage of youth, especially in post-secondary institutions, and help them be more informed about voting? Can you report on how that program worked?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150979">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912772">Give us a brief answer. You have about 30 seconds left.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150981">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912773">Okay.</ParaText>
+              <ParaText id="8912774">The program was a challenge, not just because it was not a fixed date election but also in terms of uptake, because many students were away from campuses during the spring and, in some cases, a small number who had committed to it said “no” because their campuses were closed. We work with student organizations both to recruit and to promote activities during the election period. We work with student organizations ahead of the election to prepare for that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150985">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912775">Thank you so much.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912776">Ms. Normandin for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150987">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin (Saint-Jean, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912777">Mr. Perrault and Mr. Roussel, thank you for joining us this morning to help us improve the process. There's always room for improvement, so we know it'll remain a work in progress and we'll happily do that work with you.</ParaText>
+              <ParaText id="8912778">I'd like to start by asking questions about the special ballots.</ParaText>
+              <ParaText id="8912779">The Report on the 45th General Election of April 28, 2025, on pages 20, 21 and 22, provides statistics for the 44th and 45th general elections. We see that, from one election to the next, the rate of special ballots not returned and cancelled varies between approximately 3% and 7%.</ParaText>
+              <ParaText id="8912780">Is it accurate to say that, during an election, we can hardly expect the ballot return rate to be 100%?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151002">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912781">That's never happened, either at the provincial level or the federal level. There are always some ballots that aren't returned or are returned late.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151005">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912782">Similarly, we can expect that, for different reasons, the rate of ballots not returned will vary from one election to the next, isn't that right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151008">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912783">It can vary. The good news is that, this time, we saw a net improvement with regard to the different types of special ballots, be they local, national or international. Overall, fewer ballots were returned late or not returned.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151015">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912784">When an official notices an error in the return address on certain ballots, can they logically rely on historical rates, for example, or on the fact that there are always some ballots that aren't returned, to justify not contacting the electors to whom they sent these ballots, in order to offer them an alternative way to vote?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151023">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912785">Mr. Chair, I ask your indulgence in allowing me to speak carefully. I'm well aware the question relates to the specific case of Terrebonne, which is now before the courts. I don't think it's a bear trap, so to speak, but I'd rather not comment. Once the court has ruled on the Terrebonne case, it'll be easier for me to talk about it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151033">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912786">I understand your caution and I concur, but I'm trying to project myself into the future to prevent it from happening again.</ParaText>
+              <ParaText id="8912787">I'm trying to see if we should somehow eliminate the various justifications allowing officials not to contact people to whom ballots were sent when errors are detected. In other words, when an error is identified, what reasons could someone use to justify not contacting people to whom those ballots were sent and inviting them to vote in another way?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151038">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912788">First, when a staffer at the office of the returning officer or an electoral worker notices a situation where an error could have compromised the ability of an elector or a group of electors to exercise their right to vote, we ask that the information be shared not only with the returning officer but also with headquarters. In some cases, local solutions are possible; in others, adaptations to the act are required.</ParaText>
+              <ParaText id="8912789">In my report, there are a number of adaptations to the special voting rules process to remedy errors that occurred. In every election, there are instances where incorrect instructions are given and errors are made, however, when we notice them, we can remedy them. In my report, there are a number of examples of adaptations that were made to protect the right of electors to cast their ballot.</ParaText>
+              <ParaText id="8912790">That said, this is a general response that isn't specific to Terrebonne.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151050">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912791">That's what I was looking for.</ParaText>
+              <ParaText id="8912792">Do election workers receive primarily verbal training or do they leave with a written document that explains in advance what they need to do when they notice an error?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151054">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912793">One of the challenges is to really condense the information for election workers so they don't get lost in all the different documents. However, I can assure you that local teams are provided with written documentation, which instructs workers to sound the alarm in situations where an elector's right to vote is in jeopardy.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151058">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912794">When an error is found, how do they contact their supervisor, for example, the returning officer and then you? Is it done verbally or via an informal email? Is there a form?</ParaText>
+              <ParaText id="8912795">How is the chain of command, if I can call it that, informed of an error?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151061">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912796">During an election, there's often a sense of urgency, so you'll understand that it's done verbally. However, there are forms available to report such incidents so they're documented. Often, when we're informed of a problematic situation, we ask that an incident report be filed so we can obtain all possible details. That said, sometimes there's tension between the need to quickly resolve a situation and the need to document it. We try to combine the two, but there are processes in place to document this.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151069">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912797">Is it relatively standardized?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151071">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912798">Yes. I don't know if Mr. Roussel wants to add anything.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151073">
+            <PersonSpeaking>
+              <Affiliation DbId="206761" Type="28">Michel Roussel (Deputy Chief Electoral Officer, Electoral Events and Innovation, Office of the Chief Electoral Officer)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912799">Yes, it's relatively standardized. We have a call centre that collects and documents situations raised by returning officers. As Mr. Perrault explained, if there's a major incident, a standard form is filled out and submitted to Elections Canada to allow it to conduct an investigation, if necessary.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151078">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912800"> Thank you so much. </ParaText>
+              <ParaText id="8912801">We'll move right along. Next is Mr. Van Popta, for five minutes, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151079">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta (Langley Township—Fraser Heights, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912802">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912803">Thank you, Mr. Perrault and Mr. Roussel, for being here with us. Thank you for a very thorough report on the 45th general election. It was interesting reading. </ParaText>
+              <ParaText id="8912804">It's an immense undertaking to have a general election in a fair and conclusive manner, but there were some challenges, which you highlight in the report. I want to talk about one, which hits close to home to me. It was in the riding of Coquitlam—Port Coquitlam, which is right across the river from my riding of Langley Township—Fraser Heights.</ParaText>
+              <ParaText id="8912805">Just to set the context, the special ballots that were cast in that riding by electors who did not live in that riding amounted to 822 ballots, and they were not counted. They were not included in the official count because—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151086">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912806">I'm sorry. They will be reflected, except where there are issues with secrecy of the vote. They will be reflected alongside the official count.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151087">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912807">Okay, so that's important to note. </ParaText>
+              <ParaText id="8912808">There were seven electors in my riding.... It wouldn't have made a difference, and your report does highlight that. You say that the outcome would not have affected any of the 74 impacted districts, mine being one of them. It's true that there were seven ballots cast by people living in my riding, and happily, I won by more than seven votes. Even if they had all gone the other way, I still would have won. </ParaText>
+              <ParaText id="8912809">I want to tell those people that their votes actually did count, because that's what I tell everybody when I'm knocking on doors. They say, “Mr. Van Popta, you're going to win anyway, so it doesn't matter if I vote.” I say, “It matters a lot—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151095">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912810">It matters.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151097">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912811">—because every vote counts.”</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151099">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912812">Mr. Chair, I apologize for interrupting.</ParaText>
+              <ParaText id="8912813">It matters. I wholeheartedly agree, and to all extents possible, we want to make sure that every valid vote is reflected and is counted.</ParaText>
+              <ParaText id="8912814">Now, if we find out some error after validation, it cannot be included in the official results. In the case of Coquitlam, a large percentage—and I can't remember exactly—of the affected ridings had done their validation when the issue arose, so that was not a possibility. </ParaText>
+              <ParaText id="8912815">It was nevertheless important to be very transparent about the situation, because some of those ridings were fairly close—not so close that it would have made a difference, but perhaps sufficiently so in the case of a recount. It was critical that the candidates in those ridings be made aware of the number of votes that potentially would have affected their election, and should they have wished to do so, they could have raised this in the context of a recount. </ParaText>
+              <ParaText id="8912816">After validation, if we find this situation, we need to be very quick to be transparent to make sure that these rights can be properly exercised. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151108">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912817">What happens if this is discovered after validation? I just need to be clear on that and if the outcome would have been different. Would it have been a recount? Would you have invalidated the prior validation?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151109">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912818">That's a good question. This is not something that we have encountered before. </ParaText>
+              <ParaText id="8912819">I would be very reluctant, but I won't rule it out, to undo a validation. I think that could be seen as circumventing the remedy in the act for a recount. My preference would be to make the information available to the court in a recount so that the judge may take into account those votes and leave the court process to determine that. </ParaText>
+              <ParaText id="8912820">There are several guardrails and remedies in our system, and that's a good thing. Obviously, we don't like to see a contested election, so the recount or the validations are the two opportunities to make sure that the right candidate has been elected. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151115">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912821">I'd like to give you a hypothetical case.</ParaText>
+              <ParaText id="8912822">I'm looking at the 74 ridings. They're written out in your report alphabetically. I looked up Terrebonne when Ms. Normandin was asking you some questions, and it is not listed there. Nobody in Coquitlam voted in the Terrebonne election, but if there had been, what difference would it have made to a declaration in that Quebec riding?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151118">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912823">Had that been the case, my hope is that the information being available would have been taken into account by the judge in the recount, before going to a contested election. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151123">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912824">What are you going to do to make sure this never happens again—and what actually did happen? A ballot box got lost. How can that possibly happen?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151126">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912825">In the case of Coquitlam, we had a situation of confusion about the process. We had a team there that worked provincially and was confused with the different rules. Provincially in B.C., the special ballots are sent to the headquarters after the election for the count. Federally, that's not the case.</ParaText>
+              <ParaText id="8912826">This is something that ought to have been understood. It's very clear in our material, but we have begun to look at all the controls that can be implemented to make sure that these kinds of errors are picked up immediately and corrected before validation.</ParaText>
+              <ParaText id="8912827">I have indicated publicly, Mr. Chair, that we will be introducing changes to our processes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151134">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912828"> Thank you so much. You were 30 seconds over, but it was an excellent question. I used my prerogative and I wanted to hear the answer. Thank you.</ParaText>
+              <ParaText id="8912829">Mr. Maloney, go ahead for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151141">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney (Etobicoke—Lakeshore, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912830">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8912831">Thank you to the witnesses for coming today. Thank you for all the work you do. You guys have a tough job. There's no doubt about that.</ParaText>
+              <ParaText id="8912832">I have a couple of questions.</ParaText>
+              <ParaText id="8912833">I want to go back to this so-called longest ballot issue. I think we can all agree that it's outrageous. If we're being frank with each other about this thing, if it had a purpose, I'm not sure anybody understands what it is anymore. In my personal opinion, we need to find a way to stop it. </ParaText>
+              <ParaText id="8912834">This is not a partisan issue; it's an issue that impacts all the parties in different ways at different times. It was an issue in Battle River—Crowfoot. It was an issue in Mr. <Affiliation DbId="322132" Type="9">Poilievre</Affiliation>'s previous riding, the one he lost—the name escapes me at the moment—but it was also an issue in previous by-elections that were won by the Liberals, so it affects us all equally.</ParaText>
+              <ParaText id="8912835">In Battle River—Crowfoot, one of the candidates, I believe, was from my riding. I don't know that she has ever been there. I am not even sure she could find it on a map, frankly, so we need to stop this. My question is, what steps can be taken to do that? </ParaText>
+              <ParaText id="8912836">For example, to register as a candidate, you have to submit your papers and you have to go through some sort of interview process, but you don't have to do it in person. I know of circumstances where the person who was responsible for doing interviews spoke to somebody on Zoom or Teams. The person wasn't in the city. The person wasn't in the province. I am not even sure they were in the country; they were on a boat. </ParaText>
+              <ParaText id="8912837">I understand this helped particularly during COVID in certain circumstances, but is there any thought being given to requiring in-person attendance for people when they are going through this process and conducting the interview when they submit their papers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151166">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912838">I would be reluctant to require an in-person presence. </ParaText>
+              <ParaText id="8912839"> We have very large electoral districts in Canada. They are probably some of the largest in the world, if not the largest. Nunavut, to take an example, is almost two million square miles, and communications across the riding are very limited. That creates a range of challenges for candidates and elected MPs. In large districts, requiring someone's presence at the office of the returning officer, even where we have satellite offices, may present challenges for some of the candidates. </ParaText>
+              <ParaText id="8912840">That's not something that I have considered, just to be clear.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151176">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912841">Okay. I understand that geography is a significant hurdle in Canada, but there has to be some way to curtail the abuse from that perspective. I don't know—ask them to name three streets in the riding or to name two restaurants. There has to be something to prevent this absurd situation.</ParaText>
+              <ParaText id="8912842">That takes me to my next point, which is about the signatures. There's been some discussion about this today. </ParaText>
+              <ParaText id="8912843">You are required to get 100 signatures. I'm not sure that preventing somebody from signing two candidates' forms is necessary. That might be a bit too strict, but there has to be a way to curtail it. I don't think the signatures are required to be submitted in the original form. It can be done electronically, if I'm not mistaken. Could you confirm that?</ParaText>
+              <ParaText id="8912844">The second question is this: What processes are used or what steps are taken to validate the signatures? Does anybody do any follow-up, knock on the door and say, “Hi, Mr. Maloney. Your name appears on this form. Was it you who signed it, or was it some member of your family?”, etc.?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151187">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912845">On the first question, signature documents can be scanned and uploaded electronically and submitted through our portal.</ParaText>
+              <ParaText id="8912846">With respect to the second question, the answer is no. We don't go, for example, door to door. Our returning officers are not experts at comparing signatures. </ParaText>
+              <ParaText id="8912847">Very often, nomination papers are filed at the last hour, if not the last minute. The returning officer has 48 hours to confirm and usually likes to inform the candidate if there's a problem with one of the signatures or if there's a signature missing. Then they have to move very quickly to make sure that these are names of people who are in the electoral districts. That's the verification process that takes place.</ParaText>
+              <ParaText id="8912848">Obviously, there may be situations where it's apparent that it's the same signature across the board. If it's so apparent, that would be flagged, but that is not the same thing as truly having a signature verification process for the nominations.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151200">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912849"> When these are uploaded—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151203">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912850">Mr. Maloney, you did have two seconds left, and I've now used them, so I apologize. The good news is that we will have lots of time to come back and ask more questions.</ParaText>
+              <ParaText id="8912851">Madame Normandin, you have two and a half minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13151207">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912852">Mr. Perrault, I'm going to ask one or two more questions about special ballots, then I'll move on to something else.</ParaText>
+              <ParaText id="8912853">In your opinion, if no one contacts electors to advise them that a return envelope is incorrectly labelled, for example, isn't there a danger their ballot won't be counted?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151214">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912854">It can jeopardize the ballot's return.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151215">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912855">To avoid contacting people to advise them of the error, can people simply say they're confident the ballots will ultimately be returned? For example, they'll be sent to the post office, and the post office will correct the postal code so they're returned by 9 p.m. on voting day. Is that guaranteed?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151221">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912856">To be honest, it's not guaranteed even when the envelope is properly labelled. Sometimes, ballots aren't returned, and it's not a labelling error. Special ballots are essential to the process, because they allow us to reach electors who, otherwise, would be deprived of their right to vote. We note that the difficulties raised must not serve as a reason to eliminate special ballots, but rather help us reflect on how to improve the process. Clearly, the easiest and most reliable way to vote is to go to the polling station, either during the advance polls or on election day, since the process is simpler and there are fewer intermediaries. Voting by mail requires intermediaries, so errors may occur and ballots may go astray.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151236">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912857"> My next questions concern the polling stations that weren't able to open in Nunavik. I don't have much time left, so I'll get straight to the point.</ParaText>
+              <ParaText id="8912858">According to the report you tabled, the conclusions will be made public once the review ends. Is the review almost over?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151241">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912859">The review is over. We're drafting the report now. We want the report to be published not only in English and French but also in Inuktitut. It's important to me that the people who speak that language in the community are able to read the report. As I mentioned earlier, I expect it will be ready by November.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151245">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912860">Thank you so much.</ParaText>
+              <ParaText id="8912861">Mr. Jackson, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151247">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson (Brandon—Souris, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912862">Thank you, Chair.</ParaText>
+              <ParaText id="8912863">It's very nice to meet both of you. </ParaText>
+              <ParaText id="8912864">It's my pleasure and privilege to be here as a new member of Parliament under the 45th general election. Thank you for making sure that went smoothly. My local returning officer, Joni Swidnicki, is a wonderful person. She did a great job in Brandon—Souris.</ParaText>
+              <ParaText id="8912865">I wasn't originally going to start here, but I am curious about the pencil issue. Would it be beneficial to just go back to Elections Canada's providing pens at voting booths in order to deal with this misinformation issue that's out there? Is that something you would consider going forward, going back to pens?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151253">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912866">To be clear, I don't believe we ever did use pens in work stations. As far as I know, we've always used pencils.</ParaText>
+              <ParaText id="8912867">The benefit of pencils, beyond the fact that they are economical, is that they don't dry up, and they don't smudge. If you start using ballpoint pens, for example, and you store them for four years and the leftovers stay on.... Some pencils have been in our box for several cycles. They always work. If you buy pens, you have to verify that they work. Even if they do work, sometimes they may smudge, and that could cause ballots to be rejected.</ParaText>
+              <ParaText id="8912868">Our preference is for pencils, but we do not disallow the use of pens.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151260">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912869">Thank you for that.</ParaText>
+              <ParaText id="8912870">Trying to deal with this misinformation issue, there may be an additional cost but, on the information side and dealing with credibility questions about ballots, perhaps it is worth the cost. When you talk about smudging, for example, I understand that it is an issue on the physical ballot itself. I would like to try—as parliamentarians, I think we all would—to combat some of those issues in a non-partisan fashion, if we can, so if there's anything we can do, please let us know.</ParaText>
+              <ParaText id="8912871">In terms of the report, it was very comprehensive. I agree with my colleague's comments on that.</ParaText>
+              <ParaText id="8912872">It states that more than 60% of voter information cards were either mailed late or not at all. With labour disruptions and the general context of mail delivery these days, I'm skeptical that it is likely to improve going forward. In terms of the voter information cards themselves, if 60% can't be delivered on time, have they outlived their usefulness? What does Elections Canada recommend? Would you consider other types of delivery providers? That 60% figure not getting delivered on time is very high, in my opinion. </ParaText>
+              <ParaText id="8912873">Have you considered other options to get those cards out on time, or are they past their usefulness?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151273">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912874"> Thank you. That's a very rich question. I'll try to peel the different parts of the onion.</ParaText>
+              <ParaText id="8912875">Just to be clear, 60% were mailed late. That's after day 24, which the act provides. They should be in the mail on day 24.</ParaText>
+              <ParaText id="8912876">I believe it's something like 17%, a much lower figure, that arrived late. For me, “late” is after advance polls have begun. Of course, we want that to happen before advance polls, but it's critical that they be received before polling day. That's the first point.</ParaText>
+              <ParaText id="8912877">The second point is that it's not primarily a mail delivery problem. In this election, the challenge that we faced was not an inability to find polling locations but to confirm them. </ParaText>
+              <ParaText id="8912878">In many cases, what we see is that it takes a lot more time to negotiate leases. Whether it's school principals, school boards or commercial landlords with lawyers and boards that they report to, it's having to validate and approve the lease in a way that was not the case before. It's no longer a handshake or a phone call and a quick signature. It's a long process, and then the returning officer moves to plan B, and plan B is the same long process, and plan C is the same long process. The main challenge is securing polling locations in a timely way. </ParaText>
+              <ParaText id="8912879">That's why I said that when it's on a fixed date on the calendar, it's not a problem, but when it's outside of a fixed date, it really creates an important pain point.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151297">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912880">Thank you.</ParaText>
+              <ParaText id="8912881">I have a quick question about my constituency, because I know I'm running out of time in this round. </ParaText>
+              <ParaText id="8912882">I heard a lot—and again, I am a new candidate—about a couple of locations: Hobbs Manor, which is a seniors' residence in Brandon, and La Rivière in Cypress River. These are two communities that have had polling stations in them for time immemorial. Nobody can remember an election when they didn't have a federal polling station. Neither of those places had one this time. </ParaText>
+              <ParaText id="8912883">Has the population threshold to have a polling location changed as part of this election? Why would these long-standing communities that have always had a polling location not have one? </ParaText>
+              <ParaText id="8912884">Particularly in the two rural towns, it's a severe impact, because there is no public transit available in these communities to get to the next community for residents to be able to vote, etc., so it was a significant barrier for all of those locations.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151306">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912885">I do appreciate that. </ParaText>
+              <ParaText id="8912886">We did not raise the threshold in any way for locations for assigning polls. We had more polls in this election than in previous elections. The ability to find one that is suitable in the right location is where the challenge is. It's not about Elections Canada wanting to reduce the number of polls. It's quite the contrary. For me, especially on polling day, which is the last chance to vote, proximity voting has always been top of mind and is critical. That's one thing that we strive to achieve.</ParaText>
+              <ParaText id="8912887">On your initial question, we are looking at options. Voters can go online at any time and find their polling location, of course, once it's confirmed. They don't need to wait for their voter information card. </ParaText>
+              <ParaText id="8912888">We would like to allow electors to download their voter information card in digital format. That would not replace the paper one, because for some electors, that's just not an option. I do believe that over time, the paper voter information card may go away, but that's not for the immediate future. I think we need to have multiple layers as we move forward.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151317">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912889">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151318">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912890">Thank you so much.</ParaText>
+              <ParaText id="8912891">Go ahead, Ms. O'Rourke.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151320">
+            <PersonSpeaking>
+              <Affiliation DbId="317776" Type="2">Dominique O'Rourke (Guelph, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912892">Thank you, Chair Bittle.</ParaText>
+              <ParaText id="8912893">Having twice been a trainer for Elections Canada and once for Elections Ontario, I just want to thank everyone who works the elections. It's important for people to know that within a matter of days, the returning officers have to find the locations, start accepting ballots at their location and hire hundreds of people and train them. </ParaText>
+              <ParaText id="8912894">Effectively, there are a number of manuals. I know that I've gone through them myself and memorized them and been a troubleshooter on election day. It is a monumental task to pull together an election out of thin air. I want to thank you for your leadership and thank our returning officers and all of the folks who were the poll workers.</ParaText>
+              <ParaText id="8912895">Just out of curiosity, we know the advance poll this time was held on Easter weekend. Many of the faith communities that might hold polling stations did not do so this time. Was it situational that there was a challenge to secure enough voting locations, or is this an ongoing challenge? </ParaText>
+              <ParaText id="8912896">Also, did the new boundaries impact that at all? I know that in my riding of Guelph—which is the home of the robocall, as you may recall—there was some confusion around the new boundaries, and people who had always crossed the street to go to vote could no longer do that. Were those factors at all?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151326">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912897"> Broadly speaking, I would think not. </ParaText>
+              <ParaText id="8912898">Returning officers had to adjust to new boundaries, especially experienced returning officers who had established contacts in the past with certain locations. That was an adjustment. In Ontario in particular, because we used to share the boundaries with the province and we do share some of the returning officers, and because we had back-to-back elections, they had to move from one boundary to another and make adjustments, so there were challenges there. Speaking to the CEO of Ontario, he had a huge challenge confirming polling sites, and he didn't change his ridings. </ParaText>
+              <ParaText id="8912899">I don't think these are unique circumstances. I think we have to accept that the difficulty stems from a range of legal and social factors. Today, if a school principal has a badminton tournament organized in a school, they will not cancel it without consulting the parents or going to the council. They're reluctant to do that. Commercial landlords have lawyers, and they often own many properties, and they have standard processes that are not designed for the turnaround times we need during an election. I think it's an evolution of the real estate market for polls. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151347">
+            <PersonSpeaking>
+              <Affiliation DbId="317776" Type="2">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912900">I'd like to ask another quick question about ballots, which are extremely long and list the names of multiple candidates. Did you consider having a different official agent for each candidate? Could that be a solution?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151350">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912901">That's something that has been mentioned several times by a number of people. I'm not opposed to the idea, but I don't know whether it's a real solution to the problems we experienced. However, I don't think it's a bad idea to consider having an official agent, who's teamed up with one candidate, work solely with that candidate.</ParaText>
+              <ParaText id="8912902">In theory, the candidates compete against one other. It's a bit strange then for teams to use the same official agent within the same riding when candidates are supposed to be competitors.</ParaText>
+              <ParaText id="8912903">In principle, I'm certainly open to that suggestion. However, if we want to resolve the problems we identified, we need to go beyond that, and I think we also need to look at the double signature issue.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151355">
+            <PersonSpeaking>
+              <Affiliation DbId="317776" Type="2">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912904">We know foreign actors may attempt to meddle in democratic elections and undermine them. One of the ways that is increasingly happening is through deepfakes or artificial intelligence. </ParaText>
+              <ParaText id="8912905">Can you tell us why these threats need to be taken seriously? Should AI content made by or on behalf of political entities be labelled? How do you think the Canada Elections Act can be used as a tool to fight malicious uses of artificial intelligence in our elections?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151360">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912906">Thank you for the question. </ParaText>
+              <ParaText id="8912907">I made recommendations on that specific topic before the election in the context of the Hogue commission. I do believe there are adjustments that are warranted in the Canada Elections Act. For example, the impersonation rules contemplate a situation where someone presents themselves as somebody else but not where they present somebody else in a different context or saying or doing things they haven't done. There are adjustments that are required to deal with that. I do believe labelling of all synthetic content would provide greater transparency. That's also a recommendation I had. </ParaText>
+              <ParaText id="8912908">We did not experience, thankfully, significant amounts of disinformation using AI in this election. My understanding is that it may have been used more to promote content than to manipulate it. We did see, for example, a fake Le Journal de Montréal article saying that for those over 60, Elections Canada had moved the polling day to the Tuesday. That wasn't AI, but it was made to look like.... You don't need AI to do that. Thankfully, social media platforms were very quick to respond and pull that content down. I don't believe it had any impact whatsoever. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151381">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912909">We've completed two rounds of questions, so I'm going to suspend for a few minutes so we can do whatever we need to do. </ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151471">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912910"> Welcome back, everyone. </ParaText>
+              <ParaText id="8912911">We'll turn it over to Mr. Kram for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151474">
+            <PersonSpeaking>
+              <Affiliation DbId="319836" Type="2">Michael Kram (Regina—Wascana, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912912">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8912913">Thank you to the witnesses for joining us today. I especially thank you for your very detailed report on the 45th general election.</ParaText>
+              <ParaText id="8912914">I think election night is a very exciting and stressful time for candidates and Canadians alike. I'm sure everyone in this room was on the Elections Canada website on the evening of April 28. Unfortunately, when we needed it most, elections.ca crashed. According to page 18 of the report, it went down at 7 p.m. on election night, and it was not fully restored until just after 5 a.m. the next morning.</ParaText>
+              <ParaText id="8912915">I strongly suspect that even the most hard-core political junkies were fast asleep by 5 a.m., and there was probably a very large reduction in volume and traffic on the website by that late hour.</ParaText>
+              <ParaText id="8912916"> I was wondering if the witnesses could share with the committee what exactly went wrong with the website and what steps are being taken to make sure that it doesn't happen again. I hope the technical solution is not to just to wait until five o'clock in the morning, when people stop using the website.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151484">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912917">There are many elements to that question. </ParaText>
+              <ParaText id="8912918">To be clear, technically speaking, the website was not the problem. The web service provider that's behind the website.... Our systems were functioning, but people could not access them. </ParaText>
+              <ParaText id="8912919">There was a failure of a firewall that is set up by the private partner that provides the web services for us during the election. That firewall could not handle the spike we saw on election night—or throughout the election period, I should say. Throughout the election period, we saw double the visits to our website, and that was true as well on election night. They were more than double the number we had in the last two elections, when they were pretty stable. That caused the firewall to go into what we call “protection mode” and to stop the traffic from penetrating or to slow it down significantly, such that it was very difficult for most Canadians to get access.</ParaText>
+              <ParaText id="8912920">There are a couple of things. One is that, at that point, we had to identify the source of the problem. We were very quickly informed, working with the Canadian centre for cybersecurity, that it was not a cyber-attack. This was almost instantaneous. We knew that this was not the case.</ParaText>
+              <ParaText id="8912921">Our service provider, however, was not able to identify in real time the source of the problem. There are a few lessons learned from that event. Of course, from the service provider's point of view, they have augmented significantly the capacity of their firewalls. They've replaced the firewalls with much greater capacity, and doubled them.</ParaText>
+              <ParaText id="8912922">We've also introduced protocols whereby we will be monitoring the pre-election tests more actively. Rather than letting the commercial partner do its testing, we will want to be more involved in seeing the tests that take place. The service provider is very committed to that.</ParaText>
+              <ParaText id="8912923">We did have a couple of fail-safe solutions. One was that there's a separate channel that provides the results to the media consortium, so the results kept flowing through the media consortium to the media through a different channel. That's an important safety measure that we will, of course, maintain. Also, we have a replication of our website across the world on thousands of servers, except that there are two things about that replication. One is that it's a static website; we're looking into that. It provides information but not live information. In hindsight, we took too long to switch to that static website. We should have switched sooner.</ParaText>
+              <ParaText id="8912924">We're drawing lessons from that event and making sure it does not happen again.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151504">
+            <PersonSpeaking>
+              <Affiliation DbId="319836" Type="2">Michael Kram</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912925">This segues well into my next question about the live results that were still being distributed to the media. </ParaText>
+              <ParaText id="8912926">When I was declared the winner on election night, I did a screen print of the results, posted it to social media and said thank you to all the voters. When I checked the results the next morning, I was down 1,300 votes from the results posted on election night. Fortunately, my opponent was down by about the same number. In Terrebonne and in other ridings, we saw the results change from one day to the next. </ParaText>
+              <ParaText id="8912927">I was wondering if you could explain how it's possible to lose 1,300 votes from election night to the morning of the next day and why there are these discrepancies in the results being reported to the mainstream media.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151514">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912928">I'll have to look into that question more deeply in terms of losing votes, because that would be surprising.</ParaText>
+              <ParaText id="8912929">What is not surprising is that election night results do vary between election night and validation. That's why there's a validation. In fact, if you look at the Canada Elections Act, you see that preliminary results do not exist in the law. That's something that we provide as a matter of tradition, and Canadians and candidates very much want it. However, it has to be clear that on election night, with poll workers calling in results that are being hand-entered into systems late at night, fatigue and human error come into play. That's why the validation process is so important. There's always some variation between election night results and the validation. That is not unusual.</ParaText>
+              <ParaText id="8912930">We also sometimes see important swings in the vote, simply because, for example, a group of advance poll results may come in late at night from a part of the district that tends to favour one candidate. Then you can see a swing happening. Sometimes people are concerned about that, but it's not unusual.</ParaText>
+              <ParaText id="8912931">We will look into your situation, certainly, and we can talk about that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151527">
+            <PersonSpeaking>
+              <Affiliation DbId="319836" Type="2">Michael Kram</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912932">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151528">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912933">Mr. Al Soud, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151529">
+            <PersonSpeaking>
+              <Affiliation DbId="317941" Type="2">Fares Al Soud (Mississauga Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912934">Thank you, Chair.</ParaText>
+              <ParaText id="8912935">Thank you, Monsieur Perrault and Monsieur Roussel, for taking the time to be here with us today. I say with confidence that it means a lot to the members of this committee and to the millions who are watching this on CPAC right now, of course.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912936">Ms. Normandin said it perfectly: There's always room for improvement. I'm convinced we all agree on that.</ParaText>
+              <ParaText id="8912937">I have the honour of representing the Mississauga Centre community, and its citizens were extremely clear, in the last election, about their priorities. Every day, they continue to be extremely clear.</ParaText>
+              <ParaText id="8912938">I'm also a member of the Standing Committee on Canadian Heritage, so I'd like to take this opportunity to ask a few questions about misinformation and disinformation.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912939">We speak to the importance of local and public media in ensuring Elections Canada can address misinformation rather quickly. Could you speak to that as well, please?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151536">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912940">Yes. I think one of the successes of this election, from our perspective, was in preparing so many information products and making them available to the media so that they could use them. We really did see that. I don't have numbers here to share with the committee, but I was impressed in the early phases of the election at how the media would actively use the products that we made available to them. I had a sense that this was really working well.</ParaText>
+              <ParaText id="8912941">Many Canadians listen to local radio or read ethnic newspapers, so yes, there's a growing trend towards social media, but I think it's critical that we maintain the channels through other, more traditional media to reach different communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151542">
+            <PersonSpeaking>
+              <Affiliation DbId="317941" Type="2">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912942">Thanks for that.</ParaText>
+              <ParaText id="8912943">I also understand that there are special protections in place during election periods against misleading publications and undue foreign influence in broadcasting from outside of Canada.</ParaText>
+              <ParaText id="8912944">Could you explain what these are and whether you think these protections need to apply outside of specific election periods as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151544">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912945">I'll have to refresh my memory here, Mr. Chair.</ParaText>
+              <ParaText id="8912946">Of course, a range of provisions have been enacted regarding the undue influence of foreigners and the use of funds by a foreign entity to support a candidate or party or to oppose a candidate or party. Right now these provisions apply only during the election period. It's something that I mentioned earlier in my report from last fall. I did suggest that it be expanded to outside of the election period.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151551">
+            <PersonSpeaking>
+              <Affiliation DbId="317941" Type="2">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912947">Thank you so much.</ParaText>
+              <ParaText id="8912948">Ms. O'Rourke very kindly asked questions and made queries about AI broadly. I'm quite interested in AI and deepfakes, specifically in relation to foreign interference. Could you speak to what we do in order to disrupt these kinds of attempts?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151557">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912949">That's a challenging question.</ParaText>
+              <ParaText id="8912950">I think transparency is the greatest tool that we have. In my case, we are looking specifically at disinformation or misinformation in the electoral process, but of course deepfakes regarding candidates and parties and so forth also need to be considered for the integrity of the overall electoral process. That's why I think the law needs to be re-examined with that in mind.</ParaText>
+              <ParaText id="8912951">It's an evolving threat. There was concern raised by the Canadian centre for cybersecurity ahead of the election. They are playing catch-up, as is everybody else, in their ability to detect and identify synthetic content that may be misleading.</ParaText>
+              <ParaText id="8912952">I think platforms have an important role to play as well in making sure that they filter out synthetic content. They are the technical experts, and I believe they have a responsibility vis-à-vis that kind of content, especially in an election period.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151573">
+            <PersonSpeaking>
+              <Affiliation DbId="317941" Type="2">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912953"> Fantastic.</ParaText>
+              <ParaText id="8912954">My final question is on the recent election we saw. In the by-election we saw in Battle River—Crowfoot, the ballots were 97 centimetres long and 30.5 centimetres wide.</ParaText>
+              <ParaText id="8912955">Could you speak to the choice of having voters write in their names and what kind of impact this had on increasing the resources that Elections Canada had to allocate towards the election.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151581">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912956">In Carleton, where we had the long ballot with 91 candidates, we did have to send in people from headquarters. We believe around 40 staff members were sent in to facilitate the count and throughout the election period—to support the returning officer at nomination, for example.</ParaText>
+              <ParaText id="8912957">There was extensive hand-holding to support the work there. That's not something we could have done as well at a distance in Battle River—Crowfoot. The numbers were immensely superior, with not 91 but 214 names on the ballot, if I remember correctly, so we had to shift and take a different approach. We did have the write-in ballot. We did have staff on site to support the returning officer, especially for the confirmation of nominations.</ParaText>
+              <ParaText id="8912958">Overall, in hindsight, I think it worked well—but, as I said, it's not something I would want to do regularly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151590">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912959">Madame Normandin, you were excellent the last time, and your questions were exactly two and a half minutes. I haven't been keeping very many people close to that, so if it goes over, don't be too strict on the two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13151592">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912960">Thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151595">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912961">I've let you all go over.</ParaText>
+              <ParaText id="8912962">There were some eyebrows.</ParaText>
+              <ParaText id="8912963">
+                <B>Some hon members:</B> Oh, oh!</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13151596">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912964">Mr. Chair, thank you for this latitude. I know that sometimes I don't have time to start asking a question, but I tell myself I'll count on the latitude you grant me next time.</ParaText>
+              <ParaText id="8912965">Mr. Perrault, I'd like to come back to what happened in Nunavik during the last election. I understand the report has not yet been made public, but I'm going to try to get some details from you, if you'll allow me.</ParaText>
+              <ParaText id="8912966">Among the factors that may have contributed to the inability of some of the polling stations in Nunavik to open, the media noted the weather. There was also a situation in which election workers arriving by plane realized, upon arrival, that they didn't have the election materials needed to allow the polling station to operate.</ParaText>
+              <ParaText id="8912967">On one hand, I'd like your opinion on the balance that needs to be struck between planning for the unpredictable and the need to properly communicate what's happening.</ParaText>
+              <ParaText id="8912968">On the other hand, I find it a bit strange that workers noticed upon arrival that the required materials hadn't been sent, without being informed beforehand. I'd like you to speak broadly about the need for proper communication to resolve problems in regions where there are many challenges, namely weather conditions and difficulties related to remoteness that don't exist in major urban centres.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151637">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912969">I'll answer your question in a bit of a general way.</ParaText>
+              <ParaText id="8912970">Weather-wise, it's clear that storms should be expected in regions like Nunavik. These things happen. It's risky to send election workers to those regions at the last minute.</ParaText>
+              <ParaText id="8912971">Canada has a business model in which neighbours serve their neighbours. That's true throughout urban centres, but it's even more true in remote regions. It's essential for there to be local resources on site to support voter services. That doesn't always come to pass, for example, if on-site hiring was unsuccessful, so workers have to fly in sometimes. However, that has to be done as a last resort. That's the first lesson learned.</ParaText>
+              <ParaText id="8912972">Having people on site helps with avoiding those risks and understanding what's happening locally. It's very hard to get real-time information on what's happening on election morning when we don't have workers on site. Many issues stem from the lack of on-site resources. There should be community relations officers in every community. That's one of our requirements. Those officers can help us in situations like that. They also have to take part in the recruitment effort. However, that has to be done before the election. There's risk involved if that isn't done.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151652">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912973">Next is Mr. Cooper for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151667">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912974"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912975">I want to follow up on Mr. Maloney's questions with the respect to verifying the validity of signatures for nomination papers of candidates. Just so I'm clear, is it the case at present that there is no verification done by Elections Canada and that when signatures are presented on the forms, they are taken at face value? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151672">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912976">To be clear, there is no counter-information. We don't have, on record, the signatures of all Canadians to make that comparison, nor would the returning officers have the expertise. Signatures can change. The very concept of verifying each and every signature to make sure each one is authentic is one that is incompatible with the nature of the process.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151675">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912977">If they're taken at face value....</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151677">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912978">There's a verification that these electors reside in the electoral district and that the numbers are correct. If there are allegations of fraudulent behaviour, then that can be addressed in the context of an investigation. That takes a lot more time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151680">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912979">Why not verify or audit signatures? There was evidence, for example, in the case of the longest ballot committee, that organizers were going around with nomination forms, and at the top, the space for the name of the candidate was blank. </ParaText>
+              <ParaText id="8912980">Now, not anyone can go out and collect signatures; you actually have to be authorized by someone running to do that. What would be difficult for Elections Canada in simply undertaking some kind of audit? I don't necessarily mean going through each and every person who signed, but picking up the phone, knocking on the door or communicating in some way to verify that the individual who appears to have signed the paper did sign the paper, and they did sign it understanding that they were endorsing a specific individual whose name they wished to appear on the ballot.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151697">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912981">There are just a couple of points to answer, hopefully, your question.</ParaText>
+              <ParaText id="8912982">On the issue of blank names at the top, the name of the potential or prospective candidate has to be ascertained. There cannot be a blank cheque. We have refused, in past elections.... The initial iterations of that initiative involved having a blank cheque. It was basically people signing on without an identified candidate. That is not acceptable. It has to be a known candidate, identified to the person who signs to support the nomination of that candidate.</ParaText>
+              <ParaText id="8912983">On the issue of verification, as I said, we do not have signatures of Canadians on record, so there's nothing to compare to. It would really require an investigation to find out if these were false signatures. That is not something we would do lightly, I don't think, if there was any suspicion that there was fraudulent conduct in those long ballot initiatives. </ParaText>
+              <ParaText id="8912984">We have no information that people forged signatures. If there was such information—credible information or credible suspicion—we would refer that to the commissioner.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151713">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912985">It's not necessarily forged signatures. If you present someone with 10 different papers and ask them to sign 10 different times, and then, after the fact, the name of a candidate appears at the top of that form because the form has been altered after the signatures have been collected, then that raises questions—does it not?—about the validity of that candidate and whether there was compliance with the Canada Elections Act.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151721">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912986">It certainly does, but I am not aware of any evidence to that effect.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151724">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912987">Perhaps you should be and perhaps that evidence will be presented, if you haven't seen it.</ParaText>
+              <ParaText id="8912988"> It speaks to the fact that.... What would be so difficult about Elections Canada calling or using some sort of mechanism, some sort of verification process, when you have these types of situations? Whether they existed in the longest ballot committee or in other circumstances, they could quite easily be detected. It wouldn't take very long to realize that this has been going on. </ParaText>
+              <ParaText id="8912989">Wouldn't it also serve as a deterrent if there was some knowledge or awareness that Elections Canada was actually verifying that the act was being complied with? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151741">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912990"> Again, I have no information that would suggest that there was unlawful conduct taking place, either by the leaders or organizers of the longest ballot campaign or by the voters who signed.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151746">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912991">That's immaterial. I asked about—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151748">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912992">If I may—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151749">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912993">Mr. Cooper, you're over time.</ParaText>
+              <ParaText id="8912994">Again, given the grace of the amount of time we have, Mr. Perrault, finish answering your question, and then we'll move on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151753">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912995">In a nutshell, my opinion is that the committee should be left alone. Until we have reasons to suspect their behaviour, we shouldn't bother them with questions that put into question the authenticity of their behaviour. There needs to be something to start with.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151756">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912996">Thank you so much.</ParaText>
+              <ParaText id="8912997">Ms. Idlout has the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13151758">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout (Nunavut, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912998">
+                <I> Qujannamiik, Iksivautaq</I>. Thank you to the committee for including me in this important study.</ParaText>
+              <ParaText id="8912999">Mr. Perrault, I've appreciated all of your responses and all of the work that you've done to make sure that my constituents have an opportunity to vote. It's such an important right.</ParaText>
+              <ParaText id="8913000">I'm going to be asking you about four or five questions related to different phases of the election. I'll be kind of ping-ponging, just so you know.</ParaText>
+              <ParaText id="8913001">My first question to you is regarding the voter information cards. </ParaText>
+              <ParaText id="8913002">In your report, you stated that you had to use subsection 17(1) of the Canada Elections Act to allow recognition of individuals who wanted to vote. I'm wondering if you foresee the need to change that section, given this Liberal government's position on Canada Post and the labour dispute, and how that might impact voter information cards from being mailed in a timely manner. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151778">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913003"> As I said earlier, we are exploring various delivery channels for voter information cards. I'm aware that the issue of connectivity in Nunavut can be a challenge in some places. Whether downloading a card would be available to some of your electors is a question that we certainly have to look into.</ParaText>
+              <ParaText id="8913004">It is a challenge. In the case of Nunavut, challenges with confirming locations delayed the sending of the VIC. That has nothing to do with Canada Post. Our challenges are, I would say, inherent to the delivery of postal parcels or mail in such a large region, where weather incidents can of course happen and delay the vote.</ParaText>
+              <ParaText id="8913005">I think there are a mix of factors, and we can expect those factors to happen again in future elections. That's why there has to be a range of mechanisms to inform electors of the voting locations and the times to vote, rather than just relying exclusively on the voter information card.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151794">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913006">Thank you so much.</ParaText>
+              <ParaText id="8913007">I know that you, more than most, will understand the challenges that I experience as the MP for Nunavut. Nunavut is such a huge territory, with all 25 communities being fly-in communities.</ParaText>
+              <ParaText id="8913008">I specifically want to ask about the northernmost community, Grise Fiord. As you'll recall, they did not get to open their polls until about two o'clock. I wonder if you could describe, very quickly, the circumstances that led to the challenges for voters in Grise Fiord in being able to vote on that day. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151800">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913009">Very quickly, I think very few Canadians appreciate the challenges that you face and that our returning officer faces in Nunavut with the immensity of the territory.</ParaText>
+              <ParaText id="8913010">I believe that in Grise Fiord the issue was with the late delivery of the material, due to the weather situation, which must include the list of electors with the struck names. That is something that cannot be delivered many days ahead of polling day; it's something that comes in fairly late in the days leading to polling day. If there's an important delay, it can reduce the number of hours at the vote. I believe that's what happened in Grise Fiord.</ParaText>
+              <ParaText id="8913011">Mr. Roussel...?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151808">
+            <PersonSpeaking>
+              <Affiliation DbId="206761" Type="28">Michel Roussel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913012"> It was, indeed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151811">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913013">Okay. Thank you so much.</ParaText>
+              <ParaText id="8913014">I wonder what the legislative restraints are for ensuring that those kinds of physical restrictions are avoided so that there are creative ways of ensuring that, for example, we'll know by election day who the candidates will be and how people can ensure that they can practise their right to vote, knowing that weather delays or mechanical delays will always happen, no matter what time of year elections are happening.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151820">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913015">I wish I had a good answer for you. I don't have a perfect answer. </ParaText>
+              <ParaText id="8913016">As I said earlier, I think the delivery of materials, generally speaking, is something that can and must be arranged ahead of time. It requires people from the communities working on the ground, and that is sometimes a challenge. I'll be honest: Recruitment in some parts of Canada, including Nunavut, can be difficult, but having people on the ground and being able to send the material ahead of time are critical. </ParaText>
+              <ParaText id="8913017">As I said, the one item that cannot be sent much in advance is the final list of electors, which has the names from the advance polls that have been struck from the list. Until we have live electronic lists—and there are probably limitations to that in Nunavut—I'm not sure what the answer is, but it's certainly something that I will be considering.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13153082">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913018">Thank you so much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151838">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913019">Thank you so much.</ParaText>
+              <ParaText id="8913020">I'm canvassing the committee. It's 12:32. I'm happy to hear thoughts. We've gone through three full rounds. I propose that we go through a fourth and call it a meeting.</ParaText>
+              <ParaText id="8913021">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8913022">
+                <B>The Chair:</B> Excellent. Okay—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151842">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913023">If I may, I do have some more questions if the committee doesn't mind.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151849">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913024">We will sort through that. I will canvass the committee members while we continue with questions. </ParaText>
+              <ParaText id="8913025">I believe Mr. Jackson is next.</ParaText>
+              <ParaText id="8913026">
+                <B>A voice:</B> [<I>Inaudible—Editor</I>]</ParaText>
+              <ParaText id="8913027">
+                <B>The Chair:</B> It's up to you. I have Mr. Jackson and then Mr. Van Popta, as the second Conservative in the round. If you'd like to flip that, that's entirely up to you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151854">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913028"> Thank you, Chair. I'll try to keep these questions very brief. </ParaText>
+              <ParaText id="8913029">According to your report, there were 57,440 ballots cast by electors living outside of Canada and voting by mail. That is a significant increase from the 27,035 cast in the 44th general election. </ParaText>
+              <ParaText id="8913030">I'm wondering if you would be willing to submit to the committee a breakdown of the electoral districts in which these ballots were counted. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151861">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913031">Certainly. That's something I can commit to providing after this discussion. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151863">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913032">That's wonderful.</ParaText>
+              <ParaText id="8913033">All three measures of quality for the list of electors—coverage, currency and accuracy—were lower for this election than in the previous general election. In fact, I think they were lower than the election before that as well, so accuracy has been trending down in these three categories since 2019. </ParaText>
+              <ParaText id="8913034">What are the causes of that? Do you think those trends are acceptable in delivering a fair and secure election? What are you doing to address the downward trend of those indicators? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151871">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913035">I certainly agree that the quality of the list is critical to the quality of the election, both in terms of making it accessible and to the integrity of the process. That's something that's important.</ParaText>
+              <ParaText id="8913036">At the election, we had coverage of 95.2%. That is very slightly lower than in past elections and is very comparable, and we had an accuracy of 92.2%, which again is slightly lower. If you compare that to 2019, which was a fixed-date election, coverage was slightly higher, at just over 96%, because we have the ability in a fixed-date election to do information campaigns ahead of the election and to promote people to register ahead of time and either add themselves or remove themselves if they have moved.</ParaText>
+              <ParaText id="8913037">It is not at all surprising that you would see a difference between fixed-date elections and non-fixed-date elections. The numbers that we have here are comparable and are historically on the high end of accuracy and coverage for the national register of electors.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151885">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913038">Thank you.</ParaText>
+              <ParaText id="8913039">Just to follow up on that, in comparing the numbers from 2021 to this election—both of which were non-fixed-date elections—we see that they're still less this time around than in 2021.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151890">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913040"> Yes. In 2021, we may have carried over a bit of the benefits. The differences between 2021 and 2025 are marginal. They're more significant between fixed dates 2019 and 2025. It's likely, I would speculate, that we carried over some of the benefits of the 2019 election into 2021, whereas we have a longer time period here between the two elections, between 2021 and 2025. There's a bit of a slight degradation of the coverage and accuracy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151898">
+            <PersonSpeaking>
+              <Affiliation DbId="206761" Type="28">Michel Roussel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913041">If I may, the safety net during the election is the revision. Any elector can go to our website, call the office of the returning officer and get the record updated, if needed. We had 1.3 million electors in the last election who did so, which is in line with but a little more than we had in the 44th general election, to your point, but it is way less than the 2.8 million we saw at the inception of the national register of electors 20 years ago.</ParaText>
+              <ParaText id="8913042">The long arc of history, if I may say, goes in the right direction with respect to the coverage, currency and accuracy of the national register of electors.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151910">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913043">Thank you.</ParaText>
+              <ParaText id="8913044">For my final question, your report talks about disinformation, as you mentioned, particularly on social media and elsewhere, and the set-up of a web page in many different languages that talks about interference in elections and what pressure in elections would look like and that type of thing. I'm just wondering how much activity that section of your website got during this election, with voters coming forward and saying, “I think I might have been influenced” or this type of thing.</ParaText>
+              <ParaText id="8913045"> What does the process look like when you, as Elections Canada, get reports from people who are concerned about activities taking place that are pressuring people during elections? Where do you take that information? What does the process look like to ensure those potential threats to a voter or voters are taken seriously and addressed?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151923">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913046">Thank you.</ParaText>
+              <ParaText id="8913047">Just to be clear, the multimedia campaign in 50 languages is about information, the basic information about the electoral process. It helps to fight disinformation, but it's different from the information on our website, such as, for example, ElectoFacts, which I mentioned earlier and is there specifically to correct misinformation or disinformation.</ParaText>
+              <ParaText id="8913048">There are different tools that we have in place to promote correct information. As I said, we have a social media monitoring team. When we see incorrect information, we have pre-approved responses that are prepared and ready to go, and we can use our social media platforms to communicate directly to those voters on those platforms.</ParaText>
+              <ParaText id="8913049">When something new arises that is not captured by our pre-existing message, there's an escalation process and a decision is made. In some cases, you have to decide whether an intervention would provide greater attention to someone who's posting than not and measure the risk to the process that the misinformation carries. There's a judgment as to when we intervene and with what kind of information.</ParaText>
+              <ParaText id="8913050"> We always want to be factual and never provide opinions. We never say, for example, “This is why you can trust elections.” We say, “Here are the safeguards.” We let people make up their minds. There's judgment as to what kind of language we use, but there's a process in place for the team to escalate if they're new and not pre-approved messages.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151950">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913051">Thank you so much.</ParaText>
+              <ParaText id="8913052">Mr. Maloney, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151952">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913053">Thank you, Chair. You owe me two seconds from the last round.</ParaText>
+              <ParaText id="8913054"> I have a question about local returning officers. </ParaText>
+              <ParaText id="8913055">My understanding is that the Canada Elections Act requires that the names and addresses of returning officers be published in the Canada Gazette, which I think creates a privacy concern, a safety concern.</ParaText>
+              <ParaText id="8913056"> Connected to that, going back to the longest ballot issue and recognizing that most of these people who put their names on the ballot are there to create mischief, this gives them access to the voters list. What protections or safeguards are in place to make sure those people are not using the voters list to, for example, find my address and my home so that they can put a protest group together and come and disturb my neighbours, or any other thing they may be up to? Once you recognize that they're not there for legitimate purposes, I think you then have to build in extra safeguards to protect against that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151971">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913057"> I have two points.</ParaText>
+              <ParaText id="8913058">First, on the safety point, I agree. That is something I have recommended: that the address of returning officers not be published. I don't believe that it serves a compelling purpose, and there are concerns that have been expressed by returning officers about their safety. We've seen that in other jurisdictions—the U.S., for example—and this was something that I believe was included in Bill <Document DbId="12954447" Type="3">C-65</Document> in the last Parliament. Hopefully, it could be revived.</ParaText>
+              <ParaText id="8913059">Access to the preliminary list is not open to unconfirmed candidates. It is open to the parties that ran candidates in the last election. I did make a recommendation that it be restricted to the ridings where the party ran a candidate, or that once they have a candidate in the election, of course, they have access to that. Independent candidates, as we have with the longest ballot committee, do not receive the list of electors until they're confirmed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151988">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913060">Okay. That's good to know. Thank you.</ParaText>
+              <ParaText id="8913061">I want to follow up on the point that Mr. Cooper and I were both making earlier about the signatures issue. Do you speak to your counterparts provincially—in my case, I'm interested in whether you've spoken to the chief returning officer in the province of Ontario—to determine whether they have done any audits or have any mechanism or process in place to verify or validate signatures?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151993">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913062">I have had that discussion with Mr. Essensa, the chief electoral officer for Ontario.</ParaText>
+              <ParaText id="8913063"> I know that he has faced a situation—I don't have all the facts and I want to be prudent here—with potentially fraudulent signatures. He has investigative powers, which I do not have, and I believe some action has been taken. I don't want to speak beyond that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152000">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913064">Okay. I would be curious to know if you could speak to him and get back to us on that point, because I feel strongly that there needs to be some verification process on the signatures.</ParaText>
+              <ParaText id="8913065">On Mr. Cooper's question about not having the name on the top of the form, I think you'll find that a lot of these candidates in these longest ballot scenarios have the exact same list of signatures. There's probably a situation where they're given 10 or 20 pieces of paper without the names of the candidates at the top of the papers and they just sign them all blankly. By the time they get into the hands of the returning officer, they have names on them. From your perspective they're legitimate, but I would suggest that having identical signatures across the board raises enough red flags for you to investigate.</ParaText>
+              <ParaText id="8913066"> We wouldn't be having this discussion if it weren't for the longest ballot situation. When you just have a normal situation where people are signing candidates' forms...that happens all the time. I'm asking that you consider this and take some steps that are proactive on this.</ParaText>
+              <ParaText id="8913067">My next question, however, is related to poll clerks and the district returning officer. In my years of experience, when you go to vote, you check in with one person, they cross your name off a list and the person beside them then hands you your ballot. In this most recent election, you reduced those two jobs into one, which, with the massive increase and interest in early voting, created long lineups. Are you considering going back to the two-person system?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152025">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913068">We do offer flexibility to the returning officers based on the situation they face. In some cases, I would suggest that the lineups would have been longer had we had two poll workers, because we would have had half the tables being served. It is a bit more stress on the poll workers to do all the tasks alone, but it did allow us to open up more desks, more tables, to serve more electors during the advance poll. There's a balance to be had there, depending on the circumstances.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152036">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913069">It's the same number of people and just a different number of tables. Is that what you're saying?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152041">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913070">That's correct. My view is that you can serve more electors in this way.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152043">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913071">I would think that the lineups might lead to the opposite conclusion.</ParaText>
+              <ParaText id="8913072">Okay. Quickly, here's my last point, because I know I'm running out of time. Redistribution caused a bit of an anomaly too, because with the increased interest in early voting, people can go and write in the name of a candidate before the final list is provided.</ParaText>
+              <ParaText id="8913073"> I had a situation—and many people did—where I'd go and knock on a door and people would say, “Oh, I voted, but I voted for the guy who used to be the MP here. I didn't know you were the new candidate.” There's no remedy for that. In a world where people are winning elections by one vote or 10 votes or 16 votes, these things matter. People had the intention of voting for one candidate, but they got the name wrong because of redistribution and they weren't aware of it.</ParaText>
+              <ParaText id="8913074">Is this something that can be remedied? You have 10 years to do it, but is this something that you can look into and try to fix?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152052">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913075"> I suppose the only remedy to that would be to allow voters to cast their vote by identifying the party name, as opposed to the candidate. It's something I considered in a previous recommendations report. I understand that it is far from unanimous, and I can understand why. There's no clear good or bad answer in that regard.</ParaText>
+              <ParaText id="8913076"> Some jurisdictions, such as British Columbia, do allow that, and it does allow people to cast their special ballot sooner. It does, in that manner, reduce the number of late ballots. That's the spirit in which I made that recommendation. Of course, it also reduces the number of spoiled ballots, as in your example.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152063">
+            <PersonSpeaking>
+              <Affiliation DbId="319664" Type="2">James Maloney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913077"> Thank you.</ParaText>
+              <ParaText id="8913078">Do I have time left, Mr. Chair?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152066">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913079">No, you're well over.</ParaText>
+              <ParaText id="8913080"> Thank you. They were very good questions, as they all have been.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8913081">Ms. Normandin, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152068">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913082">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8913083">Mr. Perrault, I understand that certain challenges prevent the timely delivery, in some cases, of the voter information card that indicates the advance polling station and the regular polling station.</ParaText>
+              <ParaText id="8913084">However, without replacing these cards, is there something that could be very quickly sent to citizens right at the start of the election, given that the government already has the voters list and that, in some cases, the government already knows the contact information for the polling station? This document could provide relevant information. For example, it could tell the person that if they haven't received their voter information card by a certain date, they have to call the polling station to get the information on where to vote. There could also be a QR code that leads to the Office of the Chief Electoral Officer's website, since not everyone is familiar with it.</ParaText>
+              <ParaText id="8913085">At the start of the election campaign, would it be possible to consider combining the digital portion with a very quick sending of a card that bears the voter's name but doesn't necessarily include all the information?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152081">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913086">Not only is it being considered, but it already exists. We send each household a document stating, as you suggested, that if you live there, are a voter and haven't received your voter information card, you have to call or go online, since all the information is available online.</ParaText>
+              <ParaText id="8913087">The voter information card has some additional benefits. It's a reminder that people often put on their fridges. It's also a document that can be used as proof of address, but you also have to have another piece of identification in hand, for voters who don't have a driver's licence or a bill in their name, for example. There are advantages to having the document, but all the information is available. We run advertising campaigns and mail households so that people can check their registration. In some cases, it isn't because there's a delay; it's simply because they've moved and aren't registered to the right address. That leads them to correct the information in the register.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152098">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913088">I don't remember it very well, but does that card identify the voter's name?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152102">
+            <PersonSpeaking>
+              <Affiliation DbId="206761" Type="28">Michel Roussel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913089">The voter information card does, but not the document that's sent to each address.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152105">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913090">In the future, could you consider using a QR code, for example, that would refer to the website of the Office of the Chief Electoral Officer and indicate the location of advance polling stations and regular polling stations, among other things?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152109">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913091">I think that's already the case. I should know, but I'll make sure.</ParaText>
+              <ParaText id="8913092">In fact, that's something that can be done. There are QR codes in a lot of communications products. I'd be surprised if there weren't any in this one as well, though I stand to be corrected.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152128">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913093">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152131">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913094">Thank you so much.</ParaText>
+              <ParaText id="8913095">Mr. Van Popta.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152134">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913096">Thank you.</ParaText>
+              <ParaText id="8913097">In your report, you highlight some initiatives that were designed to increase voter participation, and you probably were successful in doing that: advance polling, for example, and voting by mail, special ballots and voting on campus. Forty-four per cent of electors voted ahead of time, before voting day, which is a very big increase and shows enhanced voter participation. I would agree with that. That leaves 56% of the people voting on voting day.</ParaText>
+              <ParaText id="8913098"> Do you feel that enough attention was paid to making it convenient for voters on voting day? I ask that question in the context of what happened in another neighbouring riding, Cloverdale—Langley City, where 90 to 100 polls were all in one location. It was a big public building and it was very convenient for Elections Canada to be able to do that, but maybe not so convenient for voters, some of whom had to drive farther than they were accustomed to driving and in a heavy traffic zone.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152146">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913099">It's an important question. I'm always very attentive to the issue of proximity. For many voters, it's critical.</ParaText>
+              <ParaText id="8913100">As we've seen over the last 25 years, voters migrate from ordinary polls to advance polls. We have not reduced correspondingly the number of polling divisions at ordinary polls. There are fewer voters today, way fewer, close to half.... I'll let Monsieur Roussel correct me here, but there are way fewer voters today per polling division than there were in the past.</ParaText>
+              <ParaText id="8913101">This may or may not translate to more polling sites. If you have a megapoll with 10 or 15 tables, then this may or may not, depending on the riding. If it's a suburban area, with the local schools you can easily have 10 tables, and they're all neighbouring, but there are circumstances where a large poll creates proximity problems. This is something that returning officers are well aware of, and they strive to make the poll sites as accessible as possible. However, as I said, the capacity to secure polling locations is increasingly difficult in that sense in some cases.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13152171">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913102"> Even with large numbers of public schools—and I'm talking about a fairly urbanized riding—there will be elementary and high schools all over the place.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152172">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913103">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152173">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913104"> Why not use those more?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152174">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913105">We would love to use all the schools. That would be fantastic. My provincial counterparts in most provinces have a statutory right of access to schools. In Ontario, they don't even pay for the schools. That's not what I'm asking for, but they have that right. I don't, with education being a provincial jurisdiction.</ParaText>
+              <ParaText id="8913106">We have seen a decline in the percentage of sites that are schools over the years. It went even lower during the pandemic and has gone back up. We're now at 22%, but it was significantly higher in the past. Schools are very convenient proximity places for electors. Unfortunately, parents are increasingly concerned about security or increasingly concerned about their children's activities that are planned at the school on the weekend. That puts principals in a difficult situation, and in some cases, they simply do not wish to have polls at the schools.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152181">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913107">I have a follow-up question on voter participation.</ParaText>
+              <ParaText id="8913108">In the report, you make the point that it improved substantially in this recent election—up to 69% voter participation—which is the highest, as you note, since 1993. However, I did some quick research into voter turnout throughout Canadian history, and in 1958, for the Diefenbaker landslide, it was 75%. It stayed above 70% for a long time, and then it started to slip down, and now it has been a while since it has been above 70%. I'm not usually a “glass half empty” person, but 69% means that 31% didn't vote. That's 9.8 million people.</ParaText>
+              <ParaText id="8913109">First of all, do you have that broken down into demographics? Who is voting, and who is not voting? Are older people not voting? Are younger people not voting?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152189">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913110">We'll have that information later on. We do not have it at this time, but it will be compiled. Some demographics, for example, are not as accurate. For example, for ethnolinguistic communities, we don't have that data, but for age, we do. Certainly, we'll have more information on that.</ParaText>
+              <ParaText id="8913111">It is important to remind everyone that our mandate does not include promoting participation. That's the role of other players, including yourselves and your competitors. Our role is to make sure that services are available and that information is there for electors to exercise their rights, if they so wish. Of course, we're always happy to see a high participation rate, but that's not something we have a mandate to promote. We have to make sure we can provide the services. We saw in this election, with the high turnout and the migration to advance polls, the implication that this has for us.</ParaText>
+              <ParaText id="8913112">When I speak of the turnout in my report and in my remarks, I'm looking at it largely from the angle of whether we can meet that service demand. As it shifts in time during a period, I'm looking at what the implications are for us to meet that mandate of offering services to Canadians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152211">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913113">Thank you very much.</ParaText>
+              <ParaText id="8913114">Mr. Al Soud, go ahead please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152214">
+            <PersonSpeaking>
+              <Affiliation DbId="317941" Type="2">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913115">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8913116">I will be sharing my time with my colleague and good friend Ms. O'Rourke.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152216">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913117">Okay. I won't cut you off at the halfway mark. I'll try to give you a signal, but that's up to you to sort out.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152217">
+            <PersonSpeaking>
+              <Affiliation DbId="317941" Type="2">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913118">That's perfectly fine. Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8913119">I'll get right into it.</ParaText>
+              <ParaText id="8913120">It's no secret that I'm a big proponent of open banking. I'm quite interested in the cryptocurrency space. I promise there's a point to this. It's also no secret that I'm a big proponent of government and electoral transparency. We all know that Canada's political financing regime is strong. We know there is room for improvement. Can you share your thoughts on whether we should ban political entities and third parties from accepting crypto, money orders and prepaid payment products, and if so, why? </ParaText>
+              <ParaText id="8913121">What challenges need to be addressed to strengthen our political financing regime?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152224">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913122">The problem with those instruments is that they do not provide transparency as to the original source of the contributor. A key principle of our system is that we know where the money comes from. There's no, in my view, valid reason to use a prepaid instrument, a prepaid credit card, to provide money to a candidate or to a political party. These tools may have a very valid purpose otherwise in our economy, but in terms of financing parties and candidates, I do not believe they are appropriate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152232">
+            <PersonSpeaking>
+              <Affiliation DbId="317941" Type="2">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913123">Given that quick response, I will take the time to ask my second question. It goes back to my heritage interest. I know that Mr. Louis is also quite interested in this one.</ParaText>
+              <ParaText id="8913124">Could you expand on the process of sharing information with local journalists and media outlets? What does that look like on the ground and on a day-by-day basis?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152235">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913125">If I had my media relations person here, she would provide much greater detail to that. We have regional media advisers, during the election, who are in contact with all the news outlets and radio stations in the different communities, so they are able to respond to that and support it. Of course, we provide prepackaged pieces of information to help them and to help those media outlets share the information about the voting process. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152240">
+            <PersonSpeaking>
+              <Affiliation DbId="317941" Type="2">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913126"> Thank you, once again. I appreciate it.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152241">
+            <PersonSpeaking>
+              <Affiliation DbId="317776" Type="2">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913127">Thank you, my friend.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8913128">In the November 2024 Elections Canada report, “Protecting Against Threats to the Electoral Process”, you recommended that the Canada Elections Act needs to more clearly prohibit third parties “from using property or services” from foreign entities “for regulated activities”. </ParaText>
+              <ParaText id="8913129">Could you explain what that means and what the intent is behind your recommendation?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152247">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913130">I made a number of recommendations regarding the funding of third parties, including the fact that entities that receive more than 10% of their funds from contributions should have distinct bank accounts to provide money. That is one aspect that was included in Bill <Document DbId="12954447" Type="3">C-65</Document>.</ParaText>
+              <ParaText id="8913131">I did recommend also that we clarify rules against non-monetary contributions—the providing of a service or a good to a third party by a foreign entity—so as to not just capture monetary contributions but also non-monetary contributions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152252">
+            <PersonSpeaking>
+              <Affiliation DbId="317776" Type="2">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913132">I have a municipal background. In every cycle for a municipality, we look at voting methods. In Ontario in the last election, a number of municipalities went to online voting.</ParaText>
+              <ParaText id="8913133">I want to ask a question. I believe that paper ballots are the safest method currently, especially when it comes to the need for a recount. I'm just wondering if you could tell us, and Canadians, what the state of research is on alternate electoral methods, whether that is online or using tabulators, which are not connected to the Internet, clearly. What other models are you looking at? </ParaText>
+              <ParaText id="8913134">Also, if and when there are any recommendations, do you come back with costed recommendations for that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152261">
+            <PersonSpeaking>
+              <Affiliation DbId="242729" Type="28">Stéphane Perrault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913135">There is not a unique way of voting that is the best way of voting. It depends on the jurisdiction and the circumstances, for example, whether it's a school board election in a remote area, where online voting may make a lot of sense, given the low risks in that area and the challenges that it faces. However, at a national level, I'm a firm believer that we should not move to online voting. I believe that the paper ballot is critical, not only to the integrity but to the trust of Canadians in the integrity of the process. Canadians need to feel confident about their elections. I do not see that confidence at the federal level for online or electronic modes of voting.</ParaText>
+              <ParaText id="8913136">Now, that's a very different proposition than tabulation. Tabulation can be effective, secure, audited and replicated. It involves the use of a paper ballot that is scanned, but it does not destroy the paper ballot. There are many good uses of tabulation, and many provincial jurisdictions use tabulation. We do not, and I'm not looking at that for the moment. I have no plans to move toward tabulation, but that is something that could be considered.</ParaText>
+              <ParaText id="8913137">The geography that we have puts limitations on the distribution and the value proposition of sending tabulators. Even jurisdictions that use tabulation—Ontario is one—only use it in urban and suburban areas. They would not send a tabulator to a remote area. There's no business case for that. In urban centres, they would not use a tabulator in a condo building with a single poll; that just doesn't make any sense from a monetary point of view. Even when you go to tabulation, wall-to-wall tabulation is not something that exists in most jurisdictions.</ParaText>
+              <ParaText id="8913138">I'm not sure that I remember the last question that you had.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="13" Mn="00">(1300)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152304">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8913139">In any event, the time is up.</ParaText>
+              <ParaText id="8913140">I'd like to thank the witnesses.</ParaText>
+              <ParaText id="8913141">We are adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

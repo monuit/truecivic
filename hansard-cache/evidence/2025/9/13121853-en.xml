@@ -1,0 +1,924 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13121853">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Transport, Infrastructure and Communities</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, September 18, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 18 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Transport, Infrastructure and Communities</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 18, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">18</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/18 08:20:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des transports, de l'infrastructure et des collectivités</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Transport, Infrastructure and Communities</ExtractedItem>
+    <ExtractedItem Name="Acronyme">TRAN</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Peter Schiefke</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote">PUBLIC PART ONLY - PARTIE PUBLIQUE SEULEMENT</ExtractedItem>
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="08" Mn="55">(0855)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13122085">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair (Peter Schiefke (Vaudreuil, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908728"> I call this meeting back to order.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908729"> Mr. Barsalou‑Duval, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13124336">
+            <PersonSpeaking>
+              <Affiliation DbId="320561" Type="40">Xavier Barsalou-Duval</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908730">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908731">I sent a motion to the clerk this morning. Perhaps he could distribute it to the committee members. It reflects discussions that I've had with many people. I assume that everything should be fine.</ParaText>
+              <ParaText id="8908732">It reads as follows:</ParaText>
+              <ParaText id="8908733">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">That the Standing Committee on Transport, Infrastructure and Communities establish an agenda structured as follows:</QuotePara>
+                  <QuotePara IndentFirst="3" IndentRest="4">a. The committee immediately requests that the Chair and the clerk, in accordance with the motion adopted on August 1, 2025, make public all documents received from the organizations listed. These documents shall be published on the committee's website and distributed in a press release through the Press Gallery Secretariat:</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="4">1. Office of the Prime Minister</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="4">2. Privy Council Office</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="4">3. Canada Infrastructure Bank</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="4">4. The Department of Housing, including the office of the responsible minister</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="4">5. The Department of Transport, including the office of the responsible minister</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="4">b. As part of its study on the Canada Infrastructure Bank's financing of new vessels for BC Ferries, the committee will hold three additional meetings and call the following witnesses:</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">1. Davie Shipyard</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">2. Ocean Group</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">3. Seaspan Shipyards</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">4. Irving Shipbuilding</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">5. BC Ferry &amp; Marine Workers' Union</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">6. BC Building Trades</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">7. BC Federation of Labour</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">8. The Shipyard General Workers' Federation</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">9. The United Steelworkers</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">10. The Canadian Steel Producers Association</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">11. Former Minister of Transport Chrystia Freeland</QuotePara>
+                  <QuotePara IndentFirst="4" IndentRest="5">12. The Minister of Public Safety, as well as officials responsible for reviewing national security issues related to the contract between BC Ferries and the Chinese shipyard Merchants Industry Weihai Shipyard</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="3" IndentRest="4">c. Upon completion of its study on the Canada Infrastructure Bank's financing of new vessels for British Columbia Ferries, the committee will immediately undertake a new study on the phenomenon of “Driver Inc.”, comprising at least six meetings. The committee will summon the Minister of Transport, the Secretary of State for Labour and the Secretary of State for Revenue to testify in this study for a minimum of one hour each. Other witnesses, chosen by the parties, will also be invited to appear. Finally, the committee will submit its conclusions and recommendations to the House.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8908734">The motion covers the main points of our discussion. It proposes first to make public the documents that we received before completing the BC Ferries study. However, the motion doesn't address the issue of BC Ferries documents, which may be discussed later, after this motion is adopted.</ParaText>
+              <ParaText id="8908735">The next step is to conduct a study on the issue of “Driver Inc.” I believe that this is a serious issue in the trucking industry right now. The truckers are facing this crisis. I wrote to <Affiliation DbId="322414" Type="96">Minister MacKinnon</Affiliation> about this issue this week. I believe that people are very interested in this matter. They want Parliament to take it seriously and they want their elected officials to commit to resolving the situation. I feel strongly about all this.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122099">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908736">Thank you, Mr. Barsalou‑Duval.</ParaText>
+              <ParaText id="8908737">Mr. Kelloway, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13122102">
+            <PersonSpeaking>
+              <Affiliation DbId="319638" Type="47">Mike Kelloway (Sydney—Glace Bay, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908738"> Thank you for that.</ParaText>
+              <ParaText id="8908739"> It's obviously very detailed and very lengthy. I know a copy is being circulated, Mr. Chair.</ParaText>
+              <ParaText id="8908740">We would request to suspend for just a little bit, if that's possible, to read it. It's very detailed. We can huddle to go through it with a fine eye.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122103">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908741"> Thank you, Mr. Kelloway.</ParaText>
+              <ParaText id="8908742"> Before I suspend, Mr. Muys, do you want to speak after I suspend, to give people a chance to review it, or would you like to speak to this now?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122104">
+            <PersonSpeaking>
+              <Affiliation DbId="319853" Type="47">Dan Muys (Flamborough—Glanbrook—Brant North, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908743">I would like to make a friendly amendment to include Ontario Shipyards and a list of people we will call.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122106">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908744">Why don't we allow for that friendly amendment? It might help guide discussions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122108">
+            <PersonSpeaking>
+              <Affiliation DbId="319853" Type="47">Dan Muys</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908745">For sure.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122113">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908746"> Colleagues, I just got confirmation from the clerk that it has been circulated and it should be in your inboxes.</ParaText>
+              <ParaText id="8908747"> I'm going to suspend for a couple of minutes to give members who haven't read it yet a chance to do so.</ParaText>
+              <ParaText id="8908748"> The meeting is suspended to the call of the chair.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="08" Mn="55">(0855)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="09" Mn="05">(0905)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122163">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908749"> I call this meeting back to order.</ParaText>
+              <ParaText id="8908750">Is your hand up, Mr. Kelloway?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122165">
+            <PersonSpeaking>
+              <Affiliation DbId="319638" Type="47">Mike Kelloway</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908751">I will defer to Will on this one.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13122370">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908752">Go ahead, Will. Then I'll go to Mr. Albas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122166">
+            <PersonSpeaking>
+              <Affiliation DbId="319639" Type="47">Will Greaves (Victoria, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908753"> Thank you, Chair.</ParaText>
+              <ParaText id="8908754">With respect to the proposed motion, I'm struck by the fact that, in our meetings earlier this summer, this committee had the opportunity to put questions to the relevant ministers from not only the federal Department of Transport but also housing and infrastructure Canada. It's not clear to me what other questions would be asked of the minister if they were recalled before this committee, given the time spent and interrogation that's already taken place on the matter.</ParaText>
+              <ParaText id="8908755">The former Minister of Transport, in particular, is no longer in that role, and is taking on another significant role on behalf of the Government of Canada. What value or additional information this committee anticipates getting from the <Affiliation DbId="317725" Type="2">former minister</Affiliation>, if she were to be recalled as a witness, isn't clear to me and doesn't seem to be the most efficient use of this committee's or that honourable colleague's time.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="10">(0910)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122169">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908756"> Thank you very much, Mr. Greaves.</ParaText>
+              <ParaText id="8908757">I have Mr. Albas next.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908758">He will be followed by Mr. Barsalou‑Duval.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13122172">
+            <PersonSpeaking>
+              <Affiliation DbId="320560" Type="40">Dan Albas (Okanagan Lake West—South Kelowna, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908759"> Mr. Chair, thank you for the floor.</ParaText>
+              <ParaText id="8908760">To the honourable member from Victoria, I will be happy to tell him what has changed. I read today, published September 18, by Bill Curry, deputy Ottawa bureau chief of The Globe and Mail, “BC Ferries deal raised with Transport Canada weeks before <Affiliation DbId="317725" Type="2">Freeland</Affiliation>'s criticism, emails show”. If this report is accurate, the fact that the CEO of BC Ferries, six weeks ahead of the announcement about their controversial purchase of four ferries from a state-owned shipyard in the People's Republic of China, flagged it with the deputy minister of Transport Canada, the highest on the non-partisan side of that department, was critical. The minister was saying one thing, that she was shocked.</ParaText>
+              <ParaText id="8908761"> It's a damning indictment because Transport Canada was made aware of this six weeks before that announcement, and they did nothing to protect Canadian jobs. They just sat on their hands and let it proceed. They didn't act to secure those contracts. They didn't push back at it. This raises a number of questions about former minister <Affiliation DbId="317725" Type="2">Chrystia Freeland</Affiliation>'s abrupt resignation, and it blows a hole in her narrative that she wanted BC Ferries to buy Canadian and was dismayed and upset about it. She said these things on the floor of the House of Commons when I and other members raised concerns about this procurement.</ParaText>
+              <ParaText id="8908762">We need to get to the bottom of this. This government has not been level with British Columbians and with Canadians in general. They say, hand on heart, “We want to buy Canadian. Canada strong. Let's work together. Let's build things here faster, better than we've ever done.” However, they were given a heads-up by the CEO of BC Ferries and did nothing, so we need to get to the bottom of this. <Affiliation DbId="317725" Type="2">Chrystia Freeland</Affiliation> should come to testify and explain herself, exactly how she could say one thing on the floor of the House of Commons.... As far as I understand, she's still a sitting MP. I'm sure that now, as a former minister, she has the time to work with us, so she can explain herself.</ParaText>
+              <ParaText id="8908763">This just reiterates the need to cancel this loan: $1 billion of taxpayer money is going to a PRC shipyard. I am sick to my stomach thinking that this is what the government has done in this matter.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122182">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908764"> Thank you very much, Mr. Albas.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908765">It's now Mr. Barsalou‑Duval's turn. He will be followed by Mr. Greaves.</ParaText>
+              <ParaText id="8908766">Mr. Barsalou‑Duval, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122183">
+            <PersonSpeaking>
+              <Affiliation DbId="320561" Type="40">Xavier Barsalou-Duval</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908767"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908768">With regard to the question from my colleague, Mr. Greaves, I could repeat the comments made by my Conservative colleague. However, I would simply like to point out that the only minister, or should I say former minister, being called back to this committee is Ms. Freeland. <Affiliation DbId="318696" Type="96">Mr. Robertson</Affiliation>, who has already appeared before the committee, hasn't been called back. The <Affiliation DbId="318630" Type="4">Minister of Public Safety</Affiliation> has yet to appear before this committee to discuss the matter.</ParaText>
+              <ParaText id="8908769">I think that Ms. Freeland should return because there have been significant new developments since her last appearance. Ms. Freeland wrote a letter that caused quite a stir. She stated that she disagreed with a single penny of Canadian money being used to purchase Chinese‑made vessels. In the end, it turns out that she knew everything. She knew full well about this deal long before the contract was awarded. She also knew that it would be financed with federal funds.</ParaText>
+              <ParaText id="8908770">I'm surprised that the committee was told last summer that everything happened while the government was no longer in session and no longer running. There was a leadership race and an election and people were then presented with a fait accompli. We now understand that Ms. Freeland and her team, and perhaps even the heads of other departments, had been aware of the situation for a long time. An even greater source of frustration is the realization that her letter, which appeared all over the media, was just for show and that everyone was taken for fools. That's my take.</ParaText>
+              <ParaText id="8908771">If we should have another take, I think that we need to hear her explanations.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="15">(0915)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122218">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908772"> Thank you, Mr. Barsalou‑Duval.</ParaText>
+              <ParaText id="8908773">It's now Mr. Greaves' turn.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13122219">
+            <PersonSpeaking>
+              <Affiliation DbId="319639" Type="47">Will Greaves</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908774"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908775">It's instructive to hear our colleagues across outline what their objections are, because if we apply just the slightest bit of pressure, we start to see their argument fraying at the seams.</ParaText>
+              <ParaText id="8908776"> As a basic reminder to our colleagues, BC Ferries is a provincial entity. It is a corporation, the primary shareholder of which is the Government of British Columbia. It does not report to the federal Minister of Transport.</ParaText>
+              <ParaText id="8908777"> It's an unfortunate, and indeed a somewhat alarming, precedent to suggest that federal agencies and entities, especially those that are intended to operate at arm's length from government, should in fact be pulled into this political bickering and be made, ultimately, a punching bag for other purposes.</ParaText>
+              <ParaText id="8908778"> The agenda of our Conservative colleagues is very clear, and they're on the record about this. They are demanding the cancellation of a loan—and I'll return to that in a moment—that is utterly essential to BC Ferries' ability to continue to provide a critical service on the west coast of this country, but this is really just a Trojan Horse for the broader agenda. It's been very clearly articulated that the Conservative Party wishes for the abolition of the entire Canada Infrastructure Bank. BC Ferries is being used as a vehicle to advance a broader agenda, which is a multi-year vendetta against a federal entity that, as we speak, is in the midst of funding critical investments in infrastructure across this country.</ParaText>
+              <ParaText id="8908779"> The CIB is a federal agency, but it also does not report to the federal Minister of Transport, so both of the arm's-length agencies at issue in this matter are not, in fact, accountable to the former <Affiliation DbId="317725" Type="2">minister</Affiliation>—who my colleagues opposite are demanding return to this committee.</ParaText>
+              <ParaText id="8908780">It is, I think, somewhat confusing if we interrogate the fact that this is a loan. The money that the Canada Infrastructure Bank independently decided to allocate towards BC Ferries to support their investment in fleet renewal is a loan that will be repaid with interest. That is the business model of the Canada Infrastructure Bank. This entire project is not one that will cost Canadian taxpayers money in the long run. It is, in fact, an initiative that will generate benefit to the public purse and, in the process, of course, will provide improvements to a service that is completely critical in my part of the country.</ParaText>
+              <ParaText id="8908781">In that respect, I will simply underscore again a point I've made in this committee previously: We are playing politics here with a service that British Columbians rely upon and that my constituents in Victoria require for daily life. This is not just an abstract matter. This is what gets food and essential goods to Vancouver Island, home to more than 800,000 Canadians. This is a service that underpins the economy of western Canada. This is a service that provides 33 million rides every year, dwarfing by an order of magnitude the total number of passengers who ride passenger ferries in Atlantic Canada on an annual basis.</ParaText>
+              <ParaText id="8908782">There are indeed issues related to BC Ferries that I would be very keen for this committee to take up, not least of which is the inequitable funding afforded to ferries on the west coast as compared to those used by our Atlantic Canadian cousins. The issue at hand here is really using for political expedience something British Columbians cannot afford to have delayed and undermined. </ParaText>
+              <ParaText id="8908783">Therefore, on behalf of my constituents in Victoria and my colleagues who represent a majority of British Columbians, this is a political exercise we're engaging in. It is using something we rely on in British Columbia in service to a broader political objective of our Conservative colleagues: to undermine and ultimately destroy a federal agency that is providing funds to the benefit of the federal taxpayer in British Columbia and elsewhere across Canada. I don't think it's appropriate, and I don't think we should indulge in it.</ParaText>
+              <ParaText id="8908784"> Thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122229">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908785"> Thank you very much, Mr. Greaves.</ParaText>
+              <ParaText id="8908786"> Next I have Mr. Muys.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122230">
+            <PersonSpeaking>
+              <Affiliation DbId="319853" Type="47">Dan Muys</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908787"> Thank you, Chair.</ParaText>
+              <ParaText id="8908788">Let me amplify some of the comments made by my colleagues Mr. Albas and Mr. Barsalou-Duval. There are new facts. That's why this motion has been put forward. </ParaText>
+              <ParaText id="8908789">You know, I don't think it's political to be fighting to protect Canadian jobs. I come from the Hamilton region, where the steel industry has been absolutely devastated with the unjust tariffs. If we're spending $1 billion, then why, if it's being backstopped by Canadian taxpayers, won't it be Canadian steel, produced in Hamilton, being used rather than going overseas to China? </ParaText>
+              <ParaText id="8908790">In fact, speaking of then minister <Affiliation DbId="317725" Type="2">Freeland</Affiliation>, she held a half-day photo op summit in Hamilton at ArcelorMittal Dofasco to buy Canadian. I guess that was all politics too, because what actually was accomplished by a half-day photo op summit? By the way, shipbuilders were there. Rail was there. They talked about the need to use Canadian steel. That's why it was held at Dofasco. I think we have a great example here. It would be great to ask further questions about what transpired there and the discussions around that. </ParaText>
+              <ParaText id="8908791">Again, there are these new facts, so it's appropriate to delve further into this with this motion.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="20">(0920)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122232">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908792"> Thank you very much, Mr. Muys. </ParaText>
+              <ParaText id="8908793">Mr. Lawrence.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13122234">
+            <PersonSpeaking>
+              <Affiliation DbId="319854" Type="47">Philip Lawrence (Northumberland—Clarke, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908794"> Thank you. </ParaText>
+              <ParaText id="8908795">I'll start out by responding to some of the points made by Mr. Greaves. They rely on a series of logical fallacies, to put it kindly.</ParaText>
+              <ParaText id="8908796">His first point is that somehow, if in fact we don't buy this ferry from a Chinese contractor, we can't have a ferry. That's simply untrue. The Liberals may not believe in Canadian manufacturing, but Conservatives do. We believe that those ferries can be built by Canadian hands with Canadian steel. They may not believe that's true, but we do. </ParaText>
+              <ParaText id="8908797">Second, he says, well, there's no federal control, no federal relationship, with BC Ferries. That's untrue. The CIB, of course, is underwriting it in terms of $1 billion. That's a Crown corporation. If Crown corporations aren't responsible to taxpayers, who are they responsible to? As well, numerous times in the documents—I can provide you with the citations—federal bureaucrats talked about the federal flows that are coming directly to BC Ferries. Quite frankly, one of the reasons we need to have further conversations about this is the fact that a lot of those documents get to a certain point and then they're redacted. There are literally hundreds of pages of redactions. I would like to know what's under there. There might be some information in there that is commercially sensitive, and that's fine, but we need to test that evidence. </ParaText>
+              <ParaText id="8908798">Then he asks why we're asking for former minister <Affiliation DbId="317725" Type="2">Freeland</Affiliation> when we really should have the housing minister. Add him. We're happy to have him come and have him discuss again some of the redactions as well. We will gladly accept that amendment to add that minister.</ParaText>
+              <ParaText id="8908799"> The reality is that it's not really what we know from these documents; it's what they've unveiled that we don't know. There are discussions in there amongst bureaucrats talking about the impact that the cancelling of this loan will have on Canada-PRC relations. That's challenging, because we shouldn't be looking at that. Civil servants shouldn't be looking at tenders and going, “Okay, well, we should allow this loan to go ahead, or we should allow this contract to go ahead, because it may affect relationships otherwise.” No: We should be trying to get the best ferries and underwriting the best loans. </ParaText>
+              <ParaText id="8908800">Finally, here's something for the B.C. audience out there. I believe Mr. Greaves is a B.C. MP. I'm surprised, quite frankly, that he doesn't want to find out more about this. It's in there. It completely redacts the BC Hydro documents and their report completely. This is tens of pages. But do you know what? They forgot to redact some of it. They are saying that having electric ferries will cost B.C. taxpayers half a billion dollars. That's a lot of money. That is a lot of money to upgrade their facilities. </ParaText>
+              <ParaText id="8908801">There are lots of unknown things in there. Quite frankly, I would say to my colleagues across the board that this is something that deserves many meetings. I think the Bloc motion is flawed, not because it's including the BC Ferries but because we don't have enough meetings on it. There's a lot more to be told. Just take the hundreds of pages of redactions; do you have no curiosity about what's behind that blackout? I certainly do. </ParaText>
+              <ParaText id="8908802">Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="25">(0925)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122252">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908803"> Thank you very much, Mr. Lawrence.</ParaText>
+              <ParaText id="8908804">Dr. Lewis, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122256">
+            <PersonSpeaking>
+              <Affiliation DbId="319855" Type="47">Leslyn Lewis (Haldimand—Norfolk, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908805"> Thank you, Chair.</ParaText>
+              <ParaText id="8908806"> I just want to highlight that this investigation is not about casting the CIB in a certain light. It's really about bringing transparency to Canadians who are asking a lot of questions about what happened and who have a genuine interest in knowing what happened and knowing the story behind how the contract got sent over to Beijing.</ParaText>
+              <ParaText id="8908807">In question period, when this contract first came up, it was revealed that a Chinese shipyard got the contract. The former minister, <Affiliation DbId="317725" Type="2">Minister Freeland</Affiliation>, brushed this off as a provincial matter and said that they only fund operations, but at the very same time, her staff were emailing the Prime Minister's Office about how to manage the CIB loan announcement. Parliament was, in some sense, misled.</ParaText>
+              <ParaText id="8908808">Canadians expect the truth from their government, not political positioning to cover for some aspect of what appears to be incompetence. That's why these documents need to be disclosed to the public, and the study needs to happen.</ParaText>
+              <ParaText id="8908809">The Liberals also told Canadians that Ottawa knew nothing and had nothing to do with the BC Ferries' Chinese state-owned shipyard contract. However, now we know that the Canada Infrastructure Bank—a federal Crown corporation—actually bankrolled and subsidized the interest rates. It gave interest rates for contracts far below rates that Canadians can secure on their own. This is of serious interest to the Canadian public.</ParaText>
+              <ParaText id="8908810">Instead of transparency, Liberals chose to deflect, deny and almost spin what had happened. Canadians deserve transparency to know why their tax dollars are being invested in a Chinese-owned shipyard and not in their own shipyard industries and workers.</ParaText>
+              <ParaText id="8908811">In addition, the Canada Infrastructure Bank was supposed to invest in Canadian infrastructure. Instead, it gave a billion-dollar loan for ships built in China with zero Canadian content requirements. That's not building Canada for Canadians, that's really building Beijing. Why wasn't a single question asked of the CIB about protecting Canadian jobs and shipyards before signing the cheque?</ParaText>
+              <ParaText id="8908812">Canadians also need to know more about the timeline of events and how it was only in June that we found out that the contract was going to the Chinese shipyard, when decisions were made fairly early in January. Also, why did the CIB not publicly announce the deal before they signed the cheque, and why did they wait so long before announcing it? Those are other questions that Canadians are curious about.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122269">
+            <PersonSpeaking>
+              <Affiliation DbId="319690" Type="47">Chi Nguyen (Spadina—Harbourfront, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908813">Mr. Chair, I have a point of order.</ParaText>
+              <ParaText id="8908814">I'm curious. We've had these questions, and we explored them when we invited the CIB CEO to talk—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122274">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908815">I'm sorry, Ms. Nguyen. That's not a point of order. That's debate. </ParaText>
+              <ParaText id="8908816">If you want the floor, I can put your name down.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13122493">
+            <PersonSpeaking>
+              <Affiliation DbId="319690" Type="47">Chi Nguyen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908817">Okay. My apologies.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13122500">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908818">Thank you, Ms. Nguyen.</ParaText>
+              <ParaText id="8908819">I'm sorry, Dr. Lewis. The floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122275">
+            <PersonSpeaking>
+              <Affiliation DbId="319855" Type="47">Leslyn Lewis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908820"> Thank you.</ParaText>
+              <ParaText id="8908821">Essentially, what we got back from the Liberals were pages and pages of blacked out documents. The documents from BC Ferries tell a very different story from what the former transport minister told Parliament.</ParaText>
+              <ParaText id="8908822">At the end of the day, Canadians deserve straightforward answers. That's why this investigation is essential and is needed. The disclosed documents raise more questions than answers, and some of them are as follows: When exactly did the Liberals know about this deal? Why did they not do more to act when they were alerted to the deal by BC Ferries? When exactly did the former minister, <Affiliation DbId="317725" Type="2">Minister Freeland</Affiliation>, know that the contract was going to China and that the CIB was bankrolling it? When exactly did the <Affiliation DbId="318661" Type="4">housing minister</Affiliation> become aware of the same? Why were Canadian bidders ignored and no priorities or procurement processes laid out to ensure Canadian bidders were included? Why were national security interests ignored and played down by the Liberal government?</ParaText>
+              <ParaText id="8908823">Conservatives are calling for complete and full committee investigations. Canadians deserve accountability, and they deserve full disclosure of the $1-billion deal at a time when our workers and our economy are suffering.</ParaText>
+              <ParaText id="8908824">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="30">(0930)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122281">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908825"> Thank you very much, Dr. Lewis.</ParaText>
+              <ParaText id="8908826">Next I have Mr. Kelloway.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122282">
+            <PersonSpeaking>
+              <Affiliation DbId="319638" Type="47">Mike Kelloway</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908827"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908828">It's an interesting discussion. Let's talk about a few things that were mentioned just recently.</ParaText>
+              <ParaText id="8908829">At the beginning of the meeting, I talked about collaboration, and we talked about working together. There are a couple of things that we need to clarify here.</ParaText>
+              <ParaText id="8908830">Number one is that I don't know if there's anyone around the table who is not pro-Canadian, pro-Quebec, anyone who doesn't want to focus on jobs for our people, on major projects for our people. It's beyond disingenuous to suggest that another party doesn't. That's an overreach, and that's what you all do sometimes. You overreach. You go too far. You make comments that you shouldn't, especially in this type of environment. I want to highlight that.</ParaText>
+              <ParaText id="8908831">Number two is that perhaps we'll get to this at some point down the road. You know, we're all here to look at this particular study. It's now an investigation. I heard a lot of things today that were called facts. I see a lot on social media: fact, fact, fact. In many cases, it's an educated assumption, or it's an assumption altogether. We've had ministers come in. We have talked to them. They've provided their insight. I can appreciate—and I'll take everyone at their word—that they want to bring people in to hear where there might have been a breakdown in communication. Let's talk about that.</ParaText>
+              <ParaText id="8908832">However, there comes a point when—and I hope this doesn't come this way, and I don't think it is right now—it becomes a bit of everyone wanting to be a bit of Woodward and Bernstein, and sometimes you have to be a little bit more—and I put this on all of us—thoughtful in terms of how we go about doing this. So, I would caution members, respectfully, to not state their fact. There are timelines here. We need to talk about those. Mr. Cory had some really interesting information, didn't he? Not sure where he got that from. Interesting....</ParaText>
+              <ParaText id="8908833">It's interesting for Canadians to ask those questions, too, but they should also ask questions around BC Ferries. They should also ask questions around how this happened. We want to know. We're pro-Canadian. I want to see jobs. I want to see shipyards in B.C., Quebec and Atlantic Canada produce jobs, building Canadian ferries for BC Ferries. That's important. That's necessary.</ParaText>
+              <ParaText id="8908834">I've read speeches before. Some of them I edited. Some of them I read verbatim. Some of them are my own. This is my own. We are going to go ahead with a study that's now turned into an investigation that already has facts. It's already built in, right? What does that feed? It starts to feel a little like social media, doesn't it? I'm not ignoring the fact that I want to know how BC Ferries didn't have its thinking cap on with respect to knowing that this is a potential.... It's not a potential problem; it's a problem. We had <Affiliation DbId="317725" Type="2">Minister Freeland</Affiliation> come in. She spoke. We had the CIB, and they spoke. Things are redacted.</ParaText>
+              <ParaText id="8908835">Here's the thing. Things are redacted. Why? The natural assumption is that there is something to hide. I don't know what's redacted. I don't know if it's commercial. I don't know if it's military. I don't know if it's personal. I agree that we should look at that. That's common sense, as the Conservatives say. It's also what my father Mick Kelloway used to say when he would go underground in the pit: that a lot of things are common sense. So, basically what I'm saying is that we stop with the rhetoric that there's one party that's pro-business. Like, we made fun just a few moments ago of a photo op with respect to a hackathon on trucking. How do you bring people together to discuss the art of the possible, to help Canadians, to put more money in people's pocketbooks? Well, you bring them together. Guess what. There are cameras there, and they take pictures.</ParaText>
+              <Timestamp Hr="09" Mn="35">(0935)</Timestamp>
+              <ParaText id="8908836"> It's not just the minister who wants the picture; it's the proponents as well, to show the people back home we're fighting for Canadian jobs. We're fighting for the Canadian economy. I know it's easy to get into the fight, but we just need to watch the phrases that we use. You're going to have your clips; we're going to have our clips. Praise be; that's fantastic, but when it comes back to one of the central themes of <Affiliation DbId="317725" Type="2">Minister Freeland</Affiliation>, if we lose this vote and she comes in, I have no doubt in my mind she will be strong and lay out her facts. You can grill her. You can play whatever kind of game you may want to play in a very, hopefully, thoughtful way. We do want to get some of that information, if not all the information. It's how we do it. </ParaText>
+              <ParaText id="8908837"> I want to go back to a couple of things. Because you don't know and I don't know what was redacted, we need to be thoughtful of how best we review that, and there are ways to do that. There are ways that we see and you see to do that, I believe, that would be ethical up front and with Canadians front and centre, while at the same time knowing there have to be reasons for why those things were redacted. I want to know why. You want to know why. </ParaText>
+              <ParaText id="8908838"> I'll conclude with this. I know we've got some more hands up, but I believe that everyone is pro-worker, everyone is pro-business and we are dealing with the situation here. We're also dealing with a larger situation in terms of why there's this talk of collaboration in Canada and why premiers are working with the federal government. It's because we are at a moment and an inflection point in our economy and our life. </ParaText>
+              <ParaText id="8908839">I'll leave it at that and yield the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122327">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908840"> Thank you very much, Mr. Kelloway. </ParaText>
+              <ParaText id="8908841">Ms. Nguyen, did you want to speak? Go ahead, to be followed by Mr. Greaves. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908842"> Then it will be Mr. Lauzon's turn.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13122329">
+            <PersonSpeaking>
+              <Affiliation DbId="319690" Type="47">Chi Nguyen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908843"> My apologies. I'm still learning what the parliamentary process is, so I apologize if I incorrectly used a point of order. </ParaText>
+              <ParaText id="8908844">I wanted to note, though, that we have heard the timeline and that the opportunity and the work to procure BC Ferries started many years ago and was delayed during COVID-19. It's not as though this decision was made quickly. That work had been done to get to that place. That's all I wanted to correct, or make sure that I had understood from the witness testimony back in the summer. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122348">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908845"> We will hear from Mr. Greaves next, followed by Mr. Lauzon and Mr. Albas. </ParaText>
+              <ParaText id="8908846">Mr. Greaves, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122351">
+            <PersonSpeaking>
+              <Affiliation DbId="319639" Type="47">Will Greaves</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908847"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908848">I have just a couple of points to clarify and I would like to speak to the points raised by my Conservative colleagues.</ParaText>
+              <ParaText id="8908849">First, the critical point to underscore in all of this is that this was a decision made by BC Ferries about their own business and not just a decision that was taken before the most recent election. It's false on the face of it to accuse, as the members have, this government of being implicated in this decision in some respect. It was not. The decision was taken before this government received the mandate from Canadians to govern in this 45th Parliament.</ParaText>
+              <ParaText id="8908850">The second point I'd like to make is that we hear a great deal from our Conservative colleagues about their concerns for the Canadian steel sector and the workers whose livelihoods have been affected by the trade war that's been thrust upon us by Donald Trump and his administration. Of course, this is a point the government takes very seriously. I fully agree with my honourable colleague from Cape Breton that we should give the benefit of the doubt to everyone on this committee. We are all committed to supporting Canadian jobs, and we're also committed to supporting the Canadian steel sector in this challenging time.</ParaText>
+              <ParaText id="8908851">It has to be said yet again, although we have heard this from our witnesses and so our colleagues are well aware, that no Canadian shipyard put in bids to build these ferries. We've been told that, if Canadian shipyards had, in fact, bid and received the contracts, it would have cost billions of dollars more and taken more than a decade longer to deliver these ferries than the procurement agreement that was ultimately struck. British Columbians who rely on these ferries every day and need them to be replaced don't have a decade to waste. I'm fascinated by this Conservative position, somewhat novel I must say, that it's in the public interest to spend more money than necessary on procurement decisions. Is this a new position for our Conservative colleagues, that we should spend more money rather than choosing the lowest bidder, that we shouldn't get maximum value for public money? </ParaText>
+              <ParaText id="8908852">If we were to synthesize our colleagues' position on this matter, it amounts to, number one, the federal government should interfere and undermine the strategic planning of provincial agencies and, number two, the federal government should not seek to get the best value for public money. This is, I think, an interesting position for our Conservative colleagues to hold.</ParaText>
+              <ParaText id="8908853">This position would at least have some integrity if it were consistently applied. I'm not aware of the members on this committee summoning ministers and demanding documents during the previous Parliament, when the most recent new ferry acquired for the Atlantic coast was, in fact, procured from the same shipyard. We do seem to have a very selective outrage being directed at BC Ferries with respect to this procurement that was not raised in the very recent past about an acquisition of a similar ferry for the Atlantic coast of Canada. I think the people of British Columbia have a right to know why it is that our ferry procurement decisions deserve such scrutiny, especially such scrutiny on the basis of principles that are not particularly Conservative, principles that undermine the autonomy of independent agencies or that don't support getting maximum value for money spent. This is a fascinating position for our colleagues to hold.</ParaText>
+              <ParaText id="8908854">For all these reasons, what we are seeing here is a politically motivated attack on BC Ferries that serves a broader agenda and is using a critical service and a core piece of infrastructure that supports the economy and well-being of western Canada and western Canadians to score political points in this vendetta to undermine the Canada Infrastructure Bank. This is simply not something that is in the interest of my constituents nor in the public interest.</ParaText>
+              <ParaText id="8908855">My final point on this is that we've heard a great deal from some of our Conservative colleagues about how this is a state-owned Chinese shipyard and how this procurement is therefore funding those dastardly communists in China. While I assure you I have absolutely limited sympathy for the Chinese government and for the communist regime in China, I think it's worthwhile that our Conservative colleagues are consistently overlooking the fact that China is Canada's second-largest trading partner and that, as we sit here, Conservative members and Conservative premiers are demanding with their full voices that the Government of Canada engage with the Chinese government in order to relieve the burden of tariffs that are punishing Canadian farmers and Canadian agricultural producers in the context of this global trade war that we find ourselves in.</ParaText>
+              <Timestamp Hr="09" Mn="40">(0940)</Timestamp>
+              <ParaText id="8908856"> While our colleagues are taking great pains to vilify the Chinese government in their attack on BC Ferries, it's not really consistent with the actual relationship that Canada has with China, which is our second-largest trading partner. It's also not consistent with the many efforts that other Conservative elected officials—at both the federal and provincial levels—are actively undertaking now to improve our relationship with the Chinese government so that we can regain access for Canadian agricultural products to the largest market in the world.</ParaText>
+              <ParaText id="8908857">To put it mildly, there are some holes in the Conservatives' argument today. I repeat my basic point that in that context, BC Ferries is being used as a political punching bag that is not in the service of British Columbians, and it is not something that I or my constituents in Victoria can support. </ParaText>
+              <ParaText id="8908858">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="45">(0945)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122373">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908859"> Thank you very much, Mr. Greaves.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908860"> Mr. Lauzon, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122374">
+            <PersonSpeaking>
+              <Affiliation DbId="319637" Type="47">Stéphane Lauzon (Argenteuil—La Petite-Nation, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908861"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908862">I would like to continue along the same lines as my colleague, Mr. Greaves. Obviously, the Canada Infrastructure Bank, the CIB, plays a vital role in providing long‑term and low‑cost loans to help public and private companies, as well as the provinces. In this case, the CIB is helping to ease the financial burden on BC Ferries.</ParaText>
+              <ParaText id="8908863">The minister made it clear when she came here that she would have preferred a Canadian product, made at home, using Canadian steel. All the committee members are acting in good faith and we all agree on this. However, we must remember that the loan was granted to a private company that also does business with the province. This was clearly explained to us. As my colleague, Mr. Albas, said earlier, this whole situation gives the impression that negotiations were conducted in good faith directly with China to award these contracts. That's completely false.</ParaText>
+              <ParaText id="8908864">We need to understand the specific criteria explained during our discussions. First, as my colleague, Mr. Greaves, pointed out, the ferry service is essential to British Columbia. It's more than just a ferry. It's also an accessibility service, not only for merchants, but also for passengers and tourists, obviously. It's an economic pillar. However, the project also has an environmental component. The CEO of BC Ferries clearly explained that the ferry fleet was so outdated that all the repairs, time and money invested in maintenance came at a significant environmental cost. These factors concern us all and we all agree on this. Furthermore, remember that, if the purchase price of the ferries had been higher than the amount agreed upon, the difference would have been passed on directly to Canadians on a piecemeal basis. We learned these key pieces of information during the testimony.</ParaText>
+              <ParaText id="8908865">That said, let us now talk about the federal government's role in this matter. <Affiliation DbId="317725" Type="2">Ms. Freeland</Affiliation> clearly explained that role. The Canada Infrastructure Bank provides financial support, but it doesn't dictate how the vessels should be built. This has been clear from the start. Ms. Freeland's wishes and the fact that the vessels will come from a shipyard in China are two completely different things. We can play politics by saying that we want Canadian steel. However, we mustn't dissociate ourselves from our responsibilities with regard to the Canada Infrastructure Bank.</ParaText>
+              <ParaText id="8908866">Do we now want to change the Canadian government's management rules? Do we want to take the committee's work further and change Canadian standards for service offerings? If so, that's a whole other debate. Today's debate is crucial in order to continue our work on the BC Ferries situation.</ParaText>
+              <ParaText id="8908867">Yet we want to bring the minister back. Why? The idea is to play politics with a decision that falls under provincial jurisdiction in order to show clips to the public on social media claiming that the government made an irresponsible decision. In fact, the government made its decision in keeping with the current standards. According to these standards, the federal government mustn't interfere in BC Ferries' contractual decisions.</ParaText>
+              <ParaText id="8908868">In addition, the CEO of BC Ferries came to explain the bidding process. This process didn't exclude Canadian companies and—for the benefit of my colleague, Mr. Barsalou‑Duval—Quebec companies, including the Davie shipyard back home in Quebec. Everyone was invited to submit a prequalification application.</ParaText>
+              <Timestamp Hr="09" Mn="50">(0950)</Timestamp>
+              <ParaText id="8908869">However, the committee or the Canadian government isn't responsible for establishing criteria, logbooks or delivery deadlines. These are internal matters for BC Ferries. That isn't our role. The minister made this clear. What more could we learn from the minister? I don't know.</ParaText>
+              <ParaText id="8908870">We may want to know more about the redactions. However, we must remember that these communications are part of a business strategy between the province and BC Ferries. It's a trade strategy. Public‑private companies don't want to disclose this type of information, since it could compromise their competitive future. Not a single company of this size that manages such large amounts of money would be willing to disclose sensitive information about its business plan. Obviously, this information must remain confidential.</ParaText>
+              <ParaText id="8908871">When it comes to choosing suppliers, it's fair to debate the issue. However, that decision lies with BC Ferries and the British Columbia government, not the federal government. I don't know exactly what we want to achieve by talking about this. I'm listening to the discussion in the background, but I could table an amendment, if you'll allow me, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122406">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908872">Yes, of course.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122407">
+            <PersonSpeaking>
+              <Affiliation DbId="319637" Type="47">Stéphane Lauzon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908873">The Bloc Québécois and the Conservatives have already prepared this motion. However, I believe that unanimous consent could be obtained to make the following changes.</ParaText>
+              <ParaText id="8908874">First, in part (c), I would replace the words “the Canada Infrastructure Bank's financing of new vessels for British Columbia Ferries” with “CIB's loan to BC Ferries.”</ParaText>
+              <ParaText id="8908875">Second, I propose replacing “summon” with “invite,” for the reasons that I just explained. Third, in section (b), I propose replacing the word “financing” with “loan.” It's a loan. It isn't free financing. Fourth, I propose removing point 12 from section (b).</ParaText>
+              <ParaText id="8908876">I'll email all these amendments to the clerk, who can send them to you in both official languages. At this point, given the issues that I raised, it would be a good idea to accept these amendments. However, if you want to take some time to discuss them, I would be happy to do so.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122428">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908877">Thank you, Mr. Lauzon.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8908878"> Colleagues, if it's okay with you, we'll suspend for a couple of minutes. That will give you an opportunity to review the proposal put forward by Monsieur Lauzon. </ParaText>
+              <ParaText id="8908879">The meeting is suspended to the call of the chair.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="09" Mn="55">(0955)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="10" Mn="10">(1010)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122568">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908880"> I call this meeting back to order.</ParaText>
+              <ParaText id="8908881">Colleagues, I think there have been some discussions off-line here.</ParaText>
+              <ParaText id="8908882">Does anybody want to speak to this?</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908883"> Mr. Barsalou‑Duval, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122571">
+            <PersonSpeaking>
+              <Affiliation DbId="320561" Type="40">Xavier Barsalou-Duval</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908884">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908885">I would like to move a subamendment to Mr. Lauzon's amendment. With regard to point 12, rather than removing it, we could instead have the officials responsible for reviewing the national security issues related to the contract between BC Ferries and China Merchants Industry Weihai Shipyards appear in camera. The goal is to protect national security interests and give these officials the chance to talk about the review process openly and transparently.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122577">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908886">Thank you, Mr. Barsalou‑Duval.</ParaText>
+              <ParaText id="8908887">Mr. Lauzon, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122580">
+            <PersonSpeaking>
+              <Affiliation DbId="319637" Type="47">Stéphane Lauzon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908888"> After some discussion, I think that we can agree on Mr. Barsalou‑Duval's subamendment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122582">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908889">Are there any other comments? No?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13122585">
+            <PersonSpeaking>
+              <Affiliation DbId="320560" Type="40">Dan Albas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908890"> This would allow the friendly amendment to change their amendment. Then we will discuss their amendment, correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122590">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908891"> I see no objections to the friendly amendment to Mr. Lauzon's amendment.</ParaText>
+              <ParaText id="8908892"> We'll now have a discussion on Mr. Lauzon's amendment if we're all in accordance.</ParaText>
+              <ParaText id="8908893">Do we all agree? Okay.</ParaText>
+              <ParaText id="8908894"> The floor is open to now discuss Mr. Lauzon's amendment.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908895">Are there any questions or comments?</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8908896"> Mr. Albas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122596">
+            <PersonSpeaking>
+              <Affiliation DbId="320560" Type="40">Dan Albas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908897"> I just wanted you to confirm, Mr. Chair, that the only real changes are technical changes, with the exception of our having the <Affiliation DbId="318630" Type="4">Minister of Public Safety</Affiliation> for an hour in the open and then another hour with officials. That's essentially the most substantive change, but there are some minor editorial changes. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122601">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908898"> I believe that's the case.</ParaText>
+              <ParaText id="8908899"> I'll ask Mr. Lauzon to confirm the amendment.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13122605">
+            <PersonSpeaking>
+              <Affiliation DbId="319637" Type="47">Stéphane Lauzon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908900">That's the case.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13122606">
+            <PersonSpeaking>
+              <Affiliation DbId="320560" Type="40">Dan Albas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908901">We should expect all other ministers to come in as it is written in Xavier's motion, correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122607">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908902">The clerk and I will obviously do all the work necessary to make sure that happens.</ParaText>
+              <ParaText id="8908903"> Is it beneficial for the members to reread the amendment, including Mr. Barsalou-Duval's friendly amendment, or are we good to go?</ParaText>
+              <ParaText id="8908904"> I think we're good to go. Okay.</ParaText>
+              <ParaText id="8908905">Mr. Greaves, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122609">
+            <PersonSpeaking>
+              <Affiliation DbId="319639" Type="47">Will Greaves</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908906"> Mr. Chair, does the amendment or the proposed friendly revision to the amendment remove the ministers of revenue and labour from the list? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122610">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908907">That was part of what was put forward, so I'll leave it.</ParaText>
+              <ParaText id="8908908"> I see Mr. Barsalou-Duval's hand up, and then I'll turn it over to Mr. Lauzon.</ParaText>
+              <ParaText id="8908909">Mr. Barsalou-Duval.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13122612">
+            <PersonSpeaking>
+              <Affiliation DbId="320561" Type="40">Xavier Barsalou-Duval</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908910">To follow up on Mr. Greaves' question, I didn't take Mr. Lauzon's amendment that way. Perhaps I misunderstood it initially. In my opinion, the <Affiliation DbId="318711" Type="5">Secretary of State for Labour</Affiliation> and the <Affiliation DbId="318705" Type="5">Secretary of State for Revenue</Affiliation> play a role in the whole Driver Inc. issue. It isn't just the <Affiliation DbId="322413" Type="4">Minister of Transport</Affiliation>, given that some aspects concern employment insurance. In addition, some income isn't reported and isn't collected by the government. It would be good to know what type of leadership these ministers or secretaries of state intend to exercise or are already exercising in this area.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122618">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908911">Thank you, Mr. Barsalou‑Duval.</ParaText>
+              <ParaText id="8908912">Mr. Lauzon has the floor, and Mr. Greaves is next.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122621">
+            <PersonSpeaking>
+              <Affiliation DbId="319637" Type="47">Stéphane Lauzon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908913"> My understanding of point 12 of section (b) was to remove all items in point 12. Mr. Barsalou‑Duval now wants to move a subamendment. The Secretary of State for Revenue and the Secretary of State for Labour should be removed from point 12 of section (b).</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122627">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908914"> Thank you, Mr. Lauzon.</ParaText>
+              <ParaText id="8908915">Mr. Greaves, please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122629">
+            <PersonSpeaking>
+              <Affiliation DbId="319639" Type="47">Will Greaves</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908916">I was just going to request that perhaps the clerk could read out the amendment so we could all be clear on what is or is not being considered here.</ParaText>
+              <ParaText id="8908917"> Thank you, Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="15">(1015)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122630">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908918"> Okay.</ParaText>
+              <ParaText id="8908919"> The clerk would need about a minute or so to put all that together.</ParaText>
+              <ParaText id="8908920"> While he's doing that, I'll turn the floor over to you, Mr. Albas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122632">
+            <PersonSpeaking>
+              <Affiliation DbId="320560" Type="40">Dan Albas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908921"> If the Liberals are trying to remove multiple ministers from presiding, including.... It sounds to me that you've relented on the fact that we're going to have the <Affiliation DbId="318630" Type="4">Minister of Public Safety</Affiliation> for an hour in public—that is fine—but if you're asking for the <Affiliation DbId="318711" Type="5">Minister of Labour</Affiliation> and for the <Affiliation DbId="318705" Type="5">Secretary of State for the CRA</Affiliation> to be removed, that is intolerable. It actually removes the whole state that.... We are trying to have some public disclosure and accountability. If you do not have those ministers there, it is a substantial change to the motion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122635">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908922"> Thank you very much, Mr. Albas.</ParaText>
+              <ParaText id="8908923">Does anybody else wish to speak to this? If not, I can suspend for a minute or two until I get an indication from the clerk that he's ready to reread.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122638">
+            <PersonSpeaking>
+              <Affiliation DbId="320560" Type="40">Dan Albas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908924"> One other thing is that <Affiliation DbId="317725" Type="2">Madam Freeland</Affiliation> should be invited. If that is not part of that, then that is a problem for us.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122642">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908925"> Thank you very much, Mr. Albas.</ParaText>
+              <ParaText id="8908926">Colleagues, I will suspend for one minute. It shouldn't be more than that. The clerk's just making sure that he's able to reread the motion with the amendment, so we have a better understanding of what we would be voting for.</ParaText>
+              <ParaText id="8908927">The meeting will suspend to the call of the chair.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="10" Mn="15">(1015)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="10" Mn="15">(1015)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122657">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908928"> I call this meeting back to order.</ParaText>
+              <ParaText id="8908929">I believe the clerk is now in a position to read the motion, as amended by Mr. Lauzon.</ParaText>
+              <ParaText id="8908930">Mr. Clerk, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122835">
+            <PersonSpeaking>
+              <Affiliation DbId="303570" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908931"> The motion as amended reads as follows:</ParaText>
+              <ParaText id="8908932">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">That the Standing Committee on Transport, Infrastructure, and Communities establish an agenda structured as follows: </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">a. The committee immediately requests that the Chair and the clerk, in accordance with the motion adopted on August 1, 2025, make public all documents received from the organizations listed. These documents shall be published on the committee's website and distributed in a press release through the Press Gallery Secretariat: </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">1. Office of the Prime Minister </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">2. Privy Council Office</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> 3. Canada Infrastructure Bank </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">4. The Department of Housing, including the office of the responsible minister</QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> 5. The Department of Transport, including the office of the responsible minister</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8908933">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">b. As part of its study on the Canada Infrastructure Bank's financing of new vessels for BC Ferries, the committee will hold three additional meetings and call the following witnesses:</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8908934">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">1. Davie Shipyard </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">2. Ocean Group </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">3. Seaspan Shipyards </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">4. Irving Shipbuilding </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">5. BC Ferry &amp; Marine Workers' Union </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">6. BC Building Trades </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">7. BC Federation of Labour </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">8. The Shipyard General Workers' Federation </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">9. The United Steelworkers </QuotePara>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">10. The Canadian Steel Producers Association—</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="20">(1020)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13122838">
+            <PersonSpeaking>
+              <Affiliation DbId="319856" Type="47">Dan Albas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908935">What about the Ontario Shipyards?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13122848">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908936">The Ontario Shipyards, yes, was added in. That's a good call, Dan.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13122659">
+            <PersonSpeaking>
+              <Affiliation DbId="303570" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908937"> —and 11) the Ontario Shipyards; (c) the committee will immediately undertake a new study on the phenomenon of chauffeured discounting, comprising at least six meetings. The committee will invite the Minister of Transport to testify in this study for a minimum of one hour. Other witnesses chosen by the parties will also be invited to appear. Finally, the committee will submit its conclusions and recommendations to the House. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122668">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908938"> Mr. Barsalou‑Duval, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122669">
+            <PersonSpeaking>
+              <Affiliation DbId="320561" Type="40">Xavier Barsalou-Duval</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908939"> I actually disagree with the amendment to the motion before us.</ParaText>
+              <ParaText id="8908940">I gathered that the former minister of transport and internal trade, Chrystia Freeland, the Minister of Public Safety and the officials responsible for the review were also invited to appear. However, they would be summoned to an in camera meeting rather than a public meeting.</ParaText>
+              <ParaText id="8908941">In point (c), the Secretary of State for Labour and the Secretary of State for the Canada Revenue Agency and Financial Institutions are missing from the list of ministers invited rather than summoned.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122672">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908942"> Thank you, Mr. Barsalou‑Duval.</ParaText>
+              <ParaText id="8908943">Mr. Lauzon, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122673">
+            <PersonSpeaking>
+              <Affiliation DbId="319637" Type="47">Stéphane Lauzon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908944">I agree with this proposal.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122674">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908945">Okay.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8908946">Colleagues, we're going to suspend for one more minute as members work with the clerk to ensure that the wording is exactly as requested. The meeting is suspended to the call of the chair.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="10" Mn="25">(1025)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="10" Mn="30">(1030)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122718">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908947"> I call this meeting back to order. </ParaText>
+              <ParaText id="8908948">Thanks again, colleagues, for working together on this. </ParaText>
+              <ParaText id="8908949">I've asked the clerk to read the portions that have been changed so that we don't have to hear the entire amended motion.</ParaText>
+              <ParaText id="8908950"> Go ahead, Mr. Clerk. The floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122721">
+            <PersonSpeaking>
+              <Affiliation DbId="303570" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908951">Thank you Mr. Chair. </ParaText>
+              <ParaText id="8908952">Section (b) reads as follows with the amendment:</ParaText>
+              <ParaText id="8908953">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">As part of its study on the Canada Infrastructure Bank's financing of new vessels for BC Ferries, the committee will hold three additional meetings and call the following witnesses:</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8908954">
+                <Quote>
+                  <QuotePara IndentFirst="2" IndentRest="2">1. Davie Shipyard </QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">2. Ocean Group </QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">3. Seaspan Shipyards </QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">4. Irving Shipbuilding </QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">5. BC Ferry &amp; Marine Workers' Union</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">6. BC Building Trades</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">7. BC Federation of Labour </QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">8. The Shipyard General Workers' Federation </QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">9. The United Steelworkers</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2"> 10. The Canadian Steel Producers Association</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">11. Former Minister of Transport Chrystia Freeland</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">12. The Minister of Public Safety, as well as officials responsible for reviewing national security issues related to the contract between BC Ferries and the Chinese shipyard Merchants Industry Weihai Shipyard, and that the officials appear in camera</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">13. Ontario Shipyards</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122726">
+            <PersonSpeaking>
+              <Affiliation DbId="320560" Type="40">Dan Albas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908955">I just want to confirm that it's officials only for in camera and the <Affiliation DbId="318630" Type="4">Minister of Public Safety</Affiliation> will be in public. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122727">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908956">Are we all in agreement with that?</ParaText>
+              <ParaText id="8908957">
+                <B>An hon. member:</B> What about Ontario Shipyards?</ParaText>
+              <ParaText id="8908958">
+                <B>The Chair:</B> Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122729">
+            <PersonSpeaking>
+              <Affiliation DbId="303570" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908959">The language in section (c) was changed from “summon”. The amended sentence reads, "The committee will invite the Minister of Transport, the Secretary of State for Labour, and the Secretary of State for Revenue to testify in this study for a minimum of one hour each.</ParaText>
+              <ParaText id="8908960">That completes the changes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122732">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908961"> Colleagues, you've heard the final version of the motion as amended. Are there any comments or questions? </ParaText>
+              <ParaText id="8908962">Seeing none, we are now prepared to go to a vote on the motion as amended. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13122735">
+            <PersonSpeaking>
+              <Affiliation DbId="320560" Type="40">Dan Albas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908963">I think we can just pass that unanimously.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13122737">
+            <PersonSpeaking>
+              <Affiliation DbId="320559" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908964">Are there any objections to passing the motion as amended unanimously?</ParaText>
+              <ParaText id="8908965">(Motion as amended agreed to)</ParaText>
+              <ParaText id="8908966">
+                <B>The Chair:</B> The clerk and I will get to work on this. </ParaText>
+              <ParaText id="8908967">With that, the meeting is adjourned. </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

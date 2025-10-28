@@ -1,0 +1,1585 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13166126">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 008</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, October 8, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 8 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 8, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 008</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 008</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 008</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">08</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">08</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/08 16:35:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la science et de la recherche</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Acronyme">SRSR</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Salma Zahid</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166129">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair (Salma Zahid (Scarborough Centre—Don Valley East, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931253"> I call this meeting to order.</ParaText>
+              <ParaText id="8931254">Welcome to meeting number eight of the Standing Committee on Science and Research. Pursuant to the motion of the House on June 18, 2025, the committee is meeting to study antimicrobial resistance. </ParaText>
+              <ParaText id="8931255">Today’s meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are attending in person in the room and remotely using the Zoom application. </ParaText>
+              <ParaText id="8931256">Before we continue, I would ask all in-person participants to consult the guidelines written on the cards on the table. These measures are in place to help prevent audio and feedback incidents, and to protect the health and safety of all participants, including the interpreters. You will also notice a QR code on the card, which links to a short awareness video.</ParaText>
+              <ParaText id="8931257">I would like to make a few comments for the benefit of the witnesses as well as all the members. Please wait until I recognize you by name before speaking. For those participating by video conference, click on the microphone icon to activate your mic. Please mute yourself when you are not speaking. For those on Zoom, at the bottom of your screen you can select the appropriate channel for interpretation—floor, English or French. For those in the room, you can use the earpiece and select the desired channel. </ParaText>
+              <ParaText id="8931258">All comments should be addressed through the chair. For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can. We appreciate your patience and understanding in this regard.</ParaText>
+              <ParaText id="8931259">I would like to welcome our witnesses today. For the first panel, we are joined by Dr. Victor Leung, physician, by video conference; Dr. Allison McGeer, a professor at the department of laboratory medicine and pathobiology at the University of Toronto; and Dr. Simon Otto, an associate professor at the University of Alberta, by video conference. </ParaText>
+              <ParaText id="8931260">Each witness will have five minutes for their opening remarks. We will start with Dr. Leung.</ParaText>
+              <ParaText id="8931261">Go ahead, Dr. Leung. You have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166154">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung (Physician, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931262">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931263">My name is Victor Leung. I practise as an infectious diseases physician and microbiologist in Vancouver, and I've been in practice since 2011.</ParaText>
+              <ParaText id="8931264">On a daily basis, I treat infections, and what's becoming increasingly clear is that infections that we commonly encounter in hospital are becoming resistant to antimicrobials that we have available in Canada.</ParaText>
+              <ParaText id="8931265">As you've heard from other witnesses so far, we need urgently to examine the barriers that are preventing access to antimicrobials in the Canadian market and change that process.</ParaText>
+              <ParaText id="8931266">When it comes to access to antimicrobials, we know that Canada, compared to other G7 countries, is falling behind. We don't have thoughtful programs that are well designed or examples that have been piloted in other G7 countries. What we need are programs that ensure patients get the drugs when they need them, at the right time, while maintaining those stewardship practices.</ParaText>
+              <ParaText id="8931267">In Canada, when we encounter a difficult-to-treat pathogen, we often rely on Health Canada's special access program, but from my experience working with the special access program, there is excessive administrative burden and paperwork that needs to be modernized. The whole system within special access needs to be revamped so that patients can get the antimicrobials when they need them.</ParaText>
+              <ParaText id="8931268">I think a solution that needs to be implemented has to be coordinated between the federal and provincial governments. One example would be the hub-and-spoke model that has been discussed previously. We have high-value antimicrobials available in centres, similar to how we deal with some antimicrobials for treating malaria. The federal government has to play a central role in guaranteeing that these drugs become available to the market while also having accountable systems to ensure that these antimicrobials are not overused.</ParaText>
+              <ParaText id="8931269">In Canada, among the different provinces that are involved, there needs to be equal access because of mobility. Antimicrobial resistance will not stay local, and changes can happen rapidly. Unlike with other drugs, depending on the condition—if individuals present with sepsis or septic shock—timely access is key.</ParaText>
+              <ParaText id="8931270">In addition to access, which is really about controlling infections, we have to do a lot more in preventing infections. Antimicrobial resistance can and needs to be prevented using the tools that we have, but this needs to be done in a different way.</ParaText>
+              <ParaText id="8931271">Two examples that I'd like to bring up are surveillance systems in Canada for antimicrobial resistance. Although we have multiple surveillance systems throughout Canada that are used, the problem is that the information is fragmented. It's not utilizing the information that's available from all different settings to be aggregated in a way that's timely.</ParaText>
+              <ParaText id="8931272">A perfect example of that would be for some of the infections that we have surveillance for in hospitals. If we look at the Canadian nosocomial infection surveillance program, the data reports that are provided are out of date. They're not timely and accessible and don't enable us to plan and develop programs to prevent these infections and monitor the effectiveness of these programs for accountability.</ParaText>
+              <ParaText id="8931273">A second example for prevention is looking at how we develop processes that are innovative. In Canada, we have solutions for that. Drawing upon our success previously with controlling HIV and the treatment-as-prevention approach, we can see that when treatment as prevention is implemented as a program to address different syndemics, like homelessness, opioid use and antimicrobial resistance, that can have an impact on targeted disease elimination and health care sustainability.</ParaText>
+              <ParaText id="8931274">We need to focus not only on control through drug access but also on prevention of antimicrobial resistance through modernizing the surveillance systems and modernizing and expanding proven Canadian interventions that have been shown to work.</ParaText>
+              <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+              <ParaText id="8931275"> Those need to be implemented more broadly for communicable diseases, and they also can be applicable to non-communicable diseases.</ParaText>
+              <ParaText id="8931276">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166249">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931277">Thank you, Dr. Leung.</ParaText>
+              <ParaText id="8931278">We will now proceed to Dr. Allison McGeer.</ParaText>
+              <ParaText id="8931279">Dr. McGeer, you will have five minutes for your opening remarks.</ParaText>
+              <ParaText id="8931280">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166253">
+            <PersonSpeaking>
+              <Affiliation DbId="322902" Type="28">Dr. Allison McGeer (Professor, Department of Laboratory Medicine and Pathobiology, University of Toronto, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931281">Thank you very much, Madam Chair, for the opportunity to testify.</ParaText>
+              <ParaText id="8931282">My name is Allison McGeer, and I'm an infectious disease physician and epidemiologist in Toronto.</ParaText>
+              <ParaText id="8931283">Before I start, let me declare my conflicts of interest. My research in infection prevention and antimicrobial resistance involves a fair amount of work on vaccines. I have both research funding and personal honoraria from many of the companies that market vaccines in Canada.</ParaText>
+              <ParaText id="8931284">I'm here today to ask you for help specifically with two areas in antimicrobial resistance. The first is the issue of what our current AMR trajectory is. As people pointed out yesterday, we've been relatively spared from the burden of AMR in Canada, in part because of the hard work of a lot of people across the One Health continuum in Canada. Nonetheless, it's very clear, as Victor has just pointed out to you, that this work is not enough. We have not greatly coordinated, but good surveillance systems across the country show that for every pathogen, AMR is increasing. We are losing ground, and AMR is accelerating. It's now harming patients.</ParaText>
+              <ParaText id="8931285">Before the COVID pandemic, our biggest problem in Canada tended to be that you had to think a little more carefully about getting a broader-spectrum antibiotic, to make sure a patient with risk factors for resistance was covered. All of us in infectious diseases now have seen patients who have become septic because they got the wrong initial antibiotic, not because people were incompetent but because there were too many conflicting choices and you couldn't do the antibiotic choice right.</ParaText>
+              <ParaText id="8931286">My best analogy for what's going on with AMR is what's happening with climate change. I've been watching the wildfires and heat events for the last two years, and it's clear to me that despite a lot of work on trying to mitigate climate change, it's been too little, too late. AMR is obviously a different order of magnitude, but it is exactly parallel. A decade from now, I don't want your families and mine to be watching antimicrobials fail in hospitals and be thinking the same thing, that we did too little, too late. We have a narrow window where we can take substantial, additional action on AMR that will fix things. We have evidence for lots of things that we're not doing and need to move on now.</ParaText>
+              <ParaText id="8931287">Your first question, of course, is what we are not doing, and Victor has just pointed that out to us. Think about the COVID pandemic for a moment. We didn't get out of the COVID pandemic because we had treatment. We got out of the COVID pandemic because we have vaccines and public health information. Getting out of the AMR pandemic, and it is a pandemic, even if it's not the same as COVID, has to involve prevention. It's not to say that antibiotic access, the development of new antimicrobials and antimicrobial stewardship are not critical interventions. They are. We need them, and we need more of them, but in and of themselves, they're never going to be enough. We need to broaden our efforts to prevent infection, and we need to be looking at our federal action plan now and asking where the gaps in prevention are and what we can do to move forward on them.</ParaText>
+              <ParaText id="8931288">There are two particularly important areas in human health that I want to touch on. I want to do it because, honestly, the veterinarians and agriculture and environmental health people are ahead of us. They've been doing better than we have been doing in human health on AMR.</ParaText>
+              <ParaText id="8931289">The first thing I want to talk about is vaccines. We need a national vaccine strategy against AMR in the same way that we have one against pandemic pathogens, one that covers vaccine development and manufacturing within Canada but also one that ensures that we deliver publicly funded vaccines to Canadians. At the moment our vaccine delivery system across the country is badly broken. It needs to be fixed, and it needs to be fixed now. If you want to ask me a question about what the WHO thinks the benefit will be from fixing it now, I'd be happy to tell you. </ParaText>
+              <ParaText id="8931290">The second thing I want to point out is that we also have a very significant problem with the transmission of antimicrobial-resistant organisms within our health care facilities. People have told you, and they were right, that we use more antimicrobials in animals than humans and more antimicrobials in humans in the community than in humans in hospitals, but we use our most powerful antibiotics in hospitals—we use them for our most vulnerable patients—so hospitals are a crucible for antimicrobial resistance.</ParaText>
+              <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+              <ParaText id="8931291"> Not all, but many of the pathogens that we're in increasing trouble with are pathogens where the antimicrobial resistance is arising and growing in hospitals. We have evidence from both Canadian studies and outside studies that we don't have to tolerate that, but we have not put that evidence into practice.</ParaText>
+              <ParaText id="8931292">We urgently need a national conversation—I think it has to come nationally, despite the fact that much of what we do in hospitals is provincial—to talk about why we haven't implemented this program, whether we need to be implementing this or something different, and what we can do—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166305">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931293">Can you please wind up? You will get some opportunity to talk about this in the rounds of questioning.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166308">
+            <PersonSpeaking>
+              <Affiliation DbId="322902" Type="28">Dr. Allison McGeer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931294">We need to get a handle on what is going on with this.</ParaText>
+              <ParaText id="8931295">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166310">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931296">Thank you, Dr. McGeer.</ParaText>
+              <ParaText id="8931297">Now we will proceed to Dr. Simon Otto. He's joining us by video conference.</ParaText>
+              <ParaText id="8931298">Please, go ahead. You will have five minutes for your opening remarks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166311">
+            <PersonSpeaking>
+              <Affiliation DbId="322900" Type="28">Dr. Simon Otto (Associate Professor, University of Alberta, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931299"> Good afternoon. Thank you, Madam Chair and the committee, for the opportunity to testify today.</ParaText>
+              <ParaText id="8931300">I'm Dr. Simon Otto. I'm a practising veterinarian, an epidemiologist and a faculty member at the University of Alberta. My research focuses on “one health”, the aspect of how AMR is a one health concern and how it moves between and impacts the health of humans, animals and their environments.</ParaText>
+              <ParaText id="8931301">I will speak to you about three key points, which echo those of my colleagues.</ParaText>
+              <ParaText id="8931302">The first is that tackling AMR requires a holistic, one health approach that includes prevention of infections and stewardship of drug use.</ParaText>
+              <ParaText id="8931303">Next, we cannot manage what we do not measure.</ParaText>
+              <ParaText id="8931304">Last, resources are urgently required to tackle this silent pandemic.</ParaText>
+              <ParaText id="8931305">I want to reinforce that while drug discovery and development are important, they will not solve the AMR problem, as Dr. McGeer has said. AMR is a natural phenomenon of microbes that is exacerbated by antimicrobial use. Mitigating AMR requires an approach that prevents infections and emphasizes antimicrobial stewardship.</ParaText>
+              <ParaText id="8931306">Preventing infections will reduce the need to use antimicrobial drugs. We will never prevent them all, but we can reduce the transmission of infectious diseases in humans, food animals and companion animals through management strategies. Vaccinations, as we've heard, are one important strategy. They reduce the severity and transmission of disease, thereby reducing the number of infections and the need to treat them with antimicrobials.</ParaText>
+              <ParaText id="8931307">Prevention goes beyond vaccinations. We rely heavily on water treatment, sanitation, hygiene and food safety to prevent human infections. Likewise, we rely on management strategies to prevent infections in intensively raised food animals, the companion animals that are part of our families, backyard farm animals, wildlife, and zoo and other animals.</ParaText>
+              <ParaText id="8931308">Infections are inevitable, however. As veterinarians, we have an ethical obligation to treat infections in all animals under our care. This is where antimicrobial stewardship is pivotal: It's using these drugs in a way to minimize the selection for AMR.</ParaText>
+              <ParaText id="8931309">Antimicrobial stewardship should be viewed as a continuous improvement strategy. AMR is inevitable, therefore there is no specific threshold of stewardship above which we can say we have done enough. Stewardship should focus on reducing unnecessary and improper use, such as in areas where we revert to drug use in the place of making management changes that could reduce infections.</ParaText>
+              <ParaText id="8931310">This is where measurement comes in. Canada has a world-renowned AMR and antimicrobial use surveillance system that we've already heard about. However, the federal programs still have large gaps and important limitations. The Canadian integrated program for AMR surveillance relies on a relatively small number of farms and the food-animal commodities that are included in the program, which is incomplete. There's almost no animal pathogen surveillance, and there's no AMR surveillance in companion animals.</ParaText>
+              <ParaText id="8931311">The human surveillance system that we've heard about covers hospital infections, but beyond new pilot projects, it still suffers from large gaps in community medicine, long-term care facilities and remote, northern and indigenous communities. </ParaText>
+              <ParaText id="8931312">While food-animal production uses quantities of antimicrobials that exceed those of human medicine, we still do not have a clear picture of the true impact of animal antimicrobial use on AMR in animal or human health. It's clear that most resistance in humans comes from human use, just like most resistance in animals comes from animal use, with some limited examples of movement between them, which are important.</ParaText>
+              <ParaText id="8931313">Put plainly, we cannot manage what we do not measure. To truly support stewardship decisions by human health care practitioners, veterinarians and food-animal producers, we must have a more comprehensive surveillance program that builds on the strong foundation we currently have. </ParaText>
+              <ParaText id="8931314">The environment, such as water, soil and crops, is also an important area for surveillance that's lacking. It's a large but poorly understood reservoir of AMR that receives effluent of resistant microbes and drug residues from human and animal settings.</ParaText>
+              <ParaText id="8931315">All of this points to the need for a substantial resource investment in money, expertise and infrastructure. While drug development is an important piece, so too are the investments in research to identify management strategies for animal and human health, vaccines and diagnostic testing, and for social science to understand how to effectively implement these strategies in a reluctant human population. All of these strategies must keep animal, human and environmental health in mind in a one health context. The needs of each sector will be unique but will impact one another.</ParaText>
+              <ParaText id="8931316">We must have a comprehensive, one health strategy for Canada and the globe. The time is now as this silent pandemic pushes us toward the post-antibiotic era.</ParaText>
+              <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+              <ParaText id="8931317"> Thank you to the committee for making AMR one of your priorities and for the opportunity to discuss this today. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166357">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931318">Thanks to the three witnesses for their testimony. </ParaText>
+              <ParaText id="8931319">Now we will start with our first round of questioning. We will start with MP DeRidder for six minutes. </ParaText>
+              <ParaText id="8931320">Please, go ahead. You have six minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166359">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder (Kitchener Centre, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931321">Thank you, Chair. </ParaText>
+              <ParaText id="8931322">I want to thank all the panellists for being here today and joining us in this discussion. </ParaText>
+              <ParaText id="8931323">Victor, I'm going to direct my questions to you. You're from Vancouver, where this drug crisis we're facing has reached an all-time high and is, quite frankly, out of control. I know that in each of our ridings as well, we've been touched by the drug crisis happening here in Canada. </ParaText>
+              <ParaText id="8931324">On October 7, the B.C. premier admitted that the decriminalization of drugs was a mistake.</ParaText>
+              <ParaText id="8931325">How has the increase in the opioid epidemic increased infectious transmissions in the hospital you come from?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166373">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931326">I see opioid use and antimicrobial resistance as syndemic. These two conditions, when they interact along with other factors, amplify and make both of these conditions worse. </ParaText>
+              <ParaText id="8931327">The way we have to address both opioid use and AMR from a syndemic approach is based on the approach that we've taken here in British Columbia, which is expanding the treatment as prevention strategy that was used and adopted by UNAIDS and Canada to target HIV elimination. Using that approach of treatment as prevention and the strategies surrounding that, we can address these conditions as a whole, as opposed to individual, fragmented conditions. If we try to address each one of these individually, the scope and the costs are much more significant. Having a packaged approach, such as treatment as prevention strategies, will help address them in a way that's sustainable for the health care system. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166383">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931328">Thank you for that. </ParaText>
+              <ParaText id="8931329">You mentioned that we don't have thoughtful programs in place and there is no surveillance to measure the impact of the antimicrobial resistance. </ParaText>
+              <ParaText id="8931330">How are your doctors and nurses affected by this? Is anybody tracking this? Is there any data to keep an eye out for the exposure to infection, and therefore resistance—even just boots on the ground with you as doctors and nurses in the hospitals?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166388">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931331">To clarify, I mentioned that our access systems need to be improved. Our surveillance systems also have room for improvement in terms of timeliness and ensuring that there's no redundancy in the surveillance systems we have. </ParaText>
+              <ParaText id="8931332">At the hospital level, the way the antimicrobial resistance affects my colleagues in nursing, as well as physicians and other health care providers, is in how we have to practise, what things we need to change in a daily practice to minimize the chance of transmitting infections to our patients, and also through patient-to-patient transmissions within the health care facility. </ParaText>
+              <ParaText id="8931333">Because of how health care is delivered in acute care facilities, infections that are antimicrobial-resistant or even hospital-acquired are, at some level, invisible, because one provider working with an individual doesn't have that whole continuum of interaction to see their health care journey. If a person acquires an antimicrobial-resistant infection seven days into their hospitalization, the health care providers interacting with them at the time may no longer be following them throughout their hospital journey. When a new team or new provider comes on, often it's just recorded in the chart as an infection. It's not obvious to the health care providers that this is a hospital-acquired infection. </ParaText>
+              <ParaText id="8931334">That's why we have hospital infection prevention and control teams as one group that helps with surveillance. I'm suggesting that the surveillance data that's acquired and ascertained by the team needs to be acted upon, and there needs to be accountability within the system, not only at the local level but also captured at a provincial and a federal level so that we can increase awareness of the impact of these hospital-acquired infections on individuals and not continue to deal with them in the way we are now. From the health care provider's perspective, unless they are dealing with an acute case in which someone is dying in front of them, that sense of urgency and problems with antimicrobial resistance are often invisible. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166424">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931335"> There was a report that said that 1,250,000 Canadians left an emergency room without being treated in 2024, an alarming increase of 35.54% over a five-year period. How many diseases do you think are slipping through the cracks when this many people aren't even being treated in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166428">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931336"> When individuals seeking care aren't getting access to care, I think all the different reasons for which they've sought care could be missed. I don't know what proportion of that would be related to infections. We don't have a system to capture that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166430">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931337">Thank you very much for your time, Victor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13168690">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931338">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166432">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931339">Thank you.</ParaText>
+              <ParaText id="8931340">We will go to MP McKelvie for six minutes.</ParaText>
+              <ParaText id="8931341">MP McKelvie, please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166435">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie (Ajax, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931342">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931343">My first question is for Dr. McGeer.</ParaText>
+              <ParaText id="8931344">You've done a lot of work on E. coli and antimicrobial-resistant E. coli. I know that some of your work has focused on monitoring and on monitoring waste water. I'm wondering what the state of science is around monitoring waste water. Is there somebody who's doing it well, such that we could model any such programs around theirs?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166442">
+            <PersonSpeaking>
+              <Affiliation DbId="322902" Type="28">Dr. Allison McGeer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931345"> The challenge with monitoring waste water for antimicrobial resistance is that antimicrobial resistance concentrates in waste water—honestly, for reasons that I don't think we understand. We looked at waste water in Toronto, for instance. In 2014, right at the beginning of seeing patients with resistant organisms that we call carbapenamase-producing organisms.... It doesn't matter what they are. They're just bad. They're called CPE. We were seeing very few patients in hospitals, but we were already seeing consistent detectable concentrations in our waste-water treatment plants. That's been seen everywhere around the world. That's a function of this real concentration in waste-water treatment plants.</ParaText>
+              <ParaText id="8931346">Now, you could see geographic differences between where patients are coming from. In Toronto there's a very large South Asian population, and a particular type of CPE is endemic in much of South Asia, so you could see some differences. In terms of actually looking for broadly resistant, gram-negative E. coli organisms in waste water, we actually don't know how to do it. We don't know how to interpret it or how to do it well. In our last study, when we looked at organisms, we could see the same genes, but very different organisms were carrying them. The genes come from humans, through the hospital waste-water system primarily, into our general waste-water system. Then in our general waste-water system, the genes actually get transferred to other organisms whose home is waste-water systems. I think that's difficult.</ParaText>
+              <ParaText id="8931347">The second thing about waste water, unrelated to surveillance, is that waste-water treatment plants are to reduce bacterial concentrations, but they don't preferentially reduce antimicrobial resistance. If antimicrobial-resistant organisms from hospitals go into your waste-water treatment plants, antimicrobial-resistant organisms will leave the waste-water treatment. They'll be in a much diluted form, but they'll still leave.</ParaText>
+              <ParaText id="8931348">One of the interesting things about looking at waste-water treatment plants, which people are still working on, is that there are some waste-water treatment plants where you do seem to get some preferential reduction in antimicrobial resistance. There are others that look pretty similar, admittedly to the uninitiated, where you do get substantial reductions. I think in addition to working on our surveillance systems for waste water, which we need, we also need to be looking at whether, in waste-water treatment plants, we can have technology that will preferentially reduce antimicrobial resistance so that we're not contaminating the environment from what's happening in our hospitals.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166477">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931349">Is it possible to do, and has anybody done it, at the point of source? Instead of sampling at water treatment plants, sample effluent from hospitals and long-term care. Has there been thought given to shifting more toward monitoring at the source or at the discharge points, as opposed to once it's combined in a pipe on the way out? Is anybody doing that internationally? Is there anything we can learn from that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166487">
+            <PersonSpeaking>
+              <Affiliation DbId="322902" Type="28">Dr. Allison McGeer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931350">There are a bunch of people doing it internationally. It's not inexpensive to do. Victor and Simon can weigh in on this if they know. </ParaText>
+              <ParaText id="8931351">Tracking from hospital through other pathways into waste-water treatment plants is also relatively complicated. In Toronto our water doesn't always go where you think it goes in the system, as I'm sure you know. Figuring out how to do that tracing is actually difficult. I'm not aware that there are people who are doing it really well at the moment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166498">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931352"> Dr. Otto, do you have any recommendations? What could we be doing better in this regard, in terms of tracing bacteria in effluence?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166502">
+            <PersonSpeaking>
+              <Affiliation DbId="322900" Type="28">Dr. Simon Otto</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931353">I think the biggest challenge is that we don't have any official monitoring set up in those spaces. Most of the things you see internationally are that people are doing it as part of funded research projects. We're doing research on how to do it, but we don't actually have programs set up that are doing it uniformly.</ParaText>
+              <ParaText id="8931354"> Long-term care is a great example where we have huge gaps in surveillance and where we really don't know what's going on in terms of AMR surveillance. I think it's an opportunity, but it would require substantial investment.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166509">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931355">If we're going down that road, the questions I asked the previous panel were more.... In your case, you're all the experts in the actual pathogens themselves, but some of them were also experts in the antimicrobials and the pharmaceuticals. Would that also have to be an important part of their approach?</ParaText>
+              <ParaText id="8931356"> Should we be looking at combined...? If we're going to start looking at monitoring or testing and pilot projects for monitoring, should we be monitoring not only the genes but also the antimicrobials and what is coming out through and going back out into the environment in that regard?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166517">
+            <PersonSpeaking>
+              <Affiliation DbId="322900" Type="28">Dr. Simon Otto</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931357">From a residue standpoint, the answer is yes, but the other part of it is tracking, with detail, what drugs are being used, for example, in a long-term care facility, so that we know what's coming out. If we can't link antimicrobial resistance data on pathogens and bacteria to whether it's residues or use in those populations, then it's hard to understand what's driving resistance levels.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166518">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931358">Typical pathogens love us, because we're warm and we have—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13168580">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931359">Your time is up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13168587">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931360">Okay, I'll ask later.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166521">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931361">Thank you.</ParaText>
+              <ParaText id="8931362">We will now proceed to MP Blanchette-Joncas. </ParaText>
+              <ParaText id="8931363">Please go ahead. You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166522">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas (Rimouski—La Matapédia, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931364"> Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931365">I'd like to welcome the witnesses here with us today.</ParaText>
+              <ParaText id="8931366">Dr. Leung, in 2020, 82% of antimicrobials sold in Canada were for veterinary use. Your program allows for returns on investments to be generated on the remaining 18% of antimicrobials, which are for human use. How do we reconcile this economic objective with the urgent need to preserve the effectiveness of antimicrobials and combat bacterial resistance? Do you have an estimate of these savings?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166534">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931367">I missed the first part of the question. Could you repeat the question, please?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166535">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931368">We'll start from the top. </ParaText>
+              <ParaText id="8931369">Can you please start from the beginning? Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166536">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931370">In 2020, 82% of antimicrobials sold in Canada were for veterinary use. Your program allows for returns on investment to be generated on the remaining 18% of antimicrobials, which are for human use. How do we reconcile this economic objective with the urgent need to preserve the effectiveness of antimicrobials and combat bacterial resistance? Do you have an estimate of these savings?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166542">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931371">In the hospital antimicrobial stewardship programs, most return on investment is a combination of the extent to which antimicrobial costs are saved through the programs that are implemented and the projected costs in the prevention of driving resistance and in the increasing adverse event rates associated with these antibiotics, as well as all the other downstream impacts that happen when there's overuse of antimicrobials.</ParaText>
+              <ParaText id="8931372">At a human-scale level, an antimicrobial stewardship program in the hospital, when compared to the animal scale in terms of quantity—grams—of antimicrobials, is significantly less. However, the return on investment economically is measured in ways that focus on how we reduce antimicrobial overuse in the health care system, in hospital systems, and also how that will result in reduction of adverse events related to antimicrobials.</ParaText>
+              <ParaText id="8931373">Adverse events, when we think of antibiotics, are not just antimicrobial resistance. They're all the things that drive medication consequences. We know that the class of antibiotics, when compared to other classes of medications, is often the number two or number three driver of medication adverse events. Therefore, the measure of return on investment has to be broader in scale and not just focused on the costs of procurement or the cost of the use of antibiotics itself.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166559">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931374">You work with multidisciplinary teams to implement surveillance systems for resistant organisms. Antimicrobial resistance is definitely a complex problem that impacts human, animal and environmental health. However, our research funding system still works largely in silos, hindering the development of truly interdisciplinary projects.</ParaText>
+              <ParaText id="8931375">Do you think better support for cross‑sectoral research could strengthen our collective ability to respond to the growing threat of antimicrobial resistance?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166567">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931376"> Research is definitely an important pillar in confronting antimicrobial resistance, but research alone is not enough.</ParaText>
+              <ParaText id="8931377"> Yes, the research has to be applicable, translational or at a basic science level. All of the different types of research have impacts on dealing with antimicrobial resistance, but research alone is not sufficient.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166576">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931378">In the 2024 federal budget, the government announced the creation of an umbrella organization, but it has yet to be put in place. This organization would be aimed at better coordinating the three granting councils and encouraging interdisciplinary research. In your opinion, should this approach be strengthened?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13168654">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931379">Again, I missed the first part of what approach we need to reinforce.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166584">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931380">The interpretation cut out.</ParaText>
+              <ParaText id="8931381">Could you please repeat the question?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166588">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931382">Madam Chair, these technical difficulties show the importance of having interpreters here, in the room, and not off site. I hope people and the government heard that clearly.</ParaText>
+              <ParaText id="8931383">Dr. Leung, I'll repeat my question. In the 2024 federal budget, the government announced the creation of an umbrella organization, which still has not been put in place. This organization would be aimed at better coordinating the three granting councils and encouraging interdisciplinary research. In your opinion, should this approach be strengthened?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166592">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931384">I don't know which specific organization you're referring to that was established to look at this. I would have to reference what specific organization you're referring to in order to answer that question of whether or not I think it's beneficial to ensure this funding gets increased or this program continues. I'm not sure.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166596">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931385">Madam Chair, taking all these technical problems into account, how much time do I have left?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166600">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931386">It's two minutes and 38 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166603">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931387">Thank you very much, Madam Chair.</ParaText>
+              <ParaText id="8931388">Dr. Leung, Québec and the provinces are experiencing growing pressure in hospitals because of antimicrobial resistance, while Ottawa funds only 22% of health costs. Does this funding imbalance limit institutions' ability to prevent the spread of antimicrobial‑resistant infections and to maintain appropriate prevention teams?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166609">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931389">I don't know the specifics of how much is allocated in Quebec and what's it's allocated to. I would say that whenever funding is allocated, the important things that I think would be useful are the accountability for how that funding was used, in order to learn if the funding was appropriately allocated and therefore requires more extensive funding, or whether we can learn from how the funding was allocated so that, prior to just increasing finances towards a problem, we can better understand how that can be efficiently used for fiscal sustainability.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166613">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931390">Thank you, Dr. Leung.</ParaText>
+              <ParaText id="8931391">Dr. McGeer, Dr. Herman Barkema, professor at the University of Calgary, recently highlighted that Québec has taken the lead by banning the use of category one antimicrobials in agriculture and that this approach works very well. Could this kind of initiative based on concrete results be better integrated or promoted in a flexible, coordinated one health approach that takes regional realities into account?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166623">
+            <PersonSpeaking>
+              <Affiliation DbId="322902" Type="28">Dr. Allison McGeer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931392">It's both an advantage and a disadvantage in Canada that we have differences between provinces. Sometimes you can see that in prevention Quebec is in many ways ahead of many of the rest of us in other provinces, with a greater value put on prevention and protecting people in health.</ParaText>
+              <ParaText id="8931393"> I think there are a number of places across Canada where you can choose pilot projects or different policies that are working really well in one province and that we could transport to other provinces. That is clearly one of them within the agricultural sector. As you know, sometimes it's more difficult to move things from one province to another.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166630">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931394">Thank you.</ParaText>
+              <ParaText id="8931395">We will now start our second round of questioning with MP Mahal.</ParaText>
+              <ParaText id="8931396">MP Mahal, you will have five minutes for your round of questioning. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166635">
+            <PersonSpeaking>
+              <Affiliation DbId="319848" Type="47">Jagsharan Singh Mahal (Edmonton Southeast, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931397">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931398">Dr. Leung, I want to come to you with my questions. As you said in your initial statement, there are barriers in the Canadian market. Accessibility is falling behind. We are at the bottom of the G7 when it comes to accessibility and all those challenges. Given the last 10 years of Liberal overspending and that now they are planning for the budget to be cut heavily in all these important areas, how do you think it's going to impact AMR and research related to AMR?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166655">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931399">Overall, with budget cuts, the first thing that may likely happen is a decrease in progress towards advancing what was previously committed to. However, I think that with budget cuts also comes an opportunity to relook at how programs have developed and at whether or not there are opportunities to do things within the fiscal constraints, such as creating new processes, which often are not as expensive as creating access to drugs. At the end of the day, current drug access is often limited by inefficient and outdated processes. It's not necessarily all tied to the financial costs of procurement for some of these drugs.</ParaText>
+              <ParaText id="8931400">Fiscal constraints will force us to really consider more efficient and innovative processes that have been tried by other G7 countries and that may not result, necessarily, in increased upfront costs. At least, at the end of the day, even if the upfront costs are higher, the return on investment.... If the process is established to be efficient, usable and practical for the end users, we will still, for now, be able to work within solutions that are allocated to the various groups to make these drugs accessible.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166682">
+            <PersonSpeaking>
+              <Affiliation DbId="319848" Type="47">Jagsharan Singh Mahal</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931401">Thank you for your answer, Doctor.</ParaText>
+              <ParaText id="8931402">When you answered my colleague's question, I did not understand it clearly. She asked you what the risk is of doctors and nurses getting those AMR infections transmitted to them while they are on duty. How do you think the federal government and those concerned are doing with regard to protection of those doctors and nurses working on the front line?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166698">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931403">Health care workers, when dealing with patients with antimicrobial-resistant infections, are going to be at risk as transiently colonized, meaning that it becomes part of some aspect of their body—for example, the skin—but they may not be infected with it. They can then also act as a potential for transmitting to other individuals. That is why it's fundamental to have infection prevention and control measures within facilities, as well as proper occupational health approaches.</ParaText>
+              <ParaText id="8931404">When it comes to occupational health approaches, we saw, for example, with the COVID pandemic, some of the challenges in thinking about what our best allocation of resources is to focus on the prevention of acquiring or transmitting an infection. It doesn't have to come down to only personal protective equipment.</ParaText>
+              <ParaText id="8931405">I think an aspect of hospitals that we should be more focused on as we modernize infrastructure is engineered infection prevention and control measures, which don't rely, necessarily, on the individual health care worker being aware of some of the ways that infection is transmitted—for example, infections that are transmitted through the air or infections that are transmitted through surfaces. There is an increasing number of useful, cost-effective, engineered infection prevention and control measures that can be incorporated in new hospital builds and also retrofitted into some older facilities.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166727">
+            <PersonSpeaking>
+              <Affiliation DbId="319848" Type="47">Jagsharan Singh Mahal</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931406"> You also mentioned that—</ParaText>
+              <ParaText id="8931407"> You also mentioned that—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166732">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931408">Your time is up, Mr. Mahal.</ParaText>
+              <ParaText id="8931409">Your time is up, Mr. Mahal.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166737">
+            <PersonSpeaking>
+              <Affiliation DbId="319848" Type="47">Jagsharan Singh Mahal</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931410">Can I have that in writing? I have just one question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166740">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931411">If something comes up, like another round or something, we will see. Otherwise, we can deal with it at the end.</ParaText>
+              <ParaText id="8931412">Now we proceed to MP Noormohamed for five minutes. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166745">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed (Vancouver Granville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931413">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931414">Thank you to our witnesses for being here. I have a question for all three of you. I'll start with Dr. Otto, then Dr. McGeer and then Dr. Leung. </ParaText>
+              <ParaText id="8931415">Dr. Otto, you spoke about the importance of vaccinations, vaccines and vaccine development. We have seen, over the course of the last little while, an alarming rate of vaccine hesitancy and criticism of the use of vaccines, including from politicians. That, I would argue, causes a substantial amount of public concern, which then leads to a distrust of science. In this time—as you were talking about—of antibiotic resistance, and with the need, now, to urgently and quickly develop new vaccines and to get those vaccines to people, particularly to those who are on the front lines of some of these emerging illnesses and diseases, what would you say to the politicians and to those who are spreading some of this misinformation about vaccines?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166749">
+            <PersonSpeaking>
+              <Affiliation DbId="322900" Type="28">Dr. Simon Otto</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931416">I think it's twofold. We need to focus on the messaging that vaccines do work—they are not going to prevent infection from happening, but they're going to reduce disease and transmission at the population level—and on reinforcing the messaging about vaccine safety. This isn't just for human medicine: Vaccines are incredibly important for veterinary medicine, the animal health side, as well.</ParaText>
+              <ParaText id="8931417">I am going to reiterate my point about research around the social science piece, because it's not just the political side. The human population is now quite reluctant because of messaging around vaccines and misinformation. I think we need to fill that void with the scientific evidence, but we need to do it in a way that's digestible for people as opposed to reverting to the stats and technical pieces. In the research piece around siloing, and “one health” as well, our research agencies, federally, are set up to fund human medical research, science, STEM, animal health and social science, and it creates a split, making it difficult for some of that one health research across those spaces to tackle some of these problems.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166769">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931418">Thank you.</ParaText>
+              <ParaText id="8931419">Dr. McGeer, the same questions....</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166774">
+            <PersonSpeaking>
+              <Affiliation DbId="322902" Type="28">Dr. Allison McGeer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931420">I think there are three things. The first is that, yes, there's been a substantial impact, but we're still doing pretty well with vaccines. Under the Ontario vaccine program for RSV—which, you would have thought, in the middle of COVID, flu and general catastrophe, would have been really difficult and was started way too late—we vaccinated 70% of residents in long-term care facilities. That we can do that is an amazing testament to the people who work in long-term care and the families of people in long-term care. Yes, we need to be worried about vaccines, but we don't need to be panicking about the state of vaccines.</ParaText>
+              <ParaText id="8931421">The second thing about vaccines is that, partly because they're prevention.... You know how hard it is to value prevention. I've spent my life in infection prevention, and do you know what a really good day in infection prevention is? It's a day when nothing happens. Pitching that to my CEO is really hard, so vaccines are hard, because they're part of prevention. </ParaText>
+              <ParaText id="8931422">They're also hard because of the neuroscience, of thinking about taking risks for future benefit. A piece of this is that we will never get away from vaccine hesitancy and misinformation. It's been with us since the 1700s, when Jenner first started. It will be with us 400 years from now unless we get past vaccines in some fundamental way.</ParaText>
+              <ParaText id="8931423">A piece of it is that we just need to keep working at it, but you're absolutely right that what we need now, particularly with what's going on south of us, is a real focus on what we can do to protect people from disinformation, in particular younger people, who don't have the faith in vaccines that we older folks have, and who also consume much more of the social media in which disinformation is spreading. It's a very significant issue that we need to focus on.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166798">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931424">Thank you.</ParaText>
+              <ParaText id="8931425">I turn it over to you, Dr. Leung.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166799">
+            <PersonSpeaking>
+              <Affiliation DbId="322965" Type="28">Dr. Victor Leung</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931426">I would say, specifically for the vaccines, that even though we sometimes think it may be vaccine hesitancy, the more common problems I encounter, for people who are underimmunized for things they are eligible for, are awareness and access. There are lots of barriers to vaccine access across the country, based on how it's currently funded. A lot of the time.... Specifically, for example, the program that we started at our hospital for vaccination against zoster, a reactivation of chicken pox, is funded by the first nations health benefits program, but the logistics around getting it are the barrier, not the people's willingness to get the vaccine. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166805">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931427"> We will proceed to MP Blanchette-Joncas for two and a half minutes. </ParaText>
+              <ParaText id="8931428">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166808">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931429">Dr. Otto, the report by Policy Horizon Canada, “Disruptions on the Horizon,” states that antimicrobial resistance has become the leading cause of mortality in the world and that it is already disrupting food systems. You're working on the “farm to fork” strategy. To what extent does the underfunding of science and research by the federal government weaken our ability to meet this challenge?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166813">
+            <PersonSpeaking>
+              <Affiliation DbId="322900" Type="28">Dr. Simon Otto</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931430">I think my comments are not specific to government. Our challenge of understanding farm-to-fork transmission is hampered by the gaps in our surveillance program, which are not specific to this government. Those programs have been well designed by thoughtful people, but budgets that predated the current government and past governments have continually created challenges for them in terms of expanding those programs. </ParaText>
+              <ParaText id="8931431">As I mentioned, I think there are gaps in understanding there. While we have a world-renowned system in terms of its design, the big gaps are in terms of coverage, animal health, animal pathogens and the areas that I mentioned in my testimony earlier.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166820">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931432">What tangible measures do you wish to see in the next budget, the one coming out in November, to tackle the global challenge of antimicrobial resistance?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166824">
+            <PersonSpeaking>
+              <Affiliation DbId="322900" Type="28">Dr. Simon Otto</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931433">What we've seen with surveillance budgets over the last 10 to 15 years is that they have continually been decreased, to the point that the programs are being run by a relatively small number of experts in the space without a lot of supporting cast there. There needs to be investment in the personnel to support the programs and also to expand their coverage. </ParaText>
+              <ParaText id="8931434">If you look at animal pathogens, for example, on the AMR side, the majority of animal pathogen surveillance is currently funded by research funding as opposed to ongoing budget funding. That's a specific area that would help.</ParaText>
+              <ParaText id="8931435"> I mentioned—and Dr. McGeer and Dr. Leung can speak more to this—AMR surveillance in long-term care and the community side to have a better understanding of the human-medical piece. Those are currently funded as pilot projects, but they need to be expanded to more mainstream surveillance programs.</ParaText>
+              <ParaText id="8931436">Then there is addressing how we work with provincial data to get some more integration with the provincial data sources that exist, which Dr. Leung spoke to.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166832">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931437">Thank you.</ParaText>
+              <ParaText id="8931438">The time is up for MP Blanchette-Joncas.</ParaText>
+              <ParaText id="8931439">We will have one and a half minutes each for the Conservatives and the Liberals. Then the panel will come to an end.</ParaText>
+              <ParaText id="8931440">Mr. Baldinelli is on the list. I don't know if Mr. Mahal wants to ask his question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166836">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli (Niagara Falls—Niagara-on-the-Lake, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931441">I'll take this opportunity.</ParaText>
+              <ParaText id="8931442">I just want to thank the witnesses for being with us today.</ParaText>
+              <ParaText id="8931443">Dr. McGeer, in your opening comments you said you're going to discuss what it is we are not doing right. One of those things that you talked about was transmissions within hospitals. I think you said—it was kind of shocking—that it's “the crucible” for AMR.</ParaText>
+              <ParaText id="8931444">Do poor health care practices like overcrowding in our hospitals and hallway health care increase the risk and acceleration of AMR in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166842">
+            <PersonSpeaking>
+              <Affiliation DbId="322902" Type="28">Dr. Allison McGeer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931445">The answer to that is yes, but it's more fundamental than that. </ParaText>
+              <ParaText id="8931446">Even our best, newest hospitals, with what people are doing as current best practice, have not effectively reduced transmission of AROs in the hospital. </ParaText>
+              <ParaText id="8931447">Organizing yourself to do that is difficult. It requires an investment of funds on the part of the hospital, which is hard for hospitals to do. Crowding, shortages of staff and less space unquestionably make it worse, but we have a core problem that is beyond that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166846">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931448">Dr. Leung, you said in your opening remarks that Canada is “falling behind” in terms of the antimicrobials that are available. In fact, in our excellent note that was prepared by our staff—and Dr. Salama mentioned this the other day—from 2010 really to 2021, only three out of 18 new antibiotics launched worldwide are available in Canada. You talked about some of the approval processes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166850">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931449">Your time is up, Mr. Baldinelli.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166853">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931450">Could you just provide written comments on some of your concerns with the Health Canada special access program and how that could be improved?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166856">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931451">Thank you.</ParaText>
+              <ParaText id="8931452">We will now proceed to MP McKelvie for one and a half minutes before we end this panel.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166858">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931453"> Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931454">It's clear that we need all hands on deck. We need municipalities that ultimately treat waste water and monitor waste water. We need provinces that generally work in agriculture and that sort of thing. We need the federal government: We do drug approvals and fund research. </ParaText>
+              <ParaText id="8931455">Dr. McGeer, you mentioned that you had some thoughts that you could share with us around how we're working with the WHO. How important is international collaboration and our continuing to do that, despite this pressure that we see where people are wanting us to walk away from that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166862">
+            <PersonSpeaking>
+              <Affiliation DbId="322902" Type="28">Dr. Allison McGeer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931456">I think there are two pieces to that. One is fundamentally international collaboration. There is no question that, as many people have talked about in the last two days of hearings, microbes don't know what borders are. All of this has to be global. We will unquestionably be better off if we're doing it globally. The prevention of infections in any other country effectively prevents their importation into Canada. The prevention of infections in Canada prevents their export to other countries as well. There is no question that everything we do in science and research is better if it's a global collaboration. </ParaText>
+              <ParaText id="8931457">There's another thing that's important, and I do hear myself as I'm saying this: I want more money for AMR in Canada. I also want us to be spending more money on supporting other countries that are poorer and less privileged than we are, because the United States funding is gone. As a consequence of that United States funding being gone, hundreds of thousands of children will die earlier deaths around the world. This is a time when we need to think really carefully about how we see our global responsibilities as Canadians and how much more money we can put into funding programs that will save lives from AMR and from infections in general in other countries. This is really a time when the rest of us need to try to step up and replace, as much as we can, what has been lost with the U.S. programs being shut down.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166891">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931458">Thank you, Dr. McGeer. The time is up. </ParaText>
+              <ParaText id="8931459">I really want to thank all three witnesses for their important testimony in this study. </ParaText>
+              <ParaText id="8931460">With that, the panel comes to an end. I will suspend the meeting for a few minutes while the other witnesses take their places. </ParaText>
+              <ParaText id="8931461">Thank you.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166958">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931462"> Members, I call the meeting to order. </ParaText>
+              <ParaText id="8931463">I would like to make a few comments for the benefit of our new witnesses.</ParaText>
+              <ParaText id="8931464">Please wait until I recognize you by name before speaking.</ParaText>
+              <ParaText id="8931465"> For those participating by video conference, click on the microphone icon to activate your microphone, and please mute yourself when you are not speaking. For those on Zoom, you can select at the bottom of your screen the appropriate channel for interpretation—floor, English or French. For those in the room, you can use the earpiece and select the desired channel.</ParaText>
+              <ParaText id="8931466">I will remind you that all comments should be addressed through the chair.</ParaText>
+              <ParaText id="8931467">We are joined by two witnesses for this panel.</ParaText>
+              <ParaText id="8931468">I would like to welcome Jenna Sauve—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166962">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931469"> Point of order, Madam Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166964">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931470">—antimicrobial stewardship pharmacotherapy specialist. She is joining us by video conference. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166967">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931471">Point of order, Madam Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166969">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931472">Mr. Blanchette-Joncas.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166972">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931473">There is a problem with the interpretation. We are hearing two voices.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166974">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931474">We'll try. I will speak and see.</ParaText>
+              <ParaText id="8931475">Okay. I'm sorry for that. We will start with our witnesses.</ParaText>
+              <ParaText id="8931476">First, we will proceed to Jenna Sauve for five minutes.</ParaText>
+              <ParaText id="8931477"> Please go ahead. You will have five minutes for your opening remarks. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166978">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve (Antimicrobial Stewardship Pharmacotherapy Specialist, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931478"> Good afternoon, Madam Chair and members of the committee.</ParaText>
+              <ParaText id="8931479">My name is Jenna Sauve. I'm a clinical pharmacist specializing in antimicrobial stewardship. I practise in a large academic hospital in Toronto, where my work centres on optimizing antimicrobial prescribing for hospitalized patients. I have also led research on antimicrobial resistance and stewardship education in Canadian pharmacy programs and developed a curriculum framework to enhance the teaching of this content. I thank you very much for the opportunity to appear before you today.</ParaText>
+              <ParaText id="8931480">Antimicrobials are critical tools in modern medicine, required by most Canadians at least once in their lifetime. However, rising rates of antimicrobial resistance, or AMR, threaten their effectiveness and in turn the health of Canadians. The World Health Organization has declared AMR as a silent pandemic and one of the top 10 global public health threats. Projections from the Council of Canadian Academies suggest that by 2050, nearly 14,000 deaths annually in Canada will be directly attributable to AMR, which translates to the loss of approximately 38 Canadian lives every day.</ParaText>
+              <ParaText id="8931481">The clinical and economic impact of AMR is felt across Canada's health care system. One in four infections is now resistant to first-line antibiotics. For patients, this can mean delays in receiving effective treatment, exposure to more toxic second- and third-line therapies, and increased risk of complications or harm. For the health system, this comes with a financial burden resulting from longer hospital stays, management of drug-related side effects, and the use of more costly antibiotics of last resort.</ParaText>
+              <ParaText id="8931482">While resistance occurs naturally, it's accelerated by the misuse and overuse of antimicrobials across the different sectors. Antimicrobial stewardship, which has coordinated efforts to promote and evaluate judicious antimicrobial use, is a key strategy in preserving the effectiveness of these drugs. While many hospitals have established antimicrobial stewardship programs, there remains a significant gap in community-based initiatives despite the fact that the majority of antibiotics are prescribed in these settings. An estimated 15% to 25% of antibiotic prescriptions in Canada are considered unnecessary. Addressing this issue requires investment in improved methods of diagnosing infection and funding for stewardship initiatives that incorporate behaviour change strategies to reduce inappropriate prescribing.</ParaText>
+              <ParaText id="8931483">Successful stewardship initiatives also require a well-trained and empowered workforce to implement them, highlighting the need for coordinated educational curricula for health professionals and identification of AMR as a priority by accreditation and licensing bodies.</ParaText>
+              <ParaText id="8931484">The issue of AMR in Canada is further compounded by limited access to critical antibiotics. The Auditor General's 2022 report highlighted that Canadians lacked market access to 19 of the 29 antibiotics classified by the World Health Organization as antibiotics of last resort. Furthermore, of the 13 what would be considered novel antibiotics that had become available since 2010, only two were available in the Canadian market, a number that was staggeringly low compared to other high-income countries. This lack of access results in extensive resource utilization to import these drugs from other countries and causes delays in initiating life-saving care for patients. Better incentives are required to encourage pharmaceutical companies to bring these critical antibiotics to market in Canada.</ParaText>
+              <ParaText id="8931485">In summary, AMR is not a distant or abstract threat; it's an issue that affects all Canadians. Without the ability to reliably prevent and treat infections, life-saving treatments like major surgery, organ transplant and cancer chemotherapy become far more dangerous, if not impossible. While there is progress being made through the Public Health Agency of Canada's pan-Canadian action plan, there is still more work to be done to deliver the comprehensive and coordinated response that's needed. Funding of stewardship initiatives, particularly in community settings, along with enhanced training of health professionals in this field, will help to promote appropriate use of our currently limited arsenal of antibiotics. In addition, Canada must not just invest in the development of new antimicrobials, diagnostic tests and preventative strategies but also act now to ensure that Canadians have timely access to these new drugs and technologies once they become available.</ParaText>
+              <ParaText id="8931486">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167024">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931487">Thank you.</ParaText>
+              <ParaText id="8931488">Our second witness for this panel is Dr. Scott Weese, professor, University of Guelph, and director, Centre for Public Health and Zoonoses.</ParaText>
+              <ParaText id="8931489">Dr. Weese, you will have five minutes for your opening remarks. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167028">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese (Professor, University of Guelph and Director, Centre for Public Health and Zoonoses, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931490">Thank you, Madam Chair. Thanks for the invitation.</ParaText>
+              <ParaText id="8931491">I deal with AMR in animals and at the human-animal interface, ranging from the individual animal to the population, locally and globally. That's how I'm presenting some of my thoughts and comments.</ParaText>
+              <ParaText id="8931492"> Really, my theme is that it's a complex problem. I want to emphasize the complexity of the problem, the oversimplification of the problem, the lack of action-based approaches, and the need to consider animal and human health as integrated but separate issues. </ParaText>
+              <ParaText id="8931493">You've heard about “one health”, probably repeatedly. It's a one health problem. It's good that we're talking about one health, but we have to remember that one health isn't human health and everything else. One health is human health, animal health and environmental health under a one health umbrella. </ParaText>
+              <ParaText id="8931494">Some things are definitely one health. Many things with AMR are strictly animal health or strictly human health. Sometimes we focus too much on one health, not knowing what to do, and it's a barrier to our action, so we need to think about where we can get synergies with the one health approach but not fixate on the one health approach.</ParaText>
+              <ParaText id="8931495">As I think Simon said, we don't know the contribution of antibiotic use in animals to antibiotic resistance in humans. It's probably a very small proportion, but if it's a very small proportion of a very big problem, it's still something we need to address, so we have to do it. At the same time, we have to remember that there's an animal health component, and we have to think about animal health, animal welfare, the economics of food production and the food security issues that come along with this. </ParaText>
+              <ParaText id="8931496">The World Organisation for Animal Health has estimated that by 2050, if AMR is unchecked, food animal production losses will be equivalent to the food needs of 750 million to two billion people. That's a staggering number. A very small percentage of that impact would be in Canada, but a small percentage of a staggering number is still something we need to pay attention to, so we have to think about the breadth of the issue and about action. Even that doesn't show the issue as completely in animals. We have companion animals, and there are untold impacts on them. We are losing animals to resistant infections. </ParaText>
+              <ParaText id="8931497">Just before this session, I spent time doing two emails about two pet animals with life-threatening, multidrug-resistant infections. That impacts the animals' health and welfare and has an emotional impact on their owners and family members. </ParaText>
+              <ParaText id="8931498">We need to address AMR in humans and animals. We have to realize that the issues are different. There are a lot of similarities, but there are some massive differences.</ParaText>
+              <ParaText id="8931499">A variety of innovation needs were stated in the standing order for this committee. Among them were drug development and surveillance, which are obviously incredibly important issues in human medicine; in veterinary medicine, not as much. I don't want new drugs for our food animals. I want to make sure we can keep using the drugs we have. I have a limited need for new drugs dealing with companion animals, and I want to use them as little as possible. </ParaText>
+              <ParaText id="8931500">We have diagnostic testing needs, yes, but all those are too late—we're addressing the end result. We can't address the AMR problem by addressing AMR. We have to address the impact of AMR, but we have to address why we have AMR, and that's because we have antimicrobial use. Why do we have that? It's because we have health problems, or perceptions of health problems. We need to address AMR itself, but we have to address the underlying causes; otherwise, we're trying to keep up with a problem that's much more nimble than we are.</ParaText>
+              <ParaText id="8931501">I think that nicely describes antimicrobial resistance.</ParaText>
+              <ParaText id="8931502">For animal health, we need innovation, but that's not necessarily new drugs, new tech, new technology, new toys. It's innovation that targets health, better animal management, better nutrition, better vaccines, better access to vaccines and alternatives, better ways to raise animals, better access to veterinary care, changing human behaviour—which is very difficult to do—and getting social science involved. We need things that will improve animal health and human health.</ParaText>
+              <ParaText id="8931503">These aren't often considered innovation, though, especially when you're trying to get funding or attention. Raising animals better, making their lives better, rearing them better, and providing better access to care don't come across as innovation very often. It's not tech. It's not toys. It's not sexy, but it's the foundation, and it's what we need to do.</ParaText>
+              <ParaText id="8931504">Dr. Otto directly addressed this too—surveillance. We need better information. We need actionable information. Surveillance itself tells us what the problem is, but it has to direct us to a solution. If we have very crude, very patchwork surveillance programs, we don't have the action step. That's probably part of the issue right now. We have surveillance at a very high level in animals, but it doesn't direct what we do. Crude numbers are good for sound bites, but they're not good for action. </ParaText>
+              <ParaText id="8931505">We have multisectoral interest, motivation and a foundation for better action or surveillance, but we need sustained funding and, to be honest, the political will to come along with that.</ParaText>
+              <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
+              <ParaText id="8931506">We need to—and we can—markedly improve antibiotic use in animals. We know we need to do that, but we also have to recognize there's a role for them in care. As a veterinarian, my obligation is to take care of animals. Part of that is using antimicrobials. A lot of that is making sure they don't need them. </ParaText>
+              <ParaText id="8931507">We have to accept that we're going to use the antimicrobials, but we don't have to accept the status quo, which is using them unnecessarily and not addressing health. Use as little as possible but as much as needed, really, is the approach that we have to think about.</ParaText>
+              <ParaText id="8931508">My final point, if I have another 30 seconds, is that it's complicated. This is not something we can solve with a simple, single solution or a single sector. It's everyone doing little things. We need support for sustained and aspirational action. We can't do it with little piecework activities. </ParaText>
+              <ParaText id="8931509">The other issue is that this is something that has to be done spanning decades and generations. It doesn't span granting cycles for an agency. It doesn't span election cycles—single cycles. This is something we have to be gearing up for decades, and we don't do that very well. We don't aspirationally plan efforts that are going to impact for years upon years, even though that's what we need to do.</ParaText>
+              <ParaText id="8931510">Canada has had a very strong brand with AMR internationally, and that's been slipping. We still have very strong people.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167102">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931511">Could you please wind it down?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167105">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931512">Yes.</ParaText>
+              <ParaText id="8931513">We have the foundation here. We have some very good people. We have some very good structure. We have to get back to where we are with the action component.</ParaText>
+              <ParaText id="8931514">I appreciate the efforts of this committee. Thank you for having me here.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167106">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931515">Thank you, Dr. Weese.</ParaText>
+              <ParaText id="8931516">Now we will proceed with our first round of questioning.</ParaText>
+              <ParaText id="8931517">We will begin with MP Ho for six minutes.</ParaText>
+              <ParaText id="8931518">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167110">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho (Richmond Hill South, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931519">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931520">My question is directed to both witnesses. We can start with Ms. Sauve and then go to Dr. Weese.</ParaText>
+              <ParaText id="8931521">Back in 2018, the government received a report on the status of AMR, and the issue was brought in a comprehensive way for the government to take action. It doesn't appear that the Liberal government has taken much action since then. Are you disappointed in the lack of progress in the last seven years?</ParaText>
+              <ParaText id="8931522">Ms. Sauve.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167121">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931523">I think there has been some progress, and definitely some steps [<I>Technical difficulty—Editor</I>]. The witnesses before have cited also the pan-Canadian action plan developed by the Public Health Agency of Canada. I do want to say that there are a lot of great recommendations in that report and in the action plan. It's difficult for me to assess, without the most current information, exactly where we are in implementing some of the steps there. I think that if in the five-year target they were to implement everything in that action plan, we would be in a much better place with respect to AMR than we have been in the past or currently. </ParaText>
+              <ParaText id="8931524">There is a one-year progress report on some steps that have been taken. We're still waiting for the report from year two. I would say that progress has been made or is under way, but whether we are on track to meet some of those lofty objectives is difficult to say.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167142">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931525">It's been five years just to come up with a framework, and little has been done.</ParaText>
+              <ParaText id="8931526">Dr. Weese, what do you think about that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167145">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931527">We're looking for more action. It's an action plan, and we need more of an action component. Yes, it's been sitting there for a while, and it was developed over a long process. It's a bit of an outdated action plan if anything, but it still provides an excellent framework. </ParaText>
+              <ParaText id="8931528">It needs to be funded. I think that's the biggest thing. There are a lot of things that could be done. There's a lot of interest in doing it. There's a lot of work that's being done, as I think Simon mentioned, off research grants in little pilot activities that could be harmonized together with a more structured approach so that we get a better impact. </ParaText>
+              <ParaText id="8931529">Related to that, it was mentioned earlier or in the other session that Dr. Gerry Wright and Dr. Andrew Morris were commissioned to put together a plan for a Canadian network to enact this. A few of us were involved in that. That report really set out how we can act on this, but it hasn't received any action either. There's a foundation there, but we need more will and funding and coordination.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167156">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931530"> It's concerning. It's great that you brought up the lack of funding. This report has been collecting dust over the years, and the lack of action is quite disappointing.</ParaText>
+              <ParaText id="8931531">I mean, there's only a little over $1 billion of health research funding, which is quite precious if you think of all the vanity projects that the Liberal government has undertaken. We spend well over $60 billion just to service the debt. If you think about it, there's just a bit over $1 billion for health research, while they used research funding for things like we discussed last week. They spent $75,000 to study German children's books. That's research money that's going into that, not even...and that's taken from the funding.</ParaText>
+              <ParaText id="8931532">I want to go back to a committee member from the last session, on Monday. We were talking about AMR. Apparently, he alleges, there's a rhetoric, a skepticism, I suppose—I'm paraphrasing—about countries working together. Apparently, there's this rhetoric that they don't want their work being involved in cross-border research and, apparently, “being ready for pandemics is a terrible thing”. I'm quoting here. Apparently that is leading, according to him, to a lack of urgency and trust in science and trust in medicine.</ParaText>
+              <ParaText id="8931533">I took some time to think about those comments that were made on Monday, and then I realized that in May 2019, under the Liberal government's watch, the Global Public Health Intelligence Network, the GPHIN—essentially a Canadian federal government agency whose job was to operate as a medical Amber alert system to gather intelligence and spot pandemics, and some of the witnesses here have described this as a “silent pandemic”—saw its resources completely redirected to other causes, which hindered our ability to be prepared for the pandemic. You saw all the chaos that ensued from the federal government's lack of preparedness and lack of action.</ParaText>
+              <ParaText id="8931534">Does that concern you that funding is being cut? This government has announced funding cuts of 15% to the public sector. They're redirecting resources for surveillance for pandemics.</ParaText>
+              <ParaText id="8931535">Dr. Weese, why don't you start with that? Does that concern you?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="00">(1800)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167180">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931536">I can't really comment on budgetary issues, since that's not my area of expertise. I can comment on the funding issues. Certainly, there are concerns that we don't have enough money. That is impacting us now, and it's impacting the future.</ParaText>
+              <ParaText id="8931537">At a recent meeting that Senator Ravalia convened, there was a comment about CIHR funding and how much AMR funding was going towards that versus other areas.</ParaText>
+              <ParaText id="8931538">My take on it is that AMR is a global health issue with a really bad marketing plan. We don't have a lot of interest in it, which doesn't lead to a lot of broad support. The problem is that when we don't support research right now, we don't get research right now, and we don't get trainees who are going to do the research in 20 years, because why would you go into AMR if it's not funded, when you can go into cancer research, which is funded and where you see a career?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167187">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931539">I'm sorry for interrupting, but the time is up for Mr. Ho. Maybe we'll come back in the second round.</ParaText>
+              <ParaText id="8931540">Now we will go to MP Rana for six minutes.</ParaText>
+              <ParaText id="8931541">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167192">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana (Hamilton Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931542">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931543">Thank you to all of the witnesses for spending your quality time with us.</ParaText>
+              <ParaText id="8931544">My question is for you, Dr. Weese. Do you think Canada is playing its due leading role among the world nations in AMR research?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167198">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931545">AMR research is such a broad area that it's difficult to answer that. I would say that Canada has some very strong individuals and some very strong groups that have come together. Those have very good international recognition. From a more coordinated aspect, I think Canada gets less attention now. In my work on the global stage, we don't talk about Canada as an entity coming in.</ParaText>
+              <ParaText id="8931546"> They started off some really nice programs. CPAR was mentioned before. This has been highlighted for years, but CPAR has lost ground because it has a small number of excellent people with less money doing as much as they can, whereas other countries have taken that on.</ParaText>
+              <ParaText id="8931547">From a research standpoint, we have a lot of very good activities going on, with some very good people. We don't have the coordination and the international leadership that we would have had in the past, I don't think. That's my perception. I have a very narrow view of the situation, though.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167216">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931548">Thank you.</ParaText>
+              <ParaText id="8931549">Are there any obstacles you're facing in the research here in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167219">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931550">Well, everything comes back to money, but it's true: Funding is a challenge because funding drives action. That's one.</ParaText>
+              <ParaText id="8931551">We have a very collaborative system in Canada. We have people who work very well together and get along. We have a lot of opportunity there. We need to figure out ways to support that.</ParaText>
+              <ParaText id="8931552"> We need to figure out ways to get better access to comparable data that may be siloed or just not accessible.</ParaText>
+              <ParaText id="8931553"> We need to foster international work.</ParaText>
+              <ParaText id="8931554"> We need to be able to get data that we can use to answer questions that can have action. There was a good example the other day about beef cattle and antimicrobials. We use that a lot more than they do in the U.S. Why? We need the data to say why, because then maybe we could have an impact there. There are some reasons why it might be justified, but probably we're using more. If we have better information.... We have the people to act, but we need the information to be able to act.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167230">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931555"> Thank you very much.</ParaText>
+              <ParaText id="8931556">Do you think private and public partnership can play a vital role in research?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167238">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931557">Potentially it could, but I think the problem with AMR is that the public side is a harder draw because there's not as much of a long-term economic driver.</ParaText>
+              <ParaText id="8931558">Use antimicrobials less, keep people healthy and keep animals healthy: That's not as appealing from many public sides. There are vaccines and some innovations in health care, obviously, but that's a bit of a barrier, because we don't have as much of a broad tie-in to industry and economic input.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167244">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931559">I have the same question for you, Jenna.</ParaText>
+              <ParaText id="8931560">Do you face any obstacles in research here in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167250">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931561">Thank you.</ParaText>
+              <ParaText id="8931562">I'm not as involved in the research sector as some of the other panellists who have spoken.</ParaText>
+              <ParaText id="8931563">I would say that in terms of antimicrobial stewardship research, which would be the primary area where I have experience, I think there is a lot of small, pilot-type research ongoing coming out of individual hospitals, jurisdictions or provinces. Certainly, there is not the infrastructure in place to be able to scale those up, when we have success in one area or one institution, to realize some of those benefits across the board.</ParaText>
+              <ParaText id="8931564">I think more coordination and help with knowledge mobilization once research is done would be very beneficial in the stewardship sphere.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167262">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931565">When we compare the Canadian network of hospitals to international examples of antimicrobial stewardship programs, where does Canada's performance stand out?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167268">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931566">Canada has been an early leader in antimicrobial stewardship in the hospital sector early on. I think we need to continue with some of that momentum.</ParaText>
+              <ParaText id="8931567">In all of our Canadian hospitals, in order for them to be accredited, there is a required organizational practice for them to have an antimicrobial stewardship program that is monitoring data with respect to antibiotic use and resistance and actively working to optimize these things. That type of high-level national regulation has really allowed for funding in hospitals for stewardship initiatives and efforts to combat antimicrobial resistance.</ParaText>
+              <ParaText id="8931568">To some degree, I think we have done well in the hospital sector. We need to invest more and work more toward expanding that to things like long-term care and community or primary care practices.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167284">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931569">Dr. Weese, how would you describe the evolution of global research in antimicrobial resistance over the past decade?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167286">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931570">It's broad. One of the challenges is the complexity, because it involves so many sectors. Even within the animal and human health sectors, it's really variable. We'll see some places where we've had good improvements in research and coordination, and that's sometimes at the expense of others.</ParaText>
+              <ParaText id="8931571">I think we're probably not improving as much as resistance is increasing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167299">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931572">Thank you very much.</ParaText>
+              <ParaText id="8931573">In 2018, the House of Commons Standing Committee on Health published a report addressing the growing threat of antimicrobial resistance. Among its key recommendations was the need for “stable and adequate funding to support research and innovation in the area of antimicrobial resistance”.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167304">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931574">Your time is up, MP Rana.</ParaText>
+              <ParaText id="8931575">You can complete your question, and then maybe we can—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167327">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931576">Which research domains in AMR are most underfunded or overlooked in Canada?</ParaText>
+              <ParaText id="8931577">You can send us a response in writing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167332">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931578">The time is up for MP Rana.</ParaText>
+              <ParaText id="8931579">If you could submit a written answer to this question, it would be great.</ParaText>
+              <ParaText id="8931580">Now we will proceed to MP Blanchette-Joncas. </ParaText>
+              <ParaText id="8931581">Please go ahead. You will have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167337">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931582">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931583">Dr. Weese, over the past few years Québec, which once welcomed many pharmaceutical companies, saw factories and labs close, while researchers and employees were laid off. This led to a real brain drain. The results of that were painfully obvious during the COVID‑19 pandemic, when we were completely dependent on international players to procure medication and equipment.</ParaText>
+              <ParaText id="8931584">In your opinion, how can we avoid this type of situation in the future and strengthen our scientific and industrial independence?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167341">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931585"> I'm sorry. The first part of the question didn't come through. I got the last part.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167343">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931586">Don't worry, Dr. Weese. It looks like we're having many technical problems today, due to the fact that the interpreters are off site.</ParaText>
+              <ParaText id="8931587">In that case, I'll ask my question again, if the chair allows it.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167346">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931588">Can you please repeat it?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167350">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931589">Yes, I'm used to it. I'll repeat my question.</ParaText>
+              <ParaText id="8931590">Over the past few years Québec, which once welcomed many pharmaceutical companies, saw factories and labs close, while researchers and employees were laid off. This led to a real brain drain. The results were clear during the COVID‑19 pandemic, when we were completely dependent on international players to procure medication and equipment. Canada was the only G7 country not to produce its own COVID‑19 vaccine.</ParaText>
+              <ParaText id="8931591">In your opinion, how can we avoid this type of situation in the future and strengthen our scientific and industrial independence?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167353">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931592">I'd say that's largely outside of my area of expertise, but I think it also speaks to the need for national coordination. What do we need, in all sectors, and can there be synergies? If it's vaccination, can we think about vaccination across humans and animals? Are there some that are best left for other countries? What do we actually need to do in Canada to have minimum competency? What are our options and what is the safety of those options—the security of those options—for outside of the country?</ParaText>
+              <ParaText id="8931593">As I said, that's outside of my domain, but I think it speaks to the need for a national coordinating program approach.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167355">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931594">You said it was paramount to fund research now in order to train the scientists of tomorrow. It's a recurring problem we've seen under various governments, which don't tackle the root causes of the problem but instead try to implement measures that are sometimes flawed when it's already too late.</ParaText>
+              <ParaText id="8931595">In your opinion, should granting councils fund a greater number of researchers in the field of antimicrobial resistance?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="10">(1810)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167356">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931596">It would be nice, but I think that internationally we're seeing less coordinated funding. The U.K. has been a very strong supporter, and funding has decreased from there. AMR is such a broad issue. We need to have international coordination, but we don't have a logical international funding body. It's in our best interest to put in as much money as we can—and disproportionately, I think, for a high-income country—for a few reasons. One is that we need to make sure we're supporting research internationally, but infectious diseases that develop overseas impact us—that's human and animal. From an animal side, if a country doesn't have food safety and security, there isn't human safety and security.</ParaText>
+              <ParaText id="8931597">I don't think we can rely on international funding. We can rely on us coordinating with international groups with funding that we can bring, as a Canadian component, but the international community is not going to fund Canadian research.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167362">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931598">You said there would need to be better coordination at the international level. Québec took the lead four years ago by banning the use of category one antimicrobials in agriculture—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167365">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931599">I'm sorry for interrupting. If you can just.... There seems to be some issue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169060">
+            <PersonSpeaking>
+              <Affiliation DbId="318977" Type="27">The Clerk of the Committee (Cédric Taquet)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931600">Yes, they're not translating; that's the issue. There is no technical issue. It's like the interpreter—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169065">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931601">Can you please explain?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13167368">
+            <PersonSpeaking>
+              <Affiliation DbId="318977" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931602">I can if you authorize me, Chair.</ParaText>
+              <ParaText id="8931603">It's not a technical problem. I think the interpreter has to think about the words he just heard, because they are scientific terms. There may be a delay in that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167373">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931604">Please repeat your question.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167375">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931605">Madam Chair, I didn’t understand what the clerk just said.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167378">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931606">It's not a technical issue. It's only because there are very technical terms, so it takes them some time to do that interpretation. It's not a technical issue.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167381">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931607">I’m using words that are too scholarly then, is that correct?</ParaText>
+              <ParaText id="8931608">I’ll continue, but I’m having difficulty keeping track of how much time I have left.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167385">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931609">You have three minutes and 47 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167389">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931610">Dr. Weese, thank you for your understanding with these adjustments.</ParaText>
+              <ParaText id="8931611">You spoke about coordination at the international level. On our end, in Québec, we took leadership. For the past four years, we have banned the use of category one antimicrobials in agriculture. We have an approach that is tailored to the local reality, and it is working well.</ParaText>
+              <ParaText id="8931612">How can we put in place a standardized approach that does not impinge on the leadership already shown by Québec?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167397">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931613"> The standardized approach would be using successes like Quebec's as an aspiration for the rest of the country and not trying to bring everyone back to the middle. Quebec has taken the lead in those areas, as you know.</ParaText>
+              <ParaText id="8931614">There are differences in different livestock sectors across the country, so you can't automatically replicate Quebec, but you can use that as a demonstration that, yes, you can do this in many situations if you do everything else right. I think that's the key, as it's such a broad problem.</ParaText>
+              <ParaText id="8931615">We can use this, if there's national coordination and national motivation, as an example of where we can try to get the rest of the country to. The problem, as mentioned earlier and as you know, is that veterinary medicine, drug access and health are provincial, so it's difficult for the federal government to mandate something. However, the federal government can provide support so we can get the national networks together to use successes, Quebec being one: This is done here, so how do we get everyone else to do that?</ParaText>
+              <ParaText id="8931616">Part of it needs to be better communication and collaboration with industry, too. This comes back to hesitancy about vaccinations, and it comes back to working with farmers. You need trust, and you need a two-way information exchange. You can't go to a farm and say, “You're going to do this because they do it in Quebec.” That probably won't go over very well. If we build trust and infrastructure and we bring in support mechanisms to let them improve their practices, that's how to do it. </ParaText>
+              <ParaText id="8931617">That's why it's not just a matter of saying, “Here are Quebec's approaches; we need to do this everywhere else.” We need to build the foundation so that can be done and build the communication, obviously using the success in Quebec as the starting point.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="15">(1815)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167417">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931618"> Thank you very much.</ParaText>
+              <ParaText id="8931619">Madam Chair, how much time do I have left?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167418">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931620">You have one minute and 20 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167420">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931621">Thank you very much.</ParaText>
+              <ParaText id="8931622">Dr. Sauve, you work directly in the field, where antimicrobial resistance first emerges. To what extent does the lack of funding for antimicrobials programs in hospitals limit the implementation of best practices in health institutions? </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167421">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931623">I'm not sure I can comment specifically on the financing piece, but I would say that AMR is definitely having an impact on the front line. Certainly, the clinical impact is apparent, and we are seeing more patients with resistant infections. What that means is they may not be receiving effective treatment in a timely manner, which translates to worse patient outcomes. They may be having to rely on second- or third-line drugs, in which case many of these have more side effects that are harmful to patients and are also costly to the system.</ParaText>
+              <ParaText id="8931624">We also know that AMR can contribute to things like longer hospital stays, which, again, compounds the issue. Exposing patients to more time in hospital is not good for them and not good for the system either.</ParaText>
+              <ParaText id="8931625">We're certainly seeing these impacts directly on the front lines. It's definitely not something that is far away or a future problem; it is something that is already having an impact day-to-day on what we do.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167430">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931626">We will now proceed to MP Baldinelli for five minutes. </ParaText>
+              <ParaText id="8931627">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167432">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931628">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931629">Thank you to the witnesses for being with us today.</ParaText>
+              <ParaText id="8931630">Dr. Sauve, you said in your opening remarks that one in four infections is now resistant, and you spoke about the financial burden that places on our health care system. </ParaText>
+              <ParaText id="8931631">We heard on Monday from Dr. Castonguay, who mentioned it cost the provincial health care systems between, I think, $1.4 billion and $1.8 billion in 2018, and this could grow to $21 billion by 2050. When you see those types of numbers, it leads to the question of how one tackles that. Just think that in the province of Ontario, they're spending $80 billion on health care, and it's projected to grow to $100 billion. Right now, the federal government is spending only $52 billion on health care for the entire country, and it's projected to spend $68 billion just on servicing our debt.</ParaText>
+              <ParaText id="8931632">That's not money going to health care or health care research. That's not money going to the provinces so they can get additional spaces to train doctors and nurses. Even as part of the tri-council agencies, the Canadian Institutes of Health Research spends only about $1.2 billion, and now the government is asking its departments and agencies to please find efficiencies and savings of about 15% over the next three years.</ParaText>
+              <ParaText id="8931633">In terms of how that is going to impact the health care system, does that not concern you? In a hospital setting, what do you think the impact is?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167459">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931634"> Yes, certainly in hospitals we're always worried about reduced funding and what that means for health professions and jobs, as well as the care that patients are receiving.</ParaText>
+              <ParaText id="8931635">In the health care setting we're very used to trying to find ways to implement cost-effective or cost-saving interventions. I think some of the other panellists have really highlighted that investing in some of the preventative strategies to minimize the burden of infections in Canadians actually is not only good for their health but also can lead to cost savings down the road.</ParaText>
+              <ParaText id="8931636">A lot of that is very similar.... When we think about AMR, for a lot of these preventative strategies, or even stewardship strategies—which I'm more familiar with in the hospital setting—there is literature and evidence that shows that having antimicrobial stewardship programs and certain interventions can actually save the systems money.</ParaText>
+              <ParaText id="8931637">I think it is certainly, like many other things, a scenario where sometimes you do have to invest the money in order to find the savings. We need access to good data about resistance and costs so that we can actually measure how effective interventions are and look at that in terms of a cost-benefit analysis, too. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167493">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931638">Thank you so much.</ParaText>
+              <ParaText id="8931639">I want to go to you, Dr. Weese.</ParaText>
+              <ParaText id="8931640">You talked in your remarks about the need for better and actionable information and funds to implement some of the recommendations that came from the pan-Canadian action plan on antimicrobial resistance....</ParaText>
+              <ParaText id="8931641">I think we called this study just because people want to hear me not pronounce that name correctly.</ParaText>
+              <ParaText id="8931642">Do you have concerns there as well, particularly when it comes to the research funds and impacts from an animal care perspective?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167498">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931643">Obviously, we have concerns about funding, because we don't have enough to do what we want to do.</ParaText>
+              <ParaText id="8931644">I think the other issue we have is when we try to do interdisciplinary work. We don't have systems that are set up for that very well. We have NSERC, which looks at the animal, engineering and agricultural side. We have CIHR, which looks at the human side. They like someone else to deal with the interface.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167509">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931645">In reading the briefing notes prior to the study, you find that there are about 14 agencies and government departments that are all involved in studying and have a portion of looking into an action and taking action on AMR. On this notion of the need for better coordination, how does that take place? That's a lot of work that needs to be done to break down silos, would you not suggest?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167518">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931646">Absolutely. We know that when you have too many people involved, it's too easy for everyone to say it's not their problem. We see that with funding. We see that with agencies. They don't see the direct impact or action step for them, so it's easy to step back and wait for someone else.</ParaText>
+              <ParaText id="8931647">Again, that speaks to the need for national coordination that can work across those silos federally, provincially, territorially and locally, within academia and industry, so we can actually get action.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167525">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931648">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167527">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931649">Thank you.</ParaText>
+              <ParaText id="8931650">We will now proceed to MP Jaczek, for five minutes.</ParaText>
+              <ParaText id="8931651">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167529">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek (Markham—Stouffville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931652">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8931653">Thank you to both of our witnesses this afternoon.</ParaText>
+              <ParaText id="8931654">You've both emphasized prevention and the need to reduce the use of antimicrobials.</ParaText>
+              <ParaText id="8931655">Dr. Sauve, I'm aware of some of the work you've been doing with faculties of pharmacy to educate students in the faculty to become more aware of antimicrobial resistance. There are a lot of existing pharmacists out there. Do you have any ideas of how we could perhaps continue this conversation more broadly with pharmacists in general in other settings? I'm thinking of long-term care, perhaps, where there might be more of a team approach between the physicians and pharmacists involved in the care of seniors in long-term care.</ParaText>
+              <ParaText id="8931656">Could you tell us a bit about your work in terms of trying to improve the awareness of AMR that you've been doing, and how you might see it being extended to other sectors?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167543">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931657"> Yes, thank you.</ParaText>
+              <ParaText id="8931658">The work I have been doing is on developing a curriculum framework for pharmacy programs across Canada in order to enhance their education on antimicrobial resistance and antimicrobial stewardship, so that our next generation of pharmacists are not only aware of this issue but also have the skills and the knowledge they need to be able to impart change.</ParaText>
+              <ParaText id="8931659">What we really know is that those of us practising in this field can't do this alone. It can't be only infectious disease specialists or pharmacists who specialize in this field. We need all health care providers to be engaged and to be working on these in their respective areas.</ParaText>
+              <ParaText id="8931660">There is a lot of opportunity to take some of the competencies for graduating students that we've developed in the pharmacy curriculum. I know other professions have been working on this as well. It may need some minor tweaking to be able to expand these more broadly to pharmacists who are currently practising and to target education and training initiatives for practising pharmacists or other practitioners.</ParaText>
+              <ParaText id="8931661">We also need to think about this in terms of many of the health care professionals who are trained in other countries around the world and choose to come to work in Canada. Their education in other countries on AMR or the landscape of AMR and on antimicrobial prescribing may be very different from that education here, so we also need some targeted interventions and some work with accreditation and licensing bodies to make sure that when these professionals come to work in Canada, they do have the training and support they need to contribute to this effort for antimicrobial stewardship and against resistance here.</ParaText>
+              <ParaText id="8931662">There are a lot of opportunities there. I will say one thing that could be useful in long-term care and in the community, where stewardship has traditionally been lagging behind for pharmacies. My role as a stewardship pharmacist is almost exclusively in hospitals at the present time. If we want to have health care providers engaging in these other areas, like long-term care and the community, we do need some leaders to be in those spaces to help with training and education. Currently, we just don't have those positions that exist.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167579">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931663">Thank you.</ParaText>
+              <ParaText id="8931664">Dr. Weese, you have commented on the lack of surveillance data when it comes to the use of antimicrobials and to antimicrobial resistance in the veterinary area. Particularly, you mentioned pets. How would you see, in a practical way, that we might improve that surveillance? What is needed to get the kind of data that we require?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167592">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931665">It's difficult, and that's one of the challenges. It varies across sectors.</ParaText>
+              <ParaText id="8931666">As we have improvements in technology and more computerization of every system on farms and in veterinary clinics, it becomes possible, or at least more possible, with support. We need, again, to look at the big picture.</ParaText>
+              <ParaText id="8931667">Similar challenges are there in the human field: in communities, in dentistry and in everything else. We need to look at.... This is one where the one health approach—let's try to do something that can address all of the problems—would make sense as opposed to a siloed activity. That said, we have a lot of things that are different among farms, pets and different sectors.</ParaText>
+              <ParaText id="8931668">We need to get better data, and there's not one way to do it. We get pharmaceutical-level data for animals right now, but that's largely at the tonnage level, which doesn't, frankly, tell us a lot. It gives a sound-bite number. It doesn't guide us in action, and it doesn't let us monitor response.</ParaText>
+              <ParaText id="8931669">We have to figure out ways that we can get individual animal-level data or farm-level data. Part of that ties into the previous questions about improving trust.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167630">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931670">Thank you.</ParaText>
+              <ParaText id="8931671">We will now proceed to MP Blanchette-Joncas for two and a half minutes.</ParaText>
+              <ParaText id="8931672">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167634">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931673"> Dr. Sauve, Canada has adopted a “one health” approach, but a number of provinces, including Québec, already have structures integrating human, animal and environmental health.</ParaText>
+              <ParaText id="8931674">Shouldn’t the federal government instead fund Québec and the provinces directly so they can adopt their own one health strategies that are directly tied to their realities, rather than impose a standardized national approach?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167636">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931675">I can't comment so much on the other sectors outside of human health, but I would say that, regardless, a national, coordinated approach is needed to address antimicrobial resistance. As everyone else has highlighted, bacteria don't respect borders, provinces, territories or jurisdictions, so if we really want to have valuable surveillance data and want to be able to enact broader change, that national coordination is essential.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167637">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931676"> Do you have any suggestions? The system is different across Canada. The structures, realities, and socio-economic and socio-demographic characteristics are different. I understand bacteria don’t have borders, but how do we successfully establish a coordinated plan if the reality is not the same everywhere?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167641">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931677"> It's a good question. I think it's a hard question. </ParaText>
+              <ParaText id="8931678">You're right that the reality is different everywhere. A cookie-cutter approach is not going to work in every setting. We still need that national-level leadership, bringing people from the various provinces, areas and sectors together so that they can speak to what will work or what might work in their respective areas and fields. We still need that forum and coordination of resources, because there are inevitably going to be many similarities and commonalities, but we also need those voices from each area in order to respect the differences and tailor approaches to the local culture and context.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167647">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931679">Thank you. </ParaText>
+              <ParaText id="8931680">Now we will have MP DeRidder for three minutes. We will end the panel with MP Rana for three minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167653">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931681">Thank you, Madam Chair. </ParaText>
+              <ParaText id="8931682">I'm going to ask Jenna a question. </ParaText>
+              <ParaText id="8931683">You mentioned that there's a misuse and overuse of antibiotics that is contributing to antimicrobial resistance, and that part of that is misdiagnosis. </ParaText>
+              <ParaText id="8931684">We know that there's an extreme lack of doctors here in Canada. We're losing our doctors not only because of a brain drain that is happening because of the tax burden and because of affordability and all the things happening in this country, but also because we're unable to attract that talent as well, again because of the tax burden, affordability of housing and things like that, coupled with the fact that.... I've actually met a doctor in this country who is a taxi driver because of the educational barrier to getting licensed here in Canada. </ParaText>
+              <ParaText id="8931685">Do you think that all of these constraints on having doctors in this country are actually a burden to the doctors and are leading to the misdiagnosis and overuse that's happening, and contributing to antimicrobial resistance?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167664">
+            <PersonSpeaking>
+              <Affiliation DbId="322901" Type="28">Jenna Sauve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931686">Definitely the strain on the health care system, and likely on primary care in particular, do play a role in the overuse of antimicrobial antibiotics. </ParaText>
+              <ParaText id="8931687">We know that we do have a shortage of primary care physicians, certainly in Ontario, where I practise. This means that the time that physicians want to spend with each individual patient may not be available and that they may not have the opportunity to follow up on patients after that initial consultation. In some cases, there may be a notion that prescribing antibiotics is a bit of a safety net if we're unsure whether infection is playing a role in the patient's presentation. That diagnostic uncertainty is something we struggle with a lot, and it is certainly compounded by the lack of time for health care providers or physicians to spend with patients. </ParaText>
+              <ParaText id="8931688">To answer your question, yes, that certainly plays a role. We need access to primary care for all Canadians. Infections are a very common syndrome that are seen day to day, so any gaps in primary care are going to trickle into the system and contribute to AMR.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167672">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931689">Thank you so much. I'll use the last couple of seconds to thank all the panellists for coming today and joining us. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167673">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931690">Thank you. </ParaText>
+              <ParaText id="8931691">We will now end our panel with MP Rana for three minutes. Please go ahead. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167674">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931692">Thank you, Madam Chair. </ParaText>
+              <ParaText id="8931693">I'll go back to you, Dr. Weese. </ParaText>
+              <ParaText id="8931694">You have argued in your work that whenever antibiotics are used, resistance is generated to some degree. In Canada, how big is the trade-off between access to antibiotics and overuse of stewardship?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167677">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931695">In access from the animal side, there have been great strides made in the last 20 years, so access to antibiotics goes through a veterinarian. That has been a big advantage, and one that we have over other countries where there is over-the-counter access. We have a professional gatekeeper. </ParaText>
+              <ParaText id="8931696">There is still overuse for various reasons. We've addressed one major loophole, and we have many more to address. </ParaText>
+              <ParaText id="8931697">I'm not sure I can really answer that question more than that, but we have other areas to address to reduce it. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167680">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931698"> What mechanism could the federal government implement to enhance collaboration among the post-secondary institutions, health care providers, industry stakeholders and public health organizations engaged in AMR research?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167682">
+            <PersonSpeaking>
+              <Affiliation DbId="322897" Type="28">Dr. Scott Weese</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931699">Obviously, there are finances, but I also think money put into a coordinating system would have a better return on investment than money through individual efforts. My goal would be a stable, long-term and sustainably funded network that could tie in all the relevant parties, build on that expertise and make a sustainable, decades-long program.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167692">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931700">In the last few seconds, I will say thank you very much. We asked too many questions of you. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167694">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931701">With that, the panel comes to an end. </ParaText>
+              <ParaText id="8931702">To our witnesses, I would like to thank you both for appearing before the committee and providing your testimony towards this study we are doing. </ParaText>
+              <ParaText id="8931703">Is it the will of the committee to adjourn the meeting?</ParaText>
+              <ParaText id="8931704">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8931705">
+                <B>The Chair:</B> The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

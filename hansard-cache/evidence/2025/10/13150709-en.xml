@@ -1,0 +1,1692 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13150709">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, October 2, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 2 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 2, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 007</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">02</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/02 11:00:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des comptes publics</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Acronyme">PACP</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">John Williamson</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150712">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair (John Williamson (Saint John—St. Croix, CPC))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912137">I call this meeting to order.</ParaText>
+              <ParaText id="8912138">Good morning, everyone.</ParaText>
+              <ParaText id="8912139">Welcome to meeting number seven of the House of Commons Standing Committee on Public Accounts.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912140"> Today's meeting is taking place in a hybrid format, pursuant to the Standing Orders.</ParaText>
+              <ParaText id="8912141">I see that we have one member joining us online; the others are here in person.</ParaText>
+              <ParaText id="8912142">I'd like to remind participants of the following points.</ParaText>
+              <ParaText id="8912143"> Please wait until I recognize you by name before speaking. All comments should be addressed through the chair.</ParaText>
+              <ParaText id="8912144"> Members, please raise your hand if you wish to speak, whether participating in person or via Zoom. I have the speaking order for questions.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912145"> Pursuant to Standing Order 108(3)(g), the committee is resuming consideration of report 3 of the Auditor General of Canada, entitled “Current and Future Use of Federal Office Space”, of the 2025 reports 1 to 4 of the Auditor General, referred to the committee on Tuesday, June 10.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912146">I'll introduce our witnesses.</ParaText>
+              <ParaText id="8912147">From the Department of Public Works and Government Services, we have Michael Mills, associate deputy minister. Also here is Nathalie Bertrand, associate assistant deputy minister. </ParaText>
+              <ParaText id="8912148">From the Treasury Board Secretariat, we have Annie Boudreau, comptroller general of Canada. We also have Michèle Kingsley, senior assistant deputy minister, office of the chief human resources officer, and Samantha Tattersall, assistant comptroller general, investment management sector.</ParaText>
+              <ParaText id="8912149">From the Office of the Auditor General we have Karen Hogan, Auditor General of Canada. We also have Nicolas Blouin, director, and Markirit Armutlu, principal. </ParaText>
+              <ParaText id="8912150">It's nice to have you all here.</ParaText>
+              <ParaText id="8912151">I'm going to begin with the Department of Public Works and Government Services. </ParaText>
+              <ParaText id="8912152">You have five minutes for an opening statement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150725">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills (Associate Deputy Minister, Department of Public Works and Government Services)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912153">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912154">I'd like to acknowledge that we are meeting on the unceded territory of the Anishinabe Algonquin nation.</ParaText>
+              <ParaText id="8912155"> I'm pleased to be here to address the Auditor General's recent report on the current and future use of federal office space, and the findings and recommendations directed to Public Services and Procurement Canada.</ParaText>
+              <ParaText id="8912156"> I’m joined today by Nathalie Bertrand, associate assistant deputy minister of real property services.</ParaText>
+              <ParaText id="8912157">Public Services and Procurement Canada, PSPC, manages the government's general purpose office space. This represents an office space portfolio of 5.9 million square metres. We estimate that before the pandemic, approximately half that space was underused on any given day.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912158">We therefore initiated a process to optimize the office space footprint. Throughout this process we have worked with federal departments and agencies to ensure we provide sufficient office space in line with Treasury Board of Canada Secretariat’s directive on prescribed presence in the workplace. We’ve made important progress on optimizing the use of federal office space, but we recognize there is more to be done.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912159">We thank the Auditor General and her office for their work, and we agree with the recommendations in the report.</ParaText>
+              <ParaText id="8912160"> The Auditor General's report highlighted delays encountered by PSPC in achieving the target of reducing the office space portfolio by half. As it stands, our efforts are projected currently to reduce approximately by 33% by 2034.</ParaText>
+              <ParaText id="8912161"> We recognize that the plan to reduce our portfolio by 50% is ambitious. Achieving it will require innovative portfolio strategies, cross-government collaboration and more effort. We have already identified ways to optimize our leased and owned spaces, including the co-location of federal departments and agencies, and accelerating the disposal of surplus assets. We will continue to work closely with federal departments and agencies to explore ways to bridge the gap between the 33% and the 50% reduction. </ParaText>
+              <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912162">We agree with the recommendation that we must improve our public reporting on progress toward achieving the reduction of our office portfolio. As part of PSPC’s commitment to transparency, the department will publicly share information related to the management and use of space, and report on our progress toward achieving the 50% reduction of its office portfolio over the next 10 years.</ParaText>
+              <ParaText id="8912163">I note that information on progress has been available online since March of this year, and will be updated annually.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912164">In closing, PSPC will continue to work closely with the Treasury Board of Canada Secretariat; and Housing, Infrastructure and Communities Canada to implement the Auditor General's recommendations.</ParaText>
+              <ParaText id="8912165"> We have taken careful note of the Auditor General's findings with respect to delays and transparency, and we have already started to make progress on making information available publicly. We will continue to provide updates on our progress towards reducing the federal office footprint.</ParaText>
+              <ParaText id="8912166"> Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150753">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912167"> Thank you.</ParaText>
+              <ParaText id="8912168">Mr. Mills, I have a quick question.</ParaText>
+              <ParaText id="8912169">We've received your draft work plan or action plan. Could you let me know when the final version might come before the committee?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150758">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912170">I don't have a specific date, but we will endeavour within a week to provide the date for when it'll be finalized.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150760">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912171">Okay, you'll provide a date within the next week about the final version. If that's an issue, we'll get back to you. We'll take that up if necessary, but a final version is something we look for. We don't want to get into the habit of departments sending us draft versions. Some allowance is allowed, but we look for a final version as soon as possible.</ParaText>
+              <ParaText id="8912172">Thank you very much.</ParaText>
+              <ParaText id="8912173"> Ms. Boudreau, you have the floor for up to five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150762">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau (Comptroller General of Canada, Treasury Board Secretariat)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912174">Thank you, Mr. Chair, for the opportunity to address the committee on the Auditor General’s Report on the Current and Future Use of Federal Office Space.</ParaText>
+              <ParaText id="8912175">I am joined today by Michèle Kingsley, senior assistant deputy minister, strategic directions, office of the chief human resources officer; and Samantha Tattersall, assistant comptroller general, investment management sector.</ParaText>
+              <ParaText id="8912176">I will outline the role the Treasury Board of Canada Secretariat, or TBS, has in this area, then address the relevant audit findings.</ParaText>
+              <ParaText id="8912177">TBS sets the administrative framework for how departments should manage their real property.</ParaText>
+              <ParaText id="8912178">There are 28 organizations that own and manage real property. These are referred to as custodian departments. These organizations are accountable for ensuring that their real property supports their operational needs and is managed effectively. This includes determining which assets are required, how they are maintained, and when and how they are disposed of when no longer needed.</ParaText>
+              <ParaText id="8912179">In addition to our role in real property management, TBS also introduced the direction on prescribed presence in the workplace in December 2022, requiring eligible employees to work onsite two to three days per week by March 2023. Revisions to the Direction were announced in May 2024 to increase the minimum onsite presence, requiring eligible employees to work onsite three days a week and executives to work on site four days a week as of September 2024.</ParaText>
+              <ParaText id="8912180">The goal of the audit was to determine whether the government's general purpose real estate portfolio was managed in a manner that provided sufficient office space for the public service while minimizing costs to Canadians. Four organizations were included in this audit.</ParaText>
+              <ParaText id="8912181">The audit focused on the role of TBS in directing real property management across government, and in particular on the Centre for Expertise on Real Property. This centre was created as part of the 2021 budget with $5 million in funding over three years to coordinate the implementation of recommendations from the horizontal review of capital assets and to help departments and agencies adapt to changes in office space use resulting from the pandemic. This funding was temporary and ended in March 2024.</ParaText>
+              <ParaText id="8912182">The Auditor General found that the centre had played an important leadership and oversight role in implementing the recommendations arising from the review. The audit also found that, following the dissolution of the centre, Treasury Board Secretariat's capacity to provide the leadership and coordination necessary to implement the recommendations had diminished.</ParaText>
+              <ParaText id="8912183">Treasury Board Secretariat agrees with the Auditor General's conclusion that the centre has made significant progress in implementing improvements to the management of real property within the federal government.</ParaText>
+              <ParaText id="8912184">As agreed in the management response, TBS has begun reviewing the outstanding Horizontal Fixed Asset Review recommendations to prioritize work that could be undertaken, taking into consideration feedback from the real property community. We will then consider options to address the identified priorities, including exploring funding strategies and identifying what can be delivered with existing resources.</ParaText>
+              <ParaText id="8912185">In conclusion, through the Office of the Comptroller General, TBS continues to support the improvement of federal real property management as part of its core responsibilities. We continue to improve our policies, provide advice to the community, and support the professional development of real property practitioners.</ParaText>
+              <ParaText id="8912186">I look forward to answering your questions. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150798">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912187">Thank you, Ms. Boudreau.</ParaText>
+              <ParaText id="8912188">Ms. Hogan, you are the next speaker on the list and you have some things to tell us.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150799">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan (Auditor General of Canada, Office of the Auditor General)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912189"> Mr. Chair, thank you for this opportunity to discuss our report on the current and future use of federal office space.</ParaText>
+              <ParaText id="8912190">I would like to acknowledge that we are gathered on the traditional unceded territory of the Algonquin Anishinabe people.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912191">Since I already appeared before this committee last week, I won't make an opening statement today. I understand that my written statement has been redistributed to committee members.</ParaText>
+              <ParaText id="8912192">We're pleased to answer questions from committee members. In order to best support the work of this committee, I cede the remainder of my five minutes' speaking time. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150802">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912193">Thank you very much, Ms. Hogan.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912194">I'll begin our first round, which consists of three members with six minutes each.</ParaText>
+              <ParaText id="8912195">Ms. Kusie, you have the floor to kick us off, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150804">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie (Calgary Midnapore, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912196">Thank you very much, Chair.</ParaText>
+              <ParaText id="8912197">Thank you to all of our witnesses for being here today.</ParaText>
+              <ParaText id="8912198">Mr. Mills, the Auditor General's report made it clear that your department is not on track to deliver the 50% reduction in federal office space over the 10-year period. I find it hard to believe that PSPC will even reach the new 33% planned reduction, given that, since 2019, the government has only reduced federal office space by 1.6%. What gives you the belief that you can reach this target?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150809">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912199">I have a number of points I'd like to raise today in terms of the progress.</ParaText>
+              <ParaText id="8912200">We acknowledge that we have not made a lot of progress, in part because, between 2019 and 2024, we didn't have an approved policy to hit the 50% reduction supported by an approved funding source. That came in the 2024 budget. Also, between the prework that was done in 2019 and 2024, we had a severe disruption to the portfolio and to our work program because of the pandemic. The last piece I would mention is that part of what we were doing in that interim was running procurements and initiating large capital projects that will result in and enable reductions in other years.</ParaText>
+              <ParaText id="8912201">I can appreciate at the moment that the progress has been relatively modest but, as we look around the city and we look across the river at Place du Portage III or Les Terrasses de la Chaudière, we have hundreds of thousands of square metres of office space being modernized today, which will enable reductions two to three years down the road.</ParaText>
+              <ParaText id="8912202">We have made some progress over the last year. As we go further along and complete our capital projects, which can take three to five years each, we will start to see an acceleration in the number of reductions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150823">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912203">Thank you for that response.</ParaText>
+              <ParaText id="8912204">The Canadian Press reported last week that the updated “In-office rules for public servants [is] thwarting”—that's their word, not mine—“plan[s] to sell off [office] space”. Do you agree with this statement?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150860">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912205">The current footprint we have is sufficient to accommodate the number of employees at the current requirements of prescribed presence in the office. We have additional capacity to have more presence in the office. We continue to work on our plans to see our reduction, but, again, the 34% reduction was based on the current program we have with prescribed presence in the office and based on the work counts we have today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150868">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912206">Thank you for that.</ParaText>
+              <ParaText id="8912207">As I mentioned previously, the Auditor General's report shows that the government has only reduced space from six million square metres to 5.9 million square metres, again, just 1.6%. Her report outlines that full-scale implementation began only in 2024, five years after the program was announced.</ParaText>
+              <ParaText id="8912208"> Can you understand why Canadians might be skeptical that this program is more than a project for the government to display that they have the capacity to oversee a housing crisis where costs have doubled, young Canadians have been priced out of their homes and mortgages have doubled?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150877">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912209">Again, I can appreciate that, at the early stages of a large, complicated capital program such as this, relatively modest initial reductions would challenge people's confidence. This is why it's important that we take very much to heart the recommendation by the Auditor General to have much more transparency on what we predict as the reductions and much more clear and timely reporting on how we're doing against that so we can build the confidence of Canadians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150885">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912210"> Thank you.</ParaText>
+              <ParaText id="8912211">Ms. Hogan, thank you for your detailed report on this program. As always, your work is deeply appreciated by Canadians.</ParaText>
+              <ParaText id="8912212">Last week, the committee heard that both CMHC and Housing, Infrastructure and Communities Canada don't currently have enough office space to accommodate the three-day per week return-to-office mandate.</ParaText>
+              <ParaText id="8912213">Do you believe that this is common across departments?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150889">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912214">Unfortunately, I'm unable to answer that question. As we highlighted in the audit, gathering information across the federal public service about usage of office space is inconsistent.</ParaText>
+              <ParaText id="8912215">I did hear that testimony. I can tell you that my office has enough space. You would have to ask others about their thoughts and views on space usage.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150890">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912216">If departments at this committee are coming forward and saying they don't have enough space, do you feel confident that this program will ever accomplish its goals?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150892">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912217">Again, I believe that they commented on not having enough space with the current way their offices are laid out. One of our findings in our audit was about the need to modernize workspaces to move away from the traditional, where everyone has a large office or cubicle, to something that allows for hotelling and more activity-based work.</ParaText>
+              <ParaText id="8912218">Progress has been slow on that. Until that happens, I think many will likely report that they don't have enough space under the current set-up of their offices.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150895">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912219">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150896">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912220"> Up next is Mr. Osborne. </ParaText>
+              <ParaText id="8912221">You have the floor for up to six minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150898">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne (Cape Spear, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912222">Mr. Mills, in terms of the modernization of workspace, when we look at the prescribed presence in the workplace and how that has changed over the last couple of years.... I mean, who knows? It may change again in the future. We don't know that.</ParaText>
+              <ParaText id="8912223">How realistic is the modernization and sharing of workspaces now that we have a difference in the prescribed return to work?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150908">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912224">At present, around 30% of the public service is already operating in modernized spaces. We are confident that for those who are operating in modernized spaces, it is serving their needs and they are able to accommodate flexible, hybrid work arrangements.</ParaText>
+              <ParaText id="8912225">Another key part of this is actually the technology. We need to have both the modernization and more presence of what we're calling GC-WIFI. It's having Wi-Fi-enabled space. With the presence of GC-WIFI and modernized space, we can accommodate much more flexible work arrangements. We can accommodate departments into the future.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13150921">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912226">Mr. Mills, as a landlord, I can't imagine having to negotiate with my tenants on when they move or if I need that space back. The Auditor General found that there was no financial incentive, that budgets were not reflected by the space that was utilized and that tenants were not co-operative with PSPC in terms of the desire to move or were showing a lack of desire to move.</ParaText>
+              <ParaText id="8912227">That obviously creates constraints for you. We can have recommendations or policy provided by elected officials, but if departments are not responding to you as the landlord, how do you get around that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150932">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912228">By way of incentives, I think it's important to start off and acknowledge that when we move to a new space, PSPC pays part of the cost, which we call the base building. It's actually fitting up the hard surfaces—walls, carpeting, ceilings and whatnot. Departments incur costs to purchase new furniture, security systems and technology.</ParaText>
+              <ParaText id="8912229"> I don't want to characterize it as departments always being resistant. We have to try to align departmental budget decisions with PSPC budget decisions. They don't always align that easily.</ParaText>
+              <ParaText id="8912230">The other part I would say around moving forward is that it is really disruptive to actually move a department from one location to another location. Sometimes what we have to do is actually move a department out of its building. We call that swinging them out. We move them to a temporary location—temporary could be three to five years—and then move them back in. That is a very disruptive process for a department. </ParaText>
+              <ParaText id="8912231">I don't want to characterize it as departments are holding on or resisting. There are valid reasons why it's challenging for certain departments to be able to actually align and modernize space.</ParaText>
+              <ParaText id="8912232">In working with our people who are responsible for real property in the different departments, we are trying to make sure that as we go forward and talk about modernized space, they understand that all departments are going to have to modernize their spaces. All departments are going to have to move toward an alignment. </ParaText>
+              <ParaText id="8912233">It's a question of how we work with them on a plan over the next 10 years to ensure that all public servants are in modern spaces where they have access to modern technology such as GC-WIFI and ensure a footprint.... It will be challenging for some departments to determine a timeline that aligns between what we want to do from the hard, real property piece and what they can resource and change-manage in terms of their side of the equation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150958">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912234">In terms of comparing apples to apples, you have not been getting the information required to be able to properly measure. Different departments report to you differently. If there are recommendations that are coming from this committee, how do we standardize the information that you collect so that we are measuring departments equally, we have a greater understanding of available space and the utilization of that space, and you can better manage the space that you are managing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150963">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912235">If I were to make a recommendation on this, I don't think any of the three broad methodologies for measuring office presence, whether that be network connections, card swipes or booking tools, is perfect. What I would recommend would be a standard for each of those and then a methodology for having a primary calculation with a secondary, so we understand with a greater degree of confidence what the likely presence is.</ParaText>
+              <ParaText id="8912236"> I would like to also note that prior to the pandemic, prior to the mass adoption of hybrid, we didn't ever measure utilization. The private sector didn't measure utilization. Everyone is looking at this now because it's a much more contextual topic. The provinces and territories are looking at this. I think we will be able to leverage some of what others are doing in terms of methodology. </ParaText>
+              <ParaText id="8912237">In the beginning, a common standard of how we measure and apply the network connection data, how we apply the card swipe data, how we apply booking tool data and perhaps how we have a primary calculation backed by a secondary, will get us better precision. It won't be 100% correct, but it can get better precision.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150977">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912238">The Auditor General pointed to other jurisdictions—Australia was the example identified in the report—and how they report on the utilization of space, excess space and so on.</ParaText>
+              <ParaText id="8912239">Has your department looked at that model and how we can adopt similar models here?</ParaText>
+              <ParaText id="8912240">Some departments haven't even responded to you. You can't report what you don't know. I want to layer the question that I just asked with how we get departments to respond.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150991">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912241"> I'll turn to my associate ADM in terms of what they have looked at for other methodologies.</ParaText>
+              <ParaText id="8912242">Again, in terms of the way that we work with other departments, working with our real property leads in all the departments, these are a number of issues where we're trying to seek co-operation and collaboration. Also, we understand that they may have privacy concerns. They may have data quality concerns in terms of sharing. We will continue to work with departments.</ParaText>
+              <ParaText id="8912243">One of the benefits in terms of the network data is the more that we deploy SSC technology, the more SSC can provide a larger window into departments in terms of its assets.</ParaText>
+              <ParaText id="8912244">I will turn to Nathalie in terms of looking at the Australian method.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151003">
+            <PersonSpeaking>
+              <Affiliation DbId="322766" Type="28">Nathalie Bertrand (Associate Assistant Deputy Minister, Department of Public Works and Government Services)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912245"> We are committed to working with central agencies and partners on the development of this standard methodology. We are working hand in hand with our SSC colleagues because we truly believe that technology is going to be the piece that helps us drive this forward. We have three or four different solutions that we are looking at and assessing. We are committed to coming back with a final proposal by the end of the spring.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151013">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912246">Thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151016">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912247">That is your time. </ParaText>
+              <ParaText id="8912248">I let it go over just because you were on a roll there and there was extra time.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912249">Mr. Lemire for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151017">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire (Abitibi—Témiscamingue, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912250">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912251">Thank you to all the witnesses joining us today.</ParaText>
+              <ParaText id="8912252">I think the most recent data is welcome.</ParaText>
+              <ParaText id="8912253">Mr. Mills, during our last committee meeting, one of my Conservative Party colleagues asked the officials in attendance about the telework policy in their respective departments. The policy of four days in the office for executives and three days for employees applied. You said in your opening remarks that it applied to you too.</ParaText>
+              <ParaText id="8912254">Currently, do you feel you have sufficient office space? In your opinion, is this policy really necessary?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151026">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912255">Yes, there is sufficient office space for public servants at this time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151030">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912256">There really was no need, then, for a government policy to reduce office space.</ParaText>
+              <ParaText id="8912257">You said the target would go down to 33%, but there is a contradiction nonetheless, since the Minister of Housing, Infrastructure and Communities is increasing his office space in response to directives on teleworking.</ParaText>
+              <ParaText id="8912258">How can you explain the fact that there is currently an office space reduction target when simultaneously office space is being increased?</ParaText>
+              <ParaText id="8912259">Furthermore, what's the cost of this modernization, which is producing questionable results on the ground?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151039">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912260">I'll ask Ms. Bertrand to answer that question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151044">
+            <PersonSpeaking>
+              <Affiliation DbId="322766" Type="28">Nathalie Bertrand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912261">I'll start by talking about what is happening with Housing, Infrastructure and Communities Canada, or HICC. This department is among those that currently lack sufficient space to respect the return-to-office directive. That's because it's one of the departments that has expanded since the pandemic.</ParaText>
+              <ParaText id="8912262">When we allocate space to a given department, it's then up to the department to manage the space. The departments use their own technology and their own security systems. Even if some space could be allocated to other departments, it's not easy to execute. Not all employees at the various departments can move around spaces assigned to a different department.</ParaText>
+              <ParaText id="8912263">To meet HICC's needs, we presented various solutions to its representatives and they accepted one of them, which will be made available to them in the very near future.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151056">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912264">Thank you. That's enlightening.</ParaText>
+              <ParaText id="8912265">My fear is that, in theory, it's an excellent idea, but, in practice, it means investing so much money into implementation that there are few real benefits for taxpayers.</ParaText>
+              <ParaText id="8912266">I come back to the comparison between teleworking and being mandated back to the office. Any potential flexibility and savings for a government are limited. Having its employees in the office is more practical because it allows great flexibility and agility in the workplace. What is the impact of the new rules on that agility? Did you assess the disadvantages of a return-to-office policy to the ability of various departments to remain agile?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151066">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912267">I can respond to your question.</ParaText>
+              <ParaText id="8912268">Indeed, we looked at the positive aspects of working in the office, above all for new employees. A number of new employees started during the pandemic, but they had no support or initiation. Being in the office allowed employees feel they had more support and guidance. We also saw increased collaboration, co-operation and efficiency.</ParaText>
+              <ParaText id="8912269">These are very important elements and are part of our policy. Our positions on the return to office were based on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151075">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912270">It seems the telework experiment was less successful than previously thought.</ParaText>
+              <ParaText id="8912271">Personally, when I go to the office, I'm happy there's less traffic on Thursdays, Fridays and Mondays because of telework policies.</ParaText>
+              <ParaText id="8912272">All jokes aside, we know various departments were hard hit. In our members' offices, we know when a department is less efficient. We experienced the passport crisis. This summer, the Canada Revenue Agency came up a lot.</ParaText>
+              <ParaText id="8912273">Does telework have an impact on services to the general public? I'm having trouble seeing that relying on telework is making things less efficient. Are we sending people back to the office to improve the quality of services to the public?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151083">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912274">Indeed, that question is quite unique to each organization. You named some organizations responsible for services. At the Treasury Board Secretariat of Canada, we don't provide services directly to the public. However, we still adhere to the policy.</ParaText>
+              <ParaText id="8912275">As I said earlier, the fact that we're all working together in the same office building and on the same floors allows far greater efficiency. We're making decisions more quickly. That's my personal opinion.</ParaText>
+              <ParaText id="8912276">Also, as I indicated earlier, it means we can support students and new public servants, who are coming from the private sector or another department. There are many advantages to having them with us from the start to give the support they need.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151088">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912277">I'm happy to hear that perspective.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151090">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912278">Thank you very much.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912279"> We'll begin our second round. The times will vary.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912280">Mr. Deltell for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151092">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell (Louis-Saint-Laurent—Akiawenhrahk, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912281">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8912282">Ladies and gentlemen, welcome to the Standing Committee on Public Accounts and to the Parliament of Canada.</ParaText>
+              <ParaText id="8912283">As we know, a few months ago, the government announced a series of comprehensive economic measures. One of those measures aims to find savings of 15% of current expenditures. I won't hide the fact that, politically speaking, we have some very serious reservations about the ability to achieve that commitment. You can’t spend nine years spending recklessly and then, overnight, reduce spending. We shall see.</ParaText>
+              <ParaText id="8912284">Now, the question is whether that 15% can apply to office space.</ParaText>
+              <ParaText id="8912285">Ms. Boudreau, my questions aren't political but factual. Did the Treasury Board Secretariat give the departments directives on the use of office space and the renewal of leases in connection with the 15% reduction in expenditures? Does that 15% include savings in relation to office space?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151107">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912286">Indeed, on July 7, we launched the initiative by sending letters to participating departments. We asked them to see what current programs weren't producing the anticipated results for Canadians. We want to make sure that taxpayers' money is being spent wisely. If programs aren't performing as expected, we will eliminate or streamline them.</ParaText>
+              <ParaText id="8912287">It's important to know that not all departments are included in our review. For example, parliamentary officers were excluded to maintain their objectivity.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151113">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912288">My question wasn't about programs but rather about square footage in departmental offices. Will the 15% spending cut impact departmental office space?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151114">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912289">I'm getting to your question.</ParaText>
+              <ParaText id="8912290">It could. If a department determines that it has too much office space and wants to reduce it, this reduction could fall within the 15%. For example, if it decided to give up a building, the spending reduction could be tied to security services, cleaning services or all other services associated with renting the building. Depending on the situation, some organizations can include their reduced office space in their 15% savings.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151117">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912291">The Treasury Board Secretariat didn't, then, specifically direct departments to cut the cost of renting office space by 15%?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151120">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912292"> We asked organizations to look at operating expenses that could be reduced, taking into account their needs and mandates. Office space is an operating expense.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151121">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912293">Everyone knows Canada is experiencing a housing crisis. Housing prices and rents have gone up significantly, and obviously that has a direct impact on office space.</ParaText>
+              <ParaText id="8912294">As members, we are all familiar with that because we all have constituency offices. We are all dealing with pretty significant rent increases for those offices. I am, and my fellow members are more or less in the same boat.</ParaText>
+              <ParaText id="8912295"> Does that have a direct impact on your objective of reducing departmental budgets? You know as well as I do that office space costs a lot more per square foot than it did a few years ago.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151132">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912296">As I said earlier, the objective of the current review is really to increase efficiency and cut spending on programs that are not achieving the results they should for Canadians.</ParaText>
+              <ParaText id="8912297">Once the review is complete and the decisions are made, I imagine the results will be shared with you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151143">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912298">The government pledged to raise the level of military spending and spending by the Department of National Defence, or DND, to 5% of GDP. Again, we have very serious reservations from a policy standpoint regarding the goal the government has set, a government that hasn't been very generous to DND over the past nine years. </ParaText>
+              <ParaText id="8912299">Again, this isn't a question about policy; rather, it's a question about the facts. Do you think the major increase in DND spending the government has planned could directly affect the rents you pay?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151150">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912300">Unfortunately, I don't have the information to give you an adequate answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151154">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912301"> Your honesty is very much to your credit. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151155">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912302">Thank you, Mr. Deltell.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912303"> Mr. Housefather, you have the floor for up to five minutes, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151156">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather (Mount Royal, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912304">Thank you so much, Mr. Chair. </ParaText>
+              <ParaText id="8912305">I know that you and the committee members will join me in extending our sympathies to the Jewish community in Manchester after this horrible attack on a synagogue, on the most holy day of the Jewish calendar. I hope we can all pray for a day when Jewish communities feel as secure as they did two years ago.</ParaText>
+              <ParaText id="8912306"> Mr. Mills, it's good to see you again. I don't believe we received the full management action plan from PSPC. When can the committee expect to receive that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151160">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912307">Mr. Chair, we did submit—as was discussed at the beginning—a draft action plan. We sent it for comments. As soon as we have those comments reflected, we will present it to this committee. I endeavour, within a week, to get you a firm date as to when we will submit it to the committee. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151163">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912308"> Okay, so basically within the next week we'll know what date you'll submit it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151165">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912309">That's right, but we're going to work as urgently as possible to incorporate the comments that we get back to finalize this.</ParaText>
+              <ParaText id="8912310">We appreciate the need to get a timely final action plan to the committee.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151169">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912311">I understand.</ParaText>
+              <ParaText id="8912312">Let me move to a different question, Mr. Mills, which is related to the Auditor General's report.</ParaText>
+              <ParaText id="8912313">I want to read section 3.33 of the Auditor General's report, then I'm going to ask some questions:</ParaText>
+              <ParaText id="8912314">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">Some federal tenants reimburse (or pay rent to) Public Services and Procurement Canada for the office space they occupy, while others follow a different model where the amount of space they occupy has no impact on their budget. Of the 15 tenants cited above who did not agree to the reduction of the space they occupy, 13 (or 87%) had no financial incentives to reduce the space. In total, 93 federal tenants (89%) do not reimburse the department for the space they occupy.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8912315">I want to pivot to that because, as we both know, you also have the added problem that where there is no cost imputed to the budget for the space they occupy, there would be costs imputed to the budget if a tenant were required to move, buy new furniture and set up a new office space.</ParaText>
+              <ParaText id="8912316">It seems we've created a situation where there's going to be a great deterrence for many of the federal tenants to actually ever want to reduce office space, because, as you said, it would require them to perhaps move temporarily and it would require them to incur additional costs.</ParaText>
+              <ParaText id="8912317">What can be done to change the process so that the existing rent is actually in some way imputed to the tenants, giving them an incentive to downsize?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151185">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912318">As noted in the report, some clients are reimbursing. We do have some reimbursement models. The Canada Revenue Agency, for instance, is reimbursing, as well as Employment and Social Development Canada. Those are models that we can look at potentially expanding to other federal tenants.</ParaText>
+              <ParaText id="8912319">One of the challenges we have with a decentralized rent model is it doesn't align easily with a centralized mandatory service provision. Part of the challenge we have is how we create incentive mechanisms that can align with central management of the office portfolio.</ParaText>
+              <ParaText id="8912320">I appreciate that we will need to review other models. We do have some that we think create incentives and that work well. Maybe there are opportunities to look at expanding those models to others.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151195">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912321">I understand that, Mr. Mills. I respect you. We had a chance to work together, and I know you know this subject very well.</ParaText>
+              <ParaText id="8912322"> The CRA does have a different model. It wouldn't necessarily need to be a model where cash is actually paid; it could be a reduction in budget.</ParaText>
+              <ParaText id="8912323">Would it be a decision of Treasury Board or PSPC to have a standard model across government related to how we would impute costs of different departments occupying different office space?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151208">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912324">I'll turn to my OCG colleagues to talk about the policy requirements for something like that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151213">
+            <PersonSpeaking>
+              <Affiliation DbId="274794" Type="28">Samantha Tattersall (Assistant Comptroller General, Investment Management Sector, Treasury Board Secretariat)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912325"> First of all, a decision about having a central general manager for accommodation is a policy decision, not a Treasury Board decision. That decision actually came out of the Nielsen report. It was, to what Mr. Mills was saying, about centralizing accountability so you can set standards across government.</ParaText>
+              <ParaText id="8912326">In terms of how the funding works, I'll defer to PSPC, but each department does get allocated office space and they have to stay within it. Anything above that, they have to pay for. There are readjustments on an annual basis.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151223">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912327">What you're saying, though, is that for the space they have been allocated now, they're paying. Is that correct, or are you simply saying that if they occupy more space than they've been allocated now, they would be paying?</ParaText>
+              <ParaText id="8912328">Of course, the issue is the refusal to downsize, not the demand for additional space.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151228">
+            <PersonSpeaking>
+              <Affiliation DbId="274794" Type="28">Samantha Tattersall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912329">It's your space.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151234">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912330">Mr. Chair, that's correct. They would pay if they went above their space allocation.</ParaText>
+              <ParaText id="8912331">Reducing the space allocation, as you mentioned, is a very difficult choice and potentially a grey area that we need to look at in terms of who has the discretion to actually reduce in line with their head count.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151240">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912332">I understand, but we do agree that this is a problem. Is that correct? When I was the general counsel at a company, I managed office space and I ran facilities. The biggest incentive for us in a budget to downsize space or to move to another location was the savings that it would generate.</ParaText>
+              <ParaText id="8912333">If a department sees no budget decrease for occupying the same amount of space and refusing to comply with downsizing guidelines, we have a problem. We all recognize that there's an issue here and it has to be resolved.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151246">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912334"> I tend to agree that the more visibility departments have on all their cost drivers, the better enabled they are to make efficient decisions on the use of public resources and strive to increase productivity and efficiency over time. Not having the true visibility of that cost does prevent them from thinking about how they, on their part, in their operations, can have a real property footprint that enables them to deliver great services for Canadians and do it in a very cost-effective manner.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151250">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912335">Thank you.</ParaText>
+              <ParaText id="8912336">That is your time, Mr. Housefather. I'm sure we'll come back to you.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912337">We now go to Mr. Lemire for about two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151252">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912338">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912339">Ms. Boudreau, my question is for you, but Mr. Mills can respond too if he likes.</ParaText>
+              <ParaText id="8912340">I understand that telework is an important policy for the government in order to cut costs. Telework as a working arrangement came about because of the pandemic and the necessity to work from home. A few years later, though, the government came to the realization that it was more efficient for workers to be in the office, and that is now being promoted.</ParaText>
+              <ParaText id="8912341"> That approach, though, means higher costs. Rents have gone up massively, for both offices and residential dwellings, as have maintenance costs. Increasing people's presence in the office is going to cost more.</ParaText>
+              <ParaText id="8912342"> Given that the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> has instructed you to quickly cut operating costs by some 15%, how do you balance the need to increase the number of workspaces? Shouldn't we expect another report from the Auditor General pretty soon?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151263">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912343">I'll use my department as an example.</ParaText>
+              <ParaText id="8912344">A year ago, in 2023-24, we made the decision to bring all our employees together under the same roof, and in doing so, we saved a lot on security, maintenance and IT service costs, as I mentioned earlier.</ParaText>
+              <ParaText id="8912345">Then the rules changed. Now executives spend at least four days a week in the office, and employees, three days a week. We've done a lot of analysis, and what we are seeing, week to week, is an office utilization rate of about 75% or 80% right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151272">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912346">That rate isn't the same every day, is it?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151275">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912347">We try to establish set days when each team has to come in, so that all the employees come in to the office on the same day. Again, the idea is to make it easier for employees to co-operate and have discussions. Currently, it's not at all a problem for our department.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151277">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912348">Fine, but the utilization rate must be 100% on Wednesdays, but about 50%, if not 25%, on Mondays and Fridays. Is that not right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13155556">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912349">That may be true, but the objective is to make sure that we are adhering to the prescribed presence requirements, which we are right now. We don't have any issues on that front, but again, I'm speaking for my own department.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13155562">
+            <PersonSpeaking>
+              <Affiliation DbId="319952" Type="47">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912350">Very good. Thank you, Ms. Boudreau.</ParaText>
+              <ParaText id="8912351">That's all the time I had, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151279">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912352">Mr. Kuruc, you have the floor for approximately five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151283">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc (Hamilton East—Stoney Creek, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912353">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912354">Thank you to all the witnesses for coming today.</ParaText>
+              <ParaText id="8912355">Mr. Mills, I want to ask you why you didn't receive the budget until 2024. I think you alluded to the office conversation.... It was initiated in 2019, so can I ask why it wasn't allotted until 2024?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151288">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912356"> I believe you'd have to ask the government why it went on that front. We had been working on proposals. I think that, by the time we had actually submitted a well-developed plan, it was more in line with a budget decision in 2024. Prior to that we had plans, but we hadn't submitted, I would say in a formal sense, the complete budget for that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151293">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912357">Thank you.</ParaText>
+              <ParaText id="8912358">I guess that would be a question for the treasury department, then?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151298">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912359">That would actually be a question for the Department of Finance.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151300">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912360">Thank you for the clarity on that.</ParaText>
+              <ParaText id="8912361">My next question is for Ms. Annie Boudreau. The centre of expertise for real property had started to identify some information gaps in the central database of federal real properties. After the centre was dissolved, the Auditor General found that, due to a lack of resources, you didn't take any further action to address the gaps that it had identified. What resources are you lacking, meaning that you can't address the information gaps?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151307">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912362">The centre of expertise was put in place in 2021. We received, at that time, funding for three years, so the funding sunsetted in 2024.</ParaText>
+              <ParaText id="8912363">During those three years, we took over 119 recommendations, coming from a report that we did internally. That report highlighted several recommendations in areas where we needed to do better. We took it upon ourselves at the Treasury Board Secretariat to reach out to departments, work with them, and be, really, the liaison to make sure that those recommendations would be looked at.</ParaText>
+              <ParaText id="8912364">I'll turn it over to my colleague, Samantha. She can explain in a little bit more detail in order to respond fully to your question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151316">
+            <PersonSpeaking>
+              <Affiliation DbId="274794" Type="28">Samantha Tattersall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912365">The centre of expertise really had a coordination leadership role. There were lots of recommendations, and most of them were for departments. The centre was setting out action plans and doing monitoring and implementation.</ParaText>
+              <ParaText id="8912366">Knowing that you can never count on time-limited funding being extended, we really prioritized key areas that we thought could have impact, so we set up governance and visibility around real property. We really focused on getting custodian departments—there are 28—to have a real property portfolio strategy. What's that? Many departments own multiple properties, so how do you manage in a way that you know what you have, what condition it's in, what you need and what you don't need, and how you can dispose of that? We also spent time focusing on professionalization.</ParaText>
+              <ParaText id="8912367">With respect to data, I think the key data gaps that were identified in the audit pertain to PSPC, so I will leave it to them to address those audit recommendations. Having said that, I will say there are data gaps in real property management. We do have a directory of federal real property; it is accessible to the public. It will give you basic data about usage and age of real property. There is still more work to be done on that.</ParaText>
+              <ParaText id="8912368">The one key thing that I will say is the centre of expertise did not change the core mandate of TBS. It helped facilitate the implementation of these recommendations, but we continue to make progress on supporting the management of real property. </ParaText>
+              <ParaText id="8912369">We continue to do things that really support the ongoing better management of real property across the Government of Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151333">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912370">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151335">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912371">Next up is Ms. Yip.</ParaText>
+              <ParaText id="8912372">You have the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151337">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip (Scarborough—Agincourt, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912373">Thank you, Chair.</ParaText>
+              <ParaText id="8912374">Thank you to the witnesses.</ParaText>
+              <ParaText id="8912375">My question is to Ms. Hogan and to Mr. Mills.</ParaText>
+              <ParaText id="8912376">On average, federal tenants reported data for only 31% of the buildings they occupied and 64% of their employees. Why are these numbers so low? What happens to tenants who don't report, or partially report, their office space usage?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151341">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912377">Again, it would be a case-by-case basis as to why certain departments don't have that. In some instances, they may not have the technology. They may not have been using a booking system or they may not have been able to pull card swipe data to be able to estimate that.</ParaText>
+              <ParaText id="8912378">Again, we don't have a mandatory requirement for departments to provide it to us. We have to work with departments and see what information they can make available. I don't have something that would necessarily enable me to compel a department or agency to provide information.</ParaText>
+              <ParaText id="8912379">Finally, prior to the pandemic, prior to the prescribed presence in the workplace, departments and agencies weren't measuring this, so it is a relatively new thing for some departments and agencies to track utilization.</ParaText>
+              <ParaText id="8912380">Prior to the pandemic, we had thought about it, but we weren't thinking about using network connections or card swipes. We were thinking about deploying sensors, and as we started to look at that, there were real serious privacy considerations and labour relations management considerations. There are a number of areas where you have to be very mindful of the source of data, and what people believe they're providing data for. Some departments may not have worked through that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151354">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912381"> Ms. Hogan, do you have any comment on what was just said?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151356">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912382">Your question points directly to one of the recommendations we made, that there's a need to figure out a standardized way to do this. I think some organizations would have known where their employees were prior to the pandemic and were monitoring it. I know that we would have.</ParaText>
+              <ParaText id="8912383"> I could have told you that we had underutilized space because our auditors were consistently out at entities doing work, so sometimes we did have vacant space. Our work might have required us to track that versus others not being able to track it before the pandemic. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151361">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912384">In your view, what responsibility would federal tenants have in collecting and reporting the data?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151365">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912385">The views we've expressed in the report are pretty clear. I think every deputy head has a responsibility to be able to provide a picture of how they use the office space they're responsible for and to then support the government's goal of trying to reduce that office space by 2034. I see everybody playing a role in that. </ParaText>
+              <ParaText id="8912386">Unfortunately, when you lose oversight and leadership, sometimes people focus on other things, and that's why it's important to have someone who has their eye on the prize of the goal to accomplish. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151372">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912387">If the federal tenants refuse to participate in collecting the data, what would your recommendation be? How can we improve upon the collecting of data?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151377">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912388">That's not up to me to recommend, or I would have put something in the report. That's a decision from a central agency to a department or from a custodian to a tenant department on how to manage that relationship.</ParaText>
+              <ParaText id="8912389">When I look at a government global picture, you need consistent information to have an accurate picture. There's an accurate picture that's publicly available of office space that's out there. How it's being utilized is needed if you want to reduce it. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151383">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912390">Ms. Boudreau, how is TBS responding to the Auditor General's recommendation on real property expertise?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151388">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912391">We agree with the recommendations coming from the OAG. We provided our action plan to the committee. Our commitment is to conduct an internal review of all outstanding recommendations coming from the report mentioned earlier. </ParaText>
+              <ParaText id="8912392">I would break down that commitment into four buckets.</ParaText>
+              <ParaText id="8912393">First, we have already completed looking at the framework and looking at what is outstanding, doing the triage of the outstanding recommendations by low, medium and high in order to understand the impacts, the feasibility and the risks associated with those outstanding recommendations. </ParaText>
+              <ParaText id="8912394">Second, we are engaging the real property community to make sure that we are on the same page based on our understanding of low, medium and high risk and make sure that we have a common understanding. That is on the way. We are hoping to finalize everything in October or November. </ParaText>
+              <ParaText id="8912395">Third, after making sure that we have the right path forward in collaboration with all the departments, we're going to be looking at the financial resources we have to push the remaining recommendations. This has not started, because step two is not completed yet. Once step two is completed, we'll be in a position to look at the financial resources available to all of us and make sure we can select those that are more at risk.</ParaText>
+              <ParaText id="8912396">Fourth, we're going to confirm which ones we're going to be working on in the future. That will be done in the next six months or so. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151416">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912397">Does TBS have the resources to take on what you just said?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151418">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912398">Like my colleague was saying, before the centre of expertise, we were providing leadership in terms of real property, and we'll continue to do that. We have those discussions all the time. We reach out to the community to make sure that we understand their challenges and make sure that we're there to help them and to share best practices. </ParaText>
+              <ParaText id="8912399">Do we have the expertise and the resources? Yes, but we will see at the end how many recommendations we will need to follow up on, and we will reassess at that time, which will be steps three and four. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151420">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912400"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151423">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912401">We are beginning our third round, which will consist of five members with various times.</ParaText>
+              <ParaText id="8912402">Mr. Stevenson, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151424">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson (Yellowhead, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912403">Thank you, all, for presenting to us.</ParaText>
+              <ParaText id="8912404">We had questions last week regarding Housing, Infrastructure and Communities. They told us, basically, that Mr. Mills with PSPC would have to answer some of those questions.</ParaText>
+              <ParaText id="8912405">Ms. Boudreau—or maybe it was Ms. Tattersall—said that there is a list and there is a percentage they have on the government buildings. My main question is going back to what my colleagues have asked. </ParaText>
+              <ParaText id="8912406">There's no incentive here for the departments to actually make the cuts. It was said that there are 28 custodian departments and the departments are going to be responsible for determining what is vacant and not. It seems to me, Mr. Mills, that you guys are going to responsible for saying that you've actually done something.</ParaText>
+              <ParaText id="8912407">How do we square this circle between saying there aren't really good measurables and they don't have incentives on the departments, yet you have to figure out where they're going to be cutting to make progress? </ParaText>
+              <ParaText id="8912408">I don't know what recommendations you have for us, using a stick or an incentive to make the departments come to the same conclusion. I do believe it's something to do with your standardized measurements, which are not there.</ParaText>
+              <ParaText id="8912409">Can you tell us what other things you can do so that the departments have to follow through and then in a year's time or so...? </ParaText>
+              <ParaText id="8912410">It sounds like you're the ones who are going to be responsible, even though the departments are the ones determining what is actually happening.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151459">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912411">It would be helpful for us as a government to have some agreement on some very clear standards, such as the number of square metres per employee or the space topology. Where there may be areas for exemptions—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151464">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912412">You said that there's a need for standards.</ParaText>
+              <ParaText id="8912413">Who is responsible? Who do you think should be responsible for making those standards and how can we measure them when they come to you later?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151466">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912414">To make sure we're on the same page, I believe we should have a clear set of standards in terms of the number of square metres and have mechanisms, as we've talked about, if departments wants to go beyond that for whatever reason. They can do it within their discretion and maybe have some other areas where they can get some savings, if they want to be more aggressive and go below the standard.</ParaText>
+              <ParaText id="8912415">I believe also that we should have greater clarity on what types of departmental needs would justify certain exemptions to a very rigid or specific standard. In order to have that be the strongest instrument, it would need to be a government-wide policy. We would need to have cabinet approval for such policy and direction.</ParaText>
+              <ParaText id="8912416">We could do it in a standard or we could do it in a guideline, but then we wouldn't have the mechanisms to actually enforce, whereas if we had clear a policy statement around principles, we would be able to do that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151479">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912417">Just to be clear, we have none of those. We're leaving it, at this point, up to cabinet to give you direction as to who's going to make that decision.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151481">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912418">At the moment, we have a very voluminous number of guidelines, documents and standards that were developed within PSPC within the policy framework. What those guidelines and directions lack would be mechanisms to make sure that we can ensure that all are aligned and clear on what those are, and that all recognize the need to follow them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151482">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912419">I'm going to take a bit of your time.</ParaText>
+              <ParaText id="8912420">You said “cabinet”. Could the President of the Treasury Board not enact that change you're suggesting, through the treasury? Why would it have to be a cabinet decision? </ParaText>
+              <ParaText id="8912421">Now that the line item's there, couldn't that come through the Treasury Board president as a policy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151485">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912422">I'll defer to my Treasury Board colleagues to explain that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151486">
+            <PersonSpeaking>
+              <Affiliation DbId="274794" Type="28">Samantha Tattersall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912423"> Treasury Board sets administrative policy for real property—the envelope—not the management of accommodation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151490">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912424">Thank you.</ParaText>
+              <ParaText id="8912425">Do you have anything to add to that, Mr. Mills? No? Okay, thank you. </ParaText>
+              <ParaText id="8912426">Thank you for your time, Mr. Stevenson. I sometimes have questions. I usually take members' time from the official opposition. I'm going to have some more later, as well, but your time is up.</ParaText>
+              <ParaText id="8912427">I'm going to go to Ms. Derksen now. You have the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151492">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen (Milton East—Halton Hills South, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912428">Thank you so much, Mr. Chair.</ParaText>
+              <ParaText id="8912429">Thanks to our witnesses who are joining us today. </ParaText>
+              <ParaText id="8912430">One of the risks of going later in the meeting is that a lot of what I want to talk about has already been addressed, so I'm going to try to flesh out some of the information that you have provided. I'm going to start with Mr. Mills and Madame Bertrand. It seems pretty obvious that we are lacking some data. That seems to be the point of a lot of problems being generated—this wild card being the tenants, and they're quite a variable. </ParaText>
+              <ParaText id="8912431">Madame Bertrand, you mentioned in answer to a previous question—I think it was asked by my colleague, Mr. Osborne—that you were looking at three to four solutions to implement in order to standardize some of this data collection.</ParaText>
+              <ParaText id="8912432">Could you expand a little bit on what those might be?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151498">
+            <PersonSpeaking>
+              <Affiliation DbId="322766" Type="28">Nathalie Bertrand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912433">We are working very collaboratively with our SSC colleagues to look at some of the solutions that are available to us. Some solutions are maybe implementable but in a much longer time frame. That would be things like standardized security swipe accesses, so that we would all have the same type of information, but that is not coming in the short term. </ParaText>
+              <ParaText id="8912434">In the short term, we are looking at software to be deployed on existing tablets. That would allow us to record connections to government systems. That is one of the solutions that we are testing. This is how, at PSPC, we track where employees are working from, but again, there is no standard software that is deployed on existing tablets. That would be one of the solutions that we're looking at.</ParaText>
+              <ParaText id="8912435">Another one that we're testing is sensors and solutions that are employed through GC-WIFI. Again, GC-WIFI is deployed in some spaces but not all spaces. At this point, what we are evaluating the options, determining what would be a feasible option and then how long it would take to deploy across our entire portfolio.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151507">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912436">Thank you.</ParaText>
+              <ParaText id="8912437">There are long-term solutions and mid-term solutions. Getting back to the problem I pointed out with the tenants being co-operative, for lack of a better term, would implementing those technological solutions solve this problem if tenants were not willing to co-operate? Would there be policies in place that would require them to use those or utilize the technology that you implement?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151515">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912438">Mr. Chair, it's a difficult question to answer. Knowing my colleagues across government, if they were presented with very accurate numbers of utilization, I believe that many of them would be compelled to look at how they could reduce space if there were solid data such that the space was not being utilized. I don't think anyone's interest is to hold on to large pieces of underutilized space. In a lot of cases, I would argue that what we would see is underutilized space around the margins where they're thinking, “We may have some expansions to programs. We may have some changes. We won't have the flexibility. I'm a little bit uncertain about giving it up,” but I do think that if you were able to present compelling evidence of underutilized space that could be validated, my colleagues would look to work with us to reduce it. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151526">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912439">Thank you. I certainly want to give a generous opportunity to our colleagues, and hopefully they would be reasonable in their responses. I'm thinking of the potential rogue tenant who, as we've already pointed out, is not incentivized. They don't want to go through the hassle of moving, necessarily. </ParaText>
+              <ParaText id="8912440">I know we're a retrospective-looking committee, but if we're looking to the future with how, perhaps, lease agreements are drafted, is there an opportunity there to make sure that there are provisions so that type of information is part of the legal agreement for leasing the space?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151530">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912441">It's something we could look at. As we move through the evolution of our leases, we do add things. We've been adding the requirement to collect more information on greening results. We've added requirements to collect the volume of waste in buildings, so we may be able to look at that. </ParaText>
+              <ParaText id="8912442">Again, it would be very dependent on what the technology is, how invasive it is and how we can ensure that they would safeguard the data to make sure that we're guarding the privacy of federal departments, as well as the federal employees who work in them. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151535">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912443">Mr. Lemire, you may go ahead for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151537">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912444">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912445"> Mr. Mills, we are talking about the importance of being present in the workplace to increase efficiency and savings. However, I think workplace centralization is at play. I live in the Abitibi‑Témiscamingue region, and I consider the presence of public servants to be important. In delivering services, public servants have to understand the realities of people who live in remote areas. That is fundamental.</ParaText>
+              <ParaText id="8912446"> However, if costs go up while the government forces departments to drastically cut spending, how will it be possible to maintain service delivery in the regions and ensure that public servants can work there without hurting their career advancement?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151545">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912447">That's really a management question that falls to every department. Each department determines the locations of its own offices in accordance with the services it provides to Canadians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151549">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912448">What about your department? How are you going to ensure that your employees in the regions have access to career advancement opportunities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151550">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912449">We have a number of regional offices where public servants have career advancement opportunities, in Winnipeg, Saskatoon and Matane, for example. Some of our service divisions carry out significant regional operations.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151560">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912450">I think we could see some centralizing of workplace locations in the years ahead. The take-away this morning is that there is reason to be concerned when it comes to the presence of public servants in regions. Do you feel that keeping public service jobs in the regions will stay a priority in the long term?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151562">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912451">The priority for me is to deliver services to Canadians, so we take into account where they live when we are organizing our services and deciding where to set up offices across Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151568">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912452"> My time is up, but I have one last comment.</ParaText>
+              <ParaText id="8912453"> Delivering services is one thing, but those services have to be tailored to peoples' realities. If the workers providing those services understand the region's reality because they live there, they will necessarily provide better, more effective service.</ParaText>
+              <ParaText id="8912454"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151572">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912455"> Thank you.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912456">Up next is Ms. Kusie for five minutes, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151577">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912457">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8912458">Madame Boudreau, in budget 2021 TBS received $5 million over three years to implement 119 recommendations from the horizontal fixed asset review process. To do this, you created the centre of expertise for real property, which has since been dissolved. Prior to being dissolved, the centre implemented only 18% of its recommendations, which comes out to a stunning $238,000 per recommendation implemented. Are you satisfied with this metric?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151586">
+            <PersonSpeaking>
+              <Affiliation DbId="274794" Type="28">Samantha Tattersall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912459">I think what's really important, just to start with, is that most of the recommendations were for departments, and our role was, really, in the leadership, coordination and implementation of those recommendations. A lot of the recommendations have a very long tail, so you don't just, in three years, improve real property. It's a long-term proposition.</ParaText>
+              <ParaText id="8912460">One thing I would like to highlight is that, since the dissolution of the centre of expertise, we haven't stopped working at TBS. I'll give you an example—and I think it's one that's relevant for this committee because, as we talk about housing and using federal lands, we look at how we can dispose of our federal lands to support that, and we've made changes to our policy to help facilitate the disposal. For example, now if you want to dispose to CLC, you can dispose at a higher level. We've reduced the due diligence requirements if you want to transfer property between departments, and we have been piloting a new authority model with DND, which helps them better understand and assess their maturity and capacity for managing real property. The more mature you are, the more flexibilities you have to implement real property transactions and to diminish that time.</ParaText>
+              <ParaText id="8912461">I'm now going to pass this to my boss. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151599">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912462">I want to highlight the number of recommendations, either implemented or not, and the progress on implementation of those 119 recommendations as last reported. Just prior to the dissolution of the centre of expertise, we had 31 that were completed and ongoing and 73 that were on track. That's 87% , which is a great number. Only 15 were not initiated or were at risk.</ParaText>
+              <ParaText id="8912463">Like I said previously, we are working with departments to make sure that we look at those and rank them low, medium and high. We'll be able to know which ones we'll be looking at in the near future.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151636">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912464">When was the last time TBS reviewed the rent model that allowed 89% of federal tenants to pay no rent for office space?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151639">
+            <PersonSpeaking>
+              <Affiliation DbId="274794" Type="28">Samantha Tattersall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912465">The space allocation model comes in on an annual basis. Every department is allocated a space. Then, every year—and I'll turn to my colleagues at PSPC—they come and adjust how much they need for that, based on price and volume.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151643">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912466">I'm happy to get back to you on when the actual policy came in. I'm not sure when that framework was established.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151644">
+            <PersonSpeaking>
+              <Affiliation DbId="274794" Type="28">Samantha Tattersall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912467">The original framework for a centralization of accommodation management was in 1985, following the Nielsen report.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151645">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912468">Okay. It's just concerning, since tenants currently have no incentive to co-operate.</ParaText>
+              <ParaText id="8912469">Budget 2024 claimed $3.9 billion in savings over 10 years. Can the Treasury Board provide this committee the internal analysis behind the $3.9 billion figure, please?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151647">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912470">Would it be possible to provide a few more details, please, so that we can answer you in the right way?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151651">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912471">Ms. Kusie, I'll give you the floor.</ParaText>
+              <ParaText id="8912472">This information can be provided at a later date, if necessary.</ParaText>
+              <ParaText id="8912473">Ms. Kusie, I don't know if you want to repeat. I paused the clock here, so if you want to be more specific, please do, or you can restate the question. If Ms. Boudreau and her department have questions, they can follow up with the analysts after.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151660">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912474">I'll move on to another line of questioning for my last 30 seconds.</ParaText>
+              <ParaText id="8912475">Ms. Hogan, in your report you note that crucial details, like which buildings have been sold, the condition they are in and contributions towards new housing, are hidden from the public. Would you say this lack of transparency actually shields the government from any accountability to Canadians paying for this program?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151670">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912476">Our office always encourages more open and transparent communication of data considered and information available so that parliamentarians and Canadians can make a decision. The reason we highlighted this and made some recommendations was to improve that sort of transparency but also to hopefully create some public pressure to see incentives for reductions in public space. We're always one for encouraging, but you have to have the right data out there and not overwhelm individuals with data.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151678">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912477">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151681">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912478">Ms. Boudreau, there was a request for information. It will be part of the transcript. As I understood Ms. Kusie, it was basically looking for a progress report on the budget savings. Could you endeavour to provide that? Whether it's Mr. Mills' department or yours, we'll work through the analyst to get that in the next couple of weeks.</ParaText>
+              <ParaText id="8912479">Thank you.</ParaText>
+              <ParaText id="8912480">Ms. Yip, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151684">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912481">I want to share my time with Mr. Housefather.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151686">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912482">We're not there yet.</ParaText>
+              <ParaText id="8912483">I have Mr. Osborne next, and then we're going to have another half round with Mr. Housefather, so he can split it with you, Ms. Yip, or Mr. Housefather can take it all.</ParaText>
+              <ParaText id="8912484">First, we have Mr. Osborne for five minutes, I believe.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151690">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912485">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912486">I'm going to go back to some of my previous questions.</ParaText>
+              <ParaText id="8912487">In the Auditor General's report, 41% of tenants “have not signed office space reduction agreements,” as of the time of the findings. There was “an unwillingness or disagreement to move into the new locations that [PSPC] proposed.” There was “no impact on...budget”, and, therefore, “no...incentives for tenants to reduce the space.”</ParaText>
+              <ParaText id="8912488">I feel that departments will hold on to one-use space if they don't have an incentive. It's almost impossible, Mr. Mills, for PSPC to compel a reduction in space and to provide information to PSPC from tenants. There are no implications to not responding, and there is no incentive to reduce space.</ParaText>
+              <ParaText id="8912489">How do we address this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151702">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912490">I'd like to note that, since the time of the report, we have had more departments sign off. We're down to eight departments. We'll continue to work very hard with those departments to try to conclude those plans. As I mentioned before, part of it will be to make sure that we understand their needs and that they understand the government's overall objectives. We'll have those kinds of clear targets we're trying to achieve and work to conclude agreements with the eight remaining.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151710">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912491">The Auditor General also found that, although your department has the necessary authorities to compel tenants to reduce their footprint, that has not been the practice. The practice is a shared responsibility where the department has to engage in negotiations. </ParaText>
+              <ParaText id="8912492">While there has been direction to reduce costs, get spending under control and reduce the amount of space to make space available for other purposes, including housing, Canadians, the general public, are not seeing the results in a more timely fashion. In looking at the recommendations and findings of the Auditor General, we have to find ways of doing this faster or doing it better. There's a cost to holding surplus buildings that are no longer used, as one example, in maintaining those buildings and heating those buildings. The length of time to reduce or dispose of surplus buildings is also a concern. How do we improve on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151732">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912493">In terms of the improvement on our results on disposing, I think my colleague from the Treasury Board Secretariat has mentioned looking at some new kinds of changes to the rules, some innovation. On our side, we've created a new unit that is piloting new structures. They found waste on transactions reducing the time from nine years to three and a half years. We continue to push.</ParaText>
+              <ParaText id="8912494">There is a certain amount of time that will be required for due diligence and circulation to ensure that, if there is an actual need from another public sector entity for space, that can happen, but we are working very actively and in constant dialogue with Treasury Board Secretariat about how we get the rules set and the administrative processes to be as fast as possible to move that.</ParaText>
+              <ParaText id="8912495">We also believe that, as we work with our Build Canada Homes colleagues and get it off the ground, we will also try to work with the Canada Lands Company to make housing ready and available in order to get more properties into that chain. We'll then be able to take properties that have great attributes for housing that are surplus to government's needs and make them available on a faster basis.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151760">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912496">I'm hoping that this committee will make some recommendations on how to improve these things. If I were to put that in your words, what do those recommendations look like? You have few effective levers, in my opinion, so how do we give you the levers? Put it in words for me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151767">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912497">Again, it's going back to having a clear target of what the space envelope is, how we calculate that and that it can adjust over time. Departments' labour forces will go up and down, but we need to have a reasonable amount of planning. It may not be instantaneous, but it needs to be able to have adjustments in a timely fashion.</ParaText>
+              <ParaText id="8912498"> If a department were to reduce in size for whatever reason, say by 10%, after three years we'd be able to reduce their space envelope if we had some mechanisms like that. I think we had mechanisms where, if departments were allocated 10 square metres per employee, but they want to be very aggressive and they found a way to have eight, they could somehow benefit from that extra savings to the Crown. Those mechanisms would be helpful in giving encouragement for everyone to economize on space.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151777">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912499">Mr. Mills, I've heard you a couple of times say that we should standardize the rules of engagement. That's well and good, but I'm interested in how we ensure that departments are responsive in signing agreements to reduce their space. Going beyond signing the agreement and reducing their space, there's an unwillingness for departments or agencies to move spaces. It's not convenient. There's no incentive in their budget. </ParaText>
+              <ParaText id="8912500">While I agree that we need to standardize the rules of engagement, we also need to put the levers in place.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151787">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912501"> It's very challenging from my position as a common service provider to have an enforcement set on the role set.</ParaText>
+              <ParaText id="8912502">Again, I wouldn't be able to talk to the consequence of not following that piece.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151793">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912503">Thank you.</ParaText>
+              <ParaText id="8912504">I'm going to do just a half round, but if I see members are looking for additional time, we do have it on the clock. I'm going to propose we deal with three members, although some will be splitting their time.</ParaText>
+              <ParaText id="8912505">If government members, in particular, are looking for more time, just flag me. I'm always going to give the government the last word.</ParaText>
+              <ParaText id="8912506">I'm going to split some time with my colleague, Ms. Kusie.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912507">Then it will be Mr. Lemire's turn.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912508">Mr. Housefather will close us out. </ParaText>
+              <ParaText id="8912509">You're going to split it with Ms. Yip, and I'll be generous on that time as well.</ParaText>
+              <ParaText id="8912510">I don't typically ask questions from here, but I have some, Mr. Mills, because you've raised an issue that in my three years has not come before this committee. You were sent on a course to pursue a policy, but the budget.... I was surprised it wasn't Treasury, but actually it was the finance department, which didn't even allocate the funds until several years in. Normally this department looks at spending after the fact, but you've come before us indicating that you had a job to do but no funds were attached to that. </ParaText>
+              <ParaText id="8912511">Is that right? Can you speak to that? </ParaText>
+              <ParaText id="8912512">Ms. Hogan, I'm going to look for your response on this as well, because this is unusual and certainly puts the department in a tough position. Help us understand what's going on here, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151805">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912513">We had looked at plans to modernize the overall portfolio of office space, and it took until 2024 in terms of a proposal being submitted and accepted to be able to retain a portion of savings from implementing a 10-year plan to reduce space, to be able to reinvest those to accelerate.</ParaText>
+              <ParaText id="8912514">We had resources to modernize space at a pace, we had plans to actually modernize and reduce and target the 50%. It was in 2024 where we actually had the 10-year specific plan to achieve that. We sought and received authorization to be able to retain a portion of the savings and reinvest that in the portfolio to deliver that 10-year plan.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151817">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912515">Thank you.</ParaText>
+              <ParaText id="8912516">Ms. Hogan, do you have anything to add to that? I don't know if there's much to be said, this is something we will have to consider here.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151823">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912517">All I would add is, as we noted, I would send members to paragraphs 14 and 15, where we talked about plans being developed from 2019 onward, and yes, there's not much that can be done without funding. Between 2019 and 2024, there was a very small reduction in space.</ParaText>
+              <ParaText id="8912518">I think you see the efforts when there isn't funding, but when a final proposal...the associate deputy minister explained when that went in. That just shows you that you need commitment and funding in order to be able to carry through on something.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151831">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912519">Yes, especially on a policy that is so critical. Those are all the questions I have.</ParaText>
+              <ParaText id="8912520">I'll now turn to Ms. Kusie.</ParaText>
+              <ParaText id="8912521">You have three minutes. I'm going to be generous with the time here because I know there are more questions coming from the other side.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151835">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912522">Thank you, Chair.</ParaText>
+              <ParaText id="8912523">I wanted to go back to the Auditor General, please.</ParaText>
+              <ParaText id="8912524"> In your opening statement, you noted that PSPC has made little progress in reducing office space, less than 2% to be exact.</ParaText>
+              <ParaText id="8912525">Do you believe the government's proposed savings of $3.9 billion will be achieved at this current rate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151841">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912526">I think the answer to that would be simply no at this rate, given that the plan was to hit a 50% reduction, and currently they believe they will only hit a 33% reduction. It think it would stand to reason that the $3.9 billion will not materialize.</ParaText>
+              <ParaText id="8912527">That shows that it's not all going to happen on day one, but it won't materialize if you don't think you are going to meet the 50% reduction.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151848">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912528">In my previous round, I had made notes that the current rent model allows for 89% of federal tenants to pay no rent for office space and it has no incentives for tenants to co-operate in paying their rent.</ParaText>
+              <ParaText id="8912529">Given this model, is it your view that departments should change the model so that office space does not come out of tenant budgets?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151856">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912530">As was mentioned by other witnesses, that was a policy decision to centralize everything, and I believe it probably comes with great economies of scale to negotiate lease agreements when it is one organization doing it.</ParaText>
+              <ParaText id="8912531">I think there are ways to incentivize. It doesn't always have to be about paying rent or not paying rent, and that's why we highlighted some of the concerns raised by Public Services and Procurement Canada, some of the concerns raised by tenants, and how some form of incentive, in our view, is needed to help. It doesn't always have to be financial to hit your budget.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151868">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912532"> Thank you, Ms. Hogan.</ParaText>
+              <ParaText id="8912533">I'll go back to the Treasury Board now and the $5 million over three years to implement the 109 recommendations.</ParaText>
+              <ParaText id="8912534">According to the Treasury Board of Canada's website, it is the secretariat's mandate to ensure that tax dollars are spent wisely and effectively for Canadians. Is it your opinion that the now defunct centre spent tax dollars wisely and effectively for Canadians?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151876">
+            <PersonSpeaking>
+              <Affiliation DbId="307571" Type="28">Annie Boudreau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912535">There were 119 recommendations in the report. As my colleague said, most of the recommendations were for departments and agencies. For those that were for us, as the office of the primary interest, we are still following up; we're still making progress, as highlighted by my colleague and me during this testimony. We'll continue to look at the remainder and make sure we are continuing to implement those recommendations that we believe are high risk.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151882">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912536">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151883">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912537">Ms. Kusie, I think your members are done. Is that correct? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151887">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912538">I believe that's accurate, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151891">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912539">I'm just trying to balance everyone's time here.</ParaText>
+              <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8912540"> Now it's over to Mr. Lemire for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151894">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912541"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8912542"> Ms. Boudreau and Mr. Mills, your departments are especially significant and symbolic to me. Last week, I asked a question I'd like to ask again. Could you please follow up in writing with the definition of a rural setting?</ParaText>
+              <ParaText id="8912543">It's a key issue, as I see it. A better definition would lead to cost savings in the current situation. Rents are cheaper in the regions, and it would ensure that the public service was decentralized more effectively, with a better understanding of the needs of the people in regions, in my view.</ParaText>
+              <ParaText id="8912544">I'm asking that question against the backdrop of the major reforms announced by Canada Post this week. Something that has not changed since the 1990s is that the city of Gatineau is still considered to be a rural area. In that sense, if the government were to update public servants' work sites and locations, I think it would be helpful to know how you define a rural setting.</ParaText>
+              <ParaText id="8912545">In closing, Ms. Hogan, I'd like to ask whether you knew that the Canada Mortgage and Housing Corporation, CMHC, conducted its survey on the rural rental market only once every five years. The survey provides a picture of municipalities with 2,500 to 10,000 residents, and current or future affordability rules could depend on the survey data.</ParaText>
+              <ParaText id="8912546">Is it a good idea to recommend that the survey be carried out every two years, instead of every five? That would help not only these municipalities because they could then qualify for programs, but also the government because it could better understand the needs of rural communities. Basically, how do we make sure that current and future surveys do a better job of taking into account rural communities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151917">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912547">Sorry for not having a good answer to your question, but I didn't know that CMHC did that survey only every five years. In drafting our report, we first looked at its affordability criteria, and I think the criteria should really be tied to household income and not be solely based on what's on the market.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151921">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912548">Sorry to ask such a specific question, but I think it's important to know that reality. Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151925">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912549">Thank you.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8912550">Ending us off, we have two members who are going to share some time. I'll be generous with the time.</ParaText>
+              <ParaText id="8912551">Ms. Yip, I believe you're first, and then we'll go to Mr. Housefather.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151927">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912552">Thank you.</ParaText>
+              <ParaText id="8912553">Mr. Mills, how successful has your department been in reducing greenhouse gas emissions in alignment with the greening government strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151931">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912554">Mr. Chair, I might turn to Nathalie.</ParaText>
+              <ParaText id="8912555">I know we have significantly reduced greenhouse gases. One of the key enablers of this is our ability to advance the energy services acquisition program, where we'll have green energy supplying many buildings in the national capital region through a district energy system.</ParaText>
+              <ParaText id="8912556">I don't have the number in my hand, but Nathalie might.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151937">
+            <PersonSpeaking>
+              <Affiliation DbId="322766" Type="28">Nathalie Bertrand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912557">I would prefer to come back in writing. I'm not 100% sure of the level of reduction that is going to produce, but we do have that information.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151944">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912558">Yes, that's fine.</ParaText>
+              <ParaText id="8912559">Ms. Boudreau, with the modernization, will this also be in alignment with the greening government strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151948">
+            <PersonSpeaking>
+              <Affiliation DbId="274794" Type="28">Samantha Tattersall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912560">Yes, PSPC would be subject to the greening government strategy.</ParaText>
+              <ParaText id="8912561">For example, there are commitments to reduce our carbon footprint for our leased office spaces. Starting this year, all lease transactions need to prioritize net-zero emissions and, by 2030, 75% of our long-term domestic office space will need to be at net-zero climate resilience.</ParaText>
+              <ParaText id="8912562">Yes, PSPC is subject to it, and I'm very confident that they're taking that into account when they're managing the accommodation space.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151960">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912563">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151962">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912564">Mr. Housefather, you have the floor for three to four minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151963">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912565">Thanks very much.</ParaText>
+              <ParaText id="8912566">Mr. Mills, would I be correct to say that the space that the federal government occupies is still about 50% leased space and 50% owned space?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151964">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912567">In the last few years, as part of the reductions, we have moved out of a number of leases, so I think it's slightly more within our owned space. It's around 50%, but the percentage owned is slightly higher versus leased.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13151975">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912568">In terms of the planned reductions, what percentage of the planned 50% reductions—let's say we're at the 50% reductions—is going to be the disposition of owned space versus getting out of leases?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151977">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912569">It will be fairly close. At the end, we will be close to fifty-fifty, but we may be more 53% owned and 47% leased. We are moving in sequence with those.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151979">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912570">What is the duration right now of federal leases? Is it usually five years? Is it 10 years? What are the general terms, and what do the termination clauses look like?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151985">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912571">I'll turn it to Nathalie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151987">
+            <PersonSpeaking>
+              <Affiliation DbId="322766" Type="28">Nathalie Bertrand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912572">They vary in terms of length, but the average length is 42 months for leased spaces.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151990">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912573">What about termination clauses?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151991">
+            <PersonSpeaking>
+              <Affiliation DbId="322766" Type="28">Nathalie Bertrand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912574">We have introduced termination clauses in new spaces that we're leasing and lease renewals, but they were not traditionally included in our lease agreements.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13151995">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912575">I'm pleased with that, because when I was at PSPC, I'd strongly encourage termination clauses. I'm glad to know that this is now a standard form.</ParaText>
+              <ParaText id="8912576">When we're entering into new leases, are we using our own template or are we using the landlord's template?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13151999">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912577">I would say predominantly that we are using our own template, but it is something that we are increasingly looking at across both the real property space as well as the contracting space. Can we get additional savings if we go to a market-based lease? It's that question of managing risk and what kinds of savings we might get by using a standardized lease; I think we're much more open to determine how we can use that.</ParaText>
+              <ParaText id="8912578">The caveat I would put is that some of the things that are in the market leases with respect to clauses related to greening or clauses related to reporting may be different. I think it would be very difficult for us to get to 100% standard to market lease, but I think we can use the majority of the form by adding in some of these requirements that are unique to our reporting requirements and what parliamentarians would like to know.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152012">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912579"> I think this will help the committee to some extent in in our review. Would you be able, Mr. Mills, to provide the template lease that we offer landlords to the committee? I can't imagine that there would be any confidentiality about this lease.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152020">
+            <PersonSpeaking>
+              <Affiliation DbId="304461" Type="28">Michael Mills</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912580">I'd be happy to provide the template with unpopulated data like names and pricing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13152022">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912581">Yes.</ParaText>
+              <ParaText id="8912582">Thank you so much, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13152023">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8912583"> Thank you very much.</ParaText>
+              <ParaText id="8912584">Seeing no further questions, I will see the clock at one o'clock and adjourn this meeting.</ParaText>
+              <ParaText id="8912585">I want to thank all of our witnesses who came in from the Department of Public Works and Government Services, the Treasury Board Secretariat and, of course, the Office of the Auditor General. Thank you very much.</ParaText>
+              <ParaText id="8912586"> This meeting is adjourned. We will reconvene here on Tuesday for the study on the F-35s.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

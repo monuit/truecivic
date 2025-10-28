@@ -1,0 +1,1267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13171936">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Foreign Affairs and International Development</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, October 9, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 9 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Foreign Affairs and International Development</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 9, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/09 15:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des affaires étrangères et du développement international</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Foreign Affairs and International Development</ExtractedItem>
+    <ExtractedItem Name="Acronyme">FAAE</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Ahmed Hussen</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171940">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair (Hon. Ahmed Hussen (York South—Weston—Etobicoke, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939724"> Ladies and gentlemen, I call this meeting to order.</ParaText>
+              <ParaText id="8939725">Welcome to meeting number six of the House of Commons Standing Committee on Foreign Affairs and International Development.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8939726">Today's meeting is taking place in a hybrid format, pursuant to the Standing Orders.</ParaText>
+              <ParaText id="8939727">Members are attending in person in the room and remotely using the Zoom application.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8939728">Before we continue, I'd like to ask all in-person participants to consult the guidelines written on the cards on the table. These measures are in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including the interpreters. You will also notice a QR code on the card, which links to a short awareness video.</ParaText>
+              <ParaText id="8939729">I'd like to make a few comments for the benefit of witnesses and members. Please wait until I recognize you by name before speaking. For those participating by video conference, click on the microphone icon to activate your microphone, and please mute yourself when you are not speaking. For those on Zoom, at the bottom of your screen you can select the appropriate channel for interpretation—floor, English or French. For those in the room, you can use the earpiece and select the desired channel.</ParaText>
+              <ParaText id="8939730">This is a reminder that all comments should be addressed through the chair. For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can, and we appreciate your patience and understanding on this.</ParaText>
+              <ParaText id="8939731">Pursuant to Standing Order 108(2) and the motion adopted by the committee on Tuesday, September 23, 2025, the committee is meeting on the study of Canada's Arctic strategy.</ParaText>
+              <ParaText id="8939732">I would now like to welcome our witness for the first hour, Dr. Jessica Shadian, president and chief executive officer of Arctic360.</ParaText>
+              <ParaText id="8939733">Welcome. Up to five minutes will be given for your opening remarks, after which we will proceed with rounds of questions from the members.</ParaText>
+              <ParaText id="8939734">Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171959">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian (President and Chief Executive Officer, Arctic360)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939735"> Thank you, and thanks for the invitation to speak today.</ParaText>
+              <ParaText id="8939736">Arctic360 is Canada's national Arctic think tank. Our mission is to elevate Canada’s national conversation about our north and the Arctic region and to provide an inclusive and coordinated platform for Canada to engage in Arctic discussions around the world.</ParaText>
+              <ParaText id="8939737">The question today is this: Does Canada’s Arctic foreign policy ensure GAC is fit for purpose in the Arctic? In a word, no. The AFP was a late reaction to a fundamentally changed world. </ParaText>
+              <ParaText id="8939738">Fifteen years ago, the Chinese ambassador to Norway gave an Arctic Council reception speech before a balcony of onlookers explaining the Arctic’s importance for China’s national interests, wrapped in a climate science bow.</ParaText>
+              <ParaText id="8939739">This is not new. Yes, for over a decade, Russia has modernized its Arctic infrastructure and military capabilities to develop resources and control regional access. My simple question is this: Why aren't we doing the same? Our allied Arctic neighbours also spent the past decade modernizing Arctic infrastructure and developing resources.</ParaText>
+              <ParaText id="8939740">The AFP says, “The safety, security and defence of the Canadian Arctic comprise a fundamental priority for the Government of Canada”. Then why is our north not safe, insecure and underdefended? True, it is not in Canada’s strategic interest for the Arctic to become a theatre of military conflict, but reality prevails. We need to be prepared—we're not.</ParaText>
+              <ParaText id="8939741">What is new? The U.S.—“Canada's closest partner and ally in the Arctic”—continues its efforts to take Greenland. The 51st state could be seen as tongue in cheek. Is it? The U.S. Department of Energy recently acquired a 5% equity stake in Canadian company, Lithium Americas, followed by a White House announcement that the DOD is taking a 10% equity stake in Canadian Trilogy Metals, with aims for another 7%. </ParaText>
+              <ParaText id="8939742">The United States-Ukraine reconstruction partnership fund gives the U.S. 50% of royalties, licence fees and payments from minerals, hydrocarbons and related infrastructure development projects—and first choice to acquire them. The Armenian-Azerbaijan transit corridor, a U.S. 99-year lease, aims to develop energy, critical infrastructure and digital technologies. The Northwest Territories' Fortune Minerals has already received U.S. Pentagon funding. This is just all aside from China.</ParaText>
+              <ParaText id="8939743">Canada calls for pragmatic diplomacy; I argue for serious, purposeful, strategic diplomacy. As the second-largest Arctic nation and longest Arctic coastline, with abundant resources, robust democratic institutions and settled indigenous land claims, Canada’s Arctic soft power and strategic diplomacy are indispensable.</ParaText>
+              <ParaText id="8939744">What the AFP did get right is that it was codeveloped with northerners. Now Arctic diplomacy needs to proceed accordingly. Appointing an Arctic ambassador and opening consulates in Anchorage and Nuuk are fundamental levers of strategic diplomacy. Now they need the mandate to carry out a serious, coherent, purposeful and strategic Arctic foreign policy.</ParaText>
+              <ParaText id="8939745">The following are recommendations. </ParaText>
+              <ParaText id="8939746">One, the AFP should reflect the new government’s central mission for Canada to be strong on defence and strong on the economy. </ParaText>
+              <ParaText id="8939747">Two, continued commitment to the Arctic Council is fundamental. However, it cannot be prioritized over today’s serious geopolitical realities. </ParaText>
+              <ParaText id="8939748">Three, our steadfast commitment to the rules-based international order is laudable and important, but we need additional means to engage so as not to meet the fate of the band that refused to stop playing as the Titanic toppled and sank into the iceberg-laden sea—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172014">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard (Jonquière, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939749">Sorry to interrupt, Mr. Chair, but I have a question related to the Standing Orders.</ParaText>
+              <ParaText id="8939750">I would ask that the witness slow down a bit, so that my interpreter friends can make it until the end of the meeting. That might help them catch their breath.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172021">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939751"> The fourth is engaging in Arctic forums. A decade late is better than never.</ParaText>
+              <ParaText id="8939752"> Fifth, we need to do strategic diplomacy. Track 1.5 and track two diplomacy are essential levers of strategic diplomacy. Our Arctic neighbours support their Arctic think tanks, using them as levers to promote their Arctic policy interests on the world stage and to conduct track 1.5 diplomacy offstage.</ParaText>
+              <ParaText id="8939753"> Sixth, Canada needs to show up and be serious on international Arctic stages alongside foreign affairs ministers, defence ministers, heads of military and even prime ministers. The same should apply at home. For the past five years, our annual conference has hosted all Arctic states plus European and Asian state ambassadors and high commissioners to Canada. We've yet to have a major foreign affairs or defence minister deliver remarks.</ParaText>
+              <ParaText id="8939754">The seventh is programming. The only Arctic program is GALI. It focuses on the Arctic Council, indigenous northerners, youth and the University of the Arctic. Yes, we should fund Arctic Council activities, but it should not be the only arena of our foreign policy. We must keep indigenous youth in our foreign policy efforts, but it must not be our foreign policy. Programming must support track 1.5 and track two Arctic diplomacy and leading Canadian Arctic think tanks and institutions to position Canada as an Arctic leader and to grow Canada's soft power and diplomatic standing—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13172039">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier (Ottawa—Vanier—Gloucester, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939755"> Sorry, Mr. Chair, but I really want us to be mindful of the interpreters.</ParaText>
+              <ParaText id="8939756">I have the utmost respect for the witness's work, but we have to make sure that the interpreters can keep up with her remarks.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172047">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939757">Thank you for that comment.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172048">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939758">Am I talking too fast?</ParaText>
+              <ParaText id="8939759"> My apologies.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8939760">I have that problem, and I was supposed to do it really quickly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172049">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant (Don Valley West, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939761">Mr. Chair, you might give her one extra minute.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172050">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939762">That will help me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172051">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939763">I have a point of order.</ParaText>
+              <ParaText id="8939764">We only have one witness, and I think her topic is very important. I'd like to hear it. Let's give her a little more time because there's only one witness.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172052">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939765">Do I need to repeat anything, or is it okay?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172054">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939766">You can repeat the last minute or so.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172055">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939767">I will.</ParaText>
+              <ParaText id="8939768">Programming must support track 1.5 and track two Arctic diplomacy and leading Canadian Arctic think tanks and institutions to position Canada as an Arctic leader and to grow Canada's soft power and diplomatic standing in the region.</ParaText>
+              <ParaText id="8939769">The eighth is research. We need an Arctic science policy fit for purpose, not only to study climate change but also to do applied research to address it, namely cold-weather innovations spanning everything from NORAD to housing—for Canada and for export.</ParaText>
+              <ParaText id="8939770">Northerners say it best: They do not want to just survive but to thrive. My comments come in the hopes that Canada survives but also thrives with success measured when the north and northerners are prosperous, secure and defended.</ParaText>
+              <ParaText id="8939771">Thank you. I'm happy to repeat anything.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172062">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939772">Thank you very much for your remarks.</ParaText>
+              <ParaText id="8939773">I will now open the floor for questions, beginning with MP Ziad Aboultaif.</ParaText>
+              <ParaText id="8939774">You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172070">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif (Edmonton Manning, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939775">Thank you, Chair.</ParaText>
+              <ParaText id="8939776">Thank you very much to our witness today.</ParaText>
+              <ParaText id="8939777">You touched on so many areas with regard to the Arctic. It gave me the impression that we're lagging behind a lot on the Arctic approach and that the strategy or policy in place.... I'm not sure. It seems like we're struggling to even implement it.</ParaText>
+              <ParaText id="8939778">I would like to hear your opinion on how the policy can be implemented and what the government's priorities should be in order to achieve the result that we're all aiming to have?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172079">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939779"> I think that's where we get into this issue of.... It relates back to being strong on the economy and strong on defence. Critical infrastructure is just, hands down.... We can't do anything without the infrastructure there. There is now effort we see in a defence policy update to look at things from a multi-purpose infrastructure perspective, and the federal government is paying attention. What I think is not known at this point is how we're going to fund some of these big projects. They're enormous, and they're going to cost a lot of money. How is that going to happen? </ParaText>
+              <ParaText id="8939780">I also think we are not talking about it with the right lens in the sense that we need to be future-proofing. We need to have our infrastructure sensored and embedded with AI, and be able to then meet this next generation of transportation infrastructure. I don't even know if that is in the discussions yet. </ParaText>
+              <ParaText id="8939781">This gets into the piece about whether this could be part of the return on investment, because we should be world leaders in cold weather innovations, and we're not. We have non-Arctic and Arctic states that are far ahead of us. This is where we have a lot of potential to contribute. Cold weather innovations run everything, as I was saying, from NORAD to smart ports, fibre cables and what have you.</ParaText>
+              <ParaText id="8939782">We just need to figure this out and wrap our head around it, and this takes coordination. I feel that a lot of things are sitting all over the place in different buckets and piles with different conversations taking place, but they all lead back to the same conversation and we need to better coordinate how we do these.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172089">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939783">We are behind, of course, on the policy while other countries, some Arctic nations and some non-Arctic nations, are very aggressive in building their own icebreakers, their own submarines and everything they probably need to have a bigger interest and influence on the Arctic. </ParaText>
+              <ParaText id="8939784">In answer to that, we need to look back at Canada to see what the timetable looks like for our plan. Do you have any idea? You're a think tank, and you must have done some research or probably looked at what's behind the scenes on the timetable to implement our project. You mentioned that the money has to be there. Obviously you can't do anything without money. Investment has to come, or we have to build infrastructure, which means we have to build communities of more than the 130,000 people who are up there. In all of that, do you see a timetable in place to be able to implement what we need to do?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172100">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939785">We need to be strategic, so we need to figure out what our plan is before we can have a timetable for anything. For about maybe five or six years, several of us from Arctic360 have been shopping around with the federal government. We are trying to—and we have it already—put together an interactive mapping tool that would basically first inventory the transportation, energy and telecommunication infrastructure that we have, because it doesn't sit in one entity. </ParaText>
+              <ParaText id="8939786"> We would then try to overlay that with proposed projects that are being named but also not named. Then you put that in the context of social infrastructure gaps and defence needs, and then we can look at it from a strategic position where you can compare. </ParaText>
+              <ParaText id="8939787">What is also an issue here is that you can't just build an energy project without having telecommunications, because you need to have fibre. In order to have energy secured, the grids need to be secure. Everything is interrelated. Even if you're going to build a base in the north and even if there are only 10 or 15 people who come, that requires more water, more energy and more telecommunications.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13172139">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939788">All of that has to have a timetable somehow so things can coordinate. We can't, for example, ask for more more populated areas without having housing. We can't ask for housing if there's no economy to provide the jobs needed. All of that interconnects in many ways. That's how you build economies, and that's how you build strategy. Where are we from that, and how far are we?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172143">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939789">I don't think we're anywhere near that. This is where the interactive mapping tool is what we think will be very helpful, because then policy-makers, institutional investors and others can start looking and saying, “What if we do this first? This is a good one. This will unlock this and create a pipeline of projects that will enable that and this.” This has not been mapped out or thought through. </ParaText>
+              <ParaText id="8939790">Right now we're still looking at everything, and this is where it is. There's been so little money that everyone kind of competes for federal dollars for their own project, and they're all important. We need to figure out how to make them strategic and what we need first. We can't get this wrong—I'll just say that—because, as I say, this will just prove every naysayer right.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172153">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939791"> Thank you very much.</ParaText>
+              <ParaText id="8939792">I will go next to MP Anita Vandenbeld for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172158">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld (Ottawa West—Nepean, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939793">Thank you very much for your testimony and all of the work that you do.</ParaText>
+              <ParaText id="8939794">You spoke about science, research and the need to be applying some of that. I think you referred to things like smart ports. </ParaText>
+              <ParaText id="8939795">Where could we be doing more with things like artificial intelligence, green energy and all of the innovative things? What would be your guidance in terms of what more we could be doing to utilize all of that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172166">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939796">We could take advantage of our cold weather, like our Arctic neighbours have. </ParaText>
+              <ParaText id="8939797">I can find more information, but there's this new BOREALIS research entity that will focus on frontier technologies. This is AI, robotics, quantum and all of these things. I think this should be—not just in its name—located in the north. We should be figuring out answers to these big, hard questions and innovating out of our north.</ParaText>
+              <ParaText id="8939798">If you can do it in the north, then you can do it everywhere. We need to do it in the north most predominantly. When you're thinking about cold weather technology, we need to have resilient structures to resist permafrost. This goes to housing. This goes all the way to what we need for NORAD modernization.</ParaText>
+              <ParaText id="8939799">We need to take a page from our Nordic Arctic partners in how they view and understand their north. It's considered, for them, to be their future. They're doing big, innovative research and development. I think that once we get there, we need to figure out how to make it Canadian IP.</ParaText>
+              <ParaText id="8939800">A big piece of this is that we really need to talk about data sovereignty. All of this smart technology requires a whole lot of data. Databases do well in cold weather, but this requires fibre cables. There's so much opportunity. We just need to have that will and motivation to be a bit.... It's not even taking a risk. It's doing more that is akin to our Arctic neighbours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172188">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939801">How would we make sure that this research, science and applications are indigenous-led, particularly given that we had testimony last time that international research institutes are coming with foreign nationals and doing research in ways that are not respectful of some of the Inuit and local communities? </ParaText>
+              <ParaText id="8939802">How do we make sure, first of all, that when we are doing innovative science, it is indigenous-led? How do we deal with those who are coming from outside, to ensure that they are also embedding the same culture and values?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172195">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939803">Why not make CHARS a hub? Then you're going to get the best and brightest from Canada going up north and working with northerners. You're going to attract private capital to the north. We need to be thinking along those innovation lines. Go to where the northerners are.</ParaText>
+              <ParaText id="8939804">There are so many other connections. That's what I'm saying. There's steel and how it interacts with permafrost. That can be social infrastructure all the way to defence technologies. I think there's an opportunity. We build hubs everywhere else. That's what I'm saying: We often just think we should be studying climate change and that's why we go to the north, but it's actually a really big opportunity.</ParaText>
+              <ParaText id="8939805">In terms of international researchers coming to Canada, as I understand it, they are on federal grants. Nunavut has to go through the Nunavut research board. There has to be approval there. I don't know. I'm speaking with not enough knowledge. It's how closely the federal government and, let's say, the Nunavut research board work together. I think northerners themselves are very concerned. They want to make sure that they're keeping their north safe. How do we triangulate that with some of the federal departments to help make sure...?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172219">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939806">I really appreciate your testimony about how there is so much opportunity and things that may not be currently front of mind.</ParaText>
+              <ParaText id="8939807">We also have an opportunity now that there is an ambassador. Where do you think the focus and direction should be to take advantage of that position? What could that ambassador be doing ?</ParaText>
+              <ParaText id="8939808">I know there's not a lot of time left. Could you give us some of your views on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172226">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939809"> I'm very excited. I think Virginia Mearns is going to be really great.</ParaText>
+              <ParaText id="8939810">This is what we're missing. We go to these international conferences. They're security conferences, Arctic conferences, what have you. Every time you'll have the whole stage filled—first maybe with a minister of foreign affairs, a defence minister or even a prime minister, and then they're talking about the other counterparts—or many times you'll see a stage and it's, let's say, just one country, so you have the minister of foreign....</ParaText>
+              <ParaText id="8939811">I mean, we'd look so good if we did this. Let's say we have a minister of foreign affairs, and then we have our ambassador. Then we also bring the territorial premiers and ITK. We show up in force, and we're like team Canada, saying, “This is us. This is who we are as an Arctic nation, and this is what we're doing.”</ParaText>
+              <ParaText id="8939812">We're not only not strategic but oftentimes not there. It was excellent to have Mary Simon a couple of years ago at a big conference—that was great—but we often send the wrong ministers, with domestic agendas and not foreign affairs portfolios.</ParaText>
+              <ParaText id="8939813">I don't know how much time I have left, so I don't want to....</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13176012">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939814">We're done.</ParaText>
+              <ParaText id="8939815">I'm sorry, but thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172245">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939816">Thank you for that.</ParaText>
+              <ParaText id="8939817">We'll go next to MP Mario Simard.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8939818">You may go ahead for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172254">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939819">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8939820"> Thank you for your presentation, Ms. Shadian.</ParaText>
+              <ParaText id="8939821">You spoke at length about infrastructure. Historically, Quebec pursued development in the north because there was a financial interest in accessing natural resources. As is often the case, infrastructure is built in very northern areas for development purposes, whether it's ore or energy. I think that is the best solution in the short term for developing infrastructure.</ParaText>
+              <ParaText id="8939822"> I say that because, right now, the government is looking to develop the strategic critical minerals sector. We all know that Canada's north is home to many strategic critical mineral deposits, but what is sorely lacking is the infrastructure to get mining projects off the ground. We've had some discussions with first nations members, including representatives of a natural resource centre of excellence and a major project coalition.</ParaText>
+              <ParaText id="8939823">I'd like to know whether you've looked into the infrastructure required for the development of natural resources, especially positive models involving first nations. Finding a proponent for this kind of infrastructure is a challenge. With some sort of financial support, first nations could become proponents for such infrastructure projects.</ParaText>
+              <ParaText id="8939824"> I'd like to hear, at the very least, your thoughts on the infrastructure needed to develop and deploy natural resource projects in the north.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172290">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939825"> Thank you. </ParaText>
+              <ParaText id="8939826">This is a larger question, in fact. It's not just infrastructure. The other side is that we need to build new supply chains. </ParaText>
+              <ParaText id="8939827">I've learned a lot from listening to really smart people. I've learned that we need to create a new critical minerals economy, and that can't happen with just Canada alone, much less in the north. This is going to have to be done purposefully and in coordination with our allies we like to work with. </ParaText>
+              <ParaText id="8939828">There are two pieces to it. It comes from everything.... Infrastructure is a big part of this, but it gets wrapped up into the whole discussion. We need to have an entire supply chain identified, from the mine to the offtake market. We need to have a guaranteed price. </ParaText>
+              <ParaText id="8939829">There are a lot of potential critical mineral mines that are Canadian—Canadian-led and proponents of. On that end, there are a lot of indigenous people and northerners who are proponents. The way forward on that is outright equity ownership. </ParaText>
+              <ParaText id="8939830">The fact is that there are a lot of junior mines dominated by junior miners, and junior miners are going to have a hard time getting the financing they need. What I've understood is that this is where we need to work in a concerted way with our partners to figure out and identify what those supply chains are. You need to have a whole supply chain from the mine and the mine project all the way to the offtake market identified up front, because that becomes an investable project for pension funds. That's the kind of patient capital that's required, but then it feeds in with the venture capital because a lot of this stuff takes new technologies and information. </ParaText>
+              <ParaText id="8939831">We need to have a bigger plan. I don't think the north is going to be able to succeed in this on its own and figure out the infrastructure gaps. This needs to be a national effort. There are a lot of proposed projects in the north led by northerners themselves. </ParaText>
+              <ParaText id="8939832">I understand there is now some discussion about how we could do this. This is the only way. Otherwise, China is going to continue to flood the market and keep prices low, and we won't be able to compete with that market. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172331">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939833">Thank you.</ParaText>
+              <ParaText id="8939834"> My next question is directly tied to what you just said. Recently, I heard about the desire of NATO countries to establish a floor price for certain critical minerals. Perhaps you can shed some light on that.</ParaText>
+              <ParaText id="8939835">NATO countries rely heavily on rare earths from China, which controls the market. Canada has the potential to develop those rare earths, but it needs the infrastructure, as you rightly pointed out.</ParaText>
+              <ParaText id="8939836"> Do you think it's likely that NATO countries will agree on a floor price for certain critical minerals, given their strategic importance?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172353">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939837">Give a brief response, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172356">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939838">It's something a lot of the new allies want to have happen because we need it for NATO technologies. From the EU to the Nordic countries, they are eager and are going after working out how to create a new critical minerals economy, but they also know there has to be something coordinated because of the price.</ParaText>
+              <ParaText id="8939839">Maybe it's stockpiling or however you want to look at it, but these are the efforts and real strategic means we're going to need to take. Otherwise, we're just going to keep talking about our opportunity and it won't be realized. </ParaText>
+              <ParaText id="8939840">A lot of our NATO allies are already going in this direction and they have strategic partnerships with a lot of different countries to help build that out.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172367">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939841">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172371">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939842">Thank you very much. </ParaText>
+              <ParaText id="8939843">We will now proceed with more questioning. We are going to MP Rood. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172376">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood (Middlesex—London, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939844"> Thank you very much for being here today.</ParaText>
+              <ParaText id="8939845">You've made it incredibly clear that Canada is not prepared to meet the threat that Chinese and Russian expansion means for Canada and our north.</ParaText>
+              <ParaText id="8939846">I just wanted to ask this: In your opinion, should Canada be establishing a permanent base to increase our Arctic military presence year-round, and could you expand on what a year-round base would need on day one and over the next 10 years to meet today's threats and future-proof against tomorrow?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172380">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939847">I think there are decisions that there will be several bases put in the north, but that's only one piece. I think we're going to have a lot more assets and people in the north that way so it would be a really big help, but again, we're getting back to the infrastructure thing. We have to figure out how we're going to have adequate energy, telecommunications, water and all the surrounding infrastructure.</ParaText>
+              <ParaText id="8939848">There's a housing crisis in the north as well. We need to think more holistically. I said it in the past: I definitely do not think that with trickle-down infrastructure, if we do defence infrastructure, it will all just fall into place for communities, but I don't think it's necessary to even think that way. If you think in a multi-purpose fashion and more strategically, we would be able to address the economic, the defence and the social infrastructure needs together.</ParaText>
+              <ParaText id="8939849">I would just say that, yes, bases are important, and I think there are others to defer to as to where they should go and what a year-round presence would look like, people who know much more than I do. All I will add to that is that it's one piece.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172391">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939850">You say infrastructure, so beyond buildings in Kit, are there any continuing supports that might be required then to keep pace with, let's say, Finland, Norway and the United States, so that a base up in the north would stay mission-ready and be able to be interoperable year-round?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172395">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939851">I'm sure it could be operable year-round but with what kind of technologies? Parts of the north do not have any fibre cable.</ParaText>
+              <ParaText id="8939852">I'll just add out there that there are a few projects already. Allied neighbours are looking to build an undersea fibre cable that stretches all the way from Japan to Europe. It needs to be sensored. It needs to be smart. We need to see what's going on under the water and monitor things, and so forth and so on, and provide very fast communication.</ParaText>
+              <ParaText id="8939853">Again, we can focus on one thing but we also need to focus on everything else at the same time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172411">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939854">I have two very loaded final questions then. What do we need to do to meet the current threat environment, and what do we need to do, as you said, to future-proof ourselves because right now we're seriously lagging behind?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172420">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939855">We need to have a very good grasp on what next-generation transportation technologies look like, and not just technologies but infrastructure, and then what we need to do that. When it comes to the north, there's an extra layer of building things and operating in cold weather environments. If we just make that almost a focus, it's going to unlock everything else, all the other pieces that surround it.</ParaText>
+              <ParaText id="8939856">I know we're still stuck at trying to figure out if we could build one deepwater port and where it would be. I just don't think we're talking about the north with the kind of sophistication we need to be talking about the north with.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13172426">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939857">On that note, how do you think the newest Chinese and Russian heavy icebreakers changed the threat posed to Canada? What foreign threat scenarios would worry you most, and how does Canadian technology now match or beat these capabilities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172432">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939858">For China, as I said the other day, it's not future-proofing; it's today-proofing. They are already using things like AI-embedded sensor technologies. I don't know how we can even compete. We need to know what's going on under our waters. We need the submarines and then there's also automated piloting going on under the water to do detection as well, but we really do need fibre cable as well. That's one piece—under the water and figuring out what's going on under the water—and we are working on building icebreaker ships. We can't create a ship with...out of nowhere.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172438">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939859"> Thank you very much.</ParaText>
+              <ParaText id="8939860">We'll go next to MP Bill Blair.</ParaText>
+              <ParaText id="8939861">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172444">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair (Scarborough Southwest, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939862">Thank you very much.</ParaText>
+              <ParaText id="8939863">Dr. Shadian, it's very good to see you again. </ParaText>
+              <ParaText id="8939864">I'd like to follow up a bit on the question that Ms. Rood asked. There are a number of different concepts about how to actually establish a stronger Canadian military presence in the north. One of the things we've heard very clearly from the military is that their concept of operations is not to build one base in essentially what is 40% of Canada's entire land mass because the challenges of traversing that territory and getting to any place really would isolate that base. The military concept of operations, as I understand it, is a number of what we call “northern operational support hubs” spread right across the Arctic.</ParaText>
+              <ParaText id="8939865"> I recall very well, in the spring of last year, there was a suggestion of perhaps building a base in Iqaluit. I went to Iqaluit. I spoke to the premier, to the mayor and to a number of people there, and they were, quite frankly, reeling from the idea. They said that, for them, it would require a significant investment in infrastructure. That wouldn't just mean a military base. It would mean things like power generation and fibre optics, which you mentioned a number of times. You and I discussed this with Madeleine Redfern many times. There were also things about deepwater ports, power generation, water treatment, sewage treatment, health care and education facilities, and housing—a whole litany of investments that would need to be made.</ParaText>
+              <ParaText id="8939866">In response to that, in the defence policy update that we brought forward, there was about $220 million for those investments to support the northern operational support hubs. In the spring, the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> announced another $400 million for those infrastructure investments and for some very specific projects, which I think are helpful as well. There is about $94 million for power plant upgrades in Cambridge Bay, in Gjoa Haven, in Igoolik and in Iqaluit. There is another $78 million to improve critical infrastructure related to drinking water, waste water and stormwater. All of that was informed by people in the north who told us that this is what they really need. </ParaText>
+              <ParaText id="8939867">For many of us down south, we think of asserting our sovereignty through submarines, battleships, fighter jets and over-the-horizon radar systems, and those are important components of it. However, when I go to the north—and I know you know this very well, as you alluded to it in your remarks—they're talking about infrastructure. This is infrastructure that supports not only our security but also our prosperity in the north. That means making sure we invest in communities.</ParaText>
+              <ParaText id="8939868">I think Ms. Vandenbeld referenced this, but I'd like your take on it again. The challenge is this. How do you really incorporate indigenous leadership and indigenous voices in those investments? I think it can be very difficult if we are not well informed about their perspective on what it takes to live in the north, because then we could make mistakes. </ParaText>
+              <ParaText id="8939869">Frankly, there are few dollars, even though I've talked about big numbers. It's not a lot of money when we talk about the scale of the investment required. How do we get this right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172543">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939870">Again, it comes back to coordination. The mapping project comes back to this. There are partners on that. We work with NTI, and it comes from the private sector, from northern.... NTI has done their infrastructure gap assessment. It's supposed to look at all the infrastructure needs and what we have, and that's from social, economic and defence perspectives. </ParaText>
+              <ParaText id="8939871">We just need to wrap our heads.... We need to be able to see everything that's there and that's needed. Then we can start prioritizing, being strategic and figuring out how this connects to that and how that connects to this. How does the base then create water when there's not enough water somewhere else? Where do we put a base, and where will the base be in relation to a port that's going where? Ports, of course, then create opportunities for more goods to arrive in the north. </ParaText>
+              <ParaText id="8939872">This is it. I don't, in my mind, understand how we're going to accomplish everything we need to accomplish if social infrastructure is over here, critical minerals are over there and the defence discussions are over there. We need to work this out, and we need to do it quickly. We need to be very strategic. Maybe the projects office needs to be the one that maps this out.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13172568">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939873">I tend to agree with that. It's one of the reasons we see the clear nexus between defence policy and foreign policy. I think they complement each other. They need to be lined up.</ParaText>
+              <ParaText id="8939874">I have another question. I agree with the advent of Sweden and Finland into the NATO family. All of the Nordic nations, all of the non-Russian Arctic, are now members of NATO, and I think there's a great deal that we can learn from them. I would also note that some of those countries have not done as good a job in dealing with their indigenous populations as we would aspire to. How do we take the best of what they do but also bring our own values to that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172594">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939875"> Give a very brief response.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172598">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939876">We have a very different situation in Canada from the Nordics. The Nordics have cultural rights. We have real land claim agreements. We have Inuit who own surface and subsurface soil, so it's a very different landscape. I'll just say that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172601">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939877">Thank you.</ParaText>
+              <ParaText id="8939878">MP Mario Simard is next. You have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172611">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939879">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8939880"> I want to follow up on what you said about prioritizing infrastructure projects. You talked about transportation, telecommunications and energy infrastructure in your opening remarks.</ParaText>
+              <ParaText id="8939881"> As far as you know, has the government or an expert like yourself done an assessment and identified those infrastructure projects that should be prioritized in the north? </ParaText>
+              <ParaText id="8939882">Presumably, there would be some sort of underlying logic. For instance, energy-related infrastructure would probably be built before telecommunications infrastructure.</ParaText>
+              <ParaText id="8939883">I'm curious as to whether you have such an assessment, one that lays out the way forward in terms of the infrastructure that should be built.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172626">
+            <PersonSpeaking>
+              <Affiliation DbId="293619" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939884">I would say that transportation, energy and telecommunications need to be thought through together. Again, I feel like I'm saying the same thing over, but to figure that out we need to map it out. We know, we've heard and we can continue to listen to and get more information from northerners themselves about the infrastructure they need, because it's always evolving. We need to identify specifically.... We do have a sense of what we need in terms of building out our economic infrastructure. We know, perhaps quite well, what we need on the defence end. </ParaText>
+              <ParaText id="8939885">Then the prioritization comes. If we can look at it on a map that's overlaid, then you can understand why, if you build something here, it requires this much energy, these kinds of telecommunications and this much water. Until we create some sort of ability to look at everything and then make a plan from there...and then this is where we ask, “What are the one or two projects that we start, or three, at the same time?”</ParaText>
+              <ParaText id="8939886">That's also how we're going to open up and unlock private capital. When you bring private capital in, then it becomes.... You have indigenous equity, but they can't shoulder the whole burden of any of these projects on their own. The federal government will be a player in all of this, in different areas, but, again, they can't bear the burden of the projects all on their own. We're going to need financing, private capital. </ParaText>
+              <ParaText id="8939887">Countries all around the world have infrastructure strategies. It's a report. It's put together and it creates a strategy for how they're going to go about mapping out what goes first, when and where, and how this attracts capital. We just need to put it all together.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172668">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939888">Thank you, Ms. Shadian.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172673">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939889">Thank you very much.</ParaText>
+              <ParaText id="8939890">Thank you, Dr. Shadian, for your testimony today and for appearing on this important study. </ParaText>
+              <ParaText id="8939891">That concludes the first half of the meeting. The meeting is suspended.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172709">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939892">Order.</ParaText>
+              <ParaText id="8939893">I will start by welcoming our witness for the second hour, from the Inuit Tapiriit Kanatami, the president, Natan Obed. </ParaText>
+              <ParaText id="8939894">Welcome and thank you for joining us today for this important study. </ParaText>
+              <ParaText id="8939895">I now invite you, President Obed, to make an opening statement of up to five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172716">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed (President, Inuit Tapiriit Kanatami)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939896">
+                <I>Nakurmiik</I>.</ParaText>
+              <ParaText id="8939897">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8939898">I'm Natan Obed. I'm the president of Inuit Tapiriit Kanatami. It's great to be here with all of you today. </ParaText>
+              <ParaText id="8939899">I'm the president of our national Inuit representational organization, and our work is directed by our four Inuit land claim regions, our treaty rights holding members, including the Inuvialuit Regional Corporation, Nunavut Tunngavik, Makivvik and the Nunatsiavut Government.</ParaText>
+              <ParaText id="8939900">Inuit treaty organizations also advance our priorities internationally through the Inuit Circumpolar Council, the international NGO that represents Inuit across Inuit Nunaat, which is our term for the international Inuit homeland encompassing parts of Chukotka in Russia, Alaska, Canada and Greenland.</ParaText>
+              <ParaText id="8939901">Herb Nakimayak, the interim president for ICC Canada, addressed you last week, and I hope to build on his remarks to you.</ParaText>
+              <ParaText id="8939902">Inuit are the foremost experts on the Arctic, and Canada would not be an Arctic state without us. Our homeland, Inuit Nunangat, encompasses 40% of Canada's land mass and 72% of its coastline. We either comanage the entirety of that space or own it outright. Our most recent research in partnership with NRCan shows that we also hold 32% of Canada's freshwater resources within our homeland.</ParaText>
+              <ParaText id="8939903">ITK has consistently advocated for Canada to fulfill its potential as a powerful Arctic state internationally by recognizing the region's enormous growth opportunities and making the investments needed to bring it into the rest of the country. Our homeland is the least-developed Arctic territory among the eight Arctic states, despite its enormous potential for economic growth and its growing importance as a geopolitically strategic region.</ParaText>
+              <ParaText id="8939904">For example, Canada is the only Arctic state without a university in its Arctic territory. We experience the highest cost of living in North America due to the lack of federal investment in transportation and related infrastructure, and our people are at greater risk than other Canadians and other Arctic populations of experiencing poverty and human rights violations because of the profound gaps that exist in health, education and other essential services. </ParaText>
+              <ParaText id="8939905">It's also important to note that our mother tongue, Inuktut, while it is an official language in the Northwest Territories, in Nunavut and of the Nunatsiavut Government, is not considered an official language by the Government of Canada. Therefore, within one of our 13 jurisdictions, provinces and territories in the country, we have an 85% majority population who has absolutely no right to receive essential services delivered from the federal government in its mother tongue. It is a gap that is profound and one that we hope to change. </ParaText>
+              <ParaText id="8939906">This past summer, ITK published a paper outlining our vision for sovereignty, security and defence in the region. We discuss how Inuit contribute to Canada's sovereignty and security and how continued neglect of the region exposes the country to foreign interference and security threats. Our recommendations provided in the paper focus on, among other areas, the need for Canada to continue engaging in the Inuit-Crown partnership committee that was formed in 2017, which serves as a forum for Inuit and federal leaders to identify and advance shared priorities.</ParaText>
+              <ParaText id="8939907">This model of diplomacy is unique to Canada among the Arctic states and facilitates substantive co-operation between indigenous people and the state, which is unparalleled in the Arctic and internationally. We also focus on the need for Canada to invest more in the health and well-being of our people to retain and support Inuit as the region's future and the most important resource. </ParaText>
+              <ParaText id="8939908">In addition, we underscore the need for federal budgets to include Inuit-specific investments that enable Inuit treaty organizations to access funding that is intended to benefit our people as opposed to pan-indigenous allocations or those targeting provincial or territorial governments.</ParaText>
+              <ParaText id="8939909">Finally, we emphasize the need for Canada to enact a broader vision for bringing Inuit Nunangat into the rest of the country. Canada's approach to the Arctic continues to be characterized by piecemeal investments that respond to the political priorities of the moment rather than the types of investments that have transformed other regions of the Arctic into prosperous regions with high standards of living.</ParaText>
+              <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+              <ParaText id="8939910">I look forward to further discussions today.</ParaText>
+              <ParaText id="8939911">
+                <I>Nakurmiik</I>.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172793">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939912"> Thank you very much for your remarks, President Obed.</ParaText>
+              <ParaText id="8939913">I will now open the floor for questions, beginning with MP Tamara Kronis.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172795">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939914">Chair, can we make sure we confirm the fact that we will have a special guest coming?</ParaText>
+              <ParaText id="8939915">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172798">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939916">Yes, I believe we have agreement among all members that we will include MP Idlout for five minutes at the end of all the members' questions.</ParaText>
+              <ParaText id="8939917">Are we in agreement?</ParaText>
+              <ParaText id="8939918">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8939919">
+                <B>The Chair:</B> Excellent.</ParaText>
+              <ParaText id="8939920">We will begin, as I said, with MP Tamara Kronis. You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172808">
+            <PersonSpeaking>
+              <Affiliation DbId="317903" Type="2">Tamara Kronis (Nanaimo—Ladysmith, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939921">Thank you so much, Chair.</ParaText>
+              <ParaText id="8939922">Thank you very much, Natan, for your testimony. It was very interesting. </ParaText>
+              <ParaText id="8939923">You mentioned that Canada's Arctic is the least developed of all the Arctic nations in the area. You gave a number of examples, like health care, education, defence and a number of other areas. You also outlined the need to include Inuit-specific investments in the budget. </ParaText>
+              <ParaText id="8939924">I'm wondering what you think the top three infrastructure priorities should be.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172813">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939925">Thanks.</ParaText>
+              <ParaText id="8939926">Through the Inuit-Crown partnership table, we have worked with the federal government to identify 79 projects over the next 10 years that total approximately $30 billion and would close the infrastructure deficit between Inuit and the rest of Canada, or our homeland and the rest of the country. </ParaText>
+              <ParaText id="8939927">As an example, there's one deepwater port across our 51 communities. All of our communities are either at tidewater in a marine environment or in fresh water and adjacent to a marine environment.</ParaText>
+              <ParaText id="8939928">In the conversations around nation-building projects, we have also identified a number of different key infrastructure deficits, such as the paving of airstrips in a number of our communities, which limit the ability for airlines to get goods and services out of our communities and to be able to fly in all types of weather. This ultimately drives up the prices that people pay to travel and of any goods and services that come into our communities. </ParaText>
+              <ParaText id="8939929">Those are just two examples of the work we're trying to do to identify, articulate and, hopefully, solve the infrastructure crisis.</ParaText>
+              <ParaText id="8939930">The other piece here is housing. Wherever you go across Inuit Nunangat, that's the first thing you'll hear. Inuit and all people who live in our homeland will say that we have a housing crisis. We have 52% overcrowding. In our pre-budget submission, we identified roughly 6,500 units that are needed in the next 10 years and over 4,500 units that either need to be improved or need funds for operation and maintenance, which will also cost approximately $8 billion.</ParaText>
+              <ParaText id="8939931">This is the price of being an Arctic state and of the really troubled history of Inuit colonization in the area, which has led to these systemic barriers for us to be a part of this nation's economy and, generally, to be healthy and live fulfilling lives. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172855">
+            <PersonSpeaking>
+              <Affiliation DbId="317903" Type="2">Tamara Kronis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939932">You mentioned, and it's sort of obvious, that Inuit are the foremost experts on the Arctic. You talked a lot about what it means to be an Arctic state.</ParaText>
+              <ParaText id="8939933">We, of course, have a government where all parties say they're committed to reconciliation. I'm wondering, from your perspective, what sovereignty means for Inuit communities. How might that differ from how the federal government sees it? </ParaText>
+              <ParaText id="8939934">I'm also wondering if you could compare and contrast Canada's position with respect to the other countries, given the fact that you have this interface with them. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172866">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939935"> Our modern treaties are really at the heart of the relationship the Inuit have with this country. In United Nations terms, it's our constructive arrangement. We are proud Canadians, but it isn't because of Canada's domination of us. It is because of our partnership in this day and age and our hopes moving forward that we can remain Canadians and that we can have constructive arrangements with this nation-state. </ParaText>
+              <ParaText id="8939936">The challenges we face here in Canada are very different from in Greenland or in Alaska or Russia. We are very fortunate that we live in a nation-state with free speech, with rule of law and with a respect for indigenous peoples' rights. The UNDRIP legislation passed by the previous government underpins the section 35 rights we hold and the broad hope that we can implement our existing rights within the structure of federalism, but also in the provinces and territories in which we live. </ParaText>
+              <ParaText id="8939937">We immediately think about the implementation of those agreements as the first place we go when we talk about sovereignty and what it means to be Canadian Inuk. What will propel our positivity and optimism moving forward is our ability to live up to the agreements we've signed and include Inuit as partners in all manners of diplomacy, of governance and of nation building within our homeland. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172887">
+            <PersonSpeaking>
+              <Affiliation DbId="317903" Type="2">Tamara Kronis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939938">We had a good conversation with the witness we heard before you about AI and surveillance and data. Of course, the Arctic archipelago is changing, and it offers some interesting challenges. I had the opportunity a few weeks ago to see the vehicle traffic surveillance system in my own community of Nanaimo. The technological advances that are happening are incredible. </ParaText>
+              <ParaText id="8939939">Can you give a sense of how Inuit traditional knowledge and local experience could be more effectively integrated into Canada's Arctic surveillance in order to make it better and purpose-built for your communities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172905">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939940">Unfortunately, because of the time, I can only allow a brief response.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172909">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939941">Thank you. </ParaText>
+              <ParaText id="8939942">First, we have the Canadian Rangers, who are hopefully going to be more integrated into the larger Canadian Forces. </ParaText>
+              <ParaText id="8939943">Generally speaking, Inuit hunters and harvesters traverse the entirety of our homeland and are the eyes and ears on the ground for surveillance across our homeland. What we are observing and the concerns we see, whether it's with ship traffic or with any other non-Canadian presence in our homeland, are then a tangible link to the first level of defence we have within our country about how to respond to any foreign threats. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172911">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939944">Thank you. </ParaText>
+              <ParaText id="8939945">We'll go next to MP Robert Oliphant. </ParaText>
+              <ParaText id="8939946">You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13172912">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939947">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8939948">Thank you, Mr. Obed, for joining us today. It's always a pleasure.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172913">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939949">Apologies, Mr. Chair, but Mr. Oliphant's mike wasn't on. I'm thinking of the interpreters.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13172916">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939950">I want to do three things: flatter you, ask for your comments and then push you. </ParaText>
+              <ParaText id="8939951">Inuit Nunangat has benefited from your leadership for 10 years. Everyone is aware of it, and Canada has benefited as well. Canada is better when Inuit Nunangat is better, so thank you. </ParaText>
+              <ParaText id="8939952">I want to talk about the concept of codevelopment. Our most recent Arctic strategy had at its core the principle of codevelopment. When we revised our Arctic foreign policy last year, we kept it. </ParaText>
+              <ParaText id="8939953">What does that mean to you and to ITK, but also to the Inuit people and indigenous people writ large? Has there been a change in the 10 years you have been in your office? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172923">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939954"> First, thank you for the flattery. I appreciate that.</ParaText>
+              <ParaText id="8939955">It has been 10 years. I was just re-elected for my fourth term, and I'm quite pleased and honoured to represent Inuit here in our nation's capital and wherever my job takes me.</ParaText>
+              <ParaText id="8939956">I've seen quite a bit over the last 10 years, and I have been working with the Government of Canada over that entire span to ensure that anything that this government considers in relation to Inuit is met with the policy, legislative and program expertise that we feel is necessary for implementing your jobs. Often, we come 95% of the way to the federal government in providing advice, clarity and cautionary tales about what happens when programs or legislation goes awry. Codevelopment is meant to enhance the ability for Inuit as rights holders to participate in the development of any program, policy or piece of legislation that explicitly affects our rights or our standing in Canada.</ParaText>
+              <ParaText id="8939957">We've done it well and we've done it poorly. At its best, we have things like the United Nations Declaration on the Rights of Indigenous Peoples and the provisions within, which were codeveloped with Inuit, first nations and Métis with an associated action plan. Now we have to get to work on its implementation.</ParaText>
+              <ParaText id="8939958">In the Arctic foreign policy, there's a mention of action plan measure 52, which is cross-border mobilization for Inuit, especially from Greenland, Alaska and Canada, so that we can move across our homeland in a more seamless way, which would require the amendment of the immigration act. We haven't gotten to that piece yet, but successive ministers have talked hopefully about it.</ParaText>
+              <ParaText id="8939959">Codevelopment in the space of, say, the Arctic policy can be a bit more frustrating. At the end of the day, if there isn't a budgetary link, or if there isn't ownership of the federal government of the entirety of its Arctic policy, then we are brought into conversations that end up with us restating our established positions and having expectations that, in many cases, government is unwilling or even disinterested in meeting on.</ParaText>
+              <ParaText id="8939960">Provinces and territories had chapters and rights-holding peoples had chapters, so there is an Inuit chapter of the ANPF, the Arctic and northern policy framework. In it, we articulate the ambitions we have to grow a prosperous Inuit Nunangat. This even includes ensuring that the federal government defines the term “Inuit Nunangat” in legislation and in policy so that it can be used clearly and to the fullest extent.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13172944">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939961">I wanted that one in there. I am going to interrupt you though, because I will never not say it and I encourage our government to.</ParaText>
+              <ParaText id="8939962">Because we're the foreign affairs committee, I want to talk about the participation of Inuit and indigenous people, writ large, in foreign affairs fora. The Arctic Council has six permanent participants who sit in their own right at the table. When I go to the OAS, you're considered stakeholders; it's very different. </ParaText>
+              <ParaText id="8939963">Can you help push us on the role that you see Inuit playing in foreign affairs and multilateral bodies, as well as engaging in a new way?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172951">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939964">The Arctic Council is a very interesting model in which indigenous peoples have permanent participant seats. There is still a line between nation-states and indigenous peoples within that particular body. I would love to see, in the future, clearly articulated peer-based spaces in which rights-holding indigenous peoples and their representatives sit alongside state leadership in outcomes from these types of bodies.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172956">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939965">Thank you.</ParaText>
+              <ParaText id="8939966">We'll now go to the next member.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8939967">Go ahead, Mr. Simard. You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172966">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939968">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8939969">Thank you for being here, Mr. Obed.</ParaText>
+              <ParaText id="8939970"> I want to follow up on what you said to Mr. Oliphant about codevelopment. You talked about the frustration that can arise, and I understand that.</ParaText>
+              <ParaText id="8939971">At the end of the discussion, you talked about the Arctic Council, which you are involved in.</ParaText>
+              <ParaText id="8939972">That brings to mind a doctrine unique to Quebec, which you may be familiar with, the Gérin‑Lajoie doctrine. It calls for greater responsibility in international forums, particularly in areas specifically under Quebec's jurisdiction.</ParaText>
+              <ParaText id="8939973"> Isn't your development shaped by a need for greater political autonomy? I'd like to know whether you have any demands of the federal government on that front.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13172983">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939974">Our asks to the federal government have been based more on respect and structured respect, whether it's how we get into these halls and have passes so we're not seen as visitors to the House of Commons but peers doing work, just like premiers when they come into these spaces, or whether it's Canada Day and the Government of Canada presents its ministers, Prime Minister and Governor General but also decides who speaks on behalf of indigenous peoples, not the indigenous peoples ourselves. How we are treated when we come to the House of Commons, the protocols and processes that are housed within the Speaker's office or within legislation that is housed within Canadian Heritage and also Privy Council's responsibility for the order of precedence, they need to be changed. That's how we get to true respect for Inuit rights holders in this country, by treating us as a part of the construction of Canada as a nation-state, rather than as groups that you have to placate because that's the political norm in this country. </ParaText>
+              <ParaText id="8939975">We are an essential part of the construction of this country, one that not very many parliamentarians or those who enact and implement the rules around the functioning of this democracy care to respect.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173012">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939976">Thank you, Mr. Obed. I agree with you in many respects.</ParaText>
+              <ParaText id="8939977"> Earlier, we were discussing the development of necessary infrastructure, but I think development in the north has to adhere to two key parameters. On one hand, of course, there's economic development and infrastructure development, but on the other hand, there's social and cultural development, especially for Inuit.</ParaText>
+              <ParaText id="8939978">Something you said struck me. If I heard correctly, you said that 85% of essential services provided to your people are not delivered in their mother tongue. Is that actually what you said in your opening remarks? I thought I heard something like that.</ParaText>
+              <ParaText id="8939979"> I want to understand the dynamics around essential services, because 85% is a staggering number. When I think essential services, I think of health and social services, which would mean that most of those services are not available to you in your mother tongue. Do I have that right?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173024">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939980"> Thank you so much for the question.</ParaText>
+              <ParaText id="8939981">To clarify, for Inuktut, our language, I was speaking specifically of Nunavut, one of our four jurisdictions, which houses half of our population. However, in that particular jurisdiction, 85% of the Nunavut population is Inuit. The majority mother tongue, for upwards of 80% of those people, is Inuktut. The federal government has no obligation to provide any of its services to any of those people in Inuktut.</ParaText>
+              <ParaText id="8939982">I give that as an example because it's the strongest example that you have in the country of a jurisdiction not respecting the linguistic rights of the majority population.</ParaText>
+              <ParaText id="8939983">In other parts of Inuit Nunangat, like in Nunavik, in northern Quebec, almost 100% of Inuit speak Inuktitut. Again, there is no obligation for the federal government to provide services in Inuktitut to them either.</ParaText>
+              <ParaText id="8939984">These are essential things that we tried to change through the indigenous languages legislation, but we were unable to do so. There is a five-year review of that legislation coming up, and I do hope that there can be consideration of official language status within our homeland so that we can get beyond this very glaring gap in service.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173029">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939985">You can have a very brief question and answer.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173031">
+            <PersonSpeaking>
+              <Affiliation DbId="317878" Type="2">Mario Simard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939986">I'll be very quick.</ParaText>
+              <ParaText id="8939987"> I know this isn't the purpose of our study, but if you have any specific recommendations to share on language use, I would be glad to read them. You can submit your recommendations to the committee.</ParaText>
+              <ParaText id="8939988"> Thank you, Mr. Obed.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173032">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939989">Give a very brief response please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173033">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939990">Thanks. I'll be sure to follow up with you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173036">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939991">Thank you very much.</ParaText>
+              <ParaText id="8939992">We go to the second round of questioning, beginning with MP Rood.</ParaText>
+              <ParaText id="8939993">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173038">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939994">Thank you very much.</ParaText>
+              <ParaText id="8939995">Thank you for being here today.</ParaText>
+              <ParaText id="8939996">How are Inuit organizations leading decisions, day to day, toward food sovereignty?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173040">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8939997">Thanks.</ParaText>
+              <ParaText id="8939998">We have tremendous food insecurity issues. We also have tremendous poverty issues across Inuit Nunangat. We have food insecurity rates upwards to 70%. We also have median income gaps of approximately $70,000 between Inuit and non-Inuit who live in our homeland.</ParaText>
+              <ParaText id="8939999">We have relied on government programming for some of this equity piece. The nutrition north program has helped. It is also challenging in some ways from a social policy lens, but there are also traditional harvesting grants that are now associated with the nutrition north program that allow for us to harvest healthy, nutritious country food and provide that as part of food sovereignty or food security within our homeland.</ParaText>
+              <ParaText id="8940000">The transmission of language and culture is also essential to ensuring that our food sovereignty and food security needs are met. We know that we have a mixed diet. We know that we need more employment and greater earning levels to be able to fix the food insecurity issue more broadly. We are trying to work with the government on things like school food programs so that our children, if they are in food-insecure homes, can have food at school to get them focused on their tasks for the day.</ParaText>
+              <ParaText id="8940001">We have a multipronged approach. We are involved at the community level and all the way up through our national level in either delivering programs or creating strategies for this work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173059">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940002">Are there any other partners besides the Government of Canada that are working with you or with the Inuit on food security? How is success being measured?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173061">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940003">There are ad hoc, not-for-profit societies that have worked with Inuit communities. Also, the child first initiative was very progressive in the way that it provided funding for food for Inuit children who were in need of food. That has been drawn back this fiscal year by the Government of Canada.</ParaText>
+              <ParaText id="8940004">On the ad hoc, individual stopgap measures, whether they be from southern-based institutions shipping food up or food centres within Inuit Nunangat that are volunteer-run, we know that we need to give them more support. There are incredible individuals who are helping with food insecurity within our communities. We have a food security strategy nationally, and we also then need to fill in policy gaps or improve the programs that exist to ensure that, when we spend a dollar, that dollar is spent on those who need it most, rather than lining the pockets of for-profit corporations or getting lost in general administration.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173072">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940005"> Is there a particular department that your group has been working with to advance the advocacy on food security? </ParaText>
+              <ParaText id="8940006">How much money is committed over the next five years and to what programs?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173073">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940007">We've worked with this government on funds specifically for the school food program. There were a few different departments that were involved in the implementation of that particular announcement. Generally speaking, though, we don't have the resources that we were looking for. We put pre-budget submissions in for a 10-year solution for school food programs, just for one. </ParaText>
+              <ParaText id="8940008">We generally go to Indigenous Services Canada with a lot of our requests. They're the ones we are working with on the Inuit child first initiative. They're the focal point of the federal consideration. Within each of our jurisdictions, our land claim treaty organizations work with their governments on this issue as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13173081">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940009">Thank you.</ParaText>
+              <ParaText id="8940010">I have one quick, final question. </ParaText>
+              <ParaText id="8940011">In your opening, you mentioned foreign interference. I'm just curious. Are foreign actors seeking to influence Inuit and how?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173085">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940012">Give a brief response, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173086">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940013">This is a much longer conversation. I would just say that it's through industry, through research and also through social media. There are a number of different ways in which foreign actors have or can influence our populations.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173087">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940014">Thank you very much.</ParaText>
+              <ParaText id="8940015">Next, we'll go to MP Mona Fortier.</ParaText>
+              <ParaText id="8940016">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173089">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940017">Thank you, Chair.</ParaText>
+              <ParaText id="8940018">Thank you again for being here today. Congratulations for your fourth term. We had the privilege of working together during the Inuit-Crown partnership and in different meetings when I was president of the Treasury Board. I believe we made some progress, even though I know there's much more progress that needs to be done. Your leadership is exemplary and very effective. I know that the next few years will be another opportunity to move that forward.</ParaText>
+              <ParaText id="8940019">We are undertaking a study on Canada's Arctic foreign policy and related efforts to secure Arctic sovereignty. I wanted to ask about how we should look at the foreign policy, in the sense of.... Do you have a position paper? How do we include self-determination of the Inuit in the foreign policy development we're doing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173096">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940020"> Thank you for the question, Mona.</ParaText>
+              <ParaText id="8940021">We did codevelop the piece specifically around inclusivity in our Arctic diplomacy. We're very thrilled that the Arctic ambassador position has been filled. Virginia Mearns is a capable and extraordinary person. I know she'll do well in the role. We also are hopeful that the consulates in Anchorage and in Nuuk can be opened as soon as possible. </ParaText>
+              <ParaText id="8940022">There's this overarching principle of inclusion in diplomacy. We are not part of the Canadian state in that I'm not a member of the House of Commons, but we are serving the same ends. We are a part of a nation-state and part of the structure of the nation-state. This is something we spoke quite a bit about within indigenous peoples' direct interventions at places like the climate change COPs.</ParaText>
+              <ParaText id="8940023">I think it's possible for indigenous leaders to work with Canada on positions and sometimes bring forward nation-state positions on behalf of all Canadians. I think there's a way in which we can reimagine the way rights-holding indigenous peoples make this nation-state stronger. On certain things, like Inuit Nunangat, it would only make sense for Inuit leadership to sometimes bring the Canadian position forward to our global counterparts instead of it being exclusively ministers of the Crown or the Prime Minister.</ParaText>
+              <ParaText id="8940024">We have an unbelievable advantage in our constructive arrangements with indigenous peoples in this country. My plea to all of you is to use it. We want to be helpful. We want to ensure that our nation-state is as strong as it can be internationally and that our foreign policy is the most progressive and the most effective. That can only happen with greater inclusion of Inuit voices.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173121">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940025"> If ever you have a position paper or some supporting document that we can have as a committee to look at how we can include a recommendation or look into this, it would be very appreciated. It could guide our report.</ParaText>
+              <ParaText id="8940026">Another question I wanted to ask is this: What role should Inuit organizations play in shaping Canada's relationship with Arctic neighbours, such as the U.S., Greenland and the Nordic countries? Do you have any response to that?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173128">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940027">These are our neighbours and our relatives, in many cases.</ParaText>
+              <ParaText id="8940028"> Again, I think Canada has not really considered to its fullest extent the tactical advantage of having a homogeneous society across nation-state borders and the positive ability for us to work with our separate governments for a common interest.</ParaText>
+              <ParaText id="8940029">With the Kingdom of Denmark, the tie that binds us is Greenland. The policy issues that are essential to Greenlandic Inuit are the same for Canadian Inuit. There has been the willingness by other nation-states, like Denmark, to provide Inuit-specific considerations for diplomacy that allow for better relations with other nation-states. Also, with the United States, with the connections we have with Inuit in Alaska and the work we've done since the 1970s in the Inuit Circumpolar Council, we could leverage all of that for the nation-state concerns that we have, whether in defence, sovereignty or development of the region. We have great opportunities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13176295">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940030">
+                <I>Nakurmiik</I>.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173155">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940031">Thank you very much.</ParaText>
+              <ParaText id="8940032">It's my understanding that MP Mario Simard has agreed to give his two and a half minutes for questions to MP Lori Idlout.</ParaText>
+              <ParaText id="8940033">MP Idlout, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173160">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout (Nunavut, NDP)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940034">[<I>Member spoke in Inuktitut</I>]</ParaText>
+              <ParaText id="8940035"> [<I>English</I>]</ParaText>
+              <ParaText id="8940036">Thank you so much to the chair and to the committee, and especially to MP Simard for sharing his extra time with me.</ParaText>
+              <ParaText id="8940037">First, I want to congratulate you on your re-election as ITK president. It's your fourth term, as I understand it. You in particular understand how important it is to represent the Inuit voice. As the MP for Nunavut, I've heard from so many Inuit from across Canada—in Nunavik, in the Northwest Territories as well as in northern Labrador—how I have been their voice as well, being the only Inuk at times in the House of Commons. I think we share that burden to ensure the Inuit voice is amplified, and I really appreciate the work that you do.</ParaText>
+              <ParaText id="8940038">My first question to you will be regarding the importance of Inuit mobility across different countries. We know that the Inuit, as you've correctly stated, have relations beyond Canada. I wonder if you could share with us the recommendations you might have to ease the mobility of Inuit between Canada, Greenland and Alaska, so that this federal government could help ensure those relations remain strong connections.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173186">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940039">
+                <I>Nakurmiik</I>, Lori. Thank you for those warm wishes. I'm happy to be working with you again in my new mandate.</ParaText>
+              <ParaText id="8940040">The first comes from the UNDRIP legislation on the considerations for mobility. It is our right, and the implementation of that right is Canada's responsibility. For Inuit, we have said that the amendment of the immigration act to allow for greater mobility of Inuit between the nation-states of Greenland/Denmark, Canada and the United States is a very progressive and essential part of implementing our existing rights.</ParaText>
+              <ParaText id="8940041">Regarding the net benefit, think about where we are right now in world diplomacy. If we had a functional amended immigration act that allowed for greater mobility between three countries, it would show the ways in which we are more alike and the ways in which we have shared respect for one another, which would then allow for greater conversations to be had on the treatment of indigenous peoples.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173202">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940042"> Thank you very much.</ParaText>
+              <ParaText id="8940043">We'll go next to MP Ziad Aboultaif.</ParaText>
+              <ParaText id="8940044">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173207">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940045">Thank you, Mr. Obed, for appearing today.</ParaText>
+              <ParaText id="8940046">I know that the community has priorities. I had a chance to meet with, in Copenhagen, Denmark, community members from Greenland and the north. I learned a lot about the issues that are facing the community, which is an extension, or the other way, of how it is in Canada.</ParaText>
+              <ParaText id="8940047">Can you tell us what the most significant projects are that the community has seen in the last 10 years in the north, whether they're infrastructure, social or otherwise? That will probably be important to know.</ParaText>
+              <ParaText id="8940048">Please, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173213">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940049">From the social side, it's the legislation regarding Inuit children, specifically children in care and the ability for Inuit rights-holding institutions to take greater ownership of caring for our children. That is an incredibly positive development.</ParaText>
+              <ParaText id="8940050">The Inuit child first initiative, which is the equivalent to Jordan's principle, also focused on equity for Inuit children and has given Inuit children a chance when they didn't have access before to thousands of different items.</ParaText>
+              <ParaText id="8940051">On the structural piece, the Government of Canada is allowing for, in its budget, Inuit-specific—so distinctions-based—funding directly to rights holders for things that are of greatest importance to our communities, such as funding directly for housing or for infrastructure, which has allowed for Inuit rights-holding institutions to directly build homes, build central infrastructure or make partnerships to allow for that to happen. That has also transformed the way in which we interact with the federal government, improved the lives of Inuit and improved our communities.</ParaText>
+              <ParaText id="8940052">We hope that, in this new construction of Parliament, a lot of those best practices can be built upon, because there's always room for improvement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173234">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940053">How would you describe the engagement of the community in the affairs of the north? Is it partial or full? How satisfied are you with that engagement, and what do you think can be done? What is the wish list of the community in order to enhance that further?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173239">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940054"> We have constructed a democracy that goes from our community level all the way to our international levels, so we hear a lot from our constituents in a rights-based way, which is alongside that of the provincial, territorial and federal systems.</ParaText>
+              <ParaText id="8940055">The major concern we've heard over the last year is that we do not want this round of militarization or sovereignty exercises in our homeland to mirror what happened in the 1940s and 1950s. We've been through this. Through the end of World War II and the Cold War era, the American military built over 60 installations across our homeland without a single consideration for Inuit interests. That's when the Canadian government relocated Inuit thousands of kilometres to the north as human flagpoles for Canadian sovereignty.</ParaText>
+              <ParaText id="8940056">Those are extreme examples but, when we hear Canadian politicians talking ignorantly about what should happen in our homeland, we immediately feel that it cannot happen again.</ParaText>
+              <ParaText id="8940057">We have structured our democracy to interact with yours. Let's use it to ensure that respect for Inuit rights is upheld throughout this rather than be trampled again.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173266">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940058">The demographic growth is very important. We can probably agree on that.</ParaText>
+              <ParaText id="8940059">Are you satisfied with the demographic growth in the north among the community? If you're not, is there anything that can be done? What do you think can be done to enhance that? Without the people, the land is nothing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173271">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940060">Can you give a brief response, please?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173274">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940061">Yes.</ParaText>
+              <ParaText id="8940062">We have a median age of, I believe, 23, so we have a very young population. The challenge that we have is in relation to housing and infrastructure. Many Inuit have to leave. There are no opportunities for housing or opportunities for jobs, and that's part of the development of the region.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173278">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940063"> Thank you very much.</ParaText>
+              <ParaText id="8940064">Next, we'll go to MP Bill Blair. </ParaText>
+              <ParaText id="8940065">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173279">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940066">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8940067">I don't think I'll require the full five minutes, by the way. I may share my time with Mr. Oliphant, if that's all right.</ParaText>
+              <ParaText id="8940068">I have a couple of things.</ParaText>
+              <ParaText id="8940069">Since 2019, we've been sitting at the table. Mona made reference to the Inuit-Crown partnership table. I think it's very useful. I think it also has not realized its full potential. Real change is a process, not an event. We have to get past events and get into a different relationship in that partnership, as described.</ParaText>
+              <ParaText id="8940070">I'd very much welcome your thoughts on how we can improve that partnership so that we can continue to capitalize on what has been gained and to grow it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173286">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940071">Thanks.</ParaText>
+              <ParaText id="8940072"> Bill and Mona are essential members. I've really gratefully appreciated your participation and thoughtfulness in that.</ParaText>
+              <ParaText id="8940073">The central premise of the Inuit-Crown partnership table is that the Government of Canada will always have priorities and Inuit will always have priorities. Let's decide what our shared priorities are and work on them constructively. Let's bring our most challenging issues to the table. Let's figure out how to create work plans that interrupt cycles and set a better course.</ParaText>
+              <ParaText id="8940074">I think the challenge so far is that it's been largely divorced of budget cycles. We have three meetings a year—one with the sitting <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and two with the <Affiliation DbId="318607" Type="4">CIRNAC minister</Affiliation> as co-chairs alongside me.</ParaText>
+              <ParaText id="8940075">If we were to structure our work plans and our deliveries to go into federal pre-budget considerations, then it would also, from a ministerial and departmental perspective, incentivize the further work on the work plans. That's if you understand that it is all integrated. That's versus now, where we still had very ambitious work plans with no funding to do them, which is a disincentive to do the work. Then we come back to the table and get updated on zero to little progress, which has been a challenge.</ParaText>
+              <ParaText id="8940076">We still are in the early stages. I also think that some of the outputs—for instance, the Inuit Nunangat policy is a key output of the Inuit-Crown partnership committee table—need to be shared wins instead of “Inuit got this from government.” Sometimes it feels like within the public service and departments it is akin to consultation rather than a true partnership, which maybe departments enter into with other jurisdictions or nation-states and think very differently about.</ParaText>
+              <ParaText id="8940077">We're still at the very early stages of changing the perception of how indigenous peoples work with the nation-state and the shared expectation and outcome that we all share from our side. We have just as much of an obligation to the space as the federal government. That was what we were trying to interrupt. It was the point-in-time investment, the benevolent federal minister flying into our community and announcing something on one day and then getting the kudos for that. I know that's something that's central to your leadership as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173319">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940078">Thank you for that.</ParaText>
+              <ParaText id="8940079">I want to acknowledge that there are, I think, opportunities to connect that budget cycle to our aspirations. You in particular have spoken about ensuring that we invest in marine transportation and social infrastructure in Inuit communities in order to foster prosperity but also to protect our national security interest. Potential exists in the significant investment that we've now committed to meet our NATO obligations of 1.5%. That's actually a very substantive potential for nation-building investment.</ParaText>
+              <ParaText id="8940080">This is my own standpoint from defence infrastructure. There is the opportunity to invest in multi-use infrastructure, which is informed by the people who live in those communities as to what would work for them as opposed to imposing things upon them. I think there's real opportunity there.</ParaText>
+              <ParaText id="8940081">I'll describe the last point quickly. When you make reference to the mobility of people across political boundaries, the Inuit people across the Nunangat and in Russia, America, Denmark and Greenland, are you referring to the Jay treaty and Canada's failure to recognize the Jay treaty, or are you thinking of something beyond that?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173337">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940082">Give a very brief response.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173344">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940083">The Jay treaty is part of it. As an Inuit I can travel to the U.S. under the Jay treaty. I can't come back to Canada under the Jay treaty, even though it is a bilateral treaty between Canada and the U.S.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13173350">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940084"> Canada doesn't recognize it. I'm aware of that, so I was asking to clarify it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173353">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940085">It's absurd. It is part of the solution.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173358">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940086">Thank you very much.</ParaText>
+              <ParaText id="8940087">We will now conclude with MP Lori Idlout. </ParaText>
+              <ParaText id="8940088">You have five minutes. Please proceed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173361">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940089">
+                <I>Qujannamiik</I>. Thank you so much.</ParaText>
+              <ParaText id="8940090">I've appreciated the line of questioning from my colleagues in this committee. Part of my questioning will be quite partisan—being part of the NDP. We saw, for example, the expedited passing of Bill <Document DbId="13547622" Type="3">C-5</Document>, without the free, prior and informed consent of indigenous peoples. I heard clearly that you're expecting governments to have stronger relationships with Inuit, and you're demanding better respect. I wonder whether you could share your views on what that could look like and how that could have positive impacts for Inuit.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173367">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940091">
+                <I>Nakurmiik</I>, Lori. </ParaText>
+              <ParaText id="8940092">First and foremost, for any of the coming-up listed projects for the implementation of Bill <Document DbId="13547622" Type="3">C-5</Document>, if they have any connection to Inuit Nunangat, they must have the explicit support of Inuit. We know, from this legislation, that there are dreams and aspirations for all sorts of entrepreneurs and jurisdictions, and I can't think of a worse fate for us to have than to fight some of these new listed projects because there wasn't respect given to Inuit in the process. </ParaText>
+              <ParaText id="8940093">We have been very clear, as Inuit leadership, that we welcome the ability to bring Inuit Nunangat into Canada. We have been hoping for this for a generation, perhaps two. The question, now, is this: Can we do that together? I know that we can, but there is another path, and one that, unfortunately, is something that we have to also mention. It's that, in this country's past, our rights were happily trampled on by opportunistic businesses and governments, and we just can't let that happen today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173387">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940094">Thank you so much.</ParaText>
+              <ParaText id="8940095">My next question is regarding Arctic sovereignty versus Arctic security. I see that this Liberal government is focused only on Arctic security, on military defence. Can you elaborate on why it's so important to also balance that out with Arctic sovereignty? </ParaText>
+              <ParaText id="8940096">Addressing programs like the Inuit child first initiative would be so important. Helping to eliminate TB, I know for ITK, is very important. These are programs that are so important and that show that Canada is willing to invest in Arctic sovereignty.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173401">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940097">Yes, as we state whenever we can, Inuit are the human face of Arctic sovereignty for Canada. That is just a factual statement. The health and sustainability of our communities and the investments in them are essential features of Canada's defence strategy and its aspiration to keep its own sovereignty. The funds that the federal government can invest in Inuit communities, which result in healthy and safe communities, are essential for the Canadian Rangers, for all the workers who might be working at airstrips, military bases or marine ports, and for those people who are ensuring that governments are functioning. We need to invest in our communities to ensure that we can meet, with the best possible foot forward, whatever is coming at us. </ParaText>
+              <ParaText id="8940098">I don't think it's too much to ask to lower our tuberculosis rate to the Canadian average from the 300 times rate we have now, or that we provide just essential services for Inuit children so that they are not discriminated against by being Inuit.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173428">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940099">Thank you very much.</ParaText>
+              <ParaText id="8940100">I would like a very brief question and answer, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173431">
+            <PersonSpeaking>
+              <Affiliation DbId="318188" Type="2">Lori Idlout</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940101"> Yes. Very quickly, I had amazing feedback from a constituent, Jesse Tungilik, who talked about the dangers of focusing only on Arctic security and how that would actually put more women at risk because of the military being flown into our communities.</ParaText>
+              <ParaText id="8940102"> I wonder if you can speak to the need to amplify how Arctic security includes keeping Inuit women safe.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173444">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940103">Give a brief answer, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173451">
+            <PersonSpeaking>
+              <Affiliation DbId="219250" Type="28">Natan Obed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940104">This is the same consideration as for fly-in, fly-out natural resource extraction projects and the negative impacts of that on certain members of local communities. It has to be a consideration, especially considering the murdered and missing indigenous women and girls—especially Inuit women and girls—and the need to do more for that population.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13173454">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8940105">Thank you very much, President Obed, for your testimony today and for appearing on this important study.</ParaText>
+              <ParaText id="8940106">That concludes this meeting. Is it the will of the committee to adjourn the meeting?</ParaText>
+              <ParaText id="8940107">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8940108">
+                <B>The Chair:</B> Thank you. The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

@@ -1,0 +1,1407 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13138738">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, September 24, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 24 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 24, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">05</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">24</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/24 16:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la science et de la recherche</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Acronyme">SRSR</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Salma Zahid</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138741">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair (Salma Zahid (Scarborough Centre—Don Valley East, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901270"> I call this meeting to order.</ParaText>
+              <ParaText id="8901271">Welcome to meeting number five of the Standing Committee on Science and Research.</ParaText>
+              <ParaText id="8901272"> Pursuant to the motion of the House of June 18, the committee is meeting to study the impact of the criteria for awarding federal funding on research excellence in Canada.</ParaText>
+              <ParaText id="8901273">Today's meeting is taking place in a hybrid format. Pursuant to the Standing Orders, members are attending in person in the room and remotely using the Zoom application.</ParaText>
+              <ParaText id="8901274"> Before we continue, I would ask all in-person participants to consult the guidelines written on the cards on the table. These measures are in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including the interpreters. You will also notice a QR code on the card that links to the short awareness video.</ParaText>
+              <ParaText id="8901275">I would like to make a few comments for the benefit of the witnesses and the members.</ParaText>
+              <ParaText id="8901276">Please wait until I recognize you by name before speaking.</ParaText>
+              <ParaText id="8901277">For those participating by video conference, click on the microphone icon to activate your mic, and please mute yourself when you are not speaking.</ParaText>
+              <ParaText id="8901278">For those on Zoom, at the bottom of your screen, you can select the appropriate channel for interpretation: floor, English or French. For those in the room, you can use the earpiece and select the desired channel.</ParaText>
+              <ParaText id="8901279">All comments should be addressed through the chair. For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can, and we appreciate your patience and understanding in this regard.</ParaText>
+              <ParaText id="8901280">I would like to welcome our witnesses for today for the first panel. We are joined in person here by Imogen Coe, professor, department of chemistry and biology, Toronto Metropolitan University. We are also joined by Mark Green, professor, Queen's University, and by Dave Snow, associate professor, University of Guelph, by video conference. We also have the Partnership for Women's Health Research Canada represented by Tamil Kendall, director, by video conference.</ParaText>
+              <ParaText id="8901281">Welcome to all of you. Thank you for appearing before the committee. All of you will have five minutes for your opening remarks, and then we will go into our rounds of questioning.</ParaText>
+              <ParaText id="8901282"> Professor Coe, we will start with you. You have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138814">
+            <PersonSpeaking>
+              <Affiliation DbId="322431" Type="28">Imogen Coe (Professor, Department of Chemistry and Biology, Toronto Metropolitan University, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901283">Good afternoon, Madam Chair and members of the committee. </ParaText>
+              <ParaText id="8901284"> Thank you for inviting me here today. </ParaText>
+              <ParaText id="8901285"> As you know, my name is Dr. Imogen Coe and I'm a professor of chemistry and biology at Toronto Metropolitan University and an affiliate scientist at St. Michael's Hospital in Toronto. I spent much of my career working in Canada's research ecosystem as a researcher, a reviewer, an educator, mentor and academic leader with a particular scientific research focus on cellular mechanisms of drug uptake, along with an applied academic expertise in how to create inclusive and effective research cultures in science, engineering and medicine. I've published extensively in both domains in the peer-reviewed literature. </ParaText>
+              <ParaText id="8901286">With respect to the topic under review, we must ask, what do we mean by “research excellence” in 2025? </ParaText>
+              <ParaText id="8901287">For too long, excellence has been defined in narrow and limited ways, missing markers of impact and relevance. Excellence today is understood more broadly, and the highest quality research emerges from systems and teams that are intentionally inclusive, ethically grounded and reflective of a wide range of perspectives, knowledge and experience. Research that draws on only a narrow set of voices or approaches is more likely to have blind spots, replicate bias and produce less impactful results. The evidence base for these comments is extensive and to ignore this body of scholarship is to compromise Canadian research. Expertise matters and we should look to evidence and data to help inform our policies. </ParaText>
+              <ParaText id="8901288">We have painful reminders of what happens when research fails to account for difference. A well-known recent Canadian case is that of physician Dr. Kapoor who died from the toxic build-up of a cancer drug routinely prescribed for his type of cancer. He carried a genetic variant related to poor drug metabolism that had not been captured in databases because those databases are typically skewed towards white European heritage populations. Thus his variant was missed in research focused on finding clinical markers of risk. A major study in 2018 found that over 78% of genome-wide association studies were of European descent, while non-European descent represented fewer than 5%. </ParaText>
+              <ParaText id="8901289"> Excluding diversity in research, design and practice disadvantages individuals, compromises safety, wastes resources and lowers the overall quality of the outputs. Every member of this committee has family or friends or constituents, perhaps from very diverse backgrounds and experiences, who are facing or will face challenges such as cancer, dementia, mental health crises, homelessness, disability, food insecurity, underemployment or perhaps even multiples of these. Research is going to be the answer to responding to these challenges, research that addresses the challenges of all Canadians and finds innovative solutions for all Canadians. </ParaText>
+              <ParaText id="8901290">This is our call as researchers, in service to Canada and Canadians. Research excellence, therefore, depends on creating systems and teams that are fair, inclusive and responsible. Diverse teams are more innovative, with productivity and impact 7% higher than homogeneous teams, according to research. Research that's conducted inclusively is more rigorous, more innovative and more responsive to society. In other words, more excellent. </ParaText>
+              <ParaText id="8901291">Federal funding criteria play a critical role in shaping how we define and reward excellence. If criteria remain too narrow, we risk leaving innovation on the sidelines. If criteria are broadened to ensure maximal rigour, impact, ethics responsibility and inclusiveness, we strengthen both research and society. Other countries are already moving in this direction. The U.K. research excellence framework requires evidence of real-world impact. Global initiatives such as the San Francisco Declaration on Research Assessment and the Leiden Manifesto stress that research quality cannot be reduced to numbers alone. Canada should align with these leading practices.</ParaText>
+              <ParaText id="8901292"> My recommendations to this committee are to support, sustain and increase investment in a Canadian research ecosystem that seeks and supports the best, while updating federal funding criteria so that excellence reflects truly what matters. Reward research that's rigorous, fair, innovative, and socially and environmentally responsive, which is built on systems where no capable talent is left on the sidelines. Support research that creates inclusive, productive and creative cultures that drive innovation and where talent thrives. Be intentional about building better and stronger systems of research. </ParaText>
+              <ParaText id="8901293">Canada's prosperity, health and security in the decades ahead will depend on the knowledge we generate today. By ensuring that research excellence is defined in ways that are broad, modern and inclusive, this committee can help Canadian research be both globally competitive and truly excellent. </ParaText>
+              <ParaText id="8901294">Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138864">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901295">Thank you.</ParaText>
+              <ParaText id="8901296">We will now proceed to Professor Mark Green from Queen's University. </ParaText>
+              <ParaText id="8901297">Professor Green, you have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138876">
+            <PersonSpeaking>
+              <Affiliation DbId="322476" Type="28">Mark Green (Professor, Queen's University, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901298"> Thank you, Madam Chair and committee members, for inviting me.</ParaText>
+              <ParaText id="8901299">[<I>Witness spoke in Kanyen’ké:ha and provided the following text:</I>]</ParaText>
+              <ParaText id="8901300">Shé:kon sewakwé:kon. Rahswahérha táhnon Mark yónkyats. Wakhsennekéhte wakenyáhten. Green tewakhsennà:sere. Kenhté:ke nitiwaké:nonh táhnon Kanyen’kehá:ka niwakonhwentyò:ten’.</ParaText>
+              <ParaText id="8901301">[<I>English</I>] </ParaText>
+              <ParaText id="8901302">In this traditional Kanyen'ké:ha introduction, I introduced myself as Mark Green. My Mohawk name is Rahswahérha, and I sit with the turtle clan in my community of Tyendinaga Mohawk Territory.</ParaText>
+              <ParaText id="8901303">I'm also a professor of civil engineering—structural engineering—and I was formerly provost at Queen's University. I have a long-standing track record of support from federal and international granting associations.</ParaText>
+              <ParaText id="8901304">Early in my career, I won a Commonwealth scholarship to complete my Ph.D. at the University of Cambridge. I returned to Canada on an NSERC post-doctoral fellowship and became a Queen's national scholar.</ParaText>
+              <ParaText id="8901305">Subsequently, I've received funding from pretty much all range of programs at NSERC and served on many review panels, both for NSERC and CFI. As an engineer with connections to industry and a strong working relationship with the National Research Council, I have a track record of bridging research into application, including building code development, both in Canada and internationally.</ParaText>
+              <ParaText id="8901306">For research excellence for most NSERC grants, evaluations are based on three broad categories. The first is the excellence of the researcher, the second is the excellence of the proposed research and the third is the training of highly qualified personnel. In funding decisions, I have found the processes to assess excellence to be rigorous, fair and collegial.</ParaText>
+              <ParaText id="8901307">I'd also like to stress that the system is flexible. For example, partnership programs emphasize collaborations with industry and economic development. Additionally, the internationally accepted San Francisco Declaration on Research Assessment, DORA, as mentioned by my colleague, provides a broader set of criteria to measure excellence. It can capture impact on communities, people and constituents in a way that academic papers and citation numbers simply cannot.</ParaText>
+              <ParaText id="8901308">The training of highly qualified personnel is particularly important for Canadian society because these former students go on to successful careers in industry, government and academia. As such, we must ensure that all segments of society have equal and equitable opportunities to access such positions. Furthermore, I firmly believe that to develop true leaders in society, it's essential to expand beyond simply the technical expertise and to connect with the human, socio-economic and environmental implications of one's work in science and engineering.</ParaText>
+              <ParaText id="8901309">For the last two years, I've had the pleasure of advising NSERC in the role of scholar in residence for indigenous collaboration, drawing on my research experience as well as my lived experience. All of this is advancing Canada's commitment to reconciliation. For example, we have been adding material on merit criteria as it relates to indigenous research. We can share the details with you. This consists both of NSERC-specific work and tri-agency work.</ParaText>
+              <ParaText id="8901310">Indigenous research is context-specific and is generally connected directly to community needs. As such, the results are practical and can have a direct impact on people. Sometimes excellence is not the most technical solution, but one that is best suited to meet the needs on the ground. I'm sure that many of you as MPs can relate to the importance of research being implemented to directly improve the lives of your constituents. The new indigenous innovation and leadership in research grants have created a real breakout moment. In particular, they encourage focused, indigenous-led work to deeply reflect on criteria to achieve excellence. One way to do this is to recognize the importance of indigenous knowledge and community input. We need all types and perspectives of knowledge to achieve true impact.</ParaText>
+              <ParaText id="8901311">In closing, I would like to emphasize three points. First is the importance of supporting a diverse community of students and researchers who are reflective of the breadth of Canadian society. Second are ways to intertwine indigenous and western scientific knowledge to achieve expanded excellence and insights. Third is embracing the declaration on research assessment to allow for more impactful research for Canadians.</ParaText>
+              <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+              <ParaText id="8901312"> Niá:wen. Thank you. <I>Merci</I>.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138887">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901313">Thank you.</ParaText>
+              <ParaText id="8901314">We will now proceed to Associate Professor Dave Snow. He is joining us through video conference.</ParaText>
+              <ParaText id="8901315">The floor is yours. You will have five minutes for your opening remarks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138894">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow (Associate Professor, University of Guelph, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901316"> Thank you, Madam Chair, for giving me the opportunity to speak today.</ParaText>
+              <ParaText id="8901317">I am here to speak to whether modifications should be made to the criteria used for awarding federal funding for research at the three federal granting agencies: NSERC, CIHR and SSHRC.</ParaText>
+              <ParaText id="8901318">I should begin by saying that I am not a disinterested observer. My career has benefited immensely from receiving SSHRC awards as a graduate student and as a political science professor. I believe that federally funded granting agencies are vital to the development of high-quality research and a thriving post-secondary sector in Canada.</ParaText>
+              <ParaText id="8901319">With that said, I am here to discuss a major concern with respect to the funding criteria at the three granting agencies: the creeping integration of principles of equity, diversity and inclusion, EDI, into those agencies' remit.</ParaText>
+              <ParaText id="8901320"> Earlier this year, I conducted a study for the Macdonald-Laurier Institute on EDI at Canada's three granting agencies. My report, which is the first quantitative study of tri-council research grants that I'm aware of, found that EDI has become infused into these granting agencies, particularly SSHRC and CIHR, and that an increasingly large share of SSHRC grants have been awarded to activist EDI projects. Examples of EDI at the agencies include an EDI action plan for all three agencies; mandatory diversity and bias training modules for applicants and peer reviewers; specialized EDI grants framed in activist language, such as the shifting dynamics of privilege and marginalization grant; and CIHR's new definition of research excellence that urges research to be “anti-racist, anti-ableist, and anti-colonial in approach and impact”.</ParaText>
+              <ParaText id="8901321"> Now, troublingly, I found that granting agencies use equity, diversity and inclusion in different ways at different times to mean different things. Sometimes it is what I call mild EDI, which merely encourages diverse perspectives in research and which I broadly support. Other times, the term “EDI” is simply used as a synonym for affirmative action. However, I found that granting agencies' EDI language increasingly reflects what I call activist EDI, whereby the terms “equity”, “diversity” and “inclusion” are used to advance the particular political agenda of social justice activism—in the words of Professor Eric Kaufmann, who I believe is speaking later today—“to overthrow systems of structural racism, sexism, homophobia, and transphobia”. Now, this vague and shifting definition of EDI is a feature, not a bug. It enables researchers and granting agencies to hide behind mild EDI language while using taxpayer dollars to advance activist EDI research agendas.</ParaText>
+              <ParaText id="8901322">There are two reasons why the growth of activist EDI at the granting agencies is especially problematic.</ParaText>
+              <ParaText id="8901323">First, activism undermines the search for truth. Actual SSHRC grant application instructions have asked applicants questions such as “How can cisgender and straight masculinity be reinvented for a gender-equitable world?” This is in direct opposition to what granting agencies should do, which is fund research based on intellectual curiosity to be undertaken by researchers who do not yet know the answers to the questions they're asking. Instead, activist EDI-driven criteria shift research funding away from objective knowledge creation towards intellectually incurious research that first and foremost seeks to advance a political agenda rather than discover new knowledge.</ParaText>
+              <ParaText id="8901324">Second, the growth of activist EDI undermines the legitimacy of the granting agencies themselves and of the post-secondary sector more broadly. If these agencies are seen as rewarding political projects, then Canadians—and their members of Parliament, for that matter—will start to ask whether the roughly $4 billion spent annually by these agencies could be better spent elsewhere.</ParaText>
+              <ParaText id="8901325">My report makes several recommendations for reform, some of which require legislation but most of which can be done within the relevant ministry or even within the agencies themselves. In particular, I recommend that the agencies' enabling legislation be amended to enshrine a commitment to political and ideological neutrality. To ensure such neutrality, I also recommend that all references to EDI be removed from agency guidelines and criteria. This includes the elimination of many of SSHRC's EDI-focused grants.</ParaText>
+              <ParaText id="8901326">The net effect of the granting agencies' trend towards EDI has been to weaken their perceived political independence and reinforce the impression that they, too, have become politicized, yet that harm is not irreparable. The granting agencies remain committed in principle to research excellence and objective knowledge creation. By removing EDI from their remit, we can ensure that fostering research excellence rather than political activism remains their top priority.</ParaText>
+              <ParaText id="8901327">Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138905">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901328"> Thank you.</ParaText>
+              <ParaText id="8901329">We will now proceed to Ms. Kendall, representing Partnership for Women's Health Research Canada.</ParaText>
+              <ParaText id="8901330">Ms. Kendall, you will have five minutes for your opening remarks. </ParaText>
+              <ParaText id="8901331">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="13138912">
+            <PersonSpeaking>
+              <Affiliation DbId="322411" Type="28">Tamil Kendall (Director, Partnership for Women's Health Research Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901332"> Madam Chair and honourable standing committee members, thank you for the opportunity to appear before you today.</ParaText>
+              <ParaText id="8901333"> As noted, I'm the director of Partnership for Women's Health Research Canada, which unites the Women's Health Research Institute in B.C., the Women &amp; Children's Health Research Institute in Alberta, Women's College Hospital in Ontario, and IWK Health.</ParaText>
+              <ParaText id="8901334">On behalf of the partnership, I would like to make three points about how diversity and inclusion in research and science contribute to research excellence.</ParaText>
+              <ParaText id="8901335">First, ensuring diversity and inclusion in research populations is critical for research relevance. For example, in health, some pain medications work better if you have one X chromosome, male, rather than two X chromosomes, female. We now know that individual cells have a sex, thus treatments need to be tailored accordingly, such as treatments for pain. Over a four-year period in the United States, eight out of 10 drugs that were withdrawn from the market were because of negative side effects in women. That was because not enough females were included in the trials that led to approval.</ParaText>
+              <ParaText id="8901336">One of these drugs, Prepulsid, was withdrawn because it caused irregular heartbeats, arrhythmias, more frequently in women. This drug caused the death of Vanessa Young, a 15-year-old Canadian. It resulted in Vanessa's Law, which aims to improve post-market drug surveillance and increase transparency about who was included in clinical trials.</ParaText>
+              <ParaText id="8901337">If we're to move beyond and prevent health harms because of sex differences before they occur, as in the tragic case of Vanessa, sex differences must be studied. In Canada, research excellence requires an increase from the current 7% of health research dollars allocated to women's health research and greater accountability for sex and gender analysis and reporting. </ParaText>
+              <ParaText id="8901338">Canada is a global policy leader in promoting sex and gender health research, but we need to increase accountability by researchers for the commitments they make at the research proposal stage. Recommendations that we make align with greater calls for grant monitoring made by other expert witnesses.</ParaText>
+              <ParaText id="8901339">In our written brief, we make concrete recommendations, including establishing a public repository of all published findings for funded projects; sex, gender, and ethnicity of study participants should be reported in all studies and publications; and funding applications should include a section where applicants are required to report on sex and gender results from previous government funded research. </ParaText>
+              <ParaText id="8901340">Second, as noted by others, socio-demographic diversity within research teams is associated with research excellence, when we look at novel research questions and higher research output. This committee has discussed viewpoint diversity. We know that our viewpoints and the research questions we ask are influenced by our personal experiences and background. To illustrate, Black scientists are more likely to study health disparities than white scientists. Female scientists are more likely to study research questions that use female and male sex in all research. Diverse scientists asking and answering relevant questions, and working together in research groups that include people of different genders and ethnicities, contribute to research excellence.</ParaText>
+              <ParaText id="8901341">In the science and research environment, there is exhaustively documented inequitable treatment of females and people of colour. Programs to increase equity in science and research can increase fairness and diversity, without undermining merit-based evaluation. In Canada, before the introduction of the equity mandates for the Canada research chairs, the vast majority of nominees were senior male candidates, and other merit-based applications were not included in the competitions. </ParaText>
+              <ParaText id="8901342">The government, by changing the requirements of inclusion, increased the diversity of candidates, but did not change the excellence of the candidates, as measured by peer-reviewed publications, science communication, book chapters, patents or policies. The CRC program is still a meritocracy. Increased diversity results in better, more impactful science that, ultimately, improves the lives of Canadians.</ParaText>
+              <ParaText id="8901343">Third, to assess research excellence, we should focus on scientific content and impact to patients, families, and communities, rather than number of publications and journal impact factors. When the research improves outcomes, implements health technology or evaluates health system change across a diverse population, the impact is then sustainable and generalizable to all Canadians.</ParaText>
+              <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+              <ParaText id="8901344"> Investing in women's health research and integration of sex and gender across care and innovation can make Canada a magnet for the world's top scientists and entrepreneurs and also lower costs through better evidence-based prevention and treatment for all Canadians, helping them get ahead.</ParaText>
+              <ParaText id="8901345">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138921">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901346">Now we will proceed with our round of questioning. We will begin our first round with MP DeRidder.</ParaText>
+              <ParaText id="8901347">Please go ahead. You will have six minutes.</ParaText>
+              <ParaText id="8901348">I would request all the members to please be particular about time, because we have four witnesses. </ParaText>
+              <ParaText id="8901349">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138928">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder (Kitchener Centre, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901350">Thank you very much.</ParaText>
+              <ParaText id="8901351">Thank you, everyone, for being here today.</ParaText>
+              <ParaText id="8901352">Mr. Snow, you come from Guelph. I am in Waterloo region. Thank you for being here.</ParaText>
+              <ParaText id="8901353">You spoke quite a bit about political activism with the current ideologies in federal funding agencies of research and academia. You gave us a glimpse of hope that the harm today is not irreparable, but we must take action. If we as a government do not take action now, what will be the repercussions in our scientific community, especially in areas like Waterloo, where we still have science excellence happening today?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138936">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901354"> I think it's a really important question.</ParaText>
+              <ParaText id="8901355">The first thing I should say is that I am a social scientist, a political scientist, and my knowledge of, for example, the hard science environment in places like Waterloo is not particularly high.</ParaText>
+              <ParaText id="8901356"> I would emphasize something I touched on briefly towards the end, which is that these granting agencies mostly fund a great deal of research. I found far more limited evidence of this activist EDI at NSERC, for example. </ParaText>
+              <ParaText id="8901357">We are in an era of increased financial restraint and large budget deficits. As I've shown in my report, the at times justified perception is that these agencies are not funding objective new knowledge or knowledge creation but instead funding ideological projects where activists are continuing to do activism but with more federal government money. I think the appetite from the public and from legislators is going to be to move away from this and say that's an area where we can and should cut. I think that would be a shame, so that's why I'm suggesting reform to avoid those potential cuts down the line.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138943">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901358"> I agree completely. I think, too, that there's a there's a risk of losing faith in our research excellence and really not having any trust in our science anymore if we continue down these paths. That's what I wanted to bring up with you today.</ParaText>
+              <ParaText id="8901359">In the Waterloo region, we have very good scientific achievements happening, but I'm afraid that will be eroded in time if we continue down these ideological paths. Can you explain further where that would have that erosion in science if we continued on this course?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138952">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901360">First and foremost, the creeping integration of more EDI activist requirements into large-scale grants is an issue. If we want to fund the best research, we should fund the best research. We shouldn't fund the best research that also makes vague commitments to activist EDI or base research funding for things like hard science and engineering projects on the basis of those statements.</ParaText>
+              <ParaText id="8901361">Again, I'm seeing this less in NSERC, more in SSHRC and surprisingly more in CIHR than I expected in terms of its guidelines. We're carving out research dollars for explicitly activist projects in the social sciences and humanities in particular, so we're not only saying that we encourage researchers to build their research proposals in such a way that makes a nod to equity, diversity and inclusion, but it's more likely to be funded if it's equity, diversity and inclusion. We're taking scarce taxpayer dollars and saying that these grants are only for activist projects.</ParaText>
+              <ParaText id="8901362"> If you look at the language in things like the knowledge synthesis grants at SSHRC and the race, gender and diversity initiative, which has ended, that was quite a large sum of money and a lot of $450,000 grants. That's what I found overwhelmingly within those grants. The percentages I found of activist projects within the SSHRC main insight grants was between 10% and 15% with explicitly activist language in their titles. That's a lot higher than I think should be coming from a federal granting agency, but it's not 100%. With those more explicitly activist grants, it was more like two-thirds in terms of that.</ParaText>
+              <ParaText id="8901363">I think, first and foremost, we pare down the guidelines, we maintain a commitment to ideological and political neutrality, and we say that we're going to stop carving out scarce taxpayer resources for grants that are about activism. If the government wants to fund activism, it can fund activism. It shouldn't be doing it through its research granting agencies.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13138961">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901364"> Thank you very much for that.</ParaText>
+              <ParaText id="8901365">I'm going to cite you here. You said, “In Canada, EDI is currently taking up far too much focus in each of the granting agencies. Rather than prioritizing research excellence, they are too often promoting and even rewarding political activism.”</ParaText>
+              <ParaText id="8901366">To you, what is the most critical step to reducing politicalization in academia and ensuring we're funding authentic research?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138971">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901367">That is a great question, because it raises the question of whether or not these granting agencies are upstream or downstream of broader tendencies within academia, especially the social sciences and humanities, towards more ideological research and less—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138981">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901368">Sorry for interrupting, but the time is up. Maybe you can respond in the next round.</ParaText>
+              <ParaText id="8901369">We will proceed to MP McKelvie.</ParaText>
+              <ParaText id="8901370">MP McKelvie, you will have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138991">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie (Ajax, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901371">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901372">Dr. Green, you mentioned interdisciplinary research. Many of the great discoveries that we make happen when different people who might not traditionally work together come together.</ParaText>
+              <ParaText id="8901373">A great example of that is understanding our microbiome. Medical scientists have been looking at it from one direction, but you could throw in a soil scientist who's used to analyzing more of that type of substrate. Then you could throw in an anthropologist and a dietician or somebody who looks at culture and how culture changes what we eat. Those three would all traditionally be funded by separate agencies—NSERC, SSHRC and CIHR.</ParaText>
+              <ParaText id="8901374">Recognizing this study that's before us is about research excellence, how can we better promote research excellence when it's interdisciplinary?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139000">
+            <PersonSpeaking>
+              <Affiliation DbId="322476" Type="28">Mark Green</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901375">I wholeheartedly agree with you that many of the greatest innovations are achieved when we are considering an interdisciplinary or transdisciplinary approach so we can see how the different systems connect with one another and how they influence each other.</ParaText>
+              <ParaText id="8901376">I will also mention that is also quite reflective of many indigenous world views, which do not separate into disciplines in the same way. For example, one frame of reference would be the medicine wheel, which can often be a metaphor for health with the different parts, and looking at those four segments, you need each and every one of those—physical, mental and spiritual health—to be in harmony in order to have those connections. </ParaText>
+              <ParaText id="8901377">Similarly, I know the Haudenosaunee peoples, in the Ohén:ton Karihwatéhkwen—“the words that come before all else”, or the Thanksgiving Address—also talk about giving thanks for all of the elements of creation and recognize that it's only when each and every element there is contributing its own responsibility that everything works well together.</ParaText>
+              <ParaText id="8901378">Let's deviate a little bit from that to talk about some practical applications of it and something that falls into my area of research as an example. I've done a lot of work in structural engineering, and in the last 20 to 25 years, I've done a lot of work in fire engineering. I've recently been interested in wildfires. We understand what a problem that is for Canadians in general and across the world, but it's particularly having an impact on first nations and other indigenous communities. Some 40% of first nations community members are evacuated when they only represent of about 5% of the population.</ParaText>
+              <ParaText id="8901379">In looking at that and focusing on ways to do that, I'm working right now with Prince Albert Grand Council. They're interested in these displacements: How can you protect the communities? I'm interested in how to protect the people there but also in how their mental health is affected by being displaced and other things. I've also engaged with medical professionals to look at that. By bringing together this wide range, we can have much better solutions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139008">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901380">You very eloquently outlined the three ways that, for example, NSERC looks at excellence: excellence of the researcher, proposed research and HQP. Excellence of the researcher, for example, is defined very differently with indigenous knowledge and with indigenous keepers. </ParaText>
+              <ParaText id="8901381">How can we be mindful about the way we are assessing research excellence when we're working with different communities? Doing it based on publications, for example, is not the right measure. How can we make sure that we're including research excellence when it may not have a traditional metric?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139016">
+            <PersonSpeaking>
+              <Affiliation DbId="322476" Type="28">Mark Green</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901382"> Thanks for bringing that up about cultural leaders and cultural knowledge, in a way, having the expertise. There is some movement to be looking at recognizing the knowledge that exists through oral traditions and through other knowledge that does not exist outside of place knowledge and those systems. It's actually different perspectives and different knowledge. It can also bring with it a lot of changes and understandings.</ParaText>
+              <ParaText id="8901383"> There are ways to look at the impact in community and how these people are recognized in community. Many of the people who have this knowledge may not have traditional education, but they are respected for their knowledge because they are knowledge-keepers, etc. There are many other ways of looking more broadly at things. The indigenous leadership circle in research, which is a national body, and the reference group for the appropriate review of indigenous research are both bodies that are looking closely at those types of ways.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139025">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901384"> I have only 15 seconds left, so I will simply congratulate you on your NSERC scholar and residence positions. Thank you for your contributions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139034">
+            <PersonSpeaking>
+              <Affiliation DbId="322476" Type="28">Mark Green</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901385">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139041">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901386">We'll now move to MP Blanchette-Joncas for six minutes.</ParaText>
+              <ParaText id="8901387">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139046">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas (Rimouski—La Matapédia, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901388">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901389">I would like to welcome the witnesses who are with us for this study.</ParaText>
+              <ParaText id="8901390">Professor Snow, two things are often confused: the need for representative samples, for example in health, and the requirement that researchers themselves embody this diversity.</ParaText>
+              <ParaText id="8901391">You say that this confusion is at the heart of current policies. What do you think are the risks of mixing those two things together? Wouldn't that turn a scientific issue into an ideological criterion imposed on individuals?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139053">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901392">I'm sorry. I heard the first one, about representative samples within health, but I missed the second one.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139061">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901393">I'll repeat my question: Wouldn't that turn a scientific issue into an ideological criterion imposed on individuals?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139067">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901394"> I apologize for my unilingualism. The question I got from the translation was about whether this transforms the criteria, but I didn't get from the question what specifically it is that transforms this. </ParaText>
+              <ParaText id="8901395">I apologize. Maybe I'll get you to repeat the question one more time.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139076">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901396">Wouldn't that turn a scientific issue into an ideological criterion imposed on individuals?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139086">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901397"> Yes. I apologize. I definitely got it this time.</ParaText>
+              <ParaText id="8901398">I think it absolutely does transform what ought to be the domain of objective knowledge creation into an ideological issue. I should say that I oppose all ideologically based grant funding, whether that's in a progressive or a conservative direction.</ParaText>
+              <ParaText id="8901399"> I would say that some of the other witnesses today others might portray as being on the other side of the issue here, but I would note that a lot of things I heard from the witnesses today I think are valuable forms of diversity and inclusion and having a greater research population in terms of medical and health research in order to learn more knowledge. That's outside my field of expertise, but that's something that granting agencies absolutely should be encouraging. What they shouldn't be encouraging are particularly politicized projects that already know the answer to the questions before they've begun the research. </ParaText>
+              <ParaText id="8901400">I was surprised at the types of questions on actual SSHRC grant applications. Take this one, for example: “Contested cultural and historical narratives can reinforce communal tensions and lead to alienation, denialism and marginalization.” That is from a SSHRC grant instructions application. It is telling researchers that there are things that should not be contested, which is very much against the domain of science. Science is all about conversation—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139098">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901401">I'm sorry to interrupt, Mr. Snow, but I have other questions for you.</ParaText>
+              <ParaText id="8901402">In your work at the Macdonald-Laurier Institute, you distinguish the research topic from the funding criteria. You insist on the fact that we must let research on equity, diversity and inclusion, or EDI, take its full place, but we must avoid imposing EDI criteria in project evaluations. Why do you think this distinction is essential?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139110">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901403"> I think it's a very important distinction. What I found in my study is that these three types of EDI—what I call mild EDI; moderate EDI, which is more or less affirmative action; and then the more activist EDI—are used interchangeably. SSHRC and NSERC don't cite it. We're talking about the first type of EDI here, and now we're talking about the second one. We can speak in the broad language of research inclusion and more inclusive research environments. Quite frankly, I think that's going on anyway within Canadian academia. We've moved away from the days when populations are systematically excluded, and reviewers.... If you've met any academics who are explicitly sexist or racist, those days are far behind us.</ParaText>
+              <ParaText id="8901404">I think that the forms of inclusive research environments that we want to foster are being fostered without these EDI criteria, regardless. These EDI criteria are encouraging researchers to engage in politicized research. They're also taking a particular portion of scarce federal research dollars and saying it's only for this type of activist research, and not for the research that builds knowledge.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139121">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901405">I understand.</ParaText>
+              <ParaText id="8901406">You showed that, in the thematic programs related to equity, diversity and inclusion, nearly 63% of funded projects had advocacy titles. Wouldn't that show that the federal criteria already encourage an ideological orientation at the expense of truly open research?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139128">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901407">Yes, absolutely. I think for these specific grants—these knowledge synthesis grants, which are smaller but still millions of dollars of federal money—and for the race, gender and diversity initiative in particular from SSHRC, they ask questions on the application instructions such as, “Which mechanisms perpetuate White privilege, and how can such privilege best be challenged?”</ParaText>
+              <ParaText id="8901408">Now, I also think white privilege is a bad thing, but it's not whether there is evidence of white privilege or not. It assumes that white privilege exists, that there are mechanisms that perpetuate it and that the goal of federally funded research ought to be challenging those mechanisms.</ParaText>
+              <ParaText id="8901409">Again, a statement from SSHRC says, “Progressive societies promote values of diversity, equity and inclusion as enriching societies culturally, informing innovation and research”. Again, here's the assumption that we want a society that defines itself as progressive, and that's the direction of research dollars.</ParaText>
+              <ParaText id="8901410">One needs only to skim the websites of those specific grants to see just how ideologically.... Most Canadians would be shocked at how explicitly ideological the language is on those EDI-specific grants. It's not necessarily the criteria on every granting agency website.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139135">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901411">You've written that activist-driven equity, diversity and inclusion diverts funds to activist projects rather than scientific ones. Do you think this is already hurting productivity and innovation in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139142">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901412">Yes, absolutely. It's a logical implication of my work that if I'm finding between 10% to 15% of the most prestigious SSHRC grants, the insight grants and insight development grants, having explicitly activist EDI language in their title alone.... The abstracts weren't available.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139150">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901413">I'm sorry for interrupting. The time is up.</ParaText>
+              <ParaText id="8901414">We will now start our second round of questioning. We will go to MP Holman for five minutes.</ParaText>
+              <ParaText id="8901415">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139157">
+            <PersonSpeaking>
+              <Affiliation DbId="319852" Type="49">Kurt Holman (London—Fanshawe, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901416">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901417">Thank you to the witnesses for being here today.</ParaText>
+              <ParaText id="8901418">Dr. Martin Luther King, Jr. dreamed of a world where people are judged by “the content of their character”, not “the color of their skin”. That principle has always guided me, and many of the people of London—Fanshawe feel that current EDI policies are taking us further from it.</ParaText>
+              <ParaText id="8901419">They want opportunities based on merit and ability. Yet, academics warn that funding rules are closing doors and rewarding conformity instead of excellence. I hope this study helps us find a better path and restores fairness, protects freedom and ensures taxpayer dollars support the best ideas.</ParaText>
+              <ParaText id="8901420">Dr. Snow, you mention in your piece from the Macdonald-Laurier Institute that “the current federal government”, which you hold responsible for the DEI push, is not “interested in rolling back” DEI.</ParaText>
+              <ParaText id="8901421">What would you say are the most dire consequences of granting agencies and post-secondary institutions continuing down this DEI path?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139163">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901422"> I should note that this report came out in February 2025, so when speaking about the current government, it was still a Liberal government, but it was under a different prime minister. I'm unaware of any shift or maintenance of the current government's priorities in terms of this language, so we'll have to wait and see.</ParaText>
+              <ParaText id="8901423">As an academic and someone who has spent his entire adult life in the university, perhaps I'm biased in saying that I worry it contributes to the undermining of our post-secondary institutions. I think that when people see this type of language, when people hear the amount of money.... When bright people I know who aren't involved in the post-secondary sector hear that these granting agencies distribute $4 billion and more per year, they're shocked. That doesn't mean that that's not a good use of taxpayer dollars, but these sorts of activist projects are the ones that make the headlines more than—even within the social sciences—knowledge-creating, objective, falsifiable research.</ParaText>
+              <ParaText id="8901424">It speaks to a potential and growing disillusion with the post-secondary sector amongst the Canadian public. That's what I worry about the most. These agencies do very important work, but these particular grants are, unfortunately, undermining it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139168">
+            <PersonSpeaking>
+              <Affiliation DbId="319852" Type="49">Kurt Holman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901425">Thank you for that, Dr. Snow. I share your concerns, and I know many Canadians also do.</ParaText>
+              <ParaText id="8901426">In that same piece, you provide several recommendations for reversing the effects of DEI. Can you tell more about the reforms you believe would restore genuine openness, protect diversity of opinion, and ensure merit and freedom of thought before ideological conformity?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139172">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901427">The first one is small. It would be a line in three different pieces of legislation, which would just commit the federal granting agencies to political and ideological neutrality. If it's in their legislative mandates, that would make it difficult—of course, not impossible—for the agencies to go on with these explicitly politicized grants.</ParaText>
+              <ParaText id="8901428">In addition, I recommend eliminating, obviously, these explicitly EDI-focused grants. I think most people who hear about them are in agreement. Perhaps a little more controversially, I recommend removing all references to equity, diversity and inclusion from the granting agencies' websites and supporting materials because of the slippage, because calls for inclusion in a research team can move to calls for political activism so quickly.</ParaText>
+              <ParaText id="8901429">With regard to some of the things the other witnesses spoke about today—about wanting grants that, for example, study diverse populations—we can put that in granting criteria without having the language of EDI and EDI action plans transposed over all three granting agencies. We can be more targeted, more specific, about what we're looking for, and the language of EDI doesn't allow us to do that. It's so fuzzy. It enables researchers to move in any direction—and, most troublingly, in an activist direction—with their research.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139180">
+            <PersonSpeaking>
+              <Affiliation DbId="319852" Type="49">Kurt Holman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901430">Thank you.</ParaText>
+              <ParaText id="8901431">In previous testimony, we have heard stories from academics who have seen DEI policies inhibit the careers of budding academics who do not fit the DEI mould. We have also heard stories of these policies' being used to bolster the careers of established academics at the expense of young academics.</ParaText>
+              <ParaText id="8901432">What message do you think it sends to young Canadian researchers if they learn that conformity to an ideology matters more than the strength of their ideas, Dr. Snow?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139185">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901433">The most important and unfortunate message it sends is that you are going to get more research money and more prestige if you perform this type of research.</ParaText>
+              <ParaText id="8901434">I'm often dismayed to see excellent young graduate students, who could be at the frontiers of science and the social sciences, studying arcane EDI-focused language with no potential impact—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139192">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901435">I'm sorry for interrupting. The time is up.</ParaText>
+              <ParaText id="8901436">We will now proceed to MP Rana for five minutes.</ParaText>
+              <ParaText id="8901437">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139194">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana (Hamilton Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901438">Thank you very much, Madam Chair.</ParaText>
+              <ParaText id="8901439">Thank you to all the witnesses for spending their valuable time with us.</ParaText>
+              <ParaText id="8901440">I'm very glad to see you, Professor Coe, as I'm a former student of TMU.</ParaText>
+              <ParaText id="8901441">Professor Green, I'm also glad to see you as you're a civil engineer. I'm also a civil engineer. I know that a lot of work is being done in research, especially in civil engineering and transportation engineering. You also mentioned structural engineering, environmental engineering and geotechnical engineering.</ParaText>
+              <ParaText id="8901442">What benefits did you witness from any of NSERC's initiatives?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139222">
+            <PersonSpeaking>
+              <Affiliation DbId="322476" Type="28">Mark Green</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901443"> Certainly, there are great impacts for industry, Canadian knowledge and scientific excellence. There's quite a bit of discussion by social scientists about the importance of scientific research. Internationally respected research in science and engineering is flourishing in Canada. My colleagues at the University of Waterloo are doing some of the top research in those areas. They are also well supported by NSERC funds in engineering and in other physical sciences.</ParaText>
+              <ParaText id="8901444">With regard to making certain that we are supporting a wide range of highly qualified personnel, what we use for our graduate students, etc., we want to make certain that personnel reflect those who have been traditionally under-represented. There is a real challenge with having a very low proportion of women in engineering. We are trying to get 30% of women engineers by 2030. We're not going to achieve that, but that's kind of a low target. There are massive things in society that are affected by not having gender parity and other things in that workforce. That critical workforce is building almost everything that we use in our society, including tech devices.</ParaText>
+              <ParaText id="8901445">It is really important that we have these broad viewpoints with everybody in society contributing. It is important to have those elements, particularly in areas where there are women, racialized minorities and indigenous people who can see that this could be an opportunity for them. There have been marked changes by people taking some actions to change those directions and to encourage more people in those areas. In that range of things that NSERC is doing, I think it's working quite well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139229">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901446">Do you think that federal government funding the criteria will bring more women and indigenous people into civil engineering, specifically, and other similar fields? We don't see too many women in civil engineering fields.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139235">
+            <PersonSpeaking>
+              <Affiliation DbId="322476" Type="28">Mark Green</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901447">You're right. There are lower proportions of women in civil engineering, although, partly, in say, the environmental aspects of civil engineering, etc., these are areas...In our universities, we are seeing more women professors. At Waterloo, Mary Wells is the dean of engineering. Charmaine Dean is the vice-president of research. I was just at McMaster last week to welcome my colleague, Susan Tighe, who is the new president of McMaster. She received a special congratulations and invitation from Premier Doug Ford. In that message she was congratulated for everything that she's doing for Ontario in advancing science, infrastructure and civil engineering in Canada. It is incredible to see these examples, which are part of broader initiatives.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139239">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901448">Thank you.</ParaText>
+              <ParaText id="8901449">Professor Coe, what are some of the major initiatives you implemented and found very successful?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139243">
+            <PersonSpeaking>
+              <Affiliation DbId="322431" Type="28">Imogen Coe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901450">Building on what Dr. Green has said, NSERC has really raised the awareness of the fact that there is talent being left on the sidelines. That's a deficit and a cost to Canada. We want to really ensure that we are mobilizing talent, and that we're creating those inclusive cultures, deliberately and intentionally, so that we can leverage that creativity and talent.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139246">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901451">I'm sorry for interrupting, but the time is up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13141028">
+            <PersonSpeaking>
+              <Affiliation DbId="319680" Type="47">Aslam Rana</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901452">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13141042">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901453">We will now proceed to Mr. Blanchette-Joncas, for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139252">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901454">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901455">Professor Snow, you noted that the Canadian Institutes of Health Research now defines excellence as being anti-racist, anti-colonial and anti-ableist, meaning, opposed to discrimination based on disability. The Social Sciences and Humanities Research Council of Canada issues some calls for proposals that are already ideologically biased.</ParaText>
+              <ParaText id="8901456">Wouldn't this type of criterion distract from the primary mission of these organizations, which should be to fund open research, regardless of its focus?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139259">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901457"> I think that's exactly right. The Canadian Institutes of Health Research, CIHR, whose definition of research excellence includes language of inclusivity and diversity on its research excellence framework page, has that research is excellent when it's inclusive, equitable, diverse, anti-racist, anti-ableist and anti-colonial in approach and impact.</ParaText>
+              <ParaText id="8901458">Now, probably most of us would say, “I'm not ableist. I'm not racist. I'm not a colonialist,” Those are good things, but these terms in academia.... I am familiar with progressive academia. These are very specific frameworks, often unfalsifiably formed, that have a particular way of looking at the world and are not, first and foremost, about knowledge creation. They're built on particular assumptions about how society is governed and how it ought to be changed. When you adopt that as your framework for all health and medical funding across the country, you are going to necessarily discourage certain forms of knowledge creation and encourage activist research that is not designed to help us achieve better medical and health outcomes and knowledge.</ParaText>
+              <ParaText id="8901459">I heard a presentation earlier today about how we don't want to leave anyone on the sidelines. Well, this is leaving on the sidelines scholars who don't use an anti-racist, anti-ableist and anti-colonial approach in their hard science research on health and medicine. If I had one recommendation of what should go within the agencies, it would be that component of that research excellence framework from the beginning.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139265">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901460">Do you have anything to add quickly about Canada's scientific competitiveness and EDI criteria?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139271">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901461">I would just say that, in terms of how competitive these scholarships are, we would have a greater number of people able to get the grants for research excellence if we were to remove some of these EDI criteria in the grants themselves, and move the—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139277">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901462">I'm sorry for interrupting, but the time is up.</ParaText>
+              <ParaText id="8901463">We will have a quick one-minute—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139283">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901464">Madam Chair, would it be possible to ask Professor Snow for a written response to my last question, please?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139318">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901465">Thank you.</ParaText>
+              <ParaText id="8901466">If the witnesses are not able to complete their answers, they can always send written submissions. They will be incorporated as we go through the drafting of the report and will be circulated to all of the members.</ParaText>
+              <ParaText id="8901467">MP Ho, you have one minute.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139328">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho (Richmond Hill South, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901468">My question is for Professor Snow. I'm going to go back to the basics. DEI is supposed to create this fair and inclusive environment that is supposed to address injustices of marginalized groups. Do you think that it actually has the opposite effect of marginalizing those who don't adhere to a certain ideological viewpoint?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139334">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901469">Yes, absolutely. I think that especially what I call the more “activist” form of EDI has that effect. I don't doubt that, decades ago, requirements or suggestions for inclusion had the effect of bringing people in, but I think we're increasingly seeing.... You've seen witnesses this week talk about how we're excluding particular types of research with this. What I see in the EDI requirements is a narrowing, in terms of the scope of federally funded research in the areas where EDI applies, and that's really the opposite of what EDI was originally supposed to be about.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139344">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901470">It's just like every Liberal policy—achieve the opposite disastrous effect.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139350">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901471">Thank you.</ParaText>
+              <ParaText id="8901472">We will now go to MP Jaczek for a quick one-minute round.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139356">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek (Markham—Stouffville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901473">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901474">Dr. Kendall, you've heard Professor Snow and some of his criticism around EDI.</ParaText>
+              <ParaText id="8901475">Are you aware of this activist EDI agenda that is apparently there, in Professor Snow's opinion, to promote a political agenda? Have you seen any of this in the work that you've been doing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139361">
+            <PersonSpeaking>
+              <Affiliation DbId="322411" Type="28">Tamil Kendall</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901476">I must say that I don't believe that there is an activist agenda in trying to figure out how we can make our health services and our health research welcoming to populations who experience racial discrimination, ableism and a history of colonialism.</ParaText>
+              <ParaText id="8901477">I think that these structural issues are important to address and that research that addresses them moves us forward in promoting the health of all Canadians.</ParaText>
+              <ParaText id="8901478">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139367">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901479"> Thank you.</ParaText>
+              <ParaText id="8901480">MP DeRidder, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139374">
+            <PersonSpeaking>
+              <Affiliation DbId="319850" Type="47">Kelly DeRidder</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901481">Could Mr. Snow table his report on the research that he talked about today?</ParaText>
+              <ParaText id="8901482">Also, could we get a list from Mr. Snow of the academic grant title examples that he identified as activist or ideological?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139406">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901483">Mr. Snow, if you can submit those, that would be great.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139414">
+            <PersonSpeaking>
+              <Affiliation DbId="322391" Type="28">Dave Snow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901484">Those titles are in the report itself.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139420">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901485">I want to thank all of the witnesses for appearing before the committee and providing important testimony. </ParaText>
+              <ParaText id="8901486">I will suspend the meeting for a few minutes so that we can allow the witnesses for the second round to take their places. </ParaText>
+              <ParaText id="8901487">The meeting is suspended.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139443">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901488">I would like to make a few comments for the benefit of the new witnesses. Please wait until I recognize you by name before speaking. For those participating by video conference, click on the microphone icon to activate your mic and please mute yourself when you are not speaking.</ParaText>
+              <ParaText id="8901489">For those on Zoom, at the bottom of your screen you can select the appropriate channel for interpretation: floor, English or French. For those in the room, you can use the earpiece and select the desired channel. </ParaText>
+              <ParaText id="8901490">I remind you that all comments should be addressed through the chair.</ParaText>
+              <ParaText id="8901491">For this panel, I would like to welcome our witnesses. We are joined by Dr. Nadia Hasan, assistant professor, school of gender, sexuality and women’s studies, York University, by video conference. We have Professor Eric Kaufmann, University of Buckingham, appearing by video conference. A special thanks to you for joining all the way from there. We are also joined by Gad Saad, visiting scholar, Declaration of Independence Center for the Study of American Freedom, University of Mississippi, by video conference. Our fourth witness for today is Robert Thomas, president, Society for Academic Freedom and Scholarship. All of the witnesses will have five minutes for their opening remarks.</ParaText>
+              <ParaText id="8901492">We will start with Mr. Saad. </ParaText>
+              <ParaText id="8901493">The floor is yours. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139449">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad (Visiting Scholar, Declaration of Independence Center for the Study of American Freedom, University of Mississippi, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901494"> Many thanks for the invitation to participate in this important discussion.</ParaText>
+              <ParaText id="8901495">Meritocracy is the sole operative ethos when judging research excellence. Scientific quests have a singular goal: to better understand the world and its wondrous mysteries. Science is not an empathy party meant to elevate and celebrate so-called marginalized groups. The use of diversity, inclusion and equity when allocating research funds is an affront to individual dignity and to research excellence.</ParaText>
+              <ParaText id="8901496">A 2025 report by the Aristotle Foundation found that 97.5% of academic job postings at Canadian universities referenced diversity, inclusion and equity.</ParaText>
+              <ParaText id="8901497">I will discuss briefly three such examples from my chapter in <I>The War on Science</I>.</ParaText>
+              <ParaText id="8901498">The first example is that the University of Waterloo's School of Computer Science recently advertised for two open NSERC tier one Canada research chairs. I will quote their call. “Position 1, all areas of artificial intelligence. The call is open only to qualified individuals who self-identify as women, transgender, gender-fluid, non-binary, or Two-spirit.”</ParaText>
+              <ParaText id="8901499">“Position 2, all areas of computer science. The call is open only to qualified individuals who self-identify as a member of a racialized minority.”</ParaText>
+              <ParaText id="8901500">The second example, from the University of British Columbia, is for a tier one Canada research chair in oral cancer research. It reads, “the selection will be restricted to members of the following federally designated groups: people with disabilities, Indigenous people, racialized people, women, and people from minoritized gender identity groups.”</ParaText>
+              <ParaText id="8901501">The third example, from my own university, Concordia University, is that researchers there obtained a grant from the new frontiers in research fund to decolonize light. On their website, they explain, “The Decolonizing Light project explores ways and approaches to decolonize science, such as revitalizing and restoring Indigenous knowledges, and capacity building.”</ParaText>
+              <ParaText id="8901502">The “Decolonizing Light” project is congruent with the five-year strategic plan of Concordia to decolonize and to indigenize the entire curriculum and pedagogy. Apparently, science has suffered for too long from a whiteness problem.</ParaText>
+              <ParaText id="8901503">Canadian medicine has also succumbed to this parasitized ideological capture, as I discuss in my forthcoming book, <I>Suicidal Empathy</I>. The anti-racism expert working group of CanMEDS, which develops evolving training codes for physicians and surgeons in Canada, concluded, “A new model of CanMEDS would seek to centre values such as anti-oppression, anti-racism, and social justice, rather than medical expertise.”</ParaText>
+              <ParaText id="8901504">If you suffer from an aggressive cancer, it might be comforting to know that your oncologist is trained to “combat the historical and ongoing structures of racism, white supremacy, settler colonialism, heteropatriarchy, capitalism, ableism, classism, sexism, homophobia, transphobia and more.”</ParaText>
+              <ParaText id="8901505">I will end by quoting from my book, <I>The Parasitic Mind</I>:</ParaText>
+              <ParaText id="8901506">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">[S]cience is, or should be, an apolitical process. Scientific truths and natural laws exist independent of researchers’ identities. The distribution of prime numbers does not change as a function of whether the mathematician is a white heterosexual Christian man or a transgendered, Muslim,...(obese) individual. The periodic table of elements is not dependent on whether a chemist is a Latinx queer or a cisnormative Hasidic Jew. Oh, you are a non-binary bisexual chemist? Well this completely changes the atomic numbers of Carbon, Palladium, and Uranium.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8901507">Ideological activism is anathema to research excellence. Meritocracy is all that matters.</ParaText>
+              <ParaText id="8901508">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139454">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901509">Thank you, Mr. Saad.</ParaText>
+              <ParaText id="8901510">Dr. Hasan, you will have five minutes for your opening remarks. You can go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139458">
+            <PersonSpeaking>
+              <Affiliation DbId="309811" Type="28">Nadia Hasan (Assistant Professor, School of Gender, Sexuality and Women’s Studies, York University, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901511"> Thank you for inviting me to speak today.</ParaText>
+              <ParaText id="8901512">As mentioned, my name is Nadia Hasan, and I'm an assistant professor of gender, sexuality and women's studies. I'm also the director of the Islamophobia research hub at York University in Toronto. I have nearly 20 years of experience working at the intersection of academic and community-based research through non-profit organizations and post-secondary institutions.</ParaText>
+              <ParaText id="8901513">Today I want to talk about two things, first, the importance of funding research that deepens our understanding of, and helps us combat, racism, hate and discrimination in all its forms, and second, how federal funding can strengthen meaningful partnerships with community.</ParaText>
+              <ParaText id="8901514">We're having this conversation in a troubling global context. In the United States, the targeting of diversity, equity and inclusion initiatives has brought with it a dismantling of academic freedom itself. This has led to restrictions so sweeping that terms such as climate, woman, peanut allergies and safe drinking water have made their way onto banned words lists in federal agencies, according to outlets like the New York Times, the Washington Post and PEN America, which also report that this has already resulted in failed or rescinded research grants.</ParaText>
+              <ParaText id="8901515">This type of political censorship undermines democracy, limits innovation and stifles critical scholarship. It is a cautionary tale for Canada and a reminder that our federal agencies, as well as this committee, must resist these chilling trends.</ParaText>
+              <ParaText id="8901516">Let me begin with my first point, why Canada must continue to fund research that addresses racism and discrimination. The evidence is strong that diversity in research ecosystems results in more innovation and better research impact. For example, research on Black maternal health, an area that has been long ignored in the research community, uncovered systemic inequities that led to new initiatives reducing infant and maternal mortality. Indigenous-led scholarship has revealed how the devastating impacts of colonial violence, including language loss and cultural erasure, have implications for health and safety while pushing institutions towards truth-telling and action. These examples, however incomplete, show how rigorous research does more than describe problems. It has saved lives, changed systems and built paths to justice.</ParaText>
+              <ParaText id="8901517">This work is not easy, and at times it requires courage, though it should not have to. Consider the recent stabbing of a gender studies professor and students during a lecture at the University of Waterloo. The attacker admitted to deliberately targeting the class and, in his manifesto, expressed support for the gunman who livestreamed the killing of 51 people at mosques in Christchurch, New Zealand. He also referenced a massacre of 69 young people in Norway carried out in the name of xenophobic and Islamophobic ideologies.</ParaText>
+              <ParaText id="8901518">In this climate, professors in gender studies and related fields all over Canada increasingly fear for their safety. Many, including me, are now advised to avoid publicly posting our office or classroom locations and to implement safety plans and training. This is not a healthy environment for fostering intellectual curiosity, open debate or the free exchange of ideas.</ParaText>
+              <ParaText id="8901519">In my own work at the Islamophobic research hub, I strive to create methodologies that empower impacted communities. For instance, we're working with policy-makers, labour organizers and service providers in Muslim communities to study systemic barriers to the economic integration of Muslims in Canada. We're also examining the impacts of Islamophobic violence, such as the fatal attack on the Afzaal family in London, Ontario, and the Quebec City mosque shooting, on the mental health and identity of young Muslims. These projects centre community-based knowledge where lived experiences become a foundation for evidence-based change.</ParaText>
+              <ParaText id="8901520">However, this kind of research is not easy to sustain under current tri-council funding structures.</ParaText>
+              <ParaText id="8901521">This leads me to my second point Federal funding must be structured in ways that make community-academic partnerships more accessible, efficient and sustainable.</ParaText>
+              <ParaText id="8901522">Community partnerships are heavily encouraged, but the support mechanisms are often inadequate. As someone who has been both a community partner and now a university researcher, I have seen both sides of this struggle. For example, with community partners, I co-wrote a 53-page SSHRC application for a $23,000 Connections grant to focus on the experiences of Muslim women accessing shelters. We did not receive the grant, but what stayed with me was the enormous uncompensated labour I had to request from partners already overstretched in underfunded women's shelters.</ParaText>
+              <ParaText id="8901523">While SSHRC now allows salary research allowances for community partners, streamlining the application and modernizing its outdated portal are crucial to fostering meaningful partnerships.</ParaText>
+              <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
+              <ParaText id="8901524"> The bottom line is this: Canada should fund good research. It should enable partnerships and reduce barriers. It should do so without bias or political interference. At a time when academic freedom is under threat elsewhere, we have an opportunity and a responsibility to strengthen it here.</ParaText>
+              <ParaText id="8901525">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139462">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901526">Thank you.</ParaText>
+              <ParaText id="8901527"> We will now proceed to Mr. Thomas.</ParaText>
+              <ParaText id="8901528"> Mr. Thomas, you will have five minutes. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139469">
+            <PersonSpeaking>
+              <Affiliation DbId="322443" Type="28">Robert Thomas (President, Society for Academic Freedom and Scholarship)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901529"> Good afternoon. Thank you for having me speak today. </ParaText>
+              <ParaText id="8901530">My name is Robert Thomas, and I am the president of the Society for Academic Freedom and Scholarship, SAFS, which is a scholarly society founded in 1993 in Ontario to advocate for academic freedom and the merit principle in Canadian academia. I am also an academic librarian at the University of Regina, where my work focuses primarily in the humanities and social sciences.</ParaText>
+              <ParaText id="8901531">Today I would like to give arguments in support of two criteria that we believe are essential for a successful and principled national research environment. The first of these is merit-based research funding and hiring decisions in Canadian research chairs and funded research. It is important to base decisions in a way that supports and encourages the most promising and meritorious research agendas. Canada needs, for instance, the best cancer, business and political science research. What Canada does not need is research where meritocratic excellence has been eclipsed by other government policy goals, whether or not these have laudatory aims. In particular, I refer to funding and hiring decisions where identity factors such as sex, gender and race can displace the focus on the individual's work itself.</ParaText>
+              <ParaText id="8901532">SAFS provides two arguments to this point. The demographics of faculty in any particular discipline does not generally reflect the population at large and, outside of sex ratios, is not always accurately known. As an example, engineering researchers are more likely to be male than nursing researchers. Demanding that both disciplines have the same sex ratios flies in the face of reality.</ParaText>
+              <ParaText id="8901533">The other argument we make is a moral one. A scholar should be valued for his or her individual contribution. We believe that there is something dehumanizing about being funded or hired either fully or in part because of identity group factors. I will share a story about a colleague of ours, Augie, who works in sociology on the east coast. He wrote a piece in the SAFS newsletter a few years ago. He explained that he was talking to an unnamed colleague, trying to convince him of the importance of merit as a principle of academic merit. The unnamed colleague talked to Augie and said that when they were hiring him for this job, one of the things they really liked about him is that he is gay, and that would bring more diversity to the department. This did not impress Augie because, as he said in the article, he was hoping that his colleagues appreciated him as competent sociologist and not as a competent homosexual.</ParaText>
+              <ParaText id="8901534">The other point is about academic freedom and how it is affected by EDI statements in research. The point I would like to make around equity, diversity and inclusion statements is that, in our view, forcing researchers to voice support for EDI principles in their funding applications is a form of political and ideological attestation that should be considered anathema in a free society and is an extraneous criterion for funding. Some researchers may no doubt write such statements in good conscience. Others will have to outright lie or at least hide their real opinions in order to get the funding that allows them to do the work that they have passion for. Those in the middle will feign enthusiasm for a commitment to EDI that does not exist.</ParaText>
+              <ParaText id="8901535">I believe that this is detrimental because it infringes on the moral autonomy of researchers and creates a false idea of broad agreement and assent that may well not exist. Turkish American academic Timur Kuran has written much about preference falsification, where individuals falsify their beliefs due to social pressures to conform. Many other people in these groups will follow suit, falsifying their beliefs as they see the buy-in by their colleagues as proof of the widespread acceptance of the official perspective. </ParaText>
+              <ParaText id="8901536">As Kuran's research shows, buy-in can lead to grave problems as people inevitably discover that many in their circles are not true believers but, indeed, are themselves obfuscating their actual beliefs. Long-term buy-in to contentious beliefs requires that people have the moral autonomy to dissent without risking censure or career suicide. Mandating EDI statements of any kind, in our view, is unhealthy as it impinges on moral autonomy but is also self-defeating for EDI's proponents as it helps bury the arguments that need to be had for long-term acceptance.</ParaText>
+              <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
+              <ParaText id="8901537"> For these reasons, we believe that making funding decisions and hiring decisions based on identity factors and the requirement of EDI statements should not have any part in research funding criteria in Canada. </ParaText>
+              <ParaText id="8901538">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139473">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901539">Thank you.</ParaText>
+              <ParaText id="8901540">We will now proceed to Professor Kaufmann.</ParaText>
+              <ParaText id="8901541">Please go ahead. You will have five minutes for your opening remarks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139476">
+            <PersonSpeaking>
+              <Affiliation DbId="313979" Type="28">Eric Kaufmann (Professor, University of Buckingham, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901542"> Thank you.</ParaText>
+              <ParaText id="8901543">I would like to make two points [<I>Technical difficulty—Editor</I>]. The first is that there's a trade-off in excellence and equity in Canadian research. The second is that EDI is political and not morally neutral.</ParaText>
+              <ParaText id="8901544">I want to raise several concerns over aspects of research funding in Canada under the rubric of EDI. The main point I wish to make is that EDI, as practised by the research councils, reflects a political, left-wing—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139495">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901545">I'm sorry for interrupting. There is an interpretation issue. </ParaText>
+              <ParaText id="8901546">Please stop for a minute.</ParaText>
+              <ParaText id="8901547">I'll suspend the meeting for a minute because there are some interpretation issues.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139505">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901548"> I call the meeting to order.</ParaText>
+              <ParaText id="8901549">Before I ask Mr. Kaufmann to go ahead, I just want to explain to members that there are some technical issues and the interpreters will not be able to do the translation for Mr. Kaufmann. Therefore, the solution I am proposing is that, as Mr. Kaufmann has emailed us his opening remarks, he will read the opening remarks and the interpreters will read that in French. With regard to the questions from the members, the solution is that the members can ask Mr. Kaufmann questions and he can send written replies. </ParaText>
+              <ParaText id="8901550">Yes, Mr. Noormohamed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139509">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed (Vancouver Granville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901551">Madam Chair, from a timing standpoint, can you give us a sense of how late we're going to go, or what the plans—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139514">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901552">Let me start with Mr. Kaufmann and I will see what resources are available. Further, some witnesses have to leave. I will let you know.</ParaText>
+              <ParaText id="8901553">Without delay, I will ask Mr. Kaufmann to please go ahead.</ParaText>
+              <ParaText id="8901554"> You will have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139517">
+            <PersonSpeaking>
+              <Affiliation DbId="313979" Type="28">Eric Kaufmann</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901555">I wish to raise concern over several aspects of research funding in Canada that fall under the rubric of diversity, equity and inclusion, DEI.</ParaText>
+              <ParaText id="8901556">The main point I wish to make is that DEI, as practised by the research councils, reflects a left-wing world view I term “cultural socialism”. </ParaText>
+              <ParaText id="8901557">Cultural socialism consists of two tenets. The first is diversity and equity. Rather than equalizing outcomes by class, as in say Marxist socialism, outcomes should instead be equalized by race and sex, through discrimination against, say, white men.</ParaText>
+              <ParaText id="8901558">The second is inclusion. Minority groups must be protected from emotional harm, even if this requires censoring free speech and limiting the pursuit of truth. This aspect of DEI underpins what's known as “cancel culture”.</ParaText>
+              <ParaText id="8901559">DEI is political, not neutral. When I asked a representative sample of 1,500 Canadians in September 2023 whether they approve of flying the pride flag on government buildings, those who identified as left wing approved 63-24, while those who identified as right wing disapproved 74-15. Centrists also disapproved by more a more modest 42-35. The point here is that DEI questions expose wide political divides, therefore DEI is political.</ParaText>
+              <ParaText id="8901560">DEI is a dominant ethos of Canadian research funding councils, evident in both diversity statements on application forms and naked race and sex discrimination in hiring and funding calls. </ParaText>
+              <ParaText id="8901561">I'll make three points here about DEI. First, most Canadians do not support it. I found that 59% of Canadians favoured a colour-blind approach to combatting racism by treating people as individuals and trying not to see race, as against just 29% for a colour-conscious approach involving combatting racism by being made aware of race, in order to better notice inequalities. In the U.S., a majority of people, including Black and Hispanic respondents, support the Supreme Court decision banning racial preferences in university admissions. </ParaText>
+              <ParaText id="8901562">Second, DEI reduces research excellence. Richard Sander famously showed that admitting Black students to law schools with lower entrance scores correlated with those students achieving lower grades. More recently data collected for a 2024 study in the journal Nature showed that female academics had significantly lower numbers of citations than men, even when controlling for field of study and years in the profession. Black and Hispanic scholars had substantially fewer citations than whites and Asians, though the gap was not as large as for gender. This may reflect a form of societal inequality, but artificially narrowing the talent pipeline at award stage does not rectify this problem. It merely prioritizes equity over excellence.</ParaText>
+              <ParaText id="8901563">Third, DEI creates the conditions for delegitimizing research funding. Confidence in higher education in the United States has fallen from nearly 60% in 2015 to just 36% by 2024. Among Republican voters, it's gone from 56% in 2015 to 20% in 2024. </ParaText>
+              <ParaText id="8901564">In Canada trust remains higher, but it is at risk. For instance, I find just 49% of Conservatives trust social science and humanities professors compared to 69% of those supporting the Liberal, NDP and Green parties. Conservative support of 49% is still higher than the 34% trust I find among U.S. Republican voters, but this shows that once a sector becomes left-coded, it loses the confidence of Conservative voters. Consider that only a quarter of Canadian Conservative voters now trust the media and that's approaching U.S. levels, and support for established institutions such as the CBC is in sharp decline. </ParaText>
+              <ParaText id="8901565">Why isn't this recognized? Some 75% to 90% of Canadian academics, according to surveys, are on the left, with a quarter identifying as “far left”. As William Deresiewicz writes, they're therefore insulated from public opinion. This is why DEI heavily shapes grant assessment and hiring, despite being opposed by most voters.</ParaText>
+              <ParaText id="8901566">As the U.S. pattern shows, this is not sustainable. Public reaction to scenes on campus, especially since October 7, which have been informed by cultural socialism's outrider of settler colonialism, will only make this more salient. </ParaText>
+              <ParaText id="8901567">I strongly advise Canadian research councils to abandon their current focus on cultural socialism or DEI if they wish to retain public support.</ParaText>
+              <ParaText id="8901568">Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="10">(1810)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139523">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901569"> Thank you.</ParaText>
+              <ParaText id="8901570">We will now start with our round of questions.</ParaText>
+              <ParaText id="8901571">Before I go ahead, I will tell you that we have the resources available until 6:45 p.m., so we will have to end the meeting at 6:45 p.m.</ParaText>
+              <ParaText id="8901572">I'll start with Mr. Baldinelli.</ParaText>
+              <ParaText id="8901573">Mr. Baldinelli, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139527">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli (Niagara Falls—Niagara-on-the-Lake, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901574">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901575">Thank you to the witnesses for being with us this afternoon.</ParaText>
+              <ParaText id="8901576">Dr. Saad, I'll begin with you.</ParaText>
+              <ParaText id="8901577">In your book, <I>The Parasitic Mind: How Infectious Ideas Are Killing Common Sense</I>, you wrote this:</ParaText>
+              <ParaText id="8901578">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> For decades now, a set of idea pathogens, largely stemming from universities, has relentlessly assaulted science, reason, logic, freedom of thought, freedom of speech, individual liberty, and individual dignity. If we want our children and grandchildren to grow up in free societies as we have done, then we have to be assured in our principles and stand ready to defend them.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8901579">Earlier, we had Dr. Snow discuss some of his concerns. He mentioned an activist agenda having been embedding in funding applications, primarily in the social sciences and the humanities. Essentially, you're telling those looking for research grants to accept the narrative to get the funding.</ParaText>
+              <ParaText id="8901580">Should science not be about discovery and not accepting the narrative that some government bureaucrat or some university bureaucrat puts forward? Do you agree that we need change this, and how?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139531">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901581">Yes, of course, I think we should change it.</ParaText>
+              <ParaText id="8901582">The pursuit of truth is a deontological mechanism, meaning that you don't say, “I believe in truth, but...”, right? There is no consequentialist ethic when it comes to the wonder of discovery, the wonder of science, right? For example, in soccer there have only been eight countries that have won the World Cup, even though there are 200 countries that compete. Should we say that we should create more equitable outcomes? In marathon running, Ethiopia and Kenya have won most of the Boston marathons for the past 35 years. Jews have won nearly 25% of Nobel prizes, even though they make up 0.2% of the world's population. So, there are certain human endeavours that are organized along a meritocratic ethos. Science is one such endeavour. We should do away with all this diversity, inclusion and equity stuff because it harms science. I come from a very rough background. If there was ever anybody who had a victimology story, it's me, yet I stand before you, proud that I've overcome my rough childhood. I don't need the help of someone to be a dignified individual. That's what makes me meritorious. I only wish that Canada would readopt that stance.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="15">(1815)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139536">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901583">Thank you so much.</ParaText>
+              <ParaText id="8901584">Dr. Kaufmann, thank you for comments.</ParaText>
+              <ParaText id="8901585">You also appeared at committee here on November 28, 2024. You appeared at the same time as Christopher Dummitt. Some of the concerns that both of you raised were with regard to the lack of viewpoint diversity. In your testimony then, you talked about, “I would like to see the councils get ahead of this problem and move to a colour-blind merit approach.”</ParaText>
+              <ParaText id="8901586">Can you expand on that, on what you would like to see and on what recommendations you would make?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139542">
+            <PersonSpeaking>
+              <Affiliation DbId="313979" Type="28">Eric Kaufmann</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901587">There are two issues here. One is the question of meritocracy that is non-discrimination on the basis of race and sex, which we've heard a lot about. There's also a point called viewpoint diversity. I mentioned that 75% to 90% of academics in Canada, according to Chris Dummitt and Zach Patterson's survey, were on the left, so you have very few conservative voices from academia. We're seeing in the United States the implications that this has or may have for the health of the higher education sector.</ParaText>
+              <ParaText id="8901588">If you create a hostile environment for certain beliefs, such as conservatism, then you are going to essentially force those people to not go down the academic pathway, and therefore you deprive.... The social sciences and humanities in particular politicize disciplines that need viewpoint diversity in order to arrive at the correct answer. They're not going to get that viewpoint diversity, so you're going to get all kinds of research that's going to go way off track.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139545">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901589">Thank you.</ParaText>
+              <ParaText id="8901590">Mr. Thomas, the Society for Academic Freedom and Scholarship's website indicates, “Many universities have policies that are discriminatory to the extent that they favour groups of students or faculty on the basis of race, sex, etc. Such preferential treatment is unfair, is damaging to academic excellence, and stigmatizes the very groups so favoured.”</ParaText>
+              <ParaText id="8901591">How do our university systems and the tri-council agencies go about fixing that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139551">
+            <PersonSpeaking>
+              <Affiliation DbId="322443" Type="28">Robert Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901592"> I think we have to focus on merit. We have to focus on excellence and do away with the privileging of identity factors. </ParaText>
+              <ParaText id="8901593">Increasingly, within universities in Canada, there are advertisements, which you may have heard of from other witnesses, that for a particular position, you need to have a particular race—you have to be Black, you have to be indigenous or you have to be a woman—instead of focusing on an individuals' abilities to best meet the needs of that science. It's focusing on excellence and on their actual production as an individual instead of focusing on something where, by an accident of fate, they are a particular race or a particular background. </ParaText>
+              <ParaText id="8901594">People don't bring that to the table per se. That is just something they are, rather than what they focus on with their work. That excellence should be the benefit we're looking for. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139560">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901595">Thank you.</ParaText>
+              <ParaText id="8901596">MP Noormohamed, please go ahead for six minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139562">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901597">Thank you, Madam Chair. </ParaText>
+              <ParaText id="8901598">Professor Saad, I really enjoyed your book, <I>The Saad Truth about Happiness</I>. Sometimes, in this profession, I think we live in some of those times. </ParaText>
+              <ParaText id="8901599">A question came to mind and I'd love if you could share with us. </ParaText>
+              <ParaText id="8901600">Are there any empirical studies that you can cite that show that diversity initiatives actually harm the quality or objectivity of scientific research?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139566">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901601">Thank you for your kind words. It's lovely to hear that people on the committee are reading my work, so thank you for that. </ParaText>
+              <ParaText id="8901602">I don't have the citations in front of me, but there is no conceivable reason that diversity along sexual orientation or skin colour, or whether you're two-spirit or non-binary, is going to improve our capacity to map the human genome or better understand the distribution of prime numbers. Science liberates us from the shackles of our personal identities. It's an epistemological tool that democratizes our capacity to seek science. By definition, science should be free from all that stuff. </ParaText>
+              <ParaText id="8901603">If you want references, I can certainly try to whip some up for you. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139569">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901604">I would love some, because the empirical data that I have seen shows that diverse teams tend to produce more innovative and higher impact research. That's evidence. That evidence means something. </ParaText>
+              <ParaText id="8901605">I'm trying to understand what the methodological problem there would actually be. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139573">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901606">You're right that there are some metrics of diversity that improve research quality. For example, interdisciplinarity, where you're getting diverse expertise joining together to solve a problem, does lead to better outcomes. Some of the biggest and most important breakthroughs in science come at the intersection of disciplines. Interdisciplinary diversity does improve science. </ParaText>
+              <ParaText id="8901607">Whether or not I have people on my team who are exclusively homosexual or heterosexual, or self-identify as Latinx does not help me solve the distribution of prime numbers. It almost seems laughable that in the 21st century I would have to make that point. </ParaText>
+              <ParaText id="8901608">Intellectual diversity does improve science. All of the other metrics of diversity don't. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139576">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901609">A lot of what you're saying is that meritocracy should trump all. As somebody who has spent most of my life making sure people didn't identify me, promote me or put me in positions because of my religion, my name or the colour of my skin, etc., I'm a big believer in meritocracy. </ParaText>
+              <ParaText id="8901610">One of the challenges, though, that we've seen in Canada and other parts of the world is that it's much harder to measure merit in systems where access to education, funding and networks has historically been unequal. </ParaText>
+              <ParaText id="8901611">How do we overcome that, so that you are in fact getting exactly what you've said, which is the widest diversity of viewpoints such that you are able to do high quality research?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139579">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901612">Thank you. That's a great question. </ParaText>
+              <ParaText id="8901613">That's the tension—which I'm sure you're familiar with—between equality of outcomes and equality of opportunities. </ParaText>
+              <ParaText id="8901614">Any time we find that there is a lack of equality of opportunities, we should intervene and try to solve this. A hundred years ago, we didn't have women in medical schools. Today we have more women than men. A hundred years ago, most universities were populated by men. Now, at the bachelor, master and doctoral levels in the United States, women outnumber men across five racial categories. </ParaText>
+              <ParaText id="8901615">Wherever we see that there are truly systemic barriers to entry for any group, then we need to eradicate those, but that doesn't come from saying only queer people who are non-binary get to be a professor of artificial intelligence at the University of Waterloo. Imagine how insane that makes us look globally. Artificial intelligence is one of the hottest areas. Is one of the elite universities in Canada going to choose its chaired professors based on whether they are Latinx or queer?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139582">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901616"> Let's just dig into this piece. I'd love to hear from you and then Professor Kaufmann, depending on how much time I have. Are we saying that by having diverse academics, or people who are hired where those criteria also exist, that we're abandoning the merit principle? If so, have research quality outcomes actually diminished because more diverse people have entered academia?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139585">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901617">If the manner by which we've achieved diversity within those research groups stems from non-meritocratic ethos, by definition then the quality of the research goes down. I wouldn't mind if every one of my post-docs were two-spirit if they are the best people possible. If none of them are two-spirit, so be it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139591">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901618">Are you seeing that academic outcomes and research has diminished because those types of individuals who come from equity-seeking backgrounds are now producing research, or is the research quality the same, or better?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139594">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901619">I don't have the empirical evidence, but surely we can argue it philosophically, right? How could it be that the University of Waterloo is looking for chaired professors in artificial intelligence based on the gender orientation of the computer scientist?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139599">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901620">Have you seen evidence, or examples, where people have been hired to do high-quality research who are less good because diversity criteria were applied?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139606">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901621">I couldn't give personal anecdotes, because I don't use those metrics. </ParaText>
+              <ParaText id="8901622">As a matter of fact—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139612">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901623">I'm sorry for interrupting, but the time is up for Mr. Noormohamed.</ParaText>
+              <ParaText id="8901624">We will now proceed with Mr. Blanchette-Joncas, for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139617">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901625">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901626">I would like to welcome the witnesses who are with us for this important study.</ParaText>
+              <ParaText id="8901627">Professor Saad, you often talk about the growing ideological parasitic attitude of universities. When these criteria appear in federal grant applications, wouldn't that turn funding organizations into political instruments? Also, wouldn't it ultimately undermine public trust?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139622">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901628">Thank you for that question. I didn't have my interpretation device on, but I speak fluent French, so no problem.</ParaText>
+              <ParaText id="8901629">Of course, it affects the trust that the public has in us. I've sat on SSHRC committees for graduate funding where every single grant application in important fields in the social sciences is about queering this and indigenising that. How could that make sense?</ParaText>
+              <ParaText id="8901630">I teach evolutionary psychology and psychology of decision-making. What does it mean to indigenize and decolonize the study of psychology of decision-making? It's absolutely laughable. Science liberates me from my sexual orientation. It liberates me from my skin colour. That's what makes science beautiful. Of course, the trust of the public and the taxpayer is damaged when we allow these parasitic ideas to infect our university ecosystems. It's grotesque and tragic.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139625">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901631">You've worked on both sides of the border. We know that a number of American states have started to reduce the application of equity, diversity and inclusion policies or to abolish them, some even before Donald Trump's re-election. Are we already seeing a positive impact on research there?</ParaText>
+              <ParaText id="8901632">Would Canada not be shooting itself in the foot if it continued down this path?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139630">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901633">You're correct that there has been an autocorrection of all this diversity, inclusion and equity stuff in the United States. Certainly, the election of Donald Trump has accelerated that. I see no autocorrection taking place in Canada. If anything, I see the doubling down of all of the parasitic nonsense in Canada.</ParaText>
+              <ParaText id="8901634">Again, I can't cite you specific empirical studies that point one way or the other, but, again, science is a fully meritocratic thing. Nobody gives a damn about your identity markers. The best people should be doing the best science, period.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139634">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901635">In the United States, we're seeing a decline in EDI policies, while here in Canada, we're doing the opposite. Wouldn't this risk isolating our research and pushing our young researchers to where academic freedom and meritocracy remain the norm?</ParaText>
+              <ParaText id="8901636">You and Mr. Kaufmann are good examples of this brain drain.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139636">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901637">Yes. As a matter of fact, I've taken a leave from Concordia University. I am currently at the University of Mississippi at a centre that is rooted in American freedom precisely for that reason.</ParaText>
+              <ParaText id="8901638">I stopped applying for research grants and applied for a chaired professorship in 2018, because I wasn't willing to play the game of doing a diversity inclusion and equity statement. I can't be the guy who wrote the parasitic line, and then when nobody is looking play along. I've not had any research funds for seven years. I've now left for the United States precisely because of all these parasitic ideas. If you can imagine that both myself and Professor Kaufmann have left, you can imagine that many other people who should be staying in Canada will decide to go elsewhere where they can pursue their research free of identity markers.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139640">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901639">Professor Saad, a study published this year by the Aristotle Foundation for Public Policy shows that 98% of university job postings in Canada have equity, diversity and inclusion criteria that are sometimes mandatory. If ideology is already becoming a condition for hiring, by imposing the same criteria on federal grants, aren't we completely displacing the definition of scientific excellence?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139645">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901640"> As a matter of fact, I quoted this in my opening remarks: 97.5% of academic job applications have DEI as a central feature. Again, that is grotesque. I know for a fact that at one point I was applying for a renewal of my chaired professorship. I held a university-wide chair for 10 years at Concordia. When it came time to reapply, someone told me confidentially that, “Sorry, we couldn't give it to you even though you would be easily deserving of it, because it had to go to a woman.” How do you think that makes me feel? I worked for 32 years as professor, and I lose because I don't ovulate. Does that strike you as fair?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139649">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901641">In the same study, we learned that nearly one in five job offers at the University of British Columbia explicitly limits the position to a race, ethnicity or group identity. Isn't that the exact opposite of meritocracy? Isn't there a risk of seeing this logic also creep into research funding by Ottawa?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139654">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901642">Absolutely. It's not only in the research-granting process or in the job application process. Even the tenure decision has been fully parasitized by all of this nonsense. There was a professor at UBC who didn't get tenure because she hadn't published much. She then went to the human rights tribunal and argued that she is indigenous and she comes from an oral tradition, so forcing her to write things as a publication went against her culture. Imagine that this is something that the human rights tribunal actually listens to. It's unbelievable. </ParaText>
+              <ParaText id="8901643">I want to live in a bigot-free society. I come from Lebanon, where I faced a lot of bigotry. I understand what bigotry is, but the way to solve bigotry is not to impose reverse bigotry.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139657">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901644">When equity, diversity and inclusion criteria become essential, both for hiring and for funding applications, aren't we creating a closed circle where those same criteria are reinforced in the committees at the expense of the scientific value of the projects?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139662">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901645">It's a self-fulfilling prophecy. For example, professors, as Professor Kaufmann said, don't usually hire anybody who has any political position that is contrary to theirs. That's why, in some disciplines—and these studies have been done, and I can share those references with you—in the activist social sciences, you are more likely to run into a unicorn than to run into a Republican or Conservative sociologist. You're more likely to run into a horse that has wings than to run into a Republican psychologist. That's not a good thing. There are very good ideas on the left and there are very good ideas on the right, and our students would benefit from hearing the totality of ideas.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139667">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901646">A lot of researchers say they write their grant applications—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139672">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901647">Sorry, but we're a bit over time.</ParaText>
+              <ParaText id="8901648">Now we will proceed to Mr. Ho.</ParaText>
+              <ParaText id="8901649">Mr. Ho, you have five minutes. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139675">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901650">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901651">My question is for Professor Saad. It's an honour to have you here on this committee.</ParaText>
+              <ParaText id="8901652">You mentioned that DEI is an affront to individual dignity. Could you elaborate on that and whether you agree that DEI is a form of government-sponsored top-down ideology?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139682">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901653">Absolutely. What greater manifestation is there of ideological top-down stuff than DEI? I present myself to the world as Gad Saad. Part of me being Gad Saad is that I have green eyes; part of me being Gad Saad is that I come from Lebanon; part of me being Gad Saad is that I'm a certain height. I've got some merits and I've got some faults, so I am an individual, and I ask you to judge me as an individual first.</ParaText>
+              <ParaText id="8901654">The reason I love science is that when I do my science, I'm trying to discover something interesting about the world, and that phenomenon that I'm studying exists independently of my identity. That's what makes science beautiful. It liberates us from our shackles.</ParaText>
+              <ParaText id="8901655">That's what I mean when I say it's an affront to individual dignity. All of the members of this committee are worthy individuals because they are individuals. I'm Gad Saad first, and then I'm a member of a group. Nothing could be worse than to create collective tribalism in the pursuit of science.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139689">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901656">Thank you. </ParaText>
+              <ParaText id="8901657">We've seen DEI essentially replace meritocracy. This Liberal top-down ideology in federal research is, by the way, funded by taxpayers, so it's essentially a government-sponsored ideology that's being implemented in our public institutions.</ParaText>
+              <ParaText id="8901658">Do you think this has the effect of censoring academic freedoms and of being reverse-discriminatory on groups that are considered as not adhering to DEI?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139692">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901659"> It has a huge affect on censorship.</ParaText>
+              <ParaText id="8901660"> The most dangerous censorship is self-censorship. I receive thousands of emails that always say the exact same thing: “Dear Professor Saad”, and then there's a bunch of compliments, and at the end, they say, “If you decide to read this email on your show, please don't mention my name.”</ParaText>
+              <ParaText id="8901661"> The person who writes it is a post-doc, a doctoral student or a professor, all of whom are happy that I have the courage to say what I say. They would love to say it, but they know that if they do, they will lose their position in the lab, they will lose their position for funding and so on and so forth. </ParaText>
+              <ParaText id="8901662">This is not Yemen. This is not North Korea. This is not Communist China. This is happening in Canada and the United States. This is grotesque.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139697">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901663">Let's go back to basics. DEI purportedly was to create a fair, inclusive environment that's supposed to address historical marginalization, but it sounds like it's creating the opposite effect. It's unfair. It's exclusionary. Also, it's actually marginalizing those who have different viewpoints, which, again, goes against the purpose of academic research, which is the pursuit of knowledge and knowledge creation.</ParaText>
+              <ParaText id="8901664">Would you agree that this is affecting Canadians' trust in public institutions? We've seen that Canadians' lack of trust in public institutions is at an all-time low, and that's no coincidence after 10 years of Liberal top-down ideology being implemented in public institutions. </ParaText>
+              <ParaText id="8901665">Do you think it hurts our reputation globally?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="35">(1835)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139704">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901666">Of course it does, right? </ParaText>
+              <ParaText id="8901667">One of the reasons I'm thankful to have built such a large platform is that the message I share with the wider audience is one that resonates with people. When I exist in the rarified ivory tower, I'm viewed as a pariah because I don't say the things that I'm supposed to say, but in the larger audience—the trucker, the corrections officer, the police officer—they're all writing to me and saying, “Oh my God, I wish my son or daughter had you as a professor.” </ParaText>
+              <ParaText id="8901668">Being a professor is a privilege. It's a place where you can be a free thinker. The reality, though, is that it's an Orwellian and Kafkaesque world, where everybody is afraid to utter one syllable out of place lest they might be fired or somebody might find out that they don't love Justin Trudeau or that they love Donald Trump. </ParaText>
+              <ParaText id="8901669">This is not what we want in our academics. We want them to be free thinkers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139709">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901670">Yes, and this Liberal government is doubling down, it sounds like. It's actually making it even worse. </ParaText>
+              <ParaText id="8901671">What has DEI actually achieved, do you think? Has it destroyed more than it has actually built?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139715">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901672">A thousand per cent.... I could show you tons of emails where someone wrote to me saying, “I was thinking of going to academia, but I know that I am—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139723">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901673">I'm sorry. Your time is up.</ParaText>
+              <ParaText id="8901674">We will now proceed to MP Jaczek for five minutes.</ParaText>
+              <ParaText id="8901675">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139728">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901676">Thank you so much, Chair.</ParaText>
+              <ParaText id="8901677">Dr. Hasan, I would like to bring you into this conversation. You've obviously heard the other panellists in this hour, and perhaps you heard some of the earlier testimony when we started today.</ParaText>
+              <ParaText id="8901678">I would say that there has been some agreement that in the design of the study, diversity in terms of EDI is useful to the content of the research, and also, to a certain extent, that having diverse teams is of value with regard to training and new researchers and so on. </ParaText>
+              <ParaText id="8901679">A lot of the conversation today seems to be related very much to the Canada research chairs and various equity targets and so on. Do you have some thoughts on the current situation as it relates to Canada research chairs?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139733">
+            <PersonSpeaking>
+              <Affiliation DbId="309811" Type="28">Nadia Hasan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901680">I want to start off by reminding everyone that the reason why these programs have come about—regardless of how imperfect they are—is that they're trying to solve a problem, and that problem is pretty well documented. I have a list of studies I can cite, which I'm happy to submit to you. There are studies about gender biases in research funding awards. There are studies about biases against people who are racialized in research studies and about the experiences of faculty and post-doctoral fellows from marginalized communities. Studies document how there was, is and continues to be a problem of bias and prejudice in some of our funding programs in Canada, so these are coming about in the spirit of solving a problem.</ParaText>
+              <ParaText id="8901681">I'm absolutely against anything that tokenizes or would tokenize me, for example, as a south Asian Muslim woman, but I'm also against things that are performative and don't actually work. The reality is—as the research and evidence very clearly show—that diversity in research produces a better impact in research studies: it produces better innovation. It widens our epistemology, the way that we think, the way people address problems and the way we include more and more people. We're trying to address an issue of exclusion here, and a pretty serious one that is very well documented.</ParaText>
+              <ParaText id="8901682">I don't think that having Canada research chairs who are dedicated to certain areas of research is that unusual. We have focused grants on things like cancer research, AI, cancer survivorship and cannabis usage. There are so many areas where the research community decides, through various processes, some of the pressing problems of our time and how we can leverage research to try to solve them. I don't see anything wrong with Canada research chairs who are focused on specific issues. I think it's helpful to start building research communities on specific topics that require our urgent attention.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="40">(1840)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139738">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901683">Are you aware of any peer-reviewed studies that show that diversity initiatives actually harm research quality?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139743">
+            <PersonSpeaking>
+              <Affiliation DbId="309811" Type="28">Nadia Hasan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901684">I am not aware of any peer-reviewed studies that demonstrate that. In fact, I know more studies have shown the opposite. I know you've heard from Dr. Malinda Smith, who was here a few days ago to testify in front of this committee. She has done incredible work on this topic, figuring out how we understand the role of diversity in research.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139759">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901685">Thank you so much for that.</ParaText>
+              <ParaText id="8901686">Perhaps you could elaborate a little bit further on some of the benefits of actually establishing targets. Our analysts have given us some of the information as it relates to Canada research chairs. Over time, they seem to show that various groups that have been under-represented are actually increasing in numbers. Could you speak a little bit to some of those groups?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139774">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901687">I'm sorry for interrupting. The time is up.</ParaText>
+              <ParaText id="8901688">I would request, Dr. Hasan, that you please respond to that question by submitting your answer, which we will then circulate to all the members.</ParaText>
+              <ParaText id="8901689">We will end this panel with Mr. Blanchette-Joncas for two and a half minutes.</ParaText>
+              <ParaText id="8901690">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139783">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901691">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8901692">Professor Saad, when Ottawa now talks about inclusive excellence, isn't that a contradiction in terms? Isn't the concept of excellence being stripped of its scientific meaning by redefining it on ideological grounds?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139795">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901693">You're absolutely right; the terms “excellence” and “inclusion” don't belong in the same sentence.</ParaText>
+              <ParaText id="8901694">Again, some people on this panel have said that there is unequivocal evidence that supports the idea that diverse research teams lead to better outcomes. It depends how you measure diversity. </ParaText>
+              <ParaText id="8901695">As I mentioned earlier, if you measure diversity as, for example, interdisciplinarity, then that form of diversity does improve scientific outcomes, because you're getting people who have different areas of expertise joining together to solve a common problem. However, I would challenge anybody on this committee to tell me how whether I am queer or not will help me improve quantum computing. I'm open to hearing that explanation, but until you show me how my sexual orientation affects my understanding of the distribution of prime numbers, I don't think those metrics affect research excellence, and they should be made null and void.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139809">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901696">Professor Saad, wouldn't imposing ideological criteria in hiring and funding undermine Canada's international credibility by giving the image of a politicized rather than meritocratic scientific system?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139815">
+            <PersonSpeaking>
+              <Affiliation DbId="322405" Type="28">Gad Saad</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901697"> Absolutely. Many people have written to me to ask whether they should come to Canada. They have read my material and ask whether it is as bad as people say that it is.</ParaText>
+              <ParaText id="8901698"> I say that there are wonderful things in Canada. There are amazing researchers in Canada, but, yes, we are an ultra-woke country. We do suffer from stage 4 suicidal empathy. If you are white, if you are heterosexual or if you are Christian, good luck, because you're going to be behind the eight ball.</ParaText>
+              <ParaText id="8901699"> Those are not words I should ever be uttering. Anybody should be able to participate in the democratic pursuit of science.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13141092">
+            <PersonSpeaking>
+              <Affiliation DbId="320300" Type="47">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901700">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139827">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8901701">Thank you.</ParaText>
+              <ParaText id="8901702">With that, I would like to thank all four witnesses. I'm sorry about some technical issues, but thank you for joining us. I know it's almost close to midnight for Mr. Kaufmann.</ParaText>
+              <ParaText id="8901703">Before we end this, I'd like to inform all the members that next week we will not be having a meeting on Monday, as Parliament is not sitting.</ParaText>
+              <ParaText id="8901704"> The next meeting of the committee will be October 1, and we will have the Social Sciences and Humanities Research Council, the Natural Sciences and Engineering Research Council of Canada and the Canadian Institutes of Health Research appearing for one hour, as per the motion adopted on Wednesday, September 17. For the second hour, we will be having committee business.</ParaText>
+              <ParaText id="8901705">Thank you to the witnesses. Do I have consensus to adjourn the meeting?</ParaText>
+              <ParaText id="8901706">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8901707">
+                <B>The Chair:</B> The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

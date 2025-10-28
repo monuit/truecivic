@@ -1,0 +1,1808 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13143148">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Foreign Affairs and International Development</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 003</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, September 25, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 25 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Foreign Affairs and International Development</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 25, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 003</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 003</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 003</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">03</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">25</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/25 15:35:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des affaires étrangères et du développement international</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Foreign Affairs and International Development</ExtractedItem>
+    <ExtractedItem Name="Acronyme">FAAE</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Ahmed Hussen</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143151">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair (Hon. Ahmed Hussen (York South—Weston—Etobicoke, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904401"> I call this meeting to order. Welcome to meeting number three of the House of Commons Standing Committee on Foreign Affairs and International Development. </ParaText>
+              <ParaText id="8904402">Today's meeting is taking place in a hybrid format pursuant to the Standing Orders. Members are attending in person in the room and remotely using the Zoom application. </ParaText>
+              <ParaText id="8904403">Before we continue, I would like to ask all in-person participants to consult the guidelines written on the cards on the table. These measures are in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including our wonderful interpreters. You will also notice a QR code on the card, which links to a short awareness video.</ParaText>
+              <ParaText id="8904404"> I would like to make a few comments for the benefit of witnesses and members. Please wait until I recognize you by name before speaking. For those participating by video conference, click on the microphone icon to activate your mic, and please mute yourself when you are not speaking. For those on Zoom, at the bottom of your screen, you can select the appropriate channel for interpretation: floor, English or French. For those in the room, you can use the earpiece and select the desired channel. </ParaText>
+              <ParaText id="8904405">This is a reminder that all comments should be addressed through the chair. For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can, and we appreciate your patience and understanding in this regard.</ParaText>
+              <ParaText id="8904406"> Pursuant to Standing Order 106(2) and the motion adopted by the committee on Tuesday, September 23, 2025, the committee is meeting on the study of Russian incursions into Polish and Romanian airspace.</ParaText>
+              <ParaText id="8904407"> I would now like to welcome our witnesses. From the Department of Foreign Affairs, Trade and Development, we have Eric Laporte, executive director, regional security and defence relations division, and Stéphane Lessard, executive director, Europe bilateral and European Union institutions division. From the Department of National Defence, we have Ty Curran, deputy director general, international security policy.</ParaText>
+              <ParaText id="8904408"> Up to five minutes will be given for opening remarks, after which we will proceed with rounds of questions. </ParaText>
+              <ParaText id="8904409">I now invite Mr. Laporte to make an opening statement for up to five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13143177">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte (Executive Director, Regional Security and Defence Relations Division, Department of Foreign Affairs, Trade and Development)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904410"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904411">Thank you for the invitation to appear today to brief you on recent Russian airspace violations over NATO territory. It's a pleasure to do so alongside my colleagues Stéphane Lessard, executive director, northern and central Europe relations division at Global Affairs Canada, and Mr. Ty Curran, deputy director general for international security policy at the Department of National Defence.</ParaText>
+              <ParaText id="8904412">Mr. Curran and I had the honour of briefing your colleagues at the Standing Committee on National Defence last week, and we look forward to your questions.</ParaText>
+              <ParaText id="8904413">Before starting, I would like to provide some context to the recent events and speak to Canada's contributions to Euro-Atlantic security and support to Ukraine.</ParaText>
+              <ParaText id="8904414">Since September 10, we have seen an increase in airspace violations over NATO allied territory on the part of Russia. This has included multiple drones overflying Poland and Romania, as well as an airspace incursion by three Russian MiG-31 fighter jets over Estonia. We have also seen unauthorized incursions into airspace over the Copenhagen and Oslo airports by drones.</ParaText>
+              <ParaText id="8904415">While it wasn't immediately clear who was behind the flyover of Denmark's Copenhagen airport, the Danish prime minister said that Russian involvement could not be ruled out. There were some further disruptions in Denmark overnight, and there has been no attribution yet except for the Danish defence minister saying that it was a “professional actor”.</ParaText>
+              <ParaText id="8904416">Airspace violations on the part of Russia are not a new phenomenon. They have been a regular occurrence since Russia began its illegal invasion of Ukraine but accelerated in intensity and scope in 2025, including the use of drones and fighter jets.</ParaText>
+              <ParaText id="8904417">In response to the most recent incursions, NATO and the affected allies showed determination and resolve and demonstrated unparalleled allied interoperability. The recent interception of Russian drones over Poland by allied aircraft, for example, included a coordinated response involving Dutch and Polish fighter jets, a NATO early warning aircraft, an Italian air-to-air refueller and German ground-based interceptors. Similar allied coordination happens in most instances.</ParaText>
+              <ParaText id="8904418">Both Poland and Estonia invoked article 4 of the Washington treaty following the incidents. For the benefit of the committee, I would like to specify that article 4 of the Washington treaty states that allies “will consult together whenever, in the opinion of any of them, the territorial integrity, political independence or security of any of the Parties is threatened.” This is intended as a strong political signal to adversaries that a particular ally or allies feel threatened and may request assistance from other allies. This is not the same as article 5, the collective defence clause of the treaty, where an attack on one ally is considered an attack against all.</ParaText>
+              <ParaText id="8904419">Following the September 23 article 4 consultations this week, the North Atlantic Council issued a statement this week condemning Russia's reckless actions, which are escalatory, risk miscalculation and endanger lives. A North Atlantic Council statement means that it was agreed by all 32 allies to send such a message.</ParaText>
+              <ParaText id="8904420">In the statement, allies reaffirmed their unshakeable shared commitment to defending allied territory, and they confirmed that General Grynkewich, NATO's supreme allied commander, or SACEUR, has the tools and authorities he needs to ensure NATO's defence. Eastern Sentry, which was launched following the incursion into Polish airspace, adds further strength and flexibility to NATO's posture along the eastern flank.</ParaText>
+              <ParaText id="8904421">Deliberate or not, Russia's recent reckless actions are part of a dangerous pattern of cyber and hybrid activities by Russia to test and probe allied responses. I can show sabotage, disturbances to GPS, weaponization of migrants, sabotage of critical underwater infrastructure and disinformation campaigns across Europe as examples.</ParaText>
+              <ParaText id="8904422">With all of this going on, you might ask this: How is Canada protecting its allies?</ParaText>
+              <ParaText id="8904423">NATO remains a cornerstone of Canada's defence. We are contributing substantially to the alliance's core tasks and missions, including along the eastern flank. Canada's troop contributions to NATO's multinational brigade in Latvia, which we lead, has more than doubled in size since Russia's invasion of Ukraine and is growing stronger. This is a tangible demonstration of Canada's commitment to Baltic security, one which <Affiliation DbId="314774" Type="1">Prime Minister Carney</Affiliation> renewed for another three years just recently.</ParaText>
+              <ParaText id="8904424">Canada is also the third-largest contributor to NATO's mission providing security assistance and training to Ukraine, also known as NSATU.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8904425">Under our G7 presidency and in consultation with our partners, Canada is continuing to pressure Russia to end its war in Ukraine.</ParaText>
+              <ParaText id="8904426">Last summer, at the G7 summit in Kananaskis, <Affiliation DbId="314774" Type="1">Prime Minister Carney</Affiliation> announced the largest round of trade and maritime sanctions imposed by Canada since the invasion of Ukraine.</ParaText>
+              <ParaText id="8904427">In Charlevoix, in March 2025, the G7 foreign ministers also adopted the G7 Declaration on Maritime Security and Prosperity, a Canadian initiative that reaffirms the G7's steadfast commitment to helping maintain a free, open and secure maritime domain based on respect for the rule of law that strengthens international security, fosters economic prosperity and ensures environmental sustainability.</ParaText>
+              <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+              <ParaText id="8904428">As part of this initiative, Canada established a shadow fleet task force with participating G7 members, in partnership with the eight Nordic and Baltic countries.</ParaText>
+              <ParaText id="8904429">Canada is continuing to work with its close partners to coordinate additional measures against the Russian regime in order to increase the economic cost of Russia's war of aggression.</ParaText>
+              <ParaText id="8904430">Recently, on September 22, 2025, <Affiliation DbId="318629" Type="4">Minister Anand</Affiliation> met with her G7 counterparts on the sidelines of the high‑level week of the United Nations General Assembly.</ParaText>
+              <ParaText id="8904431">In a joint statement by the G7 this week, foreign ministers expressed concern about Russia's recent violations of the airspace of Estonia, Poland and Romania. These were unacceptable violations that threaten international security.</ParaText>
+              <ParaText id="8904432">The ministers reaffirmed their commitment to work together to achieve lasting peace and build a strong, independent, sovereign and prosperous Ukraine by continuing to coordinate their efforts with the United States to provide Ukraine with robust and credible security guarantees.</ParaText>
+              <ParaText id="8904433">The ministers also discussed the need to impose new economic sanctions against Russia, including taking measures against third countries that facilitate its activities.</ParaText>
+              <ParaText id="8904434">In conclusion, I can say that NATO's response to Russia's actions remains strong.</ParaText>
+              <ParaText id="8904435">NATO has taken vigorous measures to strengthen our deterrence and defence posture in response to Russia's persistent attempts to test the alliance's defences.</ParaText>
+              <ParaText id="8904436">Canada remains committed to contributing to the security of its allies, particularly on NATO's eastern flank, and to supporting Ukraine—whose security contributes to our own—in its right to defend itself against Russia's ongoing aggression.</ParaText>
+              <ParaText id="8904437">We'll keep working with our allies to rebuild Ukraine and strengthen its long‑term resilience.</ParaText>
+              <ParaText id="8904438">We're ready to answer your questions.</ParaText>
+              <ParaText id="8904439">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143214">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904440"> Thank you very much for your remarks.</ParaText>
+              <ParaText id="8904441">I now open the floor for questions.</ParaText>
+              <ParaText id="8904442">We begin with Mr. Chong. You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143216">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong (Wellington—Halton Hills North, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904443">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904444">First, I'd like to clarify with our witnesses exactly what incursions have happened over the last month. As I understand it, there were Russian drones that went into Polish and Romanian airspace. You also enumerated that Russian jets went into Estonian airspace, and it appears that there were Russian drones over Copenhagen and Oslo airports. Have there not also been incursions into Lithuanian and Latvian airspace as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143219">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904445"> Maybe I can start, and then my colleague, Mr. Curran, might have some additional details to provide.</ParaText>
+              <ParaText id="8904446">We have seen, over the course of the year, an increase in Russian airspace violation. It has increased since 2022, but certainly markedly in 2025. Since September 10, we have been tracking Polish, Romanian and Estonian incursions with fighter jets. In Denmark we have seen, and Norway also, this with drones. Again, those have not been specifically attributed to Russian activities, though the authorities in Denmark have noted that those were conducted by a very capable actor. I'm not aware of Lithuanian...or other drones, but it is quite possible.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143222">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904447">It was referred to by Secretary General Mark Rutte in his press conference of September 12, 2025, when he noted that there were airspace violations that occurred also in Latvia and Lithuania. That's why I ask. </ParaText>
+              <ParaText id="8904448">What air assets do we have in eastern Europe? I think we have some CF-18s and some Griffon helicopters as well. Is that correct? What, exactly, do we have in terms of air assets?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143232">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran (Deputy Director General, International Security Policy, Department of National Defence)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904449"> In Latvia, we currently have four Griffon helicopters that are deployed there. We previously had Chinook helicopters as well. We have transport planes that are in Prestwick, in the UK, but we do not have fighter assets that are in Europe in a deployed fashion other than, periodically, for exercises. Those are the deployed assets right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13143237">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904450">NATO announced Operation Eastern Sentry, which is predominantly an air operation. Is Canada involved with Operation Eastern Sentry? If so, how exactly and with what assets?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143244">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904451"> Thank you for the question, Mr. Chair.</ParaText>
+              <ParaText id="8904452">We're absolutely working with our NATO allies in Eastern Sentry. We have not provided forces to date, although we are looking at what could be provided. </ParaText>
+              <ParaText id="8904453">I would just add that our contribution to NATO includes also the work we do in terms of deterrence with Latvia as well as the work we do here at home with NORAD.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143247">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904454">I note that the Russian drones and fighter jets that have violated NATO airspace in some cases flew many kilometres into NATO airspace and for durations of nearly an hour. At what point do we shoot these things down?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143248">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904455">Maybe I can start. </ParaText>
+              <ParaText id="8904456">We saw on September 10 that NATO did shoot down a number of Russian drones at that time. Again, as I mentioned earlier, airspace encroachments by Russian fighter jets or drones is not a new phenomenon. I think every time they cross, a decision needs to be taken in real time by commanders on the ground and by authorities. There are also issues of wanting to ensure the safety of personnel on the ground. If you shoot something down, where is it going to land? Does it pose a threat to the civilian population, etc.?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143254">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904457">Has NATO's stance with respect to these incursions changed since the initial wave? Is kinetic action going to be a lot quicker in the future than what we saw in the last month?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143257">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904458">We saw on September 12, in response to the Polish air incursion, the setting up of Eastern Sentry, as my colleague mentioned. That's a new activity for NATO. It is looking to gather some additional capabilities and forces, including fighter aircraft, early warning systems and jamming capabilities. It will be mixing traditional capabilities and novel technologies, so this is ramping up.</ParaText>
+              <ParaText id="8904459">There is also a cost curve involved in shooting down drones, for example. Some of these are not very expensive to produce. Russia can mass-produce these. Using high-end fighter aircraft and high-end missiles to shoot those down at a cost of hundreds of thousands is—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143260">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904460">I have one last question before my time is up.</ParaText>
+              <ParaText id="8904461">Russia started these incursions a month ago and then followed up with a number of subsequent incursions. It seems to me that our deterrence is not sufficient. Are there discussions going on about increasing deterrence?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143262">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904462">Again, I would want to point out that Russian drone incursions are not a new phenomenon. They have been doing it since 2022, essentially, but the pace and scope have increased recently. Since that has happened, NATO has invoked, twice, two article 4 consultations amongst allies and as a message has launched Eastern Sentry. I would assume that there will be a greater response in the future. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143265">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904463">Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143266">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904464">Thank you. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8904465">Mrs. Fortier, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143267">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier (Ottawa—Vanier—Gloucester, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904466">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904467">I want to thank the witnesses for joining us to share their knowledge on the topic that the committee is studying today.</ParaText>
+              <ParaText id="8904468">You can imagine that Canadians, including me, are watching the current events with a certain level of trepidation. We know that the war in Ukraine is generating pressure. However, I can now see that we're venturing into territory that I find very worrying.</ParaText>
+              <ParaText id="8904469">Today, I think that we really need an update on Canada's efforts. We want to look at how we'll proceed with our allies. We also want to know how Canada will promote certain initiatives or diplomatic measures to strengthen its posture.</ParaText>
+              <ParaText id="8904470">Can you elaborate on our diplomatic measures or initiatives to strengthen NATO's collective defence posture against these recent incursions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143273">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904471">I already referred to a few diplomatic initiatives. For example, as chair of the G7, <Affiliation DbId="318629" Type="4">Minister Anand</Affiliation> brought together her counterparts for a meeting in New York this week. Obviously, she discussed the situation in Ukraine, but she also spoke about Russian incursions. The seven members of the G7, including Japan, issued a joint statement condemning Russia's actions.</ParaText>
+              <ParaText id="8904472">In addition, in response to the incidents in Poland, Global Affairs Canada summoned the Russian ambassador to Ottawa on September 10. It was a high‑level summons to condemn these actions. The goal was also to remind Russia that Canada is closely monitoring the situation and that, if it continues, there could be repercussions at home and within NATO.</ParaText>
+              <ParaText id="8904473">As always, we're continuing to look at the possibility of imposing further sanctions, for example.</ParaText>
+              <ParaText id="8904474">These are examples of diplomatic initiatives. My counterpart, Mr. Curran, may want to add something.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143281">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904475">I would add that this is why we invested in the Canadian Armed Forces to increase our anti‑aircraft capacity against drones and our deterrent effect against our adversaries.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143287">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904476">Specifically, has the government taken any bilateral measures with Poland, Romania, Lithuania or Estonia?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143292">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904477">Of course. In any case, we've had conversations with our allies, both within NATO and bilaterally. The minister spoke with some of her counterparts in the affected allied countries to reaffirm Canada's support and remind them of our presence in Europe, including Eastern Europe, where we're providing ground support.</ParaText>
+              <ParaText id="8904478">My colleague, Mr. Lessard, may have something to add.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143298">
+            <PersonSpeaking>
+              <Affiliation DbId="322671" Type="28">Stéphane Lessard (Executive Director, Europe Bilateral and European Union Institutions Division, Department of Foreign Affairs, Trade and Development)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904479">I can confirm that <Affiliation DbId="318629" Type="4">Minister Anand</Affiliation> has held discussions with her counterparts, in particular with the Polish deputy prime minister and foreign minister, Mr. Sikorski. They held talks yesterday and today in New York, where she conveyed Canada's solidarity and steadfast commitment to the security of Poland and all countries on the eastern flank.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143306">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904480">How effectively do you think that NATO has responded to these incursions? How do you measure the effectiveness of the actions taken? Should anything else be done now, given the current pressure?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143312">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904481">Thank you for the question.</ParaText>
+              <ParaText id="8904482">This is something to consider, of course. NATO's response to this situation is ongoing. For example, the Eastern Sentry military operation has been launched. However, it will take time to implement all the planned resources. We'll see how Russia reacts. </ParaText>
+              <ParaText id="8904483">Since 2022, and even since 2014, the Russians have been continuously testing the waters to gauge how NATO allies will respond. In the Baltic Sea, there have been frequent cases of sabotage involving critical infrastructure. This led NATO to launch the Baltic Sentry military operation in 2023 to increase surveillance measures. Since then, these cases of sabotage have gone down. The results weren't instantaneous. However, we hope that this will send a message to the Russians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143326">
+            <PersonSpeaking>
+              <Affiliation DbId="319696" Type="47">Hon. Mona Fortier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904484">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143328">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904485"> Thank you very much.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8904486">Thank you, Ms. Fortier.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8904487">We'll next go to Monsieur Lemire.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8904488">You have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143333">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire (Abitibi—Témiscamingue, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904489">Thank you for welcoming me to the committee.</ParaText>
+              <ParaText id="8904490">We know that there have been incidents in Poland and Romania. In Denmark, drones have been spotted on at least two nights. Reportedly, the perpetrator is an unknown professional operative. Denmark hasn't ruled out the possibility that Russia lies behind the attack. The prime minister called it the most serious attack on critical infrastructure in the country. She also said that it was part of a recent trend of drone attacks, airspace violations and cyberattacks against European airports.</ParaText>
+              <ParaText id="8904491">Denmark is obviously a strategic target because it's a founding member of NATO and a gateway to western Europe from the north. First, do you think that the drones were Russian? Can we draw a connection between this incident and the other incidents currently being discussed? Second, do you think that Denmark is being directly targeted, or that NATO is being indirectly targeted?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143344">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904492">I don't want to speak on behalf of the Danish authorities, who are currently responding to the situation. So far, they haven't said that the drones were Russian, but they have said that a skilled operative was behind the incident. Who are the skilled operatives in this field? There aren't many, so it might be Russia. However, I don't want to get ahead of the Danish authorities.</ParaText>
+              <ParaText id="8904493">In terms of whether Denmark or another entity is the target, given that drone incursions have been observed all over the place, Denmark is quite possibly not the only target.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143354">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904494"> Researchers at Université Laval pointed out that Russia is trying to learn more about the alliance's actual military capabilities. According to them, “with its incursions, [Vladimir] Putin's country wants to gather military intelligence on the type of response triggered by NATO, the capabilities used, the speed of decision making, and so on.”</ParaText>
+              <ParaText id="8904495">Do you think that Russia is testing the capabilities of this gateway or other gateways for the future?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143361">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904496">As noted, this isn't the first time that Russia has sent drones or aircraft into NATO airspace. Since 2022, there have been repeated attempts to gauge NATO's responses. The alliance responds each time with appropriate measures.</ParaText>
+              <ParaText id="8904497">Both sides are playing a game of cat and mouse, with Russia and NATO tailoring their responses to each other. On one side, we have NATO, a defensive alliance by nature, and on the other side, the Russians, who continue to enter allied territories.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143376">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904498">The Secretary‑General of the United Nations, Antonio Guterres, issued a warning about the real risk of the Ukrainian conflict spreading beyond its borders, given this latest development. Are you also concerned that this situation could spread from country to country and begin to escalate? Could it even reach our area?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143386">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904499">The risk of escalation is certainly a reality. As NATO pointed out in its statement, we don't want this type of behaviour and this risk of escalation. However, at the same time, NATO is prepared to respond if necessary. If a NATO response is requested under article 5, Canada plays a role in that response through the Washington treaty.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143392">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904500">Have you recently assessed the risk of a possible incursion into Canadian territory? Have any incursions been observed in the past few days?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143393">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904501">I'm not aware of any, but I can pass the question on to my colleague, Mr. Curran.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143396">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904502">The simple answer is no. We haven't seen any incursions here in Canada. Last year, no one entered our air defence identification zone. This zone isn't legally part of our territory. However, together with the United States and NORAD, it's our air defence zone in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13143404">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904503">Given the recent developments in at least three allied countries, have you increased your level of vigilance and surveillance of our airspace?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143406">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904504">NORAD is continuing to monitor threats to Canada and the United States. I don't know the current alert level, but air and maritime incursions that pose a threat to North America are constantly monitored.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143408">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904505">There hasn't been any increase or decrease as a result of this situation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143411">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904506">I don't have that information.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143414">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904507">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143416">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904508">Thank you, Mr. Lemire.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8904509"> We will proceed to the second round of questioning.</ParaText>
+              <ParaText id="8904510">I'll turn to MP Kramp-Neuman.</ParaText>
+              <ParaText id="8904511">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143419">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman (Hastings—Lennox and Addington—Tyendinaga, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904512">Thank you, Chair.</ParaText>
+              <ParaText id="8904513">I have a question for any one of you. Is there any thought that this may be Russian penetration testing on Baltic states for a potential breakout of the Baltic fleet out of Kaliningrad and Saint Petersburg, especially in the wake of Finland and Sweden entering NATO recently, effectively blocking the fleet from getting in?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143421">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904514">It is certainly highly likely this is probing by Russia, as we know they do, have done and will continue to do. Whether this is going as far as a breakout of the Russian fleet, I haven't seen anything to that effect.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143423">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904515"> Are you aware of what assets NATO has deployed to contain the Russian Baltic fleet?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143425">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904516">Unfortunately, I don't have the full details of NATO's disposition. What I could perhaps say is that, following the 2014 invasion and the full-scale invasion in 2022, NATO has significantly augmented the forces that are on its eastern flank from a land, air and naval point of view. Canada has contributed to all three.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143431">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904517">From NATO doctrine, where is the threshold between that of an incursion and an act of aggression?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143433">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904518"> Incursions into airspace, as I mentioned a little bit earlier, have happened a number of times since 2014. Recently the quality, length, duration and number of drones coming in has increased significantly. That said, there's a difference between a drone overflying airspace, going from point A to point B through NATO airspace into Ukraine, for example, and loitering. These are not conducting attacks per se. Most of the time, they can either be decoy drones or reconnaissance drones. Then there's a cost-benefit calculation or an escalatory calculation that is made by commanders on the ground or in the air as to whether to shoot them down or not in terms of where it is over civilian infrastructure and the cost of the missile you need to shoot this thing down, or to just let it go. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143482">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904519">Could you speak to the current status of Canada's anti-drone capacities? Are there any current procurement projects happening?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143485">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904520">Yes, we have made investments to provide both counter-air and counter-drone capabilities, particularly for our forces deployed in Latvia. These are also areas that will be part of the investment made under the increases for defence spending.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143492">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904521">Is there any indication that the nations that have had their airspace violated were targeted because of their recent rearmament campaigns?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143495">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904522">To my knowledge, all of the countries that are there have increased their defence spending significantly. However, almost all NATO allies have done that, so I don't believe it would be that. That is ultimately a hypothetical question that I don't know the answer to.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143499">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904523">As a follow-up to a question earlier, what assets does the CAF currently have deployed in the three nations that have been targeted by Russia?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143500">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904524">The majority of our forces are deployed in Latvia, which is where we have our battle group. As I have mentioned, we do have, as well, maritime assets deployed to Europe right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143504">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904525">Do they have the capacity in Latvia to respond to the drones?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143507">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904526">Yes, they do, although we continue to make investments in that regard.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143510">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904527">Have there been any requests from the nations whose airspace has recently been violated for support from Canada or any other NATO allies?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143518">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904528"> As mentioned earlier, there were two article 4 consultations in the context of NATO. There was a decision to stand up Eastern Sentry, which is a request for all allies to provide capabilities as they can. Through NATO, there have been requests for Canadian assistance. Those are being looked at and examined, but, again, our contribution at the moment in terms of the eastern flank is very much focused on Latvia.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143521">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904529">How is the Canadian government balancing deterrence without escalation?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143522">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904530"> That is basically a daily task that we and our allies are doing in terms of ensuring the safety and security of allied populations but also supporting Ukraine in its fight against Russia. Again, that is a daily—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143523">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904531">Thank you very much. </ParaText>
+              <ParaText id="8904532">We now turn to MP Oliphant.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143527">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant (Don Valley West, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904533"> Thank you, Chair.</ParaText>
+              <ParaText id="8904534">Thank you to our witnesses for being with us today. Thank you for the work you do every day in diplomacy, intelligence and our defence security.</ParaText>
+              <ParaText id="8904535">There are two areas of questioning I'd like to come into. The first area has to do with risk assessment. Obviously, we have zero tolerance for an incursion of any kind into a NATO member. That is something we've been very clear about.</ParaText>
+              <ParaText id="8904536">In terms of risk assessment, when you're looking at the other activities Russia is doing with respect to violations of our sovereignty and territorial integrity in other ways—sabotage, cyber-interference, intelligence gathering and foreign interference in our countries—how do we rate this one? I'm not minimizing it, but how do we rate it compared to cutting cables under the Baltic, destabilizing energy and all the grey-zone areas?</ParaText>
+              <ParaText id="8904537">A lot of them could be dummy drones that cause a huge distraction for us while maybe more nefarious activity is taking place. Where should this committee be drawing its attention?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143537">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904538">It's a great question.</ParaText>
+              <ParaText id="8904539">As we've seen, Russia is active in many domains. The drones or overflights have been happening for a while, but they are getting a lot of attention at the moment.</ParaText>
+              <ParaText id="8904540">The countries that have been affected by the violation of airspace of course feel very strongly that this is a violation of their sovereignty and their territorial integrity, etc., but at the end of the day, it's a drone flying through their airspace and leaving, most of the time unscathed and with no damage, whereas we know that Russia is very active on the cyber front. It has done a number of sabotage activities that have resulted in the loss of property, etc.</ParaText>
+              <ParaText id="8904541">Again, your question on the scale of things is a great one.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143548">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904542">I don't expect an answer on it, but I'm raising it because I think the committee needs to consider it. </ParaText>
+              <ParaText id="8904543">I was in Moldova in the summer and watching the level of interference from Russia in the sovereignty of Moldova in terms of its upcoming elections and the way they were using money to buy support. That seems to me to be horrendous activity in a near neighbour to our NATO neighbours. I just put it on the record that I'm looking for a threat assessment at some point and maybe we need to consider it as a committee.</ParaText>
+              <ParaText id="8904544">The second area of questioning has to do with our response. I understand that the <Affiliation DbId="318629" Type="4">minister</Affiliation> directed officials to call in the Russian ambassador to express our concern. Following up on Madam Fortier's questions, there's a range of activities, from diplomatic to <I>démarches</I>. We have 5,000 sanctions on Russia already. I forget the new number. We have a range of activities in terms of what we can do.</ParaText>
+              <ParaText id="8904545">Should our quiver be growing? Are there things we should be doing more of to express very strongly to Russia not only our displeasure but our outrage at its engagement with our NATO partners?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143561">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904546">You outlined rightly some of the steps we've taken following the September 10 incursion and highlighted our very robust sanctions regime at the moment.</ParaText>
+              <ParaText id="8904547">As I mentioned in my remarks or in response to some of the questions, those are constantly being reviewed. There is a lot of work going on now amongst G7 partners and amongst other allies for additional measures, including looking at what more can be done in oil and gas, for example, which continues to fuel Russia's war.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143572">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904548">For my last question, have we <I>démarched</I> non-NATO members to ask them to express concern to Russia with respect to the territorial integrity of a NATO...? For me, Russia's activity into NATO under article 4 with consultations, and article 5, are critical because that's our allyship. </ParaText>
+              <ParaText id="8904549">Have we gone to other non-NATO members to express that we would like them to talk to Russia and tell it to back off?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143578">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904550">We have not <I>démarched</I>, in a real sense, countries on this, but in a lot of our interactions with NATO and non-NATO allies, we have signalled our concern with the recklessness of the Russian behaviour.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143584">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904551"> Thank you very much.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8904552"> Mr. Lemire, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143588">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904553">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904554">Some researchers have pointed out that Russia is attempting to escalate the war in Ukraine through its actions in order to prevent the conflict from coming to a standstill. Do you have an opinion on this claim that Russia is trying to destabilize the Ukrainian conflict?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143594">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904555">I don't have any information on this topic. However, we've been monitoring Russia's actions since 2014. Since 2022, Russia has been trying to gain influence over other countries in the region. It seems that the whole Soviet mentality remains, meaning a desire to reclaim the eastern bloc countries that joined NATO and bring them back under Moscow's control.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143604">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904556">Poland has recently significantly increased its military capabilities. This means that Russia is very likely to target regions to identify what equipment Poland possesses, the location of this equipment and the location of munitions factories. Russia's ability to send drones to the area to gather this information is alarming.</ParaText>
+              <ParaText id="8904557">How much information do you think that Russia was able to gather about the area that it flew over? Is there a high or low likelihood that it obtained a response? Will this affect its strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143614">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904558">I don't know the direction things are taking as we speak. However, certainly Russia is taking advantage of these incursions to gather intelligence. That's one reason for our concern when incidents of this nature occur. That's why we need to strengthen our capacity to respond, if necessary.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143623">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904559">What mechanisms should be implemented to block these attempts, which could be considered espionage? Do these mechanisms currently apply to Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143625">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904560">I think that we always learn lessons when these incidents occur. As I said earlier, it's always good to invest in the Canadian Armed Forces to develop our anti‑aircraft capabilities and our capacity to fight drones.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13146661">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904561">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143630">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904562">Thank you.</ParaText>
+              <ParaText id="8904563">Next, we have MP Aboultaif for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143633">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif (Edmonton Manning, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904564">Thank you, Chair.</ParaText>
+              <ParaText id="8904565">Thanks to the witnesses for appearing before the committee today. It's not unprecedented actually, what we've seen, what Russia is doing in multiple attempts against multiple NATO members.</ParaText>
+              <ParaText id="8904566">It's funny because from the Baltics all the way to interior Europe to Romania and Poland, it seems like a type of bullying tactic in one aspect of it. Obviously, it's not unplanned. It is well planned. Maybe it's one of those campaigns to try to confuse us and to keep us busy wondering, around the 30-plus members of NATO, what we do with Russia and with Putin and his power? Unfortunately, it's an empire that survives on wars and conflicts. It's becoming our problem in the western world, in NATO and obviously across the board.</ParaText>
+              <ParaText id="8904567">Such an attempt could trigger article 5 if the Russians were too stupid and hit a target in any of these countries. We would then be facing article 5. From your knowledge, and I'm going to ask you as an expert, within the NATO constitution and what constitutes NATO members to act upon such a threat, what could trigger article 5 in this case? </ParaText>
+              <ParaText id="8904568">We know article 4 is applied because the members that were attacked, or subject to an attack, have to consult the rest of the member allies. What could trigger article 5? Shouldn't article 5 not at least be an option in front of Russia? Unfortunately, such a thing could also trigger a third world war of some kind. This is a very tricky situation. In terms of NATO, how do you see this playing out between article 4 and article 5?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143652">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904569">It's a very good question. It's worth remembering that in all of its history, NATO only invoked article 5 once and that was following the 9/11 attacks on the United States. Article 4 has been invoked nine times so far, five times by Turkey following events around its borders, a number of times by European allies following the invasion in 2022, and then of course we have Poland and Estonia this week.</ParaText>
+              <ParaText id="8904570">You asked the question, what are the triggers? The beauty of article 5 is that it's pretty clear in one way, in the treaty, that it's an armed attack against an ally. At the same time, it's also a little bit fuzzy in that it's an armed attack against an ally, but that's not defined. </ParaText>
+              <ParaText id="8904571">There are advantages of having it that way to ensure that our adversaries don't know exactly where the threshold is. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143659">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904572">Between article 4 and article 5, there's a huge space. What we don't know, we don't know, but what in terms of what we do know do you believe the NATO response was sufficient to deter and what could also be done to make sure we escalate without a huge escalation, without going to war?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143665">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904573">Do I know if it's sufficient to deter? I don't. It's speculative.</ParaText>
+              <ParaText id="8904574">That said, the messaging the alliance put out is fairly clear that collective defence is strong and that we stand by and are committed to it, so Russia should be taking heed of that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143674">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904575">Mr. Chair, if I could just add—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143675">
+            <PersonSpeaking>
+              <Affiliation DbId="320179" Type="47">Ziad Aboultaif</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904576">I would love to hear you. Go on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143676">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904577">Obviously, it's hard for us to speculate on Russian intentions in this space. What I would say is that regardless of those intentions, we've seen reinforcement of the eastern flank with Eastern Sentry, similar to what we saw after the invasion in 2014 and the full-scale invasion in 2022 with a reinforcement of NATO forces, including Canada, on the eastern flank. We've also seen Sweden and Finland join the alliance, making the alliance stronger.</ParaText>
+              <ParaText id="8904578">As these activities happen, we also adapt. As my colleague said, it's a sort of cat and mouse game, but I do think that NATO is stronger today than it was in 2022. I expect it provides a very strong deterrent effect, as part of that thinking, which of course is still speculative. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143687">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904579">Thank you very much, Mr. Aboultaif.</ParaText>
+              <ParaText id="8904580">We now to MP Anita Vandenbeld.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143689">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld (Ottawa West—Nepean, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904581"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904582">Thank you for being here to answer these questions on these vitally important topics.</ParaText>
+              <ParaText id="8904583">I'm hoping that you can put this a bit into context because we're hearing things and the public is hearing things that sound very alarming. You have said that while it's not new, there's been an escalation and there have been more incidents. If you look at this in context, going back to, say, the Cold War, are there other periods when you've seen this kind of escalation and then you've seen maybe a pulling back, or is this unprecedented? Is this something that is completely new, that we've never seen before?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143695">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904584">I would say the fact that you have Russia in an active and open war on European territory in the context of NATO being in existence is unprecedented. </ParaText>
+              <ParaText id="8904585">Russia probing allied defences and responses, I would say, is not unprecedented. We saw that throughout the Cold War, not only in Europe but also vis-à-vis North America, where the issue of having to scramble jets to escort Russians out of NATO or North American airspace was a reality. I don't think it's unprecedented in that context, but I notice that Mr. Curran has something to add.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143704">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904586">Yes, I'd just like to add that penetration by Russian military aircraft into North American air defence identification zones has certainly increased over the last couple of years, but it's also relatively regular. We expect that this is a bit of a return to pre-COVID levels, so while we've observed this increase in activity, I would just note that these flights occur regularly and are not deemed threatening as Russian military aircraft remain in international airspace and do not enter Canadian or American sovereign airspace. I would also say the vast majority of these engagements have been professional, which is different, I guess, from what we're seeing on the eastern flank.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143714">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904587"> Thank you.</ParaText>
+              <ParaText id="8904588">Can you elaborate on what you mean by “professional”?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143716">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904589">I mean it in the sense that the behaviour is standard. I'm certainly not a pilot, so I won't pretend in that space. I would say that when we talk about “safe” and “professional”, it's the aircraft behaving in a way that is predictable, that is standard and that recognizes international best practices—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143722">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904590">Okay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143725">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904591">—as opposed to, for example, someone who is behaving in an erratic manner, which could be dangerous to both parties.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143727">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904592">Are there certain incursions that you are more worried about than others? Obviously, a fighter jet is very different from a drone. Where they are doing this might differ, as well as frequencies. Is there some element in this that is raising more red flags than it normally would?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143734">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904593">Mr. Chair, I will start, and then I will invite Mr. Curran to join in.</ParaText>
+              <ParaText id="8904594">What becomes more worrisome or concerning is duration, depth and location, such as whether they are penetrating deeper into airspace, loitering or spending a lot of time, or going over critical infrastructure or civilian airspace, etc.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143744">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904595">Perhaps I'll just add that the question of whether they are armed is certainly significant. While we are concerned about intelligence gathering, we are also concerned about activities regardless of that. When we know that the aircraft or drones are armed, it increases the risk significantly of an unplanned escalation, to add to your colleague's earlier comments.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143759">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904596">Have they been armed? Do they know?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143763">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904597">Certainly, the MiG-31s that flew down that space were armed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143767">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904598">You mentioned that we have called the ambassador.</ParaText>
+              <ParaText id="8904599"> What is Russia's response to this? Is Russia taking responsibility? Are they trying to hide the fact that this is happening? What is their response?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143772">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904600"> I would say the standard Russian practice is denial. In the case of the conversation we had with the Russian ambassador here, there was a whole bunch of other theories: They were jammed, it was electronic warfare, and they were not Russia's. As Russia tends to do, it put out a smokescreen of other possibilities. They haven't denied that the MiG-31s flew in the direction that they did. They certainly say that it wasn't into anybody's airspace. Again, it's the usual pattern of Russian denial.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143779">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904601">Thank you very much.</ParaText>
+              <ParaText id="8904602">We will now go to MP Rood.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143784">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood (Middlesex—London, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904603">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8904604">Thank you very much for being here with us and providing this information.</ParaText>
+              <ParaText id="8904605">From Canada's briefings at the North Atlantic Council and Allied Air Command, what are the top three capability gaps that are exposed by these incursions?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143787">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904606">I don't know that I have a definitive list, but I would say that I think we've recognized the importance of investments in counter-drone capabilities. I think there is absolutely a need for increased air defence capability. Listing the top three, those two would certainly jump out at me right away. I think we've seen a significant increase in drone warfare as part of the war in Ukraine, which underlines the need for investments across the alliance in those capabilities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143801">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904607">Thank you.</ParaText>
+              <ParaText id="8904608">What additional Canadian contributions have allies requested from us?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143806">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904609">My understanding of the list of requirements is that it's a classified list. Perhaps I could return to you if there is an unclassified ability to provide that information.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143811">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904610"> Thank you. That would be appreciated.</ParaText>
+              <ParaText id="8904611">Did allied ISR produce indications and warnings of these overflights early enough to queue shooters? If not, what latency points produced a delay?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143815">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904612"> Given the tight geographic space between Russia and our eastern allies, while we, NATO, have the ability to track these drones or planes, their timing doesn't always leave us the ability to have forces in the air all the time, especially given the activity going on in Ukraine. We have the ability to watch that and to respond if we deem it to be a threat.</ParaText>
+              <ParaText id="8904613">I'll leave it there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143828">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904614"> Thank you.</ParaText>
+              <ParaText id="8904615">Precisely what Canadian assets have been committed or offered to reinforce NATO's eastern flank after these incursions and with what deployment timelines?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143831">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904616">At this point, we have not provided additional forces, although, as mentioned earlier, we are significant contributors to deterrence on the eastern flank as part of our contribution to Latvia.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143835">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904617">What near-term remedial action such as deployment sensors or software are being executed in the next 90 days?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143840">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904618">Unfortunately, I don't believe I have the answer to that question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143842">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904619">Okay. If you do find some information, perhaps you could send that to the committee. It might be classified, but if it's not classified, that would be helpful.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143846">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904620">I'd be happy to.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143849">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904621">Thank you.</ParaText>
+              <ParaText id="8904622">What additional authorities or resources are being requested from the department to enact the government's response?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143854">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904623">At this point, we have not made additional requests to the government there. It's part of our discussion with NATO about what sorts of capabilities Canada is able to provide, recognizing that we continue to provide support in Latvia for deterrence as well as air defence support here through NORAD.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143858">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904624">Am I close to time, Chair?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143864">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904625">You still have one minute and 20 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143867">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904626">I'll cede my time for now.</ParaText>
+              <ParaText id="8904627">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143870">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904628">Thank you very much.</ParaText>
+              <ParaText id="8904629">We will next go to MP Blair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143871">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair (Scarborough Southwest, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904630">Thank you very much, Mr. Chair. </ParaText>
+              <ParaText id="8904631">Welcome and our thanks to all of you for presenting yourselves here today.</ParaText>
+              <ParaText id="8904632">I note, Ty, you said that you didn't want to speculate on what the Russian motivation is, but I think we could speculate a little bit that they were both testing our capabilities and testing our resolve. Given the reaction, in particular by President Trump, President Zelenskyy, the EU leadership and what we've heard from Prime Minister Tusk and others most recently in response to this, I would like an assessment from all of you on what impacts this probing by Russia has had on NATO resolve. We talked about investment, so it's a matter of declaration or resolve but it's also what that can mean for the next steps.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143875">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904633">Mr. Chair, maybe I could start.</ParaText>
+              <ParaText id="8904634">I think the question of NATO resolve is pretty strong here. We had in the summer a summit amongst allies where we all agreed to increase defence spending to 5% of GDP by 2035. President Putin has always wanted NATO to go away. I think by his invading Ukraine and antagonizing European allies, he actually has created a much stronger NATO, and that's why we're agreeing to 5% of GDP for defence spending.</ParaText>
+              <ParaText id="8904635">I think the events over the past weeks will only strengthen European resolve to build the capabilities, get the capabilities to counter drones and to increase the defence capabilities. From an alliance perspective, this is a moment when allies are stepping up and will continue to do so to ensure their security going forward.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143885">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904636">Perhaps I could add to that, Mr. Chair.</ParaText>
+              <ParaText id="8904637">The question of resolve is absolutely an important one. I would say that resolve is also backed up by the concrete commitments that NATO is making to the eastern flank to provide that deterrent effect, including what Canada has done with our forces in Latvia.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143891">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904638">I would also note that the SACEUR has made it very clear that he has the existing capabilities, but we also are aware that it does require additional investment. There's also a bit of a challenge. For example, we've invested fairly significantly in surface-to-air anti-missile technologies and capabilities for our forces in Latvia, but that's a very expensive response, using a $200,000 missile to knock down a $5,000 drone. </ParaText>
+              <ParaText id="8904639">We're also seeing in the Ukraine-Russia conflict drones now having expanded capability with ranges of 3,000 kilometres and significant additional payloads. </ParaText>
+              <ParaText id="8904640">In his speech to the UNGA, President Zelenskyy indicated their willingness to share their learning and their technologies with other NATO countries. He frankly offered an invitation to those of us who want to work closely with them. I think Canada was a very early adopter in that relationship. Perhaps you could provide any update or even just an indication of our willingness to engage in such activity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143910">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904641"> You're absolutely right. The Ukrainians are at the cutting edge of drone technology and counter-drone technology, specifically because of the challenges you identified about using multi-million dollar platforms to knock down cheap, mass-produced drones.</ParaText>
+              <ParaText id="8904642">One of the things that are quite exciting is the build with Ukraine program that Ukraine announced recently. Canada is working with Ukraine to...and Canada signed a letter of intent over the summer to potentially do joint ventures with Ukraine, which would provide the ability to manufacture Ukrainian drones here in Canada, benefiting, we hope, Canadian industry as well as, eventually, the CAF.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143933">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904643">The last question I want to ask is tangentially related to the drone incursions over Poland quite recently.</ParaText>
+              <ParaText id="8904644">In June of this year, many of our very close allies in NATO, as well as Ukraine, withdrew from the Ottawa convention with respect to land mine prevention. All the Baltic states, Finland and Poland, as well as Ukraine, have now withdrawn from that convention. In my opinion, it does place our deployment in NATO—particularly in Latvia, one of the countries that has withdrawn—in a somewhat challenging relationship.</ParaText>
+              <ParaText id="8904645">How would you see Canada navigating that going forward? It's not a contradiction, but it can be a challenge for us because there are other conventions or values that we've put forward that could be challenged in how our neighbours and friends in NATO, particularly on the eastern flank with Russia, may have to respond to that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143943">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904646">Give a brief response, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143944">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904647">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904648">The threat posed by Russia has compelled a few allies to take extraordinary measures to counter Russia, including withdrawing from the Ottawa convention, which we regret. However, we remain very much wanting to work with them and to ensure their security, their safety and the safety of our personnel. I understand that there are CAF measures in place to be able to continue to work with our allies, those who have left the Ottawa convention and those that are in—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143949">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904649">Thank you very much.</ParaText>
+              <ParaText id="8904650">Next we have Mr. Lemire.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8904651">Mr. Lemire, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143950">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904652">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904653">Mr. Laporte, I would like to briefly touch on the topic broached by my colleague, Anita Vandenbeld. She spoke about how the Russian ambassador, Mr. Stepanov, was summoned by the <Affiliation DbId="318629" Type="4">Minister</Affiliation> of Foreign Affairs. We're told that Mr. Stepanov was reprimanded. Can your department describe specifically how he was reprimanded?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143956">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904654">The day after the incursion, the department of foreign affairs, trade and development asked the Russian ambassador to come in for a meeting. Our policy is to speak with Russia very rarely. The ambassador's summons already shows the seriousness of the matter. Otherwise, we don't speak with the Russian ambassador. The meeting served to draw attention to the fact that Russia's behaviour was unacceptable and that, if it continued, there could be more significant repercussions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143964">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904655">Did these discussions with the <Affiliation DbId="318629" Type="4">minister</Affiliation> include any talk of sanctions or restrictions against Russia, and how did Russia react?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143965">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904656">I should point out that the minister didn't attend the department's meeting with the Russian ambassador. Senior department officials were there. As I said, our policy is to limit communications with Russia. This time, a senior department official was appointed to express our dissatisfaction to the ambassador.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143970">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904657">Was there any talk of sanctions or restrictions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143971">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904658">This discussion simply addressed the fact that measures could be taken. The Russians are fully aware of the sanctions that we could impose. Over 3,000 individuals are already subject to sanctions. They also know about the commitment that we made at the G7 summit to enforce sanctions on Russia's shadow fleet and to work on oil‑related issues.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143983">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904659">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143992">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904660">Thank you.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8904661"> We will turn to Mr. Chong.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143993">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904662">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904663">I'd like to focus a bit on what our deterrence posture is: our deterrence posture, NORAD's and NATO's.</ParaText>
+              <ParaText id="8904664">In the last month, we've had NATO members shoot down Russian drones that violated NATO members' airspace. Clearly, there's a deterrence posture there: If the drones come in, they're going to be shot down. At the same time, NATO members did not shoot down three MiG fighter jets that entered Estonian airspace for 12 minutes, and that's a different deterrence posture from the one on drones.</ParaText>
+              <ParaText id="8904665">Yesterday, four Russian military planes entered the air defence identification zone, and Canadian and American fighter jets were scrambled—I believe four jets were scrambled—to intercept and track these four military planes. Now, I acknowledge that these Russian planes were in international airspace, that they were operating in a predictable, regular fashion and that NORAD assessed that there was no threat.</ParaText>
+              <ParaText id="8904666">What would NORAD do if those jets had crossed over from the ADIZ into either American or Canadian sovereign airspace? Would we allow them to fly for 12 minutes into our airspace, or would we shoot them down?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144001">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904667">Thank you for the question.</ParaText>
+              <ParaText id="8904668">I think we retain the sovereign capability, with our allies, to respond to aggression in our airspace, which could include shooting down a drone or a plane.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144007">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904669">Yes, but I guess it's not clear to me what our position is.</ParaText>
+              <ParaText id="8904670"> My comment is that if I don't know what our deterrence posture is with respect to Russian jets violating sovereign NATO airspace—not the ADIZ but our airspace—then the Russians aren't quite sure what our position, our posture, is either. Is there any discussion between Canada and other NATO members to clarify what our position is on Russian jets violating NATO members' airspace?</ParaText>
+              <ParaText id="8904671">It's being reported, for example, that just in the last day or so, I guess, British, French and German envoys have told Moscow that they will shoot down the jets if they violate airspace in the future, yet other members are not clear on what they would do. Poland has been pretty clear on it.</ParaText>
+              <ParaText id="8904672">What is our position? Is this an ongoing discussion between NATO capitals and at NATO headquarters in Brussels, or are we just going to muddle along until the next situation pops up? Where are we going with this?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144037">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904673">Thank you for the question.</ParaText>
+              <ParaText id="8904674">Again, I think there's always a need to look at the particular circumstances. In the case of Estonia, it's a very crowded airspace in the Gulf of Finland, which has Estonia and Finland on the other side and Russia transiting through from mainland Russia, if I can say that, to Kaliningrad. There are parts of it that are international airspace and parts of it that are the airspace over Estonia.</ParaText>
+              <ParaText id="8904675">The Russians, in the past, have often gone through or have mistakenly gone through—either deliberate or not—and a judgment call needs to be made by the commanders who are controlling the airspace and the pilots, again, in terms of what it is that is going to happen at that time, where those aircraft are, what they're doing and what the danger is to civilian populations, etc.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144074">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904676">Can I speculate on something? I speculate that if those jets off in the Alaskan ADIZ had entered into American airspace, they would have been shot down by the U.S. Air Force. That's precisely why they remained in international airspace.</ParaText>
+              <ParaText id="8904677"> The corollary of that is taking place in eastern Europe, where Russia feels that NATO doesn't have the same deterrence posture and we end up with situations like what happened in Estonian airspace recently.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144081">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904678"> Mr. Chair, I can respond.</ParaText>
+              <ParaText id="8904679">There is one slight difference I would posit. Again, whether it's in the ADIZ or the CADIZ, we're talking airspace that is very big and large, and there is lots of time to identify these aircraft coming in. There's the ability to intercept them well outside of our airspace. If we wanted to, as in the case that happens frequently, there are communications, contact and requests for them to move out. If they continue and continue, then I suspect—and you're probably speculating right—there would be some action happening.</ParaText>
+              <ParaText id="8904680">In European airspace, some of it is very tight, and you don't have that lead time to give....</ParaText>
+              <ParaText id="8904681">Again, commanders would have made the decision they did over Estonia. I think there was probably a desire not to shoot down in this instance, given what happened a few days before. They didn't want to escalate the situation more. I do think there may be instances in the future where, if that continues, the threshold for allied response will be that they're more prepared to go that way.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144089">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904682">Thank you very much.</ParaText>
+              <ParaText id="8904683">We now turn to MP Oliphant.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144091">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904684">Thank you, Chair.</ParaText>
+              <ParaText id="8904685">Thanks to you. I'll follow up a little on Mr. Chong's comment.</ParaText>
+              <ParaText id="8904686">I won't speculate about what the United States would do at any moment these days. However, I'd like to know a little more about the American response to these drone incursions into the airspace and also the response from France, Germany and the U.K. Have there been any bilateral responses from those four partners, in addition to what NATO has done through the secretary general?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144101">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904687">Thank you, Mr. Chair. I can start, and I invite Mr. Curran to add to this.</ParaText>
+              <ParaText id="8904688">I'm not going to talk about anything in the classified space, but we have seen signalling, certainly on the part of the U.S., including from President Trump, on any further incursions. He said that, under certain circumstances, he wouldn't have an issue with having allies shoot down a Russian aircraft.</ParaText>
+              <ParaText id="8904689">I'll stop there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144110">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904690">I can add to that, Mr. Chair.</ParaText>
+              <ParaText id="8904691">We have seen allies, including some of the countries that you listed, provide fighter jets and support to Eastern Sentry, which reinforces deterrence on the eastern flank.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13144112">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904692">Tell me more about Eastern Sentry again. What would that entail? What could Canada's response be to that? What asks could Canada receive on it?</ParaText>
+              <ParaText id="8904693">I know that takes some speculation, but do your best.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144115">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904694">Absolutely, thank you.</ParaText>
+              <ParaText id="8904695">Eastern Sentry is a NATO mission designed to reinforce NATO response and awareness on the eastern flank. It includes, for example, fighter jets, radar and the capability to identify, as well as the support that is around that. In addition, as a mission it includes headquarters capability, exploitation and that sort of thing.</ParaText>
+              <ParaText id="8904696">In terms of Canada's contribution to that, as I mentioned previously, Canada has not, so far, provided additional capability to Eastern Sentry, although we do continue to look at that. I would just highlight that our support to overall deterrence on the eastern flank is quite high, given the forces that we deploy to Latvia. We continue to maintain a deterrence posture here in Canada and in North America as part of NORAD.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144124">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904697">Proudly so.</ParaText>
+              <ParaText id="8904698">Most of our attention on this tends to go to the Baltic. We tend to look at that body of water. I want to just move us a little to the Black Sea. I'm wondering what we are seeing and responding to. That's Romania and Bulgaria. There is activity in the Black Sea. There are mining operations. There are a number of things going on with respect to the Black Sea.</ParaText>
+              <ParaText id="8904699">Could you give us a little intelligence or a thought—“small i” intelligence—about what Russia's activities are on that side of the continent?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144128">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904700">I can start, Mr. Chair.</ParaText>
+              <ParaText id="8904701">Obviously, we've seen, again, drone airspace violations over Romania. There's certainly, by the Danube, an area where drones will often overfly to strike into Ukraine.</ParaText>
+              <ParaText id="8904702">In the Black Sea itself, yes, there is activity, but I would posit that throughout the course of the war, Ukraine has frankly done a very amazing job at neutralizing the Russian Black Sea fleet, moving it out of Sevastopol, further west. It was for Ukraine's protection, to be out of harm's way from maritime UAVs but also from ground-based missile attacks, as we saw when they sank the <I>Moskva</I>. We've also seen, from open-source reporting, that maritime-based drones are hitting maritime oil ports or off-loading sites again. It is very much an active theatre.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144142">
+            <PersonSpeaking>
+              <Affiliation DbId="319694" Type="47">Hon. Robert Oliphant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904703"> In closing, Mr. Putin has probably been caught off guard that NATO is stronger than it was before, as opposed to weaker. Sweden and Finland joining has added capacity. I've often said to both countries that we've gained more from their joining NATO than they have gained, in some senses, because of their huge military capacity.</ParaText>
+              <ParaText id="8904704">I would also say that we have things to learn from Ukraine. We have done training in Ukraine, but from that training, they have continued to add capacity that NATO will need in the future. I hope our government will keep that door open to learn from Ukraine.</ParaText>
+              <ParaText id="8904705">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144145">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904706">Unfortunately, we've run out of time.</ParaText>
+              <ParaText id="8904707">We'll go to the next member of Parliament, Madam Rood.</ParaText>
+              <ParaText id="8904708">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144147">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904709">Thank you very much, Chair.</ParaText>
+              <ParaText id="8904710">How have Russian officials responded to the concerns Canadian officials have raised in relation to airspace violations and other destabilizing tactics?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144149">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904711">As I mentioned earlier, during the conversations with the ambassador of Russia, there were a number of reasons or excuses. One, it didn't happen. Two, it's not Russia's fault; these things might have been jammed or it was accidental. We've seen, even in a lot of public discourse on the part of Russian officials, the denial of intent for these actions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144154">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904712">Thank you very much.</ParaText>
+              <ParaText id="8904713">What is the Government of Canada's assessment of Russia's use of destabilizing tactics, including sabotage, as well as malicious electronic and cyber-activities?</ParaText>
+              <ParaText id="8904714">Can you answer that one first?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144157">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904715">We mentioned earlier that Russia is indeed engaged on all of these fronts, versus allies and versus Canada, certainly in the cyber realm. In the disinformation realm, though, there are some other actors that are probably more active in Canada than that.</ParaText>
+              <ParaText id="8904716">It is something we are actively watching and working with our allies and partners to counter where we can.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144162">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904717">Have we seen an increase in the use of propaganda and disinformation in Russian-language media, both in Canada and abroad? If so, what strategies are being employed to mitigate this? Is it happening in official-language media?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144170">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904718">Unfortunately, I don't have that information. That is not my area of expertise.</ParaText>
+              <ParaText id="8904719">I can say that, within Global Affairs Canada, there's a section called the G7 rapid response mechanism that has been launched by Canada as part of the G7 entity. It has the G7 countries as well as NATO and EU organizations involved, and it monitors disinformation and seeks to redress that. It also looks at election monitoring issues.</ParaText>
+              <ParaText id="8904720">I'm not familiar with the details of its work, but there is an active element of the department that looks at that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144176">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904721">Thank you very much.</ParaText>
+              <ParaText id="8904722">What specific threshold duration, altitude, payload or proximity to critical sites would allied air forces be authorized to engage in without further political clearance?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144179">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904723">I don't have that information.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144182">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904724">Is that something that could be provided if it's not classified?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144183">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904725">Certainly. If the answer is not classified, we can provide that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144186">
+            <PersonSpeaking>
+              <Affiliation DbId="320176" Type="47">Lianne Rood</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904726">Thank you.</ParaText>
+              <ParaText id="8904727">I'm going to cede the rest of my time to MP Kramp-Neuman.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144189">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904728">I have a couple of high-level questions.</ParaText>
+              <ParaText id="8904729">Are there any lessons that Canada could draw from with regard to these incidents to protect our own critical infrastructure against drone incursions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144191">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904730">Absolutely. Both in this situation and from what we've seen in the general war in Ukraine, there's a strong likelihood that this will be a major part of future conflicts.</ParaText>
+              <ParaText id="8904731">In addition, as we've seen in Denmark, there are risks outside of the conflict areas. It speaks to the ability to respond from a counter-UAV point of view, both in a direct kinetic way and a strike point of view, but also in terms of jamming, countering drones and UAVs and that sort of thing, and radars that can detect threats of this nature.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144195">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904732">Thank you.</ParaText>
+              <ParaText id="8904733">Lastly, in the interest of time, what message does it send to both allies and adversaries if violations of sovereign airspace are tolerated without meaningful consequences?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144200">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904734"> I would say, in this instance, that there have been consequences. In the first instance, at least in the case of the Polish airspace, a number of drones were shot down. Secondly, you had NATO allies invoke article 4 twice in the span of a week and had a North Atlantic Council statement—which means that it was agreed to by all 32 members—that was very strong in condemning Russian behaviour and actions, and then the setting up of a new operation or mission in Eastern Sentry. Yes, some of that will take a bit of time to ramp up, but that does signal, frankly, a fairly robust and rapid response on the part of NATO.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144211">
+            <PersonSpeaking>
+              <Affiliation DbId="320177" Type="47">Shelby Kramp-Neuman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904735">Thank you.</ParaText>
+              <ParaText id="8904736">Perhaps, just as one last question, how long does it take to detect and intercept drones that cross into allied airspace?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144214">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904737">Give a brief response, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144219">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904738">I don't have the technical knowledge for that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144220">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904739">Neither do I, but I would just add that allies maintain the capability to respond.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13145502">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904740">Thank you very much. </ParaText>
+              <ParaText id="8904741">We move to MP Vandenbeld next. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144223">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904742">Thank you very much. I'm very pleased that I can get another round.</ParaText>
+              <ParaText id="8904743">I'd just like to follow up on what your answers were before, about the fact that Russia is not claiming these operations. In particular, when you're looking at the ones that we're not certain of, like the airports, why would they be targeting something like the Copenhagen airport? What is the strategic interest? What message would they be sending? </ParaText>
+              <ParaText id="8904744">Then, what would be the purpose in their denying that it was them?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144231">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904745"> Again, I'm speculating. I don't know motive, but you could easily see that doing so is intended to cause a disruption and sow fear amongst the population. Denying it also then obfuscates who it is and, just simply, adds more questions. This is part of the Russian narrative in the hybrid context, where it's below clear thresholds of conflict and the activities are simply intended to distract, sow fear, etc.</ParaText>
+              <ParaText id="8904746">Maybe my colleague has a few other suggestions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144250">
+            <PersonSpeaking>
+              <Affiliation DbId="322671" Type="28">Stéphane Lessard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904747"> An observation various experts have made is that this is part of the so-called hybrid types of measures for which Russia has a large tool kit it uses. In the context of these measures, they have done things that can inflict psychological pressure on populations and governments. It's part of the destabilization efforts, which take many forms. This overflying of airports, for example, is disruptive, but it also destabilizes a government's response and understanding of what's going on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144263">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904748">The fact that they are trying to leave some doubt as to the origin of these incursions, does this then make it more difficult to take retaliatory or responsive measures, or is it the opposite? </ParaText>
+              <ParaText id="8904749">Is it that, if they did claim it, it would actually require greater retaliatory measures because it would be a much more aggressive act if it were not denied?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144275">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904750"> Certainly, on the latter point, if they openly declared that this was theirs, then it forces a much more rapid response, whereas denying it leaves it out there and allows them, again, to see how a government or the alliance responds to these challenges.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144280">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904751">Earlier in your....</ParaText>
+              <ParaText id="8904752">I'm sorry. Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144282">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904753">I'm sorry, but could I just add to that? </ParaText>
+              <ParaText id="8904754">Regardless of whether these incidents are claimed, I think there's a clear understanding that there are escalatory activities happening here, hence why these deterrent responses are being augmented.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144287">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904755">I would also add this, if I may. Certainly, the Danish and Norwegian authorities and allies, after these things happen, will do the investigation, follow through and, eventually, come to a more solid conclusion as to what happened. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144290">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904756"> You said in the very beginning that there were a number of European countries that responded. I can't remember which incursion that was. You mentioned the Netherlands and Italy. </ParaText>
+              <ParaText id="8904757">How is that coordinated, and how quickly can these nations come together and respond in real time?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144297">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904758">As part of a NATO response, we also have what's called air-policing missions. They're our allies. Canada has contributed in the past. In the case of Poland, I believe that they were Italian fighter jets that participated as well as some from the Netherlands, who were conducting air-policing missions. That's part of our overall response.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144299">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904759">I was going to say the exact same thing about Baltic air policing, but NATO also conducts air policing in other areas along the eastern flank, the Adriatic, western Balkans, Iceland and Benelux, where allies take a two- or four-month tour or so and deploy to different bases. They are then responsible for airspace coverage in those countries.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144305">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904760">You said that Canada participates in this. Had it been Canadians who were policing that particular area, would it be conceivable that it would have been Canadians who would have intercepted?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144308">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904761">We have previously participated in air-policing missions in Romania, Latvia and Iceland. We weren't participating at this particular moment, but, yes, had it been us we could have been responsible.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13144312">
+            <PersonSpeaking>
+              <Affiliation DbId="319693" Type="47">Anita Vandenbeld</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904762">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144315">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904763">Thank you.</ParaText>
+              <ParaText id="8904764">Next we have MP Lemire for two and a half minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13144317">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904765"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904766">Mr. Curran, I would like to hear your thoughts on drone capabilities. Have we designed drones that can fly for long periods in northern conditions, such as the conditions in the Arctic and Canada's Far North?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144323">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904767">Drones can certainly do this. Some Canadian industries produce this type of long‑range drone, which can help with logistics and so on. For example, the RQ‑8 drone can do this quite well.</ParaText>
+              <ParaText id="8904768">Perhaps my colleague would like to chime in.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144331">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904769">I just want to point out that the Canadian Armed Forces are in the process of acquiring long‑range RQ‑8 drones. I believe that they have already signed a contract. These are American drones, but they're specifically designed to help with surveillance in the Arctic.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144338">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904770">Are these drones armed?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144342">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904771">That I don't know.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144344">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904772">In 2022, the Royal Canadian Air Force discussed potential issues for drones given the ice, temperature and satellite coverage limitations in these areas. Have we improved our satellite infrastructure, for example, and the ability of these drones to survive in winter conditions? Battery charging time is an issue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144346">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904773">Unless my colleague has anything to add, I'm not aware of the issue concerning satellite coverage. I do know that, in addition to the RQ‑8 drones indeed adapted for winter use, the Canadian Armed Forces are also acquiring P‑8 Poseidon long‑range and long‑endurance maritime patrol aircraft to conduct surveillance in the Arctic.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144354">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904774">You said that the drones would be American. Has there been any effort to see whether Canadian technology could be used and whether these drones could be produced by Canada? Obviously, given the somewhat tense, shall we say, diplomatic situation with the Americans, could possessing this data pose a problem in the medium or long term?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144361">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904775">I can't tell you whether any Canadian companies have been approached.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144363">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904776">Thank you, Mr. Laporte.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144365">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904777">Thank you.</ParaText>
+              <ParaText id="8904778">Next, we have MP Chong for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144368">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904779"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8904780">I'd like to go back to talk about the NATO response in our deterrence. In recent weeks, the sheer volume of Russian threats has been head spinning. It's hard to keep track. We've had the drones over Polish and Romanian airspace. We've had Russian MiG fighter jets violate Estonian airspace. We've had a Russian aircraft buzzing a German naval vessel in the Baltic Sea. We've had, reportedly, Russian drones over airports in Oslo and Copenhagen. Just recently, in recent hours, they were reported over other airports in the region as well.</ParaText>
+              <ParaText id="8904781">That comes on the heels, as Mr. Oliphant has mentioned, of the severing of communication cables in the Baltic Sea for the Baltic states and Finland. Norway recently said that Russian hackers broke into the controls for a Norwegian dam, opening up the sluices for fours hours before the Norwegians could get control of it. The Russians are messing around with foreign interference here in North America and in European states.</ParaText>
+              <ParaText id="8904782">When I look at NATO's response, frankly, it seems less than coherent and comprehensive. I don't understand what our deterrence posture is with these repeated incursions into NATO airspace, and I'm not alone. I just looked at some of the headlines today. CBC's headline is “Putin is poking NATO with drones and jets. The military alliance is still sorting out its response”. CNN's headline today is “NATO divided on how to respond to repeated Russian incursions”.</ParaText>
+              <ParaText id="8904783">We are a senior and founding member of the NATO alliance. What are we doing to sort out our position on these incursions and re-establish a posture of deterrence?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144394">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904784">As we highlighted previously, again, these incursions, I agree, are egregious and reckless, and that is how the 32 allies have qualified them publicly. They've signalled that through two article 4 consultations and a North Atlantic Council statement, and are in the process of establishing a number of new measures called Eastern Sentry.</ParaText>
+              <ParaText id="8904785">As I mentioned earlier, we've seen, in the past, a number of incidents involving critical underwater infrastructure. The alliance did set up a Baltic Sentry, and we've seen a drop from that.</ParaText>
+              <ParaText id="8904786">We're still in the early days in the response. The SACEUR has already said that he has the tools and authorities he needs. He just needs some more assets, and allies are providing those. The challenge is that NATO, as an organization, is frankly very much heavy on the conventional side. It does do work on cyber and it does do work on hybrid, but some of the response options in some of those domains are not within NATO's remit.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13144414">
+            <PersonSpeaking>
+              <Affiliation DbId="320657" Type="40">Hon. Michael Chong</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904787">Off the top of my head, from my recollection, about a decade ago, a NATO member did shoot down a Russian fighter jet that violated NATO airspace, and the Russians accepted that. They were upset, obviously, but they tacitly acknowledged that they had violated that NATO member's airspace.</ParaText>
+              <ParaText id="8904788">Again, there doesn't seem to be a consistent response across the alliance to these violations of our airspace. It's hard to establish deterrence when the posture is not clear.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144420">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904789">I'm fully aware of the Turkish shoot down of a Russian aircraft in the past. The context is different at the moment. There's a hot war going on in Ukraine. The commanders and the alliance will determine in due course what it needs to do if and when it needs to do it.</ParaText>
+              <ParaText id="8904790">Having the Estonian airspace violation, for example, occur simply a few days after an initial article 4 consultation could probably have been seen as very escalatory. The authorities decided not to shoot it down. I don't know. I'm speculating. I shouldn't be speculating, but I'm speculating. However, looking forward, the allies have since come out very strongly in reaffirming collective defence and reaffirming their desire to ensure allied defence and territorial defence.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144431">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904791"> Thank you very much.</ParaText>
+              <ParaText id="8904792">We will turn next to MP Bill Blair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144433">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904793">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8904794">I will follow up, briefly, on Mr. Chong's comments.</ParaText>
+              <ParaText id="8904795">I'm aware that the NATO response will be determined by NATO command and by the SACEUR, based on our capabilities. I'm pretty confident, personally, that this conversation is taking place right now. Even though the media is very anxious for it, I would expect and anticipate that there might be a reluctance to start making the declaration of red lines for NATO. I think it will be a thoughtful and nuanced response, but I have great confidence in that command and the SACEUR to respond. I think it is important that we be patient and let them work it out, because clearly the Russians are probing.</ParaText>
+              <ParaText id="8904796">There is something else, though, that has changed fairly significantly in the past two weeks. We've seen, from the United States and the President of the United States, first of all, a declaration that he was considering imposing tariffs on those countries that were purchasing Russian energy. That has a very significant impact on their capacity to continue to build up their military. The threat of those tariffs can also have some implications for Canada. We're also working in other trade relationships with some of those very countries. I think that if you have any kind of assessment on what the impact of that might be, it would be interesting to us.</ParaText>
+              <ParaText id="8904797">Also, in his speech at UNGA, the President of the United States indicated, just this week, a very significant change in their initial posture. He has now declared that he supports the restoration of Ukraine's original territorial integrity, and the restoration of all territories that have been seized and occupied by Russia. That's a very significant change. I think it is something for NATO to contemplate.</ParaText>
+              <ParaText id="8904798">I wondered if our <Affiliation DbId="317950" Type="2">foreign affairs minister</Affiliation> and our government have determined what the appropriate response would be to that change in posture that is being articulated by the President.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144448">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904799"> Thank you for the question.</ParaText>
+              <ParaText id="8904800">You are correct in highlighting that the President of the United States has gone out publicly with a very significant change.</ParaText>
+              <ParaText id="8904801">We certainly will continue to work very closely with the U.S. in terms of trying to arrive at a peaceful solution in Ukraine. We have been working with them very closely on that, although we have seen the response from Russia, even following President Putin's meeting with President Trump in Alaska, has been escalation upon escalation. Clearly, the Russians are not seemingly ready to engage in a meaningful conversation.</ParaText>
+              <ParaText id="8904802">There is certainly a conversation amongst allies—the G7—on how we can increase pressure on Russia. We recognize that sanctions have been in place in coordination with other partners. They are having an impact on the Russian economy. Russia is starting to show some strains. Inflation is high. It's difficult for it to purchase...and it has to rely on other partners for a number of items.</ParaText>
+              <ParaText id="8904803">We recognize that oil and gas continue to be an important source of revenue for the Russian economy. That is why we are looking at other options, under our G7 presidency, to reduce Russia's oil revenues. In the long term, we know that the sanctions are causing a persistent diversion of resources for Russia. It is damaging its growth potential.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144469">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904804">Perhaps, Mr. Chair, I'll add that, when we look at the basket of options for a response in these situations, our support for Ukraine is part of that equation. We certainly welcome any partners who are increasing that support, and I do think the military assistance that Canada has provided is part of the response that we are able to provide in these situations.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144475">
+            <PersonSpeaking>
+              <Affiliation DbId="319697" Type="47">Hon. Bill Blair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904805">Thank you very much for that.</ParaText>
+              <ParaText id="8904806">I appreciate that there has been a very significant change in posture from the United States, and it will take some time.</ParaText>
+              <ParaText id="8904807"> This is the last thing I wanted to ask. NATO has long declared that it will defend every square foot of NATO territory. In that defence, I think there has to be an acknowledgement that, for example, if a jet flew over Estonia for some period of time, NATO's ability to respond...because the NATO response jets would not all be stationed at the Estonian border but rather further back from that. It would take extra time to detect the threat and then to respond. If the Russians only came in for 12 minutes and then turned around and fled, NATO may not necessarily do that. However, there are a number of ways—and I think they have been declared—in which we would respond.</ParaText>
+              <ParaText id="8904808">On that capability, I think it would be very helpful if you were able to provide us with some insight as to how long it would take to respond. By the way, I think this is somewhat related to the withdrawal from the Ottawa convention, because our NATO allies, particularly on that eastern border with Russia, have become very concerned about slowing down any potential incursion.</ParaText>
+              <ParaText id="8904809">I think the time of response is relevant, and perhaps you could provide us with some insight on what the limitations of that might be.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144488">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904810"> Thank you for the question.</ParaText>
+              <ParaText id="8904811">Certainly, NATO response times would be classified. That is potentially part of the information the Russians are seeking to determine. I guess the unclassed answer in this space would be that NATO maintains a robust capability to respond. </ParaText>
+              <ParaText id="8904812">To the previous questions today about how that response should happen, I think that's something that is maintained by commanders, but the ability to respond remains and is being augmented in response to these incursions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144494">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904813">Thank you very much.</ParaText>
+              <ParaText id="8904814">That brings us to the conclusion of the fourth round of questioning.</ParaText>
+              <ParaText id="8904815">If members have additional questions, now is the opportunity to ask them.</ParaText>
+              <ParaText id="8904816">Monsieur Lemire, go ahead. You can ask one or two questions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13144497">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904817">Thank you.</ParaText>
+              <ParaText id="8904818">Mr. Curran, do you have any information on Russia's capabilities in terms of drones and fighter jets, particularly in winter conditions? Does Russia have more advanced capabilities in this area than Canada? Does Russia have technology adapted to northern conditions? You said earlier that we're developing this type of technology. What about Russia?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144503">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904819">Good question.</ParaText>
+              <ParaText id="8904820">Clearly, Russia has developed its drone capabilities during the war in Ukraine. For this reason, we're working with Ukraine to learn from its experiences and increase the response capabilities of the Canadian Armed Forces. We're also encouraging our industry to work with Ukrainian manufacturers to develop its capabilities. We can all benefit from this.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144512">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904821">What about the northern aspect? Of course, Ukraine has winters, but they're less harsh than ours. Do you have any data on the winter aspect in particular?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144518">
+            <PersonSpeaking>
+              <Affiliation DbId="300317" Type="28">Ty Curran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904822">We're also working with our allies in the Arctic. This is an opportunity for Canadian industry, but also for the industry of our allies. This isn't just a climate issue, by the way. There are also electronic countermeasures and hunting, for example. We're trying to learn from these different aspects in order to develop our capabilities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144527">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904823">The invasions discussed today have received extensive media coverage in Europe and America. What about Russia? How has the Russian media described these incidents? Has there been any media coverage, or has the topic been avoided? Has the Russian government engaged in any form of propaganda on this matter?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144534">
+            <PersonSpeaking>
+              <Affiliation DbId="322582" Type="28">Eric Laporte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904824">In Russia, the war in Ukraine isn't a war, but a special military operation. We know that few media outlets report on developments in this area. When it comes to the specific incidents reported in recent weeks, I must admit that I don't know how the Russian press is covering them at the moment. I wouldn't be surprised to find little coverage.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144542">
+            <PersonSpeaking>
+              <Affiliation DbId="320371" Type="49">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904825">Thank you.</ParaText>
+              <ParaText id="8904826">Thank you, Mr. Chair</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144545">
+            <PersonSpeaking>
+              <Affiliation DbId="320656" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904827">Thank you very much.</ParaText>
+              <ParaText id="8904828">To the officials, thank you for your testimony and for appearing for this study.</ParaText>
+              <ParaText id="8904829">Is it the will of the committee to adjourn the meeting?</ParaText>
+              <ParaText id="8904830">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8904831">
+                <B>The Chair:</B> Thank you. The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

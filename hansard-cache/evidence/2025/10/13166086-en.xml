@@ -1,0 +1,1615 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13166086">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Finance</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, October 8, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 8 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Finance</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 8, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">08</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/08 16:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des finances</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Finance</ExtractedItem>
+    <ExtractedItem Name="Acronyme">FINA</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Karina Gould</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166089">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair (Hon. Karina Gould (Burlington, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929421"> I call this meeting to order.</ParaText>
+              <ParaText id="8929422">Good afternoon, folks. Welcome to meeting number six of the House of Commons Standing Committee on Finance.</ParaText>
+              <ParaText id="8929423">Before we begin, I would ask all in-person participants to read the guidelines written on the updated cards on the table. These measures are in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including the interpreters. You will also notice a QR code on the card, which links to a short awareness video.</ParaText>
+              <ParaText id="8929424">Today's meeting is taking place in a hybrid format, so I would like to remind participants of the following points.</ParaText>
+              <ParaText id="8929425">Before speaking, please wait until I recognize you. For those participating by video conference over Zoom, click on the microphone icon to activate your mic, and please mute your microphone when you are not speaking. At the bottom of your screen, you can select the appropriate channel for interpretation—floor, English or French. Those in the room can use the earpiece to select the desired channel.</ParaText>
+              <ParaText id="8929426">For members participating in person or via Zoom, please raise your hand if you wish to speak. The committee clerks and I will do the best we can to maintain a consolidated speaking order.</ParaText>
+              <ParaText id="8929427">I remind you that all comments should be addressed through the chair.</ParaText>
+              <ParaText id="8929428">Pursuant to the order of reference of Thursday, June 12, and the motion adopted on September 22, the committee shall resume consideration of Bill <Document DbId="13539746" Type="3">C-4</Document>, an act respecting certain affordability measures for Canadians and another measure.</ParaText>
+              <ParaText id="8929429">I would like to welcome our witnesses.</ParaText>
+              <ParaText id="8929430">We have Alana Lavoie, national senior director of public policy for Habitat for Humanity; and Krista Carr, chief executive officer for Inclusion Canada.</ParaText>
+              <ParaText id="8929431">Unfortunately, Peter Norman is unable to participate today, as his headset is not compliant. If we do another study with witnesses, he could appear at a later date, but he's not able to join us because the sound check completed earlier was not satisfactory.</ParaText>
+              <ParaText id="8929432">Without further ado, we will begin to hear from our witnesses. They will each have five minutes for their opening remarks before we open it up to the members for questioning.</ParaText>
+              <ParaText id="8929433">With that, I am going to begin with Ms. Alana Lavoie.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166107">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie (National Senior Director, Public Policy, Habitat for Humanity Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929434">Thank you very much, Madam Chair.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8929435"> Thank you so much for the opportunity to be here today. We do appreciate the opportunity to come and speak with you.</ParaText>
+              <ParaText id="8929436">I am here on behalf of Habitat for Humanity Canada. We are a national charity, founded in Canada in 1985, in Winnipeg, in fact. We work in every single province in the country as well as our two northern territories and until recently, also in Nunavut. We build homes, we build communities and we like to remind ourselves all the time that we build hope. We do this through construction, through repair, through financing, through skills training and of course through advocacy. We are part of the global movement Habitat for Humanity International, which operates in 70 countries. We are very proud of our contributions in continents across the world.</ParaText>
+              <ParaText id="8929437">Today I want to speak about the GST exemption included in Bill <Document DbId="13539746" Type="3">C-4</Document>, why it matters to Habitat and why it matters in the context of Canada's housing affordability crisis. Between 2019 and 2025, Habitat local affiliates, our 44 local affiliates, built steadily through some of the toughest construction years we've seen, up to and including this one, serving over 5,000 individuals, including 3,888 children, every single one of whom was very excited to be able to pick the paint colour of their bedroom, I can assure you. We have done so with energy-efficient, accessible homes and, most importantly, affordable homes—truly affordable homes—for home ownership. We also through that period of time leveraged government funding at least 2:1. Every dollar that comes into Habitat for Humanity gets put to good use in our communities and for families. </ParaText>
+              <ParaText id="8929438">We generated over $311 million in construction activity over that time frame. We also generated $40 million in tax revenue. Over that same time frame, our Habitats and our local families paid over $19 million in GST on the fair market value purchase of their homes. We continue even now to pay between $15,000 in rural areas and $80,000 or more in high-cost markets on every affordable Habitat home that is sold. For every 100 homes upon which the GST is charged, we could probably deliver up to another 13 to 15 homes, depending on the cost to construct in a given market. In parts of the country, we are paying more in GST on Habitat-built homes than we receive in federal government investment.</ParaText>
+              <ParaText id="8929439">We welcome the proposed measure included in Bill <Document DbId="13539746" Type="3">C-4</Document> to waive the GST on homes up to $1 million for first-time buyers. This will directly benefit our partner families. This will also allow us to reinvest savings that don't go into the mortgage, or into our own costs, into building more affordable homes, accessible homes and energy-efficient homes.</ParaText>
+              <ParaText id="8929440">We would urge the efficient review and passage of this provision, as delays have real costs for families. We are also hopeful that, if passed, the implementation of the provision will be applied retroactively to agreements of purchases and sales that are signed and that were signed in May 2025. The summer and fall are very busy Habitat times, with many families taking big strides on their journey toward home ownership and moving through the purchase phase. We've advocated for this relief on homes that are purpose-built for affordable home ownership. There's purpose-built rental and there's also purpose-built affordable home ownership homes. We are proud to be the organization that provides those. They're sold at fair market value. The families pay no down payment and they pay no more than about 30% of their income on mortgage payments. We figure out the rest; we figure out the rest. Every dollar we save gets reinvested into more homes and keeping the homes that we do have affordable over a long time. </ParaText>
+              <ParaText id="8929441">These changes to the GST that are included in Bill <Document DbId="13539746" Type="3">C-4</Document>'s proposal, combined with our ongoing partnerships across all governments, with the private sector, and through philanthropic participation and donation will help us build even more, even in the face of exponentially rising constructions costs, slow municipal approvals—again, slow municipal approvals—and an income gap that persists despite some market shift improvements in certain areas.</ParaText>
+              <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+              <ParaText id="8929442">We are committed to growing our impact. We are committed to delivering more stability, continuing to contribute to Canada's GDP and continuing to help families who can increase their income by 30% over comparable families who remain in rental. Now is the time to deliver more homes—affordable homes—and we look forward to doing so with new tools and in partnership with the federal government. We are closely watching the development of Build Canada Homes, and are hopeful that our past experience delivering a large portfolio of new, accessible and energy-efficient homes in Canada through our partnership with CMHC over the last several years will help inform this new way forward. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166168">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929443"> Ms. Lavoie, could I ask you to wrap up, please.</ParaText>
+              <ParaText id="8929444"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166173">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929445">Thank you for the opportunity to speak with you today. I look forward to your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166179">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929446">Thank you so much, Ms. Lavoie, for your opening remarks.</ParaText>
+              <ParaText id="8929447">Next is Ms. Carr from Inclusion Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166181">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr (Chief Executive Officer, Inclusion Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929448">Chair and members, thank you.</ParaText>
+              <ParaText id="8929449">My name is Krista Carr. I am the CEO of Inclusion Canada. I speak today not only for our organization but also for a broader coalition of disability organizations across this country. Our ask is straightforward: Increase the base amounts for the disability tax credit and the child disability supplement so that their dollar value equals what they would be at 15%, now and in future years. Do not let a general rate cut shrink disability supports.</ParaText>
+              <ParaText id="8929450">We are here because Canada is about to make a policy mistake that this committee can prevent. This summer, Canada launched the new Canada Disability Benefit. It will provide up to $2,400 per year to low-income Canadians with disabilities. While still not adequate, it is progress. But with this progress, at the same time, Bill <Document DbId="13539746" Type="3">C-4</Document> will now reduce the value of the disability tax credit. We cannot give with one hand and take with the other.</ParaText>
+              <ParaText id="8929451"> Here is what is happening. Bill <Document DbId="13539746" Type="3">C-4</Document> lowers the lowest federal income tax rate to 14.5% this year and 14% next year. That same rate is used to calculate the value of non-refundable tax credits, including the disability tax credit and the child disability benefit. When the rate drops, the credit value drops correspondingly. Those numbers may sound small in this room, but nearly one million Canadians rely on this credit to help manage the extra costs of living that come with a disability. For people already stretched far too thin, $100 matters.</ParaText>
+              <ParaText id="8929452"> The fix is precise and durable. For 2025, increase the disability tax credit base amounts by 3.45% to offset the rate reduction to 14.5%. For 2026 and later years, set an annual formula so that 14 times the adjusted base equals 15 times the indexed base for that year. CRA already publishes indexed amounts annually. This is an easy add-on to that existing process. It also future-proofs the credit if rates change again. If the marginal rate goes back up, the formula continues to work.</ParaText>
+              <ParaText id="8929453"> The disability tax credit exists because Parliament recognized 40 years ago that Canadians with disabilities face unavoidable expenses that others do not. The credit is not a windfall. It is a recognition of reality. Wheelchairs cost money, accessible transportation costs money, assistive technology costs money and the list goes on. This credit helps to modestly offset some of those costs.</ParaText>
+              <ParaText id="8929454"> The principle here is simple. Disability supports should not shrink to help pay for a general tax cut. We recognize that this is an unintended consequence of Bill <Document DbId="13539746" Type="3">C-4</Document>. We support making life more affordable for all Canadians. Keep the tax cut, but keep disability supports whole. </ParaText>
+              <ParaText id="8929455">This committee has the authority to act. The Speaker confirmed in 2022 that amendments to non-refundable credits can be moved directly, without requiring additional procedural steps. This can be fixed at clause-by-clause.</ParaText>
+              <ParaText id="8929456"> Members of the committee, we are asking you to ensure that when Canada helps families with affordability, it does not leave behind individuals and families affected by disability. Amend Bill <Document DbId="13539746" Type="3">C-4</Document> to increase the base amounts for the disability tax credit and the child disability benefit by formula. Keep the tax cut. Keep supports whole.</ParaText>
+              <ParaText id="8929457"> Thank you very much. I welcome your questions</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166242">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929458">Thank you very much, Ms. Carr.</ParaText>
+              <ParaText id="8929459">Thank you to the witnesses for their opening statements.</ParaText>
+              <ParaText id="8929460">We will begin with the first round of questions. </ParaText>
+              <ParaText id="8929461">Mr. Genuis, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166244">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis (Sherwood Park—Fort Saskatchewan, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929462">Thank you, Chair. </ParaText>
+              <ParaText id="8929463">It's a pleasure to join all of you at the finance committee.</ParaText>
+              <ParaText id="8929464">It's good to see the witnesses. I thank them for their testimony.</ParaText>
+              <ParaText id="8929465">First off, Ms. Carr, could you clarify one aspect of your testimony? Is it your calculation, therefore, that people living with disabilities will be net worse off as a result of this bill?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166250">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929466">Yes. I think it's an unintended consequence of a bill meant to make life more affordable for Canadians. As a consequence of that, yes, in a net position they will be worse off than they are now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166254">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929467">It's not just that supports will be lost that partially offset the tax cut. It's rather that people will be net worse off as a result. Thank you for that clarification.</ParaText>
+              <ParaText id="8929468">This is something that I know we've spoken about in the past. Have you engaged with the government on this request for a change? What has been their engagement on this issue thus far?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166255">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929469"> We have engaged with all parties on this bill, actually, because we operate in a non-partisan way. We've had an excellent response from all parties. I do believe <Affiliation DbId="318631" Type="4">Minister Champagne</Affiliation> mentioned earlier this week that this is a recognized issue with the bill and that he's committed to finding a solution. That is certainly welcome news for us. </ParaText>
+              <ParaText id="8929470">I think all parties have been very receptive and engaged on helping to try to find a solution to this. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166258">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929471">This may be more of a comment. I love to nerd out on procedure whenever I have an excuse to. </ParaText>
+              <ParaText id="8929472">Even if a committee makes an amendment that might otherwise have been deemed beyond the scope, it is only struck out if that issue is brought to the attention of the Speaker. If all parties agree to make an amendment.... I know that you made the case in your testimony that this is well within the scope of the bill, but that only becomes a problem if one of the parties decides to bring it to the attention of the Speaker and argues for the exclusion of that item. It only becomes a problem if there are people around the table who are objecting to it. </ParaText>
+              <ParaText id="8929473">I want to ask you about the experience of people with disabilities in general accessing public services and health care and other kinds of public services. It's important to me, and I think it should be important to all of us, that people have their dignity affirmed when they are accessing services and that they're treated equally. Can you share in general terms how you would see the experience of people with disabilities raising issues or seeking public services interacting with the health care system? How would you evaluate how those experiences are, based on what you're hearing from your members? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166274">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929474">In all transparency, since the bill was brought in around track two MAID, which made people with disabilities the only group eligible for medical assistance in dying when they are not dying, that has certainly changed people's interaction with the health care system quite dramatically. People with disabilities are now very much afraid, in many circumstances, to show up in the health care system with regular health concerns. MAID is often suggested as a solution to what is considered to be intolerable suffering that happens to be caused by some of the things this committee addressees, such as poverty and the situations that people with disabilities disproportionately find themselves in compared with other Canadians. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166284">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929475">That's very striking. I don't want to be accused of putting words in your mouth, but it sounds as though I'm hearing you say that people with disabilities who are interacting with health care or seeking other kinds of public services are proactively being offered MAID, when they are seeking completely different services. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166288">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929476">That is correct. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166291">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929477">Is that common? Are you hearing about that a lot?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166293">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929478">Weekly. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166296">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929479">You're hearing weekly complaints from people who live with disabilities, who seek other kinds of services, and who are asked by someone, “Well, have you thought about MAID?"</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166297">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929480">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166298">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929481">What do you think we should do about that as legislators? Do you think we should try to stop government officials from proposing MAID to people who are not seeking it but who are seeking other kinds of supports and services?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166299">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929482">The disability community has made its case, and the UN CRPD committee has affirmed, that Canada should repeal track two MAID completely. In the interim, anything that anyone can do to limit this from being pushed on people with disabilities who are seeking support to live would be a welcome change. </ParaText>
+              <ParaText id="8929483">That's probably not something this committee can deal with, but in your individual capacity as legislators, I'm sure you can. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166300">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929484">I want to be clear that I agree with you about track two MAID, but taking action in Parliament is a bit like building a house on a desert island: You have to build with what has washed ashore. You have to work within what is realistic. I don't think a majority of Parliament would share your view or my view on the track two MAID issue. </ParaText>
+              <ParaText id="8929485">It's striking to me that you're saying that in the current reality, you have people who don't want MAID and aren't looking for MAID, but people in the system, people in authority, presume that they should think about MAID, and people in those positions of authority are actually telling them that. Are people disturbed by this when they contact you? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166304">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929486"> Thank you, Mr. Genuis. That's your time.</ParaText>
+              <ParaText id="8929487">Mr. Leitão, we're going to you for six minutes now. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166307">
+            <PersonSpeaking>
+              <Affiliation DbId="319901" Type="47">Carlos Leitão (Marc-Aurèle-Fortin, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929488">Thank you very much, Madam Chair.</ParaText>
+              <ParaText id="8929489">Ladies, thank you for being here.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8929490">Just as a clarification, Ms. Carr, it was suggested when talking about the issue of MAID that it was government officials who were counselling people. I believe we're talking about the health care system. In the health care system, we're talking about doctors and nurses and so on. They are not— </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169366">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929491">That's 100% correct— </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169369">
+            <PersonSpeaking>
+              <Affiliation DbId="319901" Type="47">Carlos Leitão</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929492">They are not government officials. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166314">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929493">—but we also have lots of very public stories that have been published in the media about people working for Veterans Affairs who were suggesting MAID to veterans who were calling for support, so we do have some circumstances of it being government officials. However, 99.9% of the time it's going to be in the health care system for sure.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166318">
+            <PersonSpeaking>
+              <Affiliation DbId="319901" Type="47">Carlos Leitão</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929494">That would be in the health care system, which is also under provincial jurisdiction. Okay.</ParaText>
+              <ParaText id="8929495">Let's get back to Bill <Document DbId="13539746" Type="3">C-4</Document>. You've raised a very valid point. In fact, <Affiliation DbId="318631" Type="4">Minister Champagne</Affiliation>, when he was before this committee, mentioned that he has certainly been made aware of that issue and of the unintended consequences of the tax cuts and that the Department of Finance is working diligently on resolving that issue.</ParaText>
+              <ParaText id="8929496"> I think, as you also pointed out, that this isn't rocket science. This is something that can be fixed. Having been in government in another sphere, I know that sometimes these things happen. People don't think of all those issues, but again, it can be fixed, and certainly I will commit to you that we will find a way to fix it. It is not, again, rocket science. It can be done and it should be done. </ParaText>
+              <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8929497">Ms. Lavoie, good day. You represent a very interesting organization.</ParaText>
+              <ParaText id="8929498">You mentioned that, in addition to building affordable housing for rent, it was also possible to build affordable homes for home ownership.</ParaText>
+              <ParaText id="8929499">We see what's happening in many places across Canada. You represent a Canada-wide organization. Do you see different concerns between Toronto and cities in other provinces, for example with regard to land prices? Do such concerns complicate the availability of affordable housing in certain large cities, particularly Toronto?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166344">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929500">Yes, absolutely.</ParaText>
+              <ParaText id="8929501">In large communities, prices are certainly higher and municipal processes are more complex. Land prices, workers' wages, and family incomes are much higher than in small and medium-sized communities. We also need to look at what is being built and how. For example, in Toronto, Montreal and Vancouver, large buildings are being constructed. However, for an organization like Habitat for Humanity, it's far more complicated to build a multi-story building, especially with new technologies.</ParaText>
+              <ParaText id="8929502">In small communities, the challenge is more about building what people really need. So, for families, we're not going to build micro-condos. Instead, we'll need family or multi-generational homes. We find the challenges related to community relations and construction plans are a little different than in big cities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166355">
+            <PersonSpeaking>
+              <Affiliation DbId="319901" Type="47">Carlos Leitão</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929503">I really liked what you said at the start of your presentation, meaning that we need to build homes and build hope. Indeed, that's very important.</ParaText>
+              <ParaText id="8929504">One problem that many cities, be they big or small, are experiencing is homelessness.</ParaText>
+              <ParaText id="8929505">You're experienced in matters related to access to affordable housing. Could you tell us—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166365">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929506">Thank you, Mr. Leitão. Your time is up.</ParaText>
+              <ParaText id="8929507">Mr. Garon, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166368">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon (Mirabel, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929508">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8929509">I want to thank our two panellists, Ms. Carr and Ms. Lavoie, for their presentations.</ParaText>
+              <ParaText id="8929510">Ms. Carr, you contacted all the parties on this issue. It's quite obvious; since we're talking about a refundable tax credit, the value of which is calculated as a percentage, with the tax rate being part of the calculation; if the tax rate is cut, the credit shrinks.</ParaText>
+              <ParaText id="8929511">It made me rather sad, because I know that the introduction of the disability tax credit was a long and difficult process. This measure was announced almost five years ago, and the legislation only came into force in 2023. Its implementation wasn't easy, and we waited a long time for it. Even the Parliamentary Budget Officer worked on it. Yet, now that's finally happened and the needs are being recognized, it's being cut.</ParaText>
+              <ParaText id="8929512">I get the impression that, for a long time, it has been difficult for you to make yourselves heard. That is why, last Wednesday, I put the question to the officials who came to testify. There was a wonderful show of openness and, moreover, just before the committee meeting, the minister told us he would be looking into this matter this week.</ParaText>
+              <ParaText id="8929513">Has the minister or his office offered you a concrete solution?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166381">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929514"> I think I got all of that.</ParaText>
+              <ParaText id="8929515">No, we haven't yet been contacted.</ParaText>
+              <ParaText id="8929516"> We certainly have had the opportunity to meet with officials from the Department of Finance. We have met with other officials within government and within other parties.</ParaText>
+              <ParaText id="8929517"> As I mentioned this week, earlier, we heard, when all of you heard, that there was going to be a fix coming, which is wonderful news. We haven't heard directly from finance what that will be, at this point, but we are hopeful that it will address the issue.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166387">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929518">Nonetheless, we need to follow up.</ParaText>
+              <ParaText id="8929519">You already have the solution, meaning the tax formula, and I insist you submit it in writing to the committee.</ParaText>
+              <ParaText id="8929520">We're aware of the problem you've been facing since June, and it's now October. Nevertheless, you still had trouble making yourselves heard, even though you represent vulnerable people.</ParaText>
+              <ParaText id="8929521">Do you think it'd be easier to get a meeting with the minister if you were a bank or an oil company?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166393">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929522">I don't know that I'm necessarily qualified to comment on that because I've spent my working life in the non-profit sector.</ParaText>
+              <ParaText id="8929523">I find it's always difficult to meet with finance ministers, and I think that's probably because everyone wants to meet with them. It's probably difficult for everyone. I don't know if it would be easier for someone else to meet with the <Affiliation DbId="318631" Type="4">finance minister</Affiliation>.</ParaText>
+              <ParaText id="8929524">At this point, what I care deeply about is that the <Affiliation DbId="318631" Type="4">finance minister</Affiliation> is listening and hearing what we have to say. I'm hopeful that this is what's happening at this point.</ParaText>
+              <ParaText id="8929525"> I guess that's all I can really comment on.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166403">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929526">You communicated with us, as you did with all parties. You work well and in a non-partisan manner, so you're right to respond in this way. However, I don't work in a non-partisan manner all the time, so I can tell you that if you had been a bank or an oil company, you would have received a call-back in June.</ParaText>
+              <ParaText id="8929527">There's a reason for this tax credit. You've been trying to get it for a long time, but it's been an uphill battle.</ParaText>
+              <ParaText id="8929528">When it comes to residential real estate investments, the costs of construction, renovation, and property acquisition have risen significantly. That said, other costs have also increased significantly for people with disabilities. I'm not an expert in this area, but I can think, for example, of home modifications, such as putting in elevators and ramps, among other things.</ParaText>
+              <ParaText id="8929529">What might the cost increase of modifying a first home for a person with a disability look like? I know there's obviously heterogeneity, that there are all kinds of situations, but what has the cost increase looked like over the past five years?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166422">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929530"> I couldn't tell you exactly what the cost increase has been. I would say that whether it comes to housing or whether it comes to just living in general, costs have gone up substantially over the last five years in a number of areas. Disproportionately, unfortunately, supports for persons with disabilities, whether in income or otherwise, have not kept pace with that. We have seen the poverty rates for persons with disabilities certainly get worse. It's much, much, much more difficult to live a good life in community with the extra costs that people face already. Then, when disproportionately costs everywhere are going up, including the extra costs of disability, they just compound upon each other. It makes it very difficult.</ParaText>
+              <ParaText id="8929531"> This is why—I will make the case while I'm here at this committee—we would love to see the Canada disability benefit, which we are very happy about and super grateful for, continue to increase to help Canadians with disabilities offset those costs.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166439">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929532">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166444">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929533">Thank you, Mr. Garon.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8929534">I understand that we're going back to Mr. Genuis.</ParaText>
+              <ParaText id="8929535">Mr. Genuis, I just want to remind you that we are studying Bill <Document DbId="13539746" Type="3">C-4</Document>. I hope the questions are relevant to the study at hand.</ParaText>
+              <ParaText id="8929536">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166449">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929537">Thank you, Chair. I was responding to an issue that the witness had raised.</ParaText>
+              <ParaText id="8929538">Thank you for the warm welcome. It's good to be back, as you said.</ParaText>
+              <ParaText id="8929539">Ms. Carr, I'll go back to you.</ParaText>
+              <ParaText id="8929540"> I want to talk a bit about affordability and employment. Having access to employment opportunities, wherever possible, is so important for affordability. A few years ago, our leader had a bill aimed at ensuring that people with disabilities were not punished for entering the workforce.</ParaText>
+              <ParaText id="8929541">I want to ask if there are particular impacts of the measures in Bill <Document DbId="13539746" Type="3">C-4</Document>, in terms of what you've talked about, for people who are receiving benefits and are working, and how those things interact with each other. Also, what is your perspective on how we can ensure that the benefits are structured such that people are not punished—that is, they're not worse off—if they enter the workforce?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166456">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929542">I would say that certainly the disability tax credit was put in place in the first place to help offset the cost of disability. Obviously, when you're living with a disability and you qualify for the disability tax credit and you earn income, that tax credit makes a big difference. In relation to that, I would just go back to the argument we were just having about making sure that people aren't negatively impacted or disproportionately impacted by a bill that is certainly meant to make life more affordable for all Canadians. We want to make sure that the net effect stays the same.</ParaText>
+              <ParaText id="8929543">With regard to disincentives to work, which is what I think you're getting at, it's certainly not necessarily related to this bill, per se, but when we look at things like the Canada disability benefit, for example, and look at the working exemptions and that type of thing, there's a lot work we could do in making sure those exemptions are higher and people can keep more of their money. Especially for persons with disabilities who are trying to get back into the labour market and maybe cannot work full time, those exemptions and those interactions between benefits become really critically important to ensure that people can actually go to work, stay at work and are better off by working.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166475">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929544">Sadly, in my view, the bill that our leader had put forward in this regard was defeated. It would have been nice for it to at least have been studied at committee and to pass—or at least, if there had been support from other parties, nice for it to get to that stage.</ParaText>
+              <ParaText id="8929545">I'd like to give you a chance to share a bit of a message for employers as well. I'm the shadow minister for employment. I talk a lot to employers who tell me about challenges they have in finding people with specific skill sets or in specific areas, even in a time of persistently high unemployment. What would your message be to employers about hiring people with disabilities, if that's not something they've done before or if it's something that maybe seems out of the box compared with what they've done in the past?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166493">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929546"> I think there are tons of data—I know there are tons of data—that support the fact that people with disabilities enrich workplaces in ways that you would not necessarily always think about. It's in terms of innovation, in terms of creativity, in terms of retention and all of those types of things. It's even in terms of the culture within a workplace and the amount of turnover of other staff who do not have a disability: It's because they're in an inclusive workplace.</ParaText>
+              <ParaText id="8929547">At the end of the day, people with disabilities are ready, willing and able to work. They want to work. They want to contribute to society. Oftentimes what they need is someone to give them an opportunity. There are tons of organizations across this country, Inclusion Canada being one of many, that are more than happy to assist and support any employer who wants to start hiring inclusively and bringing the huge and diverse talent pool that is within the disability community into people's workplaces. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166511">
+            <PersonSpeaking>
+              <Affiliation DbId="317655" Type="2">Garnett Genuis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929548">I'm up against the clock a bit, but are there any additional areas where you see barriers to employment for people with disabilities that we could address or propose solutions to?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166514">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929549">We have only about five seconds left for this round, so we'll leave it there.</ParaText>
+              <ParaText id="8929550">Thank you, Mr. Genuis.</ParaText>
+              <ParaText id="8929551">We'll go to Mr. MacDonald. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166516">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald (Cardigan, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929552">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8929553">Thank you to the witnesses for coming today and for sharing this information.</ParaText>
+              <ParaText id="8929554">Ms. Lavoie, I really admire the role that Habitat for Humanity plays in helping out with non-profits and homebuilding. I come from P.E.I. I know that you have an active role there in P.E.I. I actually have some acquaintances who have worked on your projects. It's a very worthwhile mission you're on.</ParaText>
+              <ParaText id="8929555">Given Habitat for Humanity's mission of enabling home ownership for lower-income households, I'm wondering how you feel about these two measures that we've brought in with Bill <Document DbId="13539746" Type="3">C-4</Document>, the GST and income tax cut. Is this going to bolster the capacity to build more homes in regions like mine in Atlantic Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166526">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929556">Regarding the GST, we have an absolute direct correlation with our own ability to build. We know that, as mentioned earlier, with the GST payout that is either not absorbed by Habitat for Humanity affiliate operations or by our families in their mortgages, that gets put right back into our fund for Humanity for building. It goes right back into those. It's combined with ReStore revenues. Everyone should visit a ReStore. Again, it's combined with local donations, and it's combined with a Habitat build gift-in-kind in partnership. Definitely we will see that.</ParaText>
+              <ParaText id="8929557">In terms of the income tax cuts that are proposed, I think anything that improves affordability for those with lower income has the potential to put more stable housing within their reach, particularly when combined with the supply-side measures that we do in terms of creating those purpose-built homes for affordable home ownership, and then the interesting financing piece to accompany it so that they can afford a mortgage within their means. </ParaText>
+              <ParaText id="8929558">We do see benefits to both pieces, although we are very much focused on how holding on to that GST will help us do more.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166541">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929559">I have another question on homebuilding.</ParaText>
+              <ParaText id="8929560"> As I talk to stakeholders, especially the non-profits, they talk about the need for coordination federally, provincially and municipally. With the supports that are there now, what would you see that the federal government, provincial governments and municipal governments could do to make homebuilding more affordable and faster?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166546">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929561">Oh, my. That's a big question, but thank you. </ParaText>
+              <ParaText id="8929562">I think there are lots of different pieces. First of all, ensuring that the funding that is offered by each order of government can work together is one piece. There are some things the federal government can deliver very effectively. There are other things the provincial governments are more directly involved in, and of course there are measures and instruments in the hands of local governments for which they are best equipped. Let's make sure those are working together in timing as well as in terms of being able to stack and click together. It's all about Lego, really. </ParaText>
+              <ParaText id="8929563">It's the same with regulatory requirements and timing on those. We want to make sure that as funds flow from one order of government to incent new housing supply, they're not being delayed and held up at a local level. We've seen developments over the last couple of years where there has been some success at getting local governments to move a little bit faster as federal funding has flowed through the housing accelerator fund, for example, and the rapid housing initiative. I think using the various tools that the federal government has in its hands to help line up the pieces will be incredibly important for organizations like Habitat and for other non-market housing providers to be able to really move and scale in the way we need to, to meet the need. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166560">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929564"> Thank you.</ParaText>
+              <ParaText id="8929565">Ms. Carr, you talked about the negative effects of the tax cut. When <Affiliation DbId="318631" Type="4">Minister Champagne</Affiliation> was here on Monday, he mentioned it in his comments, and the previous member mentioned that he was looking for solutions. I'll commit as well to helping him find those solutions.</ParaText>
+              <ParaText id="8929566">Could you review the safeguards that you mentioned in your preamble that will make sure that people aren't shortchanged with the tax cuts, the 14.5% this year and then 14% next year? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166569">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929567">I think what we're suggesting—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166572">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929568">Please answer very briefly. You have about 10 seconds left.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166574">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929569">If you increase the base amount of the DTC—I forget the percentage we put in our brief—that should offset any negative impact that the tax cut would have.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166579">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929570">Thank you very much.</ParaText>
+              <ParaText id="8929571">Thank you, Mr. MacDonald.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8929572">Mr. Garon for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166583">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929573">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8929574">Ms. Lavoie, you talked about all the initiatives your organization has put in place to help people, especially young households, become first-time homeowners. Frankly, it's impressive. The hard part is getting into the market. Once you're on the train, it keeps moving forward and generates capital gains.</ParaText>
+              <ParaText id="8929575">However, I feel that, in recent years, there have been two types of support measures. The first measure was building social housing. We had asked that the money go to Quebec to finance off-market housing. The second measure, which targeted people able to build equity, was the creation of the first home savings account, or FHSA, and the enhancement of the homebuyers' plan. Often, these people are helped by their families, by their parents. According to statistics from the Canada Mortgage and Housing Corporation, or CMHC, there has been an increase in the number of first-time home buyers whose down payment comes in part from their family.</ParaText>
+              <ParaText id="8929576">The Bloc Québécois feels that there is still a category of people who are somewhat excluded from programs, namely those who won't be moving into social housing, who are currently tenants but who are unable to save for a down payment or put money into an FHSA, for example. We therefore propose that the government finance the down payment, interest-free, and that it be repaid in subsequent years. This could be done through CMHC. These people could then jump on the bandwagon and become homeowners. This would subsequently free up rental housing, thereby promoting movement in the market.</ParaText>
+              <ParaText id="8929577">What do you think about a proposal like that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166604">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929578">We find that proposal very interesting. However, we already have a solution, which is to invest in Habitat for Humanity. That's exactly what we do: We don't require an initial down payment, but rather add it to the mortgage. Families pay a reduced mortgage, and we cover the rest of the costs as part of our program. We already have a lot of experience in this area. We have programs—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166610">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929579">Thank you very much, Ms. Lavoie and Mr. Garon.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8929580">Mr. McLean is next.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166611">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean (Calgary Centre, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929581">Thank you.</ParaText>
+              <ParaText id="8929582">Madam Lavoie, thank you very much for your testimony and for all that your organization does for affordable housing in Canada.</ParaText>
+              <ParaText id="8929583">You state, as I noted in your submission, that the gap in Canada between the price of homes and what people earn has doubled since 1987. It's safe to say that the bulk of that gap has occurred in the past 10 years. Would you agree?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166615">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929584">I don't have that statistic in front of me. I don't think that one was in my brief necessarily, but we have certainly seen an acceleration and a gap for the families that we serve.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166620">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929585">Thank you.</ParaText>
+              <ParaText id="8929586">“No other G7 country has seen such a stark deterioration in housing affordability.” That's a quote from your website, actually.</ParaText>
+              <ParaText id="8929587">A lot of this is inflation, and a lot of inflation is driven by government policy, of course. However, as far as housing goes, inflation shows up in a few ways. The price of a house includes things like mortgage costs, which historically are actually still pretty low compared to where we've been in the past, although higher than in the last couple of years. </ParaText>
+              <ParaText id="8929588">There are also building costs, and those building costs include goods and labour. There's demand-pull inflation and there's cost-push inflation, but then there's a third one, which is the land.</ParaText>
+              <ParaText id="8929589">Which of these factors—the goods, the labour and the land—do you think is the one that increases housing costs the most? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166627">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929590"> In our experience, it's very market-specific. </ParaText>
+              <ParaText id="8929591">Again, in our highest-cost markets, that could be a matter of land. In the areas where—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166632">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929592">If I may, I think most journalists have come out and said that it's now land speculation that drives 35% of the cost. </ParaText>
+              <ParaText id="8929593">One of the other charges in there, of course, with regard to land in civic areas, is government charges. There are significant amounts of taxes and civic charges at all three levels of government. They now account for about 35% of the cost of homes, which is a significant increase over what it was even 10 years ago.</ParaText>
+              <ParaText id="8929594">Is that impacting your operations at all?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166643">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929595">Fortunately for us at Habitat for Humanity, we are often exempted from some of those fees and charges. One of the advantages of investing in non-market homebuilders is that we get additional financial efficiency. </ParaText>
+              <ParaText id="8929596">Certainly it is a challenge for our private market partners, and we, in our work that we do with them, can appreciate that it has become a growing challenge.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166650">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929597">Would you say that the places where you build your homes are places where your competitor builders would be paying these 35% charges?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166656">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929598">Certainly. They're facing a lot of charges themselves.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166659">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929599">All right. Thank you.</ParaText>
+              <ParaText id="8929600">The government has announced a $13-billion Build Canada Homes project. That $13 billion is going to go into competition with other homebuilders, of course, with $13 billion being thrown into the housebuilding pool, if you will. Do you think that's going to have some cost-push inflation on other homes that are being built, such as the ones you build? </ParaText>
+              <ParaText id="8929601">I'm saying there's only a limited amount of lumber, drywall and labour available for this effort. </ParaText>
+              <ParaText id="8929602">If you can give me your comments, I'd appreciate it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166665">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929603">I can, absolutely. Thank you so much.</ParaText>
+              <ParaText id="8929604">With regard to Build Canada Homes and the investments that are being proposed at the moment, we are cautiously optimistic that the initial focus on non-market housing will help insulate somewhat from an initial inflationary push, from that perspective.</ParaText>
+              <ParaText id="8929605">I think it's a smart strategic move to actually begin with the non-market sector, where the deepest housing need is, and to work with those kinds of builders, again going back to purpose-built homes, which seems to be a theme for me today. We are building purposefully for affordability, and not so much at the whim of the broader market systems, in the same way.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166677">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929606">As you know, most of the market housing being built is out of reach for most people. </ParaText>
+              <ParaText id="8929607">The thing about government policy, in all respects, is that government policy affects everything. If the government is running significant deficits ad nauseam going forward, it's going to affect inflation, and then inflation is going to affect your house prices, and therefore the affordability mix is going to be very clear for the people you serve.</ParaText>
+              <ParaText id="8929608">How bad do you think that's going to be, if you take a look at what's coming forward from this government's continued escalating deficits?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166689">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929609">You have 20 seconds for a response.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166691">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929610">Looking at broader inflationary pressures is a little bit out of my remit—I'm a housing nerd myself—but I do think we have to be mindful that affordability could continue to be a challenge and make careful strategic choices as we move forward.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166693">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929611">Thank you.</ParaText>
+              <ParaText id="8929612">We'll go to Mr. Turnbull for the last round of questions in this discussion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166695">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull (Whitby, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929613">I'm last but not least, right?</ParaText>
+              <ParaText id="8929614">Ms. Carr, I'll start with you.</ParaText>
+              <ParaText id="8929615">Thanks to both witnesses for being here. I admire the work of both your organizations greatly.</ParaText>
+              <ParaText id="8929616">I want to ask you a question. It's a bit of inside baseball, in terms of how legislation is done in this House. I know that before I got into federal politics, over six years ago, I wouldn't have known exactly how that happens. </ParaText>
+              <ParaText id="8929617">Your proposal is to increase the amount of both the disability tax credit and the child disability benefit by 3.45%, and that would compensate for, essentially, the diminished taxable income that is used to calculate those two benefits. Is that right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166704">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929618">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166708">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929619">If, for some reason, a solution were deemed out of scope.... The minister indicated in this committee that they were looking at solutions, and I know that's true because I'm the parliamentary secretary. What I wanted to say to you is that if the solution you're suggesting were deemed out of scope for Bill <Document DbId="13539746" Type="3">C‑4</Document>, because of how Parliament works, and there was some other mechanism used, does it matter to you, or do you...? </ParaText>
+              <ParaText id="8929620">I think you're focused on the outcome. I think you're focused on making individuals who have that limited income, who live with a disability, whole. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166716">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929621"> That is correct.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166719">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929622">You don't really care what mechanism is used in order to solve that problem as long as you get the result you're looking for. Is that right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166725">
+            <PersonSpeaking>
+              <Affiliation DbId="323127" Type="28">Krista Carr</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929623">That is true. </ParaText>
+              <ParaText id="8929624">I would say that the solution put forward, the solution that we've recommended, is the one that we believe will future-proof it as it goes up or as it goes down. Hopefully it won't go back up, but we don't know what will happen in the future.</ParaText>
+              <ParaText id="8929625">Having said that, the outcome is the main focus, and the outcome should be that there would be no disproportionate impact on people with a disability or on their families. If finance has another way of doing that, one that gets the same outcome, then we would certainly be happy with that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166731">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929626">I appreciate that. Thank you very much. That was the clarity I was looking for.</ParaText>
+              <ParaText id="8929627">Ms. Lavoie, I am going to you now. </ParaText>
+              <ParaText id="8929628">I want to shower you with praises for Habitat for Humanity's work. I've been able to make announcements in Peterborough and Haliburton, and there's a project of 48 units that will be under construction in 2026 in my community of Whitby. I've been to key ceremonies that your organization does, which are literally the best thing. If anybody hasn't been to one of those, I highly recommend, if you ever have a chance, to go to a ceremony where individuals get the keys to their new home. </ParaText>
+              <ParaText id="8929629">I also want to acknowledge your work on Habitat ReStore, which is a social enterprise and is part of my background and my experience from my past life. I really love that you're generating revenue in a charitable business that essentially provides revenue to help you do the great work that you do, making dreams of home ownership a reality for people.</ParaText>
+              <ParaText id="8929630">Your model of second mortgages is really unique. I've studied that. I've had lots of conversations. I think replicating that throughout.... In some ways, I think the federal government's initiative of Build Canada Homes is looking at organizations like yours as the innovators who have paved the way to understand how we can do deeply affordable home ownership in non-market housing, so I want to thank you for all of that leadership.</ParaText>
+              <ParaText id="8929631">I also want to mention the housing accelerator fund in Whitby. I've heard other parties sometimes criticize that and say that it's just adding bureaucracy. It has actually helped to build housing in Whitby. I know the GST rebate that we've proposed is something Habitat for Humanity actually advocated. I wrote a letter advocating it to the former minister of finance on your behalf, so it's great to see our government, under this iteration of Parliament, moving forward with it.</ParaText>
+              <ParaText id="8929632">With all of that said, I want to ask you now about your specific change, which is very surgical in allowing you to build even more housing. I know you advocated the GST cut because it will allow you to build a lot more housing. I think you mentioned that in your opening remarks. However, I want to ask you to go over it, because it's a bit of a technical shift to move to.... What are you proposing? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166772">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929633">Essentially, with the GST rebate, it will potentially reduce the overall total mortgage that a family has to carry or that Habitat has to absorb. By not having—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166777">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929634">I'm sorry, Ms. Lavoie. We have only a few seconds. Could you wrap up quickly?</ParaText>
+              <ParaText id="8929635">Thanks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166779">
+            <PersonSpeaking>
+              <Affiliation DbId="323161" Type="28">Alana Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929636">Yes.</ParaText>
+              <ParaText id="8929637">Essentially, we'll be able to put that fund into building and we will translate taxes into a home.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166784">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929638">I would like, on behalf of the committee, to thank our two witnesses for joining us today and for their testimony.</ParaText>
+              <ParaText id="8929639">We are going to briefly suspend while we change over to the next round of witnesses. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8929640">Thank you, everyone.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166886">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929641"> Colleagues, welcome back.</ParaText>
+              <ParaText id="8929642">We'll resume the meeting now. I will ask folks to please take their seats.</ParaText>
+              <ParaText id="8929643">A mandatory witness onboarding test has been conducted for all virtual witnesses. I would like to make a few comments for the benefit of the new witnesses.</ParaText>
+              <ParaText id="8929644">Please wait until I recognize you by name before speaking. For those participating by video conference, click on the microphone icon to activate your mic, and please mute yourself when you are not speaking. For those on Zoom, at the bottom of your screen you can select floor, English or French as the appropriate channel for interpretation. For those in the room, you can use the earpiece and select the desired channel. I'll give a reminder that all comments should be addressed through the chair.</ParaText>
+              <ParaText id="8929645">To our new witnesses, welcome. You will have five minutes for your opening remarks, after which we will open the floor to questions.</ParaText>
+              <ParaText id="8929646">I'd like to introduce the three witnesses we have for the second hour of the study of Bill <Document DbId="13539746" Type="3">C-4.</Document></ParaText>
+              <ParaText id="8929647">We have Ian Lee, who is an associate professor at the Sprott School of Business at Carleton University. We have Carolyn Whitzman, senior housing researcher at the University of Toronto School of Cities. Joining us online is Amanda MacKenzie, director of public affairs, advocacy and strategic communications at March of Dimes Canada.</ParaText>
+              <ParaText id="8929648">Mr. Lee, we will begin with you. You have five minutes. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166901">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee (Associate Professor, Sprott School of Business, Carleton University, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929649"> Thank you very much, Madam Chair.</ParaText>
+              <ParaText id="8929650">First are my disclosures. </ParaText>
+              <ParaText id="8929651">Number one, I don't belong to or donate money to any political party, nor do I allow any lawn signs during any federal, provincial or municipal political campaigns.</ParaText>
+              <ParaText id="8929652">Number two, I was a commercial banker in the last half of the 1970s and the early 1980s, working as a mortgage manager at the BMO main branch, just across the street, except it's now part of the parliamentary precinct, I believe, the Macdonald building. I worked there for many years. Then I became a commercial credit officer and lent millions to homebuyers to buy houses and SMEs.</ParaText>
+              <ParaText id="8929653">Number three, I don't consult to the housing construction or financial services industries at all.</ParaText>
+              <ParaText id="8929654">Finally, number four, I've taught the strategy and policy capstone course for 35 years.</ParaText>
+              <ParaText id="8929655">As with many Canadians, I have a deep personal interest in the question of affordability, which I believe is primarily an issue of housing affordability. I do not see affordability as an issue of marginal tax rates for the bottom quintile, who have mostly been removed from the PIT, the personal income tax, rolls by successive federal governments going back many years. It's difficult empirically, in my opinion, to argue that there's a lack of social program support for the bottom quintile in Canada, given the very sharp progressivity in our tax and redistribution system, documented repeatedly by the C.D. Howe research institute and the Fraser Institute.</ParaText>
+              <ParaText id="8929656">In my judgment, based on my decades-long review of StatsCan income statistics and the Gini coefficient of income inequality, which has flatlined for decades per the OECD, the affordability problem is not a tax issue or an income redistribution issue. The evidence suggests to me that some municipal governments—not all—have created higher barriers to new housing construction and especially to single-family home construction in the suburbs. </ParaText>
+              <ParaText id="8929657">The reason this is critical is that for 2,000 years, cities in Europe—which I have visited over 100 times over 40 years of teaching, and I later visited many of the cities in the U.S. and Canada—grew in concentric circles at the edges. However, in the past 20 years, a new critical vocabulary was created that pejoratively characterized the urban growth of the last 2,000 years as “urban sprawl”, suggesting that creating new suburban projects on the edges of cities was poor public policy.</ParaText>
+              <ParaText id="8929658">However, throughout Canada's history, young people typically bought their first home on the very edge of the city, because land values and home values were much cheaper in the burbs than in the urban core.</ParaText>
+              <ParaText id="8929659">I did it myself. I bought my very first townhouse in 1976 on the very last street at the very edge of the southern part of Ottawa. It's called Hunt Club, by the way. I couldn't afford to buy anywhere else. There was literally nowhere else. Forget Toronto, I couldn't afford to buy in Ottawa. I was just tapped right out.</ParaText>
+              <ParaText id="8929660">Having lived in Ottawa all my life, but having visited many large American cities and many mid-sized Canadian cities over the past 40 years and having studied average housing prices and municipal permitting data by city, I know there are significant differences in average housing prices between cities.</ParaText>
+              <ParaText id="8929661">Restating it to be a bit provocative, perhaps, I do not believe there is a national Canadian housing crisis, but there is, I assure you, a housing crisis in Canada's 10 largest cities—the GTA, Vancouver, Ottawa, etc.</ParaText>
+              <ParaText id="8929662">By contrast, when one examines Moncton, Winnipeg or eastern Ontario—where I grew up as a boy, in Lanark County—or the rural Maritimes or rural western Canada, the data reveal prices at or often well below $500,000, in the $300,000 or $400,000 range. I can drive 20 minutes from here and show you houses in Kemptville for half a million dollars, but if I go down to Prescott, Ontario, which is 60 minutes from the national capital of this country, they're $250,000 to $300,000. </ParaText>
+              <ParaText id="8929663">As lumber and building materials are national prices set in national markets, this suggests there's something else causing the differences. Indeed, the CHBA, the Canadian Home Builders' Association, provides excellent data on average timelines for housing development by cities. What the trend data revealed—and I've studied it intensively, because I'm so fascinated by this—is that the worst record for municipalities in our country for delays in permits and higher development charges are the largest cities, the Torontos, the Vancouvers, the Ottawas and so forth.</ParaText>
+              <ParaText id="8929664">Before anyone leaps to the conclusion, “Well, of course; these cities are bigger and more complex”, I've also examined permitting averages and housing prices in some large American cities, such as Phoenix, which is comparable to Toronto, and southern U.S. cities of equal size to our larger cities, and they build houses far more quickly and far less expensively.</ParaText>
+              <ParaText id="8929665">My very own sister, who's an American, just bought a house in Omaha, Nebraska. It's a four-bedroom house on a corner lot. It's a beautiful nice big house of 2,500 square feet. It cost $350,000. You can't buy an outhouse in Ottawa for that.</ParaText>
+              <ParaText id="8929666">What must be done to address the housing shortage of over four million homes per CMHC? I urge that the Government of Canada develop a policy of a fiscal clawback of the annual transfers to the community-building fund if the cities fail to approve an agreed-upon number of homes. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166942">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929667">Mr. Lee, you have about 15 seconds left. Could you wrap up?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166944">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929668">Okay, I'll just wrap up.</ParaText>
+              <ParaText id="8929669">Then we have to reform the zoning laws, slash development charges and try to address the deep generational discord and deep anger felt by our young people towards us older people.</ParaText>
+              <ParaText id="8929670">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166946">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929671"> Thank you so much, Mr. Lee.</ParaText>
+              <ParaText id="8929672">Ms. Whitzman.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166948">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman (Senior Housing Researcher, University of Toronto School of Cities, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929673"> Thank you for the opportunity to speak today as a housing policy analyst on Bill <Document DbId="13539746" Type="3">C-4</Document>. </ParaText>
+              <ParaText id="8929674">Finance mechanisms, and not only taxation, but affordable housing financing, are key to the goal of the “progressive realization of the right to adequate housing”, with an emphasis on persons with the “greatest need”, as outlined in the 2019 National Housing Strategy Act. I'll be focusing on part 1 of the bill, reducing the income tax on the lowest marginal rate, and on part 2, implementing a temporary GST rate rebate for first-time homebuyers.</ParaText>
+              <ParaText id="8929675">As my colleague said, the biggest expenditure for most households is their housing. The housing assessment resource tools project, with which I was affiliated, has developed household income categories to analyze core housing need across Canada. In fact, this has been adopted by the federal government.</ParaText>
+              <ParaText id="8929676"> Core housing need means that the household is spending more than 30% of their income on housing costs and/or are overcrowded and/or are in homes in a state of substandard repair. Ninety per cent of households in Canada in core housing need are in unaffordable housing. Almost four of five households in core housing need have low household incomes, below 50% of the median in their area. Almost all of the remaining households in core housing need have moderate incomes, between 51% and 80% of the median in their area.</ParaText>
+              <ParaText id="8929677">A taxable individual income of $57,375 would be in the low-to-moderate range in most parts of Canada, so a tax deduction at that lowest rate would primarily assist low- and moderate-income households at most likelihood of core housing need. So far, so good.</ParaText>
+              <ParaText id="8929678">A single person earning $57,375 could afford $1,434 in monthly housing charges. However, in most large cities across Canada, the average monthly asking rent for a one-bedroom apartment as of October 2025 is well above that amount. In Vancouver, the asking rent for a one-bedroom apartment is over $2,500, and in Toronto the asking rent for a one-bedroom apartment is $2,300.</ParaText>
+              <ParaText id="8929679">Even though rents have dropped 6% and 5% respectively in those markets over the last year, a small tax decrease will not make up for rents that are over 50% too expensive. If that individual earning $57,375 is a single parent requiring a two-bedroom apartment, she—and in most cases, it is a she—would have to pay an average of $2,600 in Halifax or $2,300 in Montreal.</ParaText>
+              <ParaText id="8929680"> The most likely type of household to be in core need is the single mother, according to the HART data, and there's no city across Canada where an average rent is affordable to a household reliant on one full-time minimum-wage job. The measure proposed in part 1 is not unhelpful, but it is insufficient to the goal of making life more affordable for Canadians.</ParaText>
+              <ParaText id="8929681">This brings us to part 2, the proposal to remove the GST for first-time homeowners. The average price of a home in Canada as of August 2025 is a little over $664,000, which is a 2% increase over the previous year. The traditional measure of ownership affordability is the median multiple, which means that the median home price shouldn't be more than three times the median household income.</ParaText>
+              <ParaText id="8929682"> Canada's median multiple was between 2.5 and 3 until about 1985. It's now close to 8 across Canada, to 12 in Toronto and to almost 15 in Vancouver. For a household to afford an average home, they would require a household income of over $220,000, which is about 2.6 times the average household income, as well as a down payment of over $100,000, so a million-dollar home is unaffordable to any household other than ones in the top income decile. </ParaText>
+              <ParaText id="8929683">A 5% discount on a home that is 260% too expensive for a median-income household is probably an ineffective measure to the goal of making life more affordable to Canadians, so the measure that is proposed in part 2 isn't particularly helpful for the goal of making life more affordable to Canadians.</ParaText>
+              <ParaText id="8929684">What tax measures would help make life more affordable for Canadians?</ParaText>
+              <ParaText id="8929685">Well, it's a perfect time to strengthen the new rental housing protection fund—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166992">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929686">Ms. Whitzman, you have about 15 seconds, if you could wrap up, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166994">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929687">Okay. I'll stop with the measures that might increase affordability and leave that for the question period.</ParaText>
+              <ParaText id="8929688">Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166995">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929689"> Thank you, Ms. Whitzman.</ParaText>
+              <ParaText id="8929690"> Now I'm going to Ms. MacKenzie, please, who's joining us online.</ParaText>
+              <ParaText id="8929691"> You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13166996">
+            <PersonSpeaking>
+              <Affiliation DbId="323215" Type="28">Amanda MacKenzie (National Director, Public Affairs, Advocacy, and Strategic Communications, March of Dimes Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929692">Good afternoon, Chair and members of the committee. Thank you for the opportunity to speak about Bill <Document DbId="13539746" Type="3">C-4</Document> today.</ParaText>
+              <ParaText id="8929693"> I'm Amanda MacKenzie, the national director of public affairs, advocacy and strategic communications at March of Dimes Canada.</ParaText>
+              <ParaText id="8929694"> March of Dimes Canada is a leading national charity committed to championing equity, empowering ability and creating real change that will help people with disabilities across the country unlock the richness of their lives. Together with our partners, we serve, connect and empower people with disabilities to participate fully in life and in their communities on their own terms.</ParaText>
+              <ParaText id="8929695">I'm here to address the impact of Bill <Document DbId="13539746" Type="3">C-4</Document>'s proposed 1% reduction in the lowest federal personal income tax rate on people with disabilities in Canada and specifically those who rely on the disability tax credit, the DTC, and the medical expense tax credit, the METC.</ParaText>
+              <ParaText id="8929696"> I very much want to thank Krista Carr, Kurt Goddard and the team at Inclusion Canada for their leadership on this file. Inclusion was the first to identify this issue in our community, and their analysis has been widely referenced, including in my own notes. I've also included with my notes a recent analysis of this issue by the Library of Parliament. </ParaText>
+              <ParaText id="8929697">Bill <Document DbId="13539746" Type="3">C-4</Document> will reduce the lowest federal tax rate to 14% over two years. Everyone loves a tax cut, but the problem is that it actually results in an effective tax increase for those who receive federal non-refundable tax credits, including the DTC and METC, due to the method of calculation for both credits.</ParaText>
+              <ParaText id="8929698"> The DTC and METC amounts are calculated as eligible amounts multiplied by the lowest federal PIT rate. Thus, a 1% decrease in the PIT rate would directly lower tax savings by approximately 1% of the claimed amount per claimant.</ParaText>
+              <ParaText id="8929699">For people with disabilities, this means that the very benefits designed to offset the additional cost of living with a disability are eroded. For example, the value of the DTC will drop by approximately $51 in 2025 and by $101 in 2026 per claimant. The METC will also see a proportional reduction.</ParaText>
+              <ParaText id="8929700"> This is not just a technical adjustment. It's a real loss for nearly one million people with disabilities in Canada who depend on these credits to help make ends meet. While all recipients of non-refundable tax credits will see their effective value reduced, people with disabilities are disproportionately impacted. They rely on additional disability-specific credits to offset the cost of being a disabled person in Canada, estimated by the UN to add 30% to the cost of living. The Library of Parliament's analysis shows that a parent with a disabled child is the most impacted, with the DTC value eroding by $79.90 in 2025 alone as a result of the lower DTC base amount. </ParaText>
+              <ParaText id="8929701">I'm here today to ask you to amend Bill <Document DbId="13539746" Type="3">C-4</Document> to increase the base amounts of these tax credits to ensure their value is protected and that people with disabilities across Canada are not paying more to get a tax cut. This erosion of disability supports is not just a matter of fairness. It has broader policy implications. The DTC is a gateway to other federal and provincial and territorial benefits, including the Canada disability benefit, the child disability benefit and the registered disability savings plan. Reducing the DTC's value risks undermining access to these essential supports.</ParaText>
+              <ParaText id="8929702">At March of Dimes Canada, we're particularly concerned with benefit take-up. We know that DTC uptake rates are low because of how barriered the process is. We're working with our partners, like Inclusion and others in our community, to spread awareness about the DTC and how to access it through benefit navigation services the federal government is funding. We're also working on projects to train frontline service delivery staff and caregivers in the basics of the DTC, how to access it and how to talk about it.</ParaText>
+              <ParaText id="8929703">People with disabilities need to know what they're eligible for, like the DTC and other important benefits that Parliament decided they should have. Anything that puts a barrier in the way of this must be rectified. The solution is straightforward and affordable. Our preferred option is to amend Bill <Document DbId="13539746" Type="3">C-4</Document> to increase the base amounts for the DTC and related credits, offsetting the reduction in the tax rate.</ParaText>
+              <ParaText id="8929704">In closing, Bill <Document DbId="13539746" Type="3">C-4</Document> as currently drafted provides less help to those who need it most, delivering a quantifiably smaller benefit to people with disabilities. We urge the committee to amend Bill <Document DbId="13539746" Type="3">C-4</Document> to restore the value of disability-related credits and ensure all Canadians benefit equally from tax relief.</ParaText>
+              <ParaText id="8929705">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167045">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929706"> Wow, Ms. MacKenzie. That's a perfect five minutes on the dot.</ParaText>
+              <ParaText id="8929707">Now we're going to have the first round of questions. </ParaText>
+              <ParaText id="8929708">I'm going to turn it over to you, Mr. Kelly, from the Conservatives.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167048">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly (Calgary Crowfoot, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929709">Thank you to all the witnesses for those opening statements.</ParaText>
+              <ParaText id="8929710">I'm going to begin with you, Professor Lee, and allow you to perhaps finish your thought. At the very end of your opening statement, when you ran out of time, it sounded like you were beginning to talk about how the federal government ought to claw back transfers to municipalities that fail to issue permits and approve development, which is something that we ran on in the last election. </ParaText>
+              <ParaText id="8929711">This was something that was quite dear to us, so I'll let you finish your thought on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167058">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929712">Yes. Thank you.</ParaText>
+              <ParaText id="8929713">The reason I've come to that conclusion—and this isn't something I'd advocate, you know, like I just woke up one morning and said “this is a cool idea”—is that I was in mortgage lending a long time ago, and believe me when I say that I lent millions and millions of dollars. I've refinanced probably one-third of The Glebe—home renos, gut the house and rebuild it—so I'm very aware of the municipal level.</ParaText>
+              <ParaText id="8929714">Maybe I'm flattering everyone here, I don't know, but I don't think the federal government is the problem. I don't think the provincial government is the problem. I didn't say that they can't change and can't do things that are better, but I think the fundamental problem in municipal housing shortages is, in the largest cities, the municipality.</ParaText>
+              <ParaText id="8929715"> I urge every one of you to read that annual report. It's produced by a consulting firm on behalf of the Canadian Home Builders' Association. The numbers are subject to audit. They're using a lot of CMHC data. The numbers on the average days to permit and so forth just leap off the page.</ParaText>
+              <ParaText id="8929716"> To me, they're really the block. The block is the 10 largest. It's not all the cities. I think StatsCan says there are 27,000 municipalities in Canada. We're talking about the 10 that are the problem. They happen to be the biggest.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167070">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929717">Okay. On the affordability crisis, the local crisis of affordability you spoke of, you said that it's not national because it's not in every single community in Canada, that it is in primarily the largest cities, but we also see it really in almost the entire interior of British Columbia, which would include cities outside of that, and we also have southern Ontario.</ParaText>
+              <ParaText id="8929718"> Really, is it perhaps fair to say that the only places not affected by this housing affordability crisis are generally places that have very limited economic opportunity, places that people have to move from to access employment or business opportunities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167082">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929719">That's a very good point. You're right. In the smallest towns.... There's very little opportunity in Prescott. I grew up outside of Carleton Place, in Beckwith Township. There weren't a lot of jobs there in those days.</ParaText>
+              <ParaText id="8929720">If you look at the map that's published by WOWA, it really is instructive to look at the average house prices across this country. Winnipeg's is $400,000. This is 2025 data. Hamilton's is $775,000. They have them for every city in Canada. There are profound differences. The differences are there and, of course, Toronto, the GTA and Vancouver are by far and away the worst.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167088">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929721">Let's talk about those two places.</ParaText>
+              <ParaText id="8929722"> We had testimony on Monday that suggested housing starts are in free fall, that there is a 90% collapse in condo pre-sales and a 70% collapse in single detached home pre-sales.</ParaText>
+              <ParaText id="8929723"> Today's non-pre-sale is, two years from now, a housing start that doesn't happen. What does this say to you about the future of the affordability crisis in these large cities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167091">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929724">As you know, I am a numbers person. All I do is eat data all day long. That's all I do. I study StatsCan and CMHC data because, I guess, I'm old enough. That's my kick. </ParaText>
+              <ParaText id="8929725">I study this data, believe me, and two years from now it's going to be much worse. The situation in the GTA, in Vancouver and in Ottawa is going to be much worse, because there's a lag effect. It's a pipeline effect. What's going into the pipeline now is far below what we need.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167099">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929726">All right. Inaction by policy-makers at all levels, including the federal government over the last 10 years, has brought us here.</ParaText>
+              <ParaText id="8929727">I have one last point. We'll see how much I have time for. </ParaText>
+              <ParaText id="8929728">You've said that the lowest-income quintile is not helped by the reduction in taxes. We support the tax measures contained in this bill, but agree that they will not provide affordability relief for all Canadians and that much more needs to be done. I'd like you to comment on that.</ParaText>
+              <ParaText id="8929729">For the people who need help the most, is there any help in this bill?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167108">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929730">I don't believe so. I'll be very frank.</ParaText>
+              <ParaText id="8929731">Again, I've lent money. There's the price of the home, and then, of course, they put the test on you on whether you have the minimum equity needed. Also, of course, you have to pass the income tests. On the total—pardon the jargon—the TDSR and the GDSR, which are the two income tests, if you don't have the income, you're not going to get the mortgage.</ParaText>
+              <ParaText id="8929732">Having a tax reduction at your marginal tax.... Remember the bottom quintile. Again, this is C.D. Howe data taken from StatsCan, which is taken from CRA data. Just so everybody understands where StatsCan is getting the data, they're getting it from the filings of all the employers in Canada.</ParaText>
+              <ParaText id="8929733">The bottom quintile is paying, I believe, 5% of total taxes in the country. That's a good thing. We're all in favour of that, but the point is that they're paying very—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167120">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929734"> I have another question, if I may.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167124">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929735">You have about 30 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167129">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929736">I want to get Ms. Whitzman in. </ParaText>
+              <ParaText id="8929737">We talk about how this bill will not help the people who need it the most to be able to qualify for a mortgage. I was 22 years in the mortgage business, so yes, the debt service ratios are not going to work there. That means people cannot buy a home. They need to rent, and now we see that rents are beyond the reach of these same people in the bottom income quintile. </ParaText>
+              <ParaText id="8929738">I'll give you the last word, Ms. Whitzman, on affordability for renters.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167132">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929739">Unfortunately, Mr. Kelly, that is exactly six minutes, so Ms. Whitzman will have to answer that another time. </ParaText>
+              <ParaText id="8929740">Mr. MacDonald, we'll turn to you for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167135">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929741">Thank you, Madam Chair, and thanks to the witnesses.</ParaText>
+              <ParaText id="8929742">I'll go to Mr. Lee first. </ParaText>
+              <ParaText id="8929743">Welcome. You're familiar from your appearances on TV. I think you were commenting quite often on my evening news programs.</ParaText>
+              <ParaText id="8929744">We were talking about housing costs, and I don't deny what you're saying, which is that the cost of land in large municipalities—that's one of the factors—has driven up municipal costs again. However, I'm reaching out as a representative of Atlantic Canada. I come from the agricultural sector. For many years, agriculture has been building with prefab products, prefabs out of factories. Obviously we're doing that because it expedites the process of building and brings costs down, overall, for transportation and that type of thing. In Atlantic Canada, we have a limited labour market, and transportation costs are a lot more. </ParaText>
+              <ParaText id="8929745">I want your thoughts on prefabricated manufacturing of housing components in Canada. Could that accelerate building the housing that we need to do?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167151">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929746">I do appreciate the question. If you had asked me that a few years ago, I would have said no. I would have said that they're just mobile homes. I had a pretty negative view, and I did, full disclosure. I have come around partly because of the technological innovations in development of mobiles. They're not what they were 10 or 20 years ago in the technology. I actually went out and met a business in the city that is making them. When they're put together, it's very difficult to tell that they're prefab.</ParaText>
+              <ParaText id="8929747">They've made enormous strides in the technology. I'm talking about the package of the technology and the materials. I think it's now viable and part of the mix for addressing the housing shortage.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167161">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929748">I'll go next to Ms. Whitzman. </ParaText>
+              <ParaText id="8929749">You've spoken often about the need for consistent long-term federal leadership on housing. I wonder about our approach in this legislation, using tax policy to lower the costs—the GST, the income tax bracket reduction. Is this sending out a signal that we're taking a stand and that we're going to accelerate construction? What's your opinion on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167166">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929750">I would like to say a couple of things to begin with. The first is that my name is pronounced “whitesman”, and that I was a full professor before I retired in 2019, but that's neither here nor there. Also, I was on the federal industrial committee on homebuilding, so ask me about modular.</ParaText>
+              <ParaText id="8929751">In any case, I think that the measures outlined in Bill <Document DbId="13539746" Type="3">C-4</Document> are probably not the most effective measures either to get homebuilding happening again, Mr. MacDonald, or to ensure the affordability for all Canadians. </ParaText>
+              <ParaText id="8929752">I think that Build Canada Homes has some promising directions. I would agree with Madam Lavoie, who spoke in the last session, about using Keynesian-type economic stimulus to get non-market housing. That in many cases works from less of an expectation of profit and more of an expectation of social mission, and that might be from investing in non-market housing, as Build Canada Homes is doing. It might be a more effective measure in terms of dealing with the absolutely disturbing number in housing starts and also in pre-sells for condominiums, which I can get into further if you wish. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="00">(1800)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167184">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929753"> I'll apologize first for the mispronunciation. </ParaText>
+              <ParaText id="8929754">Maybe you could weigh in on the prefab components as an instrument to accelerate housing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167190">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929755"> Land costs have gone up. There was a discussion in the last session about land costs. Keep in mind that land costs are going to be very different as a proportion, depending on whether it's a single-family home or an apartment building. An apartment building will be using land more intensively.</ParaText>
+              <ParaText id="8929756">Both construction costs and labour costs went up during COVID and after COVID, and they will only continue to go up with the continuing trade stuff that's going on with the U.S. It's really important for Canada to develop its own homebuilding industry that takes the raw materials produced in Canada, such as lumber, steel or concrete, and creates finished products in Canada, as opposed to the current situation where well over 50% of materials come from the U.S. Quite often, raw materials are sent to the U.S. and then sent back in a final form to Canada.</ParaText>
+              <ParaText id="8929757">I think that the industrial construction industry is a really promising direction. I think that the centre at UNB in Atlantic Canada is doing an amazing job of coordinating initiatives. That is one of the ways to bring down costs in a clear and relatively short-term way.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167206">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929758">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167209">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929759">You have about 15 seconds left.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167212">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929760">That's not very much time. I'll cede that time to someone else.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167215">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929761">Perhaps I will also apologize, Dr. Whitzman, because I'm sure the committee members took their cue from me and my pronunciation. Thank you for clarifying that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167218">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929762">No problem. I just thought I'd mention it at some point.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167221">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929763">It's all good. We like to appropriately address folks.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8929764">Mr. Garon for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167223">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929765">Madam Chair, in fact, I get six minutes and 15 seconds to speak.</ParaText>
+              <ParaText id="8929766">I thank our witnesses for joining us.</ParaText>
+              <ParaText id="8929767">Mr. Lee, you ended your opening remarks with policy proposals, but you didn't have time to finish. It reminded me of the days when the Conservatives were ahead in the polls, a long time ago, and when the leader, Mr. Poilievre, was touring Quebec and calling the mayors of our cities idiots and incompetent. He insulted everyone. He said that if we weren't building, it was the fault of Quebec municipalities, and that Ottawa should punish them by withholding money. I would like to point out that Quebec municipalities cannot do business directly with Ottawa, because it's against the law in Quebec.</ParaText>
+              <ParaText id="8929768">Despite the fact that you didn't contribute to the Conservative platform, that was your proposal. Have I got that right?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167231">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929769">I won't deal with the politics. That's beyond my domain. I just deal with the data, the numbers.</ParaText>
+              <ParaText id="8929770">Let me state something. It's very obvious. Every one of us knows this. The municipalities control the permitting, and they control the zoning. It's not the federal government. It's not the provincial government. It's right down at the end. Believe me, I've renovated my house many times. I've gone through the zoning process. I've gone through the permitting process.</ParaText>
+              <ParaText id="8929771"> In Canada, in the big cities, it's very bureaucratic. It's very delayed. The numbers are showing it. You can say, “Well, those are just big cities, and they should have a different comparator.” Yet, when you look at a city of the same size in the States—not even the same.... They're literally five times faster.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167246">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929772">Mr. Lee, I understand you have renovated your house several times, and I respect your renovations.</ParaText>
+              <ParaText id="8929773">The provinces are asking for infrastructure transfers. In Mirabel, in my riding, there is a water shortage. In municipalities along the south shore of Montreal, they're almost limiting the number of toilets per unit because they don't have the infrastructure.</ParaText>
+              <ParaText id="8929774">Currently, the transfers to the provinces for federal infrastructure are so low that the Quebec government, because of the tariff crisis, had to advance itself the money to implement its infrastructure plan. Quebec's credit rating was downgraded as a result. The same thing happened in four provinces. The money is here in Ottawa, but infrastructure transfers are being cut.</ParaText>
+              <ParaText id="8929775">I'm being political because that's what we do here, and that's what you do indirectly. People say the provinces are incapable of doing their job and blame the permits. However, when there's no water, when infrastructure is outdated, when Ottawa's coffers are empty, when our rating gets downgraded, when provincial rates are increasing and we're unable to build, it's not because of the permits. The permits aren't responsible for the lack of water, Mr. Lee. I'm sending this message to the government too.</ParaText>
+              <ParaText id="8929776">We need a program to renew a single, unconditional infrastructure transfer envelope. Some people say we should punish cities for their incompetence. Where do you want to make cuts? I say this to the Conservatives too, who sometimes say such things. There's no more money in the infrastructure fund. Where are you going to make cuts to upset the provinces and upset the cities? I'm sending the message. This isn't a question, it's a political message.</ParaText>
+              <ParaText id="8929777">I'll now turn to Ms. Whitzman.</ParaText>
+              <ParaText id="8929778">Ms. Whitzman, there's a lot of talk about affordable housing. The definition of affordability means a household should not pay more than a certain percentage of its income for housing. However, I'm no expert on this subject. When I look at these amounts, they seem considerable to me. Sometimes I even wonder how families are able to make ends meet. Quebec employs a social housing model. We have co-ops and all kinds of management models to give households access to housing at a reasonable price.</ParaText>
+              <ParaText id="8929779">In your opinion, what will the future models of social housing be? Can the non-market approach be effective in limiting speculation in our cities?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167288">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929780">My apologies, I'm going to respond to your questions in English.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8929781"> For a long time, Quebec was absolutely a leader in Canada. It had the lowest rates of homelessness. It had the lowest rates of core housing need. That's changed. It's changed for a couple of reasons. One is that people are running to Montreal and to other parts of Quebec because of unaffordability in other parts of Canada. Rents have gone up 72% in Montreal in the last five years.</ParaText>
+              <ParaText id="8929782">There's one possible approach, which comes from France. In the year 2000, the national government set non-market housing targets of 20% for every municipality. They were increased in 2016 to 25%. Paris has voluntarily taken on targets of 30%. It's not just the federal targets. It's also a great revolving loan fund, which I'd be really happy to talk about at some point. It's also a lot of money for acquisitions, such as a rental protection fund, which is just now getting started in Canada but has had a huge impact in British Columbia.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167310">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929783">There is, for example, the right of first refusal. When buildings are put up for sale—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167313">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929784">Yes, and Montreal has been doing great things with pre-emptive housing rights, absolutely. These are all promising directions in terms of housing that's affordable to low-income, moderate-income and middle-income people.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167329">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929785">Madam Chair, I'll cede my remaining time to the next speaker.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167331">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929786">All right.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8929787">Ms. Cobena, we'll go over to you, please, for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167334">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena (Newmarket—Aurora, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929788">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8929789">Mr. Lee, I am particularly interested in your background. Of course, as a former lender myself, we share that experience, but also, just in reviewing your biography, I see that you were the first western professor to teach in a post-communist country. What an experience of a lifetime. I'm very interested to hear your experience, and I have some questions on that, if I may.</ParaText>
+              <ParaText id="8929790">Would you agree that when governments centralize housing decisions, the results are slower builds, structural inefficiencies and less fiscal transparency?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167335">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929791"> Yes. The first time I went was in March 1991. I went to Warsaw because the Government of Canada provided for it. Joe Clark was the minister, and Prime Minister Mulroney announced a program of support for Hungary and Poland, for just those two countries. We got a grant from external affairs to set up a business school in Warsaw.</ParaText>
+              <ParaText id="8929792"> I had never been to a non-western country—I had been to the Caribbean, like many Canadians—but I went there with unbelievable naivety, and I was just unbelievably shocked. The quality of the housing was unbelievably bad. The idea that they treated the environment better in the centrally planned economies.... I saw them pour chemicals on the ground in those countries. I didn't just go to Poland. I taught in Ukraine many times. I taught in Romania many times. I taught in Russia. It was common across those countries that the housing stock was lousy, terrible. As for the water and the infrastructure, one day you would get up, and there would be no hot water. There would be no water in the shower.</ParaText>
+              <ParaText id="8929793">It was very poor, and of course, there was no transparency. Even though I went right after the collapse, it was still de facto a centrally planned communist country for another two to five years until they transitioned. The transition wasn't overnight. The housing stock was the shocker for me, because I was sleeping in private homes. I wasn't staying in a hotel. We were renting from local people. This was my first experience living in a non-western country, and it was a shock. It was a real culture shock for me. I had travelled all over western Europe before that. It was quite the experience going to a non-western country.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="10">(1810)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167351">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929794">Thank you.</ParaText>
+              <ParaText id="8929795">Talking about Canada, when the federal government declares itself a builder now—it wants to centralize building—do you think that creating another bureaucracy would be the right answer to alleviate the serious housing crisis that we have right now?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167358">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929796">I want to nuance my answer. I am not talking about non-profit housing or social housing. That's not my domain. That's the domain of my distinguished colleague beside me. I don't study non-profit housing or social housing. I don't study it. I'm just talking about private for-profit housing, which is the vast majority of the housing units in our country. If you want to look at the housing stock, CMHC—shout-out to CMHC—produces some of the most fantastic stats I've ever seen anywhere. It's really good data from their chief economist and their assistant economist. </ParaText>
+              <ParaText id="8929797"> To your point, I don't mean this to sound ideological. I have an enormous respect for the Government of Canada. My father was 42 years in the government, and my partner was in it for 35 years. I have relatives in the Government of Canada. I am not anti public servant. I am a public servant as a public professor in a public university, but I don't believe it's the government's role to build houses. They're the referee of the hockey game. Their job is not to tell Sidney Crosby when to shoot the puck. Their role is not to own the hockey team. Their role is to make sure they call penalties when somebody is cheating in the hockey game. The private sector just does a better job of building houses, or building cars, or building hamburgers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167379">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929798">Thank you for that.</ParaText>
+              <ParaText id="8929799">Would you also agree then that the private sector in a market-oriented model—not federal agencies—are better equipped to determine the types of homes and where they are needed?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167383">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929800">You're touching on something I ran out of time to talk about. By the way, young people.... I have 250 students a year in five courses with 50 students per class. All I deal with are young people, and oh boy, they are angry at us. They are really, really angry at us. </ParaText>
+              <ParaText id="8929801">To your point, I want to get these stats out very quickly that—it's either StatsCan, Immigration or Canada Border Services—75% of all of the immigrants to Canada locate in five cities. Whether it's a million a year or half a million a year, I'm not going to get into that debate. Where I am going with this is that the people I'm criticizing at the municipal level are really pro densification. Okay, that's fine, but we're talking about putting three-quarters of all of the immigrants into five cities, in the urban cores. This doesn't make sense. When you look at the polling data, it's across the board. It doesn't matter what your ideology or your political partisanship is. The vast majority of Canadians want to have their houses in the burbs. They want their place in the sunshine out in the burbs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167399">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929803">Thank you, Mr. Lee. I'm going to have to stop you there. We have to move on to the next round.</ParaText>
+              <ParaText id="8929804">Thank you, Ms. Cobena.</ParaText>
+              <ParaText id="8929802">Mr. Sawatzky.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167400">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky (New Westminster—Burnaby—Maillardville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929805">Thank you, Chair, and thank you to all of the witnesses.</ParaText>
+              <ParaText id="8929806">Dr. Whitzman, I appreciate your being here and your leadership in pushing forward this evidence-based housing policy. </ParaText>
+              <ParaText id="8929807">To come back to your introduction, you mentioned some measures that might increase affordability. I just want to make sure that you finished that train of thought. Are there any other points you wanted to make on that front?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167409">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929808"> In terms of tax measures, it might be worth looking at the capital gains tax in relation to REITs, with the proviso that now is the perfect time to be buying private-sector housing that's at risk of losing affordability. We lost about 500,000 affordable, purpose-built rental units between 2011 and 2021 in the private sector.</ParaText>
+              <ParaText id="8929809">Right now, REITs do have preferential tax treatment. There has been some discussion of taxing REITs at corporate tax rates. I think it might be worthwhile to look at ways to give REITs a break if they sell some of their older stock, which they very much want to do. If you look at B.C.'s rental protection fund, half of the apartments sold last year in B.C. were bought by the rental protection fund for operation by non-markets, which are much more likely to keep rents affordable in the long term while undertaking necessary repairs and are much less likely to evict tenants on the grounds of renovation or demolition. It would be possible to come up with a favourable tax treatment of REITs that sold some of their older stock, especially if they were to use the proceeds to develop new purpose-built rentals. That would be a very good tax treatment way of dealing with things.</ParaText>
+              <ParaText id="8929810">Thank you for your comments, Mr. Sawatzky. You have to know that, if you want, you could really have a duelling prof situation in the next few minutes, because I have some slightly different takes from Professor Lee's.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="15">(1815)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167423">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929811">Maybe we'll get there if we have enough time.</ParaText>
+              <ParaText id="8929812">We have two things on the go here. There is the change of the fall budget cycle. This was meant to sync some major funding decisions with the construction season. Then we have Bill <Document DbId="13539746" Type="3">C-4</Document>, which is affordability tools and putting those on the table.</ParaText>
+              <ParaText id="8929813"> I want to get your take on the timing and predictability for converting policy into housing starts with regard to the change to the fall budget cycle.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167427">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929814">That's a really tough question, and I'm not sure that I'm best suited to answer it.</ParaText>
+              <ParaText id="8929815">I think there are so many things happening so quickly right now at the federal level. I do spend a lot of time talking to bureaucrats. I was a bureaucrat for a while. Right after the fall budget, they're going into the spring 2026 budget. There is currently planning for the national housing strategy 2.0. Federal-provincial agreements end in 2027, as does most of the national housing strategy. It's everything all at once when it comes to timing.</ParaText>
+              <ParaText id="8929816">To get to your point, I would say that any developer, whether they be a non-market developer or a market developer, thrives on certainty. They thrive on quick answers. I would 100% agree with Professor Lee that approval times and a great deal of uncertainty over zoning are a powerful brake on housing starts right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167446">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929817">Thank you.</ParaText>
+              <ParaText id="8929818">The curiosity is really getting to me, so maybe I'll see if we have enough time for this duelling prof situation. Maybe you could give your thoughts on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167449">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929819">I would agree with Professor Lee that development charges are a huge problem. Development charges come out of a huge infrastructure deficit, which comes out of about 50 or 60 years of us not using infrastructure wisely. By using infrastructure wisely, I mean sprawl. I mean that the affordability that he talks about was purchased at the expense of a lot of highways, a lot of water lines and a lot sewer lines that are not being used efficiently, not to mention public transit lines that are not being used efficiently.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167465">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929820">Professor Whitzman, can you wrap up in 10 seconds?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167467">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929821">I would be happy to wrap up right now.</ParaText>
+              <ParaText id="8929822">We need to use our infrastructure much more efficiently, so I don't think that just continuing to build on the periphery or asking people to drive until they find a cheap place is a good direction to go in.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167473">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929823"> Thank you, Dr. Whitzman.</ParaText>
+              <ParaText id="8929824">Thank you, Mr. Sawatzky.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8929825">Mr. Garon for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167477">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929826">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8929827">I always find it funny when the Liberals repeat the <Affiliation DbId="318631" Type="4">minister's</Affiliation> message telling us they're changing the entire budget cycle to bring certainty to the construction industry. Yet, they didn't table a budget before or after the election. Instead, they introduced a ways and means motion and proposed measures in Bill <Document DbId="13539746" Type="3">C‑4</Document> to help people buy property. However, since the budget hasn't been tabled yet, people simply don't have the money.</ParaText>
+              <ParaText id="8929828">We're still debating this issue in October, but the Liberals must follow the construction industry's cycle. Winter's coming. So I commend them for repeating the <Affiliation DbId="318631" Type="4">minister's</Affiliation> message. However, nothing about this makes sense, it's basic logic.</ParaText>
+              <ParaText id="8929829">Ms. MacKenzie, the issue of the disability tax credit goes far beyond the disability tax credit itself. Government officials said so here last Wednesday, and they're right: All refundable tax credits are calculated in the same way. The tax rate is multiplied by a maximum limit. If the tax rate goes down, the value of the tax credit goes down. That's generally how the calculation is done. It's not an error, it's an unintended consequence. Many other tax credits are calculated in the same way. Their value will be affected by the reduction in personal income tax.</ParaText>
+              <ParaText id="8929830">Do you think we should review the way refundable tax credits are calculated in general? Would this ensure that this type of consequence disappears when personal income tax is changed?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167505">
+            <PersonSpeaking>
+              <Affiliation DbId="323215" Type="28">Amanda MacKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929831">Yes, I very much think we should. I'll note that the disability tax credit and the medical expenses tax credit are non-refundable, so folks are not receiving any additional funds. They're just having their tax bill lowered. There is discussion around how, for the community and the financial security of people with disabilities, the disability tax credit should be refundable.</ParaText>
+              <ParaText id="8929832">We need to have a formula. I'm not a technical expert on this, but it's common sense to me to have a formula that ensures a tax reduction results in a real tax reduction for everybody who is eligible for other federal benefits and credits that are available in the tax system.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167531">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929833">Thank you, Ms. MacKenzie.</ParaText>
+              <ParaText id="8929834">
+                <I>Merci</I>, Monsieur Garon.</ParaText>
+              <ParaText id="8929835">For the final round of questioning, I believe we are going to both Mr. McLean and Mr. Stevenson for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167533">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson (Yellowhead, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929836">Thank you to the witnesses. I will try to be succinct with my questions.</ParaText>
+              <ParaText id="8929837">As a CPA in public practice for the last 26 years, I've spent a lot of time with the tax system. It is self-reporting, so for a lot of it, the government is relying on the taxpayer to give out certain information, but sometimes that information is not always available to them.</ParaText>
+              <ParaText id="8929838">I'll start by looking at affordability. You have both spit out a lot of information and statistics, but I'll start with Dr. Whitzman.</ParaText>
+              <ParaText id="8929839">Do you know how many first-time homebuyers are buying a new home? Do you have a number?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167542">
+            <PersonSpeaking>
+              <Affiliation DbId="323194" Type="28">Carolyn Whitzman</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929840">That is a really good question. I do not have that statistic on hand.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167546">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929841">I don't have it. I'm sorry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167547">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929842">The reason I'm asking is that, as most of us in here should know, GST does not apply to a used home; it applies only to new builds. If we have GST applying only to brand new homes for first-time homebuyers, I would submit that it applies to less than 5% of the actual buyers, if that. That might even be high. Looking at this as a program that is not applicable to 95% of the population, it's not really there. We don't have the numbers, so I can't ask about that.</ParaText>
+              <ParaText id="8929843">Mrs. MacKenzie, I know you guys like to make sure that they don't lose the non-refundable tax credit. Was there any discussion about changing it to an actual deduction or a refundable tax credit, instead of it being a reduction in income at that end of it?</ParaText>
+              <ParaText id="8929844">My personal thought is that those people who receive it are not paying that much tax anyway, so it doesn't really matter where on the tax return we're going to give it to them. I'm just wondering if you've looked at the other options.</ParaText>
+              <ParaText id="8929845">That's probably the rest of my time, so I'll leave it there and cede the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167570">
+            <PersonSpeaking>
+              <Affiliation DbId="323215" Type="28">Amanda MacKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929846"> First of all, Mrs. MacKenzie was my mom.</ParaText>
+              <ParaText id="8929847">In terms of folks who are benefiting from the disability tax credit, there is the actual taxation issue. For us, it's more about how this is yet another barrier if people think it's not as worthwhile as it's purported to be, even if they are not paying a lot of tax. It turns out, by the by, that the Library of Parliament, in its analysis, found that the most impacted are people who are earning on the low end.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167576">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929848">That's good. I was just wondering if you had asked that question about a different method of doing it instead. That's all.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167577">
+            <PersonSpeaking>
+              <Affiliation DbId="323215" Type="28">Amanda MacKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929849">The questions are out there in the community around whether it should be a refundable tax credit or a deduction, as you talked about. Right now, we're living with the system we have, the Canada disability—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167581">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929850">It's okay if you don't have the actual answer for that one. That's fine.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167583">
+            <PersonSpeaking>
+              <Affiliation DbId="323215" Type="28">Amanda MacKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929851">It's chatted about.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167585">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929852">I'll cede the rest of my time to Mr. McLean.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167589">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929853">Quickly, Mr. Lee, you talked about urban sprawl and the burbs versus the core. </ParaText>
+              <ParaText id="8929854">Where is the more valuable land? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167595">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929855">The most expensive land in any city is in the downtown area.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167598">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929856">The crisis is in the 10 largest cities in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167602">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929857">That's right.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167604">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929858">It's a crisis because of downtown zoning. Land speculation is a large part of that. Municipal fees are the other large part of that, as far as the increase in land....</ParaText>
+              <ParaText id="8929859">Who profits in land speculation? It's land speculators.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167606">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929860">Okay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167608">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929861">There you go. Thank you.</ParaText>
+              <ParaText id="8929862">This being the case, follow the money. Who's making money in the process, other than municipalities, governments and speculators? It's not the Canadian public that's being messed around with here. It is effectively the public that's paying money to certain people.</ParaText>
+              <ParaText id="8929863">Do you think the government understands the notion of how speculators make money?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167610">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929864">I don't think any government does. I really don't.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167612">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929865">Thank you very much.</ParaText>
+              <ParaText id="8929866">The last thing I want to ask you about is the withdrawal of the carbon tax. </ParaText>
+              <ParaText id="8929867">The carbon tax withdrawn in this budget is the consumer carbon tax. </ParaText>
+              <ParaText id="8929868">Does it matter if you have a consumer carbon tax or an industrial carbon tax built into the cost of everything in government?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167614">
+            <PersonSpeaking>
+              <Affiliation DbId="227374" Type="28">Ian Lee</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929869">No. That's because it gets passed down through the value chains of all the companies in the industry. Ultimately, there's only one taxpayer and they're called the end-user, which is us. We pay all taxes, including corporate income tax. That's been studied to death by the OECD.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167619">
+            <PersonSpeaking>
+              <Affiliation DbId="318000" Type="2">Greg McLean</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929870">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167622">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929871">Thank you, Mr. McLean.</ParaText>
+              <ParaText id="8929872">Mr. Turnbull, you have three minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167624">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929873">All right.</ParaText>
+              <ParaText id="8929874">Thanks to all the witnesses.</ParaText>
+              <ParaText id="8929875">Ms. MacKenzie, I want to say thanks again for your advocacy. I don't know if you had a chance to hear the previous panel, but we had Inclusion Canada here, which I think represented some of the views you probably share. </ParaText>
+              <ParaText id="8929876">I just want to make sure you were aware that <Affiliation DbId="318631" Type="4">Minister Champagne</Affiliation>, the Minister of Finance, was at committee on Monday. In his comments, I think he attempted to be reassuring to the disability community regarding the Department of Finance looking at options to solve an issue we take very seriously, which your organization has rightfully pointed out, the income tax cut in this bill.</ParaText>
+              <ParaText id="8929877">I want to reiterate something I said earlier. I think many stakeholders.... I confess that, before I entered federal politics, I had very basic knowledge on how legislation is done. I did not know the intimate details. The result is what I think the disability community is advocating for, which is to be made whole and not to be worse off after historic gains, such as finally getting the Canada disability benefit. </ParaText>
+              <ParaText id="8929878">Are you ambivalent about how the government makes the disability community whole, or are you tied to a very specific measure?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167642">
+            <PersonSpeaking>
+              <Affiliation DbId="323215" Type="28">Amanda MacKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929879">That's a very good question.</ParaText>
+              <ParaText id="8929880">As long as people with disabilities who are accessing these two credits are not worse off as a result of a very well-intended tax cut, I'm not particularly wedded to any method of doing so. I think that making sure it stands the test of time is the thing we're most concerned about. We don't have to go through this all over again with any subsequent tax cuts. </ParaText>
+              <ParaText id="8929881">Altering the method by which the DTC is calculated is probably the best way to go in order to make sure there aren't any further issues. Proactivity is a nice thing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167646">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929882"> Thank you for that response.</ParaText>
+              <ParaText id="8929883">I know I'm pretty much out of time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167650">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929884">You have 30 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167658">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929885">I really enjoyed the comment Ms. Whitzman made about duelling professors. I was excited to get you two sparring a little bit here, but unfortunately, we're out of time. </ParaText>
+              <ParaText id="8929886">Ms. Whitzman, I think you were on one of the pre-budget consultations that I did on housing. I want to thank you for the great feedback you provided in that process. I really appreciate your expertise.</ParaText>
+              <ParaText id="8929887">To you, Mr. Lee, as well, I appreciate your comments today. I don't agree with everything you said, but we don't have time to interrogate you now. </ParaText>
+              <ParaText id="8929888">I really enjoyed having both of you.</ParaText>
+              <ParaText id="8929889">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167662">
+            <PersonSpeaking>
+              <Affiliation DbId="320556" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8929890">Thank you very much, Mr. Turnbull.</ParaText>
+              <ParaText id="8929891">I will also add my gratitude to the three witnesses we had for this hour. Thank you for taking time to be with us and share your perspectives.</ParaText>
+              <ParaText id="8929892">Before we adjourn, I'd like to wish all members a very happy Thanksgiving. I hope you enjoy time with your families, and I look forward to seeing you when we come back.</ParaText>
+              <ParaText id="8929893">Do we have agreement to adjourn the meeting?</ParaText>
+              <ParaText id="8929894">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8929895">
+                <B>The Chair:</B> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

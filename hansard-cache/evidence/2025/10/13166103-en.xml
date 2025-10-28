@@ -1,0 +1,1074 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13166103">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Indigenous and Northern Affairs</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, October 8, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 8 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Indigenous and Northern Affairs</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 8, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 004</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">08</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/08 16:35:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des affaires autochtones et du Nord</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Indigenous and Northern Affairs</ExtractedItem>
+    <ExtractedItem Name="Acronyme">INAN</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Terry Sheehan</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166106">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair (Terry Sheehan (Sault Ste. Marie—Algoma, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927502"> I call this meeting to order.</ParaText>
+              <ParaText id="8927503">Welcome to meeting number four of the Standing Committee on Indigenous and Northern Affairs. We recognize that we meet on the unceded territory of the Algonquin Anishinabe peoples.</ParaText>
+              <ParaText id="8927504">Pursuant to Standing Order 108(2) and the motion adopted by the committee on Wednesday, September 24, 2025, the committee is commencing its study of indigenous policing and public safety. </ParaText>
+              <ParaText id="8927505">Today’s meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are attending in person in the room and remotely using the Zoom application.</ParaText>
+              <ParaText id="8927506">I would like to remind committee members of the following points. Please wait until I recognize you by your name before speaking. For those on Zoom, at the bottom of your screen you can select the appropriate channel for interpretation: floor, English or French. For those in the room, you can use your earpiece and select the desired channel. All comments should be addressed through the chair. For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage as such.</ParaText>
+              <ParaText id="8927507">Before we begin, I would like to draw to the attention of our members the budget for this particular study on indigenous policing and public safety. The amount requested is $58,050. </ParaText>
+              <ParaText id="8927508">Is everyone is favour of adopting the budget? </ParaText>
+              <ParaText id="8927509">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13167787">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927510">Thank you.</ParaText>
+              <ParaText id="8927511">I'd like to welcome our witnesses today. From the Office of the Auditor General, we have Andrew Hayes, deputy auditor general; Jo Ann Schwartz, principal; and Jennifer Hum, audit project leader. </ParaText>
+              <ParaText id="8927512">You have five minutes for your opening statement, after which we will proceed to rounds of questions.</ParaText>
+              <ParaText id="8927513">Proceed, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170096">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes (Deputy Auditor General, Office of the Auditor General)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927514">Mr. Chair, thank you for this opportunity to appear before your committee today in the context of its study on indigenous policing and public safety.</ParaText>
+              <ParaText id="8927515">Today I will be discussing our 2024 report on the first nations and Inuit policing program. I would like to acknowledge that this hearing is taking place on the traditional unceded territory of the Algonquin Anishinabe people. Joining me today are Jo Ann Schwartz, the principal who was responsible for the audit, and Jennifer Hum, the audit project leader.</ParaText>
+              <ParaText id="8927516">The first nations and Inuit policing program was created in 1991. We audited this program in 2014, 11 years ago, and again in 2024. Both times, we found critical shortcomings in how the program was being managed. Public Safety Canada is the lead in managing and overseeing the program. We found that the department did not work in partnership with indigenous communities to provide equitable access to policing services that were tailored to their needs. </ParaText>
+              <ParaText id="8927517">Through the program's community tripartite agreements, the Royal Canadian Mounted Police, or RCMP, delivers dedicated policing services that supplement the ones from the province or territory. We found that the RCMP did not work in partnership with indigenous communities to provide proactive policing services. </ParaText>
+              <ParaText id="8927518">While funding had significantly increased since our last audit in 2014, we found that $13 million of funds earmarked for the 2022-23 fiscal year went unspent. In October 2023, Public Safety Canada had anticipated that over $45 million of program funds would be left undisbursed at the end of that fiscal year. According to the department's 2023-24 results report, almost $48 million was left undisbursed. This was concerning in the context of a program intended to support the safety of indigenous communities.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8927519">Public Safety Canada did not have an approach for distributing funds equitably among communities. The department told us that it relied on the extent to which provinces and territories were willing to fund their share of the program, as well as the funding that communities had received in the past, to determine the amounts allocated.</ParaText>
+              <ParaText id="8927520">From fiscal year 2018–19 to fiscal year 2022–23, the RCMP was unable to fill all positions for which it received funding under tripartite community agreements. As a result, first nations and Inuit communities did not receive the proactive, community-based policing services they should have received.</ParaText>
+              <ParaText id="8927521">Ultimately, neither Public Safety Canada nor the RCMP was able to determine whether the requirements set out in the policing agreements were being met and whether the program was producing the expected results. It's important to monitor and analyze data not only to meet the safety and security needs of communities, but also to support their self-determination.</ParaText>
+              <ParaText id="8927522">Given that this program hasn't been updated since 1996 and has long-standing issues, Public Safety Canada must work with first nations and Inuit communities, provinces and territories, and the RCMP to find a more effective and proactive way to deliver culturally appropriate services.</ParaText>
+              <ParaText id="8927523">Mr. Chair, that concludes my opening statement. We would be happy to answer any questions from the members of the committee.</ParaText>
+              <ParaText id="8927524">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13167790">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927525"> Thank you very much, Andrew. That's right on time.</ParaText>
+              <ParaText id="8927526">For the first round, each party will have six minutes. We will start with MP Schmale.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="13169815">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="47">Jamie Schmale (Haliburton—Kawartha Lakes, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927527"> Thank you very much, Chair. </ParaText>
+              <ParaText id="8927528">Thank you to our witnesses for coming for this very important study. I appreciate your feedback and view into some of the challenges with this program. </ParaText>
+              <ParaText id="8927529">In your two audits, in the time between the first one and the second one, how many recommendations were worked on and how many objectives were completed when you looked at it the second time around?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13169926">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927530"> I don't think I can give you a precise answer to that question. What I can say is that, in this audit, we found that many of the recommendations we made in 2014 still remained unaddressed. This wasn't a direct follow-up of our 2014 work, but findings such as the need to update the program policy, which dated back to 1996.... That hadn't been done, despite an agreement to our recommendation in 2014. </ParaText>
+              <ParaText id="8927531">There were findings in 2014 about the importance of meaningful engagement with communities. Again, we found that this was a problem here. Finance and funds allocated had been determined without engaging with the communities. Again, we found that the departments did not monitor or report on whether the program was funding police services that were dedicated and responsive to the needs of communities. </ParaText>
+              <ParaText id="8927532">In effect, these are major findings from 2014 that still exist now. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170371">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="40">Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927533"> Wow. Okay. That's quite significant, when you said 1996 was the last time someone really dove into it and made substantial changes. A lot has changed in the world and in policing in general, especially with indigenous policing. </ParaText>
+              <ParaText id="8927534">In 2019—this is the political side—the Prime Minister at the time, Justin Trudeau, said in a mandate letter to the ministers that there was a direction to move into making indigenous policing “an essential service”.</ParaText>
+              <ParaText id="8927535">Based on what you're seeing and any new information you may have in front of you—I know you mentioned the vacancies in the RCMP that went unfilled—do you think the department is any closer to achieving that goal, or is there too much work still to be done?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170490">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927536"> I think that would be a question, in the context of your study, that I would pose to the department. </ParaText>
+              <ParaText id="8927537">What I can point you to in our report is that in exhibit 3.2, we talk about the fact that in 2021, $43.7 million was identified over five years to co-develop legislation to recognize first nations policing services as an essential service. To my knowledge, I don't know that legislation or draft legislation has been put before the House on that. Getting an update from the department might be something that the committee may want to ask.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170566">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="40">Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927538">Yes, absolutely. We're hoping to have them here a little later today. I thought that if you knew, I could probably direct my question. That's okay. It's no problem.</ParaText>
+              <ParaText id="8927539">You mentioned the RCMP and unfilled vacancies. During your research, was there a reason or reasons given as to why a great number of positions were vacant at the time?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169898">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927540"> There are definitely challenges for the RCMP in recruiting the officers they need for police services nationwide. I think that's a reality. In fact, we will be doing an audit of recruitment by the RCMP, which we intend to present to Parliament in the spring of 2026. </ParaText>
+              <ParaText id="8927541">When I look at this program in particular and our findings back in 2024, one of the challenges that faced the RCMP is that Public Safety Canada would be entering into agreements and committing the RCMP to particular service levels without engaging with the RCMP at the time. We made a recommendation about the importance of everybody being part of those discussions. I think the RCMP should be part of those discussions in order to be able to plan their work and their staffing needs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169959">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="40">Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927542"> In your view—again, if you don't know the answer, it's fine, and I'll ask the RCMP when they come to a future meeting—at the time, was there any program that you were aware of or can recall that focused on recruiting indigenous people to join the RCMP to patrol in areas that were under-serviced?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170012">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927543"> I do know that the RCMP has been trying to recruit from various backgrounds. I think that is a question that might be best put to the RCMP. It will be something that we will be looking at in the context of our audit, but seeing as how you'll likely have them in front of you before our report comes out in the spring, that would be a question for them.</ParaText>
+              <ParaText id="8927544">My colleague, Ms. Schwartz, might want to add something here.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170039">
+            <PersonSpeaking>
+              <Affiliation DbId="237874" Type="28">Jo Ann Schwartz (Principal, Office of the Auditor General)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927545"> While I can't speak specifically to a strategy for indigenous recruitment, we did find that the RCMP didn't have a national staffing approach that would focus on how it would fill the gaps it had for the community tripartite agreements. We talk about that in our report, in paragraph 3.56. Such a national staffing approach could consider whether they want to have specific attention for recruitment of indigenous officers, but there was no national approach when we looked at it in 2024.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170066">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="40">Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927546"> How much time do I have, Chair?</ParaText>
+              <ParaText id="8927547">
+                <B>The Chair:</B> You have 10 seconds.</ParaText>
+              <ParaText id="8927548">
+                <B>Jamie Schmale:</B> I don't think I have time to get into my next one, but a lot of what we're talking about today has been raised in a debate that we're having in the House right now, about how reports are being tabled and the information is there, but departments are not following through. The fact is that the program has not been updated since 1996. We've had two reports and still we have issues. I think that highlights the ongoing problem with departments not following through with what has been committed to, so thank you for your input. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170117">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927549"> Thank you, MP Schmale.</ParaText>
+              <ParaText id="8927550"> Now we'll go to MP Hanley for six minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170138">
+            <PersonSpeaking>
+              <Affiliation DbId="319730" Type="47">Brendan Hanley (Yukon, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927551"> Thank you very much for being here.</ParaText>
+              <ParaText id="8927552"> It's really interesting to begin this really important study with your report, which of course covered some gaps and deficiencies in how well the federal funding flow is having an impact and where we need to improve.</ParaText>
+              <ParaText id="8927553">In the report, you discuss different models of funding that are available through federal sources, including the tripartite agreements, which, as far as I can determine from the report and the map, apply to Yukon communities. For context, most communities in the Yukon are made up of a mix of first nation and non-first nation citizens. We don't have reserves in the territory, as you know, and 11 of the 14 Yukon first nations are self-governing, with modern treaties.</ParaText>
+              <ParaText id="8927554">I don't see modern treaty nations specifically referred to in the report. No doubt it was in your discussions and your consultations. I am aware of some of the previous Assembly of First Nations deliberations in the area of indigenous policing, such as a resolution in December 2021 where they advocated for “a Nation-to-Nation, Treaty-based approach to the development of policing legislation and supporting [the development of] regional policing solutions that include the transfer of sustainable, guaranteed funding to the respective regions.”</ParaText>
+              <ParaText id="8927555">Following that, there was a regional assembly in the Yukon, a summit, and some of the themes in that summit to inform the national AFN recommendations were “Supporting the Modern Treaty Rights”; recognizing and addressing “Mental Health and Community Safety”, including appropriate resources; “Shifting Towards Prevention, Healing, and Restorative Justice”; and “Learning from the Community Safety Officer Program”. A lot of that we will be addressing during this study, I hope.</ParaText>
+              <ParaText id="8927556"> Of course, none of that removes the need for adequately resourced frontline policing, but they're all important for a holistic and sustainable approach to community safety and justice.</ParaText>
+              <ParaText id="8927557">I guess my question, after that long preamble—uncharacteristically long, I might say—is this: Were policing services in nations with modern treaties considered in your report?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170028">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927558">We focused on the way the government works through this policy, this program. Our focus wasn't really on the provision of police services per se. What we were interested in was whether or not the RCMP and Public Safety, in the nature of their responsibility for this program, engaged with the first nations and the Inuit communities to identify how to deliver policing services that were tailored to the needs of those communities and that were responsive to their cultural realities.</ParaText>
+              <ParaText id="8927559">I wouldn't say that I'm able to speak specifically about how it is in a particular community that's covered by modern treaties. As the Auditor General of Canada, we are also the auditor in Yukon, so we are familiar with the realities in Yukon, but I can't say that this audit has the disaggregated information at that level.</ParaText>
+              <ParaText id="8927560">What I do think is important from our recommendations, particularly to the RCMP, is the importance of cultural awareness training and engagement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170134">
+            <PersonSpeaking>
+              <Affiliation DbId="319730" Type="47">Brendan Hanley</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927561"> Yes, those are very important points. Thank you.</ParaText>
+              <ParaText id="8927562">I also didn't see.... When you refer to inequities, particularly with regard to Public Safety's role, how did you define “equitable” in your report? How would we then determine how to address inequities? What are the measures that we should use?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170180">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927563"> Thank you very much for that question. To me, that is one of the areas I think this committee can really dig into and add some value.</ParaText>
+              <ParaText id="8927564">To put a bit of a frame around it, the policy refers to the idea of providing funds “equitably”, but as we said in our report, Public Safety Canada did not define what equitable funding meant. In other audits that we did, we talked about the concept of equity. I don't want to be in the position of setting policy, but generally, equity refers to outcomes, getting to equal outcomes—not looking at it from the perspective of equality but of equity, bringing the furthest up from behind.</ParaText>
+              <ParaText id="8927565">What we found in this audit—on the basis of the documents we reviewed—was that funding allocation wasn't based on priorities relating to equity. It was really related to whether or not a province or a territory was ready to provide their portion of funding and—particularly in relation to the $500 million of additional funding that was provided almost five years ago now—it was related to the historic funding that had been provided to some of these communities. Putting it in a different way, the funding has largely been used to stabilize existing agreements, rather than expanding it to other communities. </ParaText>
+              <ParaText id="8927566">Concepts of equity might bring a different result if they were applied.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170377">
+            <PersonSpeaking>
+              <Affiliation DbId="319730" Type="47">Brendan Hanley</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927567">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170394">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927568"> Thank you, Brendan. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8927569">Mr. Lemire, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170413">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="47">Sébastien Lemire (Abitibi—Témiscamingue, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927570">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8927571">Ten years ago, former auditor general Michael Ferguson said that the program wasn't working as intended. Ten years later, your audit comes to the same conclusion.</ParaText>
+              <ParaText id="8927572">How is it that your audit raises the same systemic issues after more than a decade? What's the problem?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169997">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927573">Thank you.</ParaText>
+              <ParaText id="8927574">This is another example of an audit where we found problems that had already been raised in a previous audit. The departments had accepted the recommendations we made at the time, and when we went back to do other audits on similar subjects—it wasn't a follow-up—we found the same problems.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="13169966">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927575">In the context of such an audit, we think it's important that we submit a report to Parliament that mentions the shortcomings. It's important that committees like this study these findings and ask tough questions of the department.</ParaText>
+              <ParaText id="8927576">Exactly, except that they took your recommendations but didn't implement them, since we ended up with the same report. Indeed, parliamentarians have a role to play, particularly those in the opposition, but the government has failed in this context.</ParaText>
+              <ParaText id="8927577">You state in your report that Public Safety had entered into self-administered service agreements or tripartite agreements. However, a number of communities aren't served and fall under provincial jurisdiction, such as the community of Long Point, in my region.</ParaText>
+              <ParaText id="8927578">Who ultimately pays for those services?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169988">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927579">I don't know the specific details for that community, but there are agreements with the provinces. When there is a provincial police force, it is different from other provinces where there is none. Three provinces are different, and Quebec is one of them. The way these provinces are funded is different. That's a question you would probably have to ask the RCMP.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169999">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927580">That's interesting. We see that if the federal government doesn't do its job with indigenous police forces, the provinces, particularly Quebec, end up footing the bill.</ParaText>
+              <ParaText id="8927581">Since the provinces are paying, why is the Department of Public Safety unable to increase its percentage or participation?</ParaText>
+              <ParaText id="8927582">The provinces spend more to cover the costs of unserved nations, or rather to cover the costs of certain services. What do you think of the excuse given by the Department of Public Safety for not investing in the provinces because the provinces aren't providing enough money?</ParaText>
+              <ParaText id="8927583">I'm going to quote Shawn Tupper, former deputy minister of public safety, who testified at the public accounts committee on April 30, 2024. He said:</ParaText>
+              <ParaText id="8927584">
+                <Quote>
+                  <QuotePara Align="Left"> We are stuck in a situation where a province can choose not to match the funds, so we can't flow the funds. It may be, as we've seen in recent years, simply a labour market choice—the RCMP are unable to fully staff their vacant positions.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8927585">This is a systemic and real problem.</ParaText>
+              <ParaText id="8927586">How can we accept the fact that the federal government is disengaged because it hasn't succeeded in either its recruitment strategy or its funding strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170007">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927587">That's a question for the department, but I can add that it's a cost-shared funding program. With respect to the first nations policing program, we made a recommendation to the department that it is important for the federal government to find solutions to disburse available federal funds when provinces and territories are unable to provide their share of funding. We think this is part of the question that was asked earlier about equity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170018">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927588">You said that $13 million of program funds related to the 2022-23 fiscal year had not been spent. In 2023-24, it was $45 million. If we follow the same logic, should we expect that there will still be money lapsed in 2024-25? Is it a lack of will on the part of the federal government, if I can put it that way, or is it the fact that it is unable to fully discharge its responsibilities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170025">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927589">I want to clarify that the funds mentioned in our report for the 2023-24 fiscal year were from October 2023. We looked at the department's reports and found that almost $48 million had not been spent. It is likely that some amounts won't have been spent in 2025. We don't have that information for you today. Those funds will probably be tabled in the public accounts in a few weeks, I think. This is a worrisome situation, because the purpose of these funds is to improve the safety and security of communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170042">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927590">I get the impression that the pressure to fund police services rests, in a significant way, on the provinces, since this is their responsibility.</ParaText>
+              <ParaText id="8927591">How do we align that? Would it ultimately be easier to transfer the money to the provinces? Would it lead to better outcomes? Would it increase the effectiveness of the programs if the provinces had only one way to spend the money? Would that help the services provided on the ground in indigenous communities, particularly those that are less served or unserved?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13169972">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927592">I think that's—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170000">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927593">Please give a brief answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174674">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927594">Okay.</ParaText>
+              <ParaText id="8927595">I think that's a policy question, so the question should be put to the department. However, I would say that the federal government has an indigenous mandate, so the jurisdiction is shared.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170088">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927596">Thank you.</ParaText>
+              <ParaText id="8927597">I'm sorry, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170105">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927598">Thank you.</ParaText>
+              <ParaText id="8927599">Ms. Lavack, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170145">
+            <PersonSpeaking>
+              <Affiliation DbId="319729" Type="47">Ginette Lavack (St. Boniface—St. Vital, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927600">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8927601">I'd also like to thank the witnesses for sharing their comments with us today.</ParaText>
+              <ParaText id="8927602">In your opening remarks, you made a comment—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170171">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927603">I am sorry. Mr. Morin is first.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170234">
+            <PersonSpeaking>
+              <Affiliation DbId="319781" Type="47">Billy Morin (Edmonton Northwest, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927604">Thank you, Chair.</ParaText>
+              <ParaText id="8927605">I'm happy to be here, finally, to get in some dialogue with the committee. It's mid-October.</ParaText>
+              <ParaText id="8927606">Thank you to the AG team for coming today.</ParaText>
+              <ParaText id="8927607">I want to express a little bit of disappointment, though. Originally, the <Affiliation DbId="318630" Type="4">public safety minister</Affiliation> was supposed to attend today. Of course, he is the previous ISC minister. I'm sure he could have provided critical information to this dialogue today that's so important to indigenous communities. I want to express that disappointment. It sends the wrong message to first nations, indigenous, Métis and Inuit communities about how important this conversation is to the government.</ParaText>
+              <ParaText id="8927608">Thank you to the AG team for making it a priority today.</ParaText>
+              <ParaText id="8927609">One of the most tragic events in public safety for indigenous communities happened in September 2022, when there were 11 stabbing deaths and multiple other injuries on the James Smith Cree Nation. I spoke to Chief Kirby Constant from James Smith Cree Nation this week. I asked him if there has been a change in the approach of the government over the last three years since the tragedy happened. I want to quote Chief Kirby Constant's feedback. He said, “James Smith Cree Nation needs to move beyond the one-size-fits-all approach where Public Safety or RCMP dictate the model. We want our own policing framework under our own control and budget, not as an 'add-on' to federal or provincial programs.” Those are the words of Chief Constant from James Smith Cree Nation.</ParaText>
+              <ParaText id="8927610">Can the Auditor General comment on how Chief Constant's views back up specific failures of the Public Safety ministry and the RCMP cited in your 2024 report on the first nations and Inuit policing program, specifically financial...lack of equitable funding implementation and lack of accountability for program effectiveness?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170784">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927611">In our 2024 report, we found that the department had not engaged with the first nations and Inuit communities in a way that would have allowed or supported meaningful contributions by those communities. For example, the funding decisions had already been made before the first nations communities or Inuit communities were consulted or engaged. It is important to engage with those communities before those decisions are finalized.</ParaText>
+              <ParaText id="8927612">The other thing I would point to from our report—and we've made recommendations about this—is the importance of understanding and training frontline workers and officers on the cultural traditions' importance and sensitivities for specific communities. To talk about the tailoring of services requires a deep understanding of the needs of the community.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170880">
+            <PersonSpeaking>
+              <Affiliation DbId="319781" Type="47">Billy Morin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927613">I certainly hear from Chief Constant that he wants a different formula. Your report says things have to change. On the Conservative side of things, we always support self-determination and giving that responsibility back to the communities. That's where the solutions lie.</ParaText>
+              <ParaText id="8927614">Something this report talks about a lot is self-administered police service agreements. I saw a lot of failures on the RCMP tripartite model. Hopefully, those get fixed one day. Can you comment on whether you had an opinion, some data or some feedback on the self-administered policing agreements? I didn't see as much push-back on those, and that speaks to Chief Constant's position that he wants to have more of a self-administered agreement with the Government of Canada to do his own policing. Are those agreements better than the current tripartite models?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13167797">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927615"> That's a question that would need to be asked of a community in particular. I think there are communities that probably prefer that model, while there are others that would prefer the community tripartite agreement model.</ParaText>
+              <ParaText id="8927616">In our view, it's incumbent on the government, in partnership with the provincial government and the communities, to identify what model might work best for them.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170140">
+            <PersonSpeaking>
+              <Affiliation DbId="319781" Type="47">Billy Morin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927617">I have one final quick question, Chair.</ParaText>
+              <ParaText id="8927618">During the last fiscal year that you studied, how much money went unspent that could have gone to indigenous communities for direct policing investment?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170244">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927619">The most recent numbers we have come from the departmental report of 2023-24, which said $48 million was left unspent. I should give the department a bit of room here, because some of that money could be repurposed to future years. I don't know the answer to that question.</ParaText>
+              <ParaText id="8927620">That's something you could ask the department, but it could be as high as $48 million.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170382">
+            <PersonSpeaking>
+              <Affiliation DbId="319781" Type="47">Billy Morin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927621">Certainly, there's a crisis right now. [<I>Inaudible—Editor</I>] spent and invested.</ParaText>
+              <ParaText id="8927622">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170430">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927623">Madame Lavack.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170462">
+            <PersonSpeaking>
+              <Affiliation DbId="319729" Type="47">Ginette Lavack</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927624">Take two.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8927625">Once again, I'd like to thank the witnesses for appearing today.</ParaText>
+              <ParaText id="8927626">As you've mentioned, the report highlights the lack of information necessary to measure program effectiveness. There are no objectives and there's no way to determine whether those objectives are being met.</ParaText>
+              <ParaText id="8927627">How does this lack of information on program effectiveness affect the well-being of first nations and Inuit communities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170506">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927628">This finding matters a lot to us. Performance measures are important in program management. The department cannot improve this program if it doesn't have the necessary information regarding the agreements. Moreover, it has to monitor the RCMP's performance to make sure the requirements of the agreement are met. It's an important element.</ParaText>
+              <ParaText id="8927629">I can't say whether there's a direct link with the safety and security of the communities, but without that information, the department can't change or improve things.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170599">
+            <PersonSpeaking>
+              <Affiliation DbId="319729" Type="47">Ginette Lavack</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927630">Have you recommended certain measures in your report? Could you tell us about them?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174792">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927631">Yes, we made recommendations. They are similar to the ones we made in 2014 to improve performance measures. The department is responsible for putting methods in place to measure performance, but we do think that's an important recommendation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174816">
+            <PersonSpeaking>
+              <Affiliation DbId="319729" Type="47">Ginette Lavack</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927632">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170648">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927633"> You have a bit more time. Are you done? Okay. Thank you.</ParaText>
+              <ParaText id="8927634">Monsieur Lemire, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170682">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="47">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927635">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8927636">Thank you for appearing, Mr. Hayes. Once again, the quality of your report is surprising. In your report, you mention that Public Safety Canada lacks information technology systems to track spending related to the first nations and Inuit policing program. The deputy minister, Shawn Tupper, confirmed this at a meeting of the Standing Committee on Public Accounts. He said, “We have simply not been able to sustain an IT system that allows us to do the kind of data analytics that we need to do.”</ParaText>
+              <ParaText id="8927637">Do you know whether that's still the case? Do other programs or departments have the same issue? Can you elaborate on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13167798">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927638">I don't know whether it's still the case. However, it's crucial for the department to know where the money is going. I was surprised to see that the department couldn't tell us exactly how much of the program funding had gone where. </ParaText>
+              <ParaText id="8927639">I don't know what the department has done since we published our report almost 18 months ago. You'd have to ask them.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="13170107">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="47">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927640">We are indeed looking forward to asking them.</ParaText>
+              <ParaText id="8927641">I'd like once again to quote the deputy minister, Shawn Tupper. During his April 30, 2024, appearance, he said:</ParaText>
+              <ParaText id="8927642">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">I won't defend my IT system in the department. The department, over time, has not made the investments it needs to make, and those are oftentimes expensive investments. We have simply not been able to sustain an IT system that allows us to do the kind of data analytics that we need to do. This is something that I am looking at now and trying to figure out ways so that I can find the cash to make that kind of investment. That's a department-wide challenge that I have.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8927643">Based on your analysis, are there other elements we should focus on when it comes to the management of IT systems at the Department of Public Safety and Emergency Preparedness?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170030">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927644">I don't know of another system like that at the department. We did, however, publish a report on the government's information technology systems and found that many were outdated. We made recommendations to the federal government to fix those issues.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170241">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="47">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927645">Hopefully, the costs won't balloon as well.</ParaText>
+              <ParaText id="8927646">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174253">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927647">Mr. Zimmer, you're next. You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170424">
+            <PersonSpeaking>
+              <Affiliation DbId="319779" Type="47">Bob Zimmer (Prince George—Peace River—Northern Rockies, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927648">Thank you, Chair. I don't think I'll need all five minutes.</ParaText>
+              <ParaText id="8927649"> Once again, thank you, Deputy Auditor General, for your report. It's very thorough, as usual. We appreciate that.</ParaText>
+              <ParaText id="8927650">Let me refer to page 15, section 3.56, where you state the following:</ParaText>
+              <ParaText id="8927651">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> We found that, although the RCMP had acknowledged broader staffing challenges, it had no national staffing approach to fill its obligations under the community tripartite agreements as police service providers. RCMP divisions had to work among themselves to address resource gaps. RCMP officials told us that the RCMP struggled to attract new recruits to community tripartite agreement positions due to factors such as remoteness.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8927652">I'm up in the north quite a bit. I've been to Cambridge Bay, even just a month ago, to see the needs or the lack of certain resources first-hand. It seems that the RCMP is lacking sufficient resources, and it's a problem. When I was in Cambridge Bay, the first concern brought to me by Canadian rangers, when they met me, wasn't community policing. It was actually the concern that their hunting firearms would be prohibited—for instance, the SKS, which they use thoroughly for hunting—and would be confiscated by this Liberal government.</ParaText>
+              <ParaText id="8927653">My question for you is very much related to community policing. Considering that RCMP management in Ottawa can't ensure that the basic policing needs of first nations and Inuit are met, do you think it's a good use of manpower and money to go after law-abiding firearms owners, many of whom are Inuit Canadian rangers, when they clearly are not the problem?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13166597">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927654">That is not a subject matter that we cover in our report. What we did cover is that the RCMP should be engaged when the department is making agreements that will have an impact on the staffing levels or the resourcing for the RCMP.</ParaText>
+              <ParaText id="8927655">In terms of RCMP resources, I'm sure the commissioner might be in a good position to answer questions about that. However, we did note that, because the RCMP wasn't able to staff all of those—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170502">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927656">Mr. Chair, I have to interrupt the witness. There's no interpretation. Let's give the interpreters a minute to fix things.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170511">
+            <PersonSpeaking>
+              <Affiliation DbId="319779" Type="47">Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927657"> I didn't get the interpretation, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170520">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927658"> Can we check on that? Can everyone turn their microphones off? Thank you.</ParaText>
+              <ParaText id="8927659">Please continue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170570">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927660"> Thank you.</ParaText>
+              <ParaText id="8927661">Our report focused on the RCMP's resourcing in the context of some of the spending. In addition to the comments about the recruitment strategy, the RCMP left $3.6 million unspent, and that would have been used for police officers under the community tripartite agreements. In terms of—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13166625">
+            <PersonSpeaking>
+              <Affiliation DbId="319779" Type="47">Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927662">I guess, to be more specific, the point is that we've seen money left on the table by the RCMP in Ottawa, the administrative...the managers who are doing that. The point I was making is that we already have a limited police force staff. We are already seeing that it's an issue, based on what you said in your report, and now that limited staff.... It's even hard to fill the jobs. There are many needed positions that haven't been filled. Those police officers, who are overtasked as it is, are now going to be given a new role in confiscating firearms across the territories.</ParaText>
+              <ParaText id="8927663">I was going to ask you if you think that's a good use of police manpower and money.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166649">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927664">The question is really one of policy, and it would be for the government to engage with the RCMP about priorities. In the report, one of our recommendations is for the department, in this case, to engage with the RCMP about their priorities for the community tripartite agreements.</ParaText>
+              <ParaText id="8927665">I wouldn't be in a position to comment on where the government should put its policies.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166664">
+            <PersonSpeaking>
+              <Affiliation DbId="319779" Type="47">Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927666">Thank you.</ParaText>
+              <ParaText id="8927667">I have one last comment. I would say that's something we can extrapolate and interpret based on what your report is saying. There are needs in the north. There are needs in first nations and Inuit communities, and this current Liberal government is going to give that already taxed resource more things to do in going after law-abiding firearms owners who, again, aren't the problem.</ParaText>
+              <ParaText id="8927668">Thank you again, Auditor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166667">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927669">Mr. Melillo, go ahead for one minute.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166668">
+            <PersonSpeaking>
+              <Affiliation DbId="319782" Type="47">Eric Melillo (Kenora—Kiiwetinoong, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927670">Chair, you're very gracious with that one minute. I appreciate that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166670">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927671">It's the technical issues.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166672">
+            <PersonSpeaking>
+              <Affiliation DbId="319782" Type="47">Eric Melillo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927672">I appreciate our witnesses for being here.</ParaText>
+              <ParaText id="8927673">What struck me earlier in the comments in this discussion was that there really haven't been updates to this policy since 1996. Obviously, a lot has changed in policing. There have been a number of reports from the Auditor General. There have been reports from this committee and many others from outside organizations calling for change and highlighting the gaps and the issues that exist, yet the government has not taken action. We've seen, over the course of time, the current government looking to create more officers and more commissioners to investigate things instead of just listening to the reports that are being brought forward.</ParaText>
+              <ParaText id="8927674">What accountability is there for the government to move forward on these things? I ask because you've done a lot of great work highlighting these issues, yet the issues persist today.</ParaText>
+              <ParaText id="8927675">I'm sorry for going over time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166686">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927676"> It was only a bit.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166692">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927677">Thank you for the question.</ParaText>
+              <ParaText id="8927678">I'm aware of the debate that's happening on Bill <Document DbId="13605049" Type="3">C-10</Document> and the creation of a new agent of Parliament. As the Office of the Auditor General, we are supportive of accountability mechanisms. As the Auditor General, we have a broad remit to audit basically anything that government spends money on. We will continue to focus on matters that relate to first nations and Inuit. Indeed, we have a few reports coming out in two weeks that I'm sure this committee will be interested in. That will continue, regardless of whether other accountability mechanisms are introduced.</ParaText>
+              <ParaText id="8927679">I think what's maybe important to bring out is the role that committees can play in holding departments to account for the promises and commitments they make. In the public accounts committee, there are action plans that follow our reports. Those could be useful for the committee to look at, to identify what should be followed up on with the departments.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166705">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927680">Thank you.</ParaText>
+              <ParaText id="8927681">Now we'll go to Jaime for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166709">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste (Cape Breton—Canso—Antigonish, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927682">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8927683">I have one question, and after that I would like to table a motion. I've given it beforehand, on September 22, and I've given it to the clerk, so if they could distribute that while I ask the question, that would be great for discussion.</ParaText>
+              <ParaText id="8927684">You mentioned that there was a large number of unspent dollars federally that could have gone into this fund. In your research, are the funds that weren't spent flexible in terms of the federal government's ability to put these out to these communities, or were they contingent on provincial governments matching that? I understand that in large areas, 52% of this has to be funded by the federal government, which means 48% has to be funded by the provincial governments. I'm wondering if the unspent money is largely due to inflexibility, or is it because we didn't have matching contributions from provinces?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166723">
+            <PersonSpeaking>
+              <Affiliation DbId="245353" Type="28">Andrew Hayes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927685">When you have the department in front of you, I'm sure they will point to the fact that the department looks to the provinces and territories as being ready to provide their 48% of the funds before being able to move forward.</ParaText>
+              <ParaText id="8927686">One of our recommendations was about considering what revisions can be put in place to allow for solutions to disburse federal funds that are available when provinces and territories are unable to secure their share of funding.</ParaText>
+              <ParaText id="8927687">Our report is there on the horizon with other pieces of information, such as the Supreme Court of Canada's decision in 2024 and the Quebec court of appeal before that, which talks about the honour of the Crown and engaging in good faith with indigenous, first nations and Inuit communities. From our perspective, there isn't a legal impediment. </ParaText>
+              <ParaText id="8927688">Maybe it's the way it happens that the department looks for the provinces to be ready to partner, but at the end of the day, these are federal amounts that are intended to improve policing in first nations. In our view, solutions should be considered to get those amounts equitably out to those communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166747">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927689">Thank you.</ParaText>
+              <ParaText id="8927690">Mr. Chair, with that, I would like to move a motion that I sent out in both official languages on September 22, 2025. </ParaText>
+              <ParaText id="8927691">I think there have been discussions with all parties that there is an interest in looking at a study around the impacts of Indian Act membership, subsections 6(1) and 6(2), also known as the second-generation cut-off. The study will examine the impacts of the non-stated paternity policy and the gradual decrease of status Indians in some first nations bands—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13166754">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927692">Mr. Chair, there's no interpretation. It might be useful to give the interpreters a copy of the motion, so they can read it. We have copies in both languages.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166755">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927693">I apologize.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166760">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927694">You didn't do anything wrong, Mr. Battiste.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166764">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927695">Can you do that over again?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166766">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927696">It's just giving time for the translators to get the motion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166771">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927697">Don't you have it in front of you?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166773">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927698">Yes, but it's for them.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8927699">It's for the Canadian citizens passionately watching this meeting who would like to understand the motion in both official languages.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166778">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927700">I'm going to suspend for a couple of minutes.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166802">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927701">Okay. We're back at it.</ParaText>
+              <ParaText id="8927702">Jaime, please take it from the top.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166803">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927703">Thank you, Mr. Chair, for that.</ParaText>
+              <ParaText id="8927704">There's been some discussion among the parties, and I would like to table a motion for a study. The study will look at the impacts of Indian Act membership codes, specifically subsections 6(1) and 6(2), also known as the second-generation cut-off. The study will examine the impacts of the non-stated paternity policy and the gradual decrease of status Indians in some first nations bands and look for possible solutions and amendments to the Indian Act.</ParaText>
+              <ParaText id="8927705">I want to talk a little bit about why this is necessary. I think subsections 6(1) and 6(2) came about in 1985. Over the last 40 years, we've seen that there's an appetite to amend the Indian Act or to remove these subsections. We've heard from first nations leaders. We've heard from government officials. I think there is a genuine appetite to remove the second-generation cut-off clauses and the non-stated paternity policy. </ParaText>
+              <ParaText id="8927706">However, the question now becomes this: What do we replace them with? I think that's the difficult question that we have with this study in saying that we all know that the second-generation cut-off and the non-stated paternity policy are no longer working for first nations communities. I think we all know that it should be the first nations communities themselves that decide who is or isn't a member of their community, not the Indian Act subsections from 40 years ago.</ParaText>
+              <ParaText id="8927707">I think the question is this: How do you do this in a way that ensures that there's full, free, prior and informed consent of first nations communities if we change anything in the Indian Act; that ensures that it's optional; and that ensures that it's something that's not coming from Parliament, the Senate or the Prime Minister's Office? It should come from first nations communities themselves. </ParaText>
+              <ParaText id="8927708">I have had some really great conversations with folks around this. I've had some really great conversations with the national chief and many first nations leaders. I think we should be looking at a study at some time in the future. At that point, I'm hoping that the AFN will have passed a resolution that tells us what the majority of the first nations leaders believe is the way forward on this. </ParaText>
+              <ParaText id="8927709">I know this is a difficult conversation. As someone who was the Mi'kmaq citizenship coordinator for the Assembly of Nova Scotia Mi'kmaw Chiefs for four years, I know how difficult the conversation can be about who is included, who is excluded and the criteria around that. However, I think it's time for us to have the conversation around that. I think the conversation needs to be directed towards what we amend in the Indian Act, how we replace this and what the will is of the first nations communities across Canada in order to see how we can hear from the best minds on this and move forward in a way that can be seen as first nations communities leading this charge.</ParaText>
+              <ParaText id="8927710">With that, I am moving the motion. I think there's been some prior conversation that it's acceptable to all parties.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166837">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927711">Thank you very much.</ParaText>
+              <ParaText id="8927712">We will open it up for any possible questions or conversation.</ParaText>
+              <ParaText id="8927713">MP Schmale.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166839">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="40">Jamie Schmale (Haliburton—Kawartha Lakes, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927714">Thank you, Chair.</ParaText>
+              <ParaText id="8927715">I'm fine with receiving it and working on it later, after we figure out the next study or whatever legislation. However, I do have one question.</ParaText>
+              <ParaText id="8927716">With Bill <Document DbId="13542628" Type="3">S-2</Document> working its way through the Senate, do you see this as a prestudy? Do you see this as something simultaneously going on? Do you see this as a way to supplement potential legislation getting to the House eventually?</ParaText>
+              <ParaText id="8927717">Could I just get your thoughts on how you see this playing out if we were to go ahead with it?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166844">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927718"> Bill <Document DbId="13542628" Type="3">S-2</Document> is really about enfranchisement with the historic wrongs, when enfranchisement was sometimes forced upon people and communities. In some situations, status Indians voluntarily gave up their Indian status, and they called this enfranchisement. This is part of citizenship and membership.</ParaText>
+              <ParaText id="8927719"> Since it was opened up in the Senate, people have spoken out and said, yes, they believe this needs to happen on Bill <Document DbId="13542628" Type="3">S-2</Document> to take care of the legal remedies required under enfranchisement, but they've also started talking about all of the other problems within the membership. That's what this study—and, I think, another piece of legislation—could move forward on.</ParaText>
+              <ParaText id="8927720">I don't know if it's appropriate to lump every problem within citizenship and membership under the enfranchisement bill. I think this study would allow first nations communities to have direct input on what the amendments to the Indian Act are going to be, in such a way that they're not scared of any kind of amendment that might come from the Senate that they weren't consulted on.</ParaText>
+              <ParaText id="8927721"> It gives us the ability down the line to not only.... I know this study probably won't happen until spring or February at the earliest, but it gives the Assembly of First Nations and community members a chance to put resolutions forward at the AFN in December, or at a special meeting, so that we can look at what they're recommending to replace the harmful portions of subsections 6(1) and 6(2) on our communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166865">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927722">Before I go to Mr. Lemire, I want to ask for consensus to keep the conversation going. We have a couple of minutes left. It's 5:30. I think we can allow for this after the technical difficulties. Everyone is nodding.</ParaText>
+              <ParaText id="8927723"> Go ahead, Mr. Lemire.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166867">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927724">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8927725">I'd like the parliamentary secretary to tell us how many items or bills the committee can expect. Bill <Document DbId="13605049" Type="3">C‑10</Document> is on the agenda, and so is Bill <Document DbId="13542628" Type="3">S‑2</Document>, and others will probably be added soon. There are rumours going around. All members of a committee should have relatively equal opportunity when it comes to study topics and the meeting time allotted to discuss them; I think that's important. There are a lot of government topics on the committee's legislative agenda at the moment. Is this the right time to move a motion for a study that would involve eight meetings?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166878">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927726">In terms of the legislation that's in front of us, we have Bill <Document DbId="13605049" Type="3">C-10</Document> in the House on the modern treaty commissioner and Bill <Document DbId="13542628" Type="3">S-2</Document> on the enfranchisement legislation. There are certain rules that prohibit me from speaking about what's next and anything that's been tabled at this point.</ParaText>
+              <ParaText id="8927727">By introducing this study now, I want to give first nations communities a large number of weeks, possibly months, to consider the impacts and the amendments that are going to come in the future. It's important for us to have this conversation now, knowing full well that in two months, the first nations leaders will be meeting in Ottawa at their special chiefs assembly with resolutions. I want to give them the chance to really think this out before we make changes to the Indian Act.</ParaText>
+              <ParaText id="8927728">This motion intends to give first nations communities the chance to really think about this and put resolutions forward, so that by the time we study it, it will have been really thought out and hopefully we'll have some consensus on what we replace this portion of the Indian Act with.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166897">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927729">Right now, we have this motion. I think the subcommittee can figure out a schedule at another date. We're following the same procedure of taking turns on our studies. We'll schedule that later, at a different time.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8927730">Is everyone okay with that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166900">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927731">I'd like to see the agenda again.</ParaText>
+              <ParaText id="8927732">Why have the witnesses left, Mr. Chair?</ParaText>
+              <ParaText id="8927733">The meeting started at 4:30. There was still an hour left in the meeting.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166903">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927734">We were done with all of the rounds. We did the first round and the second round. Jaime was the last person to ask a question.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166904">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927735">The committee agreed to a one-hour meeting. I'll check the Notice of Meeting. Maybe I didn't read it correctly, but I'm surprised to see the meeting end after one hour.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166906">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927736"> Yes, it was a one-hour meeting, so that's why I asked to continue this discussion on the motion.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166907">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927737">I understand. I didn't realize the meeting was to end at 5:30. </ParaText>
+              <ParaText id="8927738">I notice, though, that we're losing another hour of discussion, and that's unfortunate. I'm not saying it's due to a lack of preparation or anything like that, but we're talking about a study on a serious matter that would require eight meetings. We might need to push some items back, because we're going to run out of time. We're talking about adding new studies to our agenda, but our inability to keep to the allotted meeting times means we won't be able to conduct as many studies as we would want.</ParaText>
+              <ParaText id="8927739">I find our current study relevant and interesting, and I'd like to go deeper, especially with the first nations, but we've already lost the first week, the second and a large part of the third. We still managed to write a report and vote on it thanks to the exceptional work of our analysts ahead of time. This is our fourth week, but we had only one hour, because we had to attend a very relevant training session. I don't like how inefficient we are as a committee. </ParaText>
+              <ParaText id="8927740">Moreover, I think adding an eight-meeting study would give a lot of time to the government at the expense of the opposition parties. In the current context, I question the motion, not its principle, but the time we have to move forward on other issues that concern first nations. The committee's agenda is already quite full of government bills, yet we would add a study. Meanwhile, over the last few days, we've lost almost enough time to complete a study.</ParaText>
+              <ParaText id="8927741">I would support the motion's principle, but I have my doubts about the schedule, especially since we're dealing with a minority government. No one knows how long it'll stand. I find the subject interesting, but we need to consider the context.</ParaText>
+              <ParaText id="8927742">Could we entertain the motion, but discuss the priorities and scheduling so that it's fair for everyone?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170305">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927743"> Go ahead, Jaime.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170325">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927744"> I agree with my colleague. I agree that we really need to figure out why we had only one hour of time on the policing study. I will take his frustrations back to the ministers and their departments. We fully expect them to understand that there's an important committee study going on and that we really needed to utilize this second hour.</ParaText>
+              <ParaText id="8927745">But I did see, at the end of this hour, that we had the opportunity to talk about something that's of great concern for first nations communities in terms of their future and their children not being on status lists. This is something that we've talked about. I hope we will have some consensus moving forward that this is a study that we will take on eventually, as the Liberal study that we want to move forward.</ParaText>
+              <ParaText id="8927746">I would also like to say two things. First, I'd like to have a yes or no on whether we're voting in favour of this study being acceptable to this committee. </ParaText>
+              <ParaText id="8927747">Second, I know that we have some gaps in the witnesses. We don't have fully submitted witness lists. There are some areas we're not hearing from. That's part of the conversation that I think we're willing to have over the next 45 minutes, to ensure not only that we have our witness slots filled up and that gaps aren't there when we're looking at the work plan, but also that we make the most out of this very important study. It's important to a lot of community members across first nations communities and indigenous communities across Canada.</ParaText>
+              <ParaText id="8927748">I would like to take care of the first order of business that's been put forward by the motion, and then possibly open it up, if there's a willingness to do so within the committee.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="19" Mn="10">(1910)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167769">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927749"> MP Schmale, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170147">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="47">Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927750">Thank you, Chair.</ParaText>
+              <ParaText id="8927751">Yes, I think there's a willingness to continue discussing that. I think we all agree it's a topic we want to learn more about.</ParaText>
+              <ParaText id="8927752">I just wanted to add my comments and echo what Sébastien was talking about.</ParaText>
+              <ParaText id="8927753">We did have the next line of questioning, which was of the ISC officials. We have a lot of unanswered questions, and the time is short on a very important study. Are we confident the <Affiliation DbId="318630" Type="4">Minister of Public Safety</Affiliation> is coming for sure?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170229">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927754">I'll turn to the clerk on what the scheduling is and what transpired.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170299">
+            <PersonSpeaking>
+              <Affiliation DbId="318952" Type="27">The Clerk of the Committee (Malachie Azémar)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927755">I proposed two dates to them—October 29 and November 3—and I'm waiting for their response.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170353">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="47">Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927756">Thank you, Chair.</ParaText>
+              <ParaText id="8927757">That's good news. That being said, do we want to discuss now or later what the potential plan might be if the <Affiliation DbId="318630" Type="4">minister</Affiliation> doesn't show up? I assume the officials will come regardless. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170386">
+            <PersonSpeaking>
+              <Affiliation DbId="318952" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927758">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170399">
+            <PersonSpeaking>
+              <Affiliation DbId="320794" Type="47">Jamie Schmale</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927759">Okay, that's good. </ParaText>
+              <ParaText id="8927760">We do need the <Affiliation DbId="318630" Type="4">minister</Affiliation> to show up, because he does have that institutional knowledge of both Crown-Indigenous Relations and Public Safety. He would have a great deal of information that might piece together a lot of what we're trying to achieve on this study, so I'd be pretty disappointed if he didn't show up. Maybe we can discuss later what we do after that, if he doesn't show up, but I'm glad to hear the officials are coming.</ParaText>
+              <ParaText id="8927761">At this point, if there's no other discussion, do you just want to put Jaime's motion in the queue?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170516">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927762">We'll put it in the queue, and then we'll do it the way you guys said: Taking turns, each party will bring forward a motion at the appropriate time.</ParaText>
+              <ParaText id="8927763">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8927764">
+                <B>The Chair:</B> Very good.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170575">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="47">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927765">I'd like to add something. A few meetings ago, I put forward a motion on the witnesses to invite. The committee decided to put that motion aside. I don't want to play politics, but I agreed to that, even though it could've been postponed. I understand that's not the committee's decision in this case.</ParaText>
+              <ParaText id="8927766">Furthermore, we have a long list of witnesses. We could've spent the second hour with them. For example, the president of the Assembly of First Nations Quebec-Labrador was in town yesterday, as was the president of the Assembly of First Nations, the AFN. I was at a press conference with them on the Chalk River issue. We could've easily invited other witnesses.</ParaText>
+              <ParaText id="8927767">This is my question: Since the minister won't be here for a month, can't we start the study with other witnesses? It's unfortunate, but we'll just have to relate the witnesses' remarks to the minister for his reaction. There are benefits for a minister to appear at the beginning of a study.</ParaText>
+              <ParaText id="8927768">The committee must move forward. I don't want to lose any more meeting time. Our agenda needs to be clear with set schedules.</ParaText>
+              <ParaText id="8927769">I'd like to get an email with the list of witnesses who have confirmed their participation and those who have yet to confirm. That way, we'll know where we stand, because we've already lost too many meetings.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170615">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927770">I'm going to turn it over to the clerk.</ParaText>
+              <ParaText id="8927771">My understanding is that you're going down the list of submitted witnesses, but go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170637">
+            <PersonSpeaking>
+              <Affiliation DbId="318952" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927772">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8927773">I have sent invitations for October 20, 22 and 27. Some witnesses have already confirmed their participation. We should have witnesses for the next three meetings.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13170655">
+            <PersonSpeaking>
+              <Affiliation DbId="320795" Type="47">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927774">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13170665">
+            <PersonSpeaking>
+              <Affiliation DbId="319732" Type="47">Jaime Battiste</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927775">I know we had asked for an initial list of witnesses. I'm wondering if the clerk could give us an updated work plan by Friday that indicates what areas or what regions or what people we have gaps in. We would hate to have a study across Canada where we didn't hear from an entire province. If you could identify the gaps for us by Friday, that would give us the ability to see those gaps and then ensure we have an official list by the following Wednesday to ensure that we're using most efficiently the amount of time and that the people are coming.</ParaText>
+              <ParaText id="8927776">I'll let the other parties know that I have every indication from <Affiliation DbId="318630" Type="4">Minister Anandasangaree</Affiliation> that he is making this a priority. I've heard nothing to say that he's not coming, so I'm pretty sure we're going to hear from him. I want you to rest assured of that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174305">
+            <PersonSpeaking>
+              <Affiliation DbId="320793" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8927777">Okay, very good.</ParaText>
+              <ParaText id="8927778">Is there any further discussion?</ParaText>
+              <ParaText id="8927779">The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

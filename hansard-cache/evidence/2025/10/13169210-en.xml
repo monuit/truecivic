@@ -1,0 +1,1930 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13169210">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Official Languages</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, October 9, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 9 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Official Languages</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 9, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 004</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/09 11:10:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des langues officielles</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Official Languages</ExtractedItem>
+    <ExtractedItem Name="Acronyme">LANG</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Yvan Baker</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169213">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair (Yvan Baker (Etobicoke Centre, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934796">Welcome to meeting number four of the Standing Committee on Official Languages. </ParaText>
+              <ParaText id="8934797">Today's meeting is taking place in a hybrid format. For those participating remotely, please click on the microphone icon to unmute yourself. When you are not speaking, your microphone should be on mute.</ParaText>
+              <ParaText id="8934798">I would like to remind everyone of the following: please wait until I recognize you by name before speaking; all comments should be addressed through the chair; and if you wish to speak, please raise your hand, whether you are attending in the room or remotely using the Zoom application. The clerk and I will do our best to follow the speaking order.</ParaText>
+              <ParaText id="8934799">Before we go any further, I'd like to inform the committee that there are a few housekeeping items that will require our attention. If the committee agrees, we'll take a few minutes once the witness panels are finished.</ParaText>
+              <ParaText id="8934800">Pursuant to Standing Order 108(3)(f) and the motion adopted by the committee on September 25, 2025, we are meeting today to resume our study on the minority-language education continuum, which began in the last session.</ParaText>
+              <ParaText id="8934801">I would like to welcome our panel. Joining us in person is Daniel Dion, board chair of the Association locale des enseignantes et des enseignants Fransaskois. We also have, by video conference, Christian Leclerc, president of the Fédération des parents francophones de Colombie-Britannique, as well as the organization's executive director, Marie‑Andrée Asselin. Finally, we have, by video conference, Denis Desgagné, executive director of the Réseau pour le développement de l'alphabétisme et des compétences. To all of you, welcome.</ParaText>
+              <ParaText id="8934802">Each organization will have five minutes for their opening statement, after which, we will move on to the question and answer portion of our meeting. We will start with Mr. Dion.</ParaText>
+              <ParaText id="8934803">Mr. Dion, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169233">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion (Chair, Association locale des enseignantes et des enseignants fransaskois)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934804">Good morning.</ParaText>
+              <ParaText id="8934805">My name is Daniel Dion, and I am the board chair of the Association locale des enseignantes et des enseignants fransaskois. Our association represents more than 200 teachers in the Conseil des écoles fransaskoises, in Saskatchewan, the only French-language school board providing French-language education to approximately 2,300 students, from junior kindergarten to grade 12. </ParaText>
+              <ParaText id="8934806">Before I paint a picture of the environment our teachers have to work in, it is important to highlight how far French-language education has come in Saskatchewan since the establishment of French-language school management, in 1995.</ParaText>
+              <ParaText id="8934807">A watershed moment in my development as a francophone happened in September 1997, so 28 years ago, when I was only 12 years old: the opening of a French school in the small village of Zenon Park. This school allowed me to continue my education in French, in my community, without any compromise. My brothers and sisters did not benefit from that right. I closed the loop after high school and university, when I accepted a teaching position in the very same French‑language school board where I was a student. Now, after 18 years of teaching, I find myself before you as a witness. I am here because of the profound direct impact section 23 of the Canadian Charter of Rights and Freedoms had on me as a young Franco-Saskatchewanian. Despite all the progress that has been made, there is still a lot of work to be done to right the wrongs of the past and deal with the inequality of opportunity francophone students face to this day.</ParaText>
+              <ParaText id="8934808">In education, we work with people. Some have bigger needs than others, and it falls on teachers to meet those often complex needs using the tools and resources at their disposal. However, like many French school boards across the country, we are affected by the current teacher shortage. It is felt more acutely in rural schools, where geographic, cultural and professional isolation remain an issue. Therefore, faced with limited options, we sometimes need to fill those teaching positions with local community members who don't have a teaching degree. </ParaText>
+              <ParaText id="8934809">To ensure the desired learning outcomes, teachers must have access to the necessary educational resources. Unfortunately, the lack of resources created for academic programs in Saskatchewan has been a constant challenge since the first Franco-Saskatchewanian school was opened. Since our school board is so small, it is not profitable for publishers to create and sell resources designed for our academic programs. This means teachers use resources created for academic programs in other provinces, or even countries, and adapt them to suit their needs, and this requires a lot of effort. One can understand why teachers are frustrated when they see the amount of resources created for equivalent English-language academic programs. </ParaText>
+              <ParaText id="8934810">Like all other school boards, we do not have a homogeneous student body. Many of our students have learning difficulties or socio-emotional issues, or face psychological barriers or language issues, just to name a few. Although this is not unique to French schools, the tools and resources available to us are rare and hard to find. As an example, wait times for a student who needs to be assessed are very long, sometimes up to two years, because of limited access to psychologists, occupational therapists, speech therapists and other professionals who work in French. This can seriously delay these vulnerable students' progress. </ParaText>
+              <ParaText id="8934811">The challenges we face with our infrastructure also need to be mentioned. Many of our rural schools are old and are in need of major repairs. Meanwhile, some of our urban schools are overcrowded.</ParaText>
+              <ParaText id="8934812">Finally, I would like to salute our teachers, who persevere in their efforts to transform students' lives despite all the obstacles.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169275">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934813">Thank you very much.</ParaText>
+              <ParaText id="8934814">I will now give the floor to the Fédération des parents francophones de Colombie-Britannique. It seems we're having some technical issues. Therefore, I will ask Marie‑Andrée Asselin, executive director of the organization, to make the presentation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169282">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin (Executive Director, Fédération des parents francophones de Colombie-Britannique)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934815">Mr. Chair, honourable members, thank you on behalf of the Fédération des parents francophones de Colombie-Britannique for inviting us to contribute to the study on the minority-language education continuum.</ParaText>
+              <ParaText id="8934816">The Fédération des parents francophones has been working on the francophone education file since it was created in 1979 and represents the parents of the 55,000 children who are entitled to primary and secondary education in French here in British Columbia. The Fédération des parents also operates child care centres.</ParaText>
+              <ParaText id="8934817">Our organization was a strong supporter of the Conseil scolaire francophone de la Colombie-Britannique, or CSF, and co-plaintiff with the CSF in the legal case that led to a victory at the Supreme Court of Canada in 2020.</ParaText>
+              <ParaText id="8934818">For more than 20 years, the early childhood sector has been an essential component of French-language education. Access to such education in British Columbia obviously requires a network of schools that provide education to children in French as a first language. However, education in French must be understood in its broad sense. It starts in early childhood, at day care, and goes all the way to post-secondary education. Moreover, the entire minority-language education continuum should benefit from the constitutional guarantee.</ParaText>
+              <ParaText id="8934819">Access to early childhood services in French is a fundamental issue for the vitality and development of our francophone minority communities, especially because they contribute to the transfer of language and culture to new generations. However, the problems in early childhood education remain.</ParaText>
+              <ParaText id="8934820">For example, when it comes to infrastructure, the demand for French-language early child care services continues to far outstrip the availability of those services. According to the latest census, British Columbia has approximately 4,000 children aged four and under whose first language learned is French. However, there are only about 450 spaces in preschool centres providing services in French. In the vast majority of cases, parents have no choice but to enrol their child in an anglophone day care centre. That situation has painful consequences for the low rate of transmission of French among children with one French-speaking parent. To reverse this trend, we need long-term, structural solutions.</ParaText>
+              <ParaText id="8934821">In terms of human resources, the impacts of the shortage of early childhood educators that is affecting the entire province are felt more acutely in our communities, whose vitality depends on access to early childhood services in French.</ParaText>
+              <ParaText id="8934822">The action plan for official languages 2023-2028 includes additional investments in early childhood. We are very pleased that Employment and Social Development Canada recently granted $47.7 million over three years to the Commission nationale des parents francophones, or CNPF, to deploy a network of early childhood service providers. We are also delighted with the implementation of initiatives in francophone official language minority communities, as the needs in early childhood are urgent.</ParaText>
+              <ParaText id="8934823">The fact remains that the impermanent nature of the federal structure when it comes to supporting minority-language education and early childhood services in French, as well as the lack of concrete obligations in this regard, are keeping francophone minority communities in a perpetual state of uncertainty. What will we do in March 2028 when the current action plan for official languages sunsets? Has our school system been built without a permanent, structuring government financial commitment?</ParaText>
+              <ParaText id="8934824">The current legislative framework made it possible for early childhood to be virtually excluded from the Roadmap for Canada's Official Languages 2013-2018. Legally, nothing is preventing a future government from reverting to this situation with its next action plan for official languages.</ParaText>
+              <ParaText id="8934825">Despite the recognition of the “unique needs of francophone minorities” in the agreements with the provinces and territories on the national child care program, the Fédération des parents francophones notes a lack of transparency, a lack of consultation and a lack of effective accountability mechanisms. Even worse, nothing is preventing a future government from abandoning this language provision when agreements are renewed.</ParaText>
+              <ParaText id="8934826">There are many challenges when it comes to French-language early childhood education in British Columbia. For parents who speak French, living west of the Rockies should not be synonymous with their children's linguistic assimilation. Canada's linguistic duality must expand and be fully experienced, on a daily basis, from coast to coast to coast.</ParaText>
+              <ParaText id="8934827">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169335">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934828">Thank you very much.</ParaText>
+              <ParaText id="8934829">I would now like to give the floor to Denis Desgagné, from the Réseau pour le développement de l'alphabétisme et des compétences, or RESDAC.</ParaText>
+              <ParaText id="8934830">You have the floor for five minutes, Mr. Desgagné.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169340">
+            <PersonSpeaking>
+              <Affiliation DbId="291508" Type="28">Denis Desgagné (Executive Director, Réseau pour le développement de l'alphabétisme et des compétences)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934831">Mr. Chair, the network's chair will be speaking.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169344">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934832">Mr. Krajewski, can you introduce yourself so that everyone knows your name and title?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13169346">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski (Chair, Réseau pour le développement de l'alphabétisme et des compétences)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934833">Of course.</ParaText>
+              <ParaText id="8934834">My name is Geoffroy Krajewski, and I am the chair of RESDAC.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169348">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934835">Thank you very much.</ParaText>
+              <ParaText id="8934836">Mr. Krajewski, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169353">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934837">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8934838">On behalf of the Réseau pour le développement de l'alphabétisme et des compétences, or RESDAC, I would like to thank you for the invitation to present our brief today.</ParaText>
+              <ParaText id="8934839">We want to contribute to your work, more specifically on two issues. First, isn't the notion of the education continuum restrictive, compared to that of lifelong learning? Second, what positive measures should federal institutions take to support a lifelong learning continuum?</ParaText>
+              <ParaText id="8934840">Let's start with the first question about the education continuum. As you know, the new Official Languages Act stipulates that:</ParaText>
+              <ParaText id="8934841">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> 41(3) The Government of Canada is committed to advancing formal, non-formal and informal opportunities for members of English and French linguistic minority communities to pursue quality learning in their own language throughout their lives… </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8934842">Therefore, the perspective of the act goes beyond the idea of an education continuum that would fall solely within the purview of formal educational institutions, such as schools, colleges or universities that award degrees. It now implies a continuum that also embraces the non-formal learning context—for example, developing skills in the workplace or in associations, as well as learning in an informal context, such as by reading, discussing, observing, tinkering or playing.</ParaText>
+              <ParaText id="8934843">We therefore recommend that the committee redefine the education continuum, taking into account the concept of lifelong learning, so as not to forget the non-formal and informal learning contexts that are often overlooked, even though they contribute fundamentally to the vitality of our communities.</ParaText>
+              <ParaText id="8934844">Concerning the issue of positive measures to support lifelong learning, for the past four years, RESDAC and its partners in francophone communities have set out to define a new social vision around the notion of learning. We are gradually implementing a major strategy to transform our communities into learning communities.</ParaText>
+              <ParaText id="8934845">To support our communities in their efforts to become learning communities, RESDAC is putting in place a number of tools: a reference framework of skills for growth, which captures the specific needs of individuals in the francophone minority; the Francobadges platform for digital micro-credentialing of those skills; and a protocol for certification of organizations and learning communities.</ParaText>
+              <ParaText id="8934846">We've also set up the Plateforme canadienne de formation à distance—Canadian platform for distance education—or PCFAD; the TOPO RESDAC learning resource geolocation platform; an artificial intelligence-assisted skills assessment platform; and a centre of expertise that supports all those initiatives.</ParaText>
+              <ParaText id="8934847">We also recommend that the committee encourage federal institutions to adopt positive measures in support of our initiatives that meet the needs expressed by our francophone communities. Here are a few of them: support the holding of provincial and territorial summits to identify the needs and aspirations of communities at the local and regional levels; support the creation and facilitation of round tables that will orchestrate the implementation of learning communities; support training and skills development initiatives for thriving; support the implementation of the Francobadges credentials and skills recognition platform; and support employment and skills development strategies assisted by artificial intelligence.</ParaText>
+              <ParaText id="8934848">In a recent brief submitted to the Department of Finance as part of the budget consultations, RESDAC noted that the major federal measures to support skills development to the tune of billions of dollars were forgetting or marginalizing our francophone minority communities.</ParaText>
+              <ParaText id="8934849">We also recommend that the committee ask the Treasury Board Secretariat, in the context of the new regulations on part VII of the Official Languages Act, to name the federal institutions that are specifically called upon to adopt positive measures in support of non-formal and informal learning, to advocate the “by and for” communities approach and to require language clauses in federal, provincial and territorial agreements.</ParaText>
+              <ParaText id="8934850">Finally, more generally, we recommend that the committee encourage collaboration between the various levels of government, educational institutions, community organizations and the private sector in order to create a genuine learning ecosystem that fosters the growth of francophones across Canada.</ParaText>
+              <ParaText id="8934851">Thank you for your attention.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169403">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934852">Thank you very much.</ParaText>
+              <ParaText id="8934853">Before we begin the first round of questions, I propose that we take a one-minute break to resolve technical issues Mr. Leclerc is having.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169446">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934854">I call the meeting back to order.</ParaText>
+              <ParaText id="8934855">Mr. Leclerc, I'm sorry that the sound test was negative. As the clerk told you, the members will put their questions to Ms. Asselin. However, if you have anything further to offer committee members, you can do so by contacting the clerk in writing.</ParaText>
+              <ParaText id="8934856">We will now begin the first round of questions.</ParaText>
+              <ParaText id="8934857">Mr. Godin, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169459">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin (Portneuf—Jacques-Cartier, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934858">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8934859">I thank the witnesses for joining us.</ParaText>
+              <ParaText id="8934860">I apologize for being late. I'm going to make amends. I was in a different Parliament building. No one but me is responsible.</ParaText>
+              <ParaText id="8934861">Mr. Dion, as I understand it, the situation of francophones in Saskatchewan is good, but you need additional tools to improve access to services in French. Can you put that in perspective?</ParaText>
+              <ParaText id="8934862">Earlier, the executive director of the Fédération des parents francophones de la Colombie-Britannique said that there were 4,000 children in that province aged four and under whose mother tongue is French, but there were only 450 spaces in preschool centres that provide services in French.</ParaText>
+              <ParaText id="8934863">Does Saskatchewan have the same ratio between the number of clients and the number of spaces? What I'm hearing is that the cause of the problem isn't a lack of clientele. Rather, it is a lack of structures and infrastructure.</ParaText>
+              <ParaText id="8934864">Can you explain the situation to me?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169473">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934865">We estimate there to be approximately 12,000 rights holders from kindergarten to grade 12 in Saskatchewan. Those are potential clients—if I can put it that way—of francophone schools. However, our school board institutions currently have only about 2,300 rights holders.</ParaText>
+              <ParaText id="8934866">In some regions, the francophone population is quite large, but there is no access to a francophone school, unfortunately.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169481">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934867">Is that due to the fact that infrastructure is not accessible enough and that school transportation, which takes too long, discourages young people and encourages them to enrol in English-language schools?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169485">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934868">Yes, those are two important factors.</ParaText>
+              <ParaText id="8934869">The lack of accessibility to a school is partly explained by the distance that students have to travel. Some communities are several hundred kilometres away from the nearest francophone school. So it is not reasonable to expect a student to travel four or five hours every day to go to school.</ParaText>
+              <ParaText id="8934870">In addition, in some urban areas, such as Regina or Saskatoon, the schools are not really well located. Therefore, some students decide to continue their education in the majority language for reasons of accessibility, transportation and distance.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169500">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934871">We all agree that there is a lot of room for improvement.</ParaText>
+              <ParaText id="8934872">That said, if you were to become a legislator tomorrow morning and had to prioritize a single recommendation, what would it be?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169508">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934873">I think priority should be given to students who deserve and need the education.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169510">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934874">That is to say, to rights holders.</ParaText>
+              <ParaText id="8934875">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169513">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934876">Yes, I'm thinking of rights holders.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169515">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934877">Thank you.</ParaText>
+              <ParaText id="8934878">Ms. Asselin, I know that, in the past, your organization has worked hard and fought to ensure respect for official languages and for the rights rooted in the Canadian Charter of Rights and Freedoms.</ParaText>
+              <ParaText id="8934879">As I mentioned earlier, you said that 4,000 children aged four and under needed French-language child care, but only 450 spaces were available. That accounts for about 10% of those children. So it's a big hill to climb to meet the needs of children who are entitled to preschool services in French.</ParaText>
+              <ParaText id="8934880">I share your opinion that it is important for our young people to study in French across the education continuum.</ParaText>
+              <ParaText id="8934881">That said, at what age do children begin to be part of the education continuum, from early childhood to post-secondary education? How do you define early childhood?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169529">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934882">Early childhood includes all the years of a child's life in the child care system. Normally, children enter day care after parental leave ends, and they can be aged six to 12 months. They stay there until kindergarten, which usually starts at five years old in Canada. That's the early childhood period.</ParaText>
+              <ParaText id="8934883">We advocate for the implementation of a stable funding structure to enable us to administer all child care programs, which cover both children under the age of five and those attending school day cares. They accommodate children before and after school. In order for the system to be sustainable, it must include the full range of child care.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169571">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934884">Okay.</ParaText>
+              <ParaText id="8934885">I'm almost out of time, so we have to be quick.</ParaText>
+              <ParaText id="8934886">From what I understand, the important thing for you would be to have predictability and stability in funding.</ParaText>
+              <ParaText id="8934887">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169577">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934888">Please be brief, Ms. Asselin.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169581">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934889">Child care projects take two to three years to start up. The action plan for official languages ends in 2028. What will happen to those projects? It takes teams to move them forward, to work with school boards and to develop capital projects.</ParaText>
+              <ParaText id="8934890">What will happen to the projects planned to start up in the next few years?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169583">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934891">Thank you very much, Ms. Asselin.</ParaText>
+              <ParaText id="8934892">Thank you, Mr. Godin.</ParaText>
+              <ParaText id="8934893">Mr. Deschênes‑Thériault, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169592">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault (Madawaska—Restigouche, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934894">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8934895">First of all, I'd like to thank the witnesses for their testimony.</ParaText>
+              <ParaText id="8934896">We all know that education in French is key to the vitality of francophone communities outside Quebec, across Canada.</ParaText>
+              <ParaText id="8934897">Here's some data. In British Columbia, 44% of children who are entitled to education in French have never attended a French-language school during their education. In Saskatchewan, that figure is 40%, while in Canada outside Quebec, it's only 35%.</ParaText>
+              <ParaText id="8934898">In your opinion, what factors would explain why, in British Columbia and Saskatchewan, the proportion of rights holders who actually attend a French-language school is lower?</ParaText>
+              <ParaText id="8934899">Let's start with Mr. Dion. Ms. Asselin can also answer my question afterwards.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169599">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934900">In Saskatchewan, one of the challenges is geographic distribution and the size of the communities.</ParaText>
+              <ParaText id="8934901">There's also no denying that funding is needed to build a school. Talks can be long and arduous. This is a long-term project that requires a lot of effort and energy.</ParaText>
+              <ParaText id="8934902">Fortunately, the last census helped us collect good data on the distribution of francophone communities in Saskatchewan. We hope that data will help us plan future steps.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169610">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934903">Thank you.</ParaText>
+              <ParaText id="8934904">Ms. Asselin, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169612">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934905">The geographic disparity of francophones on the territory definitely poses a challenge. There are a number of communities with francophones, but no francophone schools. These projects take many years to come to fruition.</ParaText>
+              <ParaText id="8934906">Another factor is the lack of predictability in terms of the funding needed to build the schools. Schools are too small. There is a lack of child care spaces. Usually, our francophone day care centres are attached to francophone schools. If there are fewer day cares or no day cares in francophone schools, that prevents a large number of children from francizing before entering or after entering school.</ParaText>
+              <ParaText id="8934907">If there is no space in a francophone day care, children sometimes go to an anglophone day care centre. Parents then often choose to send them to an English-language school. That is the path to assimilation that awaits these children.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169622">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934908">In a minority situation, we know that schools play a dual role: fulfilling the educational mandate and supporting the cultural and linguistic vitality of the communities.</ParaText>
+              <ParaText id="8934909">The federal government provides funding for minority-language education. The objective is to help the provinces and territories cover the additional costs.</ParaText>
+              <ParaText id="8934910">With regard to your respective provincial governments, Saskatchewan and British Columbia, is this dual mandate of francophone schools taken into account in the allocation of resources?</ParaText>
+              <ParaText id="8934911">Mr. Dion, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169627">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934912">As far as I know, it is given very little consideration. At the provincial level, education is not considered an investment, but rather an expenditure.</ParaText>
+              <ParaText id="8934913">In addition, expenditures are really intended for the educational offering, not for the aspect related to our school board's cultural and identity mandate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169637">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934914">Thank you, Mr. Dion.</ParaText>
+              <ParaText id="8934915">Ms. Asselin, long legal battles have been fought in British Columbia. You've taken legal action against the provincial government. You won your case against the province in the Supreme Court in 2020.</ParaText>
+              <ParaText id="8934916">Have you seen any changes on the ground since those conflicts?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169641">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934917">We've seen a bit of a shift.</ParaText>
+              <ParaText id="8934918">There were announcements of land purchases or school construction after the Supreme Court of Canada ruling. However, the shift is very slow. Many communities are still in dire need, and the funding structure does not enable us to meet the needs.</ParaText>
+              <ParaText id="8934919">As for the provincial government, a bit of funding comes from the Action Plan for Official Languages 2023-2028 to support French-language education.</ParaText>
+              <ParaText id="8934920">It's important to acknowledge that, otherwise, all school funding structures, such as real estate funding structures, are administered equally. It's the same funding structure for francophones and anglophones. The specific needs of francophones are not recognized.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169656">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934921">Thank you.</ParaText>
+              <ParaText id="8934922">The federal government enters into education agreements with the provinces. To your knowledge, does the Government of British Columbia consult francophone organizations in the discussions to put these agreements in place?</ParaText>
+              <ParaText id="8934923">I invite Ms. Asselin to answer the question first, followed by Mr. Dion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169658">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934924">Yes, we've had discussions.</ParaText>
+              <ParaText id="8934925">I can't speak on behalf of the school board, but there have been discussions between the provincial government and the school board. However, it takes a very long time, and the needs of francophone parents aren't being heard, or at least not enough for us to see changes that impact the lives of our francophone communities.</ParaText>
+              <ParaText id="8934926">What we want as parents is to see a difference in our children's lives now. They're growing up fast, and we are in danger of being assimilated in British Columbia. So action really needs to be taken quickly to prevent an entire generation of francophones from being assimilated.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169664">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934927">Thank you very much.</ParaText>
+              <ParaText id="8934928">Thank you, Mr. Deschênes‑Thériault.</ParaText>
+              <ParaText id="8934929">I now give the floor to Mr. Beaulieu for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169665">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu (La Pointe-de-l'Île, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934930">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8934931">I thank our witnesses for joining us.</ParaText>
+              <ParaText id="8934932">From Quebec's point of view, the timeline of the fight in British Columbia is quite incredible. For example, it wasn't until 1977 that the government of that province granted francophones the right to French-language education.</ParaText>
+              <ParaText id="8934933">Ms. Asselin, what was the situation before 1977?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169670">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934934">That's a good question.</ParaText>
+              <ParaText id="8934935">I wasn't in British Columbia at the time. What I know is that there was no francophone school board, so no school management, and that the core French program was administered by the anglophone school districts.</ParaText>
+              <ParaText id="8934936">So it was really hard to get quality education for our children. It was also not available to all francophone communities in the province.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169679">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934937">In 1977, the Official Languages Act had already been passed seven years prior. Afterwards, you were forced to take legal action and take various steps, as my colleague already said earlier.</ParaText>
+              <ParaText id="8934938">For example, according to the timeline in question, the first all-French public school opened its doors in Vancouver in 1983.</ParaText>
+              <ParaText id="8934939">Can you tell us a bit more about that? If I understand correctly, that means there were no francophone public schools before that date.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169685">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934940">That's correct. It was a core French program. It wasn't even a school. There were a few classes within an English-language school, which were managed by the local anglophone school board. It wasn't really quality education.</ParaText>
+              <ParaText id="8934941">I remember hearing people from the federation who were here before me say that they were the ones who wrote the curriculum with the teachers. They also designed the teaching material, as it was very difficult for the anglophone school districts to do so. They couldn't support their teachers. People from the francophone community got together to ensure a certain quality of education. It has nothing to do with what currently exists.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169692">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934942">In 1983, the federation filed its first lawsuit against the Government of British Columbia. After that, a set of legal proceedings ensued.</ParaText>
+              <ParaText id="8934943">Clearly, the Government of British Columbia had no political will to ensure the future of francophone communities.</ParaText>
+              <ParaText id="8934944">What did the process look like? Was it really very slow? Have you managed to get more schools as a result of legal proceedings? Has there been any progress?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169699">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934945">Had francophone parents not taken legal action through the Association des parents francophones de la Colombie-Britannique—the predecessor to the current federation—we certainly would not have obtained school management or the creation of our school board. There were two legal actions, one to create the school board and the other to obtain school management throughout British Columbia.</ParaText>
+              <ParaText id="8934946">Those long legal battles were waged by parents. Although I wasn't at the federation back then, from what I've heard, the struggles were very difficult. At the time, the province wasn't really showing good will in terms of accommodating a francophone education system.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169711">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934947">Prior to 1995, it was very difficult to follow the process, to see exactly what the funding situation was.</ParaText>
+              <ParaText id="8934948">The Commission nationale des parents francophones at the time published a study titled “<I>Où sont passés les milliards $</I>?”. The study wondered where the billions of dollars had gone and established that, from 1970 to 1988, of the $5 billion that had been paid out by the federal government under the official languages support programs, 62% of the funds had been allocated to anglophones in Quebec and immersion schools in English Canada. That was at the very beginning, when francophone communities lacked funding and the assimilation rate was increasing.</ParaText>
+              <ParaText id="8934949">What do you think of those facts?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169722">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934950">I was obviously not at the federation back then. I heard that it was very difficult to follow the way funding was granted to francophones.</ParaText>
+              <ParaText id="8934951">The funds were administered by the anglophone school boards. There weren't a lot of accountability mechanisms in place. As a result, only crumbs were left for francophone communities. That was all that could be allocated to francophones, even though they were entitled to much more funding. Francophones were not necessarily getting that funding.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169731">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934952">That's quite surprising, since anglophone schools in Quebec were overfunded. When the official languages support programs were launched, a huge proportion of the funds was allocated to Quebec anglophones and immersion schools.</ParaText>
+              <ParaText id="8934953">In 2020, you won. However, you seem to have a lot of trouble enforcing the ruling. We heard about that in June. Another ruling was also appealed.</ParaText>
+              <ParaText id="8934954">What do you think of that resistance? Even today, in 2025, you still have to pursue legal remedies.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169743">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934955">Ms. Asselin, you have only 20 seconds left. Please give a brief answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169745">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934956">The federation finds it terrible that, in 2025, we still have to fight to assert our rights.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169749">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934957">Did I misunderstand, Mr. Beaulieu? Was the question addressed to someone else?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169763">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934958">Another witness can answer the question, or I can wait until my next turn to speak.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175698">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934959">I'm sorry, I didn't mean to cut you off.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175699">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="47">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934960">It's okay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169764">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934961">I now give the floor to Mr. Dalton for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169769">
+            <PersonSpeaking>
+              <Affiliation DbId="319797" Type="47">Marc Dalton (Pitt Meadows—Maple Ridge, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934962">Good morning.</ParaText>
+              <ParaText id="8934963">I want to thank the witnesses for joining us today.</ParaText>
+              <ParaText id="8934964">Do francophone parents know their rights when it comes to their children's education? Do they know that their children can attend a francophone school?</ParaText>
+              <ParaText id="8934965">How do you reach out to francophone parents who come to the province, before their children start kindergarten?</ParaText>
+              <ParaText id="8934966">I would first like to ask Mr. Dion to answer my question. Ms. Asselin can chime in afterwards.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169772">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934967">I'm not entirely sure about the administrative procedures for communicating with francophone parents. You must understand that the francophone community in Saskatchewan is quite small. People know each other fairly well and they speak to each other. The community is well aware of the right to French‑language education. This isn't an issue.</ParaText>
+              <ParaText id="8934968">Now for the last question.</ParaText>
+              <ParaText id="8934969">It's quite rare to have the opportunity to open a francophone school in Saskatchewan without first filing a class action lawsuit against the province. This is one reason why many francophones don't have access to French‑language education. It takes a great deal of determination, time and energy to take legal action to push for a school for our community.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169782">
+            <PersonSpeaking>
+              <Affiliation DbId="319797" Type="47">Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934978">Ms. Asselin, can you answer the question?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169785">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8934992">Our network of members includes all the parent associations from schools in the Confédération syndicale des familles, or CSF, and also all parent‑run preschools. We have strong ties to the entire early childhood education network in British Columbia. This gives us the chance to meet with parents before their children are enroled in school.</ParaText>
+              <ParaText id="8934993">Given the high percentage of people who come from outside our province and our country to join our francophone community, clearly we need to reach out on an almost daily basis to parents and francophones who move to British Columbia. I would say that newcomers are perhaps a bit less aware of the constitutional rights to education granted to francophone parents.</ParaText>
+              <ParaText id="8934994">All the organizations involved in raising awareness receive support from the school board's Fédération des parents francophones. That way, francophones can send their children to French schools and francophone day care centres in order to integrate into the francophone community. It takes a whole community, not just schools or day care centres, to ensure language transmission and the vitality of our communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169807">
+            <PersonSpeaking>
+              <Affiliation DbId="319797" Type="47">Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935008">Thank you.</ParaText>
+              <ParaText id="8935009">Ms. Asselin, could you comment on the impact of immigration on student enrolment?</ParaText>
+              <ParaText id="8935010">On the graph provided by the library, I don't see a significant increase in the number of students in francophone schools in British Columbia over the past 30 years.</ParaText>
+              <ParaText id="8935011">Is this correct, or is there a misprint?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169823">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935014">I'll answer the last question and then come back to the first one.</ParaText>
+              <ParaText id="8935015">Since the creation of the francophone school board, the number of students has increased. However, over the past two or three years, there has been a slight decline. All francophone and anglophone school boards in British Columbia have seen this decline. It isn't just happening on the francophone side.</ParaText>
+              <ParaText id="8935016">Regarding your first question, our francophone community has expanded and is growing rapidly. It's one of Canada's burgeoning francophone communities. This growth is largely the result of immigration. In general, British Columbia has a large immigrant population, which is also reflected in the francophone community and which greatly enriches our community.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169837">
+            <PersonSpeaking>
+              <Affiliation DbId="319797" Type="47">Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935020">Do you see a decline when francophone elementary school students move on to secondary school?</ParaText>
+              <ParaText id="8935021">Do these students continue their education in a francophone school or an immersion program?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169843">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935023">Sorry to interrupt you.</ParaText>
+              <ParaText id="8935024">Please answer quickly because the time is up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169848">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935027">This transition always poses a challenge. However, when the francophone school is new and it includes science labs, for example, and a nice gym, we see a drop in the exodus of young francophones to anglophone schools.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169854">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935031">
+                <Query />Thank you, Mr. Dalton.</ParaText>
+              <ParaText id="8935032">We'll now give the floor to Mr. Villeneuve for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169856">
+            <PersonSpeaking>
+              <Affiliation DbId="319658" Type="47">Louis Villeneuve (Brome—Missisquoi, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935036">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8935037">My question is for the officials from the Réseau pour le développement de l'alphabétisme et des compétences, or RESDAC.</ParaText>
+              <ParaText id="8935038">I think that Ms. Asselin will answer it, since Mr. Leclerc can't speak to us.</ParaText>
+              <ParaText id="8935034">Your organization works to strengthen essential skills and literacy in francophone minority communities.</ParaText>
+              <ParaText id="8935035">Could you start by briefly describing the scope of your programs and the areas with the greatest demand?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169862">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935042">I can answer that question, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169867">
+            <PersonSpeaking>
+              <Affiliation DbId="319658" Type="47">Louis Villeneuve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935044">Sorry, my mistake. I wanted to speak to Mr. Desgagné.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169869">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935048"> The Réseau pour le développement de l'alphabétisme et des compétences, or RESDAC, is a national network. It mainly supports its members in every province and territory across the country. This means that we have close ties to communities.</ParaText>
+              <ParaText id="8935049">To answer your question, I would say that it's difficult to identify the specific needs of areas given our issues with accessing data. We know that there are major international studies, such as the Programme for the International Assessment of Adult Competencies, or PIAAC. In 2012, as part of this initiative, the federal government requested a francophone sample. This gave us the opportunity to compare the needs of francophone populations with the needs of anglophone populations.</ParaText>
+              <ParaText id="8935050">Unfortunately, when the survey was updated here in 2024, this request wasn't made. This poses a major issue when it comes to identifying the needs of francophone populations in certain areas, since we don't have the data. RESDAC is in the process of developing its own tools to obtain this data and identify these needs.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169889">
+            <PersonSpeaking>
+              <Affiliation DbId="319658" Type="47">Louis Villeneuve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935052">Thank you.</ParaText>
+              <ParaText id="8935053">On a broader scale, are there other places in Canada where certain needs remain unmet?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169892">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935055">Yes. Unfortunately, there are needs across Canada, not just in certain areas. All RESDAC members have specific needs. That's where the network comes in. It supports its members in order to meet community needs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169895">
+            <PersonSpeaking>
+              <Affiliation DbId="319658" Type="47">Louis Villeneuve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935058">Thank you.</ParaText>
+              <ParaText id="8935059">How much time do I have left, Mr. Chair?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169899">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935061">You have almost two and a half minutes left.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169901">
+            <PersonSpeaking>
+              <Affiliation DbId="319658" Type="47">Louis Villeneuve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935064">So I still have plenty of time left.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169904">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935074">Our director would like to make a comment, if you don't mind.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169910">
+            <PersonSpeaking>
+              <Affiliation DbId="319658" Type="47">Louis Villeneuve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935089">Yes. We're listening.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169916">
+            <PersonSpeaking>
+              <Affiliation DbId="291508" Type="28">Denis Desgagné</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935096">Good morning.</ParaText>
+              <ParaText id="8935097">I simply wanted to point out that the needs of francophone minority communities in Canada are enormous. Our chair didn't mention this, but in 2012, [<I>Technical difficulty—Editor</I>] percent of the francophone population in Canada fell below the PIAAC's level 3, which is the level required to thrive socially and economically. The average is 52%, and in some provinces, the figure is close to 70% in certain areas. The needs are considerable.</ParaText>
+              <ParaText id="8935098">Yet, on the ground, only one organization meets the needs of francophone minority communities in all provinces and territories. These people are doing everything they can. We're talking about just one skill here, which is literacy. If we consider all the skills and compare ourselves to the majority, the figure stands at billions of dollars invested [<I>Technical difficulty—Editor</I>]—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169923">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935102">Mr. Desgagné, we've lost you. Can you hear me?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169927">
+            <PersonSpeaking>
+              <Affiliation DbId="291508" Type="28">Denis Desgagné</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935105">Yes. I can hear you quite well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169930">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935107">I stopped the timer. Could you go back about 15 seconds?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169932">
+            <PersonSpeaking>
+              <Affiliation DbId="291508" Type="28">Denis Desgagné</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935112">When we compare ourselves to the majority, we see that they benefit from billions of dollars of investment to acquire all the skills needed to succeed and thrive in Canada both economically and socially. They can access hundreds of points of service in every province. There's no comparison, particularly in terms of access to community schools where we can work together in the village. In this sense, I would say that the village is missing from our lifelong learning journey.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169935">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935115">Time's up. Thank you, Mr. Villeneuve.</ParaText>
+              <ParaText id="8935116">Mr. Beaulieu, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169938">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935121">I'll ask Mr. Dion from the Association locale des enseignantes et des enseignants fransaskois a similar question.</ParaText>
+              <ParaText id="8935122">You said that major progress had been made since 1995. What was the situation like before 1995?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169943">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935125">Before 1995, prior to the introduction of school management, there were immersion schools in certain francophone communities throughout the province. However, they weren't really considered immersion schools, but rather what we called designated schools. These schools were designated by the education minister. This gave them special permission to use French as the language of instruction more than 10% of the time, which was the maximum threshold in those days. When a community wanted French taught in a school, the local council had to submit a request to the school board, which then passed it on to the minister. If the request was approved, a bit more French could be taught in that school.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169954">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935128">You're saying that the shortage of schools has continued since 1995. The situation has improved, but not enough, since your needs aren't being met.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169960">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935134">Indeed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169964">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935137">The new programs under the new version of the Official Languages Act call for increased funding for immersion schools in Canada rather than further increases in funding for schools run by and for francophones. Wouldn't it be more important for francophone and Acadian communities to see further increases in funding for schools run by and for francophones?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169970">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935139">Certainly. Dividing funding between immersion schools and francophone schools creates difficulties that stem, in a way, from the path of least resistance. Francophone students often attend immersion schools because these schools are already established. Remember that a number of the immersion schools in our communities are part of a majority‑language school board. These school boards have had over 100 years to build their programs, their facilities and their organization. Their schools have more resources than francophone schools. They have specialized programs and extracurricular activities that we can't provide because our schools aren't big enough and we don't have enough students. Remember that immersion students can still take specialized courses in English, whereas we must provide our courses in French as part of our mandate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169984">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935144">Thank you, Mr. Beaulieu. Your time is up.</ParaText>
+              <ParaText id="8935145">Mr. Bélanger, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169989">
+            <PersonSpeaking>
+              <Affiliation DbId="319798" Type="47">Jim Bélanger (Sudbury East—Manitoulin—Nickel Belt, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935147">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8935148">Mr. Dion, you talked about geographical challenges. I imagine they are similar to those in other regions of the country. I'd like to know whether a region is required to have a minimum number of students before it can provide them with an education in French.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169995">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935150">According to my interpretation of section 23 of the Canadian Charter of Rights and Freedoms, there just has to be one. If a francophone child needs education services in French, that child should, in principle, have access to them. That said, from an economic standpoint, it's not practical to open a school and hire a teacher for one student. However, we need to recognize the value of these children, even though they are part of a small community. There are small communities that receive very good education services. I always hesitate to give a specific minimum number, because all situations are different and all students deserve to be educated in their mother tongue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170004">
+            <PersonSpeaking>
+              <Affiliation DbId="319798" Type="47">Jim Bélanger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935153">To ensure the minority language education continuum, both levels of government need to consult stakeholders and be transparent in the way they use the funds made available to them. In your opinion, have governments been transparent?</ParaText>
+              <ParaText id="8935154">My question is for you, Mr. Dion, but also for Ms. Asselin.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170013">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935157">Honestly, the issue of government transparency is outside my mandate. I don't have enough information to answer you. I would put the question more to the school boards and community organizations that benefit from these funds.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170016">
+            <PersonSpeaking>
+              <Affiliation DbId="319798" Type="47">Jim Bélanger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935160">Okay.</ParaText>
+              <ParaText id="8935161">Ms. Asselin, have governments been transparent?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170020">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935164">There have certainly been consultations, but as far as transparency is concerned, it would depend on how it is defined. For us, the major issue is stable, structural and long-term funding. Right now, we don't have that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170022">
+            <PersonSpeaking>
+              <Affiliation DbId="319798" Type="47">Jim Bélanger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935172">Okay.</ParaText>
+              <ParaText id="8935173">Another topic I'm interested in is child care. You said that 4,000 young children needed child care services in French, while there were only 450 spaces.</ParaText>
+              <ParaText id="8935174">Is this problem related to geographical factors or a labour shortage?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170029">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935184">You're asking me, I imagine.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170034">
+            <PersonSpeaking>
+              <Affiliation DbId="319798" Type="47">Jim Bélanger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935193">Yes, I'm sorry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170037">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935199">Okay.</ParaText>
+              <ParaText id="8935200">The major problem is the lack of infrastructure. We were talking about schools earlier. We went all the way to the Supreme Court to get francophone schools. We requested schools with space to set up child care services.</ParaText>
+              <ParaText id="8935201">The staffing shortage is also a major obstacle to being able to serve this population.</ParaText>
+              <ParaText id="8935202">I feel like I'm repeating myself, but what we really need is stable, structural and long-term funding. That would boost our ability to develop child care spaces. It takes a long time to develop infrastructure projects that can house a child care centre. To implement the educational program adapted to children under the age of five, we need really adapted spaces for teaching toddlers.</ParaText>
+              <ParaText id="8935203">How can projects of this magnitude be developed if there is no guarantee of long-term funding after 2028?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170046">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935206">You have 10 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170048">
+            <PersonSpeaking>
+              <Affiliation DbId="319798" Type="47">Jim Bélanger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935212">That's fine, thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170051">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935214">Thank you, Mr. Bélanger.</ParaText>
+              <ParaText id="8935215">I now give the floor to Ms. Mingarelli for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170054">
+            <PersonSpeaking>
+              <Affiliation DbId="319659" Type="47">Giovanna Mingarelli (Prescott—Russell—Cumberland, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935217">Thank you.</ParaText>
+              <ParaText id="8935218">Mr. Dion, the education continuum from early childhood to post-secondary education depends on competent and committed teachers.</ParaText>
+              <ParaText id="8935219">How do you work with teacher training institutions to reinforce the continuum?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170055">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935221">In Saskatchewan, the only training program for francophone teachers is at the University of Regina, which offers a bachelor of education in French. I'm a graduate of that program. In addition, a teacher from my school board currently has a job training these teachers. It's a great teacher training program.</ParaText>
+              <ParaText id="8935222">It's important to understand that teaching in minority language communities is a specialization in itself. It's not easy. It has its own intricacies that are not found anywhere else. We see that when we bring in teachers from a majority language community. We work on these programs and support them as best we can so that the next generation of teachers can return to our communities, because we need them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170079">
+            <PersonSpeaking>
+              <Affiliation DbId="319659" Type="47">Giovanna Mingarelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935225">Thank you.</ParaText>
+              <ParaText id="8935226">The committee often hears about the difficulty of recruiting and retaining teachers in minority francophone schools.</ParaText>
+              <ParaText id="8935227">How does that play out in Saskatchewan?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170086">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935233">In Saskatchewan, that challenge is mostly in rural schools. For example, a rural school may have 50 or 60 students and four or five teachers. You can imagine how hard it is to find a teacher from the community. Someone may really want to invest in the community, but most people from outside have no interest in living in a small rural place. The big challenge is to find people in the community who want to get a teaching degree and then come back to live in the community.</ParaText>
+              <ParaText id="8935234">It can be hard for teachers to stay in these communities where the main economy is agriculture. Someone from Ontario might want to start a career in education, but their spouse would have to want to start a career in agriculture, for example. Otherwise, it really wouldn't work. It's very difficult to bring people in from other places.</ParaText>
+              <ParaText id="8935235">In addition, in these small communities, it often happens that a position opens up and no one applies. No one wants to go there, because it's far from all the services offered by a big city, such as health care services, stores and so on. Many schools have unfilled positions. The other teachers then have to compensate by agreeing to work more hours and take on more tasks, and so on.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170110">
+            <PersonSpeaking>
+              <Affiliation DbId="319659" Type="47">Giovanna Mingarelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935248">Thank you.</ParaText>
+              <ParaText id="8935249">Now I'd like to turn to Mr. Desgagné and Mr. Krajewski.</ParaText>
+              <ParaText id="8935250">Your organization also works on workplace skills development.</ParaText>
+              <ParaText id="8935251">Can you give us some examples of successful partnerships with the provinces or with the private sector?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170118">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935255">Yes.</ParaText>
+              <ParaText id="8935256">I don't know if you want to answer, Mr. Desgagné.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170122">
+            <PersonSpeaking>
+              <Affiliation DbId="291508" Type="28">Denis Desgagné</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935259">Working directly with the provinces is very complicated. It must be said that, despite repeated requests, RESDAC was never consulted about funding transfers, for example. However, RESDAC, which has been seriously dormant, if not in a coma, for five years, has just been revived. It is putting tools and platforms in place, in partnership with international companies from Europe and Australia, to help francophone and Acadian people develop their required skills and define and recognize those skills in order to properly compete on the labour market.</ParaText>
+              <ParaText id="8935260">We have a number of partnerships, including with the Fédération des chambres de commerce du Québec and with university research organizations, to match francophones or anglophones with employers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170139">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935266">I'm sorry, but the time is up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170143">
+            <PersonSpeaking>
+              <Affiliation DbId="319659" Type="47">Giovanna Mingarelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935271">I'm done. Thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170146">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935275">Thank you, Ms. Mingarelli.</ParaText>
+              <ParaText id="8935276">Colleagues, as you know, we very much appreciate the testimony of the witnesses, and we want to hear what they have to say. We had technical problems with Mr. Leclerc's sound, but during the meeting, our officials worked hard to try to correct the problem. If I may, I will suspend the meeting for a minute, just to test the sound so that we can contact him.</ParaText>
+              <ParaText id="8935277">I'm suspending the meeting.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170185">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935280">We are resuming the meeting.</ParaText>
+              <ParaText id="8935281">We are at questions from members.</ParaText>
+              <ParaText id="8935282">Mr. Gill, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170190">
+            <PersonSpeaking>
+              <Affiliation DbId="322448" Type="47">Dalwinder Gill (Calgary McKnight, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935289">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8935290">I have questions for Mr. Dion.</ParaText>
+              <ParaText id="8935291">Currently, about 4% of immigrants going to western provinces are French speakers, but the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> has promised to increase that number to 12% by 2029.</ParaText>
+              <ParaText id="8935292">How are the education systems in provinces like Alberta and Saskatchewan preparing to adapt to this potential rise in French-speaking newcomers? Have provincial school boards begun planning for an increase in demand for French-language programs, teachers and early childhood education spaces? </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170238">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935297">The student population in francophone schools is already on the rise as a result of immigration. There have been many students from other countries who fall under the authority of our board for more than 10 or 15 years. A portion of this influx of migrants will definitely settle in Saskatchewan, and the francophone student population under our board will increase as a result of immigration. However, there is no denying that, if these eligible children settle in a community that isn't served by a francophone school, we won't be able to reach them.</ParaText>
+              <ParaText id="8935298">We also have to keep in mind that many of these newcomers will choose to send their children to an English school for fear that their children won't adapt to the majority language because of a lack of education.</ParaText>
+              <ParaText id="8935299">Lastly, we have to be careful in interpreting this data, because if the proportion of francophone migrants increases to 12% in the province as a whole, we won't necessarily see it, because our school board doesn't cover the entire province.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170258">
+            <PersonSpeaking>
+              <Affiliation DbId="322448" Type="47">Dalwinder Gill</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935303">I have another question for you.</ParaText>
+              <ParaText id="8935304">Do you believe there is enough collaboration among the federal government, provincial governments and community organizations to ensure that French-speaking families can integrate successfully into local education systems? What specifics would you like to see from the federal government to help western provinces meet the 12% francophone immigration target while maintaining high-quality French-language education?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170272">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935309">More collaboration between all levels of government can always benefit the relationships between all organizations that work towards minority language rights. Let's not forget that collaboration is one thing, but clear and sustainable financing of such programs is really important.</ParaText>
+              <ParaText id="8935310">I think it's important that we keep collaborating, and then we collaborate even more. We have organizations that seem to work in silos, and we need to make sure not only that information is passed between organizations, but also that organizations listen to each other. I think that's really important.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8935311">Consultation is all well and good, but we have to listen to what we are told and follow up on those consultations. It's very important.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170314">
+            <PersonSpeaking>
+              <Affiliation DbId="322448" Type="47">Dalwinder Gill</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935327">My next question is for Mr. Desgagné.</ParaText>
+              <ParaText id="8935328">I believe you last appeared before this committee in February 2024. Since then, what kinds of developments have taken place with regard to your organization's relationship with the federal government? Has federal support for literacy and skills development among francophone communities improved, stayed the same or declined over the past year and a half?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170334">
+            <PersonSpeaking>
+              <Affiliation DbId="291508" Type="28">Denis Desgagné</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935340">Since our last appearance before the committee, nothing has changed, despite RESDAC's enthusiasm for playing an active role in skills development, whether formal, non-formal or informal. It's the status quo. It's a step backward, as I see it.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170340">
+            <PersonSpeaking>
+              <Affiliation DbId="322448" Type="47">Dalwinder Gill</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935344">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170346">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935357">Thank you, Mr. Gill.</ParaText>
+              <ParaText id="8935358">I now give the floor to Ms. Chenette for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170351">
+            <PersonSpeaking>
+              <Affiliation DbId="319661" Type="47">Madeleine Chenette (Thérèse-De Blainville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935361">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8935362">I'm going to start with Mr. Dion and Ms. Asselin.</ParaText>
+              <ParaText id="8935363">You explained the challenge that immersion schools face compared to francophone schools. Since the beginning of the meeting, you've also talked about the challenge that francophone communities face in accessing French-language schools.</ParaText>
+              <ParaText id="8935364">The idea of mixed schools would undoubtedly imply a change within school boards, where the majority currently prevails. If we changed things up or found a way to improve the governance of school boards, there could be mixed schools.</ParaText>
+              <ParaText id="8935365">In other words, there would be a francophone infrastructure and an anglophone infrastructure in the same school. The francophone clientele would have access to a francophone program and to the services you were talking about.</ParaText>
+              <ParaText id="8935366">Would that be a worthwhile option to consider?</ParaText>
+              <ParaText id="8935367">What would be the challenges to achieving this? What leverage should be put in place to do that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170367">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935375">Providing a mixed service within a single institution presents challenges. You have to understand that, in a minority setting, the majority language prevails. In an institution that offers both services, the majority language would prevail, and it would set the tone for the students' school environment. It is therefore very hard to provide quality service in French as a first language in a mixed environment.</ParaText>
+              <ParaText id="8935376">However, compromises could be made. My experience is proof of that. The immersion school in my village had a gymnasium built for the francophone community with funding from Canadian Heritage. When I became a student at the francophone school, my access to the gymnasium was restricted because I wasn't part of the majority school board.</ParaText>
+              <ParaText id="8935377">There was obviously a legal challenge, and we won. I was able to access the gym. Afterwards, a French school was built in my village. Both schools had access to the gymnasium and science lab. The buildings were separate, but we were allowed access to some parts of the infrastructure.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170400">
+            <PersonSpeaking>
+              <Affiliation DbId="319661" Type="47">Madeleine Chenette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935380">Ms. Asselin, what do you think?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170403">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935382">In our opinion, spaces should not be shared, although it may seem like a good idea from a structural and funding standpoint.</ParaText>
+              <ParaText id="8935383">First, the needs of the two clienteles are completely different. I agree with Mr. Dion that francophone children are anglicized when we put them in immersion classes. English is definitely going to dominate. It is already hard to ensure that our children speak French, even in our francophone communities and schools, and even in school corridors and on the playground.</ParaText>
+              <ParaText id="8935384">If we let a bunch of children share a schoolyard where English is overwhelmingly spoken, it will definitely be even harder to have a francophone environment in our schools.</ParaText>
+              <ParaText id="8935385">We also want to create a sense of belonging and connection to the francophone community in schools. It would be harder to create that connection if they were mixed.</ParaText>
+              <ParaText id="8935386">In British Columbia, there are still mixed schools. Some francophone high schools are in anglophone schools, and we have found that the spaces are shared very unequally. Francophones often lose out in terms of access to the gym, access to the library, and so on. It's really hard to share spaces. I don't think that would be advisable.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170435">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935390">There are about 30 seconds left, Ms. Chenette.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170438">
+            <PersonSpeaking>
+              <Affiliation DbId="319661" Type="47">Madeleine Chenette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935391">Okay.</ParaText>
+              <ParaText id="8935392">Mr. Krajewski, you talked about the influence of learning in a formal or informal context.</ParaText>
+              <ParaText id="8935393">What does it mean to you to work on provincial and federal relations? What is the federal government's role in emphasizing this aspect?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170441">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935398">I would ask you to provide a brief answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170444">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935401">I think that the principle of “by and for francophones” should be better taken into account in the implementation of support measures for everyone in the community, so that we can move towards non-formal or informal learning.</ParaText>
+              <ParaText id="8935402">A lot of federal transfers obviously focus on formal learning. Once again, the modernization of the Official Languages Act recognizes non-formal and informal learning as being as important as formal learning, but the first two areas are largely neglected for the moment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170452">
+            <PersonSpeaking>
+              <Affiliation DbId="319661" Type="47">Madeleine Chenette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935405">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170456">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935408">Thank you, Ms. Chenette.</ParaText>
+              <ParaText id="8935409">I now give the floor to Mr. Beaulieu for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170461">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935412">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8935413">My question is for the RESDAC representatives.</ParaText>
+              <ParaText id="8935414">Do you receive funding from the education component of the official languages support program? How does that work?</ParaText>
+              <ParaText id="8935415">Since you're not assigned to a specific territory, are you funded by the federal government?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170467">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935427">Mr. Desgagné could answer that question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170469">
+            <PersonSpeaking>
+              <Affiliation DbId="291508" Type="28">Denis Desgagné</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935429">We receive funding from Employment and Social Development Canada. Following a complaint filed with the Office of the Commissioner of Official Languages, RESDAC initially received funding of approximately $7 million in the first year for all members of the network, from across the provinces and territories.</ParaText>
+              <ParaText id="8935430">This year, under the last agreement, we've received $6 million over four years. To give you an example of the scale of organizations similar to ours, they can receive around $100 million a year for skills development. Community Futures Network of Canada received $630 million. I could keep giving you examples like that. Many organizations from the majority receive resources to help with [<I>Technical difficulty—Editor</I>] lifelong learning. The purpose of these organizations is to ensure that people have the skills to succeed and the chances to do so. In our context, it's also about their fulfillment.</ParaText>
+              <ParaText id="8935431">Ms. Asselin said that the learning process takes a village. RESDAC, its members and its partners, whether it be the Fédération de la jeunesse canadienne-française or the parent association, also have to train volunteers and employees, so that's sort of what I'm saying. It's important to not forget the businesses. Some universities and colleges will even offer internships, some of which are paid. In our case, we can't afford it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170496">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935433">Thank you, Mr. Desgagné.</ParaText>
+              <ParaText id="8935434">My next question is for the representatives from British Columbia and Saskatchewan.</ParaText>
+              <ParaText id="8935435">We talked earlier about budgets and the fact that they constantly increase for immersion schools, while the percentage of bilingualism among anglophones outside Quebec has long plateaued at around 9%.</ParaText>
+              <ParaText id="8935436">How come there isn't an increase in bilingualism among anglophones in English Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170504">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935439">Mr. Beaulieu, you have only 10 seconds left. We could ask a witness to provide a short answer, if you wish.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170512">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935443">I can do it.</ParaText>
+              <ParaText id="8935444">It's important to realize that a francophone school's mandate is not to train bilingual people, but to train francophone people.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170515">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935450">I fully agree.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170519">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935456">Thank you, Mr. Dion.</ParaText>
+              <ParaText id="8935457">Thank you, Mr. Beaulieu.</ParaText>
+              <ParaText id="8935458">Mr. Godin, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170523">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935463">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8935464">I'm going to go fairly quickly. My first question is for the representatives of the Réseau pour le développement de l'alphabétisme et des compétences, or RESDAC.</ParaText>
+              <ParaText id="8935465">You recommended lifelong learning in your opening remarks. We're conducting a study on the education continuum from early childhood to post-secondary studies. However, I understand that you extend post-secondary to include the rest of life.</ParaText>
+              <ParaText id="8935466">Have I understood that right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170527">
+            <PersonSpeaking>
+              <Affiliation DbId="322912" Type="28">Geoffroy Krajewski</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935474">Yes, that's exactly it.</ParaText>
+              <ParaText id="8935475">Today's meeting is a perfect example of that. The education continuum is often associated with a period from pre-kindergarten to post-secondary studies, and post-secondary is limited to college or university. However, the entire adult education environment gets completely forgotten.</ParaText>
+              <ParaText id="8935476">As I was saying earlier, the latest modernization of the Official Languages Act recognizes non-formal and informal learning opportunities in the same way as formal learning. However, reducing the education continuum to the formal and academic fields dismisses non-formal and informal fields.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170535">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935480">You know that the matter of what's formal, informal or non-formal is the legacy of your predecessor, so I'd like to say hello to Mon Audet, from Manitoba.</ParaText>
+              <ParaText id="8935481">That said, I understand, but limits have to be set. I'm not sure that this committee is the appropriate platform to talk about combining post-secondary education with adulthood. Still, I fully share your concern. There may be subsequent work to be done on the issue, because it's a hard nut to crack.</ParaText>
+              <ParaText id="8935482">Speaking of, I have a question for Mr. Dion and Ms. Asselin.</ParaText>
+              <ParaText id="8935483">This study was started in the 44th Parliament, and we're continuing it in the 45th Parliament. I know there was a lot of fighting in British Columbia, as there was in Saskatchewan.</ParaText>
+              <ParaText id="8935484">How can the federal government ensure that you focus on your mission instead of expanding your energy defending and asserting your rights? We're at the federal level here, so help us help you. What could we do to ease your burden so that you focus your energy and your time on your mission, which is to say, teaching?</ParaText>
+              <ParaText id="8935485">Mr. Dion, you can begin. Ms. Asselin, you can take it from there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170558">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935491">I think it would be important to establish fee mechanisms to ensure that the funds transferred to francophone communities, particularly through the provinces, actually go to programs that help serve minority francophone populations. That would be the first thing.</ParaText>
+              <ParaText id="8935492">The second would be to ensure that the government continues to properly protect and fund the court challenges program, which specifically enables francophone communities to get funding and resources to challenge certain things, when they need it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170576">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935497">Before giving the floor to Ms. Asselin, I'm going to pick up on that, because I'd like to add something.</ParaText>
+              <ParaText id="8935498">If there are very clear and well-defined federal measures, if there are no discussions, if this is the way it is, and if it's directed straight to the francophone school boards, you won't need legal challenges anymore; there won't be any more trials. We're wasting money to defend your rights when that money should be invested in the public and in rights holders.</ParaText>
+              <ParaText id="8935499">In the current context, I agree with you, but I would prefer to eliminate that budget and give the funds to rights holders.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170587">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935502">I fully understand, but education is a provincial jurisdiction. That means we need a mechanism to assert our rights with the provinces.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170593">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935505">Thank you.</ParaText>
+              <ParaText id="8935506">Ms. Asselin, do you want to add anything? I'd like to hear your thoughts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170596">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935509">Yes, absolutely.</ParaText>
+              <ParaText id="8935510">Consultations with francophone communities should take place before agreements between the federal and provincial governments are signed. For example, when it comes to child care services, that would make it possible to define an action plan, an accountability mechanism and performance targets specifically for francophone clauses.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170598">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935513">Thank you, Ms. Asselin.</ParaText>
+              <ParaText id="8935514">I have a quick question for both of you. Does the modernization of the Official Languages Act give you the tools you need to meet that objective?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170602">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935518">There are 15 seconds left. Again, I'm looking for a quick answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170607">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935521">Mr. Dion or Ms. Asselin, would you like to answer?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170611">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935525">It's hard to say; it's uncertain.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170613">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935528">I would say the same thing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170617">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935534">You don't want to comment?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170621">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935536">Thank you, Mr. Godin.</ParaText>
+              <ParaText id="8935537">The last member to ask questions is Mr. Deschênes‑Thériault.</ParaText>
+              <ParaText id="8935538">You have the floor for five minutes, Mr. Deschênes‑Thériault.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170625">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935541">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8935542">We know that priorities can change when there's a change in government. Since 2015, early childhood has been a priority in Ottawa. That was reflected in the 2018 and 2023 action plans in particular, where there was an increase in the amounts granted to the francophone early childhood sector.</ParaText>
+              <ParaText id="8935543">However, as Ms. Asselin said in her opening remarks, the issue of francophone early childhood wasn't a priority for the government in 2013, and it really fell under the radar at the time. Given the importance of early childhood in the French-language education continuum, what could the federal government do to better protect that essential hub?</ParaText>
+              <ParaText id="8935544">I would like to get an answer from Ms. Asselin.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170631">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935548">I think a lot of it has to do with the funding structure. Take the shortage of educators, for example. We want to support educators so that they finish their schooling in early childhood education. We want to support future educators in the credential recognition process. In British Columbia, credential recognition is particularly difficult. It's long-term work; we're talking about years of support to complete an educational journey in early childhood education.</ParaText>
+              <ParaText id="8935549">We're very grateful for the training funding that the Association des collèges et universités de la francophonie canadienne, or ACUFC, received. I was talking about the Network of Early Childhood Stakeholders, or NECS, and the $47.7 million for the Commission nationale des parents francophones, or CNPF, and its network. We're very pleased with that funding, but what will happen after that, in 2028? What will happen to the educators we're currently supporting in their educational journeys? What will happen to the project to build new child care centres after 2028? It isn't easy to know, and the current circumstances are creating a lot of uncertainty when it comes to our momentum right now.</ParaText>
+              <ParaText id="8935550">Three-year agreements aren't enough. The action plan for official languages normally lasts five years. We've now reached the third year, and we've just gotten the funding. If we'd had access to this funding in the first year of the action plan for official languages 2023–2028, we could at least have had five years to roll out programs and services, and we would have had a better impact.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170667">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935561">Thank you.</ParaText>
+              <ParaText id="8935562">I'd like to take you in a different direction.</ParaText>
+              <ParaText id="8935563">Earlier, one of my colleagues mentioned that the current government wants to increase the proportion of francophone immigration to 12% by 2029. Increasing francophone immigration was a long-standing request from the communities, and it was well received.</ParaText>
+              <ParaText id="8935564">How will this increase in francophone immigration help you in terms of the labour shortage, particularly in the early childhood or education sectors?</ParaText>
+              <ParaText id="8935565">My question is for Ms. Asselin and Mr. Dion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170677">
+            <PersonSpeaking>
+              <Affiliation DbId="242137" Type="28">Marie-Andrée Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935571">Immigration is very important for us in British Columbia. We aren't able to staff positions in the francophonie, even outside of schools and early childhood, without bringing in people from abroad.</ParaText>
+              <ParaText id="8935572">Access to credential recognition is still a problem in the whole issue of francophone mobility, since the processes are long and quite tedious for people who want to immigrate to Canada. I would say that we're very happy with the targets, that's great, but there are still a number of barriers to the arrival of those skilled people, who want to come and work with us.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170698">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935574">Thank you.</ParaText>
+              <ParaText id="8935575">Mr. Dion, do you have an answer?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170703">
+            <PersonSpeaking>
+              <Affiliation DbId="323084" Type="28">Daniel Dion</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935578">On the Saskatchewan side, it's really like what Ms. Asselin described.</ParaText>
+              <ParaText id="8935579">We're grateful to be able to welcome more and more teachers. We want a certain percentage of people who immigrate to our province to be teachers.</ParaText>
+              <ParaText id="8935580">As Ms. Asselin said, one of the major challenges is the recognition of these teachers' diplomas and education training. There's still work to be done to ensure a smooth transition for teaching in minority environments.</ParaText>
+              <ParaText id="8935581">It's important to remember that it isn't easy, that this situation involves subtleties and its own challenges, which can be quite a shock for someone who's used to working in a francophone majority environment and who arrives in a francophone minority community in Saskatchewan.</ParaText>
+              <ParaText id="8935582">These people should receive a great deal of support, whether professionally or in terms of the offer for the students who'll be coming to our schools.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170730">
+            <PersonSpeaking>
+              <Affiliation DbId="319660" Type="47">Guillaume Deschênes-Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935585">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170735">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935590">Thank you, Mr. Deschênes-Thériault.</ParaText>
+              <ParaText id="8935591">That concludes today's testimony. On behalf of the committee, thank you, Mr. Dion, Ms. Asselin, Mr. Krajewski, Mr. Desgagné and Mr. Leclerc. Since the committee will now be dealing with two administrative matters, you may disconnect.</ParaText>
+              <ParaText id="8935592">Colleagues, as I mentioned at the beginning of the meeting, we're now going to take some time to discuss two items. First, four budgets have been distributed to committee members: the one for the study on the education continuum, the one for the study on the renewal of the employment contract for interpreters, the one for the briefing with the <Affiliation DbId="318605" Type="4">President of the Treasury Board</Affiliation> and the one for the briefing with the <Affiliation DbId="318700" Type="96">Minister of Canadian Identity and Culture and Minister responsible for Official Languages</Affiliation>.</ParaText>
+              <ParaText id="8935593">Is there unanimous consent to adopt these budgets?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170759">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935598">Can you just remind us of the amount for each study? It seems minimal to me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13175702">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935600">Yes. I'll ask the clerk to respond to that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170764">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk of the Committee (Madeleine Martin)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935606">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8935607">The briefing with the President of the Treasury Board is just one meeting, so the amount is $500. That will be used to provide a meal. The same goes for the briefing with the minister responsible for official languages.</ParaText>
+              <ParaText id="8935608">As for the study on the renewal of the employment contract for parliamentary interpreters, which took place last Tuesday, the budget is $5,500. That includes witnesses' travel expenses and meals.</ParaText>
+              <ParaText id="8935609">The budget for the study on the minority-language education continuum is $41,900. That's the biggest of the four budgets, because witnesses will be coming from all over Canada. There will be some from Halifax, Calgary, Vancouver, Victoria, Edmonton, Iqaluit, Montreal, Quebec City, Toronto and Winnipeg. We went off the witness list.</ParaText>
+              <ParaText id="8935610">We also planned for headsets for witnesses participating virtually in the meeting, as well as 10 working meals, since, in addition to the six meetings devoted to the study, there will be other meetings to study the report. We also have to take into account the costs associated with those meetings.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170773">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935616">Is that too much or too little? What options do we have? I don't see any. We have to do these studies, so I think it's just a formality.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170776">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935617">Yes. That's why the planned spending is based on where the witnesses are located. For those attending the meeting in person, we use the list of witnesses to calculate travel expenses based on their location. For example, the representatives of the Commission scolaire francophone du Nunavut are coming to testify in person, so I included their travel expenses in the budget. The budget is calculated based on fixed amounts. For example, the House of Commons determines how much it costs, on average, to bring in witnesses from Vancouver, and that's the amount that gets budgeted.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175724">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935618">Mr. Beaulieu, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170783">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935619">Wasn't there an overall budget in previous years? I don't recall voting on a budget for each meeting.</ParaText>
+              <ParaText id="8935620">I also imagine that the costs are lower for witnesses who prefer to testify by Zoom, right? You seem to have already calculated the travel expenses for those appearing in person, in any case.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170790">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935621">In terms of the cost of headsets compared to the number of in-person participants, since it's impossible to know in advance how many people will testify in person and how many will do so virtually, I divide the number of witnesses according to a certain ratio to provide funding for both types of participants.</ParaText>
+              <ParaText id="8935622">As far as study budgets are concerned, we do indeed have to adopt a budget for each study. That's always the standard.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170797">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935623">Okay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170800">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935624">Mr. Dalton, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170802">
+            <PersonSpeaking>
+              <Affiliation DbId="319797" Type="47">Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935625">First, if more witnesses decided to travel here, would our ability to welcome them be limited or could we simply increase the budget?</ParaText>
+              <ParaText id="8935626">Second, have you ever had a discussion with them as to whether they intend to come here?</ParaText>
+              <ParaText id="8935627">Finally, what is the cost of the headsets?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170805">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935628">They're good questions. A headset costs $250, but it can be less. Sometimes witnesses buy their own headsets and are reimbursed up to $250. So it can cost them $50 or $70.</ParaText>
+              <ParaText id="8935629">To answer the question about overall budgets and the overall envelope, I'll give you some examples. If we adopted an amount of $41,900, then that amount would be allocated to this study. However, how it would be spent would depend on the variables that were mentioned. We can spend more on witnesses who attend the meeting in person. It doesn't have to be exactly 12 headsets or 18 witnesses participating in person. If we didn't spend all the money, what would remain would go back into the committee's overall envelope. So the money wouldn't be wasted. It would stay with the committee and be used for a future study.</ParaText>
+              <ParaText id="8935630">We usually prefer to err on the side of caution by adopting a slightly higher amount, which avoids making supplementary estimates should there be a lack of funds. In such a case, it would be possible to prepare supplementary estimates. By adopting a higher amount, we can put the money back into the committee's overall envelope if we don't use it all, even if it means using it at another time.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170818">
+            <PersonSpeaking>
+              <Affiliation DbId="319797" Type="47">Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935631">Witnesses can purchase their headsets according to the established standards. However, as we saw today, someone had problems. You said that it probably wasn't due to the headset, but to his computer system. They have to follow guidelines in order to get a refund. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170824">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935632">Yes.</ParaText>
+              <ParaText id="8935633">There is also a very strict list of permitted headsets. The IT ambassadors, who are not often seen but are at the back of the room, can see on the computer whether the witness has connected with the right headset. If the witnesses don't have the right headset, they aren't even allowed to access the meeting on Zoom. It's the same as for you, by the way. When you are appearing virtually, we always make sure you have the right headset before letting you access the meeting on Zoom.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175744">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935634">We will continue with Mr. Villeneuve, who will be followed by Mr. Beaulieu.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170828">
+            <PersonSpeaking>
+              <Affiliation DbId="319658" Type="47">Louis Villeneuve</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935635">Please excuse my ignorance: I'm a new MP.</ParaText>
+              <ParaText id="8935636">Today, a number of witnesses took part in the meeting online. Was it a choice? Since we don't impose anything on them when we invite them, it's up to them to decide whether they will attend the meeting in person or not.</ParaText>
+              <ParaText id="8935637">Did I understand correctly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175747">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935638">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170838">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935639">Mr. Dalton asked the question I had in mind about headsets, and it was answered.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170841">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935640">Mr. Chair, I'd like to ask a question, but it's not a formal request.</ParaText>
+              <ParaText id="8935641">I want to come back to the unused funds in the overall envelope. Travel projects are taking place in Canada to visit official language minority communities.</ParaText>
+              <ParaText id="8935642">Is it the same budget?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170843">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935643">That's a good question. That money comes from the committee's overall envelope, the amount of which I don't know.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170844">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935644">I just want to raise awareness around the table. We've had travel plans in the past, but we haven't since I've been here.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170848">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935645">That's a good question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170851">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935646">I'm not on the committee just to travel, but I know that other committees travel internationally and within Canada. They go out in the field to see what's really happening there. It could be a tool for our study. I simply want to say that it's a possibility and to find out if it's the same budget.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170855">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935647">If there are no further questions or comments, is it the pleasure of the committee to adopt the budget?</ParaText>
+              <ParaText id="8935648">(Motion agreed to)</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13177443">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935649">We now have a matter to resolve regarding the documents received as part of the study on the continuum of education in the minority language.</ParaText>
+              <ParaText id="8935650">Last fall, the committee took the initiative of sending a questionnaire about this study to all minority language school boards across the country. The objective was to gather comparative data to help draft the report. The committee received 14 completed questionnaires and a brief from the Department of Education, Culture and Employment in the Northwest Territories. These documents were translated, but the clerk wasn't able to distribute them before Parliament was prorogued. As I understand it, since the clerk was unable to distribute them before prorogation, these documents aren't considered to have been received as part of our study.</ParaText>
+              <ParaText id="8935651">Is it the will of the committee members that these documents be distributed to them and used in the context of this study?</ParaText>
+              <ParaText id="8935652">I give the floor to Mr. Beaulieu, who will be followed by Mr. Godin.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170879">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935653">I agree.</ParaText>
+              <ParaText id="8935654">We had also asked that the provincial governments provide us with information on the funding they provide to minority schools and the proportion of students. Have we received that information? If not, could we send them the request again?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170889">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935655">It's the brief from the Northwest Territories. We sent a letter, and it was the only department that responded to us, the Department of Education, Culture and Employment of the Northwest Territories.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170891">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935656">Could we make the request to the other provinces?</ParaText>
+              <ParaText id="8935657">There are no answers so far.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170894">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935658">It's at the will of the committee. That's a decision to be made.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170897">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935659">I agree with using the documents, but I would suggest that we go back to the provincial governments to get the funding amounts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170911">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935660">Do we agree with what Mr. Beaulieu is proposing?</ParaText>
+              <ParaText id="8935661">Mr. Godin, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170913">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935662">Are we voting or expressing our intention?</ParaText>
+              <ParaText id="8935663">Actually, I have another question about the committee.</ParaText>
+              <ParaText id="8935664">Personally, and I think my colleagues in the Conservative Party are comfortable with the proposal to restart the provincial and territorial governments. As my Liberal colleague just mentioned, it doesn't cost anything. We'll see if they want to answer or not.</ParaText>
+              <ParaText id="8935665">However, I would like the floor. I want to conclude on what Mr. Beaulieu was saying, and I'll come back to it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170918">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935666">Okay.</ParaText>
+              <ParaText id="8935667">First, do we accept the documents and can they be circulated?</ParaText>
+              <ParaText id="8935668">
+                <B> Some hon. members:</B> Agreed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170925">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935669">Second, Mr. Beaulieu proposed submitting the request to the provincial and territorial governments again. Do members agree with this proposal?</ParaText>
+              <ParaText id="8935670">
+                <B> Some hon. members:</B> Agreed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13179163">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935671">I now give the floor to Mr. Godin.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175755">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="47">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935672">Actually, Mr. Chair, I'd like to know how many school boards there are. You said that 14 responded, so how many haven't?</ParaText>
+              <ParaText id="8935673">From a statistical point of view, is it very representative or not? If there are 200 and only 14 responded, that's not a lot. However, if there are 30 school boards, then 14 is a lot.</ParaText>
+              <ParaText id="8935674">I'd like to know the proportion in order to put things in perspective.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175757">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935675">I'll ask the clerk to respond to that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170936">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935676">According to my Excel spreadsheet, we've sent 38.</ParaText>
+              <ParaText id="8935677">In Quebec, it's the Quebec English School Board. We've actually gone to…. Perhaps Ms. Lecomte could continue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170940">
+            <PersonSpeaking>
+              <Affiliation DbId="320674" Type="26">Lucie Lecomte (Committee Researcher)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935678">In some provinces, such as Ontario, which has many school boards, some Catholic, others public, the boards benefit from associations or groups. The committee therefore sent the request to the school boards, but also to those associations or groups.</ParaText>
+              <ParaText id="8935679">I must also tell you that, even though we received responses from only 11 school boards, the result is interesting because there are responses from school boards in Alberta, Ontario and even the territories. So we still have good geographic representation overall, which is very good.</ParaText>
+              <ParaText id="8935680">As for the anglophone school boards in Quebec, one of them answered the questionnaire.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170961">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935681">Go ahead, Mr. Godin.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170967">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935682">In fact, I'll be at the congress of the Fédération nationale des conseils scolaires francophones next week. Is it possible to have a list of those who haven't responded to us so that we can follow up with them, and encourage them to participate and complete the questionnaire?</ParaText>
+              <ParaText id="8935683">It's always in the interest of the committee and the work of the committee.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170989">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935684">Mr. Godin, are you asking that the clerk follow up, or do you want us, as members, to do that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175766">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="47">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935685">Mr. Chair, I'm asking for a list of school boards or organizations that haven't responded so that I can simply strongly emphasize the importance of responding to this questionnaire so that our recommendations are more comprehensive.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13177828">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935686">I'll ask the clerk to weigh in.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170993">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935687">I just wanted to flag something for consideration.</ParaText>
+              <ParaText id="8935688">The committee has just agreed to receive responses to questionnaires already submitted by the deadline of December 31, 2024. That means that the data collected reflects the situation until December 31, 2024.</ParaText>
+              <ParaText id="8935689">If we decide to reopen the invitation to school boards that haven't yet responded, it's possible that the data received will be different, which could compromise comparability of results. That would compromise the original purpose of the questionnaires. We just need to take that into consideration. It's not about telling you what to do. It's up to you. I just wanted to bring that to your attention.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171004">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935690">Ms. Chenette, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171007">
+            <PersonSpeaking>
+              <Affiliation DbId="319661" Type="47">Madeleine Chenette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935691">With that logic in mind, if we reopen the discussion, what would the impact be on the time frame? If we ask them to come and testify, how would that affect our planning?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171012">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935692">It's up to the committee to set a deadline if we want to send out new invitations. The study will certainly take us until the beginning of November, so it should be done fairly quickly, with a date.</ParaText>
+              <ParaText id="8935693">There's another opportunity for these school boards, which is to submit briefs as part of the study. You can always encourage them to send us written submissions that we will consider for both the report and the study.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171023">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935694">Mr. Beaulieu, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171027">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935695">What they sent us covered the period up to 2024?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171031">
+            <PersonSpeaking>
+              <Affiliation DbId="318903" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935696">Yes, the deadline we had set was December 31, 2024. That's why I wasn't able to send them to you before prorogation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171032">
+            <PersonSpeaking>
+              <Affiliation DbId="320672" Type="40">Mario Beaulieu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935697">Otherwise, it would include a second part covering the period from December 2024 to today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171036">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935698">Mr. Godin, you have the floor, but be aware that there are only a few minutes left.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171042">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935699">I'm aware of the situation.</ParaText>
+              <ParaText id="8935700">I wonder if it would be possible to have access to the school boards that responded to the questionnaire. I would leave it at that.</ParaText>
+              <ParaText id="8935701">I believe they can provide briefs based on the questionnaire.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171045">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935702">Mr. Dalton, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171051">
+            <PersonSpeaking>
+              <Affiliation DbId="319797" Type="47">Marc Dalton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935703">I would just like to say that there would be more work for you if we changed the date, but that wouldn't be the case if we simply asked those who have already submitted their responses if there have been changes since the last time and invited those who haven't yet done so.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171053">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935704">Ms. Chenette, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171059">
+            <PersonSpeaking>
+              <Affiliation DbId="319661" Type="47">Madeleine Chenette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935705">Knowing what the challenges are, we can ask for a list of those who responded and those who didn't. At that point, we can ask them to write a brief if we run into them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171063">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935706">Does everyone agree with Ms. Chenette's proposal?</ParaText>
+              <ParaText id="8935707">Mr. Godin, you wanted to add something.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171068">
+            <PersonSpeaking>
+              <Affiliation DbId="320673" Type="40">Joël Godin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935708">I would add that, if the school boards that have already responded want to send an update in the form of a brief, they can do so.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171074">
+            <PersonSpeaking>
+              <Affiliation DbId="320671" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8935709">Okay, is there any further discussion?</ParaText>
+              <ParaText id="8935710">We all agree on the proposal, okay, that's all.</ParaText>
+              <ParaText id="8935711">The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

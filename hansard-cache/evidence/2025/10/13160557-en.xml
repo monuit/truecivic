@@ -1,0 +1,1907 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13160557">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Public Safety and National Security</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Tuesday, October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mardi 7 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Public Safety and National Security</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">05</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/07 11:05:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la sécurité publique et nationale</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Public Safety and National Security</ExtractedItem>
+    <ExtractedItem Name="Acronyme">SECU</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Jean-Yves Duclos</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160561">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair (Hon. Jean-Yves Duclos (Québec Centre, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923416">I call the meeting to order.</ParaText>
+              <ParaText id="8923417">Good morning, everyone. Welcome to meeting number five of the House of Commons Standing Committee on Public Safety and National Security.</ParaText>
+              <ParaText id="8923418">Pursuant to Standing Order 108(2) and the motion adopted by the committee on September 18, the committee is meeting to continue its study on the management of the Canada-United States border.</ParaText>
+              <ParaText id="8923419">Today’s meeting is being held in a hybrid format, which is permitted under the Standing Orders. To ensure that the meeting runs smoothly, I would like to provide some instructions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175647">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland (Oshawa, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923420">I'm not getting interpretation.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160571">
+            <PersonSpeaking>
+              <Affiliation DbId="318908" Type="27">The Clerk of the Committee (Andrew Wilson)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923421">Is the interpretation working now? Can everyone hear the English interpretation of my words?</ParaText>
+              <ParaText id="8923422">It seems not. I can't hear anything on my end either.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175025">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923423"> I'll suspend.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160579">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923424">We'll start again.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8923425">We are beginning meeting number five of the committee. The meeting is focused on the study of Canada-United States border management.</ParaText>
+              <ParaText id="8923426">The meeting is being held in a hybrid format. This morning, we have two witnesses joining us by video conference, so I would like to address them in particular. They must wait until I call on them before speaking. If they wish to activate their microphone, they can click on the microphone icon; if they do not wish to speak, they must mute their microphone.</ParaText>
+              <ParaText id="8923427">I also have some instructions to share regarding our excellent interpretation service. We would like to thank the interpreters for being here this morning. This committee sends a lot of love to the interpreters, and when they are here in person, we can show them our love and appreciation even more visibly. With regard to interpretation, those participating in the meeting via Zoom can choose between the floor, English or French at the bottom of their screen. Those in the room know how to do this: They can use their earpieces and select the desired channel.</ParaText>
+              <ParaText id="8923428">I would now like to say hello and welcome the two speakers for this first hour, Tim Nohara, president and chief executive officer of Accipiter Radar Technologies Inc., and Mr. Samuel Cooper, journalist for The Bureau.</ParaText>
+              <ParaText id="8923429">We will begin with your presentation, Dr. Nohara. You have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160619">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara (President and Chief Executive Officer, Accipiter Radar Technologies Inc.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923430"> Good morning. Thank you for inviting me to appear before you to provide witness testimony for your study of Canada-United States border management.</ParaText>
+              <ParaText id="8923431">There's a rich history of Canada and the United States working together to secure our land and maritime borders that goes back to 9/11, over 20 years ago. The 2,000 kilometre-long maritime border that runs through the middle of the Great Lakes St. Lawrence Seaway in Ontario and Quebec is the biggest threat for human trafficking and contraband smuggling, including the guns and drugs that are on our streets.</ParaText>
+              <ParaText id="8923432">The Great Lakes St. Lawrence Seaway border is the most challenging to secure because you can't simply assign more border guards to patrol that border in the middle of those big lakes and rivers. You need radar technology, and the ability to assess the shore-to-shore behaviour of the thousands of small pleasure craft in the warmer months and the vehicles on the ice in the coldest months where parts freeze over. The far majority of folks in those vessels and vehicles are law-abiding, of course, enjoying our beautiful outdoors. Those with suspicious behaviour are the ones we're after.</ParaText>
+              <ParaText id="8923433">For over a decade, between 2004 and 2016, Accipiter Radar has worked with the RCMP, DRDC, the Canadian Coast Guard, the CBSA and Transport Canada, and, on the U.S. side, with CBP, the U.S. Coast Guard and DHS, as well as various other federal, provincial, state and local law enforcement agencies on both sides of the border. </ParaText>
+              <ParaText id="8923434">We've developed the technologies and the methodologies needed. We conducted multi-year operational deployments in several representative hot spots of the Great Lakes St. Lawrence Seaway. We proved that we could affordably secure that border. The radars we deployed at those hot spots are still operational today. As a key Canadian industry player, I have been a direct participant in the pioneering work that I just described, which is why I accepted your invitation to come before you.</ParaText>
+              <ParaText id="8923435">One of the key lessons we learned together is that you need persistent radar surveillance across the Great Lakes St. Lawrence Seaway to secure the border. I would note that we began in 2004 using a portable surveillance trailer, not a persistent system, for surge operations at particular locations to monitor and learn what we didn't know about smuggling behaviours. The surveillance data we collected and mined and the arrests we made on both sides of the border quickly showed us that these early successes were the tip of the iceberg.</ParaText>
+              <ParaText id="8923436"> These lessons learned led to the announcement of RCMP's border integrity technology enhancement project, under former commissioner Mike Cabana and assistant commissioner Joe Oliver, who headed technical operations at the time. Their persistent surveillance network was budgeted in 2014 and was supposed to be operational in 2017-18. For it's part, the United States has continued to expand its persistent radar surveillance capabilities, which is clearly more difficult if Canada is not expanding on its side of the border in order to fully capture the shore-to-shore suspicious activity.</ParaText>
+              <ParaText id="8923437"> Accipiter continues to provide persistent radar service to U.S. border patrol. The Americans are reminding us today that they value us doing our part. From my perspective, it appears that Canada is once again starting with the idea of using a portable surveillance trailer, as we did back in 2004, along with some helicopters. While useful for sure, unfortunately these will do very little to secure the Great Lakes St. Lawrence Seaway border. </ParaText>
+              <ParaText id="8923438">Accipiter is able to turn on persistent radar surveillance in certain areas in a matter of a week. Leveraging those radar sites, which we had previous deployed, would allow Canada to immediately start building the complete border activity picture with the United States. We can expand that radar as a service capability in less than two years to cover all key areas of concern, where vessels, low-flying aircraft and drones are involved with smuggling.</ParaText>
+              <ParaText id="8923439">With that, I will turn it back to you, Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160671">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923440">Thank you, Dr. Nohara.</ParaText>
+              <ParaText id="8923441">Go ahead, Mr. Cooper.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160672">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper (Journalist, The Bureau)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923442">Thank you for inviting a journalist to address lawmakers on a subject of extraordinary national importance. Tens of thousands of lives, our livelihoods and our sovereignty are at stake.</ParaText>
+              <ParaText id="8923443"> I offer my remarks and recommendations with humility. I'm still learning every day. I speak regularly with numerous law enforcement and security professionals in both the United States and Canada. </ParaText>
+              <ParaText id="8923444">For over a decade, I've focused professionally on the threats that transnational crime poses to Canada's borders, institutions and people, alongside deep reporting on our financial and legal vulnerabilities to threat networks that often include ties to hostile state activity.</ParaText>
+              <ParaText id="8923445"> Canada's recent terror designation of the India-based Bishnoi gang is important, but that particular action recognizes just one facet of the many-sided transnational threats regarding fentanyl, human trafficking, Chinese-supplied chemical precursors, weapons trafficking, terror and extremism, which I will discuss today.</ParaText>
+              <ParaText id="8923446">Across hundreds of interviews with Canadian and U.S. experts, I've come to a conclusion: Many Canadians, including citizens, lawmakers and judges, don't yet fully understand the scope and nature of the problem and also seem defensive in engaging it, and if we don't understand it, we can't solve it. </ParaText>
+              <ParaText id="8923447">In these politically divisive times, I hope I can add some value by relaying, clearly and fairly, what professionals on both sides of the border are saying about the cultural, legal and political differences that have impeded co-operation between the United States and Canada. My reporting has emphasized Canadian enforcement challenges, not to be unduly critical of my homeland, but because I think we should focus first on the levers we control here in Canada and the reforms that we should have already tackled decades ago.</ParaText>
+              <ParaText id="8923448">This isn't my opinion only. As you know, Canadian Association of Chiefs of Police president Thomas Carrique recently warned the police are being asked to confront a new wave of lethal transnational threats with “outdated and inadequate” laws “never designed to address today's criminal landscape”. He added that Canada would have been far better positioned to “disrupt” organized crime had Ottawa acted on reforms first recommended in the early 2000s.</ParaText>
+              <ParaText id="8923449">RCMP assistant commissioner David Teboul said this year, after the discovery of major fentanyl labs in British Columbia notable for their commercial-grade chemistry and scientific expertise, that there's a “need for legislative reform” around how such equipment and precursor chemicals can be obtained in Canada. More border regulations and technology could and will help, but they won't be sufficient absent foundational legal change.</ParaText>
+              <ParaText id="8923450">It has long been my experience in discussions with senior U.S. enforcement experts that American and Australian police can collaborate effectively because the two nations are able to authorize wiretaps on dangerous and well-known transnational suspects in each of those countries within days, and in co-operative ways. In Canada, that speed is impossible. As former RCMP investigator Calvin Chrustie testified before British Columbia's Cullen commission several years ago, due to judicial blockages arising from Charter of Rights rulings, it had become practically impossible to obtain timely wiretaps on Sinaloa cartel targets residing in Vancouver.</ParaText>
+              <ParaText id="8923451">In recent years, such delays in sensitive investigations have undermined co-operation between the RCMP and the U.S. Drug Enforcement Administration in major cases of fentanyl trafficking and money laundering. In 2017, I was personally alerted to these long-standing concerns about the breakdown in RCMP-DEA co-operation by a U.S. State Department official, who reached out to me when I was in Vancouver.</ParaText>
+              <ParaText id="8923452">These impeded investigations involve the upper echelons of Chinese triads, which maintain deep global leadership in Canada and are aligned with Chinese state interference networks, as well as senior Iranian- and Hezbollah-linked networks operating here in Canada. Both networks are engaged in fentanyl trafficking and money laundering in collaboration with Mexican cartels active in Canada.</ParaText>
+              <ParaText id="8923453">My first recommendation is this: There is no low-hanging fruit. I have not spoken to a single knowledgeable Canadian officer, current or former, who believes that simply spending more on personnel, equipment, training or border staffing will solve this. What I hear is that, from 10 to 20 years ago, before the evolution of charter-driven disclosure and delay jurisprudence rulings in Canada, our nations enjoyed a much closer enforcement relationship.</ParaText>
+              <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+              <ParaText id="8923454">Experts point above all to two Supreme Court rulings, Stinchcombe and Jordan, as the core legal obstacles. Very simply, our Stinchcombe disclosure standards and Jordan time restrictions—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160761">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923455">Mr. Cooper, you have another 10 to 15 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160764">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923456">—disincentivize complex, multi-jurisdictional cases and deter U.S. partners from co-operating with Canada.</ParaText>
+              <ParaText id="8923457">Thank you very much, Chair and members.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160768">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923458">Thank you, Mr. Cooper and Dr. Nohara.</ParaText>
+              <ParaText id="8923459">This enables us to turn first to MP Caputo, and then to MP Acan.</ParaText>
+              <ParaText id="8923460">You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160770">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo (Kamloops—Thompson—Nicola, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923461">Thank you very much to both of our witnesses.</ParaText>
+              <ParaText id="8923462">I'm going to start with Mr. Cooper.</ParaText>
+              <ParaText id="8923463">You've written extensively on fentanyl, and I appreciate what you've written. Can I ask, sir, what the biggest hurdle is to addressing what appears to me to be a fentanyl production crisis in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160774">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923464">The biggest hurdle at this point, as I indicated, is a lack of co-operation between U.S. and Canadian law enforcement. That stems from what has evolved over the past 10 years, as I said in my opening remarks.</ParaText>
+              <ParaText id="8923465">The Charter of Rights is a foundational, amazing set of rules to protect honest, lawful, non-violent Canadians. We all appreciate that, but it has become, as I've said many times in my professional work, a shield for transnational organized crime, consisting of the most dangerous threat networks in the world. That includes precursor suppliers from China and Chinese threat networks laundering money at scale through Canadian banks and cities.</ParaText>
+              <ParaText id="8923466">These are networks and typologies well explained by the U.S. Treasury. The U.S. Treasury has discovered some $300 billion in cartel fentanyl money laundering through Chinese money-laundering networks in the United States. These networks are disproportionately active in Canada—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160784">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923467">Excuse me, Mr. Cooper, but I need to check something.</ParaText>
+              <ParaText id="8923468">Is everything working properly, Mrs. DeBellefeuille?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13162595">
+            <PersonSpeaking>
+              <Affiliation DbId="320405" Type="47">Claude DeBellefeuille (Beauharnois—Salaberry—Soulanges—Huntingdon, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923469">The interpretation has stopped. Mr. Cooper needs to speak more slowly if we want the interpreters to be able to do their job.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162597">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923470">Okay. Interpretation has stopped. We'll suspend for a few seconds just to make sure that it's working again.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160792">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923471">Interpretation is back. I'm sorry for the slight interruption.</ParaText>
+              <ParaText id="8923472">I'll mention that the interpreters are amazing, but they sometimes struggle when the flow of speech is too quick. Let's try to find the right equilibrium between density and the speed at which we are speaking. Thank you.</ParaText>
+              <ParaText id="8923473">It's back to you, Mr. Cooper.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160806">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923474">I'm sorry. Perhaps I can zero in on my question a bit more, Mr. Chair.</ParaText>
+              <ParaText id="8923475">Mr. Cooper, my impression is that the Americans have a great deal of intelligence when it comes to drug trafficking. Is our government acting when we receive that intelligence?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160807">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923476">That's the core of the problem. Our government and police agencies have great will to tackle these transnational fentanyl, methamphetamine, ecstasy and ketamine networks that are using Chinese precursors and producing predominantly in labs in western Canada. The Americans have even greater intelligence, I believe, on the international supply networks.</ParaText>
+              <ParaText id="8923477">The holdup here and the challenge is mainly that the Stinchcombe law necessitates that our Crown prosecutors disclose almost all or all of the investigation evidence when the RCMP or other agencies try to tackle one of these fentanyl networks and labs. They will be asked to disclose particularly sensitive and potentially damaging national security secrets. That is a real bar to co-operation between Canadian-based intelligence and law enforcement.</ParaText>
+              <ParaText id="8923478">We know the evidence of intelligence-disclosure challenges. They're very well heard in Parliament and other fora. It is of course even greater among our Five Eyes partners with intelligence and investigative leads—or the RCMP—sharing back to the Americans. That has caused major problems, including in the Falkland so-called superlab case.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160828">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923479">Thank you, sir.</ParaText>
+              <ParaText id="8923480">I'm just looking at one of your documents here, from February 8, 2025. You write extensively, and I think you're one of the foremost experts on border security and foreign interference. I'm just going to quote you:</ParaText>
+              <ParaText id="8923481">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> Veteran law enforcement officials—both active and retired—from the United States and Canada have come forward with explosive allegations suggesting that Canada's federal government may have systematically obstructed investigations into the highest levels of Asian organized crime</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8923482">Can you elaborate on that, please?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160837">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923483">That's reported with great gravity. The people who came forward pointed to specific cases, such as that of Cameron Ortis, the former RCMP intelligence director who was convicted for sharing Five Eyes international enforcement plans with the very networks that this hearing should be concerned about. Mr. Ortis was convicted of sharing plans with the Sinaloa cartel, Hezbollah and Chinese money laundering-connected threat networks in Vancouver, in one case. In Toronto, Mr. Ortis was allegedly reaching out to the highest levels of Iranian-connected transnational money laundering, inclusive of Iranian-Canadian currency traders in Canada, allegedly working with Pakistani threat networks. That is one case where the sources I talked to said they were afraid that corruption had damaged, perhaps irreparably, our relations with America and others.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160846">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923484">I have about 45 seconds. You talk about corruption. Is that corruption occurring on Canadian soil, and if so, where?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160848">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923485">The corruption has occurred within the CBSA, according to sourcing. As I said, it has occurred on Canadian soil within the RCMP, where these threat networks we're talking about have, as Mr. Ortis said in court, exquisite visibility on RCMP investigation plans.</ParaText>
+              <ParaText id="8923486">I'll end by saying that some sources were very distressed that our former prime minister, as The Globe and Mail reported, stumbled into a surveillance operation that was targeting senior Chinese threat networks in British Columbia.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160854">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923487">Thank you, Mr. Cooper.</ParaText>
+              <ParaText id="8923488">Now we'll go to MP Acan.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160861">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan (Oakville West, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923489">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8923490"> I would like to welcome our guests today, witnesses Mr. Cooper and Dr. Nohara. Thank you very much for appearing before the committee. </ParaText>
+              <ParaText id="8923491">I'm the member of Parliament for Oakville West. I have an electronics engineering background, so I have experience in automation, autonomous tech and robotics. Tech has always been my area of interest, so my questions are going to be about that field.</ParaText>
+              <ParaText id="8923492">Welcome again, Dr. Nohara. As you briefly gave an overview in your opening remarks, could you please provide details on the types of radar technologies that your company has implemented along the Canadian border, particularly in collaboration with the CBSA or port authorities? I'm interested in understanding the scope, capabilities and operational impact of these technologies.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160887">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923493">A good example—maybe the best example—is in the Windsor-Detroit corridor, where the Windsor Port Authority and its harbour master, Peter Berry, VP, has been a key part of the 2004 to 2015-16 effort I spoke about. We have deployed multiple radars, on both sides of the border, in a small corridor there, in a major shipping channel. There are multiple cameras deployed. The radars, cameras and drone-detection sensors all work together.</ParaText>
+              <ParaText id="8923494">There are a lot of pleasure craft—small vessels—that far outnumber the vessels, the ships, that the authority knows about. They don't know about the pleasure craft without radar. It's the only technology that can see the small pleasure craft, so we see that. I provided you some visuals.</ParaText>
+              <ParaText id="8923495">We deploy a subset of sensors on both sides. We make all kinds of radar technologies. If you want to get into the specifics, I can speak to them, but the important part is that those radars are surveying 24-7, 365, and in real time, we're mining that data, that cross-border activity. Where does a vessel start from? Does it meet up with another vessel? When it crosses the border, we generate an alert. Where does it end up? We're mining that data so we can deliver different decision support to the different stakeholders involved in protecting those waterways.</ParaText>
+              <ParaText id="8923496">They're not only involved in border protection and border security. A harbour master's primary job is the safe movement of vessels through that major shipping corridor, so the data serves safety and security elements by delivering different types of information derived from the core radar data, and by controlling other sensors automatically, you can get get visual identification. Then you know what you're looking at more specifically.</ParaText>
+              <ParaText id="8923497">Radar itself is not identifying, so it presents a track, if you will, a trajectory on the screen, but you don't know exactly what you're looking at. We automatically grab camera control, if necessary. If it's a high-profile, suspicious activity, we automatically put the camera, the eyes, on the target to get additional information back to the operators.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160924">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923498">Thank you for your answer.</ParaText>
+              <ParaText id="8923499">Speaking of the port of Windsor, could you please tell us of any notable successes or operational outcomes there? As a follow-up question, how could these radar technologies be further leveraged to strengthen our borders and the border surveillance capabilities more broadly across Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160931">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923500">We've seen everything. From a border security perspective, I've personally been involved, over that period of time, with the various actors and agencies that work very tightly together on both sides of the border. There have been arrests, and those arrests have dealt with guns, contraband, money and drugs. There's human trafficking. We've provided information and intelligence from those persistent radar networks to support that.</ParaText>
+              <ParaText id="8923501">There is search and rescue. There are situations where vessels get in distress. Not only do we provide better eyes for our emergency response teams to save lives, but we also provide the investigative data. It's persistent because everything that's seen by the system is kept in mind forever, and it's very flexible how you can go after it.</ParaText>
+              <ParaText id="8923502">We've proven the technology. Together, we've developed the capabilities. Operationally—this was a key piece—we have multi-year operations with all agencies on both sides of the border working together. I don't want to give numbers here—this is a public forum—but let's say that you don't have the methodologies but have some response vessels, and somebody crosses the border, maybe at night. You have to track and try to intercept them, but it's a difficult problem to get two vessels intercepting each other.</ParaText>
+              <ParaText id="8923503">Without the technology, we have learned that we can't secure the border fully. With the technology, there have been many hundreds of percentages of improvement in operational efficiency, meaning we can take the assets we have—the vehicles on the road, the vessels on the water and now the aircraft in the air—and dispatch them and give the operators tools so they can be more effective with those assets in securing the border.</ParaText>
+              <ParaText id="8923504">For broader expansion, it's just a question of moving the intent. As I noted in the opening with the BITEP from the RCMP, the intent was to pilot it over multiple years, develop the method—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162607">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923505">You have 10 seconds, Dr. Nohara.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162602">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923506">—and then roll it out across that 2,000-kilometre, undefended, Great Lakes-maritime border. That's really the next step if we want to secure the border. Just roll it out. It's very easy. It's 10% to 20% the cost of the Gordie Howe bridge.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160967">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923507">Thank you, Dr. Nohara.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8923508">Mrs. DeBellefeuille, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13160968">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923509">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8923510">Mr. Nohara, I am the member of Parliament for a riding in southern Quebec that shares part of its border with New York State and part with the province of Ontario. This is particularly true of the Akwesasne first nation reserve. My riding also includes Lake Saint-François, a maritime area where there is a lot of arms trafficking and human trafficking, as we know. Unfortunately, last winter, migrants were found dead by the Akwesasne police. There is also smuggling of illegal weapons, which arrive from the United States on Canadian territory. Elected officials in the region, particularly those in Dundee and Saint-Anicet, share my concern: We are not certain that Canada is ensuring security or that every effort is being made to intercept this smuggling and arms trafficking, for example.</ParaText>
+              <ParaText id="8923511">Are you telling me that your technology would make it possible to monitor comings and goings to a certain extent and enable more interceptions in the maritime sector of Lake Saint-François, at the edge of the Great Lakes and the river?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160992">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923512">The absolute clear answer is yes. The persistent radar surveillance networks I'm speaking about started in 2004 in that very area you're speaking about. I was personally involved in several operations with my team, so I've witnessed those areas. That's where our first discoveries were on the value of persistent surveillance.</ParaText>
+              <ParaText id="8923513">We continue to support members in that area, but in that area, there's a clear case of missing technology. They need the technology. It was supposed to happen. The BITEP, which I referred to first and foremost, was to cover the region from the mouth of the northeastern side of Lake Ontario up through the St. Lawrence Seaway to Lake St. Francis.</ParaText>
+              <ParaText id="8923514">The problem persists and continues. You've cited some recent and unfortunate public incidents, but the answer is very straightforward: It's persistent surveillance.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161018">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923515">My understanding is that the technology was tested in this maritime region of Quebec, Ontario and the United States, but once the pilot project was completed, the government withdrew the technology and abandoned this area of the country, where firearms trafficking takes place, among other things. These weapons can be used to commit tragedies of unimaginable proportions, such as those we have experienced in Quebec.</ParaText>
+              <ParaText id="8923516">Did the government withdraw voluntarily? Can you explain why, in your opinion?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161032">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923517">I'll answer the last question—why it's not being used—second, if that's okay.</ParaText>
+              <ParaText id="8923518">The first point you alluded to was whether the technology was abandoned. In my earlier remarks, I mentioned that we did testing in hot spots and that surveillance technology still exists as radar as a service. It still exists in some of the very areas you're referring to. In a matter of a week, we could make a difference in the key areas you're referring to right now. The expansion would be beyond that.</ParaText>
+              <ParaText id="8923519">Why did it get dropped on the Canadian side? Again, the BITEP was approved in the federal budget in 2014. It was supposed to be completed in 2017-18. I don't know the answer from the inside as to why that happened. I can only conclude that priorities changed somewhere.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161048">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923520">I still have a little time left, so let’s explore this issue further together, Mr. Nohara.</ParaText>
+              <ParaText id="8923521">So the budget was not renewed in 2017. Do you think that the Canada Border Services Agency or the RCMP were not satisfied with your technology? Was there an equivalent technology to replace it, or do you think that budgets prevailed and the government backed down on deploying this technology?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161054">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923522">That's a great question.</ParaText>
+              <ParaText id="8923523">First of all, it's RCMP-led between the ports of entry. The RCMP is the primary party responsible for border integrity there.</ParaText>
+              <ParaText id="8923524">They love the technology; the technology is not a concern. We continue to have relationships with them. It's a question of the small amount of money, to be honest. Why didn't it come back? I can't personally answer that question, but I can tell you that one of the challenges is that it's now been over 10 years since persistent surveillance was used in that area on the Canadian side.</ParaText>
+              <ParaText id="8923525">There needs to be a refresh, I would say, to bring attention back to what we proved together from 2004 to 2015-16.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161071">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923526">Thank you so much.</ParaText>
+              <ParaText id="8923527">We'll turn to MP Au.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8923528">You have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161079">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au (Richmond Centre—Marpole, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923529">Thank you, Mr. Cooper, for coming to share your information with us.</ParaText>
+              <ParaText id="8923530">You mentioned corruption in the system. May I ask you to elaborate further on this—on the who, where and how and on what the scale was? What has been done to address it or not?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161085">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923531">The most serious known case involved Cameron Ortis, the head of RCMP intelligence. It can't be understated how damaging it was, simply because of the level of knowledge he had from the highest levels of intelligence among our allies in the Five Eyes, which includes the NSA, the CIA and, of course, Australia. What we heard in court was that he, for personal reasons, shared the intelligence plans of Washington and Canberra with the very networks involved in encryption technology that were using Vancouver's capacity, its infrastructure, to move drugs around the world, launder money and command murders. You can't underestimate how much that angered our allies.</ParaText>
+              <ParaText id="8923532">It goes further, as Mr. Ortis himself said in court. He pointed to what he said were other senior levels of corruption in the RCMP in relation to these transnational threat networks. It hasn't been widely reported, but an element of his charges could not even be heard in our courts due to national security rulings from the judge. The allegations were that Mr. Ortis was on the brink of sharing intelligence with the Chinese embassy in Ottawa, I gather, in relation to an ongoing intelligence investigation looking into Chinese threat networks in Canada. This was around 2019.</ParaText>
+              <ParaText id="8923533">That case in itself, from known documents, gives us some idea of the scale of how troublesome or how damaging to our allies that case was, and it goes further.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13161112">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923534">Mr. Cooper, how about cases that we don't know about? What corruption is going on that we still don't have information on?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161113">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923535">Some of my reporting has covered complaints from U.S. government sources that say they are no longer comfortable sharing sensitive intelligence on international investigations that are relevant to Canada with their Canadian partners. They have encountered known cases where they warned the RCMP that they believed people who attended sensitive meetings on the Canadian side were involved in corruption, yet as I was told and as I reported, those meetings proceeded. This gave the Americans the message that Canada wasn't taking Washington's concerns of corruption within Canada's most sensitive investigative arm seriously.</ParaText>
+              <ParaText id="8923536">I've further been told that senior U.S. drug enforcement investigators are alarmed by what they see as the RCMP's casual acceptance of corruption within its ranks. This speaks directly to the matters we're examining today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161132">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923537">How deep and how widespread is the corruption? Are there any ministers involved?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161139">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923538">What I can tell you is that I have been told by both Canadian...even politicians, including Mayor Brad West. He informed me that he learned, from U.S. government sources that trusted him, that they were concerned that some Canadian politicians were perceived to be much too close to and were meeting with people involved in suspected Chinese threat networks. The concerns from a Canadian politician have been relayed to me, and there are concerns from Canadian police, from U.S. police and from intelligence that foreign threat networks surround Canadian politicians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161149">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923539">How about the RCMP corruption?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161154">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923540">I answer this with a feeling of great gravity. The Cameron Ortis case of a convicted, highest-level RCMP intelligence official damaged our relations with allies in ways we don't yet understand. </ParaText>
+              <ParaText id="8923541">I have heard from U.S. enforcement sources who followed that case. They weren't even sure that Mr. Ortis would be convicted. They weren't confident that Canada's court system could handle a prosecution. In that case, Mr. Ortis himself pointed to other high-level sources of suspected corruption within the RCMP. </ParaText>
+              <ParaText id="8923542">I think that speaks to a deep, high and broad concern, and—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162538">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923543">Thank you. I'm sorry to interrupt, but that was over the five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162560">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923544">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161169">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923545">Ms. Dandurand, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161171">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand (Compton—Stanstead, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923546">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8923547">I, too, come from a border region, in the Eastern Townships of Quebec. In fact, a lake in the Stanstead area straddles both sides of the border. In my riding, however, the border is mainly made up of forests.</ParaText>
+              <ParaText id="8923548">I am therefore interested in the ability of radars to function effectively in forested areas. What can this technology offer regions such as mine?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161179">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923549">That's an excellent question.</ParaText>
+              <ParaText id="8923550">There are different types of radar, or at least radar processing, for different targets of interest. This is the language we use. We're tracking vessels on the water versus drones, or aircraft in the air versus persons walking out of a forest onto an open road or field.</ParaText>
+              <ParaText id="8923551">I'm familiar with a lot of those areas. Certainly drones are an important new concern. We have good drone-detection capability to see drones carrying contraband fly out of or above those areas. </ParaText>
+              <ParaText id="8923552">For persons, there is everything from cameras to sensors underground that can actually see and track people coming out of forested areas. That technology has been well developed. It was included in and originally part of the BITEP, which I referred to. </ParaText>
+              <ParaText id="8923553">It's a combination of radar, counter-drone, drone-detection sensors and human-detection sensors, which are what we typically call radio frequency-based or camera-based technologies. They're readily available.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161198">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923554">What blind spots remain to be covered? A lot of technology is being deployed and there is a lot of potential. Radar is not the end of innovation. What are the next steps in terms of technologies to improve border security? As we know, since it is a very long line on a map, the border is not monitored in its entirety. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161209">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923555">Hopefully, first and foremost, it would be an expansion of the proven technologies we have, because they cover a tiny fraction of 1% of the border. That's the first piece—it's an expansion of what we already know. We've spent 15 years developing and understanding how to do this.</ParaText>
+              <ParaText id="8923556">There are continuous innovations going on in technology. I would say the biggest area—and I don't want to use the word—is AI. We helped invent it in the eighties, but everybody uses that word, so you're familiar with it. Let me say it's the automated mining, the better mining, of data, so we can pull the suspicious activity out of the background, where normal, good folks are carrying out what they're doing. It's better post-processing. I'll use that word generically. There's lots of investment and capabilities coming there.</ParaText>
+              <ParaText id="8923557">Then it's really about information sharing and interoperability. It's not so much the technology—the other witness was speaking to this—but the inability to share information among trusted partners. It's exactly the same thing. When you secure a border, you have partners on the U.S. side and the Canadian side at the federal level, the provincial or state level and the local level. It's about taking the sensor data from one sensor and sharing that information, in an appropriate way in real time or in analytical, historical intelligence, with respective users.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161228">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923558">Thank you very much, Mr. Nohara.</ParaText>
+              <ParaText id="8923559">Mr. Cooper, your previous answers were based largely on hearsay. Even though you started by saying that you are not an expert, can you tell us about your experience and relevant skills with regard to managing the border between Canada and the United States? Can you elaborate a little more on this?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161241">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923560">I've been studying, as an investigative journalist, cross-border issues related to transnational crime for over 10 years now. My career started in exposing what is now called the Vancouver model of transnational money laundering. It's—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161242">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923561">I'm sorry, Mr. Cooper, but that answer unfortunately comes at the end of the five minutes. You have another 10 seconds, and then we'll need to switch to another MP. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161244">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923562">Sir, my work as a journalist has been adopted by international academics. The typologies I exposed have now been reported on by the U.S. Treasury, and I have shared my information with the Pentagon, so that shows you my level of expertise. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161248">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923563">Thank you. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8923564">Mrs. DeBellefeuille, you have the floor for two and a half minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161254">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923565">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8923566">My question is for Mr. Nohara.</ParaText>
+              <ParaText id="8923567">I was a member of Parliament for my riding from 2006 to 2011, and I have been again since 2019. In the region, we feel that our land and sea borders, particularly at Lake Saint-François, Akwesasne and Lake Ontario, have been abandoned by the government. It is not investing the resources or making the efforts necessary to catch smugglers or stop arms trafficking and human trafficking. You confirmed to me that technology was withdrawn from the area in 2017, so this is not just a feeling we have.</ParaText>
+              <ParaText id="8923568">I would like you to tell me about the Royal Canadian Mounted Police pilot project, which was apparently a success but could not continue due to a lack of funding. How much did the technology for this pilot project cost? Considering the value for money, was it an astronomical expense or a reasonable one?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161268">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923569">It's not expensive at all. If you google “BITEP”, you'll probably find an Ottawa Citizen article on it. </ParaText>
+              <ParaText id="8923570">The original budget they proposed was, I believe, $92 million. For comparison, the Gordie Howe bridge, if you look generically, might be $6 billion. At the time, that whole stretch—a good part of Lake Ontario and the entire area of concern on the St. Lawrence that you're speaking to—was deemed to be a cost of $92 million, as I said. To do the entire Great Lakes St. Lawrence Seaway system and provide the surveillance capability is somewhere between 10% to 20% of the cost of the Gordie Howe bridge.</ParaText>
+              <ParaText id="8923571">The key piece, and maybe something I can share with you, is about RCMP members themselves. We know we're short-staffed; we know that today. Everywhere, we know it will take years to hire new members. Law enforcement is facing that everywhere. The surveillance-based decision support is a major force multiplier. When you have limited staffing, you can't be everywhere, so your eyes are provided by that persistent radar—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161288">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923572">I'm sorry, Dr. Nohara. This is my fault. I should have informed everyone that this segment was for two and a half minutes, and that's already over. Hopefully we'll have more time for Madame DeBellefeuille.</ParaText>
+              <ParaText id="8923573">That leads us to MP Lloyd and then MP Ehsassi, for five minutes each.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161293">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923574">I'm sorry, but I have a couple of questions, Mr. Chair.</ParaText>
+              <ParaText id="8923575">Mr. Cooper, I have a number of questions for you, so I'll try to be brief. Could you take about 30 seconds, please, so that I can turn it over to MP Lloyd? </ParaText>
+              <ParaText id="8923576">Mr. Cooper, you talked about the compromise of security and political apparatuses. In about 30 seconds, where does that leave us with our Five Eyes partners?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161296">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923577">The case of Cameron Ortis is the known concrete example that has driven a deep wall in our partnership with the United States government, first and foremost. With allies, there is a loss of confidence in the ability of the U.S. government to share very sensitive intelligence with the Canadian government, and vice versa, with the Canadian government or RCMP citing Stinchcombe laws for not sharing intelligence or ongoing information, such as with the Falkland lab probe, back to the U.S. This has left us in a near rupture with Washington, and I believe that relates to the tariffs we're experiencing now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161303">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923578">Wow, it's a near rupture. That's fairly strong language.</ParaText>
+              <ParaText id="8923579">Beyond the Cameron Ortis case, is there high-level corruption at the RCMP, to your knowledge?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161304">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923580">I need to answer...because of the gravity of the question related to the Ortis case. Again, in open testimony, much of which was closed for national security reasons, he pointed to compromises that he was aware of when he came into the force and started rising and pointed to other suspected high-level corruption suspects. I believe the gravity of that trial we don't yet fully understand.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161311">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923581">If he is pointing to other suspects and nothing has come of that, then I think we have our answer.</ParaText>
+              <ParaText id="8923582">When it comes to this high level of corruption, does that reach our political ministerial levels? Obviously, we have ministers responsible for these things. Does that reach into that political apparatus? At the very least, is there wilful blindness from our current ministers on this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161320">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923583">Again, due to the gravity, I'll answer very carefully. I've been informed by multiple credible sources, some of them on the record, such as Dr. David Asher, a former senior Trump administration State Department investigator, that the DEA and State Department had long had concerns that high-level corruption problems in Canada had blocked investigations into Hezbollah. Other sources I can't name said they have a fear that at the ministerial level, or high in the bureaucracy, some sensitive investigations involving foreign threat networks can be blocked.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13161325">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923584">I'm going to be very clear here. Our Five Eyes partners, particularly the United States, are worried that at the ministerial level or at high bureaucratic levels, there are blocks to investigations. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161332">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923585">That's correct.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162639">
+            <PersonSpeaking>
+              <Affiliation DbId="319845" Type="47">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923586">Thank you.</ParaText>
+              <ParaText id="8923587">Go ahead, Mr. Lloyd.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161334">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd (Parkland, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923588">In the time I have left, can you summarize how a non-resident import system is being used to bring precursor drugs into Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161337">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923589">Yes. I've written stories for The Bureau from an intelligence source—who can't be named in this case—who pointed to data that our non-resident import system involves the transshipment of goods from China that are able to be shipped to third party locations. These shipments can then be received in Canada by non-resident, non-Canadian citizens, who use moving addresses and warehouses to receive precursors. </ParaText>
+              <ParaText id="8923590">This, I'm told, is a major lack of visibility for the CBSA. They only have visibility to a level where China.... The way I've termed it, you can think of it as an encryption technology app. China can essentially be invisible, moving fentanyl precursors into Canada that can be received by non-Canadians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161346">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923591">So transnational gangs are using basically a federal program to move precursor chemicals into Canada through the non-resident import system. These precursor chemicals are being manufactured in Canada and then shipped out to places like New Zealand.</ParaText>
+              <ParaText id="8923592">We talk about fentanyl a lot, but you were talking about methamphetamines. Is Canada now a massive exporter of methamphetamines to countries like New Zealand? Can you elaborate on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161349">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923593">I've reported deeply on Vancouver especially being a transshipment and production hub for not only fentanyl transnationally but also methamphetamine and ecstasy. This has been going on since the early 2000s in Vancouver for precisely the reasons I've testified about today.</ParaText>
+              <ParaText id="8923594">
+                <B>The Chair:</B> You have 10 more seconds, Mr. Cooper.</ParaText>
+              <ParaText id="8923595">
+                <B>Samuel Cooper:</B> In terms of the situation, look at what they found at the Falkland lab. They found methamphetamine, fentanyl, cocaine and marijuana. This is a polydrug crisis in Vancouver.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161354">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923596">Thank you.</ParaText>
+              <ParaText id="8923597">We have time for one last intervention. Then we'll turn to the second round of witnesses.</ParaText>
+              <ParaText id="8923598">Go ahead, MP Ehsassi.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161355">
+            <PersonSpeaking>
+              <Affiliation DbId="319672" Type="47">Hon. Ali Ehsassi (Willowdale, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923599">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8923600">Thank you to the two witnesses.</ParaText>
+              <ParaText id="8923601">As you know, there's very little time left, so I'll keep this very brief.</ParaText>
+              <ParaText id="8923602">I have to comment, Mr. Cooper, that I found it somewhat confusing that you were blaming the charter for some of the impediments that, according to you, have occurred in the co-operation between U.S. and Canadian officials. As you know, the charter is now over 40 years old, but you were suggesting that it has only been occurring in the last 10 years.</ParaText>
+              <ParaText id="8923603">That having been said, you were interrupted because of challenges with interpreters. I believe you were about to cite two court decisions that, in your opinion, have had an impact on co-operation between U.S. and Canadian officials. I was wondering if you could share the names of those two court cases and perhaps share with us what your misgivings are.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161365">
+            <PersonSpeaking>
+              <Affiliation DbId="299722" Type="28">Samuel Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923604">With humility, I'm not a lawyer, but I've spoken to many lawyers, and especially many current and former Canadian police, about this opinion. It's not my opinion but my shared opinion that due to Stinchcombe, a law that essentially demands the RCMP release almost all evidence to the defence side, and Jordan, which at the same time applies a strict time pressure to very complex cases involving international networks and translation, any amount of information has to be funnelled through a time barrier with a tremendous volume. We can read of cases that have been dropped involving Mexican cartels. I can point to Cobra, in Alberta, and Brisa, in Ontario, and we can find in open-sourced reporting that Stinchcombe and Jordan are cited in the dropping of those cases.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13161373">
+            <PersonSpeaking>
+              <Affiliation DbId="319672" Type="47">Hon. Ali Ehsassi</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923605">Thank you very much.</ParaText>
+              <ParaText id="8923606">Mr. Nohara, given this is the concluding question, I'm wondering if there's anything else you want to share with the committee in the time that remains that you were unable to share when we asked questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161374">
+            <PersonSpeaking>
+              <Affiliation DbId="242145" Type="28">Tim Nohara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923607">Thank you for that.</ParaText>
+              <ParaText id="8923608">I would simply say that there's a tremendous opportunity in front of us right now—because we've already done the major work with our U.S. partners in border security—to immediately bring capability to the border in the course of a week, especially in the St. Lawrence River area and in some other key hot spot areas. There's equally an opportunity, in the cross-border climate we're facing with the United States, to better serve that binational relationship, as we have in the past, by expansion across the Great Lakes St. Lawrence Seaway system, which I believe first-hand will be very well received and may even have positive tariff benefits and other benefits for Canadians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161380">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923609">Thank you, MP Ehsassi.</ParaText>
+              <ParaText id="8923610">Dear witnesses, we are very grateful for the time, for your availability and for your efforts prior to coming to this session. Thank you so much for having been helpful and having answered the questions and comments of members of Parliament. We wish you a good day.</ParaText>
+              <ParaText id="8923611">For the others, we'll suspend for other witnesses to come in.</ParaText>
+              <ParaText id="8923612">Thank you.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161441">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923613">Good morning, everyone.</ParaText>
+              <ParaText id="8923614">We will now begin the second part of our meeting.</ParaText>
+              <ParaText id="8923615">We would like to welcome two important witnesses who are with us today: Mr. Mark Weber, national president of the Customs and Immigration Union, and Ms. Laura Dawson, executive director of the Future Borders Coalition.</ParaText>
+              <ParaText id="8923616">Mr. Weber and Ms. Dawson, you each have five minutes to make your presentation.</ParaText>
+              <ParaText id="8923617">We will start with you, Mr. Weber.</ParaText>
+              <ParaText id="8923618">Wait, I’m being told that the interpretation is not working. We will take a break to check this.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13168571">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923619">Mr. Weber, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161463">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber (National President, Customs and Immigration Union)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923620">Mr. Chair and members of the committee, thank you for giving me the opportunity to appear as a witness as part of your study on the management of the Canada-U.S. border.</ParaText>
+              <ParaText id="8923621">The Customs and Immigration Union, which represents CBSA personnel such as frontline border officers, has long highlighted critical insufficiencies affecting Canada's border services, the majority of which can be linked to issues of mismanagement. As national president of the Customs and Immigration Union, I am glad to be here once again to assist you in your important study.</ParaText>
+              <ParaText id="8923622">Due to the events unfolding south of us, this past year has brought our shared border with the United States into sharp focus. I would like to start by commending the current government for its willingness to tackle border issues head-on. We were particularly pleased to see the Liberal leadership commit to hiring an additional 1,000 border officers, which, while short of the 2,000 to 3,000 we estimate our border ultimately needs, will nevertheless be a strong start towards reinforcing our border infrastructure. I personally very much look forward to the fulfillment of this commitment.</ParaText>
+              <ParaText id="8923623">That said, the day-to-day reality at the CBSA remains bleak. Training facilities are lacking to truly ramp up the hiring of fully trained border officers. The number of students working in frontline roles at airports has more than doubled in the last 15 years. The CBSA persists in staffing workplaces with managers, while frontline officers still have to contend with toxic local management. The agency continues to score at the very bottom of the federal public service employee satisfaction survey, and upper management remains wholly disconnected from daily frontline operations. The disconnect from upper management is perhaps what is most frustrating for our members.</ParaText>
+              <ParaText id="8923624">The CBSA appears content to be in the back seat when it comes to frontline border law enforcement operations. This was most apparent with the launch of the federal government's border security plan at the beginning of this year, which could have been an opportunity for the government to revisit and expand the role of frontline border officers by allowing them to assist the RCMP in patrolling between ports of entry. Rather, the feeling among border officers was that they were essentially told to sit tight while everybody else—not only RCMP officers but also provincial police forces without the proper legislative authority to enforce federal legislation—was called in to help.</ParaText>
+              <ParaText id="8923625">Indeed, it has become very apparent that there is a complete lack of trust on the part of the front line towards the CBSA's upper echelons. The general feeling is that those in a position to direct the agency do not have the best interests of the front line at heart. This sentiment is only reinforced by the CBSA's recent decision to perform a blanket review of accommodation agreements across the country, which appears to be designed to push out seasoned officers, who, while they cannot carry firearms, bring valuable law enforcement experience. The message from our employer is clear: We do not care about you and will show you the door should you be injured.</ParaText>
+              <ParaText id="8923626">At the end of the day, it seems like the Canada Border Services Agency has chosen to focus entirely too much on the “services” part of its name, at the expense of what should be its primary mission: ensuring the security of our border and protecting Canadian communities. Too often does this agency choose to invest in automated technology designed to replace, not help, the officers who play an instrumental role in interdicting dangerous goods and criminals.</ParaText>
+              <ParaText id="8923627">I've said it before and will say it again: No one will ever self-declare that they are bringing in illicit goods or that they are breaking the law. Human interaction is always paramount. What's worse is that when this technology designed to “facilitate” fails—as it did just a few days ago at airports and land borders across the country—it causes delays that could be avoided with adequate staffing, hampering the very service aspect that the agency seeks to pursue.</ParaText>
+              <ParaText id="8923628">Ultimately, a strong, properly managed border requires bold decisions. By promising to hire 1,000 additional officers, the government has signalled that it is ready to make such decisions, but more is needed. Canada must invest in the people who protect our front line. We need to allow our frontline border officers to fulfill their legal mandate. We need to invest in CBSA training infrastructure to ensure that we can continue to meet future challenges head-on, both at and away from the front line, and we need a border services agency that is equipped to properly manage itself so that it can better manage our border.</ParaText>
+              <ParaText id="8923629">I thank you and look forward to your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161524">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923630">Thank you, Mr. Weber.</ParaText>
+              <ParaText id="8923631">Ms. Dawson, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13161526">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson (Executive Director, Future Borders Coalition)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923632"> Good afternoon. Thank you for the opportunity to speak with you today.</ParaText>
+              <ParaText id="8923633">My organization, the Future Borders Coalition, was established in 2018 as the Beyond Preclearance Coalition. We are a non-profit organization jointly registered in Canada and the United States—I'm a Canadian living in the United States—and we're funded entirely by member contributions.</ParaText>
+              <ParaText id="8923634">Our membership draws heavily from Canada, including from airports, ports, motor coach and maritime shipping operators, customs brokers, bridges and tunnels, freight forwarders, the travel industry, digital service providers and businesses whose livelihoods depend on cross-border trade and travel, from forest products to financial services. We were established to provide a ready source of expertise and stakeholder input on government border, trade and travel proposals. We maintain close working relationships with Canadian and American entities, including the Canada Border Services Agency, U.S. Customs and Border Protection, the Department of Homeland Security, Public Safety Canada, Global Affairs Canada, the State Department and others.</ParaText>
+              <ParaText id="8923635">Put simply, we are a venue for problem solving and for those whose livelihoods depend on the safe and efficient functioning of our shared border. We've contributed positively to such issues as COVID-19 border management, NEXUS enrolment and revisions to the safe third country agreement.</ParaText>
+              <ParaText id="8923636">Our current activities include collaboration to resolve tariff disputes; the modernization and expansion of border pre-clearance sites in air, land and marine modes; preparation for the CUSMA review; preparation for World Cup 2026; and support for new mechanisms of border security and co-operation. Yesterday, we hosted a meeting in Ottawa with more than 100 business, government and think tank representatives—your former witness Sam Cooper was a key speaker—to discuss the proliferation of cartels and organized crime across the Canada-U.S. border.</ParaText>
+              <ParaText id="8923637"> These are very complex issues, but let me summarize them in broad strokes. Organized crime does not operate in silos. It is orchestrated by far-reaching networks using world-class technology. These groups are indifferent to what they're trafficking: guns, drugs, cigarettes or human beings. The key element is that their cross-border commodity is cash and generating profit.</ParaText>
+              <ParaText id="8923638">Unfortunately, we're attempting to address these threats piecemeal. One initiative focuses on guns. Another initiative focuses on fentanyl. One is a provincial initiative. One is a cross-border initiative and another is federal.</ParaText>
+              <ParaText id="8923639">Many of our laws and regulations protect bad actors while tying the hands of the law enforcement and border officials we charge with protecting us. Many of our border security weaknesses stem not from a lack of intelligence, but from a lack of ability to share that intelligence with one another.</ParaText>
+              <ParaText id="8923640">For these reasons, we strongly support the passage of Bill <Document DbId="13543613" Type="3">C-2</Document>. It unties the hands of law enforcement and enables more robust information sharing between officials, across borders and with state, provincial, local and first nations policing communities.</ParaText>
+              <ParaText id="8923641"> However, we also note that many of the costs of Bill <Document DbId="13543613" Type="3">C-2</Document> will be off-loaded to airports, ports, railways, bridges and tunnels. These entities are not equipped to take on new financial obligations, especially in a time of economic downturn, so we would see these commitments unevenly applied and based not on risk, but on who could afford to implement them. We recommend looking at the U.S. model, which relies on centralized funding and allows priority elements to be rolled out systematically.</ParaText>
+              <ParaText id="8923642">Our other recommendations focus on technology. We want to provide our border and security officials with the technology they need to do their jobs effectively. This does not mean replacing human beings, but rather giving human beings the decision support tools they need so that by the time a shipment or person arrives at the border, an official has all the advance information they need to make a good determination of risk. Is this green light? Is this red light? Is this yellow light? The bad guys have this technology. We should equip the good guys as well.</ParaText>
+              <ParaText id="8923643">Some of the tools we recommend—and we've written a report on this that I will provide a link to—include AI and ML applications for pattern detection and social network analysis, blockchain for detecting document fraud, and non-intrusive imaging technology for scanning high-risk cargo quickly and at scale.</ParaText>
+              <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+              <ParaText id="8923644">Security is good for business. Border security and border efficiency are not mutually exclusive. Secure and efficient borders are good for all of us. This is evident by the excellent results we've had for more than 50 years of aviation pre-clearance. However, it is essential that these costs are not off-loaded to businesses and public entities that are already stretched thin in the face of an economic downturn.</ParaText>
+              <ParaText id="8923645">We're at a watershed moment in Canada-U.S. relations. We can either disengage with the U.S. over points of disagreement or we can seize this as an opportunity for constructive engagement. We can launch new initiatives that are equal to the threats we face and leave behind procedures that no longer serve us.</ParaText>
+              <ParaText id="8923646">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162593">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923647">That is very timely. Thank you so much.</ParaText>
+              <ParaText id="8923648">This enables us to turn to questions and comments from members of Parliament.</ParaText>
+              <ParaText id="8923649">We'll turn to MP Kirkland and then MP Ramsay, for six minutes each. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="13161606">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923650">Thank you so much. I appreciate you both being here, Ms. Dawson and Mr. Weber. </ParaText>
+              <ParaText id="8923651">Mr. Weber, I'll start with you. Considering you started your testimony by commending the current government for the promise of 1,000 border agents, which you said was a strong start, what would your vision be for how soon that obligation should be fulfilled?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161611">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923652">Right now, I do not believe it can really be fulfilled. We have one training centre that can train under 600 new officers per year, which is about what our attrition is per year. There's no way you will get 1,000 additional officers from that.</ParaText>
+              <ParaText id="8923653">My understanding is there's a $20-million proposal at CBSA to expand the training facility in Chilliwack, and it is also my understanding that is on hold. It has not been approved. I've heard talks of expansions at Rigaud. I know there are ideas about spots that are available in Windsor as well, but so far we're stuck with that one training centre. I don't know how we're going to get our numbers up right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161618">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923654">You're not sure how we're going to get the numbers up, and neither are we. In previous testimony, we've heard that the plan as to how that's going to happen hasn't even started yet. There's been a lot of talk. </ParaText>
+              <ParaText id="8923655">Given that, is it fair to say the process of creating a plan to hire those 1,000 agents is a bit of a “pie in the sky” promise?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162790">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923656">“Pie in the sky” is an expression that could be used. It might be a bit more long than short term in terms of achievability. I think perhaps the CBSA is not looking at hiring 1,000 additional full border services officers but hiring lesser positions and downloading duties onto newly created FB-1 positions that they are deeming administrative, and we are very concerned about them actually doing the work of a border services officer. </ParaText>
+              <ParaText id="8923657">The CBSA is now undergoing a review of accommodated officers who cannot be armed, and they're essentially telling them, “You are going to self-demote or we're going to show you the door.” These are, in many instances, people who have injured themselves on the job. That's how our employer is treating them right now. It's deplorable, but it just looks like a cost-saving measure.</ParaText>
+              <ParaText id="8923658">We're really concerned when we hear “1,000”. We want to make sure that's 1,000 actual border services officers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162792">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923659">Thank you. I appreciate that. That is definitely a concern I have as well.</ParaText>
+              <ParaText id="8923660">You said previously—I believe it was in a Global News interview—that we search less than 1% of what comes into Canada. You mentioned that last year. Is that still true today? Has anything changed in the last year?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161625">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923661">No, nothing has changed. We are not dinosaurs. We realize that technology can be helpful. What we're seeing at the CBSA is that technology is replacing us. We really don't search much. We don't speak to almost anyone at all anymore coming through airports. We see similar plans for land borders. It's extremely concerning. We're depending on someone to self-declare to a machine, in large part. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161626">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923662">I'd like to go back to the question about the 1,000 border agents. These resources, as you've mentioned already, are better on the front line. That's where we need them. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161634">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923663">That is absolutely the one place where we need them, yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161636">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923664">I have a quick question for Ms. Dawson, and then I may come back to Mr. Weber, depending on my time.</ParaText>
+              <ParaText id="8923665">You said the integrity of our border is the foundation of our economic relationship with the United States. Do you believe that the government, under both the previous prime minister and the current one, has upheld that integrity?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161639">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923666">I believe we respond to crisis. There are limited resources and many things to do with those resources, so we haven't faced the kind of border crisis and the kind of relationship crisis we are facing now. I find I'm encouraged by the actions of the current government. I would like to see them meet their commitments and also ensure continuing engagement and interoperability with the United States, because this is a shared challenge.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161643">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923667">Thank you.</ParaText>
+              <ParaText id="8923668">I have a bit more time, so Mr. Weber, I'll come back to you. I believe you mentioned in that same interview that we don't do rail at all. Is that still the case?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161645">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923669">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161646">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923670">It's still the case that we don't do rail at all. </ParaText>
+              <ParaText id="8923671">In my community of Oshawa, we have two rail lines that come right through: CN and CPKC. We need to be able to do that.</ParaText>
+              <ParaText id="8923672">Would you say criminals know where our blind spot is then?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161647">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923673">It would be very naive to think that they don't.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161651">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923674">It would be fair to say they absolutely know that rail is our blind spot, that they are using it now and we're doing nothing about it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161654">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923675">I've never asked one, but I would be shocked if they do not.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161656">
+            <PersonSpeaking>
+              <Affiliation DbId="319844" Type="47">Rhonda Kirkland</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923676">Thank you. That's fair.</ParaText>
+              <ParaText id="8923677">I have a couple more seconds. I'm sorry I keep bouncing back and forth.</ParaText>
+              <ParaText id="8923678">Ms. Dawson, you called for the strengthening of Bill <Document DbId="13543613" Type="3">C-2</Document>, I believe. Could you possibly give us some weaknesses you see in the current legislation and tell us how they could change for the better?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161660">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923679">Sure. The most important part of that bill, from my perspective, is the ability to share information across jurisdictions effectively and well. The challenge, of course, is who pays for it. Off-loading those expenses to the operators—to the private sector—is the biggest challenge that I'm hearing from my members.</ParaText>
+              <ParaText id="8923680">I'll leave it there.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161663">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923681">Thank you very much, Ms. Kirkland.</ParaText>
+              <ParaText id="8923682">Mr. Ramsay, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161664">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay (La Prairie—Atateken, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923683">Mr. Weber, good morning.</ParaText>
+              <ParaText id="8923684">Although I would be inclined to agree with you that we need agents on the front line, there's also an implication here that I find a bit challenging. It's that technology implies better detection. It implies more work for our agents. It may be work that is better attributed. </ParaText>
+              <ParaText id="8923685">What would you say about this comment?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161671">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923686">It's a bit difficult. Technology is absolutely useful as long as the technology is there to assist the officer doing the work. When you get to the point where the technology is just replacing the officer and where you're relying on people to self-declare to the technology, you're not going to find anything.</ParaText>
+              <ParaText id="8923687">You gather intelligence through interviews. You gather intelligence through searches. We're not doing that anymore. We're relying on people to come in and self-declare. It's the help of the technology aspect that's missing. It shouldn't be replacing the human element. No machine is going to detain someone, arrest someone or really find anything. You need the person there to do that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161677">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923688">Is it realistic to think we can filter everybody who comes into an airport with an individual questionnaire? Should we not rely instead on information we get ahead? That would allow better intelligence to allow us to detect criminal activity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161684">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923689">The information provided ahead is exactly the declaration form that was completed when you landed previously at an airport. Previously, every person would present a declaration form to an officer, who would look it over and ask one or two questions for the most part, and then on you went or you went for a search. Now, everyone self-declares to a machine. Of course, no one is ever going to self-declare that they're bringing in something they shouldn't. The machine spits out a card and out the door they go.</ParaText>
+              <ParaText id="8923690">We are supposed to have roving teams that will randomly interview people and do random searches and such. That has almost disappeared. We don't have the staff to do that. For the most part, we're relying on people to self-declare, which is never going to happen.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161688">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923691">How much time is needed to train an agent to be efficient?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161689">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923692">“Trained” and “efficient” are two different things. The training program is 18 weeks. The apprenticeship is one year. To be any good at what you're doing, I'd say it's four to five years.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161690">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923693">You elaborated on the lack of confidence in the CBSA. What do we need to do to build confidence back into CBSA agents? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161692">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923694">You need to start properly staffing with the officers who do the work. Right now, we are absolutely drowning in middle management. We have ports of entry with more managers than officers. Managers don't process travellers. That's extremely common at the CBSA.</ParaText>
+              <ParaText id="8923695">The other thing is we're not an organization that promotes from within. If you look at other law enforcement agencies, the people in positions to make decisions have all come from the line. They've worked as officers. They know the workplaces. They know the job. CBSA is unique in that it does not do that. We parachute people in from outside, so the people who are in a position to decide how the border is going to operate have never worked at a border.</ParaText>
+              <ParaText id="8923696">In terms of confidence from our membership—the officers—in how the border is operating, it's close to zero. You often have to explain to upper management how borders work, as though you're explaining it to someone who's never travelled in an airport or who doesn't know how a land border works.</ParaText>
+              <ParaText id="8923697">I'm trying to use my words carefully. It's really shocking at times. These are the people deciding how our border works.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161702">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923698">Ms. Dawson, Mr. Nohara has spoken at length about motion detection at the border, but we all know that our intelligence services are key to effective action and work at the border.</ParaText>
+              <ParaText id="8923699">Could you tell us more about what is needed to improve our intelligence services?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161706">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923700">I've done interviews with people in the national detection centre in Canada and the national detection centre in the United States, and the differences could not be greater. The tools available to the Canadians simply tie their hands.</ParaText>
+              <ParaText id="8923701">Mr. Weber will know better than I do, but there are something like 100 different laws and rules that have to be evaluated by a single border official at the moment he or she makes contact. We want to stretch out that process so they get the information in advance.</ParaText>
+              <ParaText id="8923702">Rather than looking at things at a single moment in time, we want to do a social network analysis to know more about the shipper and their previous dealings, not just what their container looks like at this moment. Who are their associates? Who are they associated with? We want to know what crossings this person has made before. Do they make frequent crossings? Where are they? Are they by land or by air?</ParaText>
+              <ParaText id="8923703">If we give the officers the tools they need, that long-range or upstream view, and share that information with the United States, where it's appropriate, we can have a robust picture of where things are going and can make a risk assessment and identify that a given person goes in a green box. If they do something that catches the attention of an individual officer—whom they should be meeting with—then they can be taken to secondary.</ParaText>
+              <ParaText id="8923704">If you don't effectively screen for risk management, then everyone is high risk.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161719">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923705">Thank you very much, Ms. Dawson.</ParaText>
+              <ParaText id="8923706">Thank you, Mr. Ramsay.</ParaText>
+              <ParaText id="8923707">Mrs. DeBellefeuille, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161724">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923708">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8923709">I would ask for short answers to my short questions, because I don’t have much speaking time.</ParaText>
+              <ParaText id="8923710">Mr. Weber, you said that the CBSA college in Rigaud was the only border guard training school in Canada. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165586">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923711">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165601">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923712">You also said that the training lasts 18 weeks. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165604">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923713">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165609">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923714">The school’s capacity is approximately 572 students per year, is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165615">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923715">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165618">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923716">The government has committed to hiring 1,000 new officers over three years. That would mean that approximately 330 new officers would be added to the approximately 575 officers currently being trained.</ParaText>
+              <ParaText id="8923717">Do the government and the Canada Border Services Agency currently have everything they need to train 300 more officers per year?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165627">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923718">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165633">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923719">Do you think that, in order to meet the government’s commitment, the agency might be tempted to train officers who would not take the training offered at the college in Rigaud, who would therefore not be able to carry weapons, for example, and who would be assigned to other tasks elsewhere rather than directly at the border?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161733">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923720">There are many different combinations that can be explored and different kinds of regional training—national, arming later, arming first—depending on what mode you're being sent to. I've heard all of these ideas floated by the CBSA. We've brought some forward ourselves. Right now, though, we're stuck at the old model of 18 full weeks.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161738">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923721">So you are telling us that, in order to train 333 more officers annually than are currently trained in Rigaud, we will have to innovate. However, you insist that each of these 1,000 officers receive 18 weeks of training and be allowed to carry a weapon. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162781">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923722">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162782">
+            <PersonSpeaking>
+              <Affiliation DbId="320405" Type="47">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923723">In your opinion, does border surveillance require more border agents directly at the border?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165680">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923724">Yes, absolutely.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165685">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923725">Is the shortage of border officers to monitor the border due to the fact that your officers are currently suffering from severe burnout at work, due to overtime and a lack of resources directly at the border?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161750">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923726">Overtime in some ports of entry is almost unlimited. Members are exhausted.</ParaText>
+              <ParaText id="8923727">The staffing levels of frontline BSOs also have to do with where resources are allocated. As I've said, it's very common for ports of entry to have as much middle management as there are officers actually doing the work, and that situation just gets worse and worse.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161773">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923728">I have even received information that the lack of resources at the Port of Montreal means that it can take up to two weeks to open a container, precisely because trained border officers are required to perform this task. So waiting for officers to be available to open a container delays trade. There is a real shortage of border officers who are directly involved.</ParaText>
+              <ParaText id="8923729">I think we share the same opinion, namely that the 1,000 new officers should not be assigned solely to investigative or intelligence tasks, leaving no one directly assigned to the border.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161799">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923730">Fully trained officers working on the front line are what we need, yes. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161811">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923731">In the current geopolitical context, namely our tense trade relationship with the United States, do you think it is time for a minister to be directly responsible for border management? Is it time to admit that the Canada Border Services Agency’s current style of governance no longer meets the needs arising from the geopolitical context?</ParaText>
+              <ParaText id="8923732">We have proposed the idea of entrusting border management to a minister, who would manage his or her own resources and be responsible for their management, rather than entrusting all of this to an agency, a model in which the minister has more limited political intervention capacity.</ParaText>
+              <ParaText id="8923733">Do you think we have reached a point in our history where we need to change the type of governance?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161845">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923734">Perhaps significant change is needed. It's difficult to say if that would be better, as we don't know what exactly that would look like either. Again, we need the resources. We need the agency's focus to be on security and not facilitation. We need a reduction in the number of managers.</ParaText>
+              <ParaText id="8923735">I think the other big thing, which I have gotten to speak about less here, is the absolutely toxic culture. We are not last in every single public service employee survey by accident. People would rather work in prisons than come to a CBSA workplace. That's a terrible sign. </ParaText>
+              <ParaText id="8923736"> It's toxicity. It's an overabundance of managers. We see policies being implemented, like they're doing now, essentially telling every single person working that they are a slip or fall away from being shown the door. It's a horrendous way to treat people. I would almost say it's un-Canadian. It's unheard of anywhere else, and it's consistent with the CBSA.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161863">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923737">In your presentation, you spoke about flexibility in the ability of border officers to intervene at border crossings. In other words, they should be able to leave the station and intercept an individual who wants to cross the border illegally, while waiting for the RCMP to take charge of the individual. As a member of Parliament for a rural area, I can tell you that the RCMP station is not very close to the border crossings.</ParaText>
+              <ParaText id="8923738">In your opinion, is it a good idea to expand the intervention responsibilities of border officers?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161869">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923739">It's an absolute must. It is our mandate to do that. </ParaText>
+              <ParaText id="8923740">We allow the RCMP to do the CBSA's work, and they're doing that work between ports of entry. Right now we are seeing different combinations of provincial forces. Parks Canada is involved, and sheriffs. It seems like everyone is helping to protect the border except the CBSA, which seems very happy to just sit back and let others fulfill what is actually their mandate. </ParaText>
+              <ParaText id="8923741">Only the CBSA and the RCMP have the legal authority to intercept someone under the IRPA or the Customs Act. The system they have now is that if one of these provincial authorities picks up someone between ports of entry, they bring them back to us anyway.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161877">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923742">Thank you, Mr. Weber.</ParaText>
+              <ParaText id="8923743">Mr. Lloyd, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161882">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923744">Thank you to the witnesses.</ParaText>
+              <ParaText id="8923745">I'll start with Mr. Weber.</ParaText>
+              <ParaText id="8923746">Immigration, Refugees and Citizenship Canada confirmed at the immigration committee that over 47,000 people are here on expired student visas, so they are here illegally. Is that a high number, historically, in your experience?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161886">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923747">I don't have the numbers in front of me, but that does not surprise me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161887">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923748">That does not surprise you. Do you think that's a high number?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161888">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923749">No, that number doesn't surprise me. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161892">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923750">How many CBSA officers across the country are tasked with investigating these 47,000-plus cases?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161897">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923751">Those would be our inland officers. Off the top of my head, I would say around 300 and change.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161901">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923752">Is that for the whole country?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161907">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923753">It is, pretty much, yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161910">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923754">You talked a lot about management and the overabundance of that. How many of those 300 officers are actually there on the front lines doing the work?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161912">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923755">That would be inland work. That's their job—to find people who are here illegally and deport them back to wherever they are going. We desperately need resources there as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161914">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923756">Would you say that 300 is the number of people on the front line doing the work, or does that include managers as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161916">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923757">I don't know if that would include managers. Again, I don't have the exact numbers. I'm going off the top of my head, adding up the numbers of the different offices. I could definitely get you exact numbers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162780">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923758">There are 300 CBSA officers who have been tasked with investigating 47,000 cases. These are just student visas we're talking about, not all the other cases that would have to have an officer investigating somebody who is here on an expired visa or here illegally.</ParaText>
+              <ParaText id="8923759">Are 300 officers even close to the number you would need to get rid of this backlog?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162796">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923760">To actually catch up and do it, no. Of course, some people will appear on their own and agree to leave. We don't always have to actually escort them back to their country of origin. </ParaText>
+              <ParaText id="8923761">To say it's an endless firehose of work is a good way to describe it. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161920">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923762">Would you say it's taking up a lot of the resources of the CBSA, or is it not a priority to look for these 47,000 people?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161923">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923763">No, it is. Again, it's a matter of resources. There are only so many people to do all of that work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161924">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923764">We've heard that there has been an increasing number of positive matches on the U.S. terrorism watch-list for people who are trying to cross the border from Canada into the United States. I believe that between April and September of this year, there were about 284 positive identifications of people on the U.S. terrorism watch-list trying to cross into the United States from Canada.</ParaText>
+              <ParaText id="8923765">Is the CBSA aware that these people are in Canada? Are they aware that they're on a terrorism watch-list, or are they only being apprehended because they try to cross into the United States?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161930">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923766">It would depend on the individual case. I would think they are aware of most, yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161932">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923767">Dr. Dawson, what sort of information and existing agreements...? We talked about this terrorism case. Is information on that being shared by the U.S. with Canada? There is some public information, but is there good information sharing between the United States and Canada on these terrorism watch-list suspects going across the border?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161935">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923768"> I think there was really good testimony from Sam Cooper about some of the hurdles that prevent effective information sharing. A lot of the officers on both sides revert to informal phone calls, saying “I know a person at the desk on the other side.” In the absence of really effective mechanisms or institutions for formal communication, a cross-border crime forum can only do so much. We really lost a lot of the capacity to just get together and talk about things.</ParaText>
+              <ParaText id="8923769">In the absence of formal institutions, we're relying on informal relationships. If somebody retires—and I've heard this from a number of officials—that means they lose whole swaths of intelligence about specific sectors or domains.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161941">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923770">What you're saying, Dr. Dawson, is that there is no formal structure for this information sharing currently. We're depending on people who might be retiring soon, and their standard operating procedures to protect the system could possibly be lost when they retire.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161945">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923771"> I'm saying that between the legal blockages on information sharing and the lack of formal mechanisms for the information sharing, yes, we rely too much on informal conversations.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161949">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923772">This is my final question. </ParaText>
+              <ParaText id="8923773">Mr. Weber, as to the 300 officers you cited, over the past 10 years, has that 300 number increased or decreased?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161952">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923774">I would say it's remained pretty much steady.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162872">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923775">There's been no increase in the 300 officers.</ParaText>
+              <ParaText id="8923776">There's been no increase in the 300 officers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162875">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923777">Not really, no.</ParaText>
+              <ParaText id="8923778">Not really, no.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161954">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923779">Would it be fair to say that the workload of these 300 officers has increased significantly in the past 10 years?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162889">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923780">That's correct, yes.</ParaText>
+              <ParaText id="8923781">That's correct, yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162891">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923782">We have the same number of officers and the same amount of resources, but we have a massive new workload for them to do. Would you say that's probably contributing to the lack of morale at the CBSA?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161955">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923783">It absolutely does contribute, and not only when you're dealing with removals, but also when you're talking about officers working on the front line at our land borders and airports. It's pretty much everywhere.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161957">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923784">Thank you, MP Lloyd.</ParaText>
+              <ParaText id="8923785">Let's turn to MP Acan.</ParaText>
+              <ParaText id="8923786">MP Acan, go ahead for five minutes please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161960">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923787">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8923788">I would like to thank Mr. Weber and Dr. Dawson for being with us today. </ParaText>
+              <ParaText id="8923789">I would like to ask questions of Dr. Dawson.</ParaText>
+              <ParaText id="8923790">As we know, Canada and the United States share a long-lasting commitment to securing our shared border. The Government of Canada is introducing Bill <Document DbId="13543613" Type="3">C-2</Document>, the strong borders act, to enhance border security and deepen collaboration with international partners in combatting organized crime.</ParaText>
+              <ParaText id="8923791">Could you please speak to how Canadian and U.S. officials might further advance joint border security operations? Considering the current political climate, what practical steps can be taken to ensure that co-operation remains effective and resilient.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161977">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923792">CBSA and U.S. CBP collaboration is just the first step. There are so many lines of collaboration with provincial police, state police and law enforcement. We had a meeting yesterday that included tribal representatives from the Mohawk nations, the chiefs of police there.</ParaText>
+              <ParaText id="8923793">Unless we are communicating effectively among all these jurisdictions, we don't have strong communication and collaboration. Generally speaking, U.S. and Canadian officials get along very well. They really put their best efforts into what they can do under the circumstances. However, in the absence of leadership and in the absence of opportunities to collaborate further, they struggle. We have bilateral border enforcement security teams, and they work very well. We don't have to reinvent the wheel, but can we expand them and fund them appropriately?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161981">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923794">How could streamlined bilateral co-operation in border security mutually benefit the U.S. and Canada in sectors outside of law enforcement and intelligence, like trade or tourism?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161984">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923795">Whether in business, travel or trade, no one wants to have their rights and privileges to an efficient border appropriated by bad actors, so if we have better and thoughtful border security, then our cargo and people can move better. When things like low-value shipments, which were intended to help small businesses in e-commerce, are taken over by fentanyl dealers and small packages, that's not good for anyone.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13161989">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923796"> What are important dimensions of the U.S.-Canada bilateral border security relationship that are often neglected or misunderstood? How can these elements strengthen efforts to counter our headline issues, like fentanyl? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161993">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923797">I think the first thing that's misunderstood is that people think we are much farther apart, that there is a U.S. bully telling us exactly what to do, when, in fact, Canadians and Americans collaborate very well on many issues—pre-clearance, NEXUS, etc. That would be one of the main things.</ParaText>
+              <ParaText id="8923798">There's also responding to the political climate right now with a desire to just roll up the rug and not work with the United States. The crisis is stronger than ever because of the global migration and criminality challenge. However, as the U.S. becomes more engaged on the southern border, we have more encounters on the northern border, and if we're not looking after that, then we're simply shifting a southern border problem to Canada, where we're not equipped to deal with it and it's going to hurt our communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161998">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923799">Are there any lessons to be learned from other areas of U.S.-Canadian bilateral co-operation for border security and management, like our military partnership?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162000">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923800">Our military partnership is excellent. I think the NORAD relationship in particular is the envy of the world. There we see areas of joint command, joint interoperability, collaboration and communication. I think that's a model that we can undertake very well, period.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162001">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923801">Thank you very much.</ParaText>
+              <ParaText id="8923802"> Mr. Chair, do I still have time? If there's any left, I would like to share it with Madame DeBellefeuille, as she has two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162003">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923803">Mrs. DeBellefeuille, normally you would have two and a half minutes, but you now have an additional 30 seconds, giving you a total of three minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162008">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923804">I adore you, Ms. Acan.</ParaText>
+              <ParaText id="8923805">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8923806">I would like to take the few minutes I have left to address another issue. The chair of the committee, Mr. Caputo, and I received an email from a former border services officer who describes a toxic environment at the agency. It is apparently so toxic that officers are forced to compromise their integrity by altering certain investigation reports that management does not like. I must admit that this information, which was sent to a few members of the committee, has greatly concerned me.</ParaText>
+              <ParaText id="8923807"> Can you explain whether this is a widespread situation at the agency or an isolated case?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162019">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923808">The toxicity you describe is pretty common across all workplaces. I've talked a bit here about some of the reasons. It's about very heavy-handed management. Everything is dealt with by using discipline. It's not a management style where you speak to your employees. Everything is done through formal fact-finding—suspensions, disciplines, firings—and the ability to speak to an employee has been absolutely lost within this agency. </ParaText>
+              <ParaText id="8923809">It's a culture that's hard to change. I think it has a lot to do with the overabundance of management. It makes our members feel disheartened in that all we really want is to do our job. It seems that management is there to tell us repeatedly that we got into this to keep Canadian communities safe, but we can't do what we want to be doing.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162023">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923810">In their statement, the person who wrote to us speaks of a breach of integrity, meaning that when an officer conducts an investigation and their conclusion does not please management, they are asked to modify their report. This practice is troubling.</ParaText>
+              <ParaText id="8923811">Is this an isolated practice, Mr. Weber?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162028">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923812"> I'd love to say that I'm shocked—and I don't know the specific case—but I'm not.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162033">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923813">This situation is quite troubling, Mr. Weber.</ParaText>
+              <ParaText id="8923814">This brings me to my last question. We have had some discussions with the agency, which says it has increased the number of customs officers at the Port of Montreal. However, the Montreal Port Authority says that there has been no increase in the number of customs officers directly at the border to help open containers, for instance.</ParaText>
+              <ParaText id="8923815">Do you agree with the Montreal Port Authority or with the agency?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162038">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923816">I've not heard of any, nor has there been any increase in the space. One of the difficulties we have now is that there's room to park only a small number of cars to do the searches. Once we've found <I>x</I> number of stolen cars, we have to wait for someone to come and tow them, and it's sometimes days or weeks before we can even continue opening to find more.</ParaText>
+              <ParaText id="8923817">Again, it's a matter of resources.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162042">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923818">So it’s a question of resources and infrastructure. I imagine that the agency is not well equipped to do its job properly and to detect what is in the containers.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162043">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923819">It's there and elsewhere. We have ports with no X-rays and marine units with no boats. It's pretty desperate in a lot of cases. Again, that adds to the low morale.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162046">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923820">What do you think of the decision to—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162049">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923821">I’m sorry to interrupt you, Mrs. DeBellefeuille, but I must now give the floor to Mr. Au for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162051">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923822">We're talking about the emphasis on middle management versus on the people on the ground. Can you elaborate further on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162053">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923823">The people who have the interaction with travellers are border services officers. Above them, you have superintendents. Above them, you have chiefs. Above them, you have directors. We work in workplaces where we're often outnumbered by managers.</ParaText>
+              <ParaText id="8923824">I've acted as a manager and—I'll be candid—I've never been that bored in my life. To say they have five minutes of work to do in a day would be a tremendous exaggeration. I'm talking about numbers where there are more people watching me work than there are people doing the work. Imagine people doing that and going into it every day and then filling in one of those public service employee surveys. See what kind of score you get. It is abhorrent what we see happening.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162064">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923825">You talked about the problems, like the lack of resources, the lack of manpower, the lack of this or that. These are not new issues. We have heard about them time and time again.</ParaText>
+              <ParaText id="8923826">What are the obstacles preventing us from making real progress? Where did the buck stop?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162067">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923827">What you need is people who do the work. What you have is an organization that is, for lack of a better way of putting it, just drowning in managers who don't do the work. They don't interact with travellers. They're not doing the searches. They're not looking in containers. They're not looking for people who are in Canada and shouldn't be so they can deport them.</ParaText>
+              <ParaText id="8923828">I don't know what they do. I've tried it and I can tell you it's not much. With the numbers they have, we really can't figure out why some of the resources in middle management are not turned into officers who can do that work. It's very frustrating.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162079">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923829">What kinds of changes have to happen in terms of legislation or a redistribution of authority?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162082">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923830">Again, we need something that simply allows us to fulfill our mandate to work between ports of entry. That's one of the big things that would be easy to achieve.</ParaText>
+              <ParaText id="8923831"> Right now, if I'm working at a port of entry and I see someone right beside the port cross over the border illegally, I have to phone someone. It's my legal mandate as a CBSA officer to interdict that, but I'm not allowed to do it. I have to phone the RCMP, who might tell me they'll be there in four to six hours. Sometimes they say they can't come at all. That's shameful, and it could easily be rectified if the CBSA was told it's allowed to do that now.</ParaText>
+              <ParaText id="8923832">We have 117 ports of entry across the border between Canada and the United States. Many of them are in the exact kind of rural areas where people make illegal crossings. People aren't illegally crossing in Toronto; they're mostly doing it in those remote places. We are resources who are already there begging to be allowed to assist the RCMP to do this work, and we're being told no, we cannot do it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162093">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923833">You said this could happen today. Why is it not happening?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162096">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923834">The CBSA seems to have no interest in doing that work. They've been very happy to sit back and let different combinations of provincial agencies and parks do it. We have almost everyone above a boy scout troop now working between the borders and finding people crossing illegally, but the CBSA, whose legal mandate is to do it, will not do it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162098">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923835">Dr. Dawson, do you have any comments on the questions I've raised?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162099">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923836">There are no quick or easy fixes, but I have something to offer. The vast majority of crossings, whether they're for cargo or people, are risk-free and done with integrity, and the people just want to do business or travel from place to place. We need to make better use of our trusted trader and traveller programs so that we provide incentives for people who comply and provide the advance information we need so we know who they are and who their associates are.</ParaText>
+              <ParaText id="8923837">Right now, we're looking at the thing as it crosses the border. I've heard from CBSA officers that if you have a very good forged document, your cargo will probably go through if there's no other way to determine the risk of that particular shipment, so let's look at incentivizing good behaviour and compliance on the part of travellers and traders.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13162107">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923838"> I have a question about the rail system. You mentioned that it's a weak point for having illegal things come through the border. Again, this is not a new issue. What steps have been taken to address that concern?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162114">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923839">My understanding is that there was a pilot project allowing us to work on the U.S. side, as they have the facilities at a couple of ports of entry to do those searches. To my knowledge, those have not gone forward. In Canada, we don't really have the facilities to do those searches.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162121">
+            <PersonSpeaking>
+              <Affiliation DbId="319846" Type="47">Chak Au</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923840">Again, why not?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162124">
+            <PersonSpeaking>
+              <Affiliation DbId="285280" Type="28">Mark Weber</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923841">Were I someone who manages the CBSA, I could provide you that answer. I bring forward to CBSA management exactly what you're saying to me.</ParaText>
+              <ParaText id="8923842">I'm bringing it forward to those in CBSA management who, for the most part, have never worked at a border, which adds to the difficulty. There seems to be very little interest in doing that work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162126">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923843">Thank you, MP Au.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8923844">Ms. Dandurand, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162128">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923845">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8923846">I would like to thank the witnesses for sharing their expertise with us. It is very interesting and enriching.</ParaText>
+              <ParaText id="8923847">Ms. Dawson, you briefly touched on a subject that I find really interesting, namely the shift of problems affecting Mexico to Canada. Now that the Americans are monitoring their border with Mexico more closely, activities that used to take place between the United States and Mexico are now shifting to Canada.</ParaText>
+              <ParaText id="8923848">Can you explain in more detail what was not happening here before and is now happening more and more often? What lessons can we learn from the experience between Mexico and the United States to avoid the problems we are seeing south of our border?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162131">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923849">We are seeing an increase in the humanitarian side—people seeking better lives in North America. When the border in the U.S. is closed, they move to the north. Interestingly, the number of Central Americans and Mexicans crossing that border or moving to the north has gotten progressively smaller, and proportionately we're seeing a rise in folks from Africa, Asia, India—from all over the world. It has become less of a humanitarian issue and more about trying their luck in North America, and if it's hard to get into the United States, they will come to Canada.</ParaText>
+              <ParaText id="8923850">Then we see people who have more resources and wealth who are trying to skirt the rules, skirt the law. Even though we felt, from a trade perspective, that having a visa on Mexico didn't make sense, reimposing a visa was essential because it was being utilized by wealthy criminals who wanted to come to Canada and then hire a taxi, a bus or a boat to go into the United States.</ParaText>
+              <ParaText id="8923851">We are a conduit for bad actors who, if they can't find a point of permeability through the United States, like water, will flow to the weak point, and that becomes Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162139">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923852">I think you are mainly talking about asylum seekers. Does Bill <Document DbId="13543613" Type="3">C‑2</Document> address this issue and contain what we need to reduce this pressure?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162141">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923853">Bill <Document DbId="13543613" Type="3">C-2</Document> is appropriate as a risk assessment and risk management tool so we can identify legitimate humanitarian applicants and distinguish them from those who would use the rights and privileges we afford on a humanitarian basis—that is, bad actors who are just trying to find a way in.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162145">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923854">I understand that human resources may not be your area of expertise. However, Mr. Weber has outlined very clearly the working environment of officers and the ability to do the job properly.</ParaText>
+              <ParaText id="8923855">Ms. Dawson, what is your view on human resources at the Canada Border Services Agency? What can we improve?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162150">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923856">I speak to a lot of CBSA frontline officers in my research, but I also speak to management and leadership, and we have an organization that was essentially established to do operations, and we're charging it now with the big picture and strategy. Now we have President Trump, and how are we going to manage that? The system is not equipped to do all the things it needs to do.</ParaText>
+              <ParaText id="8923857">When I speak to frontline officers and analysts, they are frustrated that they have taken the initiative to do something and they can't take the ball down the field; they can't do the next thing. They have found a bad actor, and if that person declares refugee status, whoops, they can't do anything about it. If that person has moved to a different jurisdiction, they can't do anything about that either. These men and women are very committed to their jobs, but they're frustrated that they can't do it as effectively as they know they can.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="13" Mn="00">(1300)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13162159">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923858">How can we improve that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162161">
+            <PersonSpeaking>
+              <Affiliation DbId="322813" Type="28">Laura Dawson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923859">I think this committee is doing essential work now. What I hear from Americans is that Canadians have great intentions, but they just don't deliver. They take half measures or they take quarter measures. Let's use this crisis as an opportunity to make the reforms that are necessary and give people the tools they need.</ParaText>
+              <ParaText id="8923860">I think this committee is doing essential work now. What I hear from Americans is that Canadians have great intentions, but they just don't deliver. They take half measures or they take quarter measures. Let's use this crisis as an opportunity to make the reforms that are necessary and give people the tools they need.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162164">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923861">Thank you, Ms. Dandurand.</ParaText>
+              <ParaText id="8923862">That concludes a very good hour-long session with two excellent witnesses. I thank them for their presentations and for putting so much heart and effort into preparing for their appearance.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8923863">You are feeling, I think, the gratitude that many of us are feeling and have felt because of your coming to see us today. Thank you. We're looking forward to perhaps seeing you again in the near future.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8923864">I would also like to inform members of our preparations for the upcoming meetings.</ParaText>
+              <ParaText id="8923865">Mrs. DeBellefeuille, Mr. Caputo, Mr. Ramsay, the clerk and I are preparing for Thursday’s meeting, which Minister <Affiliation DbId="318630" Type="4">Anandasangaree</Affiliation> is likely to attend. We just need to find the right place and the right time.</ParaText>
+              <ParaText id="8923866">We are also working on preparing the meetings that will follow our week in our ridings, namely those on October 21 and 23. We are making good progress with regard to the appearance of witnesses, but the members of the committee must work together to schedule the study of Bill <Document DbId="13563649" Type="3">C‑8</Document>, which has been sent to the committee and is obviously a priority.</ParaText>
+              <ParaText id="8923867">Everyone can rest assured: Mrs. DeBellefeuille, Mr. Caputo, Mr. Ramsay, the clerk and I are doing our job.</ParaText>
+              <ParaText id="8923868">We will meet again next Thursday.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

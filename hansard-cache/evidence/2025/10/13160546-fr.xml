@@ -1,0 +1,1591 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="FR" id="13160546">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>TÉMOIGNAGES</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Comité permanent de la procédure et des affaires de la Chambre</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="Session">1<Sup>re</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le mardi 7 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Tuesday, October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Comité permanent de la procédure et des affaires de la Chambre</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Enregistrement électronique]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">TÉMOIGNAGES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">7 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">05</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/07 11:00:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la procédure et des affaires de la Chambre</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Procedure and House Affairs</ExtractedItem>
+    <ExtractedItem Name="Acronyme">PROC</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Président</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Chris Bittle</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160549">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président (Chris Bittle (St. Catharines, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922555">La séance est ouverte</ParaText>
+              <ParaText id="8922556">Bienvenue à la cinquième réunion du Comité permanent de la procédure et des affaires de la Chambre. Conformément au paragraphe 108(3) du Règlement, le Comité se réunit en séance publique pour étudier les actions du Comité du bulletin de vote le plus long lors des récentes élections canadiennes.</ParaText>
+              <ParaText id="8922557">Conformément au Règlement, la séance d'aujourd'hui se déroule selon une formule hybride. Les députés y participent en personne dans la salle ou à distance au moyen de l'application Zoom.</ParaText>
+              <ParaText id="8922558">Avant de poursuivre, je demande à toutes les personnes qui participent en personne de consulter les directives qui figurent sur les cartes posées sur leur table. Ces mesures ont été mises en place afin de prévenir les incidents liés au son et à l'effet Larsen, et de protéger la santé et la sécurité de tous les participants, y compris des interprètes. Vous remarquerez également la présence d'un code QR sur la carte, qui vous renverra vers une courte vidéo de sensibilisation.</ParaText>
+              <ParaText id="8922559">J'aimerais formuler quelques commentaires à l'intention des députés. Tous les commentaires doivent être adressés à la présidence. Je demande aux députés présents dans la salle de lever la main s'ils souhaitent prendre la parole. Les députés qui participent à la séance sur Zoom sont priés d'utiliser la fonction « lever la main ». La greffière et moi‑même nous efforcerons de gérer l'ordre des interventions au mieux. Nous vous remercions de votre patience et de votre compréhension à cet égard.</ParaText>
+              <ParaText id="8922560">J'ai une remarque d'ordre administratif. Le Sous-comité des affaires émanant des députés se réunira dans cette même salle à 13 h 15. Je vais donc être assez strict et veiller à ce que la séance se termine à 13 h.</ParaText>
+              <ParaText id="8922561">Je souhaite la bienvenue au premier groupe de témoins d'aujourd'hui. À titre personnel, nous avons Peter Loewen, doyen Harold Tanner de la faculté des arts et des sciences de la Cornell University, par vidéoconférence, et M. Tomas Szuchewycz, agent officiel du Comité du bulletin de vote le plus long.</ParaText>
+              <ParaText id="8922562">Chaque témoin disposera de cinq minutes pour prononcer son allocution liminaire. Nous passerons ensuite aux questions et réponses.</ParaText>
+              <ParaText id="8922563">Monsieur Loewen, vous avez cinq minutes. Allez‑y.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160552">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen (doyen Harold Tanner de la faculté des arts et des sciences, Cornell University, à titre personnel)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922564">Merci beaucoup au Comité pour cette invitation. Je crois que j'ai comparu devant ce comité une demi-douzaine de fois au cours des 20 dernières années. Je suis toujours très honoré de m'exprimer devant vous.</ParaText>
+              <ParaText id="8922565">Je suis heureux aujourd'hui de vous faire part de mes réflexions sur la question des bulletins de vote longs. Voici comment je conçois le problème. Il est relativement facile de faire inscrire son nom sur les bulletins de vote au Canada. C'est pourquoi un groupe de Canadiens opposés à notre système électoral a décidé de manifester son mécontentement à l'égard de notre forme de démocratie électorale en ajoutant autant de noms que possible aux bulletins de vote dans des courses électorales très médiatisées.</ParaText>
+              <ParaText id="8922566">Dans le mémoire que ce groupe a présenté aujourd'hui, il invoque un argument légèrement plus général et incontestable, à savoir que les députés ne devraient pas rédiger leurs propres règles électorales. Cet argument est valable, et j'y reviendrai. Mais leur argument principal est que le système électoral canadien devrait être réformé, et ils continueront d'allonger les bulletins de vote jusqu'à ce que les Canadiens comprennent le message.</ParaText>
+              <ParaText id="8922567">Notre système électoral n'a pas changé, mais les électeurs d'un petit nombre de circonscriptions ont été contraints de chercher des candidats compétitifs et sincères parmi des dizaines, voire des centaines de noms de faux candidats. </ParaText>
+              <ParaText id="8922568">Les députés devraient‑ils modifier la Loi électorale du Canada pour remédier à cette situation? Je vais vous présenter deux arguments en faveur de cette modification et deux arguments contre, puis je vous parlerai brièvement de l'histoire de ce genre de manipulation des bulletins.</ParaText>
+              <ParaText id="8922569">Pourquoi devriez-vous faire en sorte qu'il soit plus difficile d'inscrire son nom sur notre bulletin de vote? Tout d'abord, ces efforts visant à produire de longs bulletins de vote vont clairement à l'encontre de l'esprit de nos élections compétitives. Les élections devraient opposer des personnes ayant réellement l'intention de siéger au Parlement, qui ont recueilli un minimum de soutien local sous forme de signatures — signatures uniques — et qui sont prêtes à se mesurer activement à leurs adversaires. Le bulletin de vote est bien plus qu'une simple pétition, il devrait donc falloir faire plus que de simples manipulations pour y figurer.</ParaText>
+              <ParaText id="8922570">Deuxièmement, la gestion de nos élections est très localisée. Elle dépend de bénévoles et de travailleurs à temps partiel faiblement rémunérés qui assurent la permanence dans les bureaux de vote, aident les électeurs à comprendre le bulletin de vote, puis comptent les votes. Les Canadiens s'attendent à ce que les élections se déroulent sans heurts et que le dépouillement des votes dans les circonscriptions se fasse rapidement. Les bulletins de vote excessivement longs, aussi amusants soient‑ils, font qu'il est plus difficile de voter pour les électeurs et compliquent le dépouillement des bulletins par les fonctionnaires locaux qui servent notre démocratie. Le Canada a durement gagné et mérite pleinement sa réputation d'organiser des élections bien gérées. Il n'est pas amusant de la tourner en dérision. Pour ces raisons, il serait judicieux de faire en sorte qu'il soit plus difficile pour les candidats peu sérieux de faire figurer leur nom sur les bulletins de vote.</ParaText>
+              <ParaText id="8922571">Quels sont les arguments contre la modification de ces règles? Tout d'abord, vous vous trouvez dans une situation intéressante de conflit d'intérêts, dans la mesure où vous pouvez tous tirer profit, en tant que titulaires, de certaines modifications des règles. Ainsi, la modification des règles électorales doit se faire de manière prudente et transparente, et avec le plus grand consensus et la plus grande validation externe possible. Deuxièmement, les effets de ces longs bulletins de vote sont probablement assez minimes, et cette question n'est donc peut-être pas une priorité. Si vous avez choisi de vous pencher sur cette question, faites‑le. Mais agissez de manière transparente, en respectant les préoccupations du public au sujet des conflits d'intérêts.</ParaText>
+              <ParaText id="8922572">Enfin, notez que le Canada a une longue histoire de farces électorales, certaines drôles, d'autres moins. À son apogée, le Parti Rhinocéros, dont vous vous souviendrez peut-être, présentait beaucoup de candidats et faisait des choses amusantes. Ils avaient prévu une piste cyclable inclinée qui devait traverser le pays afin que l'on puisse rouler d'une côte à l'autre, ce qui était une très bonne idée. C'était très drôle. Il existe des exemples moins drôles. Louis Massicotte m'a raconté qu'au Québec, avant l'introduction du nom des partis sur les bulletins de vote, des fauteurs de troubles présentaient parfois un candidat qui portait le même nom qu'un candidat sérieux. Le but était de semer la confusion dans l'esprit des électeurs. C'était moins drôle.</ParaText>
+              <ParaText id="8922573">Cette histoire de long bulletin de vote est moins drôle. Elle est l'œuvre de réformateurs démocratiques autoproclamés qui ont perdu référendum après référendum, parfois après des assemblées citoyennes, parfois sans, et qui ont récemment perdu un autre procès qui a confirmé la constitutionnalité de notre système électoral. À maintes reprises, les Canadiens ont indiqué qu'ils ne voulaient pas de ce qu'ils tentent de leur vendre. Vous trouverez peut-être peu drôle qu'ils veuillent avoir carte blanche pour encombrer les bulletins de vote.</ParaText>
+              <ParaText id="8922574">Merci beaucoup.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160589">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922575">Merci beaucoup.</ParaText>
+              <ParaText id="8922576">Nous allons donner la parole à M. Szuchewycz pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160590">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz (agent officiel, Comité du bulletin de vote le plus long)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922577"> Chers membres du Comité permanent de la procédure et des affaires de la Chambre, étant donné que votre mandat consiste à examiner à la fois la loi électorale et les conflits d'intérêts, il est extrêmement judicieux de votre part de prendre le temps d'étudier en détail la raison d'être du Comité du bulletin de vote le plus long.</ParaText>
+              <ParaText id="8922578">S'il y a un argument que j'aimerais que vous reteniez de mon intervention d'aujourd'hui, c'est que la meilleure façon de gérer la démocratie est de faire preuve d'une impartialité stricte et non partisane.</ParaText>
+              <ParaText id="8922579">Pendant que vous réfléchissez à ce point, monsieur le président, j'aimerais remercier chaleureusement tous les candidats qui se sont présentés sur ces longs bulletins de vote, ainsi que tous les électeurs qui ont signé des centaines de fois pour soutenir ces candidats et la réforme électorale. Grâce à eux, cette action a été couronnée d'un succès qui dépasse tout ce que j'aurais pu imaginer. Clairement, nous avons réussi à attirer l'attention des responsables politiques. J'ai été invité au Parlement aujourd'hui parce qu'ils ont entendu notre message, notre désir commun de renforcer la démocratie.</ParaText>
+              <ParaText id="8922580">Je tiens tout d'abord à saluer le travail de deux institutions canadiennes. Élections Canada est admirée pour son professionnalisme et son indépendance. Nous, électeurs, savons que nous pouvons voter, que toutes les personnes qui tiennent les bureaux de vote sont impartiales et que nos votes seront comptés de manière équitable. Élections Canada est l'une des institutions gouvernementales qui suscitent le plus de confiance au pays, et celle‑ci est méritée. Si cette institution inspire la confiance, c'est précisément parce qu'elle est impartiale et indépendante.</ParaText>
+              <ParaText id="8922581">Il en va de même pour nos commissions de délimitation des circonscriptions électorales. Dans de nombreux pays à travers le monde, ce sont les politiciens qui décident de la délimitation de leurs propres circonscriptions, et que font‑ils? Ils manipulent les cartes électorales pour tenter de conserver le pouvoir. Le Canada, dans sa sagesse, ne tolère pas ce genre de pratiques. Le tracé des limites des circonscriptions électorales relève de la responsabilité de commissions indépendantes qui fonctionnent sans lien de dépendance avec le Parlement.</ParaText>
+              <ParaText id="8922582">Voici le problème. Si le dépouillement des bulletins de vote et le tracé des circonscriptions électorales sont bien protégés contre toute ingérence politique, ce n'est pas le cas des règles qui régissent nos élections. Les lois qui régissent la manière dont les partis sont réglementés, dont les bulletins de vote sont conçus, qui est autorisé à se présenter comme candidat et comment les votes sont convertis en sièges sont encore rédigées et modifiées par vous, députés, dont les intérêts partisans et les carrières dépendent du résultat de chaque élection. Il s'agit là clairement d'un conflit d'intérêts.</ParaText>
+              <ParaText id="8922583">Le Comité du bulletin de vote le plus long recommande que vous, députés, vous vous absteniez de rédiger les règles de vos propres élections. Nous savons déjà que le modèle fondé sur l'indépendance non partisane fonctionne. Les Canadiens auraient tout à gagner à ce qu'un organisme permanent, indépendant et non partisan, supervise l'ensemble du cadre de la loi électorale. </ParaText>
+              <ParaText id="8922584">Cette réforme vous protégerait également en tant que députés. Lorsque vous proposez des modifications à la loi électorale, vous êtes souvent accueillis avec méfiance, et à juste titre. Même les bonnes réformes peuvent être rejetées au motif qu'elles servent des intérêts particuliers lorsqu'elles sont rédigées par des personnes perçues comme pouvant tirer parti de ces changements. Si l'on confiait cette responsabilité à un organisme indépendant et impartial, les électeurs pourraient enfin avoir confiance dans le fait que les lois sont rédigées dans l'intérêt supérieur des Canadiens, et non dans celui des partis au pouvoir. </ParaText>
+              <ParaText id="8922585">Le Comité du bulletin de vote le plus long exhorte les députés à faire ce qui est juste, à se récuser face à ce conflit d'intérêts flagrant et à créer un organisme permanent, indépendant et non partisan chargé de superviser l'ensemble du cadre de la loi électorale.</ParaText>
+              <ParaText id="8922586">Merci. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160642">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922587">Merci beaucoup.</ParaText>
+              <ParaText id="8922588"> Merci aux deux témoins d'avoir respecté le temps imparti de cinq minutes. </ParaText>
+              <ParaText id="8922589">Monsieur Cooper, je vous donne la parole pour six minutes. Allez‑y.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160644">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper (St. Albert—Sturgeon River, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922590">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922591">Monsieur Szuchewycz, vous êtes l'un des principaux organisateurs du Comité du bulletin de vote le plus long et vous avez été l'agent officiel de nombreux candidats affiliés à ce comité. Est‑ce exact?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160646">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922592">C'est exact.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13160647">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922593">Votre frère, Kieran Szuchewycz, est également l'un des organisateurs du Comité du bulletin de vote le plus long. Est‑ce exact?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160652">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922594">C'est exact. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160653">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922595">J'aimerais vous poser quelques questions au sujet du recrutement des candidats et de la collecte des signatures de nomination pour le Comité du bulletin de vote le plus long.</ParaText>
+              <ParaText id="8922596">Lorsque vous et d'autres organisateurs du Comité du bulletin de vote le plus long recueilliez des signatures, il arrivait parfois que les électeurs se voient présenter plusieurs formulaires de candidature à signer simultanément.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160658">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922597">C'est exact. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160660">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922598">D'accord.</ParaText>
+              <ParaText id="8922599">Lorsque vous procédiez à la collecte des signatures et au recrutement des candidats, le Comité du bulletin de vote le plus long informait les candidats potentiels qu'ils n'avaient pas à se soucier de la collecte des signatures, car il avait déjà recueilli les 100 signatures ou plus nécessaires pour qu'ils puissent se présenter aux élections.</ParaText>
+              <ParaText id="8922600">Est‑ce exact ?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160664">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922601"> Non, c'est faux. Vous inversez un peu les choses. Nous recrutions des candidats, nous obtenions leurs noms, puis nous recueillions des signatures pour eux. Nous ne recueillions pas seulement des signatures pour des personnes qui avaient déclaré ne pas vouloir se présenter.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160670">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922602">J'ai une vidéo que vous avez publiée sur YouTube le 18 août 2024 pour le Comité du bulletin de vote le plus long, dans le cadre de l'élection partielle de LaSalle—Émard—Verdun, dans laquelle vous déclarez: « Si nous voulons battre le record du bulletin de vote le plus long, nous avons besoin que tout le monde s'inscrive dès que possible. Nous avons déjà recueilli une centaine de signatures de mise en candidature pour vous. Il vous suffit de suivre les instructions. »</ParaText>
+              <ParaText id="8922603">En fait, vous et d'autres organisateurs du Comité du bulletin de vote le plus long demandiez aux personnes de signer des formulaires de nomination qui ne comportaient pas le nom des candidats. Est‑ce exact?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160678">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922604">Non. Il y a quelques...</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160682">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922605">Je vais vous interrompre, M. Szuchewycz, car j'ai un gazouillis publié par le Comité du bulletin de vote le plus long le 22 janvier 2024, et vous y apparaissez, monsieur, avec votre frère et, je crois, un certain Glen MacDonald. Quand on regarde de plus près — c'est vous —, on voit où devrait se trouver le nom du candidat sur le formulaire de mise en candidature avec les signatures. Le nom du candidat a été laissé en blanc.</ParaText>
+              <ParaText id="8922606">C'est exactement ce que vous faisiez: vous recueilliez des signatures, vous demandiez aux électeurs de signer des formulaires de mise en candidature vierges, et non des formulaires de mise en candidature de véritables personnes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160697">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922607">C'est inexact...</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160701">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922608">Je viens de vous présenter des preuves, des documents...</ParaText>
+              <ParaText id="8922609">
+                <B>Tomas Szuchewycz:</B> Non, ce n'est pas...</ParaText>
+              <ParaText id="8922610">
+                <B>Michael Cooper:</B> ... qui établissent que c'est le cas.</ParaText>
+              <ParaText id="8922611">Je tiens à vous avertir, monsieur, que vous témoignez devant un comité parlementaire et que vous avez l'obligation de fournir des réponses complètes et véridiques à mes questions. Si vous ne le faites pas, monsieur, vous pourriez être accusé d'outrage au Parlement. Je tiens à vous faire clairement comprendre que je n'hésiterai pas à utiliser tous les moyens à ma disposition pour vous demander des comptes si vous ne fournissez pas des réponses véridiques et précises, ce que vous n'avez pas fait jusqu'à présent.</ParaText>
+              <ParaText id="8922612">Je vais vous donner une dernière chance de confirmer officiellement que vous avez recueilli des signatures d'électeurs sur des bulletins où le nom du candidat était laissé en blanc. C'est ce que vous avez fait. Est‑ce exact?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160709">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922613">Non, ce n'est pas exact. Si vous me donniez la possibilité de répondre... Vous avez fait plusieurs suppositions erronées ici. Par où voulez-vous que je commence: par ces images retouchées au moyen de l'intelligence artificielle ou par votre mauvaise compréhension de ce qu'est une inscription? Dans cette vidéo, quand je dis « s'inscrire », je fais référence aux candidats qui ont déjà exprimé leur volonté de se présenter. Nous avons ensuite recueilli leurs signatures, le nom du candidat figurant bien sûr en haut du document. C'est la règle.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160716">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922614">Le nom de ce candidat ne figurait pas en haut du document.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160721">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922615">Il y figurait. J'y étais.</ParaText>
+              <ParaText id="8922616">
+                <B>Michael Cooper:</B> Le nom du candidat ne figurait pas en haut du document.</ParaText>
+              <ParaText id="8922617">
+                <B>Tomas Szuchewycz:</B> Ensuite, lorsque nous disons « Nous avons déjà vos signatures et vous devez terminer votre inscription », cela signifie « Remplissez vos formulaires et prenez rendez-vous avec le directeur du scrutin pour faire votre déclaration ». C'est très simple. Vous avez un peu tout mélangé.</ParaText>
+              <ParaText id="8922618">Si vous souhaitez parler de ces photos manipulées au moyen de l'intelligence artificielle, je serai ravi de le faire.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160727">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922619">Tout d'abord, je ne mélange rien. Ce que j'ai, c'est une vidéo YouTube...</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160729">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922620">Avec tout le respect que je vous dois, vous mélangez les choses.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160732">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922621">Permettez‑moi d'intervenir pour préciser à M. Szuchewycz que nous partons du principe que les députés sont des personnes honorables. Le fait d'accuser un député d'avoir truqué des images... Je pense que vous devriez faire preuve d'une grande prudence à ce sujet. Je ne sais rien de ces images, mais je vous avertis que je ne trouve pas ces propos amusants, monsieur. Je pense que vous ne devriez pas les trouver amusants non plus.</ParaText>
+              <ParaText id="8922622"> M. Cooper a raison quant aux mesures que peut prendre le Parlement. Vous n'avez peut-être pas de respect pour les personnes qui occupent ces sièges, mais veuillez respecter l'institution et les personnes qui nous ont élus.</ParaText>
+              <ParaText id="8922623">Désolé, monsieur Cooper. Je crois que nous nous sommes arrêtés à environ 30 secondes.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13163011">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="47">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922624">Allez‑y.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160747">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922625">Non, nous n'avons jamais recueilli de signatures alors que le nom du candidat était laissé en blanc. Le directeur général des élections vous a déjà dit qu'il n'y avait aucune preuve crédible d'un acte répréhensible... </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160752">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922626">Dans son témoignage, le directeur général des élections a dit qu'au départ, votre comité s'était fait prendre à faire exactement cela. C'est ce qu'il a dit dans son témoignage.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160754">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922627">En tout respect, monsieur le président, ce n'est pas ce qu'il a dit dans son témoignage. Il a dit que nous avions recueilli des signatures « sans qu'un candidat soit identifié ». C'est vrai, dans le champ destiné au nom du candidat, nous avons écrit « tous les candidats ». Nous avons demandé aux gens de signer. Nous leur avons demandé s'ils acceptaient toutes les candidatures...</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160757">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922628">C'était un formulaire de mise en candidature en blanc. C'est ce que vous avez présenté. Vous venez de l'admettre.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13162895">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922629">Non.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160759">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922630">Merci, monsieur Cooper.</ParaText>
+              <ParaText id="8922631">Nous allons maintenant entendre M. Louis, qui dispose de six minutes. Allez‑y.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160760">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis (Kitchener—Conestoga, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922632">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922633">Je remercie aussi les deux témoins d'être avec nous aujourd'hui.</ParaText>
+              <ParaText id="8922634">Monsieur Loewen, mes premières questions s'adressent à vous.</ParaText>
+              <ParaText id="8922635">On parle aujourd'hui de protéger la démocratie et les élections, ce qui est très important. Je sais que vous avez travaillé en tant que professeur au département d'études gouvernementales de l'Université Cornell et que vous avez travaillé au projet sur la mésinformation relative aux élections canadiennes.</ParaText>
+              <ParaText id="8922636">Pourriez-vous nous expliquer comment l'intelligence artificielle peut être utilisée comme une arme pour déformer le discours démocratique? Croyez-vous que le cadre juridique actuel du Canada est suffisant pour aborder les risques que posent la désinformation et la mésinformation générées par l'intelligence artificielle dans le cadre des élections? Quelles sont les réformes que vous avez en tête?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160772">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922637">Je vous remercie de me poser la question, monsieur Louis. </ParaText>
+              <ParaText id="8922638">Permettez-moi de faire une observation, rapidement. J'ai abordé ce sujet devant le Comité en novembre, et je suis heureux d'y revenir. Au fil du temps, la Loi électorale du Canada a restreint ce que pouvaient faire les soi-disant tiers partis dans le cadre des élections. On parle ici de groupes de défense des droits, de syndicats ou d'associations d'affaires qui feraient de la publicité ou seraient actifs pendant les campagnes politiques.</ParaText>
+              <ParaText id="8922639">La raison à cela, c'est que nous avons déterminé que les partis politiques devaient être les vecteurs par lesquels les élections seraient disputées. Le Comité du bulletin de vote le plus long est un exemple intéressant de groupe qui agit comme un tiers parti ou peut-être comme un parti politique, mais qui ne se place pas dans le cadre réglementaire. Vous pourriez réfléchir à la question. </ParaText>
+              <ParaText id="8922640">En ce qui a trait à l'intelligence artificielle et à la mésinformation, je vais vous donner une piste. Nous réglementons la participation des tiers partis de deux façons. Premièrement, nous réglementons les montants qu'ils peuvent dépenser, dans le but de restreindre leur capacité en matière de discours. Les limites sont très strictes. Deuxièmement, nous réglementons les personnes. Nous rendons les humains légalement responsables de ce que font les tiers partis.</ParaText>
+              <ParaText id="8922641">Le défi avec l'intelligence artificielle, c'est qu'elle peut réduire, voire éliminer, le coût des communications. Ainsi, la limite imposée aux tiers partis n'est plus aussi efficace. C'est le premier problème.</ParaText>
+              <ParaText id="8922642">Le deuxième problème a trait à la capacité d'agir. Nous en sommes presque à créer de manière efficace des agents non humains qui peuvent perpétuer un discours pendant les élections. Les faux comptes Twitter représentent un bon exemple à cet égard, mais on peut s'imaginer un agent de l'intelligence artificielle conçu pour créer des publicités politiques et ensuite les diffuser sur le Web. Il ne s'agirait pas d'une personne, mais bien d'un agent anonyme qui utiliserait les médias sociaux pour s'autodiffuser, et ce, sans qu'aucun coût n'y soit rattaché.</ParaText>
+              <ParaText id="8922643">Le cadre juridique doit reconnaître que l'approche relative à la limite des dépenses axée sur les humains ne fonctionnerait pas très bien pour les tiers partis dans un monde d'intelligence artificielle.</ParaText>
+              <ParaText id="8922644">J'espère que ma réponse vous est utile.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160790">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922645">Oui. Merci.</ParaText>
+              <ParaText id="8922646">Est‑ce qu'il y a une façon d'exiger que le contenu généré par l'intelligence artificielle soit désigné comme tel dans le cadre des élections? Est‑ce qu'il serait possible d'appliquer une telle mesure sans miner l'expression politique légitime, et en préservant un certain équilibre dans le cadre des campagnes électorales?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160797">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922647">Je crois que oui.</ParaText>
+              <ParaText id="8922648">La désignation des publicités politiques existe déjà. En vertu du cadre de la Loi électorale du Canada et de la réglementation des discours dans le cadre des élections, les partis doivent assumer la responsabilité des publicités qu'ils diffusent en indiquant qu'elles ont été approuvées par l'agent du parti. Les tiers partis qui exercent leurs activités dans le respect de la loi doivent eux aussi indiquer qui fait la publicité, et doivent respecter certaines limites. On pourrait donc obliger les diffuseurs et les plateformes à respecter certaines restrictions lorsque du contenu désigné est diffusé, et leur interdire de diffuser une publicité électorale qui ne présente aucune référence en ce sens. Je crois que l'on pourrait étendre la portée de cette partie assez facilement. </ParaText>
+              <ParaText id="8922649">On pourrait aussi adopter des lois qui interdiraient aux plateformes et aux réseaux de diffuser de l'information qui semble être de la publicité électorale des tiers partis, même si elle est produite par des agents plutôt que par des humains.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160813">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922650">Merci.</ParaText>
+              <ParaText id="8922651">Pour le temps qu'il me reste... Dans votre déclaration préliminaire, vous avez fait référence au Comité du bulletin de vote le plus long et avez dit que la gestion des nos élections était très localisée. Ce qui me préoccupe ici, c'est le droit des gens de voter. Pouvez-vous expliquer ce que vous vouliez dire par là, et nous dire quels ont été les défis dans ce cas‑ci, et aussi nous parler des obstacles possibles qui pourraient miner le droit de vote de la population?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160822">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922652">Oui. Ce qui est remarquable avec les élections canadiennes, c'est leur caractère amateur et aussi la façon très efficace dont elles sont tenues. Tous les lieux de scrutin locaux sont dotés de gens payés, mais ces gens sont là temporairement pour servir notre démocratie. Ils font le travail civique le plus important qui soit. J'ai toujours trouvé cela intéressant.</ParaText>
+              <ParaText id="8922653">L'enjeu, c'est que les électeurs doivent souvent choisir parmi 200 ou même 1 000 candidats dont le nom est écrit sur le bulletin de vote. Il est alors difficile pour le personnel électoral d'expliquer le bulletin et d'aider les électeurs à s'acquitter de leur devoir. Les électeurs ne sont pas là pour voter pour une personne qui a réussi à faire inscrire son nom en allant à la chasse aux signatures. Ils sont là pour voter pour l'un des grands partis ou peut-être pour un vrai candidat indépendant local, ou encore un petit parti qui tente de faire sa marque.</ParaText>
+              <ParaText id="8922654">Lorsqu'on dit aux électeurs que le vote est un exercice simple et qu'ils peuvent le faire facilement, mais qu'ils se retrouvent ensuite face à un bulletin de vote d'un mètre de long, cela mine le sentiment d'efficacité démocratique et cela rend la tâche difficile pour les responsables des élections. Je suis certain qu'il est frustrant de devoir expliquer aux électeurs où ils doivent regarder pour trouver les candidats qui se présentent réellement aux élections. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160838">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922655">Permettez-moi de vous interrompre. Je suis désolé, mais M. Louis a dépassé le temps qui lui était imparti.</ParaText>
+              <ParaText id="8922656">Merci beaucoup.</ParaText>
+              <ParaText id="8922657">Madame Normandin, vous avez la parole.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13160839">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin (Saint-Jean, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922658">Merci beaucoup, monsieur le président.</ParaText>
+              <ParaText id="8922659">Je remercie les deux témoins.</ParaText>
+              <ParaText id="8922660">Professeur Loewen, dans vos notes liminaires, vous avez parlé du fait que le Comité du bulletin de vote le plus long viole un peu l'esprit du déroulement des élections. J'aimerais que vous nous parliez de l'équilibre qu'on doit trouver entre le droit de quelqu'un d'être candidat et, du même coup, de présenter les idées qu'il porte, et le droit des citoyens d'avoir des élections dont l'esprit vise surtout à élire quelqu'un qui serait apte à bien les représenter.</ParaText>
+              <ParaText id="8922661">De quelle façon peut-on trouver cet équilibre très délicat entre le droit de se présenter et de porter des idées et le droit de la population à des élections qui reflètent l'esprit des élections tel qu'on le connaît?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160847">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922662"> Je crois qu'il faut qu'il y ait de la place sur les bulletins de vote pour les candidats n'appartenant pas à un parti majoritaire. Je trouve cela vraiment merveilleux que des gens se présentent aux élections alors qu'ils savent probablement qu'ils n'ont pas beaucoup de chances de gagner, selon leur parti et leur région géographique. Je pense que c'est une partie importante de notre exercice démocratique. Ce sont des gens sincères.</ParaText>
+              <ParaText id="8922663"> D'autres personnes se présentent parce qu'elles sont animées par une question qui leur tient vraiment à coeur et qu'elles veulent l'exprimer. C'est différent des gens dont le but principal n'est pas de se présenter aux élections, mais plutôt de faire valoir un argument de plus grande ampleur en ajoutant leur nom au bulletin de vote. Je pense que c'est l'esprit qui anime le Comité du bulletin de vote le plus long. Ses membres veulent encombrer le bulletin de vote du plus grand nombre de noms possible pour faire valoir leur point; ils ne veulent pas présenter des candidats pour des raisons authentiques.</ParaText>
+              <ParaText id="8922664"> Je pense qu'il est possible de trouver un juste équilibre législatif qui permet aux gens d'une région de se présenter aux élections même s'ils ne représentent pas un grand parti et de voir leur nom sur le bulletin de vote parce qu'ils ont travaillé dur pour obtenir des signatures, tout en adaptant les règles pour empêcher la manipulation des bulletins de vote et qu'une personne ou un groupe puisse recueillir des signatures au nom de centaines de personnes.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13160871">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922665">J'aimerais justement discuter de la notion d'équilibre, dont vous venez de parler. Il y a une différence entre les idées que la personne porte et le fait d'utiliser le bulletin de vote comme moyen de communication ou de pression. Vous avez mentionné qu'il peut y avoir des candidats moins sérieux lors d'une élection. Je pense à certains partis qui disent eux-mêmes qu'ils ne sont pas sérieux. Par exemple, le Parti Rhinocéros présente des idées plutôt loufoques et offre à la population la possibilité de contester. Plutôt que d'annuler son vote, on vote pour un parti plus rigolo.</ParaText>
+              <ParaText id="8922666">Comment peut-on se faire juge de ce qui est tout simplement rigolo versus ce qui est inacceptable dans une élection? J'aimerais connaître votre opinion à cet égard.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160894">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922667">C'est une excellente question. Comme dans beaucoup de choses, on le sait quand on le voit.</ParaText>
+              <ParaText id="8922668">Nous pourrions comparer le Parti Rhinocéros dans ses belles années à ce qui se passe ici. Le parti avait des candidats dans tout le pays et réussissait à faire inscrire le nom d'un candidat sur le bulletin de vote. Il présentait un programme, qui était plutôt satirique, et qui promettait par exemple de construire un mur pour empêcher les abeilles tueuses de rentrer au pays par les États-Unis ou d'éliminer les Rocheuses afin qu'il soit possible de parcourir tout le pays à vélo. Toutes ces idées étaient farfelues. Je ne crois pas que le parti ait nui à la capacité des électeurs de trouver leur candidat et de voter.</ParaText>
+              <ParaText id="8922669">La situation est différente aujourd'hui. Il n'est même pas question de l'idée des élections. Il est question d'un comité qui croit que nous devons changer le système électoral, même si les Canadiens ont démontré à maintes reprises qu'ils ne voulaient pas d'un tel changement et malgré les affirmations voulant que notre système électoral soit démocratique. Comme le comité ne comprend pas cela, il a décidé d'engorger notre système et les bulletins de vote. </ParaText>
+              <ParaText id="8922670">Ce qui est différent dans le cas présent, c'est que cette manœuvre entraîne un coût important pour la conception et l'expérience relatives aux bulletins de vote. Aussi, il n'est pas vraiment question des élections ici, n'est‑ce pas? Il n'est pas question de se moquer du processus électoral ou d'un enjeu en particulier. On engorge le système. C'est là pour moi la différence entre la situation actuelle et la présentation d'un candidat farfelu pour faire rire les gens. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13160914">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922671">Considérant que l'idée portée par le Comité du bulletin de vote le plus long est de demander une réforme électorale, une façon de promouvoir cette idée aurait-elle pu être, par exemple, de créer un parti de la réforme électorale et de présenter systématiquement des candidats dans l'ensemble des circonscriptions lors de l'élection de la 45<Sup>e</Sup> législature?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160918">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922672">C'est une belle idée de plateforme si l'on pense qu'il s'agit d'une question importante qui pourrait être reprise par le Parlement. Je ne crois pas qu'il soit possible de gagner, mais il serait possible de créer un tel parti.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13160922">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922673">Dans ce cas, est-ce que ce serait une façon plus adéquate de considérer l'appétit de la population pour une réforme électorale et de voir quel pourcentage des votes un tel parti est capable d'aller chercher plutôt que de procéder de la façon dont ce comité fonctionne? La population comprend plus ou moins bien les objectifs dudit comité.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160929">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922674">Si un parti souhaite mettre de l'avant une seule question, les élections représentent un bon moyen de le faire. Si un parti souhaite miser uniquement sur la réforme électorale, il peut tenter sa chance. Ce serait certainement un effort plus authentique que celui qui est déployé en ce moment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160933">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922675">Merci beaucoup.</ParaText>
+              <ParaText id="8922676">Monsieur Jackson, vous disposez de cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160935">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson (Brandon—Souris, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922677">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922678">Monsieur Szuchewycz, j'aimerais confirmer une chose auprès de vous. La personne qui a rédigé votre déclaration préliminaire à l'intention du Comité — je ne sais pas si c'était vous — a dit qu'elle avait regardé le témoignage du directeur général des élections la semaine dernière. Est‑ce que c'est vous qui avez écrit ce texte? Avez-vous regardé le témoignage du directeur général des élections la semaine dernière?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160940">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922679">Mon frère et moi avons écrit ce document. Oui, j'ai regardé son témoignage la semaine dernière.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160941">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922680">Vous avez donc entendu le directeur général des élections dire la semaine dernière que les actions que vous aviez posées dans diverses circonscriptions, que ce soit dans le cadre des élections générales ou des élections partielles, avaient eu une incidence sur la capacité des électeurs à voter. Les actions de votre organisation ont surtout nui à la capacité des aînés et des personnes handicapées de voter. Les gens qui ont des besoins particuliers et les aînés qui ont bâti notre pays ne devraient pas avoir à faire face à ce genre d'obstacle émanant d'une manoeuvre politique qui ne se fonde sur aucune demande de la population en vue de changer le système électoral.</ParaText>
+              <ParaText id="8922681">Quel genre d'organisation voudrait empêcher les personnes les plus vulnérables de notre société et nos aînés d'exercer leur droit constitutionnel de voter?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160948">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922682">Monsieur le président, c'est une excellente question. Comme nous le savons tous, la conception des bulletins de vote est prescrite par la Loi électorale du Canada, qui est rédigée par vous, les députés.</ParaText>
+              <ParaText id="8922683">Je n'ai pas entendu parler de cas documentés de personnes qui n'ont pas pu voter en raison du trop grand nombre de candidats inscrits sur le bulletin de vote. Ce que je sais, toutefois, c'est qu'il y a certaines préoccupations en matière d'accessibilité relatives au mode de scrutin. L'Institut national canadien pour les aveugles a présenté une série de recommandations au Comité en vue d'améliorer l'accessibilité lorsque le projet de loi <Document DbId="12954447" Type="3">C‑65</Document> faisait l'objet d'un débat. Je tiens à souligner qu'aucune de ses recommandations n'a été mise en oeuvre par vous. J'aimerais aussi souligner qu'aucune de ses recommandations ne visait à restreindre de façon arbitraire le droit des citoyens de se présenter en tant que candidats.</ParaText>
+              <ParaText id="8922684">Je ne suis pas un expert dans la conception des bulletins de vote. Je vous suggère de parler aux défenseurs des droits des personnes handicapées à ce sujet.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160965">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922685"> Je pense que le directeur général des élections a parlé aux défenseurs des droits des personnes handicapées et qu'il a entendu de nombreuses plaintes. Dans le cadre de son témoignage, il a fait valoir que le nombre de plaintes relatives à ces élections en particulier était plus élevé qu'à l'habitude. Que ce soit ou non le but de votre organisation, c'est ce qui s'est produit. Que ce soit lors de l'élection partielle dans Battle River—Crowfoot ou lors des élections générales, les gens ont eu plus de difficulté que jamais à voter. Ces gens sont principalement des aînés, qui ont dû attendre plus longtemps qu'à l'habitude pour voter et qui ont eu du mal à se retrouver dans un bulletin de vote d'un mètre de long, ou des personnes handicapées, y compris, comme vous l'avez mentionné, des personnes ayant une déficience visuelle.</ParaText>
+              <ParaText id="8922686">Ainsi, certaines personnes ont dû rebrousser chemin en raison d'une attente trop longue, tandis que dans de nombreux cas, les autres personnes n'ont pas pu voter de façon privée, parce qu'elles avaient besoin d'aide dans l'urne pour comprendre le bulletin de vote que votre organisation a rendu si lourd qu'il était devenu incompréhensible.</ParaText>
+              <ParaText id="8922687"> Pourquoi avez-vous pris de telles mesures, et qu'avez-vous à dire aux Canadiens qui ont dû renoncer à leur droit à la vie privée parce qu'ils n'arrivaient pas à comprendre le bulletin de vote en raison des actions de votre campagne?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13160983">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922688">Monsieur le président, je répète que je ne suis pas responsable de la conception des bulletins de vote. Elle est prescrite par la Loi électorale du Canada, ce qui signifie que c'est vous, les députés, qui avez conçu les bulletins de vote. Si le directeur général des élections avait respecté la volonté du Parlement, le bulletin aurait été deux fois plus long dans les situations où il y avait deux colonnes. Évidemment, pour des raisons opérationnelles, le directeur général des élections a dû apporter des modifications d'urgence à la Loi afin d'éviter que le bulletin ne fasse quatre mètres de long.</ParaText>
+              <ParaText id="8922689">Si vous vous préoccupez de l'accessibilité du bulletin de vote, je vous suggère fortement de parler aux défenseurs des droits des personnes handicapées. Je ne suis pas un expert en la matière et je n'ai pas le pouvoir de modifier la conception des bulletins de vote.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13160997">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922690">Monsieur, avec tout le respect que je vous dois, vous pouvez arrêter les actions de votre organisation qui allongent démesurément la taille de nos bulletins de vote pour atteindre un objectif politique, alors qu'il n'y a même pas de consensus politique au Canada pour changer notre système électoral. M. Loewen l'a déjà souligné: le Parti libéral en a fait une promesse électorale en 2015, puis il a fait marche arrière parce qu'il a reconnu qu'il n'y avait pas de volonté de changer le système électoral. Nous sommes très loin d'un consensus ou même d'une majorité de Canadiens.</ParaText>
+              <ParaText id="8922691">Vous faites perdre le temps de tout le monde et, ce faisant, vous portez atteinte à la capacité de certains de nos Canadiens les plus vulnérables de participer au processus démocratique du Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161011">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922692">Je dois vous interrompre, car les cinq minutes sont écoulées.</ParaText>
+              <ParaText id="8922693">Monsieur Szuchewycz, vous pourrez peut-être réagir à cette intervention en réponse à une autre question.</ParaText>
+              <ParaText id="8922694">Nous allons passer à Mme Kayabaga pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161019">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga (London-Ouest, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922695">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922696">J'aimerais remercier nos témoins d'être parmi nous aujourd'hui.</ParaText>
+              <ParaText id="8922697">J'ai une question pour M. Loewen.</ParaText>
+              <ParaText id="8922698">Pensez-vous qu'il existe des études empiriques au Canada ou ailleurs dans le monde qui montrent que la longueur des bulletins de vote influence les taux d'erreur, le nombre de bulletins de vote rejetés comme nuls ou même le taux de participation? Y a‑t‑il une incidence sur la capacité des électeurs à comprendre le bulletin de vote et sur leurs prises de décisions?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161029">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922699">J'étais plus au courant de ces recherches il y a 15 ou 20 ans, alors je ne veux pas les résumer en entier, mais je dirai deux choses. Premièrement, la conception des bulletins de vote a généralement une incidence minime. Il est très rare que la forme que prend un bulletin de vote ait une incidence sur le résultat d'une élection. Je pense que cela devrait être clair dans nos esprits.</ParaText>
+              <ParaText id="8922700">Il faut toutefois relever quelques irrégularités notables. La première, c'est que les bulletins de vote dont la liste de noms est en ordre alphabétique favorisent les personnes qui se trouvent au haut du bulletin de vote. Des preuves empiriques assez bien établies démontrent que l'ordre des noms sur les bulletins de vote importe, de sorte que les candidats qui sont plus près du haut d'un bulletin de vote sont davantage remarqués. On pense que la longueur du bulletin de vote exacerbe ces effets, parce que plus le bulletin est long, plus l'électeur est susceptible de se dire: « Allons donc. C'est trop. Je vais simplement choisir un candidat qui se trouve près du haut. » Cela dit, ces conclusions sont tirées en grande partie d'études menées aux États-Unis, où les électeurs votent pour plus d'un palier de gouvernement en même temps, par exemple.</ParaText>
+              <ParaText id="8922701">L'exemple le plus notable est celui du comté de Palm Beach en 2000, où d'assez bonnes preuves empiriques montrent que la défaite d'Al Gore et la victoire de Pat Buchanan sont attribuables à la conception du bulletin de vote. Le bulletin de vote était de style papillon et s'ouvrait de telle sorte qu'il n'était pas aisé de savoir pour qui on votait de chaque côté du bulletin. C'est un exemple célèbre qui montre que la présentation d'un bulletin de vote peut avoir des conséquences imprévues.</ParaText>
+              <ParaText id="8922702">Pour résumer, je pense que ce type de bulletin de vote entraîne des conséquences minimes, mais la frustration des électeurs pourrait être réelle s'ils se retrouvent face à un bulletin de vote contenant des centaines de noms, ce que nous n'avons jamais vraiment vu auparavant au Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161052">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922703">J'ai une brève question à ce sujet. Selon vous, comment peut-on modifier ces longs bulletins de vote, surtout s'ils empêchent un électeur de voter et de comprendre le bulletin de vote? Et quelles répercussions ces longs bulletins de vote peuvent-ils avoir sur la prise de décisions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161057">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922704">Je pense que l'équilibre législatif que vous devez trouver est le suivant: à quel point les critères doivent-ils être stricts pour rendre ce genre de manipulation du bulletin de vote très difficile, sans être stricts au point d'empêcher la candidature de quelqu'un de sincère, qui n'a toutefois pas l'appui d'un parti ou qui a le soutien d'un parti qui n'est pas populaire dans sa région du pays?</ParaText>
+              <ParaText id="8922705">Ce qui m'a frappé, quand j'ai commencé à me renseigner sur le sujet, c'est l'idée qu'un seul agent puisse agir au nom de plusieurs candidats. Je pense que la plupart des Canadiens trouveraient cela curieux. Nous savons que les élections sont des processus concurrentiels entre équipes, alors l'idée d'avoir un entraîneur ou un gestionnaire pour plusieurs équipes est déconcertant pour les électeurs — à juste titre, je pense. En effet, cela va à l'encontre de l'esprit de compétition de l'élection et laisse supposer que les candidats ne souhaitent pas réellement remporter les élections. Je pense qu'il est clair, même d'après ce que le Comité du bulletin de vote le plus long a dit, que le but n'est pas de présenter des candidats voulant gagner. L'objectif est plutôt de faire valoir un argument plus général: cette organisation veut une réforme du mode de scrutin.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161075">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922706">J'aimerais quelque peu changer de sujet. Je veux simplement entendre vos réflexions sur le risque d'influence étrangère par le biais du financement politique. Selon vous, quelles sont les nombreuses faiblesses de notre régime de financement politique?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161077">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922707">C'est une bonne question, et je ne suis pas un expert en la matière. Vous entendrez d'autres témoins qui sont des experts.</ParaText>
+              <ParaText id="8922708">Je pense que la plus grande fragilité est en quelque sorte ce que j'expliquais à M. Louis, mais en des termes légèrement différents. À mesure que les coûts de communication diminuent, la capacité des intervenants à utiliser de petites sommes d'argent pour influencer nos élections est plus grande qu'elle ne l'était auparavant. Il serait impossible pour quelqu'un en Russie de diffuser une publicité sur CBC ou CTV, mais cette même personne pourrait en diffuser une sur Twitter. La perméabilité des plateformes par rapport aux réseaux de radiodiffusion et de radio est, à mon avis, probablement le plus grand facteur de vulnérabilité. Il ne s'agit pas tant de savoir d'où vient l'argent; le facteur qui importe, c'est que l'argent peut servir à diffuser des idées sur ces plateformes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161097">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922709">Merci beaucoup, madame Kayabaga.</ParaText>
+              <ParaText id="8922710">Nous allons passer à Mme Normandin. Je garde à l'esprit qu'il est presque midi, mais il nous reste un peu de temps, alors je vais accorder une minute de plus aux trois derniers intervenants.</ParaText>
+              <ParaText id="8922711">Vous avez trois minutes et demie, madame Normandin.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161101">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922712">Merci beaucoup, monsieur le président.</ParaText>
+              <ParaText id="8922713">Monsieur Szuchewycz, l'idée du Comité du bulletin de vote le plus long était de faire du militantisme dans le but d'en arriver à une réforme électorale. J'aimerais avoir votre perception quant à la capacité de votre message à parvenir à la population. Avez-vous l'impression que l'initiative que vous avez mise en place a permis à la population de réellement saisir ce que vous souhaitiez faire?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161111">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922714">Monsieur le président, je pense que mon invitation à ce comité démontre bien que nous avons atteint notre objectif. Les médias nous accordent beaucoup d'attention. Sur le plan pragmatique, je demande parfois aux gens: « Hé, saviez-vous que les politiciens rédigent les règles de leurs propres élections? » Et à tous coups, on me répond « Oh, c'est stupide. » Notre message parle immédiatement aux gens. C'est une évidence: il s'agit d'un conflit d'intérêts.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161115">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922715">Je vais reformuler ma question.</ParaText>
+              <ParaText id="8922716">Les gens sont au courant de l'existence du Comité du bulletin de vote le plus long, mais, à votre avis, est-ce qu'ils comprennent le message que vous portez quant à la réforme électorale?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161122">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922717">Oui, je pense que la population comprend le message. Il est très clair que les politiciens sont manifestement en conflit d'intérêts puisqu'ils ont la responsabilité de rédiger les règles de leurs propres élections. Le message est très simple, et les électeurs le comprennent et sont généralement d'accord avec moi, à moins qu'ils n'aient des intérêts partisans.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161131">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922718">Je comprends que vous teniez compte de votre présence ici pour évaluer le succès de votre entreprise. Avez-vous d'autres indicateurs quant à la clarté de votre message et à la façon dont il parvient à la population?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161134">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922719">Comme je l'ai dit, nous retenons beaucoup l'attention des médias. C'est vraiment formidable. Bon nombre de nos candidats se font entendre et font des entrevues avec les médias. Nous avons attiré l'attention de la communauté internationale parce qu'un de nos candidats a été la première personne de l'histoire à n'obtenir aucun vote; c'était vraiment génial.</ParaText>
+              <ParaText id="8922720">Nous recevons beaucoup de messages positifs. Les gens sont toujours heureux de voir ce que nous faisons, et ils veulent se joindre à nous la prochaine fois. L'expérience est très positive, et les électeurs comprennent vraiment le message selon lequel les politiciens ne devraient pas décider des règles de leurs propres élections.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161146">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922721">Au risque de me répéter, une des façons dont vous calculez le succès de votre entreprise est votre présence ici. C'est ce que vous avez mentionné.</ParaText>
+              <ParaText id="8922722">Avez-vous réellement l'impression que votre présence ici contribue à votre demande de réformer le système électoral, ou, au contraire, n'êtes-vous pas en train de décrédibiliser une question qui est pourtant très légitime et très louable?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161153">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922723">Comme je le disais, les personnes ayant des intérêts partisans ne veulent évidemment pas se faire dire que les lois électorales devraient être décidées par des entités non partisanes. Vous êtes responsables de la Loi électorale, et je me retrouve ici devant vous pour vous dire que vous ne devriez peut-être pas l'être. Par conséquent, oui, ma présence est très positive.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161160">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922724">Merci beaucoup.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8922725">J'aimerais remercier Mme Normandin. Elle respecte toujours le temps imparti et en tient compte; c'est un comportement que nous devons tous nous efforcer d'adopter.</ParaText>
+              <ParaText id="8922726">Merci beaucoup.</ParaText>
+              <ParaText id="8922727">Monsieur Calkins, vous avez six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161168">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins (Ponoka—Didsbury, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922728">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922729">J'aime toujours entendre les Canadiens, en particulier ceux qui pensent que nous ne devrions pas laisser les politiciens rédiger les lois. Ils pensent que les législateurs devraient être des personnes autres que les élus qui doivent rendre des comptes à l'électorat. Pour être tout à fait franc avec vous, je ne vois pas la logique, étant donné que — comme l'a dit mon collègue, M. Jackson —, même lorsque les libéraux étaient majoritaires de 2015 à 2019 et qu'ils ont proposé une réforme électorale, la population canadienne, par l'intermédiaire de ses élus, a déterminé si l'idée était acceptable ou non. C'est en siégeant à ce comité que nous participons à l'élaboration des lois et des règlements, y compris des lois concernant nos élections. Quiconque a une compréhension de base d'un cours d'éducation civique le saurait.</ParaText>
+              <ParaText id="8922730">Je vais poser ma première question à M. Loewen.</ParaText>
+              <ParaText id="8922731">Monsieur Loewen, en 2017, un tribunal de l'Alberta a statué qu'une disposition de nos lois électorales exigeant un cautionnement de 1 000 $ violait la Charte des droits et libertés.</ParaText>
+              <ParaText id="8922732">Tout d'abord, je pense que vous conviendrez que les élections ne sont pas une mince affaire. Je pense que l'exercice du droit de vote dans le processus démocratique est l'acte le plus sérieux qu'un Canadien puisse accomplir. La Semaine des vétérans et le jour du Souvenir approchent. Plus de 120 000 Canadiens ont payé de leur vie pour que nous puissions tous exercer notre droit de vote. C'est un enjeu on ne peut plus sérieux.</ParaText>
+              <ParaText id="8922733">J'ai toujours été d'avis que ce cautionnement de 1 000 $ est une mesure pour s'assurer que les personnes peu sérieuses ne puissent pas tout bonnement faire inscrire leur nom sur le bulletin de vote. Pensez-vous que le gouvernement a fait fausse route en ne contestant pas ou en n'essayant pas de contester cette décision rendue par un tribunal de l'Alberta en 2017?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161194">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922734">J'avoue que je ne connais pas très bien le dossier, alors je ne connais pas les arguments jurisprudentiels ayant mené à la décision. La limite de 1 000 $ me semble tout à fait raisonnable.</ParaText>
+              <ParaText id="8922735">Ce que je dirai, c'est que les élections canadiennes ne coûtent pas cher. Je ne sais peut-être pas si les députés ont l'impression de dépenser beaucoup d'argent ou non, mais je sais que bon nombre d'entre vous recueillent plus d'argent que vous ne pouvez en dépenser. Nous avons aussi des exemples de candidats qui peuvent gagner sans dépenser de grandes sommes. Je pense que c'est une bonne chose que, dans la plupart des cas, nous plafonnions assez strictement nos dépenses électorales, de sorte que le candidat qui recueille le plus d'argent n'est pas nécessairement le vainqueur. Je ne sais pas exactement quelles devraient être ces limites, monsieur Calkins. Je pense toutefois que, en raison de l'élimination du cautionnement de 1 000 $; des changements de règles entourant les signatures ou de la facilité de recueillir des signatures; et de la possibilité d'être un agent pour plusieurs candidats, il est probablement trop facile de se retrouver sur un bulletin de vote. Les bulletins de vote de la dernière élection l'ont très bien démontré.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161210">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922736">Je vous remercie.</ParaText>
+              <ParaText id="8922737">Vous avez répondu à la deuxième partie de ma question, à savoir si vous pensez que le cautionnement devrait être rétabli ou non. Je ne sais pas s'il est possible de le faire maintenant, étant donné que je pense que le délai pour contester cette décision du tribunal est écoulé.</ParaText>
+              <ParaText id="8922738">Pensez-vous que, afin de protéger l'intégrité de notre système électoral et de le traiter avec sérieux, comme il se doit, notre comité devrait examiner la définition de « tiers enregistrés » pour s'assurer qu'ils incarnent des groupes très organisés? Y a‑t‑il quelque chose que vous nous conseillez de faire par rapport à la définition des tiers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161220">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922739">Oui, je pense que c'est d'une importance cruciale. Je souligne que votre parti est connu pour avoir été le moins favorable à la réglementation des tiers. Je ne fais pas l'observation pour marquer des points ou pour toute autre raison, mais je fais l'observation, monsieur Calkins, pour souligner que nous sommes parvenus à un consensus au pays, même au sein de votre parti, selon lequel il est bénéfique que les élections soient contestées principalement par des partis politiques sans grande influence extérieure. Je pense que c'est une bonne chose, et j'ai moi-même changé d'opinion au fil du temps.</ParaText>
+              <ParaText id="8922740">Alors que le coût de la publicité et que les tactiques des tiers changent, je pense qu'il vaut la peine de se demander si la loi permet de réaliser le principe général qui anime les élections canadiennes: les élections devraient être une conversation entre les partis et les électeurs, sans la participation cacophonique de centaines d'autres personnes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161230">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922741">Merci beaucoup.</ParaText>
+              <ParaText id="8922742">Monsieur Szuchewycz, le directeur général des élections, M. Perrault, a dit au Comité que la signature de plusieurs déclarations de candidature devrait être passible de peines. Appuyez-vous cette affirmation?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161234">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922743">Je pense que c'était l'une de ses suggestions. Je ne vois pas vraiment ce qui justifierait des peines. Je n'y vois pas vraiment de logique. Personnellement, je préfère quand il y a plus d'un candidat sur le bulletin de vote, alors je devrais pouvoir, en tant qu'électeur, en proposer plus d'un.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161239">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922744">Vous savez que le paragraphe 480.1(1) dit: « Commet une infraction quiconque, avec l'intention de tromper, se présente faussement, ou fait en sorte que quelqu'un se présente faussement, comme [...] un candidat ou une personne autorisée à agir en son nom. »</ParaText>
+              <ParaText id="8922745">Convenez-vous que le fait de demander à quelqu'un de signer un document de mise en candidature où il est écrit « tous les candidats » en haut, ou où aucun nom de candidat n'est écrit, équivaut à se présenter faussement en vertu de la loi?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161243">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922746">Je ne suis pas juriste, mais je ne crois pas que c'était le cas.</ParaText>
+              <ParaText id="8922747">Tout d'abord, le directeur du scrutin a déterminé que les candidats ne pouvaient pas être acceptés en fonction de ces formulaires. Ils ont donc été refusés, et cela ne pose pas problème.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161246">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922748">Toujours dans la Loi électorale du Canada, l'article 482.1 stipule ce qui suit:</ParaText>
+              <ParaText id="8922749">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> Commet une infraction quiconque entrave l'action du commissaire aux élections fédérales ou des personnes agissant sous son autorité, ou leur fait sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse, alors qu'ils exercent les attributions que la présente loi confère au commissaire.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8922750">On parle ici d'entrave. Pensez-vous que l'une ou l'autre des actions de votre organisation correspondait à la définition d'entrave en vertu de la Loi électorale du Canada? Avez-vous reçu des avertissements? Avez-vous reçu des réprimandes? Avez-vous été menacé d'accusations par Élections Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161258">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922751">La réponse à toutes ces questions est sans contredit non. Je n'ai jamais été réprimandé et je n'ai pas l'intention d'induire qui que ce soit en erreur. Nous n'avons rien à cacher. Nous respectons scrupuleusement les règles.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161261">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922752">Mon collègue...</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161264">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922753">Merci beaucoup, monsieur Calkins.</ParaText>
+              <ParaText id="8922754">Nous passons maintenant à Mme Brière.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8922755">Madame Brière, vous avez la parole pour six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161266">
+            <PersonSpeaking>
+              <Affiliation DbId="319436" Type="47">L'hon. Élisabeth Brière (Sherbrooke, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922756">Merci beaucoup, monsieur le président.</ParaText>
+              <ParaText id="8922757">Je remercie les deux témoins d'être des nôtres ce matin.</ParaText>
+              <ParaText id="8922758">Professeur Loewen, on sait qu'il est difficile d'inciter les gens à faire le saut en politique, particulièrement les femmes. Pensez-vous que cette tactique du Comité du bulletin de vote le plus long rend encore plus difficile la décision de se lancer en politique pour certaines personnes?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161272">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922759">Je n'en suis pas certain. Étant donné que les effets sont probablement faibles, je suppose que cela n'a pas un effet énorme à cet égard, même si cela pourrait en avoir un. L'idée de transformer les élections en jeu me semble dégradante, ce qui pourrait avoir un effet quelque peu rébarbatif pour les candidates et candidats, mais je ne suis pas certain que l'effet serait différent pour les femmes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161281">
+            <PersonSpeaking>
+              <Affiliation DbId="319436" Type="47">L'hon. Élisabeth Brière</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922760">Croyez-vous qu'il est trop facile de mettre son nom sur un bulletin de vote, dans n'importe quelle circonscription? Il suffit d'accumuler 100 signatures et de se trouver un agent officiel. Comme on l'a vu, les agissements du Comité du bulletin de vote le plus long ont créé un chaos lors des dernières élections et des élections partielles.</ParaText>
+              <ParaText id="8922761">Pensez-vous qu'on devrait réagir à ces agissements? Devrait-on plutôt réfléchir de façon sérieuse à une modification plus en profondeur de notre processus électoral?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161287">
+            <PersonSpeaking>
+              <Affiliation DbId="322903" Type="28">Peter Loewen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922762">Il me semble évident que la combinaison des deux — les 100 signatures et la possibilité pour un petit nombre de personnes, une ou deux personnes, d'amasser les signatures nécessaires à l'inscription d'une personne sur un bulletin de vote — entraîne des bulletins de vote trop longs. Je suppose que le choix que vous avez devant vous est soit d'interdire cela directement par voie législative, soit d'espérer simplement que cela cesse. C'est un choix sérieux quant à l'utilisation de votre temps en tant que législateurs.</ParaText>
+              <ParaText id="8922763">Selon mon opinion professionnelle, on peut difficilement faire valoir que ce comportement est souhaitable pour la démocratie. À mon avis, il n'est pas bon que certains utilisent le bulletin de vote pour autre chose que sa fonction première, qui est de proposer des candidats à la population. Il ne s'agit pas d'une pétition ni d'un coup d'éclat sur les médias sociaux, mais de gens qui se portent candidats pour représenter la population en tant qu'élus et défendre leurs idées.</ParaText>
+              <ParaText id="8922764">Cela me choque un peu. Quant à savoir si vous devriez consacrer du temps à légiférer contre cela, c'est une autre question, mais je comprendrais certainement pourquoi vous le feriez.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161302">
+            <PersonSpeaking>
+              <Affiliation DbId="319436" Type="47">L'hon. Élisabeth Brière</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922765"> Merci beaucoup.</ParaText>
+              <ParaText id="8922766">Monsieur Szuchewycz, on a qualifié vos agissements de toutes sortes de façons. Vous dites que vous êtes content d'être ici ce matin et d'avoir l'attention des politiciens.</ParaText>
+              <ParaText id="8922767">Cependant, pensez-vous vraiment que ce que vous avez fait a permis d'atteindre l'objectif réel? Ne pensez-vous pas plutôt que nous devrions nous réunir et avoir une discussion sérieuse et plus en profondeur sur la réforme électorale que vous souhaitez voir?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161314">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922768">Le mandat du Comité est d'examiner les questions liées à la loi électorale et aux conflits d'intérêts. Donc oui, il s'agit de l'endroit tout indiqué pour tenir des discussions quant à savoir s'il est approprié ou non que les députés définissent les règles applicables à l'élection des députés.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161319">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922769">Merci beaucoup, madame Brière.</ParaText>
+              <ParaText id="8922770">Je vais exercer mon privilège de président pour poser une question. Elle se rapporte aux propos de M. Calkins sur la nomination de gens qui, semble‑t‑il, n'auraient pas de comptes à rendre. Dans notre système — et je pense que vous en avez même parlé, au sujet du respect à l'égard d'Élections Canada —, l'exécutif nomme une personne à la tête d'Élections Canada, un organisme indépendant, tout comme la GRC. Une personne est nommée et doit ensuite rendre des comptes au Parlement. Je trouve préoccupant que vous proposiez la création d'un organisme qui ne serait peut-être pas tenue de rendre des comptes.</ParaText>
+              <ParaText id="8922771">Qui serait nommé à ce comité, si cette nomination ne relevait pas des politiciens ou de l'exécutif?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161331">
+            <PersonSpeaking>
+              <Affiliation DbId="323003" Type="28">Tomas Szuchewycz</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922772">C'est une excellente question.</ParaText>
+              <ParaText id="8922773">Je ne suis pas un spécialiste des politiques. Il est très évident pour tout le monde que le fait que cela relève des députés n'est pas approprié ou constitue un conflit d'intérêts. Je suis absolument convaincu que si vous examiniez la question en profondeur, vous pourriez trouver une solution très raisonnable.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161335">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922774">J'ai un commentaire pour terminer. Je trouve très bizarre que vous entrepreniez ce genre de manifestation sans avoir la moindre idée de la réponse très simple à la première question qui se pose pour régler la situation que vous cherchez à contester. Cela dit, je vous remercie d'avoir comparu devant le Comité.</ParaText>
+              <ParaText id="8922775">Nous allons suspendre la séance pendant quelques minutes pour nous préparer à accueillir le prochain groupe de témoins.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161396">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922776">Nous reprenons.</ParaText>
+              <ParaText id="8922777">J'aimerais maintenant souhaiter la bienvenue à notre deuxième groupe de témoins d'aujourd'hui.</ParaText>
+              <ParaText id="8922778">Nous accueillons M. Louis‑Philippe Sauvé, ancien député de LaSalle—Émard—Verdun, et Mme Lori Turnbull, professeure à la Faculté de gestion de l'Université Dalhousie, qui comparaissent à titre personnel. C'était difficile à dire, pour quelqu'un qui vient de St. Catharines, car nous ne prononçons pas « Dalhousie » de la même façon. Je tiens à ce que cela figure au compte rendu.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8922779">Monsieur Sauvé, vous avez la parole pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161403">
+            <PersonSpeaking>
+              <Affiliation DbId="323004" Type="28">Louis-Philippe Sauvé (ex-député, LaSalle-Émard-Verdun, à titre personnel)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922780">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922781">Mesdames et messieurs les députés, je vous remercie de l'invitation à venir témoigner devant vous des événements du 16 septembre 2024 et du rôle que jouèrent non seulement le Comité du bulletin de vote le plus long mais aussi ses facéties dans le déroulement du processus électoral.</ParaText>
+              <ParaText id="8922782">Je ne suis pas ici pour promouvoir une quelconque opinion, mais bien pour livrer mon témoignage au sujet des événements et pour répondre à vos questions.</ParaText>
+              <ParaText id="8922783">Lorsque j'ai su que j'étais invité à venir témoigner devant le Comité, j'ai employé toute mon industrie pour recueillir les témoignages de personnes qui ont joué un rôle dans le processus électoral, notamment des gens qui ont joué un rôle stratégique dans ma campagne. Je les nomme: M. Stevens Héroux, mon directeur de campagne; M. Mathieu Desquilbet, le directeur général du Bloc québécois; Mme Sophy Forget Bélec; et M. Pierre Norris, mon représentant dans un bureau de scrutin. J'aimerais aussi remercier Mmes Suzanne Grothé et Thérèse Robichaud, qui ont été scrutatrices et qui ont bien voulu répondre à mes questions; ainsi que Mme Célyne Bibeau, qui a exercé le rôle de préposée à l’information et au maintien de l’ordre.</ParaText>
+              <ParaText id="8922784">Je suis surtout ici pour répondre aux questions des membres. Vous pouvez me questionner non seulement sur la nature des événements, mais aussi sur mes convictions personnelles à titre de citoyen ayant exercé la fonction de parlementaire que vous avez le privilège d'occuper aujourd'hui.</ParaText>
+              <ParaText id="8922785">Voilà, je suis prêt à répondre aux questions des membres.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161418">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922786">Merci beaucoup.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8922787">Madame Turnbull, vous avez cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161420">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull (professeur, Faculty of Management, Dalhousie University, à titre personnel)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922788">Je vous remercie. Je tâcherai de ne pas être celle qui dépasse les cinq minutes.</ParaText>
+              <ParaText id="8922789">Je vous remercie beaucoup de l'invitation à comparaître. Je vous en suis très reconnaissante. J'ai beaucoup réfléchi aux actions du Comité du bulletin de vote le plus long; je suis donc ravie de participer à la discussion.</ParaText>
+              <ParaText id="8922790">Beaucoup de choses concernant l'état de notre démocratie m'empêchent de dormir la nuit. Je pense que l'apathie des électeurs est un gros problème. Je pense que la mésinformation et la désinformation sont d'énormes problèmes. La polarisation est un gros problème. L'ingérence étrangère est un problème, et elle est là pour de bon. On n'a pas à regarder bien loin pour voir qu'une des plus grandes démocraties du monde est en sérieuse difficulté. Je ne pense pas que le Canada soit à l'abri des contrecoups du recul de la démocratie que nous observons partout dans le monde. Compte tenu de tout cela, n'en déplaise au Comité du bulletin de vote le plus long, ses actions ne m'empêchent pas de dormir la nuit.</ParaText>
+              <ParaText id="8922791">Je souscris pleinement aux propos du professeur Loewen: il n'est pas souhaitable de chercher délibérément à faire inscrire sur un bulletin de vote une liste interminable de candidats qui n'ont aucunement l'intention de représenter une circonscription. Il y a là un risque de tourner le processus électoral en dérision. Encore une fois, ce n'est pas souhaitable. Je pense que c'est une perte de temps et un gaspillage de ressources, mais je pense également que nous avons montré que nous pouvons gérer la situation.</ParaText>
+              <ParaText id="8922792">Comme des gens associés à ce comité‑là l'ont indiqué, Élections Canada est un organisme très fort, indépendant et compétent qui organise des élections libres et équitables. Les gens d'Élections Canada sont capables de composer avec un ou deux coups d'éclat. Ce sont eux qui ont dû compter ces bulletins de vote. À mon avis, ce sont eux qui ont fait les frais des tactiques douteuses du Comité du bulletin de vote le plus long. Très franchement, le recours au bulletin de vote en blanc au lieu d'un long bulletin de vote pour l'élection partielle de Battle River—Crowfoot est un véritable coup de génie. J'ai trouvé que c'était une excellente réponse. En quelque sorte, cela a coupé l'herbe sous les pieds du Comité du bulletin de vote le plus long. Par conséquent, je me demande si nous ne verrons pas la fin de ce genre de choses à l'avenir.</ParaText>
+              <ParaText id="8922793">Je dois dire, cependant, que bien que je sois quelque peu frustrée, mais pas trop préoccupée par les tactiques employées par le Comité du bulletin de vote le plus long, l'argument au sujet d'un potentiel conflit d'intérêts a déjà été soulevé, notamment dans le cadre de l'étude sur la réforme électorale, même si nous n'avions jamais l'intention de modifier le système électoral. Convient‑il de confier cela à des politiciens qui, en tant que partisans... Certes, ils y ont un intérêt. Vous avez un intérêt quant au mode de scrutin et aux règles connexes. Y a‑t‑il là un conflit?</ParaText>
+              <ParaText id="8922794">Cela dit, je ne suis pas certaine qu'il y ait vraiment une meilleure façon de procéder. Si vous voulez vraiment qu'une réforme électorale se concrétise... De nombreuses assemblées de citoyens ont eu lieu. Même lorsque ces assemblées de citoyens étaient favorables à l'idée, ce n'était pas nécessairement suffisant pour convaincre le public de faire un changement. Nous pouvons parler des 57 % en Colombie-Britannique.</ParaText>
+              <ParaText id="8922795">Je tiens à soulever un point. D'après ce que j'ai entendu, le Comité du bulletin de vote le plus long met l'accent sur les élus. Tant qu'à être ici pour discuter de la question, j'inviterais tout le monde à réfléchir un peu au rôle des partis politiques. Si les politiciens se trouvent en conflit d'intérêts dans leur rôle lorsqu'ils examinent le genre de système électoral que nous devrions avoir, cela ne découle pas seulement du fait que ce sont des élus, mais aussi du fait qu'ils sont membres de partis politiques, et ces partis politiques ont souvent une position sur ces questions. Il y a la discipline de parti, et les élus font partie de ces partis politiques.</ParaText>
+              <ParaText id="8922796">Je pense qu'il vaut la peine de réfléchir à ce que font les partis politiques, à la fois comme entité publique et comme une sorte de club privé. Dans la dernière année, le rôle des partis politiques comme gardiens de la démocratie a fait partie des discussions entourant les irrégularités dans les processus de mises en candidature ou les courses à la direction, notamment. Ils ont la mainmise là‑dessus. Dans ce contexte, les partis politiques déterminent qui peut participer. Ce n'est pas seulement une question de règles. Il s'agit de savoir qui est inclus dans le processus.</ParaText>
+              <ParaText id="8922797">Pendant que nous sommes ici, je pense qu'il serait intéressant de réfléchir au rôle des partis politiques et à ce qu'ils font pour promouvoir la démocratie.</ParaText>
+              <ParaText id="8922798">Je vais m'arrêter ici.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161475">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922799">Merci beaucoup.</ParaText>
+              <ParaText id="8922800">Quatre en quatre. Tous les témoins ont pris moins de temps qu'il leur était imparti. Je vous en suis reconnaissant.</ParaText>
+              <ParaText id="8922801">Nous commençons par M. Van Popta, du Parti conservateur.</ParaText>
+              <ParaText id="8922802">Vous avez six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161478">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta (Langley Township—Fraser Heights, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922803">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922804">Monsieur Sauvé et madame Turnbull, je vous remercie de votre présence.</ParaText>
+              <ParaText id="8922805">Madame Turnbull, dans une récente publication au sujet du chef de l'opposition et de la récente élection partielle dans Battle River—Crowfoot, vous avez tenu les propos suivants:</ParaText>
+              <ParaText id="8922806">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> M. Poilievre a qualifié les actions [du Comité du bulletin de vote le plus long] d'« arnaque » et d'« abus flagrant » de la démocratie électorale. Il a raison.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8922807">Vous étiez d'accord avec lui.</ParaText>
+              <ParaText id="8922808">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> La prise en otage du bulletin de vote par le Comité du bulletin de vote le plus long n'a aucune valeur démocratique, ne sert pas l'intérêt public et ne suscite en rien une discussion sérieuse sur la réforme électorale.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8922809">Vous affirmez dans cet article, comme vous l'avez réitéré aujourd'hui, que même si vous êtes possiblement troublée par leurs actions, vous ne pensez pas que cela nous incitera à modifier les règles.</ParaText>
+              <ParaText id="8922810">J'en serais peut-être convaincu si les actions du Comité du bulletin de vote le plus long menaient à une discussion intelligente sur la réforme électorale, mais ce n'est pas le cas. Plus tôt aujourd'hui, M. Szuchewycz a reconnu qu'il ne s'agissait que d'un coup d'éclat politique. Il était même fier qu'au moins un des candidats n'ait obtenu aucun vote. Ces gens ne sont pas sérieux. Cela ne mène pas à un débat sérieux.</ParaText>
+              <ParaText id="8922811">Pourquoi ne devrait‑on pas chercher à contrer cette belligérance, cette obstination et ces petits jeux politiques?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161499">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922812">Je suis tout à fait d'accord avec tout ce que vous venez de dire. Ma seule préoccupation, c'est la possibilité que toute réponse législative risque de compliquer les choses pour les candidats indépendants sérieux.</ParaText>
+              <ParaText id="8922813">À titre d'exemple, supposons que l'on propose d'augmenter le nombre de signatures nécessaires pour juger du sérieux d'une candidature. La personne qui se présente au nom d'un parti politique et qui peut compter sur son réseau de soutien aura de la facilité à atteindre un seuil plus élevé. Cependant, dans le cas d'un candidat indépendant véritablement sérieux et désireux de représenter une circonscription — et c'est important —, je ne voudrais pas qu'il doive satisfaire à des exigences plus élevées à cause des actions du Comité du bulletin de vote le plus long. C'est ma seule préoccupation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161505">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922814">Très bien. Je vous remercie de cette réponse.</ParaText>
+              <ParaText id="8922815">Une des modifications législatives proposées vise précisément à exiger 100 signatures uniques. Autrement dit, quelqu'un ne pourrait pas signer 200 formulaires de mise en candidature. Vous savez, pour un candidat sérieux qui a des liens étroits avec sa collectivité, il n'est vraiment pas si difficile d'obtenir 100 signatures. Il suffit d'avoir 10 amis qui ont aussi 10 amis, et vous avez 100 signatures.</ParaText>
+              <ParaText id="8922816">Nous avons entendu M. Szuchewycz se targuer d'avoir déjoué le système. On l'a accusé d'avoir fait signer un formulaire vierge. Il a dit que ce n'était absolument pas le cas, et qu'ils ont écrit « tous les candidats » dans le haut. Le formulaire aurait tout aussi bien pu être vierge. Les gens abusent du système, et je pense qu'il est temps de le réformer en apportant cette modification mineure.</ParaText>
+              <ParaText id="8922817">Qu'en pensez-vous?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161519">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922818">J'ai écouté avec intérêt l'échange entre votre témoin précédent et M. Cooper. C'était fascinant.</ParaText>
+              <ParaText id="8922819">Demander à quelqu'un de signer un formulaire sans le nom d'un candidat n'aurait aucune valeur, et il en serait de même pour un formulaire où figurerait le nom de tous les candidats. Je n'étais pas là, mais je ne peux pas concevoir qu'Élections Canada trouverait cela acceptable. Qui appuie‑t‑on, alors?</ParaText>
+              <ParaText id="8922820">C'est ce cas précis qui a véritablement attiré mon attention sur l'idée que des gens signent plusieurs formulaires. Si quelqu'un le fait de bonne foi... Supposons que je connais deux personnes qui se présentent aux élections dans la même circonscription et que je signe les deux formulaires. Si je ne le fais pas dans le cadre d'une grande escroquerie, mais parce que je crois en la viabilité de ces deux candidatures, alors je ne pense pas que la démocratie en souffre. Je me trouve simplement à dire: « Oui, ce sont deux personnes sérieuses. » Par contre, là où je vois l'intérêt d'essayer d'établir une règle, c'est lorsqu'il y a un effort concerté visant à utiliser les mêmes 100 signatures pour appuyer des candidats quelconques que les signataires ne connaissent même pas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161537">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922821">D'accord, mais où se situe l'équilibre? C'est une question que Mme Normandin a posée aux témoins du groupe précédent. Où se situe l'équilibre, entre une personne qui veut légitimement signer le formulaire de deux candidats, et une autre qui contourne le système en signant des dizaines voire des centaines de formulaires?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161539">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922822">Pour être réaliste, il n'y a peut-être pas d'équilibre parfait, car lorsqu'on y pense, si on établit une règle qui limite le droit d'autrui — une règle selon laquelle une personne ne peut signer qu'un seul formulaire, par exemple — on se trouve alors, techniquement, à imposer une restriction aux électeurs. Y a‑t‑il tant d'électeurs qui signent plus d'un formulaire? Probablement pas. Je ne pense pas que ce soit un problème majeur. Donc, dans la mesure où cela limite les droits de l'électeur, ce n'est probablement pas une restriction trop importante pour la plupart des gens. En fait, la plupart des gens...</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13161548">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922823">Il s'agit donc d'une restriction raisonnable du droit des gens de participer au processus électoral.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161550">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922824">Je pense qu'on peut faire valoir cet argument.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13163452">
+            <PersonSpeaking>
+              <Affiliation DbId="319443" Type="47">Tako Van Popta</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922825">Très rapidement, je n'ai pas eu l'occasion de poser des questions à M. Szuchewycz, mais ses déclarations selon lesquelles nous sommes en conflit d'intérêts pour établir les règles me laissent vraiment perplexe. En Colombie-Britannique, dans ma circonscription, nous avons tenu trois référendums sur la modification du système électoral. Ce ne sont pas les politiciens qui avaient établi les règles, mais une assemblée de citoyens, comme nous le recommande le témoin précédent. Pourtant, chaque fois, cela a été rejeté. En général, les gens aiment notre système uninominal majoritaire à un tour actuel et, en fin de compte, c'est la population qui a pris cette décision.</ParaText>
+              <ParaText id="8922826">Pourriez-vous faire un commentaire à ce sujet?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13163503">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922827">Veuillez répondre très brièvement, madame Turnbull, si vous le pouvez.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161557">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922828">Une des raisons, à mon avis, c'est que les gens valorisent la représentation locale. J'ai vu des renseignements qui portent à croire que l'idée de circonscriptions plurinominales de plus grande taille suscite des préoccupations.</ParaText>
+              <ParaText id="8922829">C'était une réponse très brève, car je sais que le temps est écoulé.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161565">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922830">Merci beaucoup.</ParaText>
+              <ParaText id="8922831">Nous passons à Mme Kayabaga pour six minutes, s'il vous plaît.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161566">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922832">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922833">J'aimerais également exprimer ma reconnaissance aux témoins d'aujourd'hui.</ParaText>
+              <ParaText id="8922834">Monsieur Turnbull, dans votre déclaration liminaire, vous avez mentionné... L'idée derrière le comité du plus long bulletin de vote est que les citoyens qui y participaient avaient l'impression que les politiciens avaient un conflit d'intérêts, et vous avez en quelque sorte souscrit à cette affirmation dans vos remarques. Quelle option de rechange proposeriez-vous pour modifier la réforme électorale? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161571">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922835">Je peux comprendre l'argument selon lequel il y a un conflit d'intérêts pour les politiciens qui votent sur des règles qui les aident ou ne les aident pas à se faire élire. L'histoire nous offre des exemples de la façon dont des partis politiques ont été désavantagés par le système que nous avons. Je pense qu'il existe des preuves qui portent à croire que le NPD, au cours de l'histoire, n'a pas... Il a parfois obtenu de très bons résultats. En 2021, il a eu d'excellents résultats, mais à d'autres moments, les votes du parti ont été dispersés dans le pays, plutôt que d'être concentrés dans une seule province comme le Bloc Québécois au Québec, par exemple. Le Bloc Québécois, qui est concentré dans une région, a tendance à obtenir de meilleurs résultats que le NPD dans le système uninominal majoritaire à un tour.</ParaText>
+              <ParaText id="8922836">Toutefois, si nous commençons à discuter de ce que vous utilisez par opposition à la Chambre des communes et de qui d'autre devrait prendre la décision, il est beaucoup plus facile d'y réfléchir en théorie que dans la pratique. En théorie, nous regroupons 50 personnes très brillantes, nous les incitons à se passionner pour les systèmes électoraux, nous les plaçons dans un endroit où il n'y a aucun conflit d'intérêts et où elles ne seront pas influencées par les partis politiques — rien de tout cela est possible — et elles nous proposent le système électoral idéal. Que se passe‑t‑il ensuite? Ces personnes n'ont aucune obligation de rendre des comptes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161582">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922837">Est‑ce en partant du principe que la plupart des Canadiens sont partisans et ont des préférences politiques?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161586">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922838">Je ne pense pas que ce soit le cas pour la plupart des Canadiens. Peu de gens sont membres de partis politiques. Je pense que nous voyons beaucoup de promiscuité, à vrai dire, dans la façon dont les gens votent. Les gens changent constamment d'avis concernant leur choix électoral. Je ne dirais pas que nous sommes terriblement... Nous ne sommes certainement pas comme les États-Unis, où les gens affichent ouvertement qu'ils sont républicains ou démocrates. Nous n'avons jamais eu ce genre de réalité ou de culture ici.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161589">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922839">J'essaie seulement de comprendre quelque chose. Nous sommes en 2025. La plupart des réformes démocratiques ont été réalisées dans cette enceinte, et les Canadiens ont voté pour les gens qui ont apporté ces changements, alors pourquoi changer maintenant? Pourquoi y a‑t‑il aujourd'hui un conflit qui n'existait pas auparavant?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161592">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922840">D'une certaine manière, je pense que si on insistait vraiment sur le concept de conflit d'intérêts, cela deviendrait problématique, car on pourrait faire valoir que les politiciens sont presque toujours dans une situation de conflit d'intérêts. Toutes les décisions que vous prenez peuvent avoir une incidence sur vous d'une manière ou d'une autre, alors si vous insistez trop... En tant que concept, il est intéressant de penser que ce sont les acteurs du jeu qui en fixent les règles. C'est de bonne guerre, et nous pouvons y réfléchir. Il y aura des raisons politiques pour lesquelles des partis diront, « Nous ne changerons jamais le système électoral parce que nous aimons celui que nous avons et qu'il fonctionne pour nous ». Vous devez faire face au public, tandis que les membres d'une assemblée citoyenne n'auraient pas à le faire de la même manière.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161600">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922841">Je veux savoir ce que vous pensez de la désinformation sur les plateformes publiques telles que les médias sociaux. D'après vous, quel rôle le gouvernement devrait‑il jouer pour réglementer les systèmes d'IA, par exemple, en matière de désinformation, sans toutefois tomber dans la censure et la partisanerie?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161607">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922842">Il est très difficile de réfléchir à la façon d'intégrer cela dans une motion et d'opérationnaliser un rôle gouvernemental. Le plus important, c'est que les citoyens doivent pouvoir pratiquer l'autodéfense civique. Il doit y avoir beaucoup de... Le gouvernement peut sensibiliser les gens à la culture civique, leur donner un rôle à jouer pour devenir... Je sais que l'éducation relève de la compétence des provinces, mais il est très important que les gens puissent discerner le vrai du faux par eux-mêmes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161613">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922843">Estimez-vous que le niveau d'éducation actuel dont dispose la population canadienne est suffisant pour que les gens comprennent ce qui constitue de la désinformation et ce qui n'en est pas sur les plateformes de médias sociaux?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161614">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922844">Je n'en suis pas certaine. Je pense que les gens font preuve de plus de discernement. Malheureusement, nous arrivons à un point où nous ne savons parfois plus si nous pouvons croire quoi que ce soit et où nous devons tout vérifier deux ou trois fois, et c'est peut-être le monde dans lequel nous vivons. Il est très utile que des organisations non partisanes, comme Élections Canada, aident les citoyens à développer ce sentiment de devoir vérifier l'information deux ou trois fois, surtout en période électorale, mais c'est difficile à faire.</ParaText>
+              <ParaText id="8922845">De plus, par exemple, lorsque nous parlons d'ingérence étrangère, il n'est souvent pas question de messages qui s'adressent à tous les Canadiens et que nous pouvons voir au grand jour. Il est question de messages qui ciblent une petite portion de la population qui ne passent pas par le filtre de CBC ou de CTV, comme M. Loewen l'a mentionné, et ce genre de choses peut être plus difficile à détecter. Je pense que le rôle du Groupe de travail sur les menaces en matière de sécurité et de renseignement pour les élections, ou SITE, pendant la campagne, par exemple, a été très bien rempli.</ParaText>
+              <ParaText id="8922846">Nous ne sommes pas perdus. Nous faisons certaines choses correctement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165504">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922847">Il ne vous reste que quelques secondes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161624">
+            <PersonSpeaking>
+              <Affiliation DbId="319438" Type="47">L'hon. Arielle Kayabaga</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922848">Eh bien, elle pourrait peut-être parler du financement politique également et comment c'est lié...</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161627">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922849">Vos quelques secondes sont écoulées. Il vous restait littéralement quelques secondes, mais je vous remercie de votre intervention. </ParaText>
+              <ParaText id="8922850">Madame Turnbull, j'utiliserai l'expression « promiscuité des électeurs ». J'ai aimé l'expression. Je vous en suis reconnaissant. Merci.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8922851">Madame Normandin, vous avez la parole pour six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161630">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922852">Merci beaucoup, monsieur le président.</ParaText>
+              <ParaText id="8922853">Je remercie les deux témoins de leur présence.</ParaText>
+              <ParaText id="8922854">Je vais m'adresser tout d'abord à vous, monsieur Sauvé.</ParaText>
+              <ParaText id="8922855">Vous avez fait beaucoup de porte-à-porte pendant la campagne électorale et j'imagine que certaines personnes vous parlaient de ce comité du bulletin de vote le plus long. J'aimerais que vous nous disiez ce que vous avez retenu principalement des commentaires qu'on vous a faits.</ParaText>
+              <ParaText id="8922856">D'une part, est‑ce que les gens vous en ont beaucoup parlé?</ParaText>
+              <ParaText id="8922857">D'autre part, ceux qui vous en ont parlé faisaient-ils le lien entre l'existence de ce comité et la demande qu'il formule, c'est-à-dire une réforme électorale?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161633">
+            <PersonSpeaking>
+              <Affiliation DbId="323004" Type="28">Louis-Philippe Sauvé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922858">En fait, tous les citoyens que j'ai rencontrés m'ont exprimé leur désarroi relativement au ridicule consommé de la chose. Pendant mon porte-à-porte, jamais on ne m'a dit que le travail de ce comité était formidable. C'est la première des choses.</ParaText>
+              <ParaText id="8922859">Évidemment, nous avons essayé d'aborder la situation avec un peu d'humour pour convaincre les électeurs, mais aussi pour les encourager à arrêter leur choix. Quoi qu'il en soit, les gens trouvaient la situation franchement ridicule et ils ne faisaient pas le lien entre les revendications du comité et la démarche.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161644">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922860">Dans vos remarques d'ouverture, vous avez mentionné que, avant de venir témoigner devant le Comité, vous aviez parlé avec votre représentant officiel, avec des scrutatrices et avec d'autres gens qui étaient sur le terrain. Selon vous, quelle incidence, notamment sur le plan matériel, la longueur du bulletin de vote a-t-elle eue sur le bulletin de vote spécial, sur la journée de vote par anticipation et sur le jour du scrutin? Quelle a été l'incidence de ce bulletin à ces différents moments de l'élection, sur le terrain?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161648">
+            <PersonSpeaking>
+              <Affiliation DbId="323004" Type="28">Louis-Philippe Sauvé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922861">Eu égard au vote spécial, il y a eu quelques petits problèmes, parce que la liste des candidats n'était pas disponible dans son intégralité à certains moments. Cette situation aurait pu causer des problèmes aux électeurs cherchant le nom d'un candidat sérieux.</ParaText>
+              <ParaText id="8922862">En ce qui concerne le bureau de vote par anticipation, il y a eu des problèmes parce que les espaces prévus pour le vote n'étaient pas suffisamment grands. Cela dit, je pense que ce problème s'applique aussi aux élections générales de façon générale, si on me permet le pléonasme. En effet, les électeurs votent de plus en plus par anticipation. Il faudra que le directeur général des élections fasse en sorte d'aménager la nouvelle réalité électorale pour qu'elle réponde aux besoins de la société.</ParaText>
+              <ParaText id="8922863">En ce qui concerne le dépouillement en lui-même, la taille du bulletin de vote a fait que les urnes étaient souvent pleines très tôt dans la journée. J'ai su qu'on avait été obligé de changer les urnes à certains moments lors du dépouillement. Forcément, cela a eu des conséquences sur la durée du dépouillement.</ParaText>
+              <ParaText id="8922864">Par exemple, Mme Bibeau, une préposée à l'information et au maintien de l'ordre, m'a dit qu'elle avait quitté le bureau de vote à 3 h 30 du matin parce que le nombre de bulletins dans les urnes ne concordait pas, et on ne peut quitter le bureau de vote tant que cela ne concorde pas. Puisqu'elle devait se rendre au bureau de la directrice du scrutin pour remettre toutes les urnes, elle est rentrée chez elle à 4 h 15 du matin. Pour cette raison, elle n'a pas été en mesure de travailler le lendemain.</ParaText>
+              <ParaText id="8922865">Je pense qu'il est important que les parlementaires et les gens du Comité du bulletin de vote le plus long prennent en considération le fait que le personnel électoral est souvent composé de gens qui sont aux études, de jeunes et de personnes âgées qui veulent faire un peu d'argent parce qu'ils ne sont pas très riches. Il faut penser à ces gens, qui font partie de la classe populaire et qui ont à cœur la démocratie. Il ne faudrait pas leur infliger un supplice supplémentaire.</ParaText>
+              <ParaText id="8922866">M. Norris, qui était mon représentant dans un bureau de scrutin, m'a dit que le personnel électoral était très stressé et que, en raison de ce stress, il était beaucoup moins accommodant à l'endroit des représentants des partis politiques qu'il ne l'est en temps normal.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13161683">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922867">Merci beaucoup, monsieur Sauvé.</ParaText>
+              <ParaText id="8922868">La question suivante s'adressera à vous, monsieur Sauvé, mais aussi à Mme Turnbull.</ParaText>
+              <ParaText id="8922869">On a évoqué l'idée de permettre à un électeur de ne signer qu'une seule déclaration de candidature. Or, en début d'élection, on ne sait pas nécessairement encore pour qui on va voter. Si on empêchait l'électeur de signer la déclaration de candidature de plus d'une personne, ne limiterait-on pas le choix d'une personne d'appuyer deux candidats potentiels pour lesquels elle souhaiterait voter?</ParaText>
+              <ParaText id="8922870">Le fait qu'un citoyen souhaite qu'il y ait plusieurs noms sur le bulletin de vote ne fait-il pas partie aussi de la démocratie? Ne fait-on pas un accroc au principe démocratique si on limite la possibilité de signer pour plus d'une personne?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161687">
+            <PersonSpeaking>
+              <Affiliation DbId="323004" Type="28">Louis-Philippe Sauvé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922871">Je pense que c'est une idée louable, mais mal avisée. J'irais plutôt vers l'accroissement du nombre de signatures nécessaires.</ParaText>
+              <ParaText id="8922872">Il m'est moi-même arrivé, comme candidat, de signer le bulletin de mise en candidature d'un adversaire, en l'occurrence du Parti rhinocéros, dont j'estimais la candidature beaucoup plus... Bref, toujours est-il qu'il faut donner la chance au coureur. C'est un principe de démocratie. Quand j'allais voir les citoyens et que je leur demandais de signer mon bulletin, je ne leur disais pas de voter pour moi, mais je leur demandais de me donner la chance d'être candidat. C'est dans cet esprit qu'il faut y aller.</ParaText>
+              <ParaText id="8922873">Quand j'ai vu les gens du Comité du bulletin de vote le plus long demander des signatures et m'approcher, j'ai refusé de signer. Il faut aussi que le citoyen, dans un esprit républicain, prenne ses responsabilités en ce qui concerne les signatures et les gestes politiques qu'il accomplit.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161695">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922874">J'aimerais beaucoup entendre les commentaires de Mme Turnbull à ce sujet, mais je comprends que je n'ai pas le temps.</ParaText>
+              <ParaText id="8922875">Je réserve votre réponse à ma question pour mon prochain tour de parole, madame Turnbull.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161696">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922876">Merci beaucoup, madame Normandin.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8922877">Monsieur Cooper, vous disposez de cinq minutes, je vous prie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161698">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922878">Merci, monsieur le président. Merci aux témoins.</ParaText>
+              <ParaText id="8922879">Pour reprendre là où Mme Normandin s'est arrêtée, le directeur général des élections a déclaré dans son témoignage que l'objectif de la loi, en ce qui concerne la signature des déclarations de candidature, est que les candidats doivent obtenir 100 signatures d'appui. Il ne faut pas que 100 électeurs inondent le bulletin de vote avec une liste interminable de candidats. Je paraphrase ici les propos du directeur général des élections.</ParaText>
+              <ParaText id="8922880">Je pense que vous seriez d'accord, madame Turnbull.</ParaText>
+              <ParaText id="8922881">
+                <B>Lori Turnbull:</B> Oui. </ParaText>
+              <ParaText id="8922882">
+                <B>Michael Cooper:</B> Plus tôt, je pense que c'était en réponse à une question de M. Van Popta, vous avez dit que dans des circonstances comme celles que nous avons vues dans le Comité du bulletin de vote le plus long, où un petit groupe d'électeurs signaient de multiples formulaires de candidature, clairement dans le but de perturber le processus électoral, il serait peut-être possible de modifier la Loi électorale du Canada pour corriger la situation.</ParaText>
+              <ParaText id="8922883">Si l'on n'exige pas de signatures exclusives ou si l'on n'interdit pas aux électeurs de signer plusieurs documents, quelle serait la solution de rechange?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161710">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922884">Je ne sais pas. C'est regrettable si nous devons imposer une restriction. Il est tout à fait possible que vous souhaitiez reconnaître, en tant qu'électeur, la validité de plusieurs candidats. Cela ne pose aucun problème, si tous les candidats sont réels. Toutefois, si cela s'inscrit dans le cadre d'une tactique quelconque, cela n'a aucun objectif démocratique. Je peux comprendre qu'on veuille s'assurer que les électeurs ne veulent pas participer à cela.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161713">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922885">On a également suggéré de limiter les agents officiels à appuyer un seul candidat.</ParaText>
+              <ParaText id="8922886">Que pensez-vous de ce type de modification?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161717">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922887">C'est tout à fait logique.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161721">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922888">D'accord.</ParaText>
+              <ParaText id="8922889">Monsieur Sauvé, je vous remercie. Je suis heureux de vous revoir ici.</ParaText>
+              <ParaText id="8922890">Vous avez parlé des perturbations affectant l'administration du scrutin dans LaSalle—Émard—Verdun. Quelle incidence la situation a‑t‑elle eue sur les électeurs qui doivent remplir le bulletin de vote pour des personnes qui pourraient avoir certains enjeux, qu'il s'agisse de problèmes de mobilité, d'alphabétisation ou de déficience visuelle? Pouvez-vous nous en parler?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161726">
+            <PersonSpeaking>
+              <Affiliation DbId="323004" Type="28">Louis-Philippe Sauvé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922891">En fait, cela me rappelle que, le jour du vote par anticipation, je suis allé reconduire une de nos électrices, qui était non voyante. Elle avait des problèmes de vision. Ce genre de précaution existe déjà dans le système électoral, c'est-à-dire de permettre à un scrutateur déclarant sous serment qu'une personne exerce son droit de vote. Je ne pense pas que cela a eu une incidence considérable sur le résultat du vote.</ParaText>
+              <ParaText id="8922892">Cela étant dit, on s'entend sur le fait que la situation est pénible pour les électeurs, bien sûr. Cela n'a cependant pas eu d'incidence sur le résultat du vote, comme en témoignent non seulement ma victoire, mais aussi celle du nouveau député de <Affiliation DbId="322130" Type="2">Battle River—Crowfoot</Affiliation>.</ParaText>
+              <ParaText id="8922893">Ce n'est donc pas ce qui constitue le problème. Je vous dirais que, dans une certaine mesure, cela a aussi permis de...</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161735">
+            <PersonSpeaking>
+              <Affiliation DbId="319490" Type="40">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922894">Si vous me permettez de vous interrompre, personne n'affirme que le mouvement a eu une incidence sur le résultat général de l'élection, mais il a créé des difficultés pour les électeurs individuels, n'est‑ce pas?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161736">
+            <PersonSpeaking>
+              <Affiliation DbId="323004" Type="28">Louis-Philippe Sauvé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922895">Oui, absolument. Cela engendre certainement des défis, mais ces défis ne sont pas insurmontables, si et seulement si le directeur des élections prévoit les mesures nécessaires. Quand ce genre de situation malheureuse survient, c'est juste une question d'organisation, en fait.</ParaText>
+              <ParaText id="8922896">Pour répondre à votre question, je dirais que, dans une certaine mesure, cela a peut-être permis aux électeurs de mieux confirmer leur choix, c'est-à-dire de savoir véritablement pour quel candidat ils allaient voter. Dans le cas de cette élection, mon adversaire du NPD portait le même nom de famille que moi. Alors, forcément, quand nous communiquions avec les électeurs, nous insistions là-dessus. Dans nos communications, nous avons su nous adapter à la situation.</ParaText>
+              <ParaText id="8922897">Je ne dirais pas que c'est idéal, mais je ne pense pas que cela ait eu une incidence considérable sur le résultat.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161771">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922898">Merci beaucoup.</ParaText>
+              <ParaText id="8922899">Je souhaite la bienvenue à notre nouveau membre du Comité, M. Wilkinson.</ParaText>
+              <ParaText id="8922900">Vous avez la parole pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161781">
+            <PersonSpeaking>
+              <Affiliation DbId="323119" Type="47">L’hon. Jonathan Wilkinson (North Vancouver—Capilano, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922901">Merci beaucoup.</ParaText>
+              <ParaText id="8922902">Permettez-moi de poser une question à Mme Turnbull.</ParaText>
+              <ParaText id="8922903">Je participe à cette conversation en tant que personne favorable au débat sur la réforme électorale. Je pense que c'est une conversation souhaitable, mais il y a actuellement certaines avenues. Chose certaine, ceux qui y tiennent peuvent convaincre les partis politiques de l'intégrer à leur plateforme, comme les libéraux l'ont fait en 2015. Lorsque les gens viennent me voir à ce sujet, je leur dis que la meilleure façon de le faire est de montrer que la population s'en soucie. Si vous sondez les Canadiens sur cette question et qu'il y a 20 enjeux, la réforme se classe généralement au 18<Sup>e</Sup>, 19<Sup>e</Sup> ou 20<Sup>e</Sup> rang. L'autre chose, c'est que vous pouvez présenter des candidats centrés sur un seul enjeu qui se limitent à cette question précise.</ParaText>
+              <ParaText id="8922904">Par contre, le Comité du bulletin de vote le plus long peut à l'évidence être une source de frustration chez les électeurs. Si vous pensez aux files d'attente qui peuvent se former dans de nombreuses circonscriptions, les gens n'iront tout simplement pas voter. Ils vont s'éviter la file d'attente et ne voteront pas. C'est une tactique qui va à l'encontre des droits démocratiques des Canadiens.</ParaText>
+              <ParaText id="8922905">J'entends votre argument selon lequel on ne veut pas restreindre la liberté de choix des électeurs, mais je suis d'avis que nous le faisons déjà. Nous ne permettons pas aux Canadiens de signer les mises en candidature des personnes qui vivent dans la circonscription voisine; elles doivent vivre dans la même circonscription qu'eux. Nous l'avons donc déjà fait d'une certaine manière.</ParaText>
+              <ParaText id="8922906">Je suppose que ma question est la suivante: à votre avis, étant donné que cette tactique peut porter atteinte aux droits de ceux qui veulent vraiment voter, que devrions-nous faire à ce sujet si nous ne sommes pas prêts à imposer ce genre de restrictions minimales à la liberté de choix? Il me semble que limiter la capacité de signer à un seul formulaire de mise en candidature n'est pas une restriction particulièrement importante.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161859">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922907">Oui, je suis d'accord. Je ne pense pas que ce soit une restriction importante non plus. Il s'agit d'une restriction, mais nous pouvons probablement la justifier parce que, encore une fois, elle ne touchera pas beaucoup de gens en fin de compte.</ParaText>
+              <ParaText id="8922908">Je tiens également à répéter que j'ai trouvé la réponse d'Élections Canada fantastique: il faut écrire le nom du candidat. Dans Battle River—Crowfoot, il ne semble pas y avoir eu de problème à cet égard. Il n'y a pas eu un plus grand nombre de bulletins de vote annulés ou un enjeu semblable. Les choses se sont bien déroulées. Élections Canada peut changer de cap dans ce genre de circonstances. Par conséquent, si cette tactique revient, les responsables peuvent dire: « Eh bien, nous n'allons tout simplement pas imprimer un long bulletin de vote. Les gens vont écrire le nom du candidat, et c'est tout. » J'ai trouvé cette réponse formidable.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161867">
+            <PersonSpeaking>
+              <Affiliation DbId="323119" Type="47">L’hon. Jonathan Wilkinson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922909">Je vous remercie.</ParaText>
+              <ParaText id="8922910">Permettez-moi de vous poser une question plus générale sur l'incidence qu'a eue la montée de l'intelligence artificielle et des hypertrucages. Dans quelle mesure pensez-vous que nous devrions nous inquiéter du fait qu'il soit plus facile pour des acteurs étrangers d'essayer d'influencer nos élections? Que devrions-nous envisager de faire dans ce domaine?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161875">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922911">Je pense que c'est une grande source de préoccupation. Bien souvent, lorsqu’il y a des efforts étrangers visant à influencer la conversation pendant une élection, ces choses se produisent surtout à l'échelle communautaire. Il faudra beaucoup travailler auprès des groupes locaux de la diaspora pour comprendre ce qui se passe et le genre de communications qu'ils reçoivent. Nous faisons une partie du travail. Pendant la campagne électorale, j'ai suivi tout ce qu'a fait le Groupe de travail sur les menaces en matière de sécurité et de renseignements visant les élections, dans la mesure du possible, et il y a eu des annonces publiques sur ce qui se passait. Cette initiative aide les électeurs à savoir comment prendre les bonnes décisions et quels renseignements leur sont transmis. Dans plusieurs cas auxquels je pense en ce moment, l'intelligence artificielle entrait en jeu. Des efforts ont été déployés pour que l'information semble authentique et sophistiquée.</ParaText>
+              <ParaText id="8922912">C'est le monde dans lequel nous vivons. Je pense que c'est avant tout une question de sensibilisation. Il est très difficile d'essayer de contrôler la communication. Lorsqu'il s'agit de quelque chose comme l'intelligence artificielle générative dans les publicités politiques, je suis d'accord que nous ne devrions pas prendre cette voie, parce que c'est une élection. Il ne s'agit pas seulement d'essayer d'attirer l'attention des gens par les moyens les plus avancés. Nous donnons aux électeurs de l'information sur les personnes pour lesquelles ils devraient voter, et nous devons prendre la chose très au sérieux.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164798">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922913">Merci beaucoup.</ParaText>
+              <ParaText id="8922914">Monsieur Wilkinson, il vous reste cinq secondes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13164799">
+            <PersonSpeaking>
+              <Affiliation DbId="323119" Type="47">L’hon. Jonathan Wilkinson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922915">Très bien, je vais m'arrêter ici.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13161909">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922916">Je vous remercie, monsieur Wilkinson.</ParaText>
+              <ParaText id="8922917">Nous allons passer à Mme Normandin. Vous avez deux minutes et demie, je vous prie.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13161915">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922918">Merci beaucoup, monsieur le président.</ParaText>
+              <ParaText id="8922919">Monsieur Sauvé, vous avez parlé du fait qu'une pression accrue avait été exercée sur les travailleurs électoraux à cause de la longueur du bulletin de vote. Si ce genre de tentative de perturber le processus électoral était observé d'une élection à l'autre, n'y aurait-il pas un risque que les travailleurs électoraux abandonnent de plus en plus leur fonction en cours de route? Comme on le sait, ce ne sont pas tous les travailleurs qui se présentent aux bureaux de vote le jour de l'élection, ce qui peut causer des problèmes. D'ailleurs, pas plus tard que la semaine passée, nous avons parlé de bureaux qui n'ont même pas pu ouvrir parce que des travailleurs ne s'y étaient pas présentés.</ParaText>
+              <ParaText id="8922920">Ne devrait-on pas garder à l'esprit qu'on risque de décourager les travailleurs si des initiatives comme le bulletin de vote le plus long continuent à avoir cours?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161928">
+            <PersonSpeaking>
+              <Affiliation DbId="323004" Type="28">Louis-Philippe Sauvé</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922921">Absolument.</ParaText>
+              <ParaText id="8922922">Je veux être clair sur le fait que les parlementaires doivent agir pour décourager ce genre d'initiative. La question, c'est de savoir comment. La réponse vous appartient. Si on prend des décisions sous le coup de l'émotion, ça fait peut-être de la bonne politique, mais ça ne fait pas de bonnes politiques. Il est important de trouver la bonne façon d'agir.</ParaText>
+              <ParaText id="8922923">À mon avis, augmenter le nombre de signatures et imposer plus de restrictions en lien l'agent officiel sont de bonnes avenues. Toutefois, je ne pense pas qu'on devrait empêcher un citoyen ou une citoyenne de signer plus d'un bulletin. Il faut effectivement penser aux travailleurs électoraux.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161933">
+            <PersonSpeaking>
+              <Affiliation DbId="319491" Type="40">Christine Normandin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922924">Madame Turnbull, devrait-on inclure dans l'équation le risque que les travailleurs électoraux soient découragés de se présenter aux bureaux de vote s'ils savent qu'il y aura un bulletin de vote très long? Continueront-ils de s'y présenter?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161938">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922925">Je pense que oui. Ce sont vraiment ceux qui comptent ces bulletins de vote qui sont touchés par les gestes du comité du bulletin de vote le plus long. Chaque fois que cette tactique a été tentée lors d'élections partielles et d'élections générales, le nombre de personnes qui votent pour les personnes associées à cette organisation est minime. Le mouvement ne change le résultat nulle part, loin de là. Nous n'avons pas à nous en inquiéter de ce point de vue. Or, il y a une incidence sur l'administration et les opérations le jour des élections.</ParaText>
+              <ParaText id="8922926">Je comprends que les gens s'attendent à ce que les bulletins de vote soient comptés assez rapidement, et que nous voulons connaître les résultats. Je suis bien d'accord, mais le simple fait de parcourir ces bulletins de vote remplis à craquer... Le mouvement ne sert à rien. Ce serait différent s'il y avait un objectif démocratique, mais ce n'est pas le cas. C'est une perte de temps et un gaspillage de ressources.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161946">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922927">Merci beaucoup.</ParaText>
+              <ParaText id="8922928">Je crois que M. Calkins va commencer, mais qu'il partagera son temps avec M. Jackson.</ParaText>
+              <ParaText id="8922929">Je vous laisse le soin de décider du temps que vous prendrez.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161950">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922930">Merci, monsieur le président.</ParaText>
+              <ParaText id="8922931">Je remercie nos témoins.</ParaText>
+              <ParaText id="8922932">De toute évidence, le Comité est maintenant saisi des questions entourant le Comité du bulletin de vote le plus long. Je vous remercie tous les deux de votre présence.</ParaText>
+              <ParaText id="8922933">Je vais vous lire une déclaration, madame Turnbull, et je veux que vous me disiez si vous pensez que les intentions ou les motivations du Comité du bulletin de vote le plus long correspondraient à cette définition: tourner en dérision, faire une distorsion ou une déformation grossière des faits qui ne respecte pas ou mine l'esprit, les règles ou l'intégrité de la course.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161963">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922934">Je suis tout à fait d'accord avec le fait de tourner en dérision. Le libellé initial emploie « ou ». Il n'est pas nécessaire de satisfaire à ces trois critères.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161967">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922935">C'est exact.</ParaText>
+              <ParaText id="8922936">Savez-vous d'où je tire cette affirmation? C'est en fait le motif d'une punition d'inconduite pour une période de 10 minutes dans une partie de hockey.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13164692">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922937">C'est bien.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13164695">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922938">C'est ce qu'on appelle tourner le match en dérision.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161971">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922939">Voilà qui me plaît.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161974">
+            <PersonSpeaking>
+              <Affiliation DbId="319444" Type="47">Blaine Calkins</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922940">À ma connaissance, il n'y a pas de disposition semblable dans notre Loi électorale. Si un joueur, un entraîneur ou même un partisan tourne le match en dérision, il y a une conséquence à se comporter de cette façon.</ParaText>
+              <ParaText id="8922941">Le fait est que nous ne pouvons même plus faire obstacle aux candidats peu sérieux en exigeant un dépôt non remboursable. Nous avons perdu cet outil en 2017, avec la décision judiciaire de l'Alberta qui n'a pas été portée en appel. Vous dites que changer le processus qui amène les gens à signer les actes de candidature pourrait ne pas avoir le résultat escompté. Je me demande donc ce que nous pourrions faire.</ParaText>
+              <ParaText id="8922942">Je suis dans la circonscription voisine de Battle River—Crowfoot, en Alberta, et mes électeurs m'ont dit lors de l'élection partielle à quel point la situation était ridicule. Ils avaient honte de ce qui s'est passé juste à côté, où plus de 200 noms ont été inscrits sur le bulletin de vote. Ils ont utilisé des expressions comme « tourner en dérision ». Ils ont même présumé qu'il y avait des motifs plus malveillants derrière ce mouvement que ce qu'en pense la personne qui vient de témoigner.</ParaText>
+              <ParaText id="8922943">Croyez-vous qu'il soit possible de rédiger des dispositions législatives applicables? Qui serait chargé de déterminer si quelqu'un tourne en dérision nos élections ou les déforme grossièrement?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13161991">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922944">Tout d'abord, j'aime beaucoup l'argument selon lequel il faut essayer d'inscrire dans la loi un mécanisme qui protège l'intégrité des élections. À bien des égards, elle est mise à rude épreuve, et nous devons trouver des moyens de protéger le public. C'est vraiment ce dont il s'agit. Il faut protéger la capacité du public à choisir ses représentants sans que ce genre de campagnes prennent le dessus, alors qu'elles n'ont rien à voir avec le vote sur le bulletin dans cette circonscription donnée.</ParaText>
+              <ParaText id="8922945">Je pense qu'il y a moyen de trouver un libellé qui ne va pas trop loin. C'est la clé. Si la législation est trop rigide ou trop vaste, il y aura trop de chevauchements, de restrictions des droits, et de choses du genre, puis ce sera rejeté.</ParaText>
+              <ParaText id="8922946">Pour ce qui est de savoir qui prend la décision, je peux voir que l'affaire irait devant les tribunaux si les gens... C'est probablement là qu'elle finirait.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13164729">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922947">À titre d'information, quatre minutes et 20 secondes se sont écoulées.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13161999">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922948">Je serai très bref, monsieur le président.</ParaText>
+              <ParaText id="8922949">Je suis d'accord pour dire que nous avons probablement laissé cette farce continuer pendant trop longtemps, pour être honnête. Le type est ravi de n'avoir aucun vote dans une circonscription, ce qui a fait les manchettes internationales. Cependant, nous devons en tirer une leçon.</ParaText>
+              <ParaText id="8922950">En résumé, vous n'êtes pas en faveur de restreindre les signatures de façon à ce qu'un électeur ne puisse signer la mise en candidature d'une seule personne, mais vous seriez en faveur d'un changement afin qu'un agent officiel puisse représenter un seul candidat au pays. S'agit‑il d'un bon résumé de votre position?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162002">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922951">Absolument. C'est vrai, en ce qui concerne les agents officiels.</ParaText>
+              <ParaText id="8922952">Pour ce qui est de l'autre partie, j'aimerais que nous n'ayons pas à le faire. J'aurais aimé que nous n'ayons pas à restreindre les signatures, pour les raisons que j'ai mentionnées, mais je vais m'en accommoder. Je ne dirais pas que vous vous êtes trompé. Si vous décidiez d'aller dans cette direction, je comprendrais.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162010">
+            <PersonSpeaking>
+              <Affiliation DbId="319442" Type="47">Grant Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922953">Merci beaucoup.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162011">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922954">Vous avez un peu dépassé le temps imparti, mais c'était un exemple modèle de l'utilisation de 40 secondes. C'était excellent.</ParaText>
+              <ParaText id="8922955">Monsieur Louis, vous avez la parole.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13162014">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922956">Merci, monsieur le président. Je vais partager mon temps avec Mme Brière.</ParaText>
+              <ParaText id="8922957">Je vous remercie tous les deux de votre témoignage.</ParaText>
+              <ParaText id="8922958">Madame Turnbull, vous avez dit qu'il faut protéger l'intégrité de nos élections. Vous avez parlé de ce qui vous empêche de dormir la nuit. Le plus grand risque est la mésinformation et la désinformation, qui semblent provenir en majeure partie des médias sociaux.</ParaText>
+              <ParaText id="8922959">Vous y avez fait allusion, mais j'espère que vous pourrez nous en dire plus. Quel rôle le journalisme canadien joue‑t‑il pour lutter contre cette menace? Dans quelle mesure est‑ce important, et comment le Parlement peut‑il mieux soutenir notre propre journalisme et en faire une source d'information fiable afin que les gens ne dépendent pas uniquement des médias sociaux?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162018">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922960">En ce qui concerne le rôle des journalistes, l'un des problèmes que nous constatons, c'est que le journalisme d'enquête, qui contribue vraiment à informer les électeurs, reçoit peu ou pas de ressources. Les gens finissent par assimiler des faits, sans nécessairement avoir le contexte, la sensibilisation ou l'analyse qui les aideraient à devenir des citoyens mieux informés à bien des égards, et à devenir des lecteurs et des penseurs plus critiques.</ParaText>
+              <ParaText id="8922961">C'est notre objectif. Nous ne voulons pas que les gens se contentent de faire confiance à un journaliste et de lire ce qu'il écrit pour être informé. Cette propension crée un autre problème, à savoir que beaucoup de gens se limitent à leur propre chambre d'écho. Les gens n'assimilent pas tous les mêmes renseignements généraux, ce qui accentue la polarisation.</ParaText>
+              <ParaText id="8922962">Je simplifie vraiment à l'excès, mais il y a une relation entre la désinformation et la polarisation, où les gens ne vérifient pas leurs propres hypothèses dans un contexte plus global, parce qu'ils n'ont pas à le faire. Vous pouvez lire toute la journée, et vous ne serez exposé qu'à un très petit éventail d'idées.</ParaText>
+              <ParaText id="8922963">En ce qui concerne les journalistes, je n'aime pas la tendance que nous appelons la vérification des faits. Dès que nous prenons cette voie, quelqu'un lève la main et dit: « Non, ce n'est pas vrai. » C'est parfois utilisé à outrance, et je doute que ce soit nécessairement la bonne façon de procéder. Cela dit, il est important d'agir pour faire connaître les faits et établir une distinction entre les articles d'opinions et ceux qui sont fondés sur des faits, qui présentent la situation et invitent le lecteur à prendre position.</ParaText>
+              <ParaText id="8922964">Encore une fois, je comprends que l'éducation relève des provinces, mais il serait merveilleux de consacrer plus de ressources à des programmes — peut-être le journalisme en ligne ou écrit — qui aident à accroître l'engagement civique des gens.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13162044">
+            <PersonSpeaking>
+              <Affiliation DbId="319439" Type="47">Tim Louis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922965">Je vous remercie.</ParaText>
+              <ParaText id="8922966">Je cède la parole à Mme Brière.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162047">
+            <PersonSpeaking>
+              <Affiliation DbId="319436" Type="47">L'hon. Élisabeth Brière</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922967"> Bonjour à nos deux invités. Je les remercie de leur présence.</ParaText>
+              <ParaText id="8922968">Madame Turnbull, la loi prévoit des protections contre les publications trompeuses, l'influence étrangère indue et les fausses informations, mais ça ne s'applique qu'aux activités qui se déroulent au Canada.</ParaText>
+              <ParaText id="8922969">Croyez-vous qu'il serait judicieux d'étendre ces protections aux activités qui visent à perturber nos élections, mais qui viennent de l'extérieur du pays?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162052">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922970">L'ingérence étrangère me préoccupe certainement. Je pense qu'il nous est difficile de réglementer des aspects comme les sources d'information externes, la mésinformation et la désinformation et le contenu qui entre au pays. Nous avons du mal à le faire. À bien des égards, ces aspects risquent d'être beaucoup trop lourds et indésirables pour d'autres raisons également.</ParaText>
+              <ParaText id="8922971">Je sais que je me répète, mais je pense vraiment que le mieux, c'est que les gens s'informent par eux-mêmes et qu'ils acquièrent ces compétences essentielles. Ainsi, même si une chose a l'air poussée, ils connaissent différentes façons de vérifier deux ou trois fois pour ne pas se faire avoir. Il n'y a pas d'autre solution.</ParaText>
+              <ParaText id="8922972">Il devrait de toute évidence y avoir une reddition de comptes pour tout ce que fait le gouvernement, et pour d'autres choses aussi. Si des individus essaient délibérément de créer une instabilité et des perturbations dans une conversation sur la personne qui sera élue, il doit y avoir une reddition de comptes à cet égard, mais il y a des limites à ce que le gouvernement peut faire lorsqu'il faut vraiment que les citoyens soient en mesure de reconnaître eux-mêmes la mésinformation et la désinformation.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13162071">
+            <PersonSpeaking>
+              <Affiliation DbId="319436" Type="47">L'hon. Élisabeth Brière</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922973">Pensez-vous que la Loi électorale du Canada, telle qu'elle est actuellement, ouvre la porte à l'ingérence étrangère? Si oui, comment?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162080">
+            <PersonSpeaking>
+              <Affiliation DbId="322784" Type="28">Lori Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922974">Je ne trouve pas que la loi électorale actuelle est pleine de lacunes et de failles. Des acteurs étrangers malveillants ne la trouveraient pas particulièrement vulnérable. Je ne suis pas de cet avis. Je pense que l'ingérence étrangère, malheureusement, est un mode de vie, non seulement pour le Canada, mais aussi pour d'autres démocraties. Différentes démocraties adoptent des approches distinctes à cet égard. Parfois, ce sont des solutions législatives. Parfois, une sorte de commissariat est créé et se consacre à la sensibilisation sur l'ingérence étrangère et les différentes campagnes étrangères qui pourraient avoir une incidence sur les élections.</ParaText>
+              <ParaText id="8922975">À bien y penser, lorsque nous songeons à des choses comme l'ingérence, l'intrusion et l'influence étrangère, il y a toutes sortes de façons dont les acteurs étrangers pourraient essayer d'influencer la conversation. Elles ne sont pas toutes aussi problématiques. Celles dont nous devons nous préoccuper sont clandestines. Les gestes sont dissimulés pour que les gens ne soient pas censés voir qu'il s'agit d'un effort pour changer la conversation électorale ou pour induire en erreur les électeurs. Je pense que nous pourrions tous citer des exemples d'acteurs politiques d'autres pays qui adoreraient avoir un effet sur la façon dont notre politique est pratiquée. Ce n'est pas la même chose, parce qu'ils le disent à haute voix.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162094">
+            <PersonSpeaking>
+              <Affiliation DbId="319489" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8922976">Merci beaucoup.</ParaText>
+              <ParaText id="8922977">Je remercie les témoins.</ParaText>
+              <ParaText id="8922978">Nous avons eu deux séries de questions complètes. Je demande au Comité de lever la séance.</ParaText>
+              <ParaText id="8922979">Je vois des hochements de tête. La séance est levée.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

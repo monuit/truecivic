@@ -1,0 +1,1422 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13143134">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Agriculture and Agri-Food</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, September 25, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 25 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Agriculture and Agri-Food</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 25, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 004</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">25</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/25 15:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'agriculture et de l'agroalimentaire</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Agriculture and Agri-Food</ExtractedItem>
+    <ExtractedItem Name="Acronyme">AGRI</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Michael Coteau</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13143143">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair (Michael Coteau (Scarborough—Woburn, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905353"> I call the meeting to order.</ParaText>
+              <ParaText id="8905354">Welcome to meeting four of the House of Commons Standing Committee on Agriculture and Agri-Food.</ParaText>
+              <ParaText id="8905355">Today’s meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are attending in person in the room and remotely by using the Zoom application.</ParaText>
+              <ParaText id="8905356">Before we continue, I'd like to ask all in-person participants to consult the guidelines written on the cards on the table. These measures are in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including the interpreters. You will also notice a QR code on the card, which has a short link to an awareness video.</ParaText>
+              <ParaText id="8905357">I'd like to make a few comments for the benefit of the witnesses and members. Number one, please wait until I recognize you before you start talking. For those participating by teleconference, click on the microphone icon to activate your mic, and please mute yourself when you are not speaking. Two, for those on Zoom, at the bottom of your screen you can also select the appropriate channel for interpretation—either floor, English or French. For those in the room, you can use the earpiece and select the desired channel. Number three, I remind you that all comments should be addressed through the chair. For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can, and we appreciate your patience and understanding regarding these matters.</ParaText>
+              <ParaText id="8905358">We have a little committee business. Before we move forward, I’d like to ask members for their consent to adopt the budgets for both the briefing on tariffs and the current study of the committee on the government’s regulatory reform initiative. Draft versions have already been circulated. Are there any objections to or comments about the draft budgets? Is everyone fine?</ParaText>
+              <ParaText id="8905359">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8905360">
+                <B>The Chair:</B> Pursuant to Standing Order 108(2) and the motion adopted by the committee on Thursday, September 18, the committee is commencing its study of the government’s regulatory reform initiative in agriculture and agri-food.</ParaText>
+              <ParaText id="8905361">I'd like to welcome our witnesses here today. Thank you for joining us. We truly appreciate it. Joining us from the Canadian Food Inspection Agency is Robert Ianiro; from the Department of Agriculture and Agri-Food we have Steven Jurgutis; and from the Department of Health we have Matt Jones and Frédéric Bissonnette.</ParaText>
+              <ParaText id="8905362">I know that you have a speaking order you've agreed to. It will be up to five minutes for opening remarks, and then we'll proceed with a round of questions from all members. The list that I've been given is this: Steven, Robert and then Matt. Is that correct? Okay.</ParaText>
+              <ParaText id="8905363">We start with the Department of Agriculture and Agri-Food. Welcome.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143178">
+            <PersonSpeaking>
+              <Affiliation DbId="273703" Type="28">Steven Jurgutis (Director General, Policy, Planning and Integration Directorate, Department of Agriculture and Agri-Food)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905364">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8905365">Canada’s agriculture and agri-food regulatory framework is considered among the most robust internationally, supported by science-based decisions, trusted food regulatory bodies and a regulatory regime that strives to adjust to emerging challenges. These strengths can also lead to complexity, which can be challenging for businesses and producers to navigate, and be perceived as limiting for economic growth, innovation and competitiveness. Agriculture and Agri-Food Canada has been working with other regulators—primarily the Canadian Food Inspection Agency and Health Canada’s Pest Management Regulatory Agency—to address regulatory challenges facing the sector.</ParaText>
+              <ParaText id="8905366">On July 9, the <Affiliation DbId="318605" Type="4">President of the Treasury Board</Affiliation> launched a 60-day review of regulations across all departments and agencies with regulatory responsibilities. As part of this exercise, ministers were instructed to review regulations in their portfolios and propose measures to eliminate red tape. On September 8, departments and agencies from across the Government of Canada published progress reports on their respective web pages to outline early achievements and next steps in the ongoing commitment to eliminate red tape. Canada’s red tape reduction office, led out of the Treasury Board, will be working with federal regulators to move these initiatives forward, including undertaking consultations with partners and stakeholders.</ParaText>
+              <ParaText id="8905367">Agriculture and Agri-Food Canada and its portfolio partners welcomed this opportunity to highlight efforts to modernize agriculture regulations—to reduce red tape, improve service delivery and support innovation—without compromising the health, safety or environment of Canadians.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8905368">AAFC’s Progress Report includes 18 initiatives—six of which have been achieved and are ongoing or upcoming, some of which include proposed legislative modernization.</ParaText>
+              <ParaText id="8905369">Through a variety of initiatives outlined in the report, Agriculture and Agri-Food Canada is working to support a more streamlined and agile approach to the regulatory system. As an example, through the Department’s Agile Regulations Table—a novel government-stakeholder collaboration model launched in 2020—we have prioritized regulatory innovation and agility by jointly engaging industry and regulators to determine priorities and pursue regulatory innovation and experimentation. Through this table, we will continue to address the cumulative and economic impacts of regulations, aim to resolve persistent regulatory irritants and enable innovation through pilot projects.</ParaText>
+              <ParaText id="8905370">Another example is that Agriculture and Agri-Food Canada digitized and streamlined various processes under the Canadian Agricultural Loans Act Program, including for submitting loan registrations, defaults and claims for losses. This is expected to result in faster service delivery and further reduce the administrative burden on producers, lenders and public servants. Agriculture and Agri-Food Canada will continue its work to support a more streamlined and agile approach to the regulatory system. In fact, most of the ongoing initiatives outlined in the department’s report are anticipated to be completed within the next two years.</ParaText>
+              <ParaText id="8905371">We know that Canadian farmers depend on a nimble regulatory framework to foster growth and innovation in the sector. To support this growth and innovation, we remain committed to working with industry and regulatory partners to establish a more efficient, transparent and responsive regulatory system.</ParaText>
+              <ParaText id="8905372">As you will soon hear from my colleagues, taken together, the progress reports published by Agriculture and Agri-Food Canada, the Canadian Food Inspection Agency and Health Canada represent the start of a substantial red tape reduction agenda for the agriculture and agri-food sector.</ParaText>
+              <ParaText id="8905373">I would now like to invite my colleagues from the Canadian Food Inspection Agency and Health Canada to present their progress reports and their efforts to modernize regulations.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143196">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905374"> Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143197">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro (Vice-President, Policy and Programs, Canadian Food Inspection Agency)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905375">Mr. Chair, thank you for the opportunity to speak to you today about the Canadian Food Inspection Agency’s efforts to support regulatory reform and reduce unnecessary red tape.</ParaText>
+              <ParaText id="8905376">For several years, the CFIA has been modernizing its regulations. The goal is to reflect the latest science, remove outdated requirements, better align with international partners and create more flexible and agile frameworks. As part of the Government of Canada’s Red Tape Review, the CFIA examined its existing regulations and how they are administered to identify new opportunities to reduce red tape and support the economic growth and resiliency of the agricultural sector.</ParaText>
+              <ParaText id="8905377">We took a broad approach in our review. We looked at ways to remove unnecessary rules or prescriptive requirements in regulatory measures. We also considered non-regulatory actions to reduce duplication with other jurisdictions, streamline regulatory administration and improve service delivery. As we continue to find opportunities to reduce red tape, we remain committed to upholding the high standards that Canadians expect from our food safety and agricultural systems and to ensure access to international markets.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8905378"> Our progress report on red tape outlines 26 actions: 12 that are recently completed or imminent, and 14 planned actions in the short, medium and longer term. It includes a mix of regulatory changes, of which there are 10; policy measures, of which there are 13; guidance, two; and proposed legislative amendments, one. We have grouped these actions under key themes, such as removing outdated rules, improving alignment across jurisdictions, streamlining requirements and providing flexibility, and enhancing client experience.</ParaText>
+              <ParaText id="8905379">We deliberately identified policy actions where we could make progress in the short term, and longer-term initiatives where we need to further engage stakeholders and seek the appropriate authorities.</ParaText>
+              <ParaText id="8905380">I'd like to briefly highlight a few examples of where we are making progress.</ParaText>
+              <ParaText id="8905381">First, the CFIA has advanced an omnibus regulatory package focused on red tape. We have made a series of targeted amendments that address stakeholder issues by removing prescriptive requirements, providing increased flexibility for businesses, and levelling the playing field for Canadian producers. We are also looking to repeal outdated regulations that are no longer needed and burdensome without impacting health or safety.</ParaText>
+              <ParaText id="8905382">Second, we've identified a series of actions to support international alignment and collaboration with key trading partners. We can be more efficient in our pre-market assessment process by sharing information and recognizing decisions from trusted foreign partners. This approach will help get new products to market faster. For instance, we recently created an alternative pathway recognizing decisions from the U.S. and EU on certain feed products to expedite their pre-market assessment and product approval in Canada.</ParaText>
+              <ParaText id="8905383">Lastly, we know stakeholders want faster, more streamlined services and a more efficient delivery of services. That's why we're expanding our digital tools through the My CFIA online platform. For instance, we are moving various plant health programs online, creating a one-stop shop for stakeholders. We are also enhancing digital export certification to align with exporters' needs.</ParaText>
+              <ParaText id="8905384">All these efforts not only enhance client experience but enhance trade and access to international markets.</ParaText>
+              <ParaText id="8905385">In closing, our approach is about building a system that is efficient, predictable and responsive without compromising on science, food safety or market access. The actions outlined in our progress report are thoughtful, targeted and achievable, but we know that meaningful reform is not a one-time exercise. We will continue to work with stakeholders to identify new opportunities while delivering on the commitments we've already made.</ParaText>
+              <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+              <ParaText id="8905386">Together, these efforts will reduce red tape, foster innovation and enhance the competitiveness and resilience of Canada's agriculture and agri-food sector.</ParaText>
+              <ParaText id="8905387">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143240">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905388">Thank you so much. With seconds to spare, I appreciate that.</ParaText>
+              <ParaText id="8905389">Mr. Jones.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143243">
+            <PersonSpeaking>
+              <Affiliation DbId="322648" Type="28">Matt Jones (Assistant Deputy Minister, Pest Management Regulatory Agency, Department of Health)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905390"> Good afternoon. I'm Matt Jones, the assistant deputy minister for the Pest Management Regulatory Agency, and I'm joined by my colleague, Frédéric Bissonnette, who is the senior director general of operations.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8905391">The Pest Management Regulatory Agency is responsible for regulating pesticides under the Pest Control Product Act.</ParaText>
+              <ParaText id="8905392">The act sets out requirements for the assessment and regulation of pesticides in Canada, including the need for science-based regulatory decisions regarding pesticides. It also defines the agency's primary objective, which is to prevent unacceptable risks to Canadians and the environment from the use of pesticides.</ParaText>
+              <ParaText id="8905393">Pest control products are essential to the production of healthy and nutritious food. Pesticides, however, must be used carefully because of their potential toxicity. Before a pesticide is sold or used in Canada, it must undergo a scientific assessment by Health Canada. A re‑evaluation of registered pesticides is conducted at least every 15 years to ensure that they meet current standards. The evidence submitted to the agency is used to support the human health risk assessment. Special consideration is given to the possibility that a pesticide may have adverse health effects, including cancer and birth defects.</ParaText>
+              <ParaText id="8905394">Health Canada also does an environmental risk assessment. The assessment takes into account the way substances migrate and are transformed in the environment, as well as the associated risks.</ParaText>
+              <ParaText id="8905395">Lastly, we assess the value of the product, including its effectiveness, socio-economic impacts and overall contribution to pest management. Economic considerations include trade impacts on Canadian producers, crop value gains, access to alternatives, economic efficiency and broader social benefits, such as food security and public health.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8905396"> There are many scientists at PMRA, and they are conducting these risk assessments every day. They take their work of protecting health and the environment very seriously.</ParaText>
+              <ParaText id="8905397">PMRA's work also includes monitoring the risks of existing products on the market, for example, through periodic re-evaluations, special reviews, incident reporting and compliance and enforcement activities. Occasionally, over the course of this monitoring, new or unexpected risks can be identified, and these need to be addressed. This might result in changes in how a pesticide can be used or, in some instances, in products being removed from the market.</ParaText>
+              <ParaText id="8905398">For growers, potentially losing access to something they rely on for pest control can be extremely challenging, especially when alternatives are limited. While PMRA already consults on all of its decisions, we will enhance our engagement with growers, industry and provinces to learn more about how pesticides are being used in practice and to better understand the challenges that stakeholders are facing.</ParaText>
+              <ParaText id="8905399">We've been working through the red tape reduction report to identify a number of opportunities to improve how we are operating. This includes expanding joint reviews with trusted foreign regulators and strategically using reviews already conducted by other reputable regulators to accelerate our own endeavours. We are introducing a secure digital portal for real-time application tracking and modernizing pesticide labels to improve clarity, accessibility and efficiency. </ParaText>
+              <ParaText id="8905400">We're also proposing regulatory changes to eliminate unnecessary renewals that take time, consume internal capacity <I>[Technical difficulty—Editor]</I> from registration, freeing up resources to focus on higher-risk areas.</ParaText>
+              <ParaText id="8905401">Together these initiatives reflect a shift towards a smarter, science-based regulatory approach that is focused on risks and the needs of our stakeholders. </ParaText>
+              <ParaText id="8905402">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143277">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905403">Thank you very much, Mr. Jones.</ParaText>
+              <ParaText id="8905404">We'll go for six minutes to Mr. Barlow.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143279">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow (Foothills, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905405"> Thanks, Chair. </ParaText>
+              <ParaText id="8905406">Thanks to our witnesses for being here on what I think is a pretty critical study. </ParaText>
+              <ParaText id="8905407">Mr. Ianiro, it's good to see you again. Thanks for coming. I'm going to start with the CFIA. </ParaText>
+              <ParaText id="8905408">In its election platform, the Liberal government also committed to an amendment to or an expansion of CFIA's mandate to ensure that it also includes food security, the cost of food and economic impact on farmers and producers.</ParaText>
+              <ParaText id="8905409"> Has that change happened, and if not, when do you expect that change to the mandate to happen?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143284">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905410">The Canadian Food Inspection Agency was established under the CFIA Act, and it actually makes clear that the agency does, in fact, have a dual role. We're obviously a science-based regulator. We're dedicated to mitigating risks to food safety and protecting plants and animals, but we're also in place to facilitate trade. In fact, the act does make reference to—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143289">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905411">I'm sorry. It's a pretty straightforward question. Are you changing or are you adjusting the mandate to include costs and food security as part of the changes that have been promised by the Liberal government, yes or no? If it hasn't happened, do you have an idea of when it might? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143294">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905412">The change isn't required, because the economic aspects of trade and commerce are already in the preamble that establishes the mandate of the Canadian Food Inspection Agency.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143297">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905413">Okay, thank you.</ParaText>
+              <ParaText id="8905414">As you mentioned, the CFIA recently released its “Progress Report on Red Tape Reduction”. Mr. Ianiro, the comment that I'm hearing most from industry is that they were not consulted, or there was very minimal consultation. They were not allowed to really have a say in what those issues were that you put out there. </ParaText>
+              <ParaText id="8905415">How many days of consultation were provided to agriculture stakeholder groups, and were they permitted to submit recommendations for the red tape reduction report that you mentioned earlier?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143302">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905416">While there may not have been a formal consultation process, I can assure you that many of the examples I provided specifically came through input that was received from stakeholders. </ParaText>
+              <ParaText id="8905417">For example, the Fresh Produce Alliance of Canada asked for the prescriptive labelling changes as they relate to fruits and vegetables. </ParaText>
+              <ParaText id="8905418">The changes we made to leveraging foreign authorizations came from the Animal Nutrition Association of Canada.</ParaText>
+              <ParaText id="8905419">We were looking at, as you know, harmonizing our feed ban with the U.S., and that came from the CCA and the CMC.</ParaText>
+              <ParaText id="8905420">We heard from Maple Leaf Foods and Farm Credit Canada about wanting to level the playing field on how we address salmonella enteritidis testing for foreign importation of hatching eggs.</ParaText>
+              <ParaText id="8905421">I think we did our utmost. There's obviously more to do, but we definitely considered all the stakeholder feedback that we received and addressed it as best we could in our current progress report.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143319">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905422">Mr. Ianiro, thank you for your answers. We know the chief redress officer, as part of the CFIA, was a critical office that was eliminated by the Liberal government. We know that almost 27%, or well over a quarter, of all the complaints brought in by customers, producers and businesses to the CFIA were justified, and many of those decisions had to be reversed.</ParaText>
+              <ParaText id="8905423">Can you table with this committee an updated report on how many CFIA complaints have been received between 2015 and today, broken down by subject matter, by province and by the outcome of those complaints? That would be very helpful to this report, as well. </ParaText>
+              <ParaText id="8905424">Now I want to turn to AAFC. Thank you very much, Mr. Jurgutis, for being here. </ParaText>
+              <ParaText id="8905425">The sustainable agriculture strategy and what's come out of that is a big reason this study is happening and is a linchpin of why this is so frustrating. More than half of the farmers who were polled and surveyed on the sustainable agriculture strategy perceived it as a negative impact. Many thought it was onerous, and stakeholders were very negative on the impact of the SAS. In fact, the Canadian Canola Growers Association, the Canola Council of Canada, Cereals Canada, Grain Growers of Canada, Pulse Canada and Soy Canada have all abandoned this partnership. To quote those organizations:</ParaText>
+              <ParaText id="8905426">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">Together, we have consistently voiced that there is a lack of industry alignment regarding the targets and actions proposed in the SAS. As a result, we have collectively decided to step back from the Advisory Committee, as the strategy's direction does not fully represent the interests of our members. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8905427">To paraphrase that, what they're saying is that whatever suggestions or advice they're bringing to the advisory committee, Ag Canada is going in its own direction despite that. That's why they have stepped aside.</ParaText>
+              <ParaText id="8905428">Does the Liberal government still plan to impose the SAS on Canadian agriculture?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143346">
+            <PersonSpeaking>
+              <Affiliation DbId="273703" Type="28">Steven Jurgutis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905429">I would say that fairly extensive consultation was done for the SAS over a number of years. Certainly, there were differing views, in terms of perspectives and approach, from stakeholders and other groups as well. At this point, the work that's been undertaken on the SAS is, I would say, on hold. I wouldn't say it has been abandoned.</ParaText>
+              <ParaText id="8905430">In terms of directions and next steps, those are yet to be determined. We very clearly understood and heard the perspectives of, in particular, some of the stakeholders you've named, and others as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143353">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905431">Thank you. I appreciate it.</ParaText>
+              <ParaText id="8905432">I have one quick question for PMRA. </ParaText>
+              <ParaText id="8905433">The decision on dicamba resembles previous decisions on lambda cy and other neonics.</ParaText>
+              <ParaText id="8905434"> Why are we continually running into this problem where the re-evaluation of the decisions...where label changes are published before the science is done? This causes a lot of consternation within industry for farmers and producers. </ParaText>
+              <ParaText id="8905435">Why are we not learning the lessons from these continual mistakes on how PMRA reassesses these products?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143360">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905436">Give us a really short answer to this, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143362">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette (Senior Director General, Pest Management Regulatory Agency, Department of Health)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905437"> There is currently consultation on dicamba. We welcome input. Our planning can engage with the sector.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143367">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905438">Thank you so much.</ParaText>
+              <ParaText id="8905439">Next, we'll go to the Liberals for six minutes.</ParaText>
+              <ParaText id="8905440">We have MP Harrison online.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143372">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison (Peterborough, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905441">Hello, everyone.</ParaText>
+              <ParaText id="8905442">I'm here on my farm. It's raining, thank goodness. We've been in a pretty significant drought for a few months, so it's pretty nice to see the rain.</ParaText>
+              <ParaText id="8905443">Thank you for being here.</ParaText>
+              <ParaText id="8905444">My first question is for the Department of Agriculture.</ParaText>
+              <ParaText id="8905445">We are having stakeholders in the second hour. I know you are in regular contact with them, but I think it's really important to encourage you to follow this study closely. It's important to listen to the stakeholders and the people being heavily affected by the choices that are being made.</ParaText>
+              <ParaText id="8905446">On reducing regulatory red tape, what are some of the most common concerns you're hearing from farmers and producers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143382">
+            <PersonSpeaking>
+              <Affiliation DbId="273703" Type="28">Steven Jurgutis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905447">We have extensive engagement with representatives from across the agriculture sector. One thing I mentioned in my opening comments, and this is actually in the report as an example, is an agile regulations table that I co-chair with industry and representation across the sector, provinces and territories. We have an opportunity to have members of CFIA, PMRA and others be a part of that committee to explore together and look for opportunities to improve regulatory burden within the sector.</ParaText>
+              <ParaText id="8905448">A lot of what we hear through that table and through others, in conversations we have with the sector, are the aspects of what would be considered by some as unintended consequences and accumulative burden. We want to have a comprehension of the fact that there are often multiple layers of different types of regulations that impact a sector. They come from a wide number of regulators. It's not exclusively those you see seated before you at the table today, but a number of other regulators as well. </ParaText>
+              <ParaText id="8905449">I think we've made some good progress toward finding ways to not necessarily just make regulatory changes, but to have a better comprehension between regulators and the sector to understand what those burdens are, look for solutions and be able to bring things forward that could cut across the board.</ParaText>
+              <ParaText id="8905450"> As part of that group, we'd identified some 150 irritants. I think there were about 34 or 35 we were able to resolve. Some of those have to do with interpretations of regulations, timing of when consultations happen and various other aspects. </ParaText>
+              <ParaText id="8905451">I think the importance is on the ongoing engagement we have, which includes a multitude of regulators as well as a cross-section of the agriculture sector.</ParaText>
+              <ParaText id="8905452">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143400">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905453">Thank you.</ParaText>
+              <ParaText id="8905454">My question is for Mr. Ianiro. Mr. Barlow spoke on this, and I would like to go a little further with it. </ParaText>
+              <ParaText id="8905455">Understanding the need to balance reducing regulatory burden with safety, can you talk about the consultation process, what that actually looks like and how you decide who is part of the consultation process?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143403">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905456">We're always open and are constantly meeting with a broad range of stakeholders across all of our regulated areas, be it in areas of animal health, food or plants. We've gotten a fairly substantial list of feedback from a variety of stakeholders across those three areas. A lot of the actions we've taken in the short term, and for sure, in the second phase of our progress report, in more of the short-, medium- and longer-term initiatives, respond to that.</ParaText>
+              <ParaText id="8905457">We're constantly meeting with stakeholders. We're always open to hearing feedback. Many of the initiatives we have under way are going through either preconsultation phases or Canada Gazette. We're obviously looking at continuing to make any adjustments and receiving feedback from those stakeholders. A week doesn't go by when I don't meet with various stakeholders.</ParaText>
+              <ParaText id="8905458">Of course, we have our normal formal processes, either through prepublication or the gazetting process.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143417">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905459"> My question is for the Department of Agriculture. You spoke about the 26 actions, of which 12 are done and others are ongoing. The terms, I think, were the medium and long term. Would you say that the department is pleased with the progress you've made so far? Can you talk about some of the benefits that farmers and producers are seeing or have seen over the course of your efforts to reduce the regulatory burden?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143427">
+            <PersonSpeaking>
+              <Affiliation DbId="273703" Type="28">Steven Jurgutis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905460">Sure. A lot of the things that we put forward, as you'll see in the report, tend to be things that don't necessarily have a direct impact straight on producers but tend to have more indirect impacts on the kinds of organizations that they deal with. </ParaText>
+              <ParaText id="8905461">Some examples include things like the marketing boards that we have across the country. Right now, in order to make changes in the way the boards apply levies to their members, which is decided by their members, a federal change is required. That's an opportunity to be able to push that down to the provincial level and to enable those organizations, for example, to spend more time on the things that benefit their members in the sector versus looking to do things that are more administrative in nature. That's one thing I would mention.</ParaText>
+              <ParaText id="8905462">I think I did mention, as a highlight, that agile regulations table as something that we've found quite helpful and useful, and we've had very positive responses from the sector about it as well. One more thing I would touch on, as part of the Canadian Agricultural Loans Act program, is looking to modernize the way that the system works, to have different and better indicators for the kinds of information that farmers need to provide, which makes it easier for them to be able to get access in those circumstances to the loans they are looking to get, as part of the system that we have in support. </ParaText>
+              <ParaText id="8905463">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143472">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905464">I was raised in a farm family, and I think there's so much stress and burden when you're working with mother nature constantly and constantly battling the weather. The industry is quite complex, so I'm wondering what supports are available to industry for navigating how complex the sector is. Do you see people regularly taking advantage of those?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143477">
+            <PersonSpeaking>
+              <Affiliation DbId="273703" Type="28">Steven Jurgutis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905465">We have a fairly extensive support network of programs through business risk management, but also through a number of what we refer to as strategic initiatives, as part of our sustainable Canadian agriculture partnership. We have a lot available in terms of tools and resources for producers to take advantage of. We have, actually, a fairly advanced ChatGPT-style service that's available [<I>Technical difficulty—Editor</I>].</ParaText>
+              <ParaText id="8905466">It's important that producers realize that it's not only the federal programs but also the cost-shared provincial and territorial programs that they have available to them as well. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143489">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905467">I'm going to have to stop you there. Thank you so much, and I'm sorry to interrupt you. </ParaText>
+              <ParaText id="8905468">MP Perron.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13143491">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron (Berthier—Maskinongé, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905469">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8905470">Thank you to the witnesses for being here. We appreciate their availability.</ParaText>
+              <ParaText id="8905471">We're talking about reforms to increase efficiency and reduce red tape, and I think everyone agrees on the basic details. I am in regular contact with people in the agricultural sector, who tell me that the Pest Management Regulatory Agency's assessment and response times are extremely slow. For some products, it apparently took up to 10 years to get a response.</ParaText>
+              <ParaText id="8905472">Mr. Jones or Mr. Bissonnette, how do you explain that? It seems to me that 10 years is a long time. Something must have happened. Either you stopped the assessment and shelved it, or something else happened.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143502">
+            <PersonSpeaking>
+              <Affiliation DbId="322648" Type="28">Matt Jones</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905473">Thank you for the question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8905474">In terms of the time, certainly PMRA has faced many challenges with the volume of the work that we have. I think when the act was crafted, it said that we needed to do re-reviews, re-evaluations, every 15 years. There were hundreds of products. There are now between 7,000 and 8,000 products, so the volume is certainly an issue. </ParaText>
+              <ParaText id="8905475">We've also had to go through—on re-evaluations—many tens of thousands of pages of information in the literature that exists in order to do these reviews.</ParaText>
+              <ParaText id="8905476">I'm sorry. Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13143515">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905477">Did I understand correctly that your re-evaluations go back 15 years?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143519">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905478">It's more about the workload.</ParaText>
+              <ParaText id="8905479">According to the program, the assessment is done in co-operation with Agriculture and Agri-Food Canada, through the minor use program. The program generates data for us over several seasons. As a result, there is a long period between the time when it is determined to be a priority and the time when Agriculture and Agri-Food Canada can undertake the project. I must say that this department has limited capacity. Data can't be generated every year because of the weather. The people at Agriculture and Agri-Food Canada also have to create a file and send it to us for review. Given that we have limited resources, we sometimes work with the provinces to find out what the priority is for the group of products we have. Sometimes it can take time. It really depends on the active ingredient.</ParaText>
+              <ParaText id="8905480">I think I know which product you're talking about. Is it the one for beets?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143524">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905481">Could be.</ParaText>
+              <ParaText id="8905482">You say that you work with the provinces. People in the industry confirm that, for some products, you clearly work with the provinces. I think this co-operation is necessary, particularly with the Government of Quebec—you can guess where I'm from. However, I'm told that, in some cases, the Government of Quebec and its scientists are in favour of registration, but that you haven't taken that information into account. In your opening remarks, you talked about flexibility and openness to new information, and even the possibility of starting to work with other authorities. I think it's a good idea, but it will depend on the authorities you choose, obviously. Quality must be maintained.</ParaText>
+              <ParaText id="8905483">I didn't specify this when I started talking, but I'd like to clarify something: I'm not a scientist. If I say anything inaccurate, please feel free to correct me. I would like to remind you of something about the Quebec scientists who are presenting you with information: In Quebec, we are usually more rather than less demanding in terms of the environment. In any case, that's what our farmers will tell you.</ParaText>
+              <ParaText id="8905484">I don't understand that aspect. What is your response to that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143541">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905485">Thank you for the question.</ParaText>
+              <ParaText id="8905486">I can assure you that, when the Government of Quebec or any other government sends us information, we take it into account. In the case that I think you're referring to, there was some disagreement about the process. The disagreement was not about the data; it was about the process. Under the emergency registration program, we already have products registered for the crop in question. That is always our priority, because we have existing risk analyses.</ParaText>
+              <ParaText id="8905487">Sometimes provinces select products on the recommendation of producers, but we don't have risk analyses for those products. When we have to make a decision quickly to solve an urgent problem, our preference is always to choose existing products. We prefer to choose products for which there is a risk analysis for the crop.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143547">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905488">Okay.</ParaText>
+              <ParaText id="8905489">I take it that it doesn't necessarily mean that the other product isn't good, but that an analysis would have to be done. I'm somewhat reassured. I was afraid that, once again, the provinces had to sit and listen to the federal government that knows everything. That's not the case. I'm reassured.</ParaText>
+              <ParaText id="8905490">However, is there a way to do these analyses quickly? Is there a way to speed things up? I'm thinking, for example, of drones for spraying. If the products are registered to be sprayed from an airplane, then why not by drone? Why does it take time? It seems to me that there would be a lot less of it in the environment, that it would be much more localized. That would make sense to me as a non-scientist.</ParaText>
+              <ParaText id="8905491">I have limited time. You won't have much time left to answer my questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143562">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905492">Thank you for the question.</ParaText>
+              <ParaText id="8905493">There were scientific issues with drones at the outset. A drone with eight rotors may not behave in the same way as an airplane. Canada is not the only country to have raised the issue, but things are moving forward quite quickly. I'm pushing my team to have something in place for next year.</ParaText>
+              <ParaText id="8905494">As for interactions with the government, you may be pleased to know that we, along with Agriculture and Agri-Food Canada and the Canadian Food Inspection Agency, are organizing a discussion group with Quebec fruit and vegetable producers, for example. We will be able to discuss their problems and find solutions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143563">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905495"> Thank you very much.</ParaText>
+              <ParaText id="8905496">We're going to the second round. We'll have MP Bonk start for five minutes.</ParaText>
+              <ParaText id="8905497">Oh, I'm sorry, Monsieur Gourde. Please go ahead. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13143566">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde (Lévis—Lotbinière, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905498">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8905499">[<I>Technical difficulty—Editor</I>] registration of a new product, does the industry apply for it, or do you choose what would be, let's say, advantageous for Canada and for producers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143569">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905500">Thank you for the question.</ParaText>
+              <ParaText id="8905501">Generally speaking, the industry makes the application. There are special programs, such as the minor use one, that people may apply for. However, industry always has a say, because these are their products.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143574">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905502">When you do a study on a product, do you wait until it has already been registered abroad, or can you do it simultaneously with the other country? For example, if a registration application is submitted in the United States, is Canada able to participate in the study at the same time? That way, when the product is registered in the United States, Canada won't have to wait at least 10 years for the same product. It's about efficiency.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143576">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905503">Thank you for the question.</ParaText>
+              <ParaText id="8905504">For a new active ingredient, we work as far as possible with the U.S. agency. We are also trying to work with Australia because it is also facing some challenges and wants to work with us. We work together where we can, especially when it's a new product. Of course, when a product already exists, we look at what has already been done and determine whether it applies to current conditions in Canada, including environmental ones. It's always something we look at.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143582">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905505">Are there examples of products that have been registered in other countries but not in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143587">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905506">That is certainly the case, because the companies' priorities are not always the same, but Canada usually receives products at the same time as the United States.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143591">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905507">If there is a list of products that have never been registered in Canada, could you provide it to us?</ParaText>
+              <ParaText id="8905508">I would now like to come back to the subject of artificial intelligence, since I have a few concerns.</ParaText>
+              <ParaText id="8905509">Mr. Jones, going forward, do you think artificial intelligence will make your department more efficient and help it provide services to producers more quickly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143601">
+            <PersonSpeaking>
+              <Affiliation DbId="322648" Type="28">Matt Jones</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905510">Thank you for the question.</ParaText>
+              <ParaText id="8905511">AI is a key part of our efforts to make the process more efficient. We are now working with a new program, a new tool, to expedite the work of the Pest Management Regulatory Agency.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143605">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905512">Is this new program Canadian or American in origin? Is the general public aware of it?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143608">
+            <PersonSpeaking>
+              <Affiliation DbId="322648" Type="28">Matt Jones</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905513">I can't say whether it's of Canadian or American origin, but I can find that information and send it to you. This is a new program designed specifically for the agency. We use the information currently available to make the tool more effective and ensure that the work is of high enough quality.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143616">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905514">Thank you.</ParaText>
+              <ParaText id="8905515">Mr. Jurgutis, you talked about the improvement and flexibility of agricultural loans. What program were you referring to? Was that in relation to Farm Credit Canada? Are those loans from the department? It's not clear to me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143620">
+            <PersonSpeaking>
+              <Affiliation DbId="273703" Type="28">Steven Jurgutis</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905516">We have a number of initiatives, which are outlined in the report. All the elements that are described in the report are the responsibility of our department. As I mentioned, one example is the Canadian Agricultural Loans Act, which falls under our department's responsibility.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143626">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905517">Mr. Ianiro, you talked about improving the efficiency of the work, among other things. The government has given you a mandate to improve the situation. Isn't your permanent mission to improve the situation? If the government isn't asking you to improve, are you waiting for someone to ask you to do so? If you see that regulations contain something that makes no sense, why not make corrections along the way? Why don't you conduct a review every five years, without the government having to ask you to do so?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143635">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905518">We're always open to improvement. Every day and every week, we are making efforts to improve our requirements and regulations. It's not just about the process we're discussing today.</ParaText>
+              <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8905519"> We are constantly getting feedback from stakeholders. We are doing regulatory amendments, policy changes and guidance changes on an ongoing basis. What I covered today were just some of the things that we've done and tied to the progress report, but we're always open, and it's part of our job as a regulator to continue doing what is being suggested.</ParaText>
+              <ParaText id="8905520">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143643">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905521"> Thank you very much, sir.</ParaText>
+              <ParaText id="8905522">I'll go the Liberals for five minutes, with Mr. Connors.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143645">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors (Avalon, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905523">Yes, good day. Thank you for coming out.</ParaText>
+              <ParaText id="8905524">I'm going to go along the lines of updated regulations and stuff like that.</ParaText>
+              <ParaText id="8905525">Organizations like PMRA and CFIA are obviously large organizations, and these regulations are designated to keep Canadians as safe as possible.</ParaText>
+              <ParaText id="8905526">When it comes to outdated regulations, sometimes it may appear obvious, but how does the department determine when the regulations are outdated, and is there any review mechanism to consistently ensure that the regulations are current and working and benefiting farmers and Canadians?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143648">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905527">Perhaps I can start. There are a variety of inputs or things that would trigger a review. I think it could be a change made in some of our trading partners, so that we need to better align to ensure that we're competitive. It could be a change in science. For example, one of the initiatives that we have under way in the progress report is eliminating a bunch of aquatic diseases that had to be reported, and there were always additional import permits. </ParaText>
+              <ParaText id="8905528">We've continued to follow the science and have come to appreciate that those diseases are no longer an issue. We're eliminating those diseases from our regulations. </ParaText>
+              <ParaText id="8905529">It could be a combination of changing science and aligning to changes with our trading partners. There are a variety of inputs. I would say that this happens on a continuous basis. We appreciate the red-tape initiative that has been initiated by our colleagues at Treasury Board Secretariat. It's a laudable initiative, but as I said in my opening remarks, this is an ongoing initiative. This is the first stage, and we need to continue doing this. Hopefully that helps give some examples of what drives some of those ongoing regulatory changes. </ParaText>
+              <ParaText id="8905530">I should have mentioned clearly that feedback from our stakeholders is critical. When it doesn't compromise health and safety or put any of our trade agreements at risk, we're more than open-minded to making those changes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143658">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905531">When we're looking at reducing red tape and making the system less burdensome, how much work goes into ensuring that our regulations are still compliant with international standards and those of other countries? As we're looking to diversify our economy and move into areas where we haven't moved before, will the department take a proactive approach and look at those countries as they open up to us as potential trading partners?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143671">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905532">The very system that we have domestically in Canada for our food safety system is based and founded upon international standards. Canada is definitely recognized as a leader in the area of food safety, following those international standards. It is that very system and those regulatory requirements that are assessed by the foreign jurisdictions to determine whether we will be granted access to those markets. There's no doubt that any time we're making regulatory changes we're considering those impacts. </ParaText>
+              <ParaText id="8905533">I can give you a concrete example that is of interest to this committee. When we're looking at harmonizing our list of specified risk material with the U.S.—we are committed to doing that, and we are on track to do it—we want to consider the trade impacts. We want to do our part to level the playing field and make it competitive for Canadian producers, who, right now, are at perhaps a $25-million-a-year disadvantage. We also need to do this in a way that is accepted by our trading partners. We expect that will be the case, but we are doing our homework to make sure that none of those markets are impacted. We have no reason to believe they will be. That's a concrete example of how we consider the trade aspects, because it is very much founded on the regulatory system that we have within the country. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13143693">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905534">Are there any supports in place to help a farmer or producer who is looking at moving to an international market navigate some of the complex issues they would have to manage their way through? If so, do you see them regularly taking advantage of them?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143697">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905535">I'm going to have to intervene. Maybe we can answer that question in the next round, because time has run out. </ParaText>
+              <ParaText id="8905536">Mr. Perron, you have two and a half minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13143698">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905537">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8905538">Of course, everyone agrees that health and safety are paramount. We keep all of that in mind.</ParaText>
+              <ParaText id="8905539">Mr. Bissonnette, you said that drone technology is advancing quickly and that something should be in place in a year. However, you've been looking into this issue for a while now. How long have you been studying this issue?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143705">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905540">We are working on this issue with the Organisation for Economic Co-operation and Development. I don't have the exact date, but we may have started two years ago. The industry generated data to find out, for example, where droplets go when a drone is used for watering. We've been looking at this issue for about two years, but I'd have to check the exact date.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143709">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905541">As a neophyte, I find that quite long. However, if you work with the Organisation for Economic Co-operation and Development, that may explain certain things.</ParaText>
+              <ParaText id="8905542">Does that mean that the use of drones is not yet allowed elsewhere?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143712">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905543">It depends on the country. Some countries allow the use of drones. In a number of South American countries, for example, the solution is to use a backpack. In that case, exposure to substances is worse. In those circumstances, it would be better to use a drone. In Europe, it's more like in Canada. In the United States, a decision was made to allow the use of drones. It really depends on the country; it's not the same everywhere.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143719">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905544">Ordinary people will be happy to know that you are working on this. The use of drones seems logical to me.</ParaText>
+              <ParaText id="8905545">Does it often take up to 10 years to do an analysis? Do you have a list of the products that were analyzed and the time it took to do so?</ParaText>
+              <ParaText id="8905546">Right now, you're trying to improve the process. Does that mean it won't happen again? It seems to me that 10 years makes no sense.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143729">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905547">It really depends on the circumstances. In the case of minor-use products, the time frame can be long, as this is not solely the responsibility of the Pest Management Regulatory Agency. A series of steps have to be followed. I don't have the numbers with me, but only a certain number of products can be registered each year.</ParaText>
+              <ParaText id="8905548">As for the regular registration of products from the industry, there is currently a backlog. We have a plan to clear it. We believe it will take a year or two, excluding consultations.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143742">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905549">Okay. Thank you very much for your answers.</ParaText>
+              <ParaText id="8905550">Mr. Ianiro, I don't have time to ask you a question, but I do have time to tell you something about the reciprocity of standards: We would like to see a little more inspections at the borders. If you have any data on that, I invite you to send it to the committee. Thank you in advance.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143748">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905551"> Thank you very much.</ParaText>
+              <ParaText id="8905552">We have Mr. Barlow for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143756">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905553">Thanks, Mr. Chair.</ParaText>
+              <ParaText id="8905554">I'll go back to the PMRA, with Mr. Jones and Mr. Bissonnette.</ParaText>
+              <ParaText id="8905555">Saskatchewan and Alberta have had an incredible outbreak of gophers in the last couple of years. This year we've seen yield loss of higher than 25%.</ParaText>
+              <ParaText id="8905556">I talked to a farmer on the weekend who alone has lost 120 acres of canola twice—once in the spring and again this fall as a result of gophers.</ParaText>
+              <ParaText id="8905557">Alberta and Saskatchewan have asked the PMRA.... Well, I don't think Alberta has, but Saskatchewan has put forward an emergency-use order for permits for strychnine next season.</ParaText>
+              <ParaText id="8905558">It is my understanding that the departments of agriculture in Alberta and Saskatchewan worked with PMRA. They did a study that showed the use of strychnine under the right regulations, used properly, had no impact on predators or scroungers—no deaths occurred.</ParaText>
+              <ParaText id="8905559">What is the status of the use of strychnine in Alberta and Saskatchewan? They asked for it. Is PMRA looking at that and reinstating the use of strychnine? Otherwise, we're going to see catastrophic losses in yields next year.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143780">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905560">Currently it's not registered. It was banned in 2020.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143783">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905561">I believe it was.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143785">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905562">I don't believe we have received an actual emergency registration at the moment. I'll have to check. Last time I checked, earlier in the week, we hadn't had one.</ParaText>
+              <ParaText id="8905563">We are willing to talk to them. We actually met with the Canadian Federation of Agriculture yesterday to explore potential solutions. Because it was found to be unacceptable, we will have to find a way to proceed in that direction. We would have to have reassurance that the product can be used safely.</ParaText>
+              <ParaText id="8905564">With regard to the data in question that you're speaking about, yes, we worked with them to develop the protocol. We didn't actually conduct the study, obviously. The study did not demonstrate that the risks we identified previously were addressed. Essentially, there were prior studies conducted showing that the gophers were staying above the ground, which is the main issue, because the strychnine lingers in the tissue. That smaller-scale study actually showed that you still found gophers at the surface, but it was on a much smaller scale than some of the original ones.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13143802">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905565">Thank you.</ParaText>
+              <ParaText id="8905566">I'm going to continue the questioning of my Bloc colleague, by highlighting that it's taking 10 years to study the safety of herbicides, when it should take two to four years.</ParaText>
+              <ParaText id="8905567">At one time, Canada was in the top five countries in terms of timelines to get these products approved, but now we're near the bottom. We're under 20—I believe 21 is the number. In my mind, and certainly to the industry, this is unacceptable.</ParaText>
+              <ParaText id="8905568">Is it true that PMRA is not meeting its own standards in terms of timelines in getting active ingredients approved?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143814">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905569">Right now, we are not meeting the 90% meeting timelines. I think we're around 79%, for a variety of reasons. There is not one unique reason.</ParaText>
+              <ParaText id="8905570">We actually came up with a plan. We consulted with CropLife on a plan to get back to performance. We believe this year will be worse, because we're cleaning shop, but we believe that next year we'll be in a good spot to actually bring back performance to where it used to be.</ParaText>
+              <ParaText id="8905571">I will also highlight that the EPA is actually in a worse situation. They only met performance 20% of the time, so there is something going on among regulators.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143827">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905572"> I'm worried about you guys, though, so I appreciate that.</ParaText>
+              <ParaText id="8905573">Can you table with the committee how many new active ingredient joint reviews since 2020 have been registered with PMRA, and can you table with the committee the service standard performance results, broken down by category and review type? That would be very helpful as well.</ParaText>
+              <ParaText id="8905574">Sticking with the PMRA, the Liberal government is proposing to hike fees with PMRA substantially when it charges companies to keep crop protection products registered in Canada. My understanding is that the fees in Canada would be four times higher than those in the United States. When we're already having a difficult time encouraging companies to register and market their products in Canada because of the timeline it takes to get approved, now fees are going to be hiked substantially. I think that's going to have an incredible impact on our competitiveness.</ParaText>
+              <ParaText id="8905575">Can you tell me how much the PMRA is expected to collect from these fee hikes, and is it going to be used to improve services so that these timelines you're talking about, these 10 years, get back down to two to four years and get us back into the top five countries?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143850">
+            <PersonSpeaking>
+              <Affiliation DbId="322648" Type="28">Matt Jones</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905576">Quickly, on cost recovery, it is standard to review fees periodically. We haven't increased our fees since 2017. We did have a proposal out for public consultation. We received a lot of feedback on that proposal, and we're working on an alternative proposal that responds to the feedback we have received. Yes, we are hopeful that the revenues generated through those fees will allow us to expedite our processes along with the greater use of AI and the other mechanisms we're bringing forward to free up bandwidth and accelerate our processes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143855">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905577">Thank you very much.</ParaText>
+              <ParaText id="8905578">There were two items you asked to be tabled, right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13143859">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905579">Yes, that's correct.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143861">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905580">Mr. MacDonald, you have the final five minutes in this session.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143866">
+            <PersonSpeaking>
+              <Affiliation DbId="317619" Type="2">Kent MacDonald (Cardigan, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905581">Good afternoon, everybody. </ParaText>
+              <ParaText id="8905582">Thank you to the witnesses for attending today.</ParaText>
+              <ParaText id="8905583">I am going to follow up on the Bloc's questions about drones. I'm a farmer from P.E.I., and I am very enthusiastic about drone use. </ParaText>
+              <ParaText id="8905584">The process has been challenging to get the pesticide products approved for spraying. We've been using them for seeding, and we've been using them for fertilizing. The product-by-product approval process is slow. Is there a reason for that? I find a drone much safer than a self-propelled sprayer full of thousands of gallons of liquid.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143873">
+            <PersonSpeaking>
+              <Affiliation DbId="298608" Type="28">Frédéric Bissonnette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905585">We've had a lot of questions about how they behave compared to traditional helicopters or airplanes. We were not unique, and a lot of other countries had similar questions, like developing modelling like Accolade. If you spread that quantity at that speed, where would the droplets fall? That's why we work internationally, through EDC and with industry, to develop models, for example. </ParaText>
+              <ParaText id="8905586">There were also questions...because an airplane might be filled once or twice, whereas a drone is typically smaller and will have smaller reservoirs, so how often do you need to fill it? That is part of the risk assessment. If you fill it once, you're exposed once. If you fill it 20 times, you're exposed 20 times. Those are some of the questions we're trying to address to make sure that they can be used safely. We do believe that the technology will help, and we're pushing everybody to move this as quickly as we can.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143884">
+            <PersonSpeaking>
+              <Affiliation DbId="317619" Type="2">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905587">For the CFIA, you spoke earlier about an omnibus package of regulatory changes. When are these going to occur?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143888">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905588">Our submission has gone to TBS. That will be, obviously, subject to a Treasury Board meeting. I suspect that this is a priority, and I would suspect that the measures we put forward in the said omnibus bill will be advancing quite quickly, given the importance of carrying through and seeing progress in the areas we've shared. </ParaText>
+              <ParaText id="8905589">That is something that is part of the Treasury Board process, which I am not in a position to speak to, but I can assure you that this is being given the highest priority by the government and, I understand, the Treasury Board Secretariat.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143897">
+            <PersonSpeaking>
+              <Affiliation DbId="317619" Type="2">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905590">Since I don't know when I'll get to return to agriculture, I'm going to ask another question based on P.E.I. concerns. In P.E.I., because of the suspected potato wart, producers have been asked to fill out a separate permit every time they send soil samples to companies in Ontario or whoever may be doing their soil analysis. In the past, they were able to get a seasonal permit for sending the soil samples. It's very much an irritant with the producers that, for every individual soil sample, they have to get a new permit.</ParaText>
+              <ParaText id="8905591">Can you comment on that? Is there any way of eliminating that red tape for them?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143914">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905592"> I will have to take that back. I'm not sure. I'm sure that if there's an opportunity for us to look at that, we would, but I have to take it away. I'm not familiar with the issue you raise. I'm sorry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143918">
+            <PersonSpeaking>
+              <Affiliation DbId="317619" Type="2">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905593">Okay. Thank you for that.</ParaText>
+              <ParaText id="8905594">We were talking about scheduling and timing. As a final question, do you feel you're ahead of or behind your schedule? Do you have benchmarks that are going to make you achieve these regulatory changes faster?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143932">
+            <PersonSpeaking>
+              <Affiliation DbId="309424" Type="28">Robert Ianiro</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905595">From a CFIA perspective, we are definitely very confident that what we put forward is, as I mentioned in my remarks, achievable. We had one of the largest submissions of any of the regulators. In fact, the CFIA had the largest number of proposals. They are recognized as being some of the strongest. In fact, we were highlighted, I think, three or four times in the actual summary of the progress report. </ParaText>
+              <ParaText id="8905596">They'll be monitored very closely, and, as I mentioned, it's just the first tranche. We're confident that we have the plans and resources in place to execute them in the timelines that have been outlined in the progress report, and the progress reports will continue to be issued. I understand, in the future, that we'll give updates on what we've done as well as add additional initiatives that have been identified along the way. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13143939">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905597">Thank you for the questions. </ParaText>
+              <ParaText id="8905598">Thank you so much to our witnesses for being here. We appreciate your joining us.</ParaText>
+              <ParaText id="8905599">We will suspend now for five minutes and get ready for the next round.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144080">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905600"> I call the meeting to order.</ParaText>
+              <ParaText id="8905601">I would like to take a few moments to make some comments for the benefit of our new witnesses. Both of you were in the room when I did the first round of this, but I'll still go over it. </ParaText>
+              <ParaText id="8905602">One, wait until I recognize you by name before speaking. For those participating by teleconference, click the microphone icon to activate your mic and please mute yourself when you are not speaking.</ParaText>
+              <ParaText id="8905603"> Two, for those on Zoom, at the bottom of your screen you'll select the appropriate channel for interpretation: floor, English or French. For those in the room, you can use the earpiece and select the desired language.</ParaText>
+              <ParaText id="8905604">Three, I remind you that all comments should be addressed through the chair. </ParaText>
+              <ParaText id="8905605">Pursuant to Standing Order 108(2) and the motion adopted by the committee on Thursday, September 18, the committee is resuming its study on the government regulatory reform initiative in agriculture and agri-food. </ParaText>
+              <ParaText id="8905606">I'd like to welcome the witnesses who are joining us here today.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8905607">We have with us the Association des producteurs maraîchers du Québec.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8905608">Please excuse my French; I apologize.</ParaText>
+              <ParaText id="8905609">We have Mr. Patrice Léger Bourgoin and Catherine Lessard via video conference. We also have, from the Canadian Cattle Association, Dennis Laycraft, and from the Fruit and Vegetable Growers of Canada, we have Chris Duyvelshoff.</ParaText>
+              <ParaText id="8905610">Thank you so much.</ParaText>
+              <ParaText id="8905611">You'll have up to five minutes per organization to give opening remarks, and after that we'll proceed to a round of questions.</ParaText>
+              <ParaText id="8905612">I invite Mr. Léger Bourgoin to start.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144104">
+            <PersonSpeaking>
+              <Affiliation DbId="285811" Type="28">Patrice Léger Bourgoin (General Manager, Association des producteurs maraîchers du Québec)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905613">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8905614">Ladies and gentlemen of the Standing Committee on Agriculture and Agri-Food, good afternoon.</ParaText>
+              <ParaText id="8905615">Let us be clear from the outset: Protecting the health and safety of workers and consumers, as well as protecting the environment, are key issues. We must remain extremely vigilant at all times.</ParaText>
+              <ParaText id="8905616">Let us also be clear that the scientific independence of the Pest Management Regulatory Agency, or PMRA, must be recognized, maintained and unquestionable. However, the agency must demonstrate transparency, diligence and proactivity.</ParaText>
+              <ParaText id="8905617">In fact, the greater the scientific independence, the more transparent the process must be and the more clearly justified the decisions must be.</ParaText>
+              <ParaText id="8905618">Access to plant protection products is necessary to control pests and ensure food security. For this reason, the Association des producteurs maraîchers du Québec (APMQ) works closely with the Quebec Ministry of Agriculture and promotes emergency registration applications.</ParaText>
+              <ParaText id="8905619"> The APMQ also identifies the needs of the entire Quebec horticultural sector. For registration extensions, it collaborates in providing the information required by the PMRA.</ParaText>
+              <ParaText id="8905620"> Scientific independence and transparency, I repeat, also come with a receptiveness to new information to be taken into account in the registration of plant protection products. This new information may include monitoring data, field studies and usage information. The PMRA must assess the impact of its decisions on the day-to-day activities of a produce farmer.</ParaText>
+              <ParaText id="8905621">While other jurisdictions, such as the United States and the European Union, process similar applications within a reasonable time frame, we can only note, with great dismay, the excessive delays associated with the registration, registration extension or re-evaluation of plant protection products in Canada, especially in a context where market globalization puts us in competition with products from these countries that are sold in Canada.</ParaText>
+              <ParaText id="8905622">As we heard just a few minutes ago, long delays already existed, but they are now excessive and can take up to a decade. There are several reasons for this. Bureaucracy, which has become institutionalized to an excessive degree in some cases, has led to a clear loss of agility. Rigid processes mean that evaluation procedures are often lengthy, even for products that have already been approved for other crops in Canada. In addition, we can see that there is very little synergy between the PMRA and Agriculture and Agri-Food Canada. Finally, specifically for the horticultural sector, the underfunding of the Pest Management Centre creates undue delays in the extension of registrations, i.e., the addition of new crops or new pests for a plant protection product. It takes five years to add a new crop to the label. That is far too long for an agricultural sector that wants to be both innovative and dynamic.</ParaText>
+              <ParaText id="8905623">I will now give the floor to Ms. Lessard.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144135">
+            <PersonSpeaking>
+              <Affiliation DbId="302846" Type="28">Catherine Lessard (Associate Executive Director, Association des producteurs maraîchers du Québec)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905624">Furthermore, the regulatory framework is also ill suited to the context of climate change. The Pest Control Products Act dates back to 2002. Neither the regulations nor the procedures take into account the rapid evolution of technological innovations or sustainable agricultural practices.</ParaText>
+              <ParaText id="8905625">Here is an example that speaks for itself. On the one hand, the Canadian government rightly supports reducing pesticide use; on the other hand, curiously, the PMRA continues to study the use of drones, which would allow for more targeted interventions and substantially reduce the use of plant protection products. The same applies to precision sprayers.</ParaText>
+              <ParaText id="8905626">We emphasize the need to increase the efficiency, adaptability and predictability of registration processes. In Canada, the majority of vegetables are produced in very limited geographical areas. In the event of climatic or agronomic events in these areas, a large proportion of regional production can be lost, leading in the most extreme cases to shortages in local supply. Yield losses in the field caused by extreme weather events are becoming increasingly frequent.</ParaText>
+              <ParaText id="8905627">As pest control needs can vary depending on the region, crop type or agricultural practices, it is necessary to have access to a diverse selection of pest control products and methods. Over time, needs are increasing, but control tools are lagging far behind. Furthermore, the pressure this situation places on the profitability of vegetable farms is a cause for concern. Risk management programs that are ill-suited to the current climate context add to the damage already experienced by producers.</ParaText>
+              <ParaText id="8905628">In conclusion, the current approach is delaying access to safer and more effective solutions for farmers, which is undermining the competitiveness of Canada's agri-food sector. A rigorous but flexible and agile regulatory system is needed to meet the needs of the sector while preserving food safety and the health of citizens and the environment.</ParaText>
+              <ParaText id="8905629">This concludes our opening remarks.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144152">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905630"> That was exactly five minutes, and I appreciate that.</ParaText>
+              <ParaText id="8905631">Mr. Laycraft is next. You have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144155">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft (Executive Vice-President, Canadian Cattle Association)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905632"> Thanks, Mr. Chairman.</ParaText>
+              <ParaText id="8905633">Good afternoon, members of the committee and my fellow witnesses. Thanks for the invitation to appear today. This is an incredibly important issue for our industry.</ParaText>
+              <ParaText id="8905634">I'm the executive vice-president of the Canadian Cattle Association. I've been working on regulatory issues for many decades, and it is one of those competitiveness issues that we are constantly focusing on. This past year, I'm proud to say, thanks to very strong market conditions, that we're back to being the largest source of farm cash receipts in Canada. That has a lot to do with our market access and our ability to market our product as the highest-quality grain-fed beef in the world.</ParaText>
+              <ParaText id="8905635">I want to talk particularly about the Canadian Food Inspection Agency. They're our regulator, and they're charged with many parts of compliance for our industry—everything from meat inspection to some of the oversight on grading to process verification. I could go on on that. From our view, it's imperative that there's either a culture shift or a structural change to how those services are delivered.</ParaText>
+              <ParaText id="8905636">While we're hearing about some of the reforms—and they're welcome, as we do work closely with the agency—when you apply the lens of an enforcement regulator to a quality assessment or working on a process verification, you actually need different skill sets for each of those if you're going to do it efficiently.</ParaText>
+              <ParaText id="8905637">We're very interested in potentially looking at some restructuring. If you look at the United States, they have the AMS, the Agricultural Marketing Service, under the USDA. For the number of the approvals and their work on quality assessment, we've seen large numbers of approvals occur in months, whereas in Canada it takes years to get that done, and time is money when you're in the process of competing in these various markets that we're looking at.</ParaText>
+              <ParaText id="8905638">As we have a look at this regulatory process, we approach it with a competitiveness lens as well. We truly believe Canada has some of the greatest potential in the world to increase our high-quality agriculture exports and will be one of the leading food producers in the world. We think it will actually drive some of the important competitive growth in our economy.</ParaText>
+              <ParaText id="8905639">There are a few examples I want to point to, but I'll preface those with this. Last year, we exported 7 billion dollars' worth of beef and live cattle, and $6 billion of that goes to the United States. It just stresses the importance not only of that market itself, but also of regulatory alignment with that market. </ParaText>
+              <ParaText id="8905640">We heard earlier about the movement on the specified risk material. We actually helped fund and worked closely with the agency on the risk assessment, but that's the easy part. Now we get into the regulatory change. How many years is that going to take if we don't put the right lens on getting that done when it certainly has a negative impact on our industry? We're confident that with the risk assessment we can move forward with those changes and still maintain our full market access around the world.</ParaText>
+              <ParaText id="8905641">Regarding the “product of Canada” labelling, right now we have a requirement that the animals have to be in Canada for 60 days, just as an example. On the other hand, we just worked hard, going around the world to confirm that actual slaughter conveys origin. That's the basis on which we are arguing to get rid of the mandatory country of origin labelling requirements in the U.S. It's about getting consistency with the international requirements.</ParaText>
+              <ParaText id="8905642">We heard about the harmonization of regulations on drug registrations with the U.S. Again, even when you get to generics, you're actually behind when the generics become available, and it becomes even more significant. We've seen good progress there, but we need to continue working actively on this.</ParaText>
+              <ParaText id="8905643">I have mentioned the need for structural change. That is something we'd like to focus more on, but we can do that with some examples later in the question period.</ParaText>
+              <ParaText id="8905644">At this time, I want to thank you for the chance to raise these issues, and I look forward to the conversation.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144224">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905645">You have 10 seconds to spare. Thank you so much. I appreciate that.</ParaText>
+              <ParaText id="8905646">Next, we'll go to the Fruit and Vegetable Growers of Canada for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144226">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff (Chair, Crop Protection, Fruit and Vegetable Growers of Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905647"> Thank you, Mr. Chair and honourable members, for the invitation.</ParaText>
+              <ParaText id="8905648">My name is Chris Duyvelshoff, and I'm representing the Fruit and Vegetable Growers of Canada. I am pleased to appear today because the committee study focuses on the heart of our work: ensuring that science-based regulation supports reliable and accessible Canadian-grown food. </ParaText>
+              <ParaText id="8905649">Your attention to CFIA and PMRA reform is an opportunity to align strong protections with practical delivery on the farm. FVGC supports strong, evidence-based regulation. Canada can uphold high standards while improving predictability and minimizing impacts to food production by using a food lens to make policy decisions. Right now, decisions at PMRA and CFIA are not viewed through a food lens. This results in two major problems for growers.</ParaText>
+              <ParaText id="8905650">First, crops don't wait, and neither do pests. Farmers need predictable science-based approvals so they're not left without crop protection tools.</ParaText>
+              <ParaText id="8905651">Second, farms already meet strict CanadaGAP food safety audits yet face repeated checks for the same rules.</ParaText>
+              <ParaText id="8905652">When Canadian regulators make decisions, they already assess human health and environmental evidence. A food lens adds a complementary perspective. What does this decision mean for food security and a stable domestic food supply? Using a food lens as a guide, FVGC proposes the following five practical changes at PMRA and CFIA that would support producers and enhance food security.</ParaText>
+              <ParaText id="8905653">First, we recommend that PMRA utilize existing reviews from comparable regulatory agencies where scientific standards and the evidence base are equivalent. When peer regulators such as the U.S. Environmental Protection Agency and other OECD agencies have completed comparable risk assessments, Health Canada should recognize those assessments and the underlying data while addressing Canadian-specific considerations as needed.</ParaText>
+              <ParaText id="8905654">Second, we recommend that PMRA develop regulatory pathways for new technologies such as drones with the U.S. Environmental Protection Agency and other global regulatory partners. The use of aerial drones provides the opportunity to protect crops where ground-based application systems cannot be used. For example, after a flooding event, a field may be too wet to use traditional tractors and sprayers. American growers have had access to this technology for several years. </ParaText>
+              <ParaText id="8905655">Despite the PMRA working on a regulatory framework for drone technology since 2019, there remains no clear pathway for approval in Canada.</ParaText>
+              <ParaText id="8905656">Third, we recommend that the minor-use pesticides program be properly resourced for its mandate and aligned with the U.S. by waiving annual fees for products used solely on minor-use food crops. Additionally, for submissions that make small common changes, such as adding a crop or pests in a greenhouse, PMRA should skip formal consultations.</ParaText>
+              <ParaText id="8905657">Fourth, we recommend that the emergency-use registrations for unmanageable pest outbreaks be authorized for up to three years, with accelerated timelines for critical cases. To minimize the need for emergency uses during special reviews and re-evaluations, preconsultations with affected stakeholders should be permitted so that solutions can be identified early.</ParaText>
+              <ParaText id="8905658">Finally, we recommend that the CFIA eliminate duplication and enhance standardization to reduce the audit burden. For example, CFIA should formally recognize CanadaGAP and other certification programs recognized by the Global Food Safety Initiative to eliminate duplicative regulatory requirements.</ParaText>
+              <ParaText id="8905659">Additionally, inspector protocols and training should be standardized nationally so that enforcement is fair, risk-based and predictable across Canada. Moreover, phytosanitary export documentation should not be duplicated when such information is already available, and approvals from one agency, such as CFIA, should be respected by others, such as CBSA, to avoid repeat inspections of the same elements. </ParaText>
+              <ParaText id="8905660">In closing, Canadians expect food to be plentiful and safe. By making decisions through a food lens, the government can deliver both.</ParaText>
+              <ParaText id="8905661">Thank you for your time. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144302">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905662">Thank you very much. </ParaText>
+              <ParaText id="8905663">I'll go to Mr. Epp for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144304">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp (Chatham-Kent—Leamington, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905664">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8905665">I would just like to say it's good to be back on a permanent basis, as much as I enjoyed being a semi-permanent guest in the last Parliament.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144309">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905666">We're glad to have you back.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144310">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905667">I'll direct my questions initially to Mr. Duyvelshoff.</ParaText>
+              <ParaText id="8905668">In the opening testimony from Matt Jones, the ADM for PMRA, he basically outlined the PMRA mandate, saying that what is at the core is keeping Canadians safe. We've heard testimony about how far we're behind, particularly compared to our U.S. counterparts. </ParaText>
+              <ParaText id="8905669">Are you aware of the reconciliation between imported foods that perhaps are already registered or are not registered or are using other products that aren't for use here in Canada? Is there a link between PMRA and CBSA import mechanisms?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144321">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905670"> In terms of imported food, PMRA would look at whether or not those residues are allowable from the perspective of human health, but it would not consider whether those could be used by Canadian growers at that point, because they haven't been, necessarily, applied for use in Canada by a company.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144327">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905671">Thank you.</ParaText>
+              <ParaText id="8905672">Practically speaking, there is no mechanism. As I understand, food is not being inspected on the way in for that, or is it?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144333">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905673">That is a good question. I do not know the answer to what level of import scrutiny is being done. I do believe CFIA has a testing program to look at imported food and residues, but I don't know the specific details on that today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144336">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905674">With your work on the IR-4 project or our minor use of the IR-4, can you talk a bit about climatic zones? Does the PMRA recognize where we have similar zones between where I'm from in southern Ontario and Michigan, Quebec and New York state, Montana and our western provinces? Is that being acknowledged? Is that being accepted in their reviews and their assessments?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144348">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905675"> There is a North American zone map, and research trials that are conducted in similar geographic and climatic areas can be used interchangeably between Canada and the U.S., like in an Alberta and Montana trial. One good thing to expand that further would be to look at that on a global basis. Do we have similarities between, let's say, here and Europe that we can do the same thing with?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144355">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905676">I understand that, but if the PMRA is looking at that, then why isn't that resulting in similar time standards in having our products either re-evaluated or approved for use?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144360">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905677"> It's a great question. What often occurs is that the same data goes into PMRA and the U.S. Environmental Protection Agency, and a different outcome comes out, at the end of the day. I cannot explain why that is.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144362">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905678">That's interesting.</ParaText>
+              <ParaText id="8905679">The statement was made that service standards were 79% being met by the PMRA, whereas the EPA was at only 29%. Again, with your international work, would you be aware that those service standards are the same? Is the EPA holding itself to the same kinds of service standards as the PMRA? Otherwise, we're comparing apples and oranges.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144371">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905680"> PMRA has certain application categories that I know they measure their performance against. Whether or not those are the same types of categories as the EPA is using, I'm not sure. I have heard, though, that companies that are looking to get new technologies registered in Canada are facing the longest wait times they've ever had.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144375">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905681">In discussions with a crop protection industry representative—now this, granted, was over a year ago—I was led to believe that when companies applied for reassessment and submitted their information, they were not able to use a new technology called email and actually had to fax all of the things in. The PMRA was working on a seven-year project to bring a new technology in for use, using online email. Can you comment?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144381">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905682"> At the Fruit and Vegetable Growers of Canada, we don't submit applications to PMRA directly ourselves, so I can't comment on that process.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144383">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905683">On the transformation initiative that has already absorbed over $80 million of government funds into the PMRA, what impact has the industry seen from that? Has there been any kind of improvement in service standards or anything positive back that the industry has seen from that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144390">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905684"> Yes, I'd say, speaking candidly from the industry perspective, we haven't seen any positive impact from that investment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144395">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905685">It was mentioned in Mr. Laycraft's testimony that structural change should be considered. Can you comment on whether the movement of PMRA to another...? I'll ask Mr. Laycraft to comment on this as well. I ask for your perspective, and then I'll go to Mr. Laycraft.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144397">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905686"> I think the movement of PMRA itself, without changing how it functions, won't result in meaningful change. We need to look within the policies and procedures at PMRA itself.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144402">
+            <PersonSpeaking>
+              <Affiliation DbId="320148" Type="47">Dave Epp</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905687"> Thank you.</ParaText>
+              <ParaText id="8905688">Mr. Laycraft—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144404">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905689">I'm going to stop you there. Your six minutes are up. Thank you, sir. </ParaText>
+              <ParaText id="8905690">We're going to go to the next speaker, MP Chatel. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13144406">
+            <PersonSpeaking>
+              <Affiliation DbId="319878" Type="47">Sophie Chatel (Pontiac—Kitigan Zibi, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905691">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8905692">I would like to thank the witnesses for being here.</ParaText>
+              <ParaText id="8905693">Our government was elected to build a strong Canadian economy. However, as we know, one of the major obstacles to growth, especially in the agricultural and agri-food sectors, is the accumulation and rigidity of regulations and requirements, as well as service delays.</ParaText>
+              <ParaText id="8905694">In July, we asked all departments to undertake a major review to reduce red tape, eliminate duplication and improve services. The progress report was tabled in September by all departments.</ParaText>
+              <ParaText id="8905695">We really want to hear feedback from representatives of the Food Inspection Agency and the Pest Management Regulatory Agency. The changes that were listed earlier with respect to regulations in all sectors, whether it be harmonization, technology registration or new products approved in a trading country, such as the United States or Australia, or in Europe, are already in the progress report.</ParaText>
+              <ParaText id="8905696">The question I really want to ask all the witnesses is this: Is it ambitious enough?</ParaText>
+              <ParaText id="8905697">If not, can you tell us where it is not ambitious enough? I would like to hear your comments, one at a time. If you do not have time to answer my questions, I would ask you to submit your response in writing to tell us where federal agencies and departments should be more ambitious in this process.</ParaText>
+              <ParaText id="8905698"> I would first like to hear Mr. Laycraft's response. Then Mr. Duyvelshoff and the witnesses participating by video conference can answer my questions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144429">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905699">That, I think, is the critical question when we talk about restructuring. The restructuring isn't changing names; it's changing expertise in some of these as we go through process verification. I'll use an example. We've been working since 2017 to get third party verifiers for the EU program, and we're still working on one and two. Right now in the U.S., through AMS, they have a group of experts who specialize in that. In 2010, it took them six months to approve their first third party verifier, and today they have 52 third party verifiers available. </ParaText>
+              <ParaText id="8905700">You create, first of all, the mandate that they're measured against to get this done. You don't necessarily put a meat inspector there. They're incredibly important, and we need them to do their job. Health and safety is something we all believe in, but when it comes to doing these things, it may be that a country has certain certification, maybe halal certification—we're dealing with that with Indonesia right now—that's not food safety. That is a procedural thing that we need to get verified.</ParaText>
+              <ParaText id="8905701">In the U.S., FAS, the Foreign Agricultural Service, and AMS deal with that, and they deal with it very efficiently. That's what we're talking about. You put the mandate. If it's more about marketing and quality, keep the meat inspectors, those people in charge of ensuring healthy food for Canadians, which is a different expertise. That's certainly what we believe. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13144442">
+            <PersonSpeaking>
+              <Affiliation DbId="319878" Type="47">Sophie Chatel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905702">Thank you, Mr. Laycraft.</ParaText>
+              <ParaText id="8905703">Mr. Duyvelshoff, I would like to hear your comments on this matter.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144443">
+            <PersonSpeaking>
+              <Affiliation DbId="322628" Type="28">Chris Duyvelshoff</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905704">I would like to comment specifically on international collaboration, because that is one of the items that is mentioned in the report. This would be co-operation with other countries such as Australia, New Zealand and so on. </ParaText>
+              <ParaText id="8905705">The important part that is lacking for us is taking other countries' reviews and using them to substitute for work done in Canada, not simply discussing what either country feels about what the data says but trusting it to the point of using that to make decisions in Canada. That is the level of co-operation that Fruit and Vegetable Growers of Canada would like to see. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13144451">
+            <PersonSpeaking>
+              <Affiliation DbId="319878" Type="47">Sophie Chatel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905706">Thank you very much.</ParaText>
+              <ParaText id="8905707">Mr. Léger Bourgoin, what are your thoughts on this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144454">
+            <PersonSpeaking>
+              <Affiliation DbId="285811" Type="28">Patrice Léger Bourgoin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905708"> We agree with what our colleagues have said. It all depends on how agile we are in implementing the new procedures.</ParaText>
+              <ParaText id="8905709">What I have noticed about governments, whether it be the Government of Quebec or the Government of Canada, is that they have reached a point of zero risk-taking. Risk management must be considered in a context where the world is changing rapidly and where we are facing the globalization of markets. We must therefore be able to ensure both food integrity and food safety in Canada. However, there is no such thing as zero risk. This is true even in Canada. During the previous legislative session, Canadian government officials addressed the committee on the issue of risk management for products from abroad.</ParaText>
+              <ParaText id="8905710">My comment may sound like an editorial on the issue. Sometimes, when it comes to risk management, we are much more flexible or show greater latitude for products from outside Canada than for local products, where the chain of traceability is often much clearer—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144467">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905711">I must stop you there, Mr. Léger Bourgoin. Thank you.</ParaText>
+              <ParaText id="8905712">Mr. Perron, you now have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144470">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905713">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8905714">I would like to thank the witnesses for taking the time to appear before us today. It is greatly appreciated.</ParaText>
+              <ParaText id="8905715">Ms. Lessard, in your remarks, you mentioned the lack of flexibility in the context of climate change. Could you elaborate on that by giving us an example so that we can fully understand what you mean?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144473">
+            <PersonSpeaking>
+              <Affiliation DbId="302846" Type="28">Catherine Lessard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905716">Yes, absolutely.</ParaText>
+              <ParaText id="8905717">We must consider climate change, but we must also take into account the concrete data provided by producers. In some cases, such as in Quebec, we notice that certain data or geographical information is not necessarily taken into account.</ParaText>
+              <ParaText id="8905718">I will give the example of our emergency registration application submitted to the Pest Management Regulatory Agency for a product called Command 360 ME. As part of our application, we provided studies to the PMRA. In addition, there was a consensus among experts, the Quebec government and Quebec producers to request emergency registration of this product. We also presented studies conducted in the Quebec context. The PMRA refused our application for emergency registration, stating that according to studies conducted in Ontario, there were alternative pesticides and herbicides available. However, these products are not acceptable to us and do not work in the Quebec context. Emergency registration was not granted and, as a result, producers did not have herbicides for beets for the 2025 production season. This is all the more unfortunate given that the alternatives proposed by the PMRA were more harmful to health and the environment than the product requested by our association.</ParaText>
+              <ParaText id="8905719">This type of Canada-wide approach is clearly problematic and does not take into account our specific situation. Whether we are talking about climate, soil type, needs or molecules, the data we need to obtain emergency registration may vary. We regret that this was not taken into account by the PMRA.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144491">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905720">Could you send us some details on this?</ParaText>
+              <ParaText id="8905721">I don't know if you were there at the beginning of the meeting, but I asked the PMRA representatives a question about this. They replied that they were turning to products that had already been approved because they did not have time to study other products. It is as if the same product could be applied everywhere. In my opinion, this is an interesting case that could enlighten the members of the committee.</ParaText>
+              <ParaText id="8905722">I would now like to talk about delays. You mentioned a period of up to 10 years. I discussed this with the PMRA earlier, and they tried to give us an answer. Between you and me, a 10-year delay seems unreasonable. Does this happen often? How do you explain it? What does the PMRA need to change to prevent this from happening again?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144501">
+            <PersonSpeaking>
+              <Affiliation DbId="302846" Type="28">Catherine Lessard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905723">My response will be similar to that of the PMRA representatives. It is true that studies must be conducted by the Pest Management Centre. This often takes two or three years, which lengthens the process. It necessarily adds several years to the process of adding a product to the label. It's not complicated: Even if it's just a matter of adding a single crop, it can take four to five years if all goes well, which is certainly too long. Added to this is the re-evaluation process, as mentioned, which takes place after 15 years. When a plant protection product is being re-evaluated, no new additions can be made to the label. This leads to extraordinary delays, which can indeed exceed a decade. It is therefore a combination of several factors that causes these unacceptable delays.</ParaText>
+              <ParaText id="8905724">In the case of emergency registrations, which are used to respond to very specific and urgent problems, we are faced with delays of three months in the best-case scenario, and more than six months in the worst-case scenario. Delays of three to six months to respond to emergency situations are unacceptable. As a result, we often receive the results after the emergency has passed. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144526">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905725">In your statement, you mentioned drones, a topic that interests me greatly. Producers have contacted me, and not just official associations, and they can't believe they can't use drones when they can spray the same product with a plane or helicopter.</ParaText>
+              <ParaText id="8905726">How long has the PMRA been working on this issue, and how do you explain the delay? What could be changed?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144535">
+            <PersonSpeaking>
+              <Affiliation DbId="302846" Type="28">Catherine Lessard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905727">Mr. Bissonnette, the representative from ARLA, mentioned that studies to collect data had been under way for two years. That said, there had been discussions about drones before that; drones already existed. In my opinion, it has therefore been more than two years.</ParaText>
+              <ParaText id="8905728">It should be noted that, although we are talking about an imminent decision, there are still several steps to be taken before farmers in the field can use drones. Once a decision has been made that using a drone is no more dangerous than conventional methods, each of the companies that produce pesticides will have to add drone use to their labels, which will cause additional delays.</ParaText>
+              <ParaText id="8905729">In practical terms, we do not expect authorization for pesticide application by drone to be granted within the next two or three years. So we are not talking about something that will happen quickly. In the meantime, to help producers, the PMRA could say that in cases where it is already possible to apply pesticides by air, for example, it is necessarily possible to do so by drone. This would be a general approach rather than a specific approach where one pesticide is processed at a time, which leads to additional delays.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144551">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905730"> We're going to the last round. We have roughly 12 minutes left. We'll do five, five and two and a half minutes.</ParaText>
+              <ParaText id="8905731">We'll start with Mr. Bonk.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144553">
+            <PersonSpeaking>
+              <Affiliation DbId="317571" Type="2">Steven Bonk (Souris—Moose Mountain, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905732"> My questions will be directed more to Mr. Laycraft and the Canadian Cattlemen's Association.</ParaText>
+              <ParaText id="8905733"> I want to give a sincere “thank you” for the good work your organization does, along with your provincial member organizations, in promoting and representing the cattlemen in Canada.</ParaText>
+              <ParaText id="8905734"> You have highlighted that structural change needs to happen in the CFIA. Everyone in the cattle industry appreciates that we have to have regulation, because that is why we have one of the most sought-after products in the world. </ParaText>
+              <ParaText id="8905735">What are some of the issues? What are some of the concerns or frustrations you're hearing from your members?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144558">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905736">There are a number of them. Obviously, sometimes it's the time required in the service, even to get an import certificate approved when you're moving live animals. You need to be able to move them, and hours of service are an example.</ParaText>
+              <ParaText id="8905737"> We were mentioning your earlier emails. If you go back to our beef value chain meeting records, in 2007 we talked to the department about getting electronic certification in place. We were given a commitment, which we weren't happy with, that it would be in place by 2011. In 2011, we were told, “Well, no, we can't make that. We're going to do a whole system-wide upgrade, and we'll have it in 2016.” We actually had our first pilot project in 2019.</ParaText>
+              <ParaText id="8905738">Waiting 12 years to get what is obviously something that would improve the integrity of the system and speed it up is not acceptable. We can look at other examples of that. Again, it comes back to what I said earlier, when you bring the right people to it, with the right expertise, with the right mandate. I was involved in a previous regulatory review, when it was Agriculture Canada at the time. We looked at case examples, and I think it's worth looking at in your review. Who is doing it best, and why are they doing it best?</ParaText>
+              <ParaText id="8905739">Right now, I have to say, we gave one example: the Agricultural Marketing Service. They are doing some of the best work that we see, and they are getting things approved much more efficiently than we are here in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144576">
+            <PersonSpeaking>
+              <Affiliation DbId="317571" Type="2">Steven Bonk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905740">Maybe I could ask you about SRMs a bit and the extreme source of frustration that has brought to the cattle industry. Maybe you can even talk about some of the financial impacts that's had on our industry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144580">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905741"> It was a long process that we went through. It's probably a 400-page risk assessment if you want to look at it and lose eight or 12 hours you'll never get back. We've gone through that with CFIA and we acknowledge that we have to do it. We export to 59 countries, and we have to be able to demonstrate to them that we'll maintain our “negligible risk” status.</ParaText>
+              <ParaText id="8905742">Unfortunately, that took a year longer than we expected, with all of the process and comments back and forth. We're at the stage now where we should be able to move forward with it. It clearly demonstrates that we can make the change without changing the risk at all. Now it's about reaching out to our key trading partners. We're also helping on that, but we're now moving into the regulatory process itself. That's where it's really going to get into the grind. We've done all the scientific work. We've been asking to get all the wording prepared. We were very confident it was going to demonstrate.... The U.S. have been doing this since 2010 with their same feed ban.</ParaText>
+              <ParaText id="8905743">Let's get everything done so that we can take it through in one omnibus regulatory process and get it changed. There is no clear indication that we're going to be able to get it done that quickly, but again, it should be done that quickly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144594">
+            <PersonSpeaking>
+              <Affiliation DbId="317571" Type="2">Steven Bonk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905744">Thank you. </ParaText>
+              <ParaText id="8905745">I don't have too much time left, but I'm going to ask you just quickly about an internal agreement in Canada with the Canadian internal free trade agreement, and we're also talking a lot now about interprovincial trade. Can you speak to the frustrations regarding CFIA and our provincial counterparts when it comes to slaughter plants and trying to move product internally within Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144604">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905746">It's always a little more complicated, and it's first discussed on the surface. The provinces aren't all equal in terms of the level of provincial inspection they're providing. There is a pilot that's going on between Alberta and Saskatchewan. There were some exemptions that were made during the pandemic.</ParaText>
+              <ParaText id="8905747"> We think that there's maybe a regionalization approach rather than a national approach, which could raise some international questions if we go down that road. I think there are potential pathways, but it does mean bringing those inspectors up to that same sort of equivalency if we're going to do that. We all agree that we have to protect our health and safety.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144608">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905748">I will now go to MP Harrison for five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144609">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905749">Thank you to the witnesses for being here. </ParaText>
+              <ParaText id="8905750">MP Bonk touched on some things that I was going to ask about, so I'd like to offer Mr. Laycraft an opportunity to further expand on the day-to-day red tape reduction that is needed and experienced by the Cattle Association in Canada.</ParaText>
+              <ParaText id="8905751">You have a minute to expand on that. That would be great.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144611">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905752">I'm sorry. I missed part of that question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144613">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905753">Could you expand further on the day-to-day red tape reduction that is wanted and needed by the Cattle Association in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144615">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905754">Thank you. </ParaText>
+              <ParaText id="8905755">There are examples driving this. This past year, cattle values have gone up considerably, but it took almost 10 months to get the compensation values increased to reflect what are current compensation requirements in our industry. If you happen to be a producer under quarantine and you have no idea whether you're getting compensated, it's tremendous stress. On something like that, having more streamlined ways of dealing with that.... Some of it you take out of regulation so that it's put into an order in council, or you do some other tool than building it into a carved-in-stone type of solution.</ParaText>
+              <ParaText id="8905756"> That has always been one of these things: Be careful what you put in regulation when you can use other tools to deliver. As one example, we've talked about approvals of products. I will put in a good word for the bureau of veterinary drugs. I think they've done some of the better work in being able to use international work. Look at that as an example, where there is actually some really positive work that's been done.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13144629">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905757">Thank you for that. </ParaText>
+              <ParaText id="8905758">I'm a small-scale cattle farmer in Ontario, and I know about some of the regulatory challenges for small-scale producers. Again, I'd like to give you the opportunity, Mr. Laycraft, to expand on the regulatory challenges for small-scale producers and large-scale cattle operations.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144632">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905759"> We did talk about it. SRMs, for instance.... Actually, when you get into small-scale processors, because of their size, it's had a disproportionate effect on small- and medium-sized processors and provincial plants, so that a number of them actually went out of business during this period of time. It actually substantially reduces those costs, so you have more of those available. </ParaText>
+              <ParaText id="8905760">When you get into some of the regulatory approval, it's not just small cattle producers. We've worked, for instance, with the sheep industry. They're not large enough. Some of the pharmaceutical companies are saying, “Let's go to Canada and get approved there first.” That's where the harmonization and working with our significant trading partners would come in. If we were able to approve at the same time using the same information, you would get away from market size being the determinant when people actually apply to get products approved.</ParaText>
+              <ParaText id="8905761">We're big enough as beef cattle producers; that's not as big a problem for us. For smaller parts of the agriculture sector, it is a problem.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144649">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905762">Thank you for that.</ParaText>
+              <ParaText id="8905763"> I met with lots of farmers of various sizes in my riding this summer, and they spoke frequently about transportation and some of the regulations around transportation. Could you speak to that and what you'd like to see done there?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144651">
+            <PersonSpeaking>
+              <Affiliation DbId="135646" Type="28">Dennis Laycraft</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905764">I don't know if it's about ELDs, or electronic logging devices, but in the U.S., for instance, if you're within so many miles of your destination, it's not.... You have two safety factors when you're transporting livestock. Obviously, there is driver safety, which we're all aware of, but you also have the health and well-being of the live animals. Sometimes there are delays. The best thing you can do is get those animals to their final destination.</ParaText>
+              <ParaText id="8905765"> Creating that same flexibility that exists in the U.S., for instance, would be really important. There are also new rules that are related to the condition of the animals. There is work being done to try to share between provinces how to fill out those forms and make it easier for small producers, but it does come back to, again, looking at creating that recognition when you're dealing with live animals. It's important. You can't sit them for six hours in the hot sun on a truck, waiting for someone.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144661">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905766">Thank you, Mr. Laycraft.</ParaText>
+              <ParaText id="8905767">For the final two and a half minutes, we will go to Monsieur Perron.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13144663">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905768">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8905769">Ms. Lessard, I would like you to talk again about emergency registration. What needs to be changed? How could we revise the process to ensure food safety without compromising safety and health, of course? If you have time, I would like you to talk to me about how we could improve the transparency and predictability of the PMRA.</ParaText>
+              <ParaText id="8905770">You have about two minutes to respond. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144668">
+            <PersonSpeaking>
+              <Affiliation DbId="302846" Type="28">Catherine Lessard</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905771">With regard to emergency registrations, the Association des producteurs maraîchers du Québec proposes a two-step process. There is the current emergency registration process, which is useful because it allows us to operate even when there are very long delays for normal registrations. In cases where a product that has not yet been registered is needed quickly, emergency registrations can be used. In fact, this is necessary.</ParaText>
+              <ParaText id="8905772">For real emergencies that require very rapid action, we need an expedited emergency approval process. This process would allow a product to be used in a very specific geographical area for a period of 48 hours, for example. After that, this type of registration would no longer be valid. This type of registration would be used for a very specific period of time and geographical area, allowing for a rapid response when significant problems arise.</ParaText>
+              <ParaText id="8905773"> We are also asking for the regular emergency registration process to be improved. For example, one of the proposed changes would be to no longer have to go through the provincial environment ministries. This is one of the requests made by the PMRA. Currently, whenever there is an emergency registration request, a letter must be obtained from all the provincial environment departments concerned, which can take time. Usually, there is no problem: The departments always respond positively to our request because they rely on the Quebec Ministry of Agriculture, Fisheries and Food. In our opinion, this process adds no value and only lengthens the time frame. It would be useful to review the overall process. These are the most important elements we propose. </ParaText>
+              <ParaText id="8905774">In terms of transparency, it is very difficult for us to know what is happening with minor-use registration applications. We do not know what stage of the process they are at, how far along they are, or how long they have been there. If we were able to track these applications and understand where they are in the process, it would help us better understand why the delays are sometimes so long. We are often told that it is for commercial reasons or because it takes time for the data to be transmitted from the manufacturer to the PMRA, for example. That is understandable, but, as far as possible, we could be told. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13144686">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8905775">Thank you very much.</ParaText>
+              <ParaText id="8905776">I want to take this opportunity on behalf of the committee to thank all of our witnesses for joining us here today, and for your work to advance Canadian agriculture.</ParaText>
+              <ParaText id="8905777">Is it the will of the committee to adjourn?</ParaText>
+              <ParaText id="8905778">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8905779">
+                <B>The Chair:</B> Okay, the meeting is adjourned. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

@@ -1,0 +1,1699 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13153105">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on International Trade</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, October 2, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 2 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on International Trade</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 2, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 004</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">02</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/02 15:35:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent du commerce international</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on International Trade</ExtractedItem>
+    <ExtractedItem Name="Acronyme">CIIT</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Judy A. Sgro</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153109">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair (Hon. Judy A. Sgro (Humber River—Black Creek, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916594"> Welcome to meeting number four of the Standing Committee on International Trade. </ParaText>
+              <ParaText id="8916595">Pursuant to Standing Order 108(2) and the motion adopted by the committee on Thursday, September 18, the committee is commencing its study of Canada and the forthcoming CUSMA review.</ParaText>
+              <ParaText id="8916596">We have with us today, in person, the Honourable Dominic LeBlanc, Minister responsible for Canada-U.S. Trade, Intergovernmental Affairs and One Canadian Economy, and the Honourable Maninder Sidhu, Minister of International Trade. From the department officials, we have Rob Stewart, deputy minister, international trade; Martin Moen, associate assistant deputy minister, trade policy and negotiations; David Hutchison, director general, trade strategy bureau; and Mary-Catherine Speirs, director general, trade negotiations bureau. </ParaText>
+              <ParaText id="8916597">Welcome to all of you. We very much appreciate your being with us.</ParaText>
+              <ParaText id="8916598">I understand that Minister LeBlanc has a very tight time frame and must exit here by 2:27, to be exact.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153114">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc (Minister responsible for Canada-U.S. Trade, Intergovernmental Affairs and One Canadian Economy)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916599">Madam Chair, I am seeing my boss and some other people an hour and five minutes from now, so I will leave in an hour. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153115">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916600">Okay. Thank you very much.</ParaText>
+              <ParaText id="8916601"> Welcome to you all.</ParaText>
+              <ParaText id="8916602"> We will start with Minister LeBlanc's opening remarks for up to five minutes and not any longer, please. Then we will go on to questions and Minister Sidhu.</ParaText>
+              <ParaText id="8916603">We now go to Minister LeBlanc to start off.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153120">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916604">Thank you, Madam Chair. </ParaText>
+              <ParaText id="8916605">Thank you for the opportunity to be before the committee today to discuss Canada's trade relationship with the United States, and obviously with our Mexican partners as well, and our preparations for the upcoming joint review of the Canada—United States—Mexico agreement.</ParaText>
+              <ParaText id="8916606">Madam Chair, this is a hinge moment in Canadian history. For decades, the United States has been our closest economic partner in almost every venture. Predictability, collaboration and mutual benefit were the hallmarks of this relationship, but now the old model, one of deepened integration grounded in assumed stability, can no longer be counted on. We must chart a new approach that reflects the realities of today's global economy. We must obviously recognize and accept the importance of the United States market but also take actions to seize opportunities that come from further diversification with other partners as well. Most importantly, we must build on the economic potential we have here at home in Canada.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8916607">As the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> pointed out last week, the United States' economic strategy has clearly shifted from supporting the multilateral system to a more transactional and controlled approach to bilateral trade and investment. U.S. tariffs of up to 50%, particularly on steel and aluminum, automobiles, and Canadian lumber, are destabilizing and have a real impact on thousands of workers and their families. They disrupt supply chains, increase costs and weaken our collective ability to overcome the major challenge currently facing global trade.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8916608">This moment, Madam Chair, calls for resolve. Our government worked with Parliament—and I thank colleagues here—to adopt the One Canadian Economy Act, unlocking, we hope, up to $500 billion in strategic investments, clean energy projects, infrastructure, critical minerals, advanced manufacturing and other energy infrastructure as well. These investments will strengthen our domestic capacity and create new opportunities for Canadian businesses.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8916609">As the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> also announced in September, the government will soon be launching a new trade diversification strategy. I understand that my colleague will be discussing this with you in the next few minutes.</ParaText>
+              <ParaText id="8916610"> At the same time, renewing our partnership with our North American partners remains a central part of our approach. We are working with the U.S. administration to find a solution to reduce tariffs, provide predictability for our industries and promote a collective North American approach to the challenge we face together.</ParaText>
+              <ParaText id="8916611"> We are also working to strengthen and deepen our relationship with Mexico, which offers significant trade opportunities for Canada. Mexico's Secretary of Economy, Marcelo Ebrard, and I agreed a few weeks ago, and in previous conversations, to work closely together as we prepare for the joint review of CUSMA.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8916612"> In the coming weeks, I will be heading to Mexico on a trade mission with a group of Canadian companies, business leaders and leaders of civil society. We hope to work together to further develop this bilateral commercial relationship as well.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8916613">To prepare for the joint review of the Canada-United States-Mexico Agreement, or CUSMA, we have launched a second round of consultations with stakeholders across the country, including industry, labour unions, provinces, territories, indigenous nations, and civil society. </ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8916614">Canada fundamentally believes that the CUSMA provides a stable and predictable foundation for growth. Our goal is to make it better, smarter and more responsive to today's challenge. Obviously, that's always with a view to securing opportunities for Canadians. We'll continue to defend Canada's interests and pursue a trade policy that represents the strength and the independence of our country.</ParaText>
+              <ParaText id="8916615">With that, I look forward to the comments of my colleague, but most particularly to the questions, suggestions and helpful advice from colleagues at the table.</ParaText>
+              <ParaText id="8916616">Thank you, Madam Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153171">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916617">Thank you very much, Minister.</ParaText>
+              <ParaText id="8916618">Minister Sidhu, go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153174">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu (Minister of International Trade)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916619">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916620">It's good to be back here to appear before this committee. I spent over a year with many of these committee members, so there are many familiar faces. </ParaText>
+              <ParaText id="8916621">I want to thank the analysts for their hard work when I was here and for their hard work now as well.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8916622">I am pleased to be back with you today before the committee, whose rigorous and important work I am well aware of.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8916623">Before becoming Canada's Minister of International Trade, I had the privilege of serving on this very committee. I know first-hand how seriously you take your work and how deeply committed you are to ensuring that Canadian trade policy reflects the realities facing our workers, our businesses and our communities. I look forward to the important work you'll continue to do, especially on the study of the upcoming CUSMA review and Canada's broader trade strategy.</ParaText>
+              <ParaText id="8916624">CUSMA is central to our economy, but as the economic and political landscape in North America continues to evolve, so too must our approach. That's why I welcome the committee's decision to study the review alongside the government's trade diversification efforts. We're approaching this work from a position of strength, armed with facts, guided by evidence, collaborating closely with stakeholders and united in our commitment to protect and advance Canadian interests.</ParaText>
+              <ParaText id="8916625">I believe this committee will play a vital role in shaping that foundation. At the same time, we recognize that Canada cannot put all of its eggs in one basket.</ParaText>
+              <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8916626">Trade diversification is not just a goal, it is a strategic necessity.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8916627">It's a goal I understand all too well. Since becoming minister a few months ago, I've been working to advance this file fully and meaningfully. It has been a busy 150 days. I've criss-crossed the country, meeting with boards of trade, business leaders and entrepreneurs. The message is clear: There is tremendous opportunity, energy and optimism about strengthening our economic ties with communities right across Canada.</ParaText>
+              <ParaText id="8916628">
+                <Affiliation DbId="314774" Type="1">Prime Minister Carney</Affiliation> has given me a clear mandate to diversify our trading relationships. In just a short time, we've made tremendous progress.</ParaText>
+              <ParaText id="8916629">Earlier this year, I travelled to Quito, Ecuador, to officially conclude negotiations on the Canada-Ecuador Free Trade Agreement, which is a modern, ambitious deal that will deepen our economic partnership with one of South America's fastest-growing economies and create new opportunities for Canadian exporters, especially in clean technology and agriculture. </ParaText>
+              <ParaText id="8916630">We've reinvigorated our trade and investment dialogue with the United Arab Emirates, advancing discussions toward the conclusion of a FIPA and deepening commercial co-operation. </ParaText>
+              <ParaText id="8916631">In Brazil, a few weeks ago, we agreed to launch talks with Mercosur, bringing new momentum to a complex but important regional partnership that includes Brazil, Argentina, Paraguay and Uruguay. </ParaText>
+              <ParaText id="8916632">We've tabled legislation in Parliament to bring the United Kingdom into the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, also known as the CPTPP. This is a major step toward formally welcoming a G7 partner into a trade pact representing over 500 million consumers across the Asia-Pacific.</ParaText>
+              <ParaText id="8916633">As Canada takes steps to forge stronger ties around the world, thanks to the leadership of our <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and this new government, other countries are doing the same with Canada. Ireland has announced that it will formally ratify the Canada-European Union Comprehensive Economic and Trade Agreement, or CETA, which is a strong vote of confidence in our trans-Atlantic partnership. In fact, Ireland's Prime Minister called it an “obvious choice” to align more closely with Canada, and we couldn't agree more.</ParaText>
+              <ParaText id="8916634">Finally, I'm proud to share that, just last week, Canada and Indonesia signed a trade agreement. It's an important milestone that sets the stage for deeper economic engagement with one of the world's largest and most dynamic emerging markets.</ParaText>
+              <ParaText id="8916635">This is real, tangible progress. It's part of a broader trade diversification agenda that this government has championed from day one. </ParaText>
+              <ParaText id="8916636">We're not just signing agreements; we're backing them up with strong implementation plans. We're empowering our incredible trade commissioner service to support businesses across Canada in expanding to new markets. We're working with the chambers of commerce and boards of trade to ensure that Canadian businesses are using the agreements we already have to their fullest potential.</ParaText>
+              <ParaText Continuation="True" id="8916637"> Our trade agenda must reflect the complexity of the world we're operating in. Yes, we will defend and strengthen our relationship in North America, but we will also continue opening doors in regions around the world. That's the dual track we're on, defending and deepening the trade partnerships we have while building bold new ones for the future. </ParaText>
+              <ParaText id="8916638">I know this committee's insights will be invaluable as we move forward on both fronts. </ParaText>
+              <ParaText id="8916639">Thank you so much, and I look forward to your questions today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153224">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916640">Thank you very much, Minister. </ParaText>
+              <ParaText id="8916641">We will now open it up for questions. </ParaText>
+              <ParaText id="8916642">Mr. Chambers, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153226">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers (Simcoe North, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916643">Thank you, Madam Chair. </ParaText>
+              <ParaText id="8916644">Welcome, Ministers. It's a pleasure to have you here. You both have important jobs at this time. I know that Canadians want you to succeed. Conservatives want you to succeed as well and want to help you get a deal. We said that we'd be willing to do that.</ParaText>
+              <ParaText id="8916645">Minister LeBlanc, you're in a really tough spot. You're negotiating with a country that seems to keep moving the goalposts, and your boss keeps making promises that he seems not to be able to deliver on, or you can't deliver on.</ParaText>
+              <ParaText id="8916646"> I take from your testimony this morning at the Senate that we're not any closer to a deal with the Americans on the sectoral tariffs than we were just a few weeks ago. Is that what I heard correctly this morning at the Senate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153236">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916647">I hope that's not exactly what you heard. I learned a hard lesson from saying, “Oh, I think we're going to have progress in the next three weeks. I think we might have a deal by August”, so I have lost the illusion that we should predict in precise time when we might get to an agreement. </ParaText>
+              <ParaText id="8916648">An agreement can take many different forms. My view is that an agreement is something that would improve the circumstance we're in today. I continue to be optimistic. The conversations I've had with Secretary Lutnick have been encouraging. There have been a myriad of discussions with Ambassador Hillman and other senior officials. I remain optimistic. I think that, like you and like everybody, I accept the urgency of the moment and wish that these agreements had been concluded weeks ago, but it doesn't mean we don't need to continue to do the work and get the best agreement possible. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13153250">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916649">In terms of advancing the discussions, we've made a number of concessions. Canada has made a number of concessions, such as getting rid of the DST and quietly removing some tariffs during the election and only disclosing it afterwards. Just a couple of weeks ago, we got rid of additional tariffs. I've heard some complaints about softwood lumber. We've made a number of concessions to the Americans.</ParaText>
+              <ParaText id="8916650"> Can you point to one concession that the Americans have given to us?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153259">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916651">I understand that you refer to these as concessions. I think it's part of an active negotiating conversation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153263">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916652"> I don't think anyone has ever considered them anything other than concessions. No one has called them anything but concessions. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153267">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916653">I wouldn't be as absolute as that. I don't think I've called them concessions. I've called them decisions that we make in the best interest of continuing a discussion with the United States that will hopefully get to the agreement you referred to in your first question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153270">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916654">Has the United States made any movements similar to those we have made to support the discussions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153271">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916655">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153273">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916656">Just one, as an example, would be helpful.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153275">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916657">I appreciate the question, but I want to be careful. In ongoing conversations that go back months, there are different scenarios that various American officials advance, and we talk about different scenarios that we think might lead us to an agreement. At the end of the day, the CUSMA exemption, which was not part of the original announcement, has changed so many times over the last number of months. Sometimes it's useful—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153281">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916658">You're taking a long time to say there hasn't been—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153286">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916659">I'm going to give you one right now: the fact that 97% of our exports benefit from an exemption under CUSMA, save and except the section 232 tariffs that they've applied across the world. That night in February when they said they were applying a 25% across-the-board tariff to the Canadian economy in fact applies to a very small segment of Canadian exports. That is a massive advantage that Canada has, but it's not enough. It doesn't put us in the position we were in a year ago.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153296">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916660">It's not much of an advantage if you're in one of those sectors that we described. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153298">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916661">Agreed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153299">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916662">You said you were open to some suggestions, so I'll leave you with one. On the electric vehicle mandate, it's been disclosed now that Canadian auto manufacturers have committed $1 billion cash to Tesla to purchase credits from an American auto manufacturer that has zero manufacturing capabilities in Canada and no intention of manufacturing capabilities in Canada. In fact, hundreds of millions of dollars have already gone to Tesla to purchase these credits. Automakers are having a hard time dealing with the tariffs, and now they are financially strained for electric vehicles with this mandate. Hundreds of millions of dollars have already been paid to an American company with no commitment to Canada. Are you open to scrapping the EV mandate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153309">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916663"> Thank you for the question. I understand, and I certainly have heard discussions concerning the EV mandate. I've had those conversations with Premier Ford and a number of others. In terms of the specific payments and so on, I'm not familiar with those numbers. I'm not disagreeing with them. Perhaps the deputy can address this. He says he has some precision that he can offer, if that would be helpful.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153316">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916664">The policy is enriching Tesla shareholders. Is the reason we're not scrapping it that the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> disclosed he owns Tesla shares?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153319">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916665">Well, obviously you know that's not the reason, but—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153322">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916666">I'm not sure that it isn't the reason.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153323">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916667">You can make up a whole bunch of stuff here in the committee and try to make it stick—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153326">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916668">I'm not making it up. That's a fact, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153330">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916669">Would you be interested in the deputy perhaps giving you some precision on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153332">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916670">Well, we'll have the deputy after, I believe, for—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153335">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916671">You're not interested in—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153337">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916672">We'll follow up with the deputy after.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153339">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916673">Okay, great. I think it would be valuable. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153340">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916674">I would appreciate it. </ParaText>
+              <ParaText id="8916675">The last thing I'll leave you with is that we're open to helping you. We'd like to see you succeed. The Conservatives have said that we'd like to help you get a deal. If there's something that we can do to be helpful, please let us know. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153343">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916676">I appreciate that. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153346">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916677">We'd be happy to do that.</ParaText>
+              <ParaText id="8916678">Thank you, Minister. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153351">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916679">Thank you very much.</ParaText>
+              <ParaText id="8916680">Mr. Fonseca, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153354">
+            <PersonSpeaking>
+              <Affiliation DbId="319745" Type="47">Peter Fonseca (Mississauga East—Cooksville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916681">Thank you, Madam Chair. </ParaText>
+              <ParaText id="8916682">Thank you, Minister Leblanc, Minister Sidhu and your officials, for joining us here at the international trade committee. </ParaText>
+              <ParaText id="8916683">I'll start where MP Chambers finished, around us working together to ensure success for Canadians. </ParaText>
+              <ParaText id="8916684">In my riding, we have so many entrepreneurs. I was at the board of trade, and many came to see me in Mississauga. What they asked was, “How can we diversify? Where can we sell our products and our services overseas? Where can we do more?”</ParaText>
+              <ParaText id="8916685">Minister Sidhu, I know we've had conversations about your work globally, with some of the agreements that we have right now and can capitalize on. We've had a lot of success, but now is the time to double down and triple down with our businesses and entrepreneurs; they feel it and they want to do it. </ParaText>
+              <ParaText id="8916686">I want to hear from you: Where can they tap into those tools, be it the trade commissioner service or others, to be able to diversify and increase their trade?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153360">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916687">I'd like to thank the member for his work on this committee. I know that in Mississauga the chamber of commerce values Mr. Fonseca's input in terms of how we can help diversify trade. </ParaText>
+              <ParaText id="8916688">From my private sector experience, having spent over a decade working with businesses in international trade facilitation, I know that the conversation 10 years ago was very different. It was, “I'm comfortable dealing with the U.S. I understand the geography and I understand the language. I don't know the packaging requirements in this overseas country; it seems very hard and I don't want to do it.” Now the conversation has shifted to saying, “Help me do that.” When I've been out talking to chambers and boards of trade across the country, the focus is on how we are facilitating that conversation and using our existing 15 free trade agreements to make sure that our utilization rates are up.</ParaText>
+              <ParaText id="8916689">I'll give you one example with CETA. Utilization rates are around 65%. How do we get them higher? You've seen the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> active in the region, as well, in Europe. I think he's been there two or three times. One of his first trips was to Europe to sign a strategic partnership agreement with the EU. Why is that? We see a lot of potential and opportunities in the EU around defence. We know that, as a country, if we're going to be investing $9 billion, we need to have those procurement opportunities as well, because we want to build up the industrial capacity. We want to bring those workers and those jobs here to Canada and build up that capacity while we can procure and get into some of the opportunities that are brought in. </ParaText>
+              <ParaText id="8916690">There's a huge potential in the EU, but there's an even bigger potential in the Indo-Pacific, which is a fast-growing market with a growing middle class that wants Canadian products, and not just in the defence sector. It's agri-food; it's clean tech. In fact, there's a lot happening with ASEAN. Just last week, we signed a free trade agreement with Indonesia, the fourth-largest economy in the world, with 275 million potential consumers, and this is what we need to do more of. The energy is there, and the world wants to deal with Canada, because we're seen as a beacon of hope right now. There's a lot of uncertainty out there and a lot of instability. The global trade winds are shifting, but Canada is seen as a reliable and stable trading partner.</ParaText>
+              <ParaText id="8916691">We have a unique opportunity here. In the calls that I'm getting and that we're all getting as cabinet ministers, the message is, “We want to do more with Canada. How can we make that happen?” The <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> being out there shaking hands and making sure we're meeting people so that we're noticed is very important, because every other country is doing this. The U.S.'s policies and President Trump's policies have impacted trading relationships around the world, so every country is out there showcasing what their workers and their businesses produce, and Canada should be no different. We should actually be more engaged and more active on the international scene to make sure we get the best deal possible.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153414">
+            <PersonSpeaking>
+              <Affiliation DbId="319745" Type="47">Peter Fonseca</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916692">Minister Sidhu, you've sat on this committee. You've been here. You've been the parliamentary secretary. Can you tell us, as a committee, where we can assist with that work? Where would we be best able to help?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153419">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916693"> Absolutely. Look, I value the work you're doing. I sat in that very chair. This committee does important work. I think, when you look at what the committee can do, it is to bring those ideas. The members here come from every part of Canada. You're talking to your chambers and the entrepreneurs on the ground. You're identifying opportunities.</ParaText>
+              <ParaText id="8916694">It's also the work that you'll be doing, hopefully, if the chair and the committee agree to travel. I think there are unique opportunities to find where businesses can have the best impact, and which industries can have the best impact. Even as a delegation being out there on the road, it showcases team Canada, and I think we need more of that. We heard from Mr. Chambers about how we can work together as team Canada to effectively showcase what we have to offer. I think it will send a clear signal to the world that we're here, operating as team Canada, looking for the best opportunities for our workers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153430">
+            <PersonSpeaking>
+              <Affiliation DbId="319745" Type="47">Peter Fonseca</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916695">Thank you, Minister.</ParaText>
+              <ParaText id="8916696">Minister LeBlanc, we are team Canada here. We had Representative Huizenga and Representative Kaptur here last week, and we had an opportunity to ask them many questions. On that, do you see an opportunity for this committee to go to Washington, D.C., to meet with representatives, senators and stakeholders and make our case before the review of CUSMA?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153441">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916697">The short answer is, absolutely. I don't purport to, obviously, have a view on what work the committee decides to do. However, any time members of Parliament and of the other place—senators—have an opportunity to interact with American counterparts, with legislators, it's important.</ParaText>
+              <ParaText id="8916698">I was in Washington this summer for meetings. There was a group of Conservative MPs who had also travelled to Washington. The ambassador was telling me about her meetings with them. They were seeing senior people on Capitol Hill, including members of the Republican leadership. That's all positive for Canada, any and all forms of parliamentary diplomacy where colleague legislators can talk about the advantage of, as Mr. Chambers said, resolving the sectoral tariffs, which are certainly having a detrimental effect on our country but aren't benefiting American consumers or industries either, in many cases. The more people who say that to people in the administration, the better position, I hope, the country will be in. </ParaText>
+              <ParaText id="8916699">I would encourage any and all of that work, and, obviously, I would be happy to ensure that our embassy and others in Washington work with the chair and your committee to provide any support we can.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153452">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916700">Thank you very much.</ParaText>
+              <ParaText id="8916701">Monsieur Savard-Tremblay, go ahead, please, for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13153459">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay (Saint-Hyacinthe—Bagot—Acton, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916702">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916703">Ministers, thank you for being here. I would also like to thank the people accompanying you. I understand that we will be talking with them more during the second hour.</ParaText>
+              <ParaText id="8916704">Ministers, supply management, as we know, is an extremely important issue for Quebec in the first place, and also for the rest of Canada in many respects.</ParaText>
+              <ParaText id="8916705">I would like to refer to an article in the Globe and Mail. I heard the word “Mercosur” earlier, during Minister Sidhu's testimony, which concerns me in terms of poultry production, given Brazil's presence.</ParaText>
+              <ParaText id="8916706">That said, I will begin, Mr. LeBlanc, with the other extremely important issue, that of dairy production. Yesterday, you said that supply management would not be called into question. However, I will not immediately address the intentions and strategies that may apply in light of the American desire to chip away at the system. As a matter of principle, I will first ask you whether you recognize that changing the rules and import quotas amounts to a new breach, a new concession, and that it is doing through the back door what can no longer be done through the front door.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153474">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916707">Through you, Madam Chair, I would like to thank our colleague Mr. Savard‑Tremblay for this question, which is essential to Quebec, as he says. I have cousins who operate a fairly large dairy farm in New Brunswick. It is therefore essential throughout Canada, in the rural areas I represent, and it is essential for consumers in large, more urban centres. It is a crucial issue.</ParaText>
+              <ParaText id="8916708">There is significant consensus in Parliament. We welcome the legislative initiative of our friends in the Bloc Québécois to ensure that, as Mr. Savard‑Tremblay said, this does not become a bargaining chip in trade negotiations. We are committed to this. The <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> has said it, and I repeat this commitment to my American counterparts when Mr. Trump publicly raises customs tariffs that are beyond what was, indeed, negotiated in other agreements.</ParaText>
+              <ParaText id="8916709">I often talk to dairy producers and other producers in the supply management sector. Yesterday, I read The Globe and Mail and saw the reports in French, which often referred to a “breach” in supply management. There will be no breach in supply management and no increase in quotas. We do not want to negotiate any changes in this regard. I am quite comfortable repeating this.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153493">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916710">I understand that. You are telling us that there will be no breach. In any case, once laws are passed by Congress, American negotiators often say that their hands are tied. Generally, that's the end of the matter and it's not discussed any further.</ParaText>
+              <ParaText id="8916711">Isn't playing with import rules, once again, a way of creating another loophole by means other than bilateral or trilateral negotiations, even if it is not formally called that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153506">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916712">I understand the substance of the issue, and I am not at all opposed to it. We will not dig anything up directly or indirectly, and we will not allow any breach or opening in this issue.</ParaText>
+              <ParaText id="8916713">I understand this concern. I tell the dairy producers I talk to, as I do others in the supply management sector, that we have been very clear. We are clear with the Americans, both privately and publicly.</ParaText>
+              <ParaText id="8916714">For the moment, the conversations are focused on strategic sectors such as steel, aluminum and automobiles. I am much more concerned about the lumber sector.</ParaText>
+              <ParaText id="8916715">I think it is in our best interest not to continually discuss all kinds of potential scenarios. We don't want to give other countries ideas to bring the issue back to the table. For us, as for Parliament, the matter is closed, as you said.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13153558">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916716">You said there would be no breach, that there would be no negotiation on this, and you are ready to tell us today that there will be no more American milk on the Canadian and Quebec markets.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153563">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916717">The quota negotiated six or seven years ago will not be increased. We are very firm on this point. Absolutely.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153571">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916718">The import rules will not be changed either. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153577">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916719">There are two questions. I think there are 12 or 14 import subcategories under an overall quota. I understand how important it is for the dairy sector, as for others, to know that these supply management issues are not being negotiated. We are trying to talk to the Americans about other sectors. I think they will possibly, I hope, bring us to common ground. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153583">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916720">Thank you.</ParaText>
+              <ParaText id="8916721">My next question is for Mr. Sidhu.</ParaText>
+              <ParaText id="8916722">At the end of last year, China was, without saying “abandoned,” considered for what it was, that is, a risk factor in trade with Canada, because of all kinds of strategic issues. We can see that this makes the Americans very nervous. I know that we are not returning to free trade discussions with China, as has been the case in the past, since this matter was buried in 2020. However, in the diversification strategy, there seems to be a desire to include China more. I am surprised by this turnaround.</ParaText>
+              <ParaText id="8916723">I understand that there may be irritants in the relationship with the United States, but Mr. Trump's term will end in 2028, while the Chinese Communist Party's term will never end. I would be curious to hear your thoughts on this.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153594">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916724">Can we possibly have a brief answer for a long question?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13153599">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916725">We'll discuss this in the next round in any case. Don't worry. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153602">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916726">It's a good question. I hope to answer your question in French one day. I'm learning my third language, which is French.</ParaText>
+              <ParaText id="8916727">I think it's important to note that China is Canada's second-largest trading partner. There are challenges we have to work through, but there are also opportunities that we can't ignore. There are sectors that I have sat down with—the canola sector, the Canadian Cattle Association and the seafood sector—that value access to that market. I think it's very important that we be pragmatic and constructive in those conversations. I think this is what our industries expect us to do, and we'll make sure we're having those live discussions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153607">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916728">Thank you very much.</ParaText>
+              <ParaText id="8916729">Mr. Jeneroux, please go ahead for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153614">
+            <PersonSpeaking>
+              <Affiliation DbId="320157" Type="47">Matt Jeneroux (Edmonton Riverbend, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916730">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916731">Thank you, both. Welcome back, Minister Sidhu. It's good to see you too, good friend, Minister LeBlanc.</ParaText>
+              <ParaText id="8916732">I want to start my questions. I think I'll begin by talking about the ASEAN free trade agreement, and maybe we'll jump over and talk a little bit about de minimis, if you're okay with that, Minister. Then, only because you brought it up, Minister Sidhu, we can talk about the U.K. trade agreement as well.</ParaText>
+              <ParaText id="8916733">First, I'll begin with the ASEAN free trade agreement. You missed a delegation to Malaysia last week. Some might say that it was the best delegation that has ever been to Malaysia. <Affiliation DbId="319421" Type="18">Parliamentary Secretary Naqvi</Affiliation> and I were there. A lot of the discussion was about the Canada-ASEAN free trade agreement, which has been ongoing since 2021. The future of that would be good to hear in your words. I think a lot of the stakeholders in the room were very curious as to the progress. They saw the Indonesia deal, and they're wondering.... Obviously, the Philippines seems to be along the same path, but they are wondering if there is a comprehensive ASEAN free trade agreement that they can expect soon.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153623">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916734"> That is a very important question, Madam Chair. Through you, I'd like to thank the member for going on that mission last week with <Affiliation DbId="319421" Type="18">Parliamentary Secretary Naqvi</Affiliation>, because the ASEAN region is a very important region. It consists of 10 countries and is one of the fastest-growing regions in the world. </ParaText>
+              <ParaText id="8916735">Through CPTPP, we have access to three of the 10 countries. Just last week, we signed a free trade agreement with Indonesia, our first-ever bilateral trade agreement with an ASEAN country. </ParaText>
+              <ParaText id="8916736">The ASEAN region represents about 675 million potential consumers. Through CPTPP, we have access to about 140 million, and now, last week, we added access to about 275 million more. Between CPTPP and our bilateral agreement with Indonesia, we have access to about 65% of the market. </ParaText>
+              <ParaText id="8916737">Of course, the other countries are important to us, so we're having active negotiations. Our trade teams met last month—just a few weeks ago, actually—to have those ongoing discussions. I met with my counterpart from the Philippines to have these conversations, because we do want to open up more market access, and that's part of our— </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13153630">
+            <PersonSpeaking>
+              <Affiliation DbId="320157" Type="47">Matt Jeneroux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916738">Do you have a ballpark time frame on it that we can expect?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153632">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916739">We're working through it. We're hoping that in the near future we'll be able to get to a result, but you can imagine—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153633">
+            <PersonSpeaking>
+              <Affiliation DbId="320157" Type="47">Matt Jeneroux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916740">Is “the near future” within the year?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153635">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916741">—negotiating with 10 different countries is something that we have to streamline a little bit more. We're adding capacity to that as well, and I think that's very important, but we hope to have that concluded really soon. </ParaText>
+              <ParaText id="8916742">Again, it's 10 countries. As you can imagine, we're working through that process, and our trade teams are meeting again in a few weeks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153637">
+            <PersonSpeaking>
+              <Affiliation DbId="320157" Type="47">Matt Jeneroux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916743">Hopefully that will be soon, because again, it's been ongoing since 2021, and we want to see it cross the finish line, for all the reasons that you state.</ParaText>
+              <ParaText id="8916744">To you, Minister LeBlanc, the de minimis issue has come up a lot lately because of the end of the exemption. I'm curious as to whether it has been discussed as part of the negotiations on CUSMA. </ParaText>
+              <ParaText id="8916745">I'll quickly read to you about the impact it has on a Canadian company, Lululemon, which is a strong Canadian company. This is from Retail Dive, by senior reporter Max Garland. He said that Lululemon “anticipates its 2025 gross profit will take a $240 million hit due to higher duties and no more de minimis”.</ParaText>
+              <ParaText id="8916746">I'm hoping you can comment on whether this is part of your discussions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153653">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916747">Mr. Jeneroux, thank you for that question. You're right. You used the example of an iconic Canadian company, Lululemon, but it applies to small businesses as well that sell stuff on the web and have customers and clients in the United States, for example, who order packages.</ParaText>
+              <ParaText id="8916748">I hear about it as an MP, and I hear about it from provincial premiers. Premier Ford spoke to me about it as recently as a few weeks ago, again with his own examples in his province. You're right: That scenario, big and small, repeats itself across the country.</ParaText>
+              <ParaText id="8916749">You asked if we raise it with the American administration. We do, absolutely. Canada has not removed or eliminated the de minimis rule. We believe that if we get to a circumstance in which there is an agreement with the United States that resolves a number of these sectoral issues.... Obviously, it's an issue that we keep raising, and we would hope that we could bolt it onto an eventual agreement, big or small.</ParaText>
+              <ParaText id="8916750">I share the concern, and I appreciate your raising it and your colleagues' willingness to work on it. There is a good example that, with legislators and others, as we.... That is not benefiting American consumers, to your point.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153683">
+            <PersonSpeaking>
+              <Affiliation DbId="320157" Type="47">Matt Jeneroux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916751">For my last five or 10 seconds, Minister Sidhu, do your comments about the ascension of the U.K. to the CPTPP mean that the negotiations on the Canada-U.K. free trade agreement are complete, or are they still ongoing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153688">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916752">No, that's an active conversation. </ParaText>
+              <ParaText id="8916753">Right now, we have access to 99% of the U.K. market. Of course, we want to get it to 100%, so those conversations are ongoing. With my tabling of the treaty for U.K. CPTPP ascension last week, we have given notice of 21 days to Parliament, and hopefully we can bring that legislation forward, because the CPTPP is an important club to be a part of, and we want the U.K. there. We already do about $50 billion of trade with the U.K., and we want to increase that even further.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153697">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916754">Thank you very much.</ParaText>
+              <ParaText id="8916755">Go ahead, Mr. Lavoie, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13153701">
+            <PersonSpeaking>
+              <Affiliation DbId="319743" Type="47">Steeve Lavoie (Beauport—Limoilou, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916756">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916757">Good afternoon, everyone.</ParaText>
+              <ParaText id="8916758">Thank you, Ministers, for being here with us.</ParaText>
+              <ParaText id="8916759">I'll introduce myself. I worked in banking for 20 years: 10 years for individuals and 10 years for businesses. I then represented the business community for four years at the Chambre de commerce et d'industrie de Québec.</ParaText>
+              <ParaText id="8916760">I won't go back over the situation with our neighbour to the south. We all know the situation. Even last week, we heard from Mr. Herman, who said that he had never seen a situation like this in 45 or 50 years. That means we can't rely on past situations.</ParaText>
+              <ParaText id="8916761">That said, I obviously had to think about today's meeting. One expression keeps coming to mind, an old expression that someone quoted to me a long time ago and that I've come to understand over time: Life isn't about waiting for storms to pass; it's about learning how to dance in the rain.</ParaText>
+              <ParaText id="8916762">Today, businesses find themselves in a period of incredible unpredictability, and there's nothing worse. I was a banker. People want to lend money; they want predictability. What they want is for businesses to survive. People want their loans to be repaid. In many cases, that's the be-all-end-all.</ParaText>
+              <ParaText id="8916763">Given the circumstances, where the next three years will have no predictability—which may well be the case for a long time—what can we tell our businesses? What can the government do to teach them how to dance given that unpredictability?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153713">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916764">Madam Chair, I'll make a few comments, and my colleague Mr. Sidhu can take it from there.</ParaText>
+              <ParaText id="8916765">You described that well. Whether it's the company representatives I meet or the union representatives, everyone agrees with the exact account that you gave, Mr. Lavoie. Economic uncertainty isn't caused solely by the application of a particular tariff or percentage in a specific sector. There's uncertainty every week; some duties are imposed, others are withdrawn or adjusted, sometimes upward. I could say that we're in the middle of a storm.</ParaText>
+              <ParaText id="8916766">It's a particular storm. The uncertainty keeps businesses from investing money. There's no expansion; banks aren't lending money, and it creates a vicious cycle. You asked what the message was and how we could learn to dance under these circumstances.</ParaText>
+              <ParaText id="8916767">Geography has made it so that Americans will always be our neighbours. History has made it so that we'll always be friends. I think President Kennedy said that first, and it has been repeated by numerous presidents on their visits to Canada. It's the biggest economy in the world. We share values and the English language, as Mr. Sidhu said.</ParaText>
+              <ParaText id="8916768">Americans are going to remain an essential economic partner. However, in difficult conditions, we've learned that overdependence makes us potentially less skilled at dancing with other partners, at finding other markets. I find that to be exemplary work that Mr. Sidhu is doing.</ParaText>
+              <ParaText id="8916769">We're pursuing both paths, and we're trying to add more predictability to our exchanges with the U.S. through our bilateral and trilateral relations, including Mexico, since it's in the same boat as we are.</ParaText>
+              <ParaText id="8916770">Mr. Sidhu can continue his work of trying to enable greater predictability by establishing other circumstances that are less unstable than those that currently prevail.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153757">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916771">Absolutely. The instability is causing a lot of businesses to pull back, and as the businesses pull back, they're not investing. They're not looking at new markets, but it's also their cash flow. I was a business owner, and I know. How can you invest at the same time as you're losing sales and you're getting hit on all sides?</ParaText>
+              <ParaText id="8916772">That's why we launched the $5-billion strategic response fund. That's why we launched the $1-billion strategic tariff initiative. These are important initiatives. We heard feedback from the chamber of commerce and from entrepreneurs, wondering how they can be expected to invest at a time when they're hurting, when they don't have the same revenues and when their cash flow is being hit.</ParaText>
+              <ParaText id="8916773">Therefore, we launched these programs to assist businesses in looking at new markets. The $1-billion tariff initiative is an important program, where businesses can apply for up to $1 million in support. If you want to hire a salesperson to get into the Indo-Pacific, or if you want to attend a trade show to showcase your products, that is why we launched these programs. The <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> was very clear on this. It was to support businesses through this transition. We understand they're going through a tough time, and we want to be there to support them, to look into new markets. </ParaText>
+              <ParaText id="8916774">These are some of the things we're doing, but we're also using our trade commissioner service officials to talk to businesses about external opportunities in export markets around the world.</ParaText>
+              <ParaText id="8916775">In the year 2000, our trade with the United States was around 90%, which was very high at that time. It's come down to right below 75% right now. The U.S. will always be an important partner, as my colleague said, but we also need to collectively look at other opportunities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153775">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916776">Thank you very much. </ParaText>
+              <ParaText id="8916777">We will move on to Mr. Savard-Tremblay for two and a half minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13154852">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="47">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916778">Mr. Sidhu, you've had discussions with Mercosur representatives. Can you guarantee that our poultry production won't be affected by these negotiations, as Mr. LeBlanc guaranteed with regard to dairy production?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153783">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916779">What I can guarantee is that supply management is very important, not only to me and to colleagues around the table but also to Parliament. It was very clear that supply management should always be protected. </ParaText>
+              <ParaText id="8916780">I sat down with farmers from the agriculture sector who are directly impacted by supply-managed sectors. I think it's very important to know, for those listening at home, that we will always stand up for our farmers and for our agriculture workers. Our negotiations will have to be worked through in the best interests of Canadians, and that's what our trade negotiators do. We stand up for our industries in all negotiations, but at the end of the day, it's the will of Parliament to make sure that supply management is protected and that it won't be dismantled.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13153835">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916781">Okay.</ParaText>
+              <ParaText id="8916782">If I understand correctly, there won't be any more breaches in poultry production either. That's a firm commitment on your part today. I'm not talking about the system as a whole; I'm not talking about pieces that could be given up. We know that Brazil is the largest chicken exporter in the world.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153843">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916783">The EU just signed a trade agreement with Mercosur, and you know how the French are with their agricultural sector. There are active negotiations in terms of what we will stand up for, and we will always protect Canadian workers and the agricultural sector. This unique opportunity that we're in.... Mercosur is a trading bloc of over 250 million potential consumers, a huge trading bloc and a huge world of opportunities that we must unlock, but not at the expense of our agricultural sector. We will always stand up for our workers, and we will always stand up for supply-managed sectors as well.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13153846">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916784">I hear you, and I'd like to thank you for your commitment.</ParaText>
+              <ParaText id="8916785">Mr. LeBlanc, I imagine I don't have much time left, but the chair will be able to cut me off fairly quickly, knowing her.</ParaText>
+              <ParaText id="8916786">My question is about CUSMA. It's unclear whether there will be partial or total renegotiations, all of that is very piecemeal. I heard the calls from my colleagues, both Liberal and Conservative, who told you that the committee wanted to work with you. I'll say it again, and we would also like you to work with us.</ParaText>
+              <ParaText id="8916787">Can we expect some transparency on your part? Is there a time in your schedule when we, as elected officials, can find out what your priorities are for a possible review or renegotiation of the agreement? By that I mean what you'll push to the fore, the sectors that will be on the table, and so on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153849">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916788">Mr. Savard-Tremblay, the answer to your question is yes. I think an all-party approach helps Canada in these circumstances. As I said, I appreciate my colleagues' support and the sincerity of their offer. I won't say it again, since we don't have time.</ParaText>
+              <ParaText id="8916789">We're preparing Canada's position, its various options, including consultations with the provinces and territories. As you know, I'm also the Minister of Intergovernmental Affairs, so I often talk to the provincial premiers and certain ministers, such as Minister Simon Jolin‑Barrette, from Quebec. We're in the process of coordinating the consultations and digging deeper. I'm sure there will be times when I can reappear before the committee to publicly share what was heard during those consultations and to present the Government of Canada's priorities. That's always a bit tricky, but we'll no doubt find a way to do it. I look forward to working with your chair on that.</ParaText>
+              <ParaText id="8916790">I'm venturing a bit, but this meeting is open and public. Trade negotiation experts tell me that public negotiation is rarely—and I won't say never—to a country's advantage. However, if we have parliamentarians' support, and we can have honest and open discussions, I'm prepared to find the mechanisms to hold more of these discussions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153873">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916791">Thank you very much.</ParaText>
+              <ParaText id="8916792">We'll move on to Mr. McKenzie, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13154986">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="47">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916793">If you absolutely have to tell us some information, we can always ask for an in camera meeting.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153879">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916794">Exactly. That's what I was thinking. That can also be done informally.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13154952">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916795">Mr. McKenzie, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153881">
+            <PersonSpeaking>
+              <Affiliation DbId="320160" Type="49">David McKenzie (Calgary Signal Hill, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916796">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916797">My first question is for Minister LeBlanc.</ParaText>
+              <ParaText id="8916798">I echo those in the room who have expressed their appreciation for your time today.</ParaText>
+              <ParaText id="8916799">I have to believe that there are voices in the United States—and many of them—who are expressing their displeasure with the direction that the U.S. administration has taken with respect to dismantling the rules-based structure that we have had. Are these voices reaching you? Are you reaching them? Are they coalescing to oppose the depth of tariffs in particular that is being imposed on us?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153888">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916800">Mr. McKenzie, thank you for the question and for the comments.</ParaText>
+              <ParaText id="8916801">I hope so. Your question is a very good one, and you're right. We see, publicly and privately, legislators, including senior members of the Republican leadership. You can think of border states. You can think of certain governors whom I've had a chance to talk to. However, to your point, American business leaders, organizations that represent American businesses—as significant as the U.S. Chamber of Commerce and sectoral organizations—and large American corporations have spoken out publicly and privately to the administration.</ParaText>
+              <ParaText id="8916802">Our ambassador, Kirsten Hillman, does terrific work in Washington. She has a depth of contacts and a depth of a network with business leaders, big and small, in the United States. She updates us regularly on those conversations. They are, in their own economic interest, telling members of the administration.... I imagine—they tell us—they say it privately to them. Many of them say it publicly. I've thought for a long time, Mr. McKenzie, that this will be one of the most effective ways to have the American administration adjust the course. Whether it's because of the impact on the cost of living for Americans or because of the impact on the markets or on sectors of the economy where President Trump has indicated a priority, I think that we should.... You asked whether we are looking for and engaging with those allies. The answer is yes. Some will say things privately to their administration, their government, and some will say things publicly, but it's all value added to trying to get to an agreement that's in the interests of both economies.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13153922">
+            <PersonSpeaking>
+              <Affiliation DbId="320160" Type="49">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916803">Thank you very much.</ParaText>
+              <ParaText id="8916804">I represent the riding of Calgary Signal Hill in the delightful province of Alberta. I'm not going to compete with my friends about which province is better or which part of it. Alberta is a major energy exporter of both crude oil and natural gas to the United States. Can you give assurances that energy will not be a bargaining chip in future negotiations?</ParaText>
+              <ParaText id="8916805">That might be a question for Minister Sidhu as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153928">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916806">I totally recognize the importance of the Alberta economy, the energy sector in your province. It's critical to the economic security of Canadians. There are an awful lot of people from the region I represent in Parliament who earn a living there, and some travel back and forth. I often see them on the planes to Moncton. I totally accept the importance of that sector for the economy of the country, the whole country. You're lucky enough that it's in your province, but the benefits are shared across the country. </ParaText>
+              <ParaText id="8916807">The <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and I have been clear in our conversations with the Americans. We said at the beginning, and we repeated it publicly, that we don't start a conversation by saying that a particular sector, a particular region, cannot contribute to a solution that puts the Canadian economy in a better place. However, one of the discussions with the Americans that makes me hopeful that we can make progress is precisely on the energy security that the Americans are seeking, and they talk to us about all kinds of examples from your province and other provinces, such as natural gas.</ParaText>
+              <ParaText id="8916808">There is an active discussion around energy collaboration with the United States. President Trump talks about “energy dominance”. In all those circumstances, Canada can be a constructive partner for the United States, and I am encouraged by those conversations. It's hard to imagine a scenario where it would become anything other than an advantage to impressing on the American administration our desire to collaborate with them on things as important as their energy security. I have had this conversation with your premier, who has also been very active and constructive in her engagements with the American administration and with senior members of the administration as well. </ParaText>
+              <ParaText id="8916809">I'm hoping that all of that comes together to give us a better negotiation position across the Canadian economy. It's very much an advantage, as opposed to.... It's by no means a sword. It's a very positive shield.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153965">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916810">Thank you very much.</ParaText>
+              <ParaText id="8916811"> Madame Lapointe, you have five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13153967">
+            <PersonSpeaking>
+              <Affiliation DbId="319744" Type="47">Linda Lapointe (Rivière-des-Mille-Îles, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916812">Thank you very much, Madam Chair.</ParaText>
+              <ParaText id="8916813">Welcome, Ministers.</ParaText>
+              <ParaText id="8916814">I'd also like to welcome the people who support team Canada. It's very kind of you to be here.</ParaText>
+              <ParaText id="8916815">I'm very pleased to be a member of the Standing Committee on International Trade. I used to sit on the committee from 2016 to 2018. I was there when we signed the Canada-European Union Comprehensive Economic and Trade Agreement, the Comprehensive and Progressive Agreement for Trans-Pacific Partnership and the Canada-United States-Mexico Agreement.</ParaText>
+              <ParaText id="8916816">Mr. LeBlanc, there's been a lot of talk about defence and the investments that the government can make. You've been to my region, in the Lower Laurentians. It has a major aerospace industry, but it also has a transportation industry.</ParaText>
+              <ParaText id="8916817">I'd like to know how we can ensure that our defence investments lead to benefits. Yes, there's the United States, but if we invest so much, how can we ensure benefits in our markets?</ParaText>
+              <ParaText id="8916818">That's very important in the Montreal area.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13153982">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916819">You're absolutely right. I've had the privilege of visiting some businesses and meeting with you entrepreneurs in your region. I am well aware that Quebec, like other regions of Canada, has a capacity for innovation in aerospace, in the shipbuilding sector, and so on. I was very encouraged by the meeting I had with Premier Legault. He was very keen to work with us to further the benefits of a defence industrial strategy or policy.</ParaText>
+              <ParaText id="8916820">We made a commitment to increase spending for the Canadian Armed Forces, and we have done that. The important thing is to maximize the benefits for businesses and workers in Canada over the long term.</ParaText>
+              <ParaText id="8916821">That said, we can do both. I'm not an expert in defence procurement, but some very specific products or systems will probably always be easier to access through certain suppliers in the United States or other European partners. However, we also have a tremendous opportunity to develop long-term industries in Canada.</ParaText>
+              <ParaText id="8916822">Our discussions indicate that the Americans are happy with our increased spending on the armed forces. They are always talking to us about American industries that could partner with Canada. We also talk to them about an important sector for us, a domestic sector in Quebec and everywhere else in Canada, that should improve co-operation between our two countries when it comes to defence industries. It will also help strengthen co-operation with other partners that the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> met with in Europe.</ParaText>
+              <ParaText id="8916823">Perhaps Mr. Sidhu could add to that.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154012">
+            <PersonSpeaking>
+              <Affiliation DbId="318660" Type="4">Hon. Maninder Sidhu</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916824"> It's a very important sector. Aerospace in Quebec is huge. I sat down to talk about opportunities in defence with Bombardier and with MDA Space. In about 10 days, I'll be taking a delegation to Italy. Many of those delegates will be coming from Quebec—companies based in Quebec—to showcase what we have to offer. Italy is an important partner.</ParaText>
+              <ParaText id="8916825">When you look at defence spending overall, as countries hit their 2% targets for NATO, what role do Canadian companies have to play in that? There are going to be procurement opportunities worth over $1 trillion, which is a huge market, so we need to be seen there. At the CANSEC defence trade show here in Ottawa, there were over 50 international delegations looking at Canadian possibilities and Canadian innovation. There is a lot of work to be done there, and you see the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> out there showcasing some of the opportunities and showcasing the innovation that Canada has.</ParaText>
+              <ParaText id="8916826">Coming back to it, I think it's about jobs on the ground. If you sell a bunch of planes, what does that mean for folks in Quebec? What does that mean for the opportunities it could present in other parts of the country? MDA Space is in Brampton. That's why I want to highlight them. They do a lot of work with satellites and with dual-use defence capabilities. </ParaText>
+              <ParaText id="8916827">How are we utilizing our in-house partners, like EDC? How are they supporting the defence sector? I have been giving strategic direction to EDC that we need to support our defence sector and asking about what we are doing internally, as a government, to help with some of the procurement opportunities here in Canada.</ParaText>
+              <ParaText id="8916828">We know that the defence industry won't be sustainable without exports. Within our defence industrial strategy, we'll have a defence export strategy as well to make sure that we're out there promoting our defence industry, our aerospace and some of the dual use, because we know there are going to be a lot of opportunities for a lot of workers in communities across Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154968">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916829">Thank you very much. </ParaText>
+              <ParaText id="8916830">Thank you to the ministers for that information. I am sure you will be back to spend time with us over the next while.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13154967">
+            <PersonSpeaking>
+              <Affiliation DbId="318683" Type="4">Hon. Dominic LeBlanc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916831">We look forward to it, Madam Chair. Thank you for the invitation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13154035">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916832">Thank you very much.</ParaText>
+              <ParaText id="8916833">We'll suspend for a minute so that the witnesses can come to the table, please.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154064">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916834">I have already acknowledged some of the folks who are here, but I want to welcome Pierre Marier, director general, market access and trade controls bureau; and Lynn McDonald, director general, North America trade policy bureau. Welcome to our committee. Thank you so much for getting yourselves in place quickly. The members always have a lot of questions, and we try to maximize every minute we have at our committee. </ParaText>
+              <ParaText id="8916835">Does anyone want to make opening remarks? I'm not seeing any opening remarks. </ParaText>
+              <ParaText id="8916836">We will open the floor for questions from the members. I will start with Mr. Groleau, who is online.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13154068">
+            <PersonSpeaking>
+              <Affiliation DbId="320158" Type="47">Jason Groleau (Beauce, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916837">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916838">Good afternoon, officials. Thank you for joining us and for giving us your time.</ParaText>
+              <ParaText id="8916839">We had Minister LeBlanc and Minister Sidhu here in the last hour. They talked to us about the importance of creating new opportunities and new markets, which is in itself a very noble goal.</ParaText>
+              <ParaText id="8916840">My region, Beauce, is on the U.S. border. Our companies have been doing business with the Americans for generations. Exports to the United States account for 50% of many of these companies' activities. There's a lot of talk about creating new markets in the future. However, we now have the issue of U.S. tariffs.</ParaText>
+              <ParaText id="8916841">You're our trade negotiations strategists for Canada, if I'm not mistaken. My question is simple: What is the status of the negotiations on U.S. tariffs on steel and softwood lumber?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13154076">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen (Associate Assistant Deputy Minister, Trade Policy and Negotiations, Department of Foreign Affairs, Trade and Development)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916842">Thank you for your question.</ParaText>
+              <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8916843">It's definitely a very important question right now. We are very much aware, of course, of the current situation for many Canadian exporters—certainly for the softwood lumber industry, steel and aluminum, and the auto sector, but also for many more. We've already heard about other issues, such as de minimis, etc. There are many issues. We're very aware that these issues are pressing and that diversification is an option, of course, but it's not an immediate option for many industries, so we are working very hard in all of these areas to see what is possible, to see where the solutions might be found.</ParaText>
+              <ParaText id="8916844">We are also looking at the question of predictability over the longer term, because for many, as was mentioned earlier, it is not simply a question of their access today to the United States or the situation today. It's a question of how comfortable they are about the longer term and how comfortable they are about making investments. We are very much aware of that.</ParaText>
+              <ParaText id="8916845"> That's why, as we look to the review of CUSMA, which has provided some significant access to many Canadian exporters and therefore has alleviated the situation somewhat—not, of course, for the sectors that are directly affected—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154087">
+            <PersonSpeaking>
+              <Affiliation DbId="320158" Type="47">Jason Groleau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916846">With all due respect, sir, my question is not about the Canada-United States-Mexico Agreement, or CUSMA.</ParaText>
+              <ParaText id="8916847">Right now, very significant tariffs are being applied. Our businesses are currently struggling because of this context. I'm talking about tariffs.</ParaText>
+              <ParaText id="8916848">I asked you the following question: What is the status of the negotiations? Are we making any progress? Are negotiations at a standstill? My questions are simple.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154088">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916849">I can say that the discussions are active and ongoing. As the <Affiliation DbId="318683" Type="4">minister</Affiliation> said earlier, I don't want to say that we're going to have a result by a certain date or that it's going to look like this or that, but I can say that we are active in our engagement with the United States to try to find solutions. This is something we're working on now on all fronts. We're very much aware of these sectoral tariffs and their very negative impact on Canadian exporters.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154090">
+            <PersonSpeaking>
+              <Affiliation DbId="320158" Type="47">Jason Groleau</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916850">Thank you.</ParaText>
+              <ParaText id="8916851">Do you think our strategy is sound? We are giving up on all the tariffs and all the measures against the United States. We visit them; you negotiate. We remove tariffs and, in turn, they add more tariffs against our industries two days later.</ParaText>
+              <ParaText id="8916852">What is the strategy behind that? From the outside looking in, it's not encouraging.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154092">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916853"> Our approach right now is to work with the United States and to engage with them to ensure that we have a level of engagement, a level of openness in our discussions and an environment that is conducive to moving forward. We're not backing off this effort, but the effort is more than just having a negotiation over a particular tariff. The effort has to be broader than that. If we're going to succeed at all in moving forward, we're also going to have to make sure, and we are, that the message gets out—through business, local government, state government, Congress, and wherever we can—about the harm that these kinds of tariffs have on a mutually beneficial relationship, the harm they have to Americans and why, for example, applying duties to deal with national security issues to Canada is actually not only unjustified, which it is, but also causing harm to the U.S. </ParaText>
+              <ParaText id="8916854">Our view is that this effort is also very important. It's part of what we are doing. Our hope is that this message will get through to the administration, which we believe it is, and that we can make the case that our situation in Canada in terms of national security is not the same as with the rest of the world and there are solutions that could be applied to Canada that would be beneficial to both countries. That, to us, is a really important part of our efforts. I can assure you that those efforts are also continuing and are also very intensive. </ParaText>
+              <ParaText id="8916855">It's not simply a question of negotiating over a particular tariff issue, as important as those may be. It has to be a broader effort across the board to get the message out that Canada is an excellent security partner. Depending on Canada for exports of steel, for example, is in your security interest. It's better to do that than otherwise. When you get to the issue of softwood lumber, we have to make the case, and we have made the case, that when we look at affordability of housing, softwood lumber from Canada is an important part of that reality. </ParaText>
+              <ParaText id="8916856">I think this combination of efforts is the way we're going to have to move forward. It is something that we are working on, on all fronts.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154105">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916857">Thank you very much.</ParaText>
+              <ParaText id="8916858">I'm sorry, Mr. Groleau. You were almost 40 seconds over your time.</ParaText>
+              <ParaText id="8916859">Mr. Naqvi, go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154109">
+            <PersonSpeaking>
+              <Affiliation DbId="319742" Type="47">Yasir Naqvi (Ottawa Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916860">Thank you very much, Chair.</ParaText>
+              <ParaText id="8916861">Thank you to all the officials for being here for this important conversation.</ParaText>
+              <ParaText id="8916862">This study is about the CUSMA review. I want to focus on that with my time. Just so that we have the foundational piece in place, can you start with what provisions are within the existing agreement in terms of review, what's required and the timelines associated with it?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154113">
+            <PersonSpeaking>
+              <Affiliation DbId="322924" Type="28">Lynn McDonald (Director General, North America Trade Policy Bureau, Department of Foreign Affairs, Trade and Development)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916863">Thank you for the question.</ParaText>
+              <ParaText id="8916864">In CUSMA, also known as USMCA or T-MEC, depending on which country you're in, article 34.7 sets out the provisions and notes that in 2026, five years after the agreement came into force, the parties would take a review of the operation of the agreement and come forward with recommendations for consideration by the free trade commission, the ministers of the three parties.</ParaText>
+              <ParaText id="8916865">The review was pre-set at the time of the agreement coming into force. There would be a look at what is working well and where some improvements might be brought. Currently, all three countries are undergoing public consultations. For Canada, it's our second set of public consultations to get insight and input into what some of those recommendations might be on how to improve aspects of the operation of the agreement for consideration by the three parties. </ParaText>
+              <ParaText id="8916866">That's the general context for the review.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154119">
+            <PersonSpeaking>
+              <Affiliation DbId="319742" Type="47">Yasir Naqvi</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916867"> I don't know if the term “review” is defined in the agreement. We're not talking about an end to the agreement. We're not talking about a wholesale renegotiation of the agreement. This is something less than that. I just want to clarify what a review means.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154121">
+            <PersonSpeaking>
+              <Affiliation DbId="322924" Type="28">Lynn McDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916868">That's correct. It's referred to in the text of the agreement as a “review” of the operation of the agreement. The terms “renegotiation” and “reopening” are not in the text of the agreement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154123">
+            <PersonSpeaking>
+              <Affiliation DbId="319742" Type="47">Yasir Naqvi</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916869">That's fantastic. I think that's an important context for us to have, especially given the importance of the CUSMA to Canada and, in fact, to all three parties in terms of an integrated trading region in North America.</ParaText>
+              <ParaText id="8916870">You just started on the path around consultations. Can you share with us what the building blocks are for the review for the Government of Canada beyond the consultations? It is important to hear from industry and Canadians about their thoughts on the operation of the CUSMA. What are some of the milestones for you, for the Government of Canada, in getting ready for that review?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154126">
+            <PersonSpeaking>
+              <Affiliation DbId="322924" Type="28">Lynn McDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916871">In addition to hearing, very importantly, the voices of stakeholders through the Canada Gazette notice—as I mentioned, this would be the second set of consultations—there also is, and has been, ongoing engagement with provinces and territories to get their sense of what is working and of some areas where maybe we could see improvement, both from a Canadian point of view and from an idea of collective North American prosperity.</ParaText>
+              <ParaText id="8916872">In addition, we have regular meetings with stakeholders to get a sense of their perspectives on the agreement. From a perspective of readying ourselves for a review, there is also taking a look at some of the history of the agreement, such as areas where things have perhaps not unfolded or been implemented in the way that parties expected. There are also areas where the world has changed in the last five years that might give us room to say that we need to take a new look at or review some areas of the agreement to ensure that it's fit for purpose and up to date, given that we have seen quite major changes in the sense of both technology and the global landscape. Those may merit another look at how the agreement is put together. That analysis is ongoing and under way as well.</ParaText>
+              <ParaText id="8916873">In terms of readying Canada for engagement in the review, I note that there are a few legislative steps that the United States has to go through in its own legislation in order to commence the review on its part. While we're ready to engage at any time, we're also being responsive to our American partners at a time when they need to go through their own consultation process and submit a report to Congress. We're watching to see what they come back with, and we're also taking a look at those areas so that we're ready to engage when they want to come to the table with us and with Mexico.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13154142">
+            <PersonSpeaking>
+              <Affiliation DbId="319742" Type="47">Yasir Naqvi</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916874">I have 20 seconds left now.</ParaText>
+              <ParaText id="8916875">One of the topics I want to come back to—and maybe one of my colleagues can pick up on it—is the application of section 232. We talk about unjustified tariffs. The application of that from the American side seems the most egregious to me. I wonder if, in that review process, there is an opportunity for us to tighten that application with the Americans.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154150">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916876">Should I speak to that question now?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154153">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916877">If you can give us a brief answer, go ahead. It's an important question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154156">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916878">It certainly is a very important question.</ParaText>
+              <ParaText id="8916879">There are a couple of aspects to that. The CUSMA itself does not provide any particular provisions related to section 232. What the United States has argued is that section 232 actions are necessary for its essential security, for its national security, and therefore are covered by exceptions that are found within the CUSMA and also within the WTO agreement.</ParaText>
+              <ParaText id="8916880">We don't agree with regard to Canada and the treatment of Canada, obviously. We have made that point very clearly and will continue to make that point, but the CUSMA itself does not directly deal with that because it has that national security exception that the United States is using in this case. There are side letters to it that are relevant, and our goal with the United States more generally, irrespective of the CUSMA review, is to return to a place where we are accorded treatment that is appropriate for Canada, given the fact that we are not a national security threat and that none of our exports are a national security threat to the United States.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154173">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916881"> Thank you very much.</ParaText>
+              <ParaText id="8916882">Monsieur Savard-Tremblay, you have six minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154174">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916883">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916884">Good afternoon, witnesses.</ParaText>
+              <ParaText id="8916885">An official statement has been issued stating that Canada and Mexico would like to coordinate their efforts in this potential renegotiation.</ParaText>
+              <ParaText id="8916886">Could you give us an update on that, please?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154176">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916887">I think it's important that we understand that the review of the CUSMA is many things. One of them is the opportunity for all the signatories to actually look at, as was just said, the current environment, including the current policy environment, but also the technology environment and so forth, and to look at ways to strengthen trilateral work and trilateral operation. </ParaText>
+              <ParaText id="8916888">Also, of course, we want to work very closely with Mexico. We have an important trading relationship with Mexico that is independent of our trading relationship with the United States. The CUSMA plays a very important role in underpinning that relationship. We would want to strengthen that and look for opportunities there as well.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154178">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916889">So it would be done on a bilateral basis, in addition to creating a kind of common front in the trilateral renegotiation, correct?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154180">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916890">There are many aspects to it. I think one aspect is the idea that we hope, and I think we share this view with Mexico, that this is an opportunity to improve the operation of the agreement in a way that benefits all of us. In that regard, we definitely want to work with all our trading partners in the agreement, including the United States. </ParaText>
+              <ParaText id="8916891"> Now, we also recognize that certain aspects of the agreement are very important for Mexico. Certain aspects are very important for Canada. Obviously, we want to work to find common interests and to co-operate as we move forward in the review, but we don't see this review as some kind of opportunity for one side or another to push another side. It's about trying to build co-operative improvements to the agreement and the operation of the agreement, and being very careful to preserve the core value of the agreement. I think we do share that view with Mexico.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154184">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916892">One of the scenarios cited for the review is that if the United States refused to extend the agreement, we would end up with joint reviews on an annual basis. So it would be a permanent negotiation, with a permanent power relationship, where, every year, the United States could go after and pocket gains at the expense of Canada and Mexico. I imagine that's a scenario you've noted, studied and analyzed. What would we do if that happened?</ParaText>
+              <ParaText id="8916893">I am well aware that there is the issue of potential market diversification, but the North American market is and will remain the most important.</ParaText>
+              <ParaText id="8916894">Such a scenario would lead to total and ongoing uncertainty for businesses. Do you have a plan to deal with that?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154188">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916895">I think you touched on a very important point. Uncertainty is not good for companies in the United States, Canada or Mexico. I think our goal here, as we look to the review and as we look more broadly at our trading relationship, would be to increase the degree of certainty and predictability. There's no question that the United States, and companies in the United States, benefit from CUSMA. They make investments and they make supply chain decisions because they believe Canada will continue to treat them in a certain way. That applies to all the parties to this agreement.</ParaText>
+              <ParaText id="8916896">I think our goal is to have a discussion about the operation of the agreement that takes us forward in a climate of greater predictability and in a climate where we respond to the interests of all our businesses and all our stakeholders to have more predictability and certainty as we go forward. That's our goal. Without getting into the specifics of how best to do that—we'll have to see how it evolves—I think this is a goal that U.S. business should share with us and that we will be engaging them on.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154199">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916897">I wasn't talking to you about uncertainty in general, but about a specific scenario that could generate uncertainty, namely annual joint reviews. Have you studied that closely?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154202">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916898"> I think it will all depend on how we set up the structures for ongoing work. We've always had, whether under the NAFTA or the CUSMA, regular meetings of the free trade commission of ministers to review and look at the agreement. The concept of regular review is not new or foreign. It is not something that we are implacably opposed to. What we are opposed to is any suggestion that we're going to have a regular renegotiation. That, of course, we don't support and wouldn't support. </ParaText>
+              <ParaText id="8916899">But I think that's not the path we're on. We're not on a path of annual renegotiation of the agreement. I think we're on a path of a substantial review, followed by periodic review of ongoing operation. That's the approach we want to take.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154208">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916900">Thank you very much.</ParaText>
+              <ParaText id="8916901">Mr. Strauss, go ahead, please. </ParaText>
+              <ParaText id="8916902">Welcome to the committee. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154211">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss (Kitchener South—Hespeler, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916903">Thank you, Chair. It's nice to be here.</ParaText>
+              <ParaText id="8916904">I represent the riding of Kitchener South—Hespeler, which is home to the largest Toyota plant in Canada. It's one of the largest outside of Japan. It employs more than 8,000 people in my riding. I can't tell you how important that plant is. I remember when that plant was announced 30 years ago in my hometown. It means a lot.</ParaText>
+              <ParaText id="8916905">Have you been briefed on what the U.S. tariffs mean to that plant, and have you briefed the relevant ministers about the financial hit they're taking?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154215">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916906">I'm quite new to this job—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154217">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916907">That's fine.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154222">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916908">—so I personally haven't been briefed on the specifics of that plant. What I have been briefed on, and what ministers have been briefed on and are very aware of, is the impact of Toyota's investments in Canada and their importance at a general level—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154226">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916909">Thank you. I have a lot of questions, so I'll have to cut you off there.</ParaText>
+              <ParaText id="8916910">My back-of-the-napkin understanding is that we've estimated that they're losing $200 million a month at that plant. Would you consider this sustainable? That's the hit from the tariffs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154233">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916911">What I can tell you is that, regarding not just this plant but regarding all auto manufacturers in Canada, we know that the situation they're facing is a difficult situation. We're very well aware of that. We're—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154236">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916912">Thank you. I have a lot of questions.</ParaText>
+              <ParaText id="8916913">I just want to say that it is my understanding that American manufacturers send more cars up here than they build here. They're not facing the degree of unsustainability that the Toyota plant in my riding is. It seems you understand that it's unsustainable. Is there relief in sight? When was the last time this particular file was raised with you as officials?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154238">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916914">What I can tell you is that the question of trade in autos and auto parts with the United States is a central subject of ongoing discussions. We are very aware that we need to re-establish stability and openness in this sector. We have—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154244">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916915">I guess my question is when. I am not the president of Toyota international, but if I were looking at a $250-million-a-month bleed, I would be really interested to know when there would be relief in sight.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154246">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916916">I will answer by paraphrasing what the minister said, which is that conversations are ongoing, and by ongoing I mean very regularly. Are we prepared to say today that there'll be a certain date by which we're confident there will be a solution? No. But we're hopeful that we will be able to move to a path that will be sustainable and allow for Canadian investments in the sector—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154252">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916917">Thank you. </ParaText>
+              <ParaText id="8916918">I hope it's not the case that we're hoping for a resolution once the CUSMA review starts or is complete. Can you tell the people in my riding that your office, your department and the ministers are pushing for a resolution right now to this problem?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154257">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916919">Yes. They are.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154261">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916920">Okay. Thank you.</ParaText>
+              <ParaText id="8916921">Under the strategic response fund, how much money can the Toyota plant in my riding, or Toyota Canada more generally, expect to see to make up for their $1.5-billion-a-year loss?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154263">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916922">I'm not sufficiently briefed on the details of that fund to give you an answer right now. We'll follow up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154265">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916923">That would be terrific. I'm sorry to be speaking quickly, but I'm really, really alarmed about this. From my point of view.... You know, roughly half the people in my riding voted Conservative and half voted Liberal. I know that the ones who voted Liberal did so because they were expecting a resolution to this by now, and they haven't seen it. </ParaText>
+              <ParaText id="8916924">Can your office commit to updating me about this file—when negotiations are taking place and when relief might be in sight?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154273">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916925"> We can certainly commit to providing regular updates. It's obviously very important to your riding. Yes, we can do that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154276">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916926">In your view, is it likely that the resolution will not occur until the CUSMA review? Do you think there is any probability of a resolution before that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154280">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916927">We are not in any way.... I'll be very clear. Whether it's on this issue or on other issues immediately affecting Canadian communities that are related to section 232 duties or other unjustified duties, we're not waiting for anything to address them. We are trying to get them addressed now. We don't see any sequencing at all.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154286">
+            <PersonSpeaking>
+              <Affiliation DbId="318212" Type="2">Matt Strauss</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916928">The last thing I want to say is that if my office can ever be of any help to anyone here at this panel or to the ministers who left, please let me know. I am maximally alarmed about this.</ParaText>
+              <ParaText id="8916929">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154290">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916930">It's much appreciated. We will certainly be in touch.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154293">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916931">Thank you, Mr. Strauss. I'm glad you had the opportunity to get some questions in today.</ParaText>
+              <ParaText id="8916932">Mr. Moen, you can send any of that communication to the clerk so that all committee members will have an opportunity to be informed equally. Thank you.</ParaText>
+              <ParaText id="8916933">Mr. Fonseca, go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154299">
+            <PersonSpeaking>
+              <Affiliation DbId="319745" Type="47">Peter Fonseca</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916934">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916935"> Thank you to the officials.</ParaText>
+              <ParaText id="8916936">I will continue with some of the questioning around section 232 tariffs, which PS Naqvi brought up as he was finishing his questions. As we know, these tariffs have no merit. We tried to address them with facts. When it came to the fentanyl or any of the border-crossing issues, we made a significant investment of $1.5 billion in more CBSA officers, border security and Black Hawk helicopters, which we have now.</ParaText>
+              <ParaText id="8916937">What can we do as we go through this review of CUSMA to tighten up section 232 to bring some clarity? If there was an issue around national security for the United States, how could that be addressed in a way that is factual?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154319">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916938">There are a few issues here that are interconnected. The first of those is the section 232 duties currently in place against Canadian exporters. As I just said, we're not waiting for the CUSMA review to address them. We are trying to do what we can now to engage the United States to have these duties removed.</ParaText>
+              <ParaText id="8916939"> The second aspect is the future. What about the future? In that regard, we are very carefully looking at what is possible and what is feasible. Obviously, we would like to have a world in the future where the national security duties are not applied to Canada. The question is, how can we do that, and are there options to do that? We are certainly open to ideas and to working with Canadian and U.S. businesses to see if there is any path forward there.</ParaText>
+              <ParaText id="8916940">The main point I would make is that we are seized with the impact of the existing duties, because they are very serious for communities across Canada, and we are going to be working on them. What we end up doing in the CUSMA review is obviously something we are considering, and we are going to have extensive consultations on that. That's going to be a longer-term, more complex process.</ParaText>
+              <ParaText id="8916941"> We have to do something now about steel, aluminum, autos and auto parts. Now we have these new wood product sector tariffs of concern. There's risk in other areas. Copper is an example. We are seized with the importance of all these areas now. We are definitely not going to wait for a broader review to deal with them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154328">
+            <PersonSpeaking>
+              <Affiliation DbId="319745" Type="47">Peter Fonseca</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916942">We successfully negotiated the NAFTA. There were many lessons learned. We had a great team. I remember Kirsten Hillman was still there at the time. We also had Steve Verheul. Maybe some of you, the officials here, made up part of that team.</ParaText>
+              <ParaText id="8916943">What lessons were learned at that time that we are now implementing as we get into this review?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154333">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916944">That's a very good question. The lesson that we learned during those negotiations, which I was involved in, and that we learn again and again, is that we will make the most progress if we can convince the United States and U.S. stakeholders that there's mutual benefit in trade with Canada. Many of them are deeply convinced, because they know from their personal lived experience that trade investment flows with Canada are extremely beneficial to the United States. This isn't a favour they are doing for Canada. This is a mutual benefit. That message is key.</ParaText>
+              <ParaText id="8916945">It's about ensuring that this message is heard everywhere and met with as much detail and specificity as possible, so that when we enter into a discussion, the focus comes to how we can make this mutual benefit better, rather than on some other track. I think it's possible to do that. It just requires a lot of effort.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154347">
+            <PersonSpeaking>
+              <Affiliation DbId="319745" Type="47">Peter Fonseca</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916946"> Thanks.</ParaText>
+              <ParaText id="8916947">Ms. McDonald, in your remarks, you brought up that the world has changed over the last five years or the last nine years, especially since the first Trump administration. I wanted to ask about our co-operation. Is there an opportunity to co-operate on cybersecurity, as well as on digital infrastructure resilience? We've seen massive changes there, and the threats and concerns we all have.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154352">
+            <PersonSpeaking>
+              <Affiliation DbId="322924" Type="28">Lynn McDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916948">Certainly, we're aware, particularly in some areas of technology, as you accurately pointed out, that there have been developments of leaps and bounds in the last five years. As my colleague mentioned, in the spirit of trying to see where there are areas where there could be both bilateral and trilateral interest in collaboration to enhance our joint economic and national security, there might be areas for exploration where the CUSMA could, through new provisions or through new co-operative arrangements, bring us to an advancement of our security interests. Artificial intelligence is one of the areas that have been flagged as a potential for conversation.</ParaText>
+              <ParaText id="8916949">You mentioned cybersecurity, and I think that, again, this will be something that could be explored to see if there is interest on both sides, or trilateral, to look into other aspects that could be raised again. Our objective is to say that we're better off when we work together as a North American region and try to see areas where we can further that message.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154367">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916950">Thank you.</ParaText>
+              <ParaText id="8916951">Mr. Savard-Tremblay, go ahead for two and a half minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154370">
+            <PersonSpeaking>
+              <Affiliation DbId="320648" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916952">Thank you.</ParaText>
+              <ParaText id="8916953">When it comes to the tariffs on lumber, the Americans know they are going to lose. It happens every time. They lose their cases before the panels that are set up.</ParaText>
+              <ParaText id="8916954">However, it's while those tariffs are in effect that the Americans are putting us in a very difficult position, not to say driving us to bankruptcy. At the very least, the situation greatly delays modernization. In addition, it seriously undermines the competitiveness of our forestry industry.</ParaText>
+              <ParaText id="8916955">Five years ago, when the new CUSMA was being discussed, the dispute settlement process was supposed to last at most a year across the board. In the end, it lasted one year for the prosecution period alone. We learned that the Americans often delayed the appointment of arbitrators for strategic reasons.</ParaText>
+              <ParaText id="8916956">Does Canada plan to remedy this in future discussions? Is it going to try to go back to a one-year dispute settlement process? That would make it possible to resolve disputes in less time than the process is currently taking.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154386">
+            <PersonSpeaking>
+              <Affiliation DbId="322924" Type="28">Lynn McDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916957">As you correctly pointed out, there is an awareness that there have been strategies that the United States has used to delay, for example, panel composition and to extend the time when we would be able to proceed with dispute resolution. What I can say is that, as part of the analysis, looking at where there might be areas that Canada could bring to the conversation and to the table, in terms of improvement to the agreement, the area of dispute settlement is one of them. </ParaText>
+              <ParaText id="8916958">I would caution that we're also looking at the review and trying to keep it fairly narrow and targeted so as not to prompt a wholesale reopening or renegotiation of the text. While we are taking a look at various areas where it would be in Canada's interest to perhaps suggest that there could be improvements, I think there will be a calculation and balance as to what we bring and when we bring certain things to the table so as not to inadvertently perhaps prompt further U.S. demands that could ultimately not serve the Canadian interests. The area of dispute settlement is one where we're very aware that there are some issues, and should that be a subject of conversation or should there be a time when it might be appropriate for Canada to raise those issues, we would be ready to do so.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154406">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916959">Thank you very much.</ParaText>
+              <ParaText id="8916960">We will move on to Mr. McKenzie, please, for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154407">
+            <PersonSpeaking>
+              <Affiliation DbId="320160" Type="49">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916961">Thank you very much.</ParaText>
+              <ParaText id="8916962">During the spring election campaign that recently occurred, the Liberal Party, now the Liberal government, promised that 1,000 border guards would be hired at the Canada Border Services Agency. The information I have is that 66 have been hired, so that promise hasn't been kept. Is there a negative impact on our credibility in negotiations because of that? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154409">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916963">I am unfortunately not sufficiently briefed on the details of how many border guards we've hired, so I can't really speak to that aspect of the issue. Certainly, what we have heard from the United States is an appreciation of the efforts we've taken to strengthen our security at the border. We haven't heard complaints along these lines. We've heard an appreciation. That has contributed, I think, to an environment that's more positive in our discussions.</ParaText>
+              <ParaText id="8916964">Obviously, the specific issue of how many we've hired is beyond my current knowledge. We can get back to you on whether that information is accurate or whether there's something else we should add.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13154424">
+            <PersonSpeaking>
+              <Affiliation DbId="320160" Type="49">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916965">I'd appreciate it if you could get back to us.</ParaText>
+              <ParaText id="8916966">In that vein, in the conversation that is under way that addresses border security issues relative to the Americans and our country, are there other requests the U.S. is making of us?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154429">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916967">I'm going to have to give you a very similar answer. The scope of my knowledge and my work is very much focused on the trade issues. Obviously, there is a relationship to the border, and we're aware of that, but the technical details of what kinds of security arrangements we're discussing with the United States and so forth are beyond my scope of knowledge. </ParaText>
+              <ParaText id="8916968">We'll have to get back to you on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154433">
+            <PersonSpeaking>
+              <Affiliation DbId="320160" Type="49">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916969">Thank you very much.</ParaText>
+              <ParaText id="8916970">This might be in a similar vein, but I'd like to know if your U.S. counterparts are raising any concerns about Canada forging closer ties with China.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154438">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916971">I will try to answer that. </ParaText>
+              <ParaText id="8916972">In the context of negotiations on section 232 tariffs, for example, and all of that, we're trying to focus the effort on Canada's place as a security partner. That's the effort there. In terms of discussions that may be occurring about foreign policy and geopolitical issues, this is again beyond my knowledge, so we'll get back to you if there's anything we should add to that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154448">
+            <PersonSpeaking>
+              <Affiliation DbId="320160" Type="49">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916973">Thank you.</ParaText>
+              <ParaText id="8916974">I am a bit surprised that Canada's activities outside of strictly the U.S.-Canada relationship don't factor in from the Americans' side and that you don't hear about concerns they may have with the actions we're taking in other parts of the world while discussing our trade relationship with the Americans. </ParaText>
+              <ParaText id="8916975">Is that more or less what you're telling me, or are you simply going to check and get back to us?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154456">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916976">With regard to your specific question, I will check to see if there have been conversations of that sort. </ParaText>
+              <ParaText id="8916977">On the trade side, what I can say is that we are trying to focus our efforts not on other countries, but on making the case that Canada is a secure supplier of the products covered by the section 232 tariffs, for example, and that therefore they're unjustified, rather than getting into discussions about our relationships with other countries. As to whether these have come up in conversations or not, that's something we'll have to get back to you on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154463">
+            <PersonSpeaking>
+              <Affiliation DbId="320160" Type="49">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916978">Thank you very much.</ParaText>
+              <ParaText id="8916979">I appreciate what I'm taking to be your continued pursuit of a rules-based trade scheme. It has served us well. I think we should continue it. I'm just not sure we have any longer a willing partner on the other side of the border. That's my concern.</ParaText>
+              <ParaText id="8916980">I wanted to ask, as a former trade commissioner myself, what specifically the trade commissioner service is doing differently from what it might have been doing a year ago to try to promote trade and trade relationships around the country. What's the revamp? What's the new effort?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154469">
+            <PersonSpeaking>
+              <Affiliation DbId="322922" Type="28">David Hutchison (Director General, Trade Strategy Bureau, Department of Foreign Affairs, Trade and Development)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916981"> The trade commissioner service, as it always has, including at the time of the service of a member of this committee, stands ready to support Canadian businesses on where they want to go. </ParaText>
+              <ParaText id="8916982">The minister referred to the development of the trade diversification strategy. Certainly, part of this is taking advantage of our very strong trading relationships in Europe, in the Indo-Pacific and around the world. </ParaText>
+              <ParaText id="8916983">There is a lot of opportunity for Canada. The trade commissioner service stands ready to support businesses. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154475">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916984">Thank you very much.</ParaText>
+              <ParaText id="8916985">Steeve, go ahead for five minutes, please, followed by Adam and then possibly Peter. Maybe we won't get quite that far.</ParaText>
+              <ParaText id="8916986">The floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154479">
+            <PersonSpeaking>
+              <Affiliation DbId="319743" Type="47">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916987">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8916988">I'd like to thank the witnesses for joining us today.</ParaText>
+              <ParaText id="8916989">Since we're talking about negotiations, I'd like to discuss the supply chain.</ParaText>
+              <ParaText id="8916990">In my riding, Beauport—Limoilou, in the Quebec City region, we have a gateway to the U.S.—the Port of Québec, the oldest port in America. There's a lot of talk about negotiations with the United States. There are also discussions about CUSMA with Mexico, opening up markets, and so on.</ParaText>
+              <ParaText id="8916991">That's why I'd like you to talk to us about the supply chain today. Where is the supply chain in all of these negotiations? Whatever deals we conclude and whatever markets are open, the process has to go through a supply chain. However, that's not an easy thing to change.</ParaText>
+              <ParaText id="8916992">I would like you to tell us about the supply chain and the role of industries, such as the Port of Québec, that make sure they are part of this entire process at the end of the negotiations.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154492">
+            <PersonSpeaking>
+              <Affiliation DbId="322922" Type="28">David Hutchison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916993"> Madam Chair, supply chains are crucial to our economic well-being and to the ability of our industries to sustain our own economy and build trading relationships with our partners. Based on the question I heard, the member of the committee is emphasizing the crucial nature of our trade infrastructure, particularly our ports, in allowing for the two-way trade that sustains our economy and our ability to grow our businesses and take advantage of the great economic opportunities in the world. As part of the development of a trade diversification strategy, certainly such trade enablers as infrastructure are a major part of the consideration and the policy development that is being done for this government.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154499">
+            <PersonSpeaking>
+              <Affiliation DbId="319743" Type="47">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916994">Thank you.</ParaText>
+              <ParaText id="8916995">I yield the floor to my colleague Ms. Lapointe.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154501">
+            <PersonSpeaking>
+              <Affiliation DbId="319744" Type="47">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916996">Thank you.</ParaText>
+              <ParaText id="8916997">If I understand correctly, to improve the production chain and diversify supply, we should mainly look at our points of entry and exit for goods—the ports—but also the Gordie Howe International Bridge, which will soon be open to traffic.</ParaText>
+              <ParaText id="8916998">I assume that was part of your negotiations, knowing that access to this new pathway will make travel more fluid between the two countries.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154510">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8916999">I don't have a specific answer to that specific situation. What I can say is that in our discussions and negotiations for the CUSMA—as part of our CUSMA review, for example—we really want to make sure that we do whatever we can to allow for the continued establishment of supply chains. The nature of the trading relationship between Canada and the United States is that in most cases, the bulk of our trade is in inputs into production in the United States. For Canadian exporters, being part of a supply chain, finding themselves in the right place in the supply chain, having the infrastructure to allow them to participate in that supply chain and having a trade agreement framework that is workable and not overly burdensome, in terms of paperwork and so on, are critical for their ability to participate. That's certainly something that we do. We also do it in the context of small and medium-sized enterprises, where you have provisions within the agreement and ongoing co-operation as part of the agreement to support them. </ParaText>
+              <ParaText id="8917000">As we look forward to the review, given the very difficult circumstances we're in, we're very aware that many Canadian companies participate in complex supply chains. We have to be very careful to work with them and understand what that means, to make sure that we continue to provide an environment that allows them to do that.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13154984">
+            <PersonSpeaking>
+              <Affiliation DbId="319744" Type="47">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917001">Thank you.</ParaText>
+              <ParaText id="8917002">Do I have 30 seconds left, Madam Chair?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154534">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917003">You have 25 seconds remaining.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154535">
+            <PersonSpeaking>
+              <Affiliation DbId="319744" Type="47">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917004">I want to go back to supply chains. Tell me what the advantages of those chains are for Mexico, the United States and Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154539">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917005">In terms of our supply chains and the kinds of companies that participate in them, their ability to participate in the broader North American market is really important. It's not just about cross-border trade with the United States. It's about the reality of some of the production chains that our companies are participating in. It may be that final assembly is done in the United States, but there are components coming from Mexico, components coming from Canada and components coming from elsewhere. Having Mexico as part of this equation and having Canada have the kind of relationship we have with Mexico is part of that and part of supporting that.</ParaText>
+              <ParaText id="8917006">We're going to do whatever we can to help ensure that we have diversified chains going far beyond just North America. Whether that requires infrastructure or other aspects, we're certainly looking at that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154547">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917007">Thank you very much.</ParaText>
+              <ParaText id="8917008">Mr. Chambers, go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154551">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917009">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8917010">Thank you for being with us this evening at committee. I want to thank all of you for the work you're doing to help the country through a very difficult time. I know that you have lots of team members as well who are helping support your work, so thank you.</ParaText>
+              <ParaText id="8917011">Do you think Canada was caught a bit off guard by the imposition of these tariffs at the beginning of the year? I got the sense that...and it was not just the government. I'm not saying the government was caught off guard. Were we a bit naive about the relationship we had with the Americans?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154554">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917012"> Well, “we” is a very expansive word. There may have been people who were caught off guard. I think there's a distinction between being caught off guard and being surprised. I'll explain what I mean by that.</ParaText>
+              <ParaText id="8917013">I think we all recognized, because we heard what the President was saying while a candidate in the election and the sorts of things he was saying.... I think there was a realization that we had to be prepared for change. We didn't have crystal balls that could predict the exact shape of that change, but we knew change was coming. I can tell you that within the Government of Canada, within the work we were doing to prepare for the transition, we were assuming that there were risks, and we were looking at different scenarios and trying to make sure we were prepared.</ParaText>
+              <ParaText id="8917014">What I can say, of course, is that for businesses it's impossible to prepare for these kinds of radical and dramatic shifts, and when you have investments that you've made, we realize that's a serious problem. That's why we were extremely relieved when we got the CUSMA exclusion—that was very helpful for many businesses—and deeply concerned about the section 232 duties, which we've seen before. Again, we weren't shocked to see them again, but we were surprised at the scope and nature of it, to a degree. I can assure you that we had all kinds of thinking that had gone into different possibilities in having the section 232 duties come back, because they're certainly on that list.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154575">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917015">Sure. I appreciate that.</ParaText>
+              <ParaText id="8917016"> I guess what I'm also getting at, though, is that we seem to think that all of these businesses in the U.S. are going to support the Canadian cause or promote free trade. I'm sure there are some, but there are also some businesses and some unions that have come out in strong support of the President's actions. Are we naive to believe that the existing agreement as it stands will not be fully reopened? Are we not looking down the barrel of some very difficult economic challenges ahead?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154580">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917017">Well, I think there are a few aspects to that question.</ParaText>
+              <ParaText id="8917018"> One of them is the current situation we're in with regard to duties that we currently face: for example, duties on autos, auto parts and steel and aluminum. This is a serious problem that we face now, that we have to engage on now and that we are engaging on now.</ParaText>
+              <ParaText id="8917019">When you look at the CUSMA review, our view is that the CUSMA review is supposed to be a review of the operation of the agreement and not a renegotiation. That is our view. We recognize that among the partners of this agreement there are different views about what works well and what doesn't work well, so we have to be prepared for all eventualities in a discussion—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154593">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917020">I apologize for having to cut you off, but I have only about a minute left, and the chair is abrupt and very efficient.</ParaText>
+              <ParaText id="8917021"> You mentioned electric vehicles. Can I have a quick yes or no on that? Is it your understanding that the electric vehicle mandate is a trade irritant for the Americans?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154596">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917022">I don't think so.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154601">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917023">Well, it's been reported in the news that Canada's electric vehicle mandate is a trade irritant for the Americans. I'm just asking whether that's.... It sounds like that might be news to you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154605">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917024">I don't know whether it's been raised or not. We can get back to you on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154609">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917025">That's fair.</ParaText>
+              <ParaText id="8917026">Speaking about being prepared, is it time that we bring back the sectoral advisory groups? I mean, we knew that the NAFTA renegotiation was coming. We knew what the President was saying in the election. These groups were around before. The Americans are very robust at using their industry in their discussions. Is that something you're considering?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154619">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917027">What I can say is that we're considering all the different approaches to consultations, whether it's in the CUSMA context or in dealing with the current situation. To date, we've had what I think we would characterize as very robust consultations, whether it's on a sectoral or a regional basis, using different approaches. </ParaText>
+              <ParaText id="8917028">One approach, as we should know in the future, is that we're open to suggestions and ideas. We're always trying to find different ways and new ways to engage with Canadian stakeholders to make sure we have the full picture as we move forward. We're going to keep doing that.</ParaText>
+              <ParaText id="8917029"> As to whether we would go with sectoral groups or not, we're open to suggestions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13154634">
+            <PersonSpeaking>
+              <Affiliation DbId="320620" Type="40">Adam Chambers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917030"> Thank you very much for your time. I appreciate it.</ParaText>
+              <ParaText id="8917031">Thank you, Madam Chair, for the indulgence on the extra seconds. I noticed that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154639">
+            <PersonSpeaking>
+              <Affiliation DbId="320619" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917032">Linda, you have two minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13154642">
+            <PersonSpeaking>
+              <Affiliation DbId="319744" Type="47">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917033">Thank you very much, Madam Chair.</ParaText>
+              <ParaText id="8917034">There is uncertainty related to the fact that the rules of the game are constantly being changed and new tariffs are constantly being imposed on us, among other things. There are recent examples. I'm thinking in particular of the film industry.</ParaText>
+              <ParaText id="8917035">How do all these last-minute changes affect your negotiations? Are you getting things back on track? Do you talk to people to convince them to change their approach?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13154653">
+            <PersonSpeaking>
+              <Affiliation DbId="322921" Type="28">Martin Moen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8917036">We are in a moment when we have to monitor very carefully what is being said in the United States and by whom. We are working very hard to ensure that we have very good networks of people in the United States with whom we can work to understand what is possible and what the risks are.</ParaText>
+              <ParaText id="8917037">Part of responding to developments, to announcements—which don't necessarily turn into policy—and to policy changes, which can be very serious, goes back to what I was talking about: having very robust consultative mechanisms so we can understand very quickly from Canadians what the potential impacts are and what kind of argumentation we can bring to bear. We're doing that across the board, and we're trying to be as nimble as possible.</ParaText>
+              <ParaText id="8917038"> There's no question that for Canadian exporters, this has been a difficult time. We are going to keep working with them to see if we can find solutions and to make sure we understand what is in the realm of the helpful for them.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

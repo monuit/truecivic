@@ -1,0 +1,883 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13156479">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Environment and Sustainable Development</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Monday, October 6, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le lundi 6 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Environment and Sustainable Development</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 6, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/06 11:00:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'environnement et du développement durable</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Environment and Sustainable Development</ExtractedItem>
+    <ExtractedItem Name="Acronyme">ENVI</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Angelo Iacono</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote">PUBLIC PART ONLY - PARTIE PUBLIQUE SEULEMENT</ExtractedItem>
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156482">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair (Angelo Iacono (Alfred-Pellan, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920643"> I call the meeting to order. </ParaText>
+              <ParaText id="8920644">Good morning, colleagues. I hope you all had a nice weekend, and I hope you all didn't miss me much. I'm back to make life more difficult for all of you. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8920645">Good morning to our witnesses.</ParaText>
+              <ParaText id="8920646">Thank you for being here this morning.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8920647">Today is meeting number six of the Standing Committee on Environment and Sustainable Development. This meeting is taking place in a hybrid format and is in public. At 12:00, we are scheduled to proceed in camera to discuss committee business. </ParaText>
+              <ParaText id="8920648">For those attending in person, please follow the health and safety guidelines for using earpieces, written on the cards that are found on the table. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8920649">The committee is resuming its study on the effectiveness, potential improvements and capability of Canada's 2030 emissions reduction plan.</ParaText>
+              <ParaText id="8920650">Today, we welcome Mr. David Sawyer, principal economist at the Canadian Climate Institute.</ParaText>
+              <ParaText id="8920651">We also welcome Ms. Heather Exner‑Pirot, director, energy, natural resources and environment. She is joining us today by Zoom.</ParaText>
+              <ParaText id="8920652">Finally, we welcome Mr. Moe Kabbara, president of The Transition Accelerator.</ParaText>
+              <ParaText id="8920653">Witnesses will have five minutes each for their opening statement.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8920654">We will start with Dave Sawyer.</ParaText>
+              <ParaText id="8920655">You have five minutes, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156491">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer (Principal Economist, Canadian Climate Institute)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920656">Thank you, Chair and members of the committee.</ParaText>
+              <ParaText id="8920657">Today I want to speak to you about Canada's state of play in climate policy. It's a story of fragile progress, rising risk and what it takes to stay on track. It really comes down to three messages that I want you to remember and think about.</ParaText>
+              <ParaText id="8920658">First, the federation's climate progress is real but fragile. We've grown the economy while cutting emissions, but progress has stalled with emissions flatlined in 2024 at 2023 levels. The system that built this momentum for over two decades, shared co-operation between the provinces, the federal government and the territories, is losing traction.</ParaText>
+              <ParaText id="8920659">Second, momentum is going the wrong way. Policy rollbacks and record oil and gas output continue to erase gains. Current policies won't meet the 2030 target, and the drift is becoming structural. We found some technical indicators to point that momentum is pushing the wrong way.</ParaText>
+              <ParaText id="8920660">Third, Canada can stay on the rails. The architecture exists. The tools are proven. What it needs now is focused coordination and goodwill, perhaps, across all orders of government.</ParaText>
+              <ParaText id="8920661">That's the story: fragile progress, wrong momentum and a path to stay on track.</ParaText>
+              <ParaText id="8920662">Our estimates of 2024 emissions show that emissions flatlined in 2024 at 694 megatonnes—well off the 2030 target—just over eight per cent below 2005 levels. This stall comes as wildfires highlight the rising cost of inaction, and, of course, the economy slows under U.S. tariffs. Competitiveness and affordability risks mount.</ParaText>
+              <ParaText id="8920663">For nearly 20 years, we decoupled growth from emissions, but again, that decoupling weakened last year, and we can see emissions continuing to rise as the economy grows. We can't fight against those rising emissions with falling policy.</ParaText>
+              <ParaText id="8920664">Policies matter to success, as do technologies that are showing up in the country and being driven by Canadian innovation, and policy and technology drivers have been pushing down emissions in time. Electricity is a big success story. Decades of federal and provincial action have worked together to drive down emissions to 60% below 2005 levels. Nationally, we're at eight per cent. This has really come based on co-operation, federal backstop policies, provincial will to drive forward, and cheap renewables coming on to the grid, basically making life easier.</ParaText>
+              <ParaText id="8920665">In terms of momentum going the wrong way, emissions in oil and gas, in particular from the oil sands, are up 150% since 2005. The sector now produces a third of national emissions—very important economically, of course—and had record highs of production last year. Records and our analysis show that the sector alone contributed about three megatonnes of emissions last year, in 2024. All other sectors were down in the economy or flat, so really, gains were wiped out by the one sector. Conventional oil and gas is doing a good job with methane regulations, and emissions are coming down in time.</ParaText>
+              <ParaText id="8920666">The bottom line is that other sectors are bending the curve and our biggest emitter is really going in the wrong direction, pulling our national emissions away from that target.</ParaText>
+              <ParaText id="8920667">Where are we compared to 2030? A year ago, our independent assessment of the emissions reduction plan—your study—found us roughly to be three-quarters of the way to our 2030 target, about a 35% reduction on a 40% target. Today, our latest estimates show about a 20% to 25% reduction against the 2005 baseline in 2030.</ParaText>
+              <ParaText id="8920668">What's explaining this? Why? It's federal and provincial policy rollbacks and delays, new high-emitting LNG projects coming on that are already slated for construction, and large lumpy emission increases. In particular, the provincial large-emitter programs are being weakened as we speak, and this really puts a hole in future emissions. Of course, we also have the rollback in the federal carbon charge and B.C.'s carbon charge, and then a whole bunch of delay on key policies like the EV availabilities standard.</ParaText>
+              <ParaText id="8920669">I'm sort of saying, and I'd like to say now, that we're having these policy bonfires in wildfire season, and there are the twin ideas of rolling back policy while we see record fires and we're all living with smoke on a monthly basis through the summer.</ParaText>
+              <ParaText id="8920670">Where to now? Every tonne matters. Climate policy isn't a pass or fail test against the targets. Every tonne matters, and every tonne that is avoided avoids damages in Canada and globally, so it's not really about targets—they're a North Star to guide policy—it's really about driving emissions down in time. Climate change isn't really tomorrow's problem. We're seeing all of these climate realities hitting us, so smart, steady policy matters now more than ever.</ParaText>
+              <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+              <ParaText id="8920671"> How do we do this? We do it with shared responsibility and proven tools across the jurisdictions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156527">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920672">Thank you. Your time is up.</ParaText>
+              <ParaText id="8920673">Next, I'll go to Ms. Heather Exner-Pirot.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156532">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot (Director, Energy, Natural Resources and Environment, Macdonald-Laurier Institute)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920674">Thank you, Chair.</ParaText>
+              <ParaText id="8920675">Thank you, committee members, for the opportunity to speak to you today.</ParaText>
+              <ParaText id="8920676">The Government of Canada once described its 2030 emissions reduction plan as presenting “an ambitious and achievable roadmap”. It was half right. The plan was ambitious, but it will not be achieved. It is hampering the Canadian economy just the same.</ParaText>
+              <ParaText id="8920677">The previous Liberal government made achieving climate targets the centrepiece of its policy agenda. The economy and national security took a back seat. That policy preference has had far-reaching implications, and Canada has gotten poorer and weaker.</ParaText>
+              <ParaText id="8920678">The government has now committed to meeting higher NATO spending targets, becoming an energy superpower and becoming the fastest-growing economy in the G7. None of these goals are compatible with the 2030 emissions reduction plan.</ParaText>
+              <ParaText id="8920679">In polling from Abacus this past weekend, when asked what the top issues facing Canada are, climate change and the environment had fallen to ninth. The cost of living, the economy, housing affordability and unemployment preoccupy Canadians' thoughts.</ParaText>
+              <ParaText id="8920680">I still want to believe a clean environment and strong economy can go hand in hand, but I'm certain a strong economy and the emissions reduction plan cannot. Rather, the emissions reduction plan has unleashed what I call the four horsemen of the Canadian economy.</ParaText>
+              <ParaText id="8920681">First, the clean electricity regulations have driven up electricity costs to record levels. They have also made it harder to build adequate power generation in Canada at a time when AI demand is skyrocketing. Not only are we missing out on a generational outlay of private capital in the hundreds of billions of dollars, but we are rendering ourselves more and more dependent on the United States for what is clearly a strategic capability.</ParaText>
+              <ParaText id="8920682">Second, the EV mandate is pushing against the tide of consumer preference and is totally detached from market realities. Even before the auto industry faced uncertainty and disruption from American tariffs, the EV mandate was adding pressure and costs and impeding its competitiveness. Now, with the tariffs in place, the mandate is an existential threat.</ParaText>
+              <ParaText id="8920683">Third, the emissions cap, while still in draft form, has added tremendous uncertainty to the Canadian oil and gas sector and impeded the attraction of capital. Industry has repeatedly said that it cannot meet the cap without shutting in production. Our LNG and oil will not be globally competitive with the cap in place, and capital will flow to places with lower environmental and ethical standards.</ParaText>
+              <ParaText id="8920684">Finally, while the government suspended the consumer carbon tax in the spring due to its unpopularity, there seems to be an idea that the industrial carbon tax will pick up the slack in Canada's emissions targets. The carbon market works only if heavy emitters are willing to purchase credits. The higher the industrial carbon price goes, the less viable Canadian operations are. At some point, that capital simply leaves for carbon-agnostic jurisdictions. At a certain price, the industrial carbon tax will mostly be effective at pushing heavy industry to places with lower environmental and ethical standards. Global emissions will not be affected.</ParaText>
+              <ParaText id="8920685">I believe that GHG emissions drive climate change, and I think it is in our interest to come up with strategies to address it. I don't think it's enough to just point out where the current plan has failed. We should all seek to offer alternative policies in good faith, but those policies must aim to make Canada's energy-intensive and heavy-emitting sectors better, not smaller. It is woefully obvious that the 2030 emissions reduction plan has had a devastating impact on the Canadian economy.</ParaText>
+              <ParaText id="8920686">In general, climate policies adopted by western nations since the Paris Agreement have shifted industrial production to less environmentally friendly jurisdictions, made our economies less competitive and made our industrial supply chains dependent on our adversaries. As a consequence, we are seeing retreats from climate ideology across Europe and the United States. </ParaText>
+              <ParaText id="8920687">Canada must not be left behind. Economic decline will not lead us to the innovation, investments and infrastructure needed for a better future.</ParaText>
+              <ParaText id="8920688">To finish, I would like to quote Enbridge CEO Greg Ebel, who remarked in a speech last week that we are in this situation due to “a decade where political vanity ran roughshod over economic utility.”</ParaText>
+              <ParaText id="8920689">Canadians want, more than anything else, a strong economy and a sense of hope for their future. The emissions reduction plan stands in the way. Please don't allow political vanity to prevent us from finding a way to build and grow again.</ParaText>
+              <ParaText id="8920690">Thank you for your attention, and I look forward to questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156563">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920691">Thank you, Ms. Exner-Pirot.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8920692">Mr. Kabbara, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156564">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara (President, The Transition Accelerator)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920693"> Thank you, Mr. Chair and members of the committee.</ParaText>
+              <ParaText id="8920694">Today I want to discuss how we can strengthen the 2030 emissions reduction plan through what I would call a competitiveness imperative that ensures our climate policies while simultaneously strengthening our economy and driving the transformation needed towards a low-carbon future. </ParaText>
+              <ParaText id="8920695">As mentioned, effective climate policy really needs to balance between ambition and achievability. When targets feel disconnected from practical pathways, we risk paralyzing action rather than mobilizing it. The key is focusing on where transformation is both technically feasible but also economically advantageous. We need to feel the urgency, yes, but we also need to tackle problems that are truly solvable. That's where we can mobilize action.</ParaText>
+              <ParaText id="8920696">Let's talk about emissions. Oil and gas production represents roughly 30% of Canada's emissions. It's the largest single contributor, but that still means that there is 70% coming from everything else, such as electricity, transportation, buildings and industries like cement, steel, etc. Here's the thing. These sectors are where I would argue the greatest opportunities lie. </ParaText>
+              <ParaText id="8920697">Look at what China did with EVs, batteries, solar panels and critical minerals. They didn't dominate these markets because they cared so much about climate change. They saw something early on, which is that tomorrow's economy would be built on technologies that are simply better. They're more efficient, they're higher performance, and they have more flexibility in terms of energy systems. They move fast, and they dominated those markets.</ParaText>
+              <ParaText id="8920698">When we're evaluating Canada's 2030 plan, we need to ask ourselves if we are positioning ourselves to compete in these sectors. Are we building an industrial capacity that's going to drive prosperity for the next few decades? </ParaText>
+              <ParaText id="8920699">I want to talk about the strategic opportunities we should be prioritizing. </ParaText>
+              <ParaText id="8920700">First is abundant, reliable, affordable electricity. Grid expansion isn't really just about emissions; it's about attracting the industries we want, for example, data centres, advanced manufacturing and green steel and aluminum, and we're already seeing this work.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156580">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin (Repentigny, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920701">Pardon me, Mr. Chair.</ParaText>
+              <ParaText id="8920702">I can no longer hear the interpretation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156581">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920703">It's working now.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8920704">Go ahead, Mr. Kabbara.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156584">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920705">We have manufacturers here in Canada making transformers, like Hammond Power. We've seen those sectors grow in terms of exports by 200% between 2022 and 2024. </ParaText>
+              <ParaText id="8920706">Second, we also have an opportunity when it comes to electric vehicle manufacturing. The long-term reality is pretty clear. The better technology will win. EVs are simply more efficient. They perform better, and they cost less to operate. We may see ups and downs, but the path is clear in terms of where investments are headed in terms of the billions of dollars that have been spent on the sector. We can capture that entire value chain right here in Canada. We should be increasing made-in-Canada content requirements and making sure our automotive chains are resilient. This is the kind of transformation that will set us up for the future. </ParaText>
+              <ParaText id="8920707">Third, I'm going to talk about critical minerals processing. We have a significant opportunity here, with reserves of lithium, cobalt, nickel, graphite and rare earths. Where we can create the real value is by processing raw ore into value-added materials. For example, if you go from lithium to lithium hydroxide, you increase the value by four to five times. These materials also go into other supply chains, like defence systems and precision-guided missiles. All of that is going to be essential to our sovereignty and our security. </ParaText>
+              <ParaText id="8920708">Fourth is mass timber for housing. We can build housing faster with mass timber. We can also reduce carbon while doing so. The global market for mass timber is projected to grow by 150% by 2030. How do we add value to our forest products as we export them?</ParaText>
+              <ParaText id="8920709">Last, I'm going to say, on the defence side, that building the defensive industrial base can actually piggyback or leverage the fact that we're building electricity systems, grid expansion and critical minerals.</ParaText>
+              <ParaText id="8920710">Ultimately, when we're refocusing the 2030 plan, I would argue that every action should answer three questions. Does this strengthen Canada's competitive position? Does this create long-term economic value? Does this drive the structural transformation we need towards a low-carbon future?</ParaText>
+              <ParaText id="8920711">It's really not necessarily about pursuing the lowest cost or the easiest emission reduction in the near term; it's about really transforming the economy so that we can build the structure required that would be part of our low-carbon future.</ParaText>
+              <ParaText id="8920712">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156593">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920713">Thank you, Mr. Kabbara, for your remarks. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8920714">We will now begin the question and answer portion. The Conservative Party will go first.</ParaText>
+              <ParaText id="8920715">Mr. Leslie, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156597">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie (Portage—Lisgar, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920716"> Thank you, Mr. Chair. Welcome back. </ParaText>
+              <ParaText id="8920717">Dr. Exner-Pirot, in your paper, “High costs, low returns”, you argue that Canada has the potential to become a global energy superpower. </ParaText>
+              <ParaText id="8920718">Can you expand on how the Liberal production cap completely undermines that goal, particularly in terms of our international competitiveness?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156599">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920719">First of all, most of the oil sands companies, which are the higher emitters, are publicly traded. They are competing for capital in global markets. People can choose not only other oil and gas producers but any other commodity or any other sector, so they have to find a really good return on investment to get that money. </ParaText>
+              <ParaText id="8920720">Obviously, that's been very difficult in the last few years with the policies we've had. Having an emissions cap on top of that tells investors, “I don't know if I can grow. I don't know if I can produce more in the future. With this policy, I can't; I know that for sure.”</ParaText>
+              <ParaText id="8920721">No one wants to invest in capital-intensive operations without the promise of future growth. Even though the cap has not yet been implemented, it has really been a downer on the ability to track investment. Even with LNG—and everyone seems to like LNG nowadays—that still increases the emissions, as was mentioned already this morning. </ParaText>
+              <ParaText id="8920722">When you're trying to go to Asia and commit buyers to offtake agreements and to spending billions of dollars, they do ask these questions: How does the emissions cap play into this? Will you be able to produce that LNG that I'm now committing billions of dollars to? Can I get that offtake? Will it be producing in 15 years?</ParaText>
+              <ParaText id="8920723">There is no good answer to that question with the emissions cap in place. For the purposes of this committee, I want to point out that in the paper.... I went through it with some economists. Canadian heavy oil is higher emitting. It is on average, however, now only 1% to 3% higher emitting than the global average in archetype oil. It is not exceptionally higher emitting anymore. I think that's a bit of a misconception from 10 years ago. </ParaText>
+              <ParaText id="8920724">The important thing for you to note is that it is less high emitting than other heavy oils. You can't easily displace heavy oil with light oil. We aren't getting cleaner Permian or Saudi to displace Canadian heavy oil; we'd be getting more Venezuelan and more Iraqi, which have higher emissions. </ParaText>
+              <ParaText id="8920725">On a global level, you will not reduce emissions by displacing Canadian heavy oil. You will be trading a larger market for Venezuelan, Iraqi and Colombian in particular. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156618">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920726">Thank you. The offset from those countries, to me, is a worrying proposition. </ParaText>
+              <ParaText id="8920727">The PBO estimated that the cap would cost the Canadian economy $20.5 billion by 2032, with an implied domestic carbon tax of $2,887 per tonne. </ParaText>
+              <ParaText id="8920728">Can you point to any other country that's inflicting this sort of economic pain on itself?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156622">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920729">In the paper, we just looked at exactly what the PBO said it would cost. You divide that by how many tonnes the PBO estimates that you save and you come up with the cost for displacing every tonne of carbon in Canada, which is $2,887. That's obviously far higher than the consumer carbon tax, which we kiboshed at $80 because we thought it was too high. It seems like a gross use of climate policy when there is so much lower-hanging fruit and there are so many cheaper ways to do it. </ParaText>
+              <ParaText id="8920730">Norway's EV subsidies are extremely high. The Inflation Reduction Act has some very high values. The German move to wind and solar was extremely expensive. There are a few comparators, but I didn't find that any were as high as the emissions cap. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156626">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920731">Thank you, Doctor. </ParaText>
+              <ParaText id="8920732">As clearly as you can, if <Affiliation DbId="314774" Type="1">Prime Minister Carney</Affiliation> moves ahead with this emissions cap, is there any chance that we can become an energy superpower, in your view?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156631">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920733">There is zero chance. In fact, we will see more economic decline, absolutely. </ParaText>
+              <ParaText id="8920734">All those LNG terminals that just got approved on B.C.'s west coast will probably not get a final investment decision and will not move to construction. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156633">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920735">In the event that we could somehow actually find new ways to get our product to market without repealing Bill <Document DbId="8936657" Type="3">C-48</Document>, could we become an energy superpower?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156634">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920736">For a democracy.... Saudi Arabia has good reserves. Iran does, and so does Venezuela. We are the only democracy with those exquisite resources of well over 100. </ParaText>
+              <ParaText id="8920737">There is a sense that we are moving away from fossil fuels. It hasn't happened yet. I hope we do move away from it, but you have to appreciate.... We are at about 105 million barrels a day today, but even when we get to 80, 70 or 60, we don't want all of that being provided by OPEC. We would want some democracies providing some proportion of that oil as well. </ParaText>
+              <ParaText id="8920738">It will be Canada. The United States is obviously peaking at shale. Norway will probably have peak oil and gas production this year. The only big democracy provider that is going to be left standing will be Canada, because we have those enormous oil sands reserves and we also have tremendous natural gas reserves. </ParaText>
+              <ParaText id="8920739">We won't run out here at home, but it's going to be very important for our allies that we're able to provide them with that secure supply. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156644">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920740">Thank you.</ParaText>
+              <ParaText id="8920741">Obviously, <Affiliation DbId="314774" Type="1">Prime Minister Carney</Affiliation> has set up the Major Projects Office, and we're seeing, I assume, a bunch of lobbying behind closed doors to get special projects selected. From a free market perspective, wouldn't it have made more sense to simply fix the environmental assessment process that was broken by Bill <Document DbId="9630600" Type="3">C-69</Document> and allow the private sector to do what it does best, rather than politicizing this whole process?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156648">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920742">Everyone is very pleased that at least there's been a focus on major projects and on building, so that rhetoric is welcome. Dawn Ferrell is welcome, but I would say yes: From the private sector perspective, it wasn't another layer of government bureaucracy that they were looking to. It was to rationalize all of the environmental legislation that Bill <Document DbId="13547622" Type="3">C-5</Document> tried to work around. The joke is that the workaround works only when you're around, but we could unleash, you know, dozens or hundreds of projects instead of just the five and 10 kind of sprinkled in here and there.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156657">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920743">Thank you. </ParaText>
+              <ParaText id="8920744">We go now to Ms. Miedema for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156661">
+            <PersonSpeaking>
+              <Affiliation DbId="317575" Type="2">Shannon Miedema (Halifax, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920745">Thank you very much, and thanks to all the witnesses for your time today.</ParaText>
+              <ParaText id="8920746"> I'll start with a question for Mr. Sawyer. The Conservatives like to interchange the words “production cap” and “emissions cap” in conversation, and we just heard some of that today. Can you please define for us the difference between a production cap and an emissions cap, and the role of policy in all of this, as we all agree we're striving towards actually driving emissions down? </ParaText>
+              <ParaText id="8920747">I'll leave it there for my first question, thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156667">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920748">The emissions cap really places scarcity on emissions and allows firms.... There's flexibility in the proposed regulations to allow firms to trade and get compliance options like exporting fuel and LNG offshore and getting units to bring home. That is indicated as a compliance option that can be looked at under the regulations. </ParaText>
+              <ParaText id="8920749">There's compliance flexibility around trading, and firms can do what they want to basically meet that objective, that cap. The proposed regulation asks for about a three megatonne reduction in time. Compare that to Pathways' CCS proposal, which is around 10 to 12 megatonnes of reduction. That puts it into scale. </ParaText>
+              <ParaText id="8920750">One of the challenges with the studies around the impact of the proposed emissions cap is that they assume that the only way to reduce emissions—forget trading; forget getting offtakes from Asia—is to reduce or curtail production. When you curtail production, as was just pointed out, it's really expensive. It's like $800 per tonne. There are other cheaper options to comply.</ParaText>
+              <ParaText id="8920751">If firms want to reduce production, that's a choice, but there's a lot of compliance flexibility in there to keep costs down. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156682">
+            <PersonSpeaking>
+              <Affiliation DbId="317575" Type="2">Shannon Miedema</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920752">Thank you. I used to work for the City of Halifax and was the director of environment and climate change there, and I really relied on federal policy to set the stage for what provincial governments and then local governments as well as other players and sectors could do to drive forward the transformational change that we need in Canada and around the world. So many of the barriers that we would face on the implementation side were around the coordination of acting all together.</ParaText>
+              <ParaText id="8920753">Mr. Kabbara or Mr. Sawyer, or maybe both of you, I'm wondering if you could speak to that. You can have fabulous federal policy, and without the goodwill of everyone, you can still largely fail.</ParaText>
+              <ParaText id="8920754"> Are there things that we could work towards as a federal government to improve our implementation of this urgent and transformational change in terms of policy or otherwise?</ParaText>
+              <ParaText id="8920755">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156698">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920756">Sure. I'll just answer very quickly here. </ParaText>
+              <ParaText id="8920757">I think it ultimately requires alignment, right? I think we can find that alignment in this kind of Venn diagram, where there is going to be an intersection between what's economically advantageous and what's going to be good for the climate. That Venn diagram or that intersection could be different depending on the jurisdiction. I would argue that, in Alberta, it's going to be different from in Nova Scotia and Quebec, and I think we need to recognize that in terms of the type of alignment that the federal government can have with the provinces.</ParaText>
+              <ParaText id="8920758">For example, if you have an oil furnace in your home in Nova Scotia, as you well know, if you put in a heat pump, it's a slam dunk; you're going to save money tomorrow. It might not be the same situation if you're heating with natural gas right now in Edmonton. I think we need to recognize that if we're truly going to find these paths that are going to be practical and address the affordability issue. Ultimately, I think that coordination just needs to start with alignment, and then maybe asymmetrical policies in terms of how the federal government interacts with the provinces.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156713">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920759"> Really quickly, if I may, we just did a bunch of work on looking at shared jurisdiction in the country. By far the biggest reductions in emissions have come from federal and provincial policy that has worked out jurisdiction and deferred federal policy off to the provinces to implement. Methane regulations are implemented by the provinces, so that one jurisdiction implements it.</ParaText>
+              <ParaText id="8920760"> Our success is built on shared responsibility and shared jurisdiction, and that's really the way it functions. Minimum federal standards provincially tailored to meet local needs is the way the federation works.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156720">
+            <PersonSpeaking>
+              <Affiliation DbId="317575" Type="2">Shannon Miedema</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920761">Thank you for that.</ParaText>
+              <ParaText id="8920762">Mr. Kabbara, you spoke about competitiveness. There's a lot of talk about a climate competitiveness strategy that's being created right now by the federal government. That should come out before the budget.</ParaText>
+              <ParaText id="8920763">If you could shape the competitiveness strategy, what would you put in there? What things would you be thinking about that are the most critical for us to be thinking about at this time?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156725">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920764">Sectorally speaking, I think it would be electricity, EVs, critical minerals, mass timber and a connection to the defence sector. These are the five sectors I would focus on.</ParaText>
+              <ParaText id="8920765">More broadly, one of the things we've been arguing for is what's really at the upstream for all of these things. It's a strong industrial base, right?</ParaText>
+              <ParaText id="8920766"> When you look at Korea during the Nixon crisis in the seventies, ultimately what they did was build their upstream industrial base in terms of the chemicals industry. That then led to all of the downstream sectors they have.</ParaText>
+              <ParaText id="8920767"> I think it would be looking at things that would build that industrial base in terms of labour, energy, R and D, innovation, infrastructure and a trade diversification strategy or trade corridors. I think it would be really focusing in on a limited but effective number of priorities and making sure there's an industrial base that can feed into all of these different sectors.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156737">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920768">Thank you, Mr. Kabbara.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8920769">Mr. Bonin, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156741">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920770">Thank you, Mr. Chair. Welcome back.</ParaText>
+              <ParaText id="8920771">Thank you to the witnesses for their presentations.</ParaText>
+              <ParaText id="8920772">Mr. Sawyer, you said that according to your assessment results, we were three‑quarters of the way to our 2030 target, but that because of recent rollbacks, among other things, emissions reductions for 2030 are at 20% to 25% against the 2005 baseline.</ParaText>
+              <ParaText id="8920773">Could you give us more details on that? Where are we exactly?</ParaText>
+              <ParaText id="8920774">What do you mean by recent rollbacks? What would be their impact?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156751">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920775">The big policy holes are the large emitter trading systems: the industrial carbon-pricing systems. The federal government sets a benchmark standard and the provinces can choose to implement their own policies.</ParaText>
+              <ParaText id="8920776">A number of jurisdictions have watered down the system. Saskatchewan has suspended its system entirely. Alberta announced a bunch of changes just last week. This puts significant downward pressure on emissions and prices. Traded prices right now in TIER are below former prime minister Stephen Harper's levels, at under $15 a tonne. The market's illiquid with these latest changes. That really doesn't put the long-term signal in place that we had seen.</ParaText>
+              <ParaText id="8920777">On the EV availability standard, pausing that is a big deal. Yes, there are issues around sales. The slowing sales had a lot to do with fewer subsidies being available as well. When you look at the transportation sector, the population is growing and emissions are not falling as fast. You're not getting the technology uptake that you anticipated. That's another big one.</ParaText>
+              <ParaText id="8920778">Also, then, methane regulations in oil and gas need to be strengthened. A lot of our work was assuming strength in oil and gas regulation. That could be slowing.</ParaText>
+              <ParaText id="8920779">Soon there's clean electricity regulation, although the clean electricity regulation really doesn't come into force until 2035, so it doesn't have much of an impact now. Sure, there's an investment horizon, but it's 10 years away.</ParaText>
+              <ParaText id="8920780">It's stuff like that. There are a number of policies that we can point to, including the repeal of the carbon tax in B.C. and the federal....</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156765">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920781">I'd like to go back to the industrial price for provinces.</ParaText>
+              <ParaText id="8920782">You said that Alberta has taken a step back regarding the carbon pricing system.</ParaText>
+              <ParaText id="8920783">Should the federal government intervene to make sure the industrial carbon price in Alberta is equivalent to the one set by the federal system or to the cap system in place in Quebec?</ParaText>
+              <ParaText id="8920784">Is it equivalent?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156775">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920785"> I'll address the Quebec question first.</ParaText>
+              <ParaText id="8920786">The Quebec system is a strong, functioning and well-organized and maintained system with all the design features you'd want. There is lots of flexibility to keep prices down. It's linked to California to keep credit costs for industry and households down while recycling back to households and industry to help with low-carbon technology. The Quebec cap-and-trade system is very solid.</ParaText>
+              <ParaText id="8920787">With the TIER program, there were a bunch of technical announcements just released. They look technical, but when you put them into the models and look at what's going on, we see future prices maybe at $65 a tonne, if you're lucky. This has put an absolute chill on the market. We hear from traders that the market's illiquid. </ParaText>
+              <ParaText id="8920788">There is massive uncertainty in the system. If we had a public exchange and transparency, like we do in Quebec for the WCI, there are announcements in California and Quebec, and the price responds. The market speaks, and we see that. We really don't know what's going on. We don't have price discovery or an exchange, so we hear from traders what's going on.</ParaText>
+              <ParaText id="8920789">The market spoke. When you tumble the numbers, it now remains well below the levels for good decarbonization or for major investment in decarb to pay.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156785">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920790">Are the systems in place in Alberta and Saskatchewan equivalent to the federal system?</ParaText>
+              <ParaText id="8920791">Should the government intervene to make sure Alberta raises its current price? </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156789">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920792">I won't comment on what the government should or shouldn't do.</ParaText>
+              <ParaText id="8920793">I do know the way the federal backstop is set up. It allows the provinces to design their own systems to meet their needs. Alberta, Saskatchewan and Ontario have unique systems.</ParaText>
+              <ParaText id="8920794">Saskatchewan has announced that it has suspended its system, so it's not in compliance with the federal benchmark. The government could impose the backstop.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156792">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920795">It sounds like you’re saying it's still possible to meet the target set for 2030 if Canada makes major changes.</ParaText>
+              <ParaText id="8920796">Could you explain briefly which changes should be prioritized?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156795">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920797">We would need—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13158409">
+            <PersonSpeaking>
+              <Affiliation DbId="320321" Type="47">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920798">My question is for Mr. Kabbara.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156796">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920799">I'm sorry. I'll go quickly.</ParaText>
+              <ParaText id="8920800">We would need emission reductions of 40 megatonnes year over year to hit the target. The Pathways project.... Since former Prime Minister Chrétien and former Premier Klein, we've been talking about CCUS in Alberta and across the country. That's 10-12 megatonnes. We would need 40 megatonnes year over year to hit the target. We called it this year. I think we're offside with it. Every tonne matters.</ParaText>
+              <ParaText id="8920801">We sort of identified a number of things. We should strengthen the provincial large emitter programs; tighten oil and gas and methane regulations—carbon capture can work, but we need strengthened large emitter programs; fix the EV standard; keep the clean fuel regulations; and implement the clean electricity regulations with investment tax credits.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156806">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920802">Thank you, Mr. Sawyer.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8920803">Mr. Bexte, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156811">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte (Bow River, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920804">Thank you very much, Chair. I appreciate the opportunity.</ParaText>
+              <ParaText id="8920805">Dr. Exner-Pirot, thank you for being here today. I have some questions.</ParaText>
+              <ParaText id="8920806">In considering alternative emissions management tactics, you previously stated:</ParaText>
+              <ParaText id="8920807">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">It is hard to conceive of a more expensive and divisive way to reduce emissions from the sector and from the Canadian economy than the proposed emissions cap.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8920808">Can you explain why the emissions cap is really a production cap and why is it harmful in terms of investment?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156817">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920809"> Yes. There seems to be a very big disconnect between bureaucrats who design these and people who actually have to work and raise money for their businesses in the system. Everyone in the oil and gas sector who has to have buyers and sellers and investors says that this is going to result in a production cap. Whether or not there is some elegant mechanism to choose different offsets or that kind of thing, the fact is that their business will be less competitive vis-à-vis their global peers. </ParaText>
+              <ParaText id="8920810">At the heart of all this, for me, is that we are focusing so hard on reducing Canadian emissions without a line of sight on how that impacts global emissions. You're shutting in Canadian heavy oil and Canadian LNG when the direct comparators, the orange-to-orange comparators in global markets, will almost always have higher emissions intensity. Actually, the oil sector has done quite well in reducing emissions intensity. As mentioned, methane reduction has been a huge part of it on the conventional side. Oil sands barrels have also reduced by about 30% in the last 12 years.</ParaText>
+              <ParaText id="8920811">There are things that are working. There is TIER, which is working to reduce emissions intensity. People are trying. People have put billions of dollars into trying to reduce emissions, but at some point, you're just not competitive. At some point, you just give that market share to somebody else. </ParaText>
+              <ParaText id="8920812">In terms of what their business is, most of it is not trading carbon credits. It's trying to produce that unit of natural gas or that barrel of oil at the lowest possible price. Right now, oil is about $65 WTI. Natural gas in western Canada has been below zero—sub-zero, beyond net zero—prices in the last month. How can you be competitive when you're in a low-price environment—it's a commodity, so it sometimes will be a low-price environment—when you're adding climate costs that probably would be equal to $10 or $20 on each barrel of oil? </ParaText>
+              <ParaText id="8920813">So no, it doesn't require that you shut in production, but your business is not at all competitive and not at all profitable if you have to do all these things. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156846">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920814">Thank you. </ParaText>
+              <ParaText id="8920815">Further along that vein, the government's own modelling through ECCC assumes only a 0.7% decline in oil and gas production under the emissions cap. The PBO projects a 5.4% loss. The Conference Board of Canada and Deloitte estimate around 11%. Actual production trends seem to align more closely with the higher estimates. From your perspective, which dataset is closest to reality? What does this suggest? Does this suggest that the government is downplaying the impact of its own policy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156853">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920816">That's a good question, because the ECCC's scenario is already wrong. It's already based on data that has proven to be wrong. I think it was based on Canadian Energy Regulator scenarios, which were in turn based on International Energy Agency scenarios. As most of you in this committee probably would have noticed, a month ago the IEA came back and said their current policy scenario doesn't see peak oil this decade and sees pretty much plateaus until 2050. If you went back and put that into the ECCC model, you would see that it was extremely ambitious. It hasn't played out that way at all. There's a huge gap. </ParaText>
+              <ParaText id="8920817">In fact, even the PBO numbers look very conservative and are not on track with reality here in October 2025. It does look like the Conference Board and Deloitte numbers were the most representative of what's actually happening in reality.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156870">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920818">Your research suggests that putting a cap on Canadian oil and gas emissions could actually raise global emissions. You've stated this already today. </ParaText>
+              <ParaText id="8920819">You also mentioned that the cost of reducing emissions this way could have up to an “infinite” cost per tonne of carbon. Is that correct? Can you explain how you came up with that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156874">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920820">I'll explain. I had wanted to use the infinity symbol in my paper, but the editor said it was too nerdy, so I had to take it out. </ParaText>
+              <ParaText id="8920821">Basically, when you're talking about Canadian LNG, I think a lot of people across the political spectrum are now rightfully proud of Canadian LNG. It tends to be the very lowest greenhouse gas intensity of any LNG available in global markets. Part of that is the makeup of the Montney. It is a particularly low-emitting field or low carbon-intense field. Part of it is the hydroelectricity that it takes to liquify it. Part of it is just Canada's good environmental standards—for example, the regulations on no flaring and methane.</ParaText>
+              <ParaText id="8920822">If you were to displace—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156882">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920823">Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156883">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920824">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156884">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920825"> You're welcome.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8920826">Mr. St‑Pierre, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156887">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre (Honoré-Mercier, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920827">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8920828">Mr. Sawyer, provinces have adopted greenhouse gas emissions reduction targets. My home province, Quebec, has set its target at 37.5%.</ParaText>
+              <ParaText id="8920829">Are provinces on track to meet their 2030 targets?</ParaText>
+              <ParaText id="8920830">Will that have an impact on the national target?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156892">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920831"> It's a good question.</ParaText>
+              <ParaText id="8920832">I think of targets as a North Star to guide the policy focus and to guide action. Most provinces have not met their targets. Because of its caps in place, Quebec is looking like it's tracking towards its target. For me, the question is really whether we have the policy architecture in place to tune emissions to get there, and repealing policy does not get you there. Every tonne avoided is a tonne of avoided damages now and in the future.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156901">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920833">Thank you.</ParaText>
+              <ParaText id="8920834">Mr. Kabbara, in your latest report, “Building the Future Economy”, from September, you've identified key opportunities such as electric vehicles, critical minerals, clean power, modular housing and defence.</ParaText>
+              <ParaText id="8920835"> Could some of these priority opportunities get us on track towards meeting our 2030 targets and/or getting to net zero by 2050? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156905">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920836">Ultimately, they can definitely help us get to our net zero by 2050 target in terms of reinforcing the types of products that would reduce emissions.</ParaText>
+              <ParaText id="8920837"> In terms of the 2030 target, I would agree with Dave's assessment, that it's going to be pretty much impossible to meet at this point. It's still rolling in the right direction, relatively speaking, in terms of building the future system, and I believe that those actions will result in that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156915">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920838">Perfect.</ParaText>
+              <ParaText id="8920839">I'll move on to Dr. Exner-Pirot.</ParaText>
+              <ParaText id="8920840"> How nice to meet you again. I think I was introducing you at the Banff Forum about a year ago. It's so nice to see you again, virtually.</ParaText>
+              <ParaText id="8920841">Imperial Oil, which last year increased its dividend by 20%, announced last week the layoff of 900 or 1,000 jobs in Calgary. You were cited on September 30 in a CBC article where you spoke about global trends in the oil and gas sector. You said, “This is obviously extremely painful for Calgary and extremely painful for Canada, but this is part of a much broader…series of layoffs”.</ParaText>
+              <ParaText id="8920842">Can you explain what you meant by “a broader series of layoffs”?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156927">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920843">Yes. Imperial, in particular, is 70% owned by ExxonMobil, which obviously is a huge American oil company. They announced a couple of thousand layoffs around the world. We are seeing this not just in the Canadian oil patch; you're seeing it with BP, Chevron and ConocoPhillips. There are layoffs in the oil and gas sector, because prices are very low and it's an extremely competitive environment. The reason prices are very low is that OPEC has been flooding the market, probably in cahoots with the Trump administration, to keep inflation down. Everyone is trying to cut the fat and survive in this market, and if you can, grow market share if you're a low-cost producer, as the Canadian oil sands are now.</ParaText>
+              <ParaText id="8920844">The Imperial cuts, in particular, were just a reflection of those global structures and what ExxonMobil is doing with its own business. The opportunity is to grow the economy in other ways, even as particular companies try to slim down.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156949">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920845">Thank you.</ParaText>
+              <ParaText id="8920846"> As we know, EV sales are growing exponentially. In 2024 about 20% of new cars sold worldwide were electric. The IEA, the International Energy Agency, says that about 25% of new car sales this year will be electric and they're projecting 40% of new car sales to be electric by 2030.</ParaText>
+              <ParaText id="8920847">If global layoffs in the oil and gas sector are happening, does this have to do with the gluts of supply or reduced demand for oil, and what impact would this have in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156954">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920848">It's a good question.</ParaText>
+              <ParaText id="8920849">Actually, we've never seen higher global demand for oil than we're seeing today. It's really about Saudi production and using up all their spare capacity to push prices down and gain market share. I don't think EV sales are growing exponentially—maybe incrementally. If you take out Chinese numbers and do American, North American or European numbers, obviously, the situation is a lot more grim for EVs. You don't have to take my word for it. This is what the EV makers and the Canadian car manufacturers are saying themselves. That is, the EV mandate that we have is not helping them, it is making them less competitive, there is no market for it, and soon it's going to hit the dealerships.</ParaText>
+              <ParaText id="8920850"> I'll stop there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156959">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920851">Thank you.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8920852">Mr. Bonin, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156960">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920853">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8920854">Mr. Sawyer, you've presented us with an inventory of emissions. You also said that there's been no reduction in oil and gas emissions intensity over the last few years.</ParaText>
+              <ParaText id="8920855">Is that true?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156961">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920856"> Yes, since 2017, the oil sands emissions intensity has flattened. There have been massive changes from 2005, but really in the last five years it has flatlined.</ParaText>
+              <ParaText id="8920857">As production increases, you're getting a larger jump in emissions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156963">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920858">The <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> mentioned green oil. Do you know what he's talking about?</ParaText>
+              <ParaText id="8920859">Do you think it's possible right now to get green oil from oil sands?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156972">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920860">All oil and gas and, as Moe indicated, all emissions should really be controlled or at least see some sort of price signal or have some sort of regulation that balances affordability and competitiveness and sends a signal to manage carbon in the long term. That's the long-term signal: climate damages, competitiveness on the global stage, border carbon adjustments—all these things.</ParaText>
+              <ParaText id="8920861">We need signals to change behaviour so we all change our technology, and when a new piece of equipment comes up or a new car comes up, we flip out into something else.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156981">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920862">Mr. Kabbara, in terms of economic leadership, is Canada well positioned to make the energy transition, as compared with others, like Europe or China?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156983">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920863">Yes, and this is why we've been very vocal on this. We believe that Canada has a tremendous opportunity in the current moment. We are one of the only countries in the world that has access to essentially all of the critical minerals required for key elements of products that are going to be required in the future. We also have the know-how and the skills to convert those critical minerals and materials into value-added products. We have access to clean and abundant electricity that we can also grow. We have access to world-class labour and talent. </ParaText>
+              <ParaText id="8920864">I believe we're very well positioned if we, as I mentioned earlier, pick a few areas of priorities and focus on them.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156989">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920865">Could Canada be more competitive, for example by reducing emissions in the oil and gas sector and investing in the energy transition, research, innovation and green industries?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156991">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920866">This is why I'm emphasizing that there's a lot of conversation around that 30% of the pie. We're not really focused on that particularly, which is not to say it's not important, but there's still 70% that we need to focus on. In terms of those investments, whether it's building EVs here or batteries here that can lead to a reduction in transportation emissions, that's something we're focused on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156997">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920867">Thank you very much.</ParaText>
+              <ParaText id="8920868">Ms. Anstey, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156999">
+            <PersonSpeaking>
+              <Affiliation DbId="320169" Type="47">Carol Anstey (Long Range Mountains, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920869">Thank you.</ParaText>
+              <ParaText id="8920870">It's nice to see you, Dr. Exner-Pirot.</ParaText>
+              <ParaText id="8920871">While we're talking about emissions, I wanted to ask a couple of questions about this pivot that we've seen into green hydrogen. The German chancellor visited in 2022. He was actually in my riding in Newfoundland and Labrador, and he sought LNG but was told there was no business case for leaning into this pivot.</ParaText>
+              <ParaText id="8920872">I'm curious where these current hydrogen projects stand and how Canada's decision to prioritize green hydrogen over LNG affects our credibility as a reliable energy partner.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157010">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920873">It's a good question.</ParaText>
+              <ParaText id="8920874">It was obviously infamous. The German chancellor and vice-chancellor came in the middle of their own energy crisis as they were building their own LNG import terminals and trying to find an alternative to the Russian supply but also to some of their Middle Eastern providers. They wanted some redundancy in supply and to not be all dependent on the United States either. Of course, Canada has the resources of an energy superpower but was not able to offer anything to our German colleagues at that time, so there wasn't much of a business case, and we promised instead green hydrogen.</ParaText>
+              <ParaText id="8920875">Actually, that green hydrogen was supposed to be delivered in 2025. The MOU or commitment to Chancellor Scholz said that we'd be delivering in 2025. Obviously, we're nowhere near production. The bottom has fallen out of that market. There are no buyers in Germany. In fact, there are cheaper sources they could buy green hydrogen from in and around Europe, so we haven't seen that. This goes to the heart of where we should be putting our efforts and where we should be positioning our communities to thrive in the future. We have to think about doing things that have real investment and real capital instead of focusing on hopes of some technologies coming out in the future.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157023">
+            <PersonSpeaking>
+              <Affiliation DbId="320169" Type="47">Carol Anstey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920876">Further to that, what risks come to our energy sector from over-prioritizing a technology that may not yet be market-ready?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157027">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920877"> Part of it was the outlay of Canadian taxpayer dollars into something that didn't get a return on investment. Part of it is also the opportunity cost, though. I think people need to appreciate, when you're putting all of your human, financial and political capital into untested technologies, that it means that you're not focusing on building economies, businesses, farms and entrepreneurs on the other side of the ledger that might have a bit more sustainability.</ParaText>
+              <ParaText id="8920878">Of course, Newfoundland has tremendous oil and gas reserves. That should be a bigger boon for the province than it is, but obviously the emissions cap has hampered Newfoundland maybe the most, because we already have production in Alberta, Saskatchewan and B.C., so it's really growing the new production and investing in new fields that is the most unattractive with the emissions cap. That means that the new developments, the new fields in Newfoundland and Atlantic offshore, are the last ones that will get funding in this environment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157046">
+            <PersonSpeaking>
+              <Affiliation DbId="320169" Type="47">Carol Anstey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920879">Thank you.</ParaText>
+              <ParaText id="8920880">In that vein of governments picking, the pivot to green hydrogen and now Bill <Document DbId="13547622" Type="3">C-5</Document>, as you've talked about, giving the government the ability to pick winners and losers under this legislation, how might this deter other projects from moving forward or growing in investment in that sort of environment?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157055">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920881">The main thing is that all of the things that Bill <Document DbId="13547622" Type="3">C-5</Document> will allow, a handful of projects to get away from the some of the bad legislation and regulatory framework, still exist for everybody else. Everyone is still operating with those bad regulatory frameworks that hamper investment. That's one thing. They still have the same system that we've had to deal with for 10 years, which hasn't produced good results.</ParaText>
+              <ParaText id="8920882">Then you also have competition. If a particular copper mine, uranium mine or project gets picked by the Major Projects Office, what about their competitor, who is seeking the same capital from the same sources but isn't on this fast-track list? It doesn't seem to be very fair for anybody.</ParaText>
+              <ParaText id="8920883">Again, the strategy should not be choosing five or 10 that the government thinks will be successful. The government should be setting a framework, an environmental landscape, that attracts dozens—hundreds, even—of projects to want to come to Canada and put their money into our economy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157068">
+            <PersonSpeaking>
+              <Affiliation DbId="320169" Type="47">Carol Anstey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920884">You specifically mentioned our oil and gas offshore sector in Newfoundland and Labrador. What I hear, of course, is that once the Bay du Nord project is up and running, that will squeeze out any future investment. Could you just briefly speak to that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157069">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920885">I'm sorry about that. The time is up. You'll maybe be able to provide that response to another question.</ParaText>
+              <ParaText id="8920886">Thank you.</ParaText>
+              <ParaText id="8920887">Next is Mr. Fanjoy for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157071">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy (Carleton, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920888">Thank you very much.</ParaText>
+              <ParaText id="8920889">Thank you, witnesses.</ParaText>
+              <ParaText id="8920890">My first question is for Dr. Exner-Pirot. </ParaText>
+              <ParaText id="8920891">I believe I heard you correctly when you said that greenhouse gas emissions are contributing to climate change. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13158463">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920892">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13158466">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920893">I want to imagine a not-too-distant future when Canada and the world are increasingly dependent on clean and renewable energy. Can you please elaborate on why Canadians, having shifted to electric vehicles for transportation, electric buses for public transportation and heat pumps and electricity for heating their homes, should shift back to a fossil fuel, whether it's Canadian or from any other nationality? Why they would be persuaded backwards if it's going to increase greenhouse gas emissions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157092">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Dr. Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920894"> I wouldn't convince anyone to shift back. I would have an EV myself. I have nothing against EVs. I wouldn't mind having a Tesla as part of an assortment. No one is asking to shift back. There are people who still use fossil fuels, which, as you must know, make up about 81% of the globe's primary energy source. There's no way to displace what fossil fuels do in heating and in many transportation sectors today. We don't have the technology to displace what they provide in those sectors. It's about being realistic.</ParaText>
+              <ParaText id="8920895">We often discuss it in terms of this trilemma of affordability, reliability and sustainability, but I always say that it's not a trilemma; it's a hierarchy. You have to have reliability and affordability before you can achieve sustainability. I think we've taken our eye off the affordability and reliability pieces.</ParaText>
+              <ParaText id="8920896">We see what's happening in Prince Edward Island, where they all shifted to heat pumps when the government subsidized heat pumps, and now they don't have electricity. The utility is submitting emergency applications to build more natural gas-fired electricity, because they're not sure if they're going to have enough electricity for all of those heat pumps this winter.</ParaText>
+              <ParaText id="8920897">It's about the government not doing top-down, heavy-handed things that inevitably come with unintended consequences. It's about making the right incentives in the market for people to choose what's best for them and have that consumer choice.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157121">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920898"> Thanks very much. </ParaText>
+              <ParaText id="8920899">I'd like to hear from the other witnesses on the solutions that exist today for people who have adopted heat pumps and other solutions. </ParaText>
+              <ParaText id="8920900">Are they reliable? Have they improved affordability?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157124">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920901">Heat pumps, specifically in the case of Prince Edward Island, have been very advantageous from an economic perspective. Reliance on heating oil in Atlantic Canada actually makes Atlantic Canada one of the most expensive places to operate heating in your home. Even if you have natural gas, it's at the end of the line. It's more expensive. </ParaText>
+              <ParaText id="8920902">Ultimately, the problem is not that we can't service that electricity demand. We can. It's just about aligning the planning correctly. In this case, there was a big jump in demand. People were flocking to this because of how economically attractive it was.</ParaText>
+              <ParaText id="8920903">I think it's definitely a reliable source of heating. However, I would again mention—we're very careful about this and I want to be clear—that it's not advantageous across the board. How do you start with the places where it is a slam dunk and use that to kick-start the market transformation in terms of installers, distributors and even potentially manufacturers here in Canada, so we can do the market transformation across the board as it becomes more advantageous in different jurisdictions?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157129">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920904">I had a place in P.E.I. for 30 years, and the worst thing was the light fuel oil tank in the basement. There were higher insurance costs, it smelled, it was a health risk and it didn't cool in the summer. P.E.I.'s gotten really hot, so the heating and cooling load.... I think the movement to heat pumps with heating.... Look, these technologies are just better and cheaper, and they do the job. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157132">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920905">Dr. Exner-Pirot commented earlier on the reserves that Canada has in fossil fuels, particularly in the oil sands.</ParaText>
+              <ParaText id="8920906"> I'd like to open this question up to all to talk about the clean and renewable energy potential of Canada. It's not a scarce energy like fossil fuel. I'd like to hear your reflections on the potential for clean and renewable energy relative to other countries.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157138">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920907">I need a very short answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157140">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920908">When we look at the potential in terms of offshore wind right now in Atlantic Canada and the big push there, and Ontario's expansion on nuclear with the small modular reactors, which are the first in the G7, I think the potential is massive. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157143">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920909">Thank you very much.</ParaText>
+              <ParaText id="8920910">I would like to thank all witnesses for their testimony today. It is greatly appreciated. On behalf of the committee, please accept our gratitude for your contributions to this study. </ParaText>
+              <ParaText id="8920911">The witnesses are excused. This meeting will suspend while we proceed in camera.</ParaText>
+              <ParaText id="8920912">[<I>Proceedings continue in camera</I>]</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

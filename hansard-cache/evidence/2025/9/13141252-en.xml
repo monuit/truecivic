@@ -1,0 +1,1581 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13141252">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, September 25, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 25 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 25, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">25</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/25 11:05:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des comptes publics</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Acronyme">PACP</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">John Williamson</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote">PUBLIC PART ONLY - PARTIE PUBLIQUE SEULEMENT</ExtractedItem>
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141255">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair (John Williamson (Saint John—St. Croix, CPC))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903599">I call this meeting to order.</ParaText>
+              <ParaText id="8903600">Welcome to meeting number six of the House of Commons Standing Committee on Public Accounts.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903601"> Today's meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are here in person in the room, and I believe we have one member online using the Zoom application. </ParaText>
+              <ParaText id="8903602">I'd like to remind members, as well as our witnesses, about the audio system. When you're not using your headset, place it down on the marker on your desk, keeping it away from the microphone at all times. Please do not touch the microphone. If you need to adjust it, it's best to turn off the microphone to avoid audio feedback. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903603">Pursuant to Standing Order 108(3)(g), the committee is commencing consideration of report 3 of the Auditor General of Canada, entitled “Current and Future Use of Federal Office Space”, of the 2025 reports 1 to 4 of the Auditor General, referred to the committee on Tuesday, June 10, 2025.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903604">I'd like to introduce our witnesses, some of whom have opening statements. </ParaText>
+              <ParaText id="8903605">From the Canada Mortgage and Housing Corporation, we have Coleen Volk, president and chief executive officer. It's nice to see you today. </ParaText>
+              <ParaText id="8903606">From the Department of Housing, Infrastructure and Communities, we have Paul Halucha, deputy minister; and Janet Goulding, senior assistant deputy minister, housing and homelessness branch. It's nice to have you in, as well. </ParaText>
+              <ParaText id="8903607">From the Office of the Auditor General, we have Karen Hogan, the Auditor General of Canada. It's nice to see you again. Joining her are Nicolas Blouin, director; and Markirit Armutlu, principal. It's nice to see you as well. </ParaText>
+              <ParaText id="8903608">We'll now turn to the opening statements. </ParaText>
+              <ParaText id="8903609">Auditor General, you have five minutes to kick us off, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141264">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan (Auditor General of Canada, Office of the Auditor General)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903610">Mr. Chair, thank you for this opportunity to discuss our report on the current and future use of federal office space, which was tabled in the House of Commons on June 10. </ParaText>
+              <ParaText id="8903611">I would like to acknowledge that this hearing is taking place on the traditional unceded territory of the Algonquin Anishinabe people. </ParaText>
+              <ParaText id="8903612">Our audit looked at the federal government's efforts to rightsize its office space to minimize costs and free up underused properties for potential conversion into affordable housing. In 2017, Public Services and Procurement Canada, or PSPC, estimated that half of the government's office space was underused, and in 2019-20, the department started planning for a 50% reduction by 2034. </ParaText>
+              <ParaText id="8903613">However, at the time of our audit, PSPC projected it would only be able to reduce the government's office space by 33% in that time frame. The department estimated that reducing the federal office portfolio would generate savings of about $3.9 billion over the next 10 years. We found, however, that PSPC had made little progress in reducing office space. Efforts to rightsize the portfolio achieved less than 2% reduction from 2019 to 2024, mainly because of a lack of funding and the reluctance of some departments to reduce their footprint.</ParaText>
+              <ParaText id="8903614">We also found that PSPC lacked up-to-date, standardized and reliable information from federal tenants on the daily use of office space. Using information from all of its tenants would better enable the department to adjust its plans and maximize opportunities for future reductions. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903615">We found that the Treasury Board of Canada Secretariat’s ability to lead and support departments and agencies in managing real property decreased significantly with the dissolution in 2024 of the Centre of Expertise for Real Property. The centre had been set up in 2021 to support the government in the management of its real property portfolio.</ParaText>
+              <ParaText id="8903616"> The Canada Mortgage and Housing Corporation, or CMHC, supported by Housing, Infrastructure and Communities Canada, is mandated to transform surplus federal office properties into affordable housing through the federal lands initiative. The audit found that while CMHC was on track to meet the initiative’s 2027-28 target to secure commitments to build 4,000 new housing units, the target was based only on commitments, and that only about 40% of units would be ready for occupancy by 2027–28.</ParaText>
+              <ParaText id="8903617">Furthermore, we found that the criterion for affordability used by CMHC for the federal lands initiative was not based on household income. That meant that renters in the lowest-income ranges, whose affordable-housing needs were the greatest, did not fully benefit from the initiative.</ParaText>
+              <ParaText id="8903618">Public Services and Procurement Canada and federal tenants need to accelerate their efforts to contribute to increasing stock for housing that is sustainable, accessible and affordable.</ParaText>
+              <ParaText id="8903619">Mr. Chair, this concludes my opening statement. We would be pleased to answer any questions the committee may have. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141285">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903620">Thank you very much, Ms. Hogan.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903621"> Ms. Volk, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141287">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk (President and Chief Executive Officer, Canada Mortgage and Housing Corporation)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903622"> Thank you.</ParaText>
+              <ParaText id="8903623">Thank you for the invitation to discuss the Auditor General's report on the use of federal office space, particularly in relation to the federal lands initiative.</ParaText>
+              <ParaText id="8903624"> It's an honour to be here on the traditional unceded territory of the Algonquin Anishinabe people.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903625">As you may know, in 2023, the responsibility for housing policy moved from CMHC to the department of Housing, Infrastructure and Communities Canada, or HICC. As a result, policy development for the federal lands initiative resides with HICC. The initiative continues to be administered by CMHC.</ParaText>
+              <ParaText id="8903626">So, I’ll start by saying that CMHC and Housing, Infrastructure and Communities Canada appreciate the Office of the Auditor General’s attention and recommendations. With the Auditor General’s input in mind, CMHC and HICC are working together to improve the initiative—to maximize its benefits for Canadians with the greatest housing need.</ParaText>
+              <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903627"> The federal lands initiative, or FLI, is a $317-million fund that supports the transfer or leasing of federal lands and buildings to eligible proponents to be used for affordable housing. So far, it has supported the development of approximately 5,100 homes. That means, as mentioned in the Auditor General’s report, that the program is on track to meet its unit targets. </ParaText>
+              <ParaText id="8903628">I could point to multiple examples of homes that have been built through this program. There’s one right up the road from here—the Mikinàk community, built on the former CFB Rockcliffe site. It was completed last year, and it offers 271 homes at different affordability levels. Mikinàk was built through the federal lands initiative and another national housing strategy program, the affordable housing fund, in partnership with the province and the City of Ottawa.</ParaText>
+              <ParaText id="8903629">We continue to work with HICC to report FLI's results in the national housing strategy’s quarterly public progress report. Following the Auditor General’s recommendation, we will provide more clarity in the FLI results when reporting units committed, under development, built and repaired. We will collaborate to explore measures that ensure that projects support affordable housing in communities that need it. We’re not the only partners involved in the FLI program, so we will continue working closely with others—federal, provincial, territorial, indigenous and other partners—to attract proponents who will provide housing that serves the needs of all Canadians.</ParaText>
+              <ParaText id="8903630">The federal lands initiative program is just one tool in the tool box—one part of the Government of Canada’s effort to increase the supply of homes and restore housing affordability. </ParaText>
+              <ParaText id="8903631">As you know, the Government of Canada is launching a new entity, Build Canada Homes, to increase the supply of affordable housing. Meanwhile, CMHC will continue to deliver on its mandate to contribute to the well-being of the housing system. We will continue providing mortgage loan insurance, securitization, market-oriented supply programs such as the apartment construction loan program, and industry-leading research. We will complement the work of Build Canada Homes and the other federal agencies involved in housing. Together, we will work with partners in other governments and other sectors to make a better, stronger, more affordable housing system. We consider the Office of the Auditor General to be one of those partners. </ParaText>
+              <ParaText id="8903632">Again, I thank you for the invitation today to talk about this report and the federal lands initiative program. I’m happy to answer any questions you have.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141314">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903633">Thank you very much. </ParaText>
+              <ParaText id="8903634">We begin with our first round of questions, which will consist of three members, with six minutes each.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903635">Mr. Deltell, we'll begin with you this morning. You have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141316">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell (Louis-Saint-Laurent—Akiawenhrahk, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903636">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8903637">Good afternoon, colleagues.</ParaText>
+              <ParaText id="8903638">Ladies and gentlemen, witnesses, welcome to your House of Commons, to your Canadian Parliament.</ParaText>
+              <ParaText id="8903639">Ms. Volk, the Canada Mortgage and Housing Corporation, which you head, has a responsibility to insure as many housing units as possible for as many Canadians as possible and to govern responsibly. Can you tell us if your employees and executives received performance bonuses this year?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141321">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903640">Thank you for the question. I will answer in English. I hope that's all right.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903641">You asked a question about bonuses. I just want to make sure I'm answering the right question.</ParaText>
+              <ParaText id="8903642">We have a system of pay that is known as pay at risk. We establish a compensation level for our employees, and we don't give it to them all at once. We give them a base salary, and we reserve part of it, which they get only upon completion of their objectives. </ParaText>
+              <ParaText id="8903643">While the media likes to call that a bonus, to us it's actually part of our compensation philosophy. It's pay at risk.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141330">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903644">Is it true that 99% of Canada Mortgage and Housing Corporation executives received performance bonuses last year?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141331">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903645">That may be the case, but I don't have those figures at the moment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141333">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903646">Ms. Volk, 99% is not exactly a minority—nearly everyone received a performance bonus. A performance bonus is not a salary. A performance bonus is when you manage to achieve objectives that were quite difficult to attain. However, if 99% of executives achieved their objectives, it may be because the objectives are not properly established.</ParaText>
+              <ParaText id="8903647">How can 99% of your executives receive a performance bonus?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141334">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903648">As I mentioned, it is not a bonus; it is part of their compensation that is put at risk at the beginning of the year. If they don't achieve their specific objectives, they're not entitled to the full payment of that amount. I think the fact that most of our employees do attain their objectives is something that I would be proud of.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141336">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903649">Can you give us a specific example of one of your executives who truly achieved the goals that the public wants? The public expects those executives to accomplish things to make home ownership a reality for them. That's precisely your goal.</ParaText>
+              <ParaText id="8903650">We're talking about 99% of your executives who received a performance bonus. Can you provide a specific example of one of your leaders whose goal was achieved in terms of housing accessibility today in Canada? You'd think the situation was fantastic, but it's just the opposite.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141341">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903651"> The payment of pay at risk is relative to.... Their objectives are established on the basis of what they can individually contribute to the corporation. Every individual will have a different set of objectives. It will relate to their role in the organization and how they can help the organization achieve its success.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141343">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903652">We're talking about $30.6 million in performance bonuses that were paid to your executives and employees. Do you think it's normal to bestow so much money in performance bonuses when we're currently experiencing the worst housing crisis since World War II?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141347">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903653">It's the amount of money that we have set aside as pay at risk, to pay only if they achieve their objectives.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141350">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903654">The Royal Bank of Canada says that we are currently undergoing the hardest times when it comes to home ownership. Your organization's goal is to ensure that Canadians have access to home ownership. The banks are saying that we're in the worst situation since World War II. How can you give your employees performance bonuses when we're currently experiencing the worst crisis and the situation isn't changing despite the actions you've taken?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141352">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903655">There is a housing crisis in Canada, and many partners are required to help resolve that housing crisis. Unfortunately, CMHC does not have the tools to solve that on our own. We have many partners. We have the federal government. We have the provincial governments and the municipalities. Many non-profits are involved. </ParaText>
+              <ParaText id="8903656">It is not a situation that CMHC has the resources or the mandate to solve on its own.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141354">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903657">Isn't your mandate to make housing accessible for everyone? Is that not your mandate?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141355">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903658">Our mandate is much broader than that. Our mandate is to help the system function appropriately and efficiently—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141357">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903659">We have to admit that the system is not working. We're experiencing a terrible housing crisis in Canada right now, the worst one since World War II. Almost 70% of people who don't have access to home ownership have given up on that dream. It is your responsibility to help them.</ParaText>
+              <ParaText id="8903660">How can you give 99% of your executives a performance bonus when 70% of the people who don't have a home—who don't have access to home ownership—have decided to give up on that dream? What do you have to say to those people who have given up on their dreams, when you're paying 99% of your executives $30 million in performance bonuses?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141359">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903661">I agree with you completely that there's a housing crisis, that what is happening in the country is very sad, and that people can't afford the homes they need. I don't agree that it is CMHC's responsibility to solve that on our own, because we don't have the resources or the mandate to solve that on our own. We have a mandate to deliver programs on behalf of the government, which we do. We meet our service standards, and we fulfill our objectives and our mandate as defined by the Government of Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141363">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903662">People are following our proceedings. When people pay taxes, they expect Crown corporations to serve them. In this instance, we see that senior executives served themselves to taxpayers' money.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141364">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903663">Your time is up, Mr. Deltell.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903664">Up next is Ms. Yip for six minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141365">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip (Scarborough—Agincourt, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903665">Thank you, Chair.</ParaText>
+              <ParaText id="8903666">It's good to see everybody back for the fall session and to look at a new report.</ParaText>
+              <ParaText id="8903667">Ms. Hogan, you mentioned in your report that the Treasury Board “made good progress in implementing improvements in how real property is managed within the government.” Could you expand on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141371">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903668">Treasury Board has a sort of dual role in this aspect. They set the return-to-office policies for the federal public service, so they have an ability to influence how many public servants are in federal office buildings. When it comes to housing and how they can afford.... They're the ones who free up, with PSPC, the buildings that can then move to the Canada lands initiative. </ParaText>
+              <ParaText id="8903669">Back in 2019, I think, they did a comprehensive asset expenditure review. They were looking to rationalize what assets could be disposed of and be better utilized by the public service. That initiative resulted in 119 recommendations that are meant to be addressed in order to help improve how assets are used in the public service. However, when funding sunsetted for that initiative, the centre of expertise was dissolved. While they made a lot of progress and came up with some really good recommendations, it is now left to the departments and agencies that received those recommendations to put them in place. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141376">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903670"> Mr. Halucha, how will you take some of the progress that was made by the Treasury Board in managing the real properties as you develop Build Canada Homes?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141383">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha (Deputy Minister, Department of Housing, Infrastructure and Communities)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903671"> Thank you very much for the question.</ParaText>
+              <ParaText id="8903672">Build Canada Homes, the new agency that was recently announced by the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and Minister <Affiliation DbId="318661" Type="4">Robertson</Affiliation>, will have as one of its key functions—different from what Mrs. Volk just outlined—building on federal lands. There were a number of properties identified or announced at the time of the announcement. That's obviously a key difference between the two organizations.</ParaText>
+              <ParaText id="8903673">There's a lot we can do to improve the speed at which surplus lands are made available for public policy purposes, including housing. I think some of the innovations that the Auditor General pointed out Treasury Board has made will help to assist, but there's still a lot to do to improve how quickly lands are made available and, in particular, I think, some of the targeted lands.</ParaText>
+              <ParaText id="8903674"> Another point that was made by the Auditor General in her report was the selection of properties. In fact, right now what occurs is that surplus lands are what's made available. Lands are made surplus when it's determined by departments or custodians that they're not needed anymore, and those are the lands that become available. We need to move to a system where properties are identified and utilized based on the value they can bring to solve public policy issues like housing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141400">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903675">Are we on track?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141401">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903676">Do you mean, on track in terms of making improvements?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13142252">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903677">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13142257">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903678">Yes. I think there's been a lot of progress made in the last two years. I would note the federal land bank that was completed at the end of last summer. That was a very important step forward to actually assess all of the surplus properties, identify what their potential was from a housing perspective and put them out to the market for assessment.</ParaText>
+              <ParaText id="8903679">As you know, one of the challenges is that the value of property is not the same in every market, and bringing surplus property into a transaction can sometimes make a large difference and sometimes less of a difference. It's not always the case that it alone unlocks housing, and that's certainly been our experience over the last couple of years. What CMHC does through the FLI program is to actually bring the subsidy that is still necessary, especially in order to get to affordable and deeply affordable housing. I think that is a key component going forward.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141406">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903680">Thank you.</ParaText>
+              <ParaText id="8903681">My next question is for Ms. Volk.</ParaText>
+              <ParaText id="8903682"> The audit found that while CMHC “was on track to meet the Initiative's 2027-28 target to secure commitments to build 4,000 new housing units”, the target was “based only on commitments” and “only 49% of the new units will be ready for occupancy by 2027-28.” Could you explain why that is?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141415">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903683">Certainly. This is a construction program, and construction takes a long time. I think that's the short answer to your question.</ParaText>
+              <ParaText id="8903684">Essentially, what the program does is bring properties to market, and we negotiate with the proponents for them to acquire the property. Then they need to repair, rebuild and construct, and that is a process.</ParaText>
+              <ParaText id="8903685"> At the time they've won the parcel, won the property—when there's a tender for the process and they're the successful proponent—they probably haven't yet done all of their planning, their design work and their work with the city on zoning and everything. They still have a full construction cycle to come. It does take a while between the winning of a tender through the FLI system and the actual construction or development of the units.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141423">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903686">Thank you very much, Ms. Yip.</ParaText>
+              <ParaText id="8903687">Mr. Lemire now has the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141428">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire (Abitibi—Témiscamingue, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903688">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8903689">Ms. Volk, what do you think of the Auditor General's analysis of the fact that affordability criteria are not designed to maximize access to affordable housing? Is there a clear definition of “affordable housing”?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141433">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903690">Thank you for the question.</ParaText>
+              <ParaText id="8903691">I just want to make sure I correctly understood it, because I can't hear the interpretation right now.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903692">You're asking about affordability and whether we have the right definition of “affordability” to ensure that we're getting the right objectives in affordability. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903693">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141439">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903694">Yes, but what is your reaction to—or criticism of—the Auditor General when it comes to the affordability issue?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141442">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903695">Okay. Thank you. I understand your question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903696">The program was designed in such a way that the properties are selected when the custodians offer their properties. The program doesn't seek out properties in specific areas. It accepts the properties that custodians have identified.</ParaText>
+              <ParaText id="8903697">Those properties may be in the areas that are in the highest core housing need, or they may not be. They're certainly in communities with housing need, because every community has some amount of core housing need, but are they in the communities with the highest core housing needs? That's not necessarily the case, because they're supplied by the custodian. That is a fact of the way the program was designed. </ParaText>
+              <ParaText id="8903698">On the definition of affordability that's used, there are different definitions of affordability used in different government programs. I agree that it would be ideal if there was one common definition of affordability, but you have to think about it in the context of what the program is trying to accomplish in terms of affordability and whether it's trying to get at the deepest affordability or something that's more affordable. Depending on the program objectives, you may find that there is a different definition.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141454">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903699">One of the first considerations for affordability is the way it's established for different regions. At Canada Mortgage and Housing Corporation, or CMHC, I often see that the criteria don't apply in remote areas. So that's another aspect we'll have to define, namely what constitutes a rural region. Gatineau—a bedroom community near Ottawa with a population of 1.6 million—is often considered a rural region in Canada. This presents a huge problem when it comes to channelling CMHC funds to truly remote regions. Just think of a region like the one I represent, Abitibi-Témiscamingue. I'd like to see the development of an accurate definition of a rural region.</ParaText>
+              <ParaText id="8903700">Another problem is that very few federal buildings are available for transfer in the regions. Once again, the entire program is geared towards the major centres.</ParaText>
+              <ParaText id="8903701">The housing shortage has been a reality in Abitibi-Témiscamingue for over 20 years. One concern is that, even though the last waves of housing construction took place between 1990 and 2000, the median price of construction in Abitibi-Témiscamingue is based on old rates. That doesn't account for the fact that, nowadays, trees from my region are shipped out for processing before coming back, so transportation costs will be charged for two-by-fours, even though the resource comes from my region. It costs between 30% and 40% more to build a home in Abitibi-Témiscamingue. As a result, we can't adapt to CMHC programs, which is a major problem. It's all very well to say that we're going to rent apartments and make them affordable, but construction costs have skyrocketed, which is becoming a problem.</ParaText>
+              <ParaText id="8903702">How will CMHC manage to tailor its adaptability programs to the reality of resource regions? How can we ensure that we are reaching all populations across Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141472">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903703">Thank you for the question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903704">It is true that some of our programs are more difficult, as you said. With the federal lands initiative, we don't have very many Canadian office buildings in rural parts of Canada, so the federal lands initiative is not one that's likely, proportionally anyway, to have great benefits in the rural areas of Canada. There are issues in other programs as well.</ParaText>
+              <ParaText id="8903705">At CMHC, we are administering programs as designed by the government, so we follow the rules of the programs that we're designing. If your question is about how we can adapt our programs in the future so that they are more appropriate, the policy lead on that has been transferred to Housing, Infrastructure and Communities Canada, and they may have some thoughts about how they would want to address that going forward.</ParaText>
+              <ParaText id="8903706">I can assure you that I am aware of the issues you've raised. We are administering the programs that we have to the fullest extent that we can, but I acknowledge that they don't all work well.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141481">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903707">I'd like to use the remainder of my time to address a few aspects.</ParaText>
+              <ParaText id="8903708">According to housing policy, renting an apartment in Rouyn-Noranda should cost $660 per month. However, since construction prices have skyrocketed, the median price of an apartment in Rouyn-Noranda right now is $850. Trying to find an apartment at this price is impossible, as rents are typically around $1,250 and much higher. Housing has been bought back by mine workers, but it's not the same thing when it comes to affordable rental needs.</ParaText>
+              <ParaText id="8903709">I have one last question, which concerns the creation of Build Canada Homes. The agency seems to reflect a certain disavowal of the Canada Mortgage and Housing Corporation's work on housing construction programs. Do you think a structural change will really transform the housing supply on the ground in a region like Abitibi-Témiscamingue?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141488">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903710">I can't speak for Build Canada Homes.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903711"> Paul may have something to say about that, but in terms of CMHC and our programs, we are, as I said, aware of the concerns you've raised, and we'll be working with HICC as future programs are designed by HICC that we can deliver.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141495">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903712">Do you have a brief comment to add?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141496">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903713">Ms. Volk, I'm glad you're aware of the situation. This is a problem that I will repeatedly raise, because it is a recurring one for us. I think one of the issues is the adaptability of programs.</ParaText>
+              <ParaText id="8903714">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141497">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903715">Thank you very much.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903716">We're beginning our next round, which will consist of five members and various times. </ParaText>
+              <ParaText id="8903717">Leading us off is Mr. Kuruc.</ParaText>
+              <ParaText id="8903718"> You have the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141499">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc (Hamilton East—Stoney Creek, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903719">Thank you very much.</ParaText>
+              <ParaText id="8903720"> I will be asking Ms. Volk questions.</ParaText>
+              <ParaText id="8903721"> StatsCan and the national housing strategy's definition of affordability is 30% of a family's income. If we use Ontario as an example, that's about 750 bucks, give or take a few dollars. However, CMHC has it as 80% of the median market rate, which is $1,200. That's a massive disparity. This means that your so-called affordable housing has actually become unaffordable for a lot of Canadians. </ParaText>
+              <ParaText id="8903722">Would you commit to changing your metric to that of StatsCan and the national housing strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141504">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903723">It's a great question. CMHC isn't in charge of that in the programs we deliver on behalf of government. The government establishes the criteria we use, and then we administer the programs accordingly. </ParaText>
+              <ParaText id="8903724">It may be a more appropriate question for Paul in terms of going forward, but what I will say is that, absolutely, if you use the definition of 30% of income, you get a lower number in most cases than you would if you used our 80% of median market rate, the median market rent. It does drive a different result, and it doesn't drive to the same level of affordability, but it does drive affordability. If this is the market rate, it drives it down a little bit, though not as much as if we used a different number. We are still getting a benefit. In some programs, that may be the benefit you're looking for. You may not need to go all the way—it depends—and it costs more if you drive it down further.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13141508">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903725">That's fair enough, but in the housing crisis we're in, I would hope.... Your organization, as we've seen today, is at the top of all the other organizations. I would hope that, with your influence, we could actually meet that lower rate in the current state that Canada is in. That would be a pretty good goal. I think everyone would agree with that. Would you?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141511">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903726">There are certain programs that are definitely geared towards more affordability. I would say that I don't want to be that categorical about it, though, because there is a trade-off between the number of units you can support with a given set of money and the affordability target. If we make them more affordable, we can do less with the same amount of money. Also, in a supply crisis, the number of units that are supported is actually an important factor too.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141514">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903727">Okay. Thank you.</ParaText>
+              <ParaText id="8903728">My recommendation would be that we use StatsCan's rate. That would be my recommendation moving forward.</ParaText>
+              <ParaText id="8903729"> Now I would like to go back to what my colleague touched on, the bonuses. We're here in this committee to represent the taxpayer. That's what we're here to do. I want to touch on this. You mentioned that it's about $30 million in bonuses, but you said that it's not necessarily a bonus. Can you elaborate on that? What I'm seeing here in my notes is that there are no real guidelines or that the workers are working at their own pace. Can you give me clarity on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141518">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903730">Every individual has their own performance management agreement in which they, along with their supervisor, establish their objectives for the year. Some of those objectives would be fairly common things, such as good fiscal administration and those kinds of things, but then they have very specific targets based on what they are bringing to the organization. It's different for someone in an IT function, versus someone in an HR function, versus someone on the front lines, versus someone in our insurance function. Everybody has their own, so they, along with their supervisor, are establishing their own objectives. If they don't meet their objectives, they are not entitled to that pay at risk. It's pay at risk.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141524">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903731">We know that 99% of your organization met their standard. I still don't see clarity on that. I can appreciate that everybody has their own goal set out, I guess, at the time of signing the contract. In my opinion, I don't think that's a good explanation to the taxpayer. I think it has to be a little more clear-cut. Even if you work at a car lot, you understand where you're going to get above your base pay. You're clearly not a car lot; you're a massive organization. There's no real clarity. Out of all the employees you have, each individual has their own incentive. I just don't think that explanation is a good explanation for the taxpayer, in my opinion. It's not very clear. </ParaText>
+              <ParaText id="8903732">My recommendation would be to have a lot of clarity in there. As it reads, it's $30 million in bonuses to 99% of your workers. At a time of a housing crisis, we have to justify that to the taxpayer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141534">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903733">Thank you, Mr. Kuruc.</ParaText>
+              <ParaText id="8903734">I'll allow a response, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141535">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903735">Thank you.</ParaText>
+              <ParaText id="8903736">I agree that it could be interpreted that way, but it's not the reality to me. First of all, as I mentioned, CMHC, in and of itself, is not capable of solving the housing crisis, so that can't be the overall measure. Also, very importantly, every person at CMHC has a different way of contributing. I use the example of someone in IT. They're going to do an excellent job with their IT systems, whatever the situation is on the ground in a housing context. Everyone brings their own individual piece to the organization, and that is what is recognized through the performance pay. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141537">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903737">Thank you very much.</ParaText>
+              <ParaText id="8903738">Ms. Tesser Derksen, you have the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141538">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen (Milton East—Halton Hills South, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903739">Thank you so much, Mr. Chair.</ParaText>
+              <ParaText id="8903740">Thanks, everyone, for being here.</ParaText>
+              <ParaText id="8903741">I think you can tell how passionate we all are about this issue. I have a background as a municipal councillor, and we really were boots on the ground, talking to people about housing and dealing with regional governments and local governments, with our federal and provincial partners at the time, and with lots of non-profit groups to address this issue. It really is a multi-faceted solution that we need to meet. You should know, and I think you do know, how serious we all are about addressing this for Canadians.</ParaText>
+              <ParaText id="8903742">I have a hodgepodge of questions, but I'm going to start with the Auditor General.</ParaText>
+              <ParaText id="8903743">Ms. Hogan, I know PSPC is not here today, but I will ask about the note in your report about improvement to data collection, particularly with respect to the federal tenants. What improvements would you say could be made internally to get that data flowing more effectively so that we can make more data-based policy?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141548">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903744">When we approached looking at federal office space.... There are two basic elements you need to know if you're planning on reducing it: how much office space you have and how it is being used. While how much you have is known, how it is being used is the missing element. If you want to be able to consolidate buildings and free up buildings or, as a witness said earlier, if you want to target buildings, you need to know how they're being used so that you know how many public servants you have to move. That's what's missing—the standardized collection of information that would give that piece of information to PSPC.</ParaText>
+              <ParaText id="8903745">We looked at how federal tenants know who's in the building, how often it is being used and how much space is underutilized or left vacant. There are so many ways this is being tracked—badge swipes, applications or just physical counting—and that's not giving you a reliable picture. It's difficult to consolidate when you're not comparing the same elements. We felt that this basic piece of information was key to help solve how to target going forward. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141559">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903746"> My question is for Mrs. Volk.</ParaText>
+              <ParaText id="8903747">This was already touched on a little bit, but it goes back to the Auditor General's report, which noted that your department is on track to meet those goals of 4,000 new housing commitments. There is a note in there as well that coordination across government entities and stakeholders can be improved. I already mentioned the work that I did when I was back in the municipality, working with non-profits, for example, and other stakeholders.</ParaText>
+              <ParaText id="8903748">What's your department doing to improve that coordination?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141564">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903749">I absolutely agree that coordination could be improved.</ParaText>
+              <ParaText id="8903750">At CMHC, we make it a priority to deal very effectively with the provincial governments, the municipalities, our colleagues at HICC, and soon with Build Canada Homes. That will be very important, and we are doing everything we can to coordinate that. There is a role for more coordination there, and I believe that will be part of the role of Build Canada Homes, as a one-stop shop for affordable housing projects in order to bring those people together and act as a catalyst for some of that. That's my understanding, anyway, of part of the role of Build Canada Homes.</ParaText>
+              <ParaText id="8903751">At CMHC, we will be doing everything we can to make sure that this coordination works smoothly and that every party knows what the other party is responsible for.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141573">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903752">l appreciate that.</ParaText>
+              <ParaText id="8903753">Leading from your answer, my next question is this: Are you putting best practices in place now? Are you discussing this with your team to determine—once that does come down from Build Canada Homes, as you're anticipating—how you are going to implement that quickly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141577">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903754">We are having discussions internally, but it will be reinforced when Build Canada Homes is up and running and when we have interlocutors at the various levels of the organization. It's certainly something that I will be speaking about with the new CEO of Build Canada Homes right away in terms of how we can work most effectively together.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141580">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903755">Thank you.</ParaText>
+              <ParaText id="8903756">I have a question for Mr. Halucha.</ParaText>
+              <ParaText id="8903757">We noted in the report that there was this cutting of the preferred disposal time in half, from six or eight years to now three years. Can you talk to me about the rationale for doing that? In hindsight, was it realistic, and were there outside factors that made the proposed reduction sensible then, but perhaps more difficult now?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141619">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903758">Are you talking about the movement of surplus properties on to the housing land bank?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141621">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903759">That's right.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141624">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903760">This was a really important change. The land bank is a very important innovation in terms of the way the public service is managing public lands. The average time of moving a surplus property through the surplus process was nine years, and it remains so—too long at this point. There are a lot of different theories about why that is the case.</ParaText>
+              <ParaText id="8903761"> In my previous role, I worked at the Privy Council Office and was responsible for public lands. What really seemed to stick out was that there wasn't a premium put on getting lands through the system. There weren't the public policy objectives; therefore, things sort of moved at their own speed. Now, however, it has been infused with urgency, as was mentioned at the table. There's a crisis now; therefore, in terms of getting lands out, there's a lot more senior attention being given to what is occurring and how long things are taking. </ParaText>
+              <ParaText id="8903762">There are some things that simply do take time. There's a process of consultation, including first nations consultations, that is obviously extremely important. There are environmental assessments that need to occur. In some cases, there's infrastructure, so there are some things that are, I would say, out of our control. Those things don't happen if attention isn't being paid to it. That's the big difference that is occurring now and will need to continue.</ParaText>
+              <ParaText id="8903763">You probably wouldn't know that the Canada Lands Company has moved into the housing portfolio, and that was done—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141660">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903764">Thank you, Mr. Halucha.</ParaText>
+              <ParaText id="8903765">You were about to land there, and then you took off again. We'll come back to that, because I know you have a lot more to say.</ParaText>
+              <ParaText id="8903766">I will remind members that I operate a little differently in this committee, and I'll do so until I'm told otherwise by members. If members get their questions in on time, I will allow the witnesses to respond to those questions. However, you can't interrupt; if you do, it ends right away.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903767">Mr. Lemire, you have two and a half minutes to ask your question. When your time is up, here's what will happen.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903768"> I will still let the witnesses answer, within reason. </ParaText>
+              <ParaText id="8903769">As well, just so that members know, if there's ever any trouble with translation, I do pause the clock, or if the witness seeks clarification, I don't take that from your time. Again, you know all this, but I just thought I'd reiterate it as we start the autumn session.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903770">Mr. Lemire, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141664">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903771">Thank you, Mr. Chair. I noticed your sense of fairness with respect to the interpretation. Thank you so much for that.</ParaText>
+              <ParaText id="8903772">Mr. Halucha, Ms. Volk says that she is aware of the difficulties in adapting programs in the regions and that they are due in part to government policies. Do you agree with her analysis? Do you think programs are adapted to the reality of regions like Abitibi-Témiscamingue?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141666">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903773">Yes, I agree with her.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141667">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903774">Very well.</ParaText>
+              <ParaText id="8903775">Could you provide us with the written definition your department uses for the term “affordable housing”? I think it would be beneficial to clarify that definition, as well as the various levels of affordability, whether social or otherwise.</ParaText>
+              <ParaText id="8903776">For that matter, how do you define “rural region”? I would like those definitions in writing, because I will be working from them. Gatineau and Laval meet the criteria for what constitutes a “rural region”. What is a truly rural region? I don't like the terms “remote region” or “resource region”. We may have to come up with another term if we want programs to reach the regions.</ParaText>
+              <ParaText id="8903777">The construction of an eight or twelve-unit building in a Témiscamingue village can have a significant impact on the regions' ability to attract and retain people. At the moment, that's not the challenge. How does your department intend to help regions like Abitibi-Témiscamingue meet their housing needs when the current initiative is not limited to those regions? How can we ensure that the money doesn't only go to Canada's major urban areas?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141674">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903778">Thank you for the question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903779"> I'm not in a position to offer a definition of “rural” for you on the spot here, but I wouldn't take issue at all with the way you described it.</ParaText>
+              <ParaText id="8903780">We do have very different markets, as you know, across the country. Housing policy has to respect and reflect those different regional realities. That's one of the things that make housing policy not only very exciting but also extremely complicated.</ParaText>
+              <ParaText id="8903781">I'll say a couple of things about that. In Build Canada Homes, which is, as you know, the new organization that has been established, we have adopted an income-based approach to affordability, which has been discussed at committee today and which will enable, I think, a better match. When projects take place in rural areas, it will be the local market's average income rate that will be the basis upon which things like the affordability levels will be changed, so that will be very positive.</ParaText>
+              <ParaText id="8903782">The question about rolling this out across all programs is, I think, a bit more complicated. First off, the programs are all in stream at this point, and the affordability definition, the market definition, is not a second- or third-level factor. As the Auditor General pointed out, it's kind of a core piece of it. If you change the affordability levels, then you really need to look at what the fiscal allocation of resources is to those programs, because you will get fewer units and your targets will change. It has a significant impact on it.</ParaText>
+              <ParaText id="8903783">Where we have been focused for the last number of months, since a new government was elected, has really been around Build Canada Homes. The focus there is on having not a programmatic approach to doing housing, but actually an investment-based approach, which will be a lot more flexible to exactly the kinds of considerations that you're bringing forward, which I agree with.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13141682">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903784">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141685">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903785">Next, we go to Mr. Stevenson. </ParaText>
+              <ParaText id="8903786">You have the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141686">
+            <PersonSpeaking>
+              <Affiliation DbId="319814" Type="49">William Stevenson (Yellowhead, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903787">Thank you.</ParaText>
+              <ParaText id="8903788">I had a list of questions coming in, but I'm going to start with questions from what my colleagues have already asked, just to delve a little deeper.</ParaText>
+              <ParaText id="8903789">I'll start with Mr. Halucha. </ParaText>
+              <ParaText id="8903790">In your opening remarks, you said that the departments will determine what is going to be vacant land. Have you set out certain requirements for the departments to say, “We'll back up with the one, as to time length. We're now giving you this time, not just being general, but specific times for when you have to do it now”? </ParaText>
+              <ParaText id="8903791">Then, what if some departments determine that they don't really have vacant lands? Have you given them a definition of what vacant land is? “If you haven't used it within 24 months, then it's vacant and must go into the program.” </ParaText>
+              <ParaText id="8903792">What are their goals, and do they have numbers on that, specifically? Being an accountant, I like to have goals or something to measure by. If we don't have anything to measure by, how do we go from...? That's the first part.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141694">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903793"> That's a rich set of questions.</ParaText>
+              <ParaText id="8903794">PSPC actually has the responsibility for the surplussing process. I know they're coming before the committee, so some of these questions would be appropriately directed to them.</ParaText>
+              <ParaText id="8903795">What I mean about the surplussing process is that all the lands in the public land bank right now are lands that have been identified as surplus by departments, which means that, through their departmental processes, the departments have come to the conclusion that they don't need them and that, therefore, they can exit their holdings. That's the criterion that moves them right now into consideration.</ParaText>
+              <ParaText id="8903796">There is another category that is still under discussion, which is underutilized lands. These are lands that they are using, but perhaps they're not maximizing them. For example, if you think about a lot of buildings and about times when civil servants were in the office five days a week.... They have parking lots that are far outsized given the number of people who are actually utilizing them now, given some of the hybrid decisions. So, there are a lot of underutilized lands.</ParaText>
+              <ParaText id="8903797">There are two avenues to have those come up. One is that departments have been written to and have been asked to bring forward their lists of underutilized lands. That has some advantages. The other—I think preferred—way is where you have market interest in properties. That's what we have been trying to encourage. We know somebody is interested in a development; they're focused on a property. Sometimes they're building something, and they're adjacent to a piece of federal land. There's the possibility of having a bigger development if that federal land is added in. That's the kind of place we're most interested in. We're not interested in just identifying properties so they can go in a land bank and not get utilized. It's really about where there is an underutilization federally and an adjoining market demand for that kind of property.</ParaText>
+              <ParaText id="8903798">I agree with you in terms of the goals and the numbers. To my knowledge, we have not set targets at this point for departments. I think it's a bit like reversing the.... If there is a market demand.... Right now, I think the environment is much more conducive to there being action around those properties. Some of the conversations we're having with tenants are about lands that it wasn't on their mind that they were going to offer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141723">
+            <PersonSpeaking>
+              <Affiliation DbId="319814" Type="49">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903799">You answered my question. They don't have a number, and they don't have the goals set yet. I think that's problematic.</ParaText>
+              <ParaText id="8903800">My next question is with regard to Mrs. Volk's opening remarks that the program is going to be the responsibility of HICC, but the CMHC is going to be managing it. I guess I'm a little confused. Let's say we had goals set. Later, when you go back to look at the goals, who is going to be the one responsible if they are not met? It sounds like you both can pass the buck to the other side. Who is going to be responsible for saying, “We accomplished these things”, when one is operational and the other one is managing?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141735">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903801">It's not atypical of portfolio management. It's very often the case that a federal department has policy responsibility. It's done for coherence. Think about the CLC, which is now in the portfolio. The issue around definitions gets easier if you have a central policy function that has responsibility for helping to design the programs across the different administrative organizations. In this case, the CMHC will continue to be responsible for the administration of the FLI. Should the government want to make changes, we would be responsible for.... Obviously, they have a huge amount of expertise, so that wouldn't be a completely hands-off approach, but we would be the policy leads in terms of those types of changes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141746">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903802">Thank you very much. That is the time.</ParaText>
+              <ParaText id="8903803">Mr. Osborne, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141748">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne (Cape Spear, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903804"> Thank you.</ParaText>
+              <ParaText id="8903805"> This is for the Auditor General. </ParaText>
+              <ParaText id="8903806">Building on some of the questions my colleagues have asked, it's very concerning to me that there's a resistance, I guess, within the public service to modernizing the workspace and to identifying the usage of space. What role can the public accounts committee play in making sure that we overcome that resistance?</ParaText>
+              <ParaText id="8903807">I'll add a second layer here, about information. We've had only 83% response rate based on the workers going in or the utilization of space by workers. Thirty-seven of 105 tenants provided monitoring data. Without the data, how can the public service really zone in on the buildings that are surplus, where we can make changes within that real estate? Without the co-operation of departments in providing the information—accurate information—Build Canada Homes is not able to access these buildings or the lands. That is very concerning to me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141760">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903808">I think you've raised a few matters on how the public accounts committee can help, and obviously this hearing is a first step in the right direction. I think the one next week, when you will have Public Services and Procurement Canada here, will be important. Public Services and Procurement Canada are the ones who are consolidating this information, driving that and trying to negotiate reductions of space. I think they will be able to play a bigger role, and a lot of these questions can be asked of them.</ParaText>
+              <ParaText id="8903809">On the need for data, I couldn't agree with you more. We need it, which is why I think those two fundamental things are essential: what buildings you have available and how they are being used or not used, so that you can decide and reallocate and move. Missing that basic piece of information is key. I don't think leaving it up to every department and agency to track and monitor is working right now. That's why we've issued recommendations to Public Services and Procurement Canada to find a way to standardize and consolidate this, because you need to make well-informed decisions. Without that data, I don't think the decisions will be well informed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141772">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903810">Thank you.</ParaText>
+              <ParaText id="8903811">To follow up on that, the standardization of data collection is another concern. We have different tenants of these buildings responding differently, with different measurements of the data and different ways of collecting the data.</ParaText>
+              <ParaText id="8903812">I know you've made a recommendation, but for the people who are tuned in with nothing else to do across Canada but to watch the public accounts committee, could you expand on that and also educate me and maybe other members of the public accounts committee? Tell us what role we can play in ensuring the information that is collected is standardized across departments and tenants of public buildings so that we are able to provide better decisions and zone in on what buildings are surplus.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141780">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903813">I can see two issues: how the public accounts committee can help—and I will get to that—and collection methods and standardizing.</ParaText>
+              <ParaText id="8903814"> I think it's important that every federal department have a way of tracking this, and I think it's important for all public servants to know why monitoring is happening on who is in the building and when. It is about space optimization, and there are many elements on a day-to-day basis from a security standpoint. I want to know how many of our employees are in our buildings should something happen. That's a basic first step, but I also want to be able to contribute to rightsizing our space.</ParaText>
+              <ParaText id="8903815"> I think there should be two motivations, and that's why having it standardized would be helpful. Right now, many buildings are very different—there are different security mechanisms when you walk in—but there has to be a way we can do it. We listed in exhibit 3.2 the different ways it's being done. Some organizations are using many of them. I think it's really up to the government to pick one or two and then sort that out.</ParaText>
+              <ParaText id="8903816">How can the committee help in this? The hearing next week is a great place to start, but then it's about continued follow-up on updates and on progress on action plans and commitments made and, when you don't see good progress, another hearing. The committee has the ability to make sure the public service is being accountable for the commitments they've made in response to the recommendations from our work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141792">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903817"> Thank you.</ParaText>
+              <ParaText id="8903818">The next question—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141793">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903819">Thank you, Mr. Osborne. Your time has elapsed, but I'll let you ask a question if you could keep it short, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141795">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903820">It will be a very short question.</ParaText>
+              <ParaText id="8903821"> Ms. Volk, you indicated earlier that you're only responsible for so much. You need your partners involved as well. In rural areas of the country, especially in the smaller provinces, we don't have the library of public lands or public buildings to allow Build Canada Homes to utilize them. We need a greater role, I guess, from CMHC and your partners.</ParaText>
+              <ParaText id="8903822">What recommendations would you make to ensure that we are reaching rural Canada as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141802">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903823">First, the policy lead on that is really with HICC now. They're the primary centre for policy advice to the government on housing.</ParaText>
+              <ParaText id="8903824">As it speaks to rural, I would say that the FLI is not a program that will work well in rural Canada, because of the absence of a lot of federal buildings there, but we do have other programs that will work better in remote and rural areas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13142372">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903825">Such as...?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141806">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903826">I will have to come back to you, Mr. Osborne. Thank you.</ParaText>
+              <ParaText id="8903827">That leads me to my next question. I'm getting some correspondence here about extending it just a little bit.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903828">Mr. Lemire, do you have many questions? You have one more turn. Would you be interested in another one?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141810">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903829">Absolutely.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141812">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903830">Okay.</ParaText>
+              <ParaText id="8903831">Just to give everyone preparation, here's what I'll do. I'll start our third round, which will be a full five members at various times. Then I'll do three more spots. We'll start with the official opposition, then Monsieur Lemire for two minutes and 30 seconds, and then the government, which always has the last word. I'll have the clerk fill this in. There won't be a full fourth round, but a partial one.</ParaText>
+              <ParaText id="8903832">We'll begin the third round with Mr. McKenzie. </ParaText>
+              <ParaText id="8903833">You have the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141816">
+            <PersonSpeaking>
+              <Affiliation DbId="317698" Type="2">David McKenzie (Calgary Signal Hill, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903834">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8903835">I also wish to add my thanks to everybody in attendance here.</ParaText>
+              <ParaText id="8903836">I'm a new MP, so I'm still filled with shock and disbelief at some of the time frames I learn about with respect to the operation of our federal government.</ParaText>
+              <ParaText id="8903837">Ms. Hogan, I have great difficulty understanding the inability to identify space used by the federal government—whether there are people in it, how much of it is being used and so on. I'm wondering if you have information with respect to how long the effort's been under way to identify space utilization.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141821">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903838">The identification by the federal public service that a significant portion of their office buildings was being underutilized was prepandemic. That would have been in 2017. In 2019, they designed plans to try to get to the reduction of 50%. There was very little movement between 2019 and 2024, mostly because there was no funding allocated toward this. The budget in 2024 gave money, so now there's funding. If you want to do something, I think you need resources and funding in order to make sure it's accomplished. Now there's the ability to move forward.</ParaText>
+              <ParaText id="8903839">Here's where you need the co-operation of all the federal tenants. We saw that some of the larger tenants were very hesitant to agree to space reductions, motivated by a few reasons. One, they needed perhaps specialized space to deliver their mandates, so they couldn't really reduce their space to a certain square foot per employee. Two, there was concern about whether or not increased presence in the workplace would be a requirement. The increase that happened during the audit period actually removed a lot of the flexibility that was in the existing plan to get to 50%. We also highlighted the fact that we think there isn't an incentive for many departments to free up that space. For most departments, rent is not paid. It's sort of a global bucket that rents and/or owns the buildings. Individually, it doesn't hit your budget, so you might not be as incentivized to move forward. </ParaText>
+              <ParaText id="8903840">We hope we've highlighted some of the weaknesses and made some recommendations to see bigger progress going forward. It's not one thing that's slowing this down; it's a lot of things. Missing data is another critical element.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141852">
+            <PersonSpeaking>
+              <Affiliation DbId="317698" Type="2">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903841">It seems to me to be the most critical piece. We really can't make intelligent changes if there isn't information available about what's taking place on the ground.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141853">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903842">I think my office will always be a huge proponent for making well-informed decisions supported by data. Yes, I think you need data. Here, Public Services and Procurement Canada is relying on all the tenants to provide that. They haven't had much success with that. People are slow to provide that information. Then, when it is provided, it's like comparing apples and oranges. It's hard to put together.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141857">
+            <PersonSpeaking>
+              <Affiliation DbId="317698" Type="2">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903843"> Failing to respond to that request for information seems to me to be a performance issue. We had some questions previously about performance pay, and when 99% of employees are receiving their performance pay but we can't get basic information like that, it seems to me to be quite a gap.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141863">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903844">This is an area that I hope the committee could explore with Public Services and Procurement Canada next week. In my view, they should be enforcing that this is happening and that departments are signing on for space reduction. Throughout this, since we tabled the report, I always try to encourage my deputy minister colleagues to take a really good look at the space they need. I know that I've put up my hand and that I am reducing my space. I don't have rent, so it's not having an impact on me, but it's impacting the bigger, broader public service, hopefully.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141870">
+            <PersonSpeaking>
+              <Affiliation DbId="317698" Type="2">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903845">I understand.</ParaText>
+              <ParaText id="8903846">I would like to ask some questions about the housing accelerator fund. Is there somebody here today who can address that? Ms. Volk?</ParaText>
+              <ParaText id="8903847">As I understand it, in November 2023 there was a press release announcing the fast-tracking of 6,800 housing units over three years in my city of Calgary. Would you be able to provide any information on the status now? We're almost a full two years later, and I'd like to know how many housing units are either constructed or under construction.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141876">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903848">I don't have the data on hand, but I can answer your question maybe conceptually, at least, for a start.</ParaText>
+              <ParaText id="8903849">The housing accelerator fund has a goal to increase housing starts, definitely, in those municipalities that have signed agreements. However, those results won't be immediate. This is because the commitments that are made as part of the housing accelerator fund are to speed up the processes of zoning and approvals, sort of clearing some red tape at the municipal level. That will accelerate processes, but it doesn't magically accelerate construction. Construction is still something that's going to take a while to get shovels in the ground to build. The results aren't instant. We are seeing some starts, but the expectation was that this increase in starts would come a little bit later. What we would be seeing first, in terms of the results, are the changes that the municipalities are making. Then the new starts would follow.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141892">
+            <PersonSpeaking>
+              <Affiliation DbId="317698" Type="2">David McKenzie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903850">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141895">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903851">Thank you. I'm afraid that is your time.</ParaText>
+              <ParaText id="8903852">Next we have Mr. Housefather, who is joining us online.</ParaText>
+              <ParaText id="8903853">You have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141898">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather (Mount Royal, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903854">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8903855">My first question is for Ms. Volk.</ParaText>
+              <ParaText id="8903856">Ms. Volk, I'll go back to Mr. Deltell's questions originally. He kept calling the pay that members of your department are receiving at the CMHC “bonuses”. I understand that bonuses are exceptional payments where work exceeds expectations. You were trying to explain, I believe, that this was at-risk pay, which is a regular component of pay, not an exceptional component of pay. It is given not when work exceeds expectations but when work meets expectations. </ParaText>
+              <ParaText id="8903857">Can you explain that, so that people don't believe that 99% of your department received bonuses for exceptional performance?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141912">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903858">The way this works is that when we engage an employee, there is a job to be done. That job is classified. We determine the salary that is appropriate, the level of compensation that's appropriate for that position. We give a percentage of that salary as base pay, and they get to collect that every two weeks as part of their base pay. However, we reserve part of it; we hold back part of it. That is the component that.... At the end of the year, we assess whether that individual has met the commitments that they made that year. Did their performance meet the expectations that we had of them? If it did, they earn back the rest of the pay that was put at risk at the beginning of the year.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141921">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903859">I'll put this into number terms so that people at home can understand this. In many companies, for example, if you earn $80,000, you'll be eligible for a bonus. You're still going to be paid your $80,000. However, let's say that you're eligible for 10% bonuses based on your personal objectives and departmental objectives. At the end of the year, people assess whether the department met the objectives and whether you met your objectives, and you may potentially get another $8,000, so you would be paid $88,000 instead of $80,000. You got $80,000 for sure, and then you got $8,000 because of exceptional performance.</ParaText>
+              <ParaText id="8903860">What you're saying is that you're paying somebody.... Their base pay is $80,000, but you're withholding $8,000 of it, for example. So, you're withholding 10%, and they're paid only $72,000 instead of their normal $80,000 base pay. If they meet the objectives—not exceed the objectives but meet the objectives—then they'll get the additional $8,000 to bring their base salary to the total, to 100% of $80,000. Would that be a fair way to explain it?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141925">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903861"> That's a fair characterization of pay at risk. It is not that at the end of the year we determine that the company has had a tremendous year and we're going to throw a little bit extra to everyone. It's that we have determined how much we feel your job is worth, we've paid you part of it up front, and the rest of it you have to earn by meeting your objectives over the year. It's a very fair characterization.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141933">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903862">Thank you very much.</ParaText>
+              <ParaText id="8903863">Ms. Hogan, I'd like to go to you. </ParaText>
+              <ParaText id="8903864">I'm going to repeat one paragraph from your report that I think is incredibly important. You mentioned it in the previous round of questions:</ParaText>
+              <ParaText id="8903865">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">Some federal tenants reimburse (or pay rent to) Public Services and Procurement Canada for the office space they occupy, while others follow a different model where the amount of space they occupy has no impact on their budget. Of the 15 tenants cited above who did not agree to the reduction of the space they occupy, 13 (or 87%) had no financial incentives to reduce the space. In total, 93 federal tenants (89%) do not reimburse the department for the space they occupy.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8903866">Ms. Hogan, you just mentioned that you yourself—your department—is one of those. How come in the recommendations you made in this report you didn't say that everyone should pay rent for the space they occupy so that they'd be incentivized to reduce space? Of course, if you're philanthropic, as you are.... I see people who will selflessly say “We should reduce space for the benefit of everyone”, but clearly that didn't work with respect to many of the other departments. </ParaText>
+              <ParaText id="8903867">Why would we not create a model where everybody pays rent in their budget for the space they occupy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141946">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903868">That is a policy decision that the government has made: that one department will own and/or lease the building and then it is given to tenants. I don't make recommendations to change policy. I just talk about how the policies are implemented and whether I think there are some unintended consequences. I think that's one of them here. There is a missing incentive to reduce office space, but that's just one of the elements I cite. I cited other reasons as well that departments felt they weren't ready to reduce their space.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141955">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903869">I totally understand that, and I totally understand the other reasons, but it would seem to me that this would be a very important reason, if you have no consequences in terms of loss of budget for a failure to reduce space. I used to work as a CAO of a multinational, and one of the departments I headed was real estate. Of course, the main incentive for everybody to reduce space is that it deeply impacts their bottom line.</ParaText>
+              <ParaText id="8903870">I understand that you're not allowed to make such recommendations in your report, but is there a simple fix for the government to change that policy to allocate costs differently?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141964">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903871">Well, I think this is a conversation that Public Services and Procurement Canada could really weigh in on, since they're the custodians of the property. What do they think might incentivize? They've been having negotiations with departments that are hesitant to hand over space. I would imagine that since our report they're continuing that. Hopefully, there is some progress.</ParaText>
+              <ParaText id="8903872">I think it's important to know that when you look at departmental financial statements—not to bore folks with accounting terminology—accountants do put a value on a service provided without charge, so you can see how much it costs for that department to function, but it really doesn't have a cash impact on a department's budget.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141969">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903873">Thank you very much. That is the time.</ParaText>
+              <ParaText id="8903874">I'll just remind members that in our report we have the ability to make recommendations as well, either to complement or to reinforce the auditor's good work.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903875">The next speaker will be Mr. Lemire, who has two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141971">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903876">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8903877">I want to remind you that we're talking about a report that mentions that the affordability criterion used for the initiative isn't based on household income. In fact, renters with the lowest income brackets and the greatest need for affordable housing are the ones who benefit the least from the initiative.</ParaText>
+              <ParaText id="8903878">What we're also seeing in response to the current housing problem is the creation of a department of housing, in which we're essentially recreating what existed at the Canada Mortgage and Housing Corporation, or CMHC, but in a new structure with new public servants. First, is this a repudiation of CMHC? How is that going to change the housing supply on the ground? Why isn't this money earmarked for human resources being used directly to build housing in the provinces, instead?</ParaText>
+              <ParaText id="8903879">What is currently happening is yet again a duplication of structures. Quebec is going to take similar steps and, what's more, the federal government doesn't have the same standards—which results in delayed projects that don't come to fruition. In my riding, Abitibi-Ouest, a planned shelter for victims of domestic violence was nearly denied funding and completely cancelled because of battles between the two levels of government, which have different criteria.</ParaText>
+              <ParaText id="8903880">How will the new structure support construction on the ground?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141986">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903881"> The heart of your question is, as I mentioned earlier, the key importance of collaboration between different jurisdictions in having common housing goals. We have been successful as a department in developing agreements with provincial governments and, in many cases, municipalities across the country. We do have experience working with different levels of government.</ParaText>
+              <ParaText id="8903882">With Build Canada Homes, the intention is for it to function more as an investment bank and less as an organization that has allocations of resources for different jurisdictions. I can tell you that the <Affiliation DbId="318696" Type="96">minister</Affiliation> hosted an FPT meeting about two weeks ago in Vancouver, and there was a lot of support for a collaborative approach between provincial and federal governments, in terms of supporting housing projects. The focus will be around a portfolio of projects. </ParaText>
+              <ParaText id="8903883">To your earlier point, it will assist rural areas, because one of the challenges they often have is that the local capacity to support NGOs and municipalities to move their projects forward is often not as high, so the aggregation we're looking for with provinces will be a key way of both unlocking intergovernmental support and actually reaching rural areas a lot more successfully than perhaps we have under past programming.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141997">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903884">Thank you very much.</ParaText>
+              <ParaText id="8903885">Mr. Lemire, your time is up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13141998">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903886">Okay. I would just like to ask Mr. Halucha if, in addition to the points I mentioned earlier, the department can provide the committee—in writing—with the rural and remote action plan that includes the methods and criteria that will be used for assessment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142002">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903887">Yes, of course.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142004">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903888">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142010">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903889">Thank you very much, Mr. Lemire. You'll have another round of two and a half minutes.</ParaText>
+              <ParaText id="8903890">Mr. Deltell, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142011">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903891">Ms. Hogan, I'd like to start by asking you a question about the federal government's use of office space.</ParaText>
+              <ParaText id="8903892">You take a rather worrying factual view of the progress achieved towards the objectives. You say that the department “estimates the reduction in federal office space will generate savings of approximately $3.9 billion over the next 10 years.” However, you found that little progress had been made in this regard, with a reduction of less than 2% between 2019 and 2024. You say that this is due, among other things, to the reluctance of some departments to reduce their footprint.</ParaText>
+              <ParaText id="8903893">Could you give us a few examples of certain departments that aren't doing what they should be doing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142017">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903894">I don't have the names of the departments in question, but I know that, during the first wave, Public Services and Procurement Canada, or PSPC, approached the largest federal tenants, those occupying a large share of the office space. To date, very few of them have signed an office space reduction agreement. They cited their mandate, the space required and concerns about the possibility of increased demand for in-person work. They didn't want to reduce their office space in case they ran out. Furthermore, in my opinion, there wasn't enough of a financial incentive for them to undertake that reduction.</ParaText>
+              <ParaText id="8903895">Consequently, I believe PSPC needs to take a more global and directive approach in this regard to ensure greater progress.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142028">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903896">What might a more directive approach, as you call it, look like?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142029">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903897">There are two parts. First, agreements need to be signed. That's essential. However, progress must also be made on the office modernization projects. Prior to the pandemic, everyone had their own cubicle or office. Now, reserving and sharing offices has increased significantly. This modernization is costing money and taking time. This process is also progressing slowly at present.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142033">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903898">In your opinion, will the objective of saving nearly $4 billion in 10 years be achieved, yes or no?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142036">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903899">That's the department's estimate. I didn't verify all the hypotheses on which that estimate is based, but we included it in our report to demonstrate that there are real repercussions. Indeed, even if a building is not being used or is being only partly used, it still costs money. There are operating and maintenance costs, but there are also municipal property taxes or financial compensation in lieu of property taxes to pay. If a building is not used to full capacity, it costs money.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142042">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903900">We know that, over the past 10 years, the government hired more public servants.</ParaText>
+              <ParaText id="8903901">According to the Fraser Institute, 90,000 new public servants were hired between 2015 and 2023, an increase of 26%. However, the population increased by only 9% over the same period. The increase in the number of government employees was three times greater than the increase in the population.</ParaText>
+              <ParaText id="8903902">Could this be a reason why we're unable to reduce office space?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142047">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903903">I think the underuse of office space was noted prior to the pandemic, before the public service grew. Obviously, the number of public servants using these buildings will always fluctuate. However, to determine to what extent the buildings are being used at present, a critical piece is missing.</ParaText>
+              <ParaText id="8903904">In my opinion, understanding that critical piece would help ensure progress. The goal is to reduce office space by 50% by 2034. However, if nothing changes now, that goal will not be reached. That's why Public Services and Procurement Canada, or PSPC, really needs to change its approach.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142055">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903905">What I take from your testimony, Ms. Hogan, is that the goal won't be reached.</ParaText>
+              <ParaText id="8903906">Ms. Volk, I'd like to come back to the housing accelerator fund. We recall that it was launched to great fanfare and the <Affiliation DbId="317649" Type="2">minister</Affiliation> responsible made a number of announcements in his province of Nova Scotia, including in West Hants, East Hants and Antigonish. The plan was to build 333 new housing units within three years and 4,570 housing units within 10 years. Where are we now?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142058">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903907"> I don't have the precise figures for the starts in any particular region. I can happily share those with the committee in writing after. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142062">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903908">Do you know the housing accelerator fund's overall record?</ParaText>
+              <ParaText id="8903909">Overall, where are we in comparison to the announcements made over a year and a half ago?</ParaText>
+              <ParaText id="8903910">How many doors are there? How many housing units have been built?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142065">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903911">Give me one second. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142066">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903912">Your time has expired.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903913">We'll let the witness finish up.</ParaText>
+              <ParaText id="8903914">If you feel you need more information in writing, we can ask. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142068">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903915">Since Ms. Volk has committed to providing them for Nova Scotia, I'd appreciate it.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142070">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903916">Ms. Volk, go ahead. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142074">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903917">What I have is that, to date, the federal government has signed 178 HAF agreements which, when combined, will fast-track an estimated total of more than 750,000 housing units across the country over the next decade.</ParaText>
+              <ParaText id="8903918">I will get you those others as we have them. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142078">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903919">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142080">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903920">You'll send them to us. Excellent.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903921">Ms. Yip, you have the floor for five minutes, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142081">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903922">Thank you, Chair.</ParaText>
+              <ParaText id="8903923">One of the issues raised by Ms. Hogan in her report was the definition of “affordability” for units built under the federal lands initiative. With Build Canada Homes, the definition has changed to show that housing is affordable if it is 30% of a household's income. </ParaText>
+              <ParaText id="8903924">Mr. Halucha, could you comment on this definition? Also, how will this guide affordability for housing going forward?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142084">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903925">Thank you very much for the question.</ParaText>
+              <ParaText id="8903926">Build Canada Homes will define the affordability benchmark to track incomes of households for which housing will be affordable. I'll give you the three elements of this. </ParaText>
+              <ParaText id="8903927">Deeply affordable units will be less than 30% of before-tax median household income for households with low or very low income in their regions, so fixed-income or minimum-wage earners are the groups that we expect will benefit. Second, affordable units will be less than 30% of before-tax median household income for households with moderate or medium income in their region—this is, for example, essential workers such as construction workers and care providers. Then, obviously, there are market units as well, which will be delivered by BCH as part of mixed-income developments to partially support the cost of building affordable and deeply affordable units.</ParaText>
+              <ParaText id="8903928">This was a really important adoption of this approach to affordability as part of the investment policy of Build Canada Homes. It will have a focus on social housing, and that will be a significant focus of the types of investments that it will be undertaking. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142091">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903929">Can you clarify what you were saying about construction workers and care workers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142093">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903930"> I'll just give you an example. In areas where you have 30% of before-tax median income for households with moderate or medium income, that would be those types of workers.</ParaText>
+              <ParaText id="8903931">There are areas where.... As Coleen has mentioned a number of times, affordability is a term that has some contextual requirements, and so in some areas the issue is social housing that's deeply affordable. I think that's one of the points that Ms. Hogan raised in her report. In other areas, the focus is around workers not being able to rent near the places where they work. For example, nurses in areas of Toronto can't afford to be there. We've heard from a lot of.... The Toronto Board of Trade, for example, has raised issues around manufacturing companies in Toronto that are having difficulty finding locations for their workers near them.</ParaText>
+              <ParaText id="8903932">You need to know whom you're targeting in terms of the structuring of different developments, and that's why there's that specificity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142098">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903933">Will there be housing on public lands near the areas of work that you just mentioned?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142099">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903934">Build Canada Homes is not only going to build on public lands; that's one stream of the work. It will also be working with developers on private lands through financing, much in the way that CMHC has done in the past, so there's a flexibility there as well in terms of the approach.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142102">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903935">Ms. Hogan, do you have any comments on this definition of affordability?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142103">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903936">I'm hearing it for the first time, as are all of you. I do acknowledge that affordability has a different meaning for different people. You do need some that are deeply affordable, which, I believe, should be based on the income of a household, and then you do need others that will meet different definitions, and some that can remain at market rent.</ParaText>
+              <ParaText id="8903937">No program, I think, should try to accomplish all of it, but it sounds like lots of things are going to be moving here, so I look forward to a few years down the line, when we can audit it and see how it's going.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13142106">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903938">Ms. Volk, in your opening statement, you mentioned that the federal lands initiative is one tool. What other tools do you have to resolve housing issues?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142108">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903939">The biggest tools are the affordable housing fund itself and the apartment construction loan program, which is bigger than that. This is a program that offers low-interest financing to developers of purpose-built rentals in exchange for commitments that they make to moderate some of the rents to make them more affordable, to have energy efficiency or accessibility, and other criteria in the program. In exchange for those, they have access to a low interest rate—essentially a subsidized interest rate—from the government, to allow them to make the math work on purpose-built rentals. That's an incredibly successful program. We're funding about $6 billion a year of purpose-built rentals through that program.</ParaText>
+              <ParaText id="8903940">We have other, smaller programs, but of our other big tools, the big one is our mortgage loan insurance, which most Canadians know as something that they might need on their mortgage. An individual homebuyer might need to have insurance on his or her mortgage. More to the point, today we are doing $60 billion a year of insurance on purpose-built rentals, and that is an incredible contributor to a new supply of apartments in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142110">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903941">Thank you very much. That is your time.</ParaText>
+              <ParaText id="8903942">Now we'll begin the last, abridged round, which will have three members. </ParaText>
+              <ParaText id="8903943">Mr. Kuruc, you have the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142111">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903944">Thank you. </ParaText>
+              <ParaText id="8903945">I would like to start with Ms. Hogan. </ParaText>
+              <ParaText id="8903946">Could you please tell us how often your employees are required to work from the office and at home?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142112">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903947">I have the ability to set terms and conditions for my employees, and they are slightly different than what the federal public service has. Right now, all of our executives—so anyone at the director level and above—is required to be in the office three days a week. For everyone else, it's two days. That being said, we are in the service industry, and at times we go out to entities to audit. We travel to the three territories, and people could be there working a full solid week or even over the weekend, just to get work done while they are out of town, and then they come back.</ParaText>
+              <ParaText id="8903948">We have a slightly different expectation, but we find that it has its pros and cons no matter which way you look at it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142115">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903949"> Thank you.</ParaText>
+              <ParaText id="8903950">I would like to ask the same question of Mr. Paul Halucha.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142117">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903951">We have a four-day-a-week compliance requirement for executives. That's how often they're in. </ParaText>
+              <ParaText id="8903952">The discussion that Ms. Hogan just raised is interesting. We're actually in a place, as a department, where we don't have enough space for our employees to meet the three-day requirement. We will as of next spring. We just secured a couple of floors with PSPC's assistance, so we will be in full compliance with the three-day policy as early as possible in the new year.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142119">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903953">Thank you very much.</ParaText>
+              <ParaText id="8903954">I have the same question for Ms. Volk, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142120">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903955">My answer is very similar to Paul's. We have a requirement for three days a week in person for most of our employees, and four days a week for executives. We, too, have space constraints. We are not able to meet that requirement in every one of our offices right now. We are acquiring space in our regional offices and in Ottawa to allow us to receive employees three days a week without having them sit two to a desk. We are moving towards that. </ParaText>
+              <ParaText id="8903956">In Ottawa, which is our largest centre of employment, it will be done this fall and winter. We will have enough space for people to come back three days a week, four days a week for executives.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13142128">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903957">Thank you.</ParaText>
+              <ParaText id="8903958">My next question is more of a statement than a question. As a simple guy from Hamilton, I can say there hasn't been a lot of clarity here today. That's the part that is very difficult for me. I would imagine it would be very difficult for the taxpayers. On the one hand, we have the Auditor General, who has clearly said that she would like more data, which I agree with 100%. We have to pin that down. Then, we have the CMHC, with no real-time data. There was no clear answer to the bonuses. The member from the government had to swoop in and answer that question for you, which I find very concerning. Then, there are a lot of goals that haven't been met across the board. I'm a little at a loss for words. </ParaText>
+              <ParaText id="8903959">I have also witnessed one organization pass the buck to the next organization, back and forth. This is very concerning. We are in a housing crisis. We are not meeting our targets, and there's no real clarity. The Auditor General just needs more data for more clarity. I don't think the folks at home, the taxpayers, would be very happy with what we have heard today. </ParaText>
+              <ParaText id="8903960">I don't agree with this. Again, I have to go back to these bonuses. I don't agree. Now it's a withholding pay scheme. I'm just not clear on any of this. I would hope, moving forward, that we would get a lot more clarity and that the public would get a lot more clarity. I'll be honest with you: When the taxpayers tune in to this, they're not going to be happy. I wasn't a politician four months ago, and I'm not happy with what I'm hearing today. </ParaText>
+              <ParaText id="8903961">I would urge.... I think it's safe to say that you have the best interest for the country. I'm not disputing that, but there's no wonder why we haven't been meeting any of the goals, and we're in a housing crisis. I mean no offence.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142138">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903962">Thank you, Mr. Kuruc. </ParaText>
+              <ParaText id="8903963">I will let them respond. If you have a brief question, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142140">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903964">They can respond.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142143">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903965">All right.</ParaText>
+              <ParaText id="8903966">I will ask the two witnesses to respond, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142145">
+            <PersonSpeaking>
+              <Affiliation DbId="314276" Type="28">Coleen Volk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903967">Thank you. I appreciate your question.</ParaText>
+              <ParaText id="8903968">To your statement, I am very apologetic that you felt we were passing the buck. That is certainly not the way Paul and I work. I can provide some clarity in terms of roles and responsibilities. </ParaText>
+              <ParaText id="8903969">If the Auditor General concludes that a program has been administered poorly, that money is not going out fast enough or that it's a problem of administration, I am definitely the one at the table who is accountable for that. If the Auditor General says that, in the future, this program should use a different definition of affordability or that there should be some design difference in the program, then that is something Paul would address, because he's responsible now for designing the programs—or for the advice to government, which designs the programs. If it's about administration, that is absolutely me. </ParaText>
+              <ParaText id="8903970">If we left any sense that we were passing the buck, I apologize for that. That's not our intention at all. It's very clear to us.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142155">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903971"> Thank you.</ParaText>
+              <ParaText id="8903972">Mr. Halucha, do you have any comments you'd like to make?</ParaText>
+              <ParaText id="8903973">
+                <B>Paul Halucha:</B> No.</ParaText>
+              <ParaText id="8903974">
+                <B>The Chair:</B> Okay, thank you very much. I appreciate it.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8903975">Mr. Lemire for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142158">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903976">Thank you, Chair.</ParaText>
+              <ParaText id="8903977">Ms. Hogan, have you already assessed the effectiveness of housing agreements signed by the federal government and its provincial partners?</ParaText>
+              <ParaText id="8903978">Often, it's clear that programs are designed for Ontario, because agreements with that province are relatively easy to sign. That was the case in 2017. Ontario signed immediately, but Quebec took three or four years to sign. Obviously, when the COVID pandemic hit, costs mushroomed. As a result, far fewer housing units were built in Quebec with the same amount of per capita funding or according to the criteria agreed on with Ontario.</ParaText>
+              <ParaText id="8903979">In this kind of agreement, are assessments conducted based on provincial needs? Is that part of your mandate? Have you already looked at such assessments? How does one assess the effectiveness of a housing program?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142164">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903980">I would recommend you consult our 2022 report on chronic homelessness, in which we look at a number of housing affordability programs in Canada.</ParaText>
+              <ParaText id="8903981">Did we assess the agreements signed between the different levels of government? No. Typically, we verify whether a program's objectives have been achieved or whether progress has been made toward achieving those objectives. We could take that information into consideration during a future audit on housing. It's an important file for Canadians. As a result, we'll obviously verify yet again how much progress has been achieved in that area over the coming years. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13142173">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903982">As a Quebecker, I often find that the basic criteria of agreements are ill suited to the realities of regions like mine. The agreements are difficult, and I get the feeling that we are losing out. The effectiveness of those measures is therefore more difficult to assess.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142178">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903983">Here's my comment: In the programs we look at, there is an affordability criterion. Some programs have a criterion whereby 30% of the housing units must be rented for less than 80% of the median rent in the region. That tool isn't adjusted. It's extremely hard. That means that the price of 60% of the housing built corresponds to the market price. It depends on the intended objective.</ParaText>
+              <ParaText id="8903984">In my opinion, the objective must be adjusted for affordability, but there must also be enough flexibility to take regional specificities into consideration. I heard that the next definition of affordable housing may allow such flexibility. Time will tell if that's true.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142193">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903985">At the same time, if we look at the average income in a given neighbourhood, an individual who has always lived in that neighbourhood and whose income is below that average might be heavily penalized.</ParaText>
+              <ParaText id="8903986">Are you satisfied with the answers provided today?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142201">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903987">That's a broad question. There are many possible answers, but I would say sometimes yes and sometimes no.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142203">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903988">Thank you.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8903989">I'm sure there will be more questions coming out of that.</ParaText>
+              <ParaText id="8903990"> I turn now to Ms. Tesser Derksen, please, for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142205">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903991">Thank you so much.</ParaText>
+              <ParaText id="8903992">I want to thank you again for all the time you've taken answering our questions. Housing is a human right. It's a non-partisan issue, and it's something that we're all going to work together on to get better results for Canadians. </ParaText>
+              <ParaText id="8903993">I also want to thank you for doing your best to distill very complex answers into the simplest terms you can. I realize that it might not be a flashy headline or a sound bite. You need to give us thorough answers, and they're complicated, complex policies that you're trying to explain. I am fully satisfied with Mrs. Volk's explanation on the at risk pay. I'm not sure where there might be a misunderstanding there anymore; it's been made very clear.</ParaText>
+              <ParaText id="8903994">I want to give Mr. Halucha a chance to just wrap up the question that we were originally engaged in, in the other round of questioning, with respect to the reduction of the disposal time for the transfer to the federal lands initiative. You were talking about outside factors that might be affecting the ability to meet those goals. Could you expand on that, or complete your answer?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142216">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8903995"> Thank you very much.</ParaText>
+              <ParaText id="8903996">There are just a couple of points. I think I ended on the point about the Canada Lands corporation being moved into the housing portfolio. That was announced by the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and the <Affiliation DbId="318696" Type="96">minister</Affiliation> a couple of weeks ago. I think that's a really important initiative for some of the points that have been raised here in terms of having a lot more coherence among the federal actors. It means that I, Ms. Volk, the CIB and Canada Lands corporation are now all in the same portfolio, working under a single minister with a single mission.</ParaText>
+              <ParaText id="8903997">The other point I was going to make was that there is a single mission now that brings together the focus on housing and affordability. It was mission four in the priorities letter from the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> to ministers. All of that brings a great deal of coherence.</ParaText>
+              <ParaText id="8903998">With regard to speeding up the process, I think another important part of the announcement—that announcement was a really important day for us—was the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> effectively saying that he is going to be directing ministers to bring forward lands that have high housing potential. I think that's a really important signal and step that the government is taking, moving away from what comes up through a surplus process to looking at what key pieces of federal lands are available and can be built on.</ParaText>
+              <ParaText id="8903999">The fact that Canada Lands will now have the resources in order to build on federal lands is a really significant step. This was part of the commitment that was made, that Canada would be getting back into building. It means we'll be able to accelerate the amount and the speed at which we bring homes to the market. That, then, creates a space for additional lands to come forward and get built on, because right now a lot of them.... It's been a lot slower. It's been dependent on market demand. This is a key removal of a constraint that I think will bring a lot more homes to market through this Build Canada Homes agency. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13142233">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904000">Great, thank you very much.</ParaText>
+              <ParaText id="8904001">It sounds very optimistic. That's great, but I have to be a little bit pessimistic and ask you what types of vulnerabilities or risk exposures you anticipate we might encounter, perhaps from forces outside our control or different variables, and what plans you might have in place to address those.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142239">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904002">The risk is that it's a large challenge that we have before us. I think that's the key risk variable. It puts a premium on a lot of things, such as coordination with other levels of government. I think we approach this recognizing that partnerships will be a key aspect of moving forward.</ParaText>
+              <ParaText id="8904003">I'm not sure this is a risk, because I do tend to err toward optimism, but the second key thing is around the opportunities in modular housing and the industrialization of homebuilding. That is where we have the greatest potential. It's about 2% of the market share right now. We know that in terms of factory utilization, those assets, which are privately held, with great capability of building homes, are not being fully utilized. We could actually almost triple the amount of market share that modular has without increasing the asset base. This is really exciting. What they need is supply. They need an order book that's full. That will be a key part of what Build Canada Homes will try to provide. That was, again, why the focus that was articulated was so much on that industry and taking place in front of a local modular provider's homes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142259">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904004">That's great.</ParaText>
+              <ParaText id="8904005">You mentioned partnerships. Part of your role is to lead these policy-related engagements with various partners. Whom have you identified that might be outside the box from the ones you've already mentioned? What's the breadth of that engagement? What scope do you have? Do you have reasonable discretion to identify different partners?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142263">
+            <PersonSpeaking>
+              <Affiliation DbId="321563" Type="28">Paul Halucha</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904006">One of the key features of how we envisioned this new agency was actually to have a lot more flexibility in terms of whom they bring to the table and the types of deals they do. There's almost not a wrong answer on that. There are going to be KPIs in terms of the investment criteria. I think we already articulated that we're going to be focusing on supply, on affordability and on investments that utilize the modular product. We do believe that's a key part of meeting the housing supply challenge. It is absolutely critical to it.</ParaText>
+              <ParaText id="8904007">From a partnership perspective, we did an enormous amount of outreach over the summer. In mid-August, we published a market sounding guide, which brought in about 700 separate responses—favourable, with a lot of them wanting to partner with the new agency as it goes forward. I think the risk, which is a good risk to have, is that there will be a lot of opportunity and a lot of deals that the organization will be able to do. It will be a matter of working through them over the course of the next number of years.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142278">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904008"> Thank you very much.</ParaText>
+              <ParaText id="8904009">Before I excuse you, I will say thank you all for coming in today and being so helpful with your responses.</ParaText>
+              <ParaText id="8904010">There have been a couple of requests for information. This is just a note, Ms. Volk. Can you be as thorough as possible with the housing accelerator information? I know it's something of great interest to members on both sides. Clarity will certainly be greatly appreciated, with as many specifics as possible.</ParaText>
+              <ParaText id="8904011">On that, again, I will excuse the witnesses.</ParaText>
+              <ParaText id="8904012">The committee is going to pick it up again in camera. It's just for some housekeeping. I'm not going to keep everyone long, but I do need to get through some items. Thank you very much. I will suspend, and we'll come back in about five or six minutes.</ParaText>
+              <ParaText id="8904013">Mr. Housefather, there is nothing particularly pressing. I'm not going to pull a fast one here, so you're welcome to come back, but if you decide not to, that's understandable. It's your call. I know you're remote and it does take a few minutes. If we see you, that's great. If not, we'll see you in the House.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13142616">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904014">It's no problem. Thanks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13142620">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8904015">This meeting is suspended.</ParaText>
+              <ParaText id="8904016">[<I>Proceedings continue in camera</I>]</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

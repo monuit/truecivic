@@ -1,0 +1,1170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13141975">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Public Safety and National Security</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, September 25, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 25 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Public Safety and National Security</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 25, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 004</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">25</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/25 12:15:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la sécurité publique et nationale</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Public Safety and National Security</ExtractedItem>
+    <ExtractedItem Name="Acronyme">SECU</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Jean-Yves Duclos</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13141978">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair (Hon. Jean-Yves Duclos (Québec Centre, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900397">I call this meeting to order.</ParaText>
+              <ParaText id="8900398">Welcome to meeting number four of the House of Commons Standing Committee on Public Safety and National Security.</ParaText>
+              <ParaText id="8900399">Pursuant to Standing Order 108(2) and the motion adopted last week by the committee, the committee is meeting for its study on the growing problem of car thefts in Canada.</ParaText>
+              <ParaText id="8900400">We theoretically have an hour, but we'll have to stop somewhere between 1 p.m. and 1:10 p.m., depending on the time and context.</ParaText>
+              <ParaText id="8900401">Today's meeting is taking place in a hybrid format, but all members are attending in person today.</ParaText>
+              <ParaText id="8900402">I would like to welcome the witnesses, who are taking their seats.</ParaText>
+              <ParaText id="8900403">First, from the Department of Public Safety and Emergency Preparedness, we have Craig Oldham, director general, program development and intergovernmental affairs, crime prevention branch.</ParaText>
+              <ParaText id="8900404">From the Canada Border Services Agency, we have Aaron McCrorie, vice-president, intelligence and enforcement. He appeared a few days ago.</ParaText>
+              <ParaText id="8900405">Finally, from the Royal Canadian Mounted Police, we have Liam Price, director general, international special services.</ParaText>
+              <ParaText id="8900406">To begin, each witness will have the floor for a maximum of five minutes. We'll then move on to members' interventions, in accordance with the usual rules on speaking order and time.</ParaText>
+              <ParaText id="8900407">Mr. Oldham, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13146013">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="47">Frank Caputo (Kamloops—Thompson—Nicola, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900408"> Mr. Chair, may I address something, please?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13146015">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900409">Of course.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13141993">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900410">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8900411"> I don't want to take too much time. I hope we can dispense of this within about two minutes. </ParaText>
+              <ParaText id="8900412">We had a motion on the floor over a week ago about the <Affiliation DbId="318630" Type="4">minister</Affiliation> coming to committee. My understanding was that the Liberals were going to have dates for the minister. In good faith, we didn't pull any stunts or anything like that to resurrect that motion. I was advised by my counterpart—and I don't put any blame on him—that there is no date for the minister because we have not invited the minister, as is required by a motion. </ParaText>
+              <ParaText id="8900413">It appears that we need a motion to get the <Affiliation DbId="318630" Type="4">minister</Affiliation> here, so I will be moving my motion. The minister has obviously not had the greatest of weeks. We're dealing with crime. We're dealing with a confiscation on which there's a secret recording. We don't know what's what. </ParaText>
+              <ParaText id="8900414">This is an area in which Canadians need answers. We need answers, as parliamentarians, on behalf of our people.</ParaText>
+              <ParaText id="8900415">I don't want to take up too much time. I think this should be very quick. I will be moving my motion again.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142000">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900416">Is this a motion for which you have sent a notice in the last two days?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142001">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900417">I am moving the same motion that is already on the books.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142003">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900418">You're asking to return to the debate on the motion that we had.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142005">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900419">I'm not asking to return to debate. I'm moving the motion again.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142007">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900420">You cannot move that motion. It's already there. You would like to turn back to the debate on that motion. That requires an immediate vote on whether we leave the witness presentations that we have scheduled today and instead to have a debate on that motion.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13142012">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900421">I don't want a debate. I think we just have to deal with this. It should take no more than two minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142014">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900422">I will ask the committee members whether they want to do that.</ParaText>
+              <ParaText id="8900423">This is a dilatory motion that leads to moving, perhaps briefly, to that debate. I'm asking which committee members agree to turn to the debate that we had adjourned the last time around. It must have been Friday.</ParaText>
+              <ParaText id="8900424">Madame DeBellefeuille, are you in favour?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142019">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille (Beauharnois—Salaberry—Soulanges—Huntingdon, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900425">Yes, I am.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142020">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900426">Okay.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900427">Who is in favour of going back to that motion?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142021">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay (La Prairie—Atateken, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900428">What was the motion?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142022">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900429">I'll say it in French this time.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900430">Mr. Caputo's motion, which is a dilatory motion, invites us to resume the debate, which we weren't able to finish, on last Friday's motion.</ParaText>
+              <ParaText id="8900431">Are all members in agreement?</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900432">It is unanimous. We can now perhaps briefly debate that motion.</ParaText>
+              <ParaText id="8900433">Go ahead, Mr. Ramsay. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142026">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900434">The minister is willing to come. He was invited to appear as part of the study suggested by Mrs. DeBellefeuille, who proposed that <Affiliation DbId="318708" Type="5">Secretary of State Ruby Sahota</Affiliation> and the minister each come for one hour.</ParaText>
+              <ParaText id="8900435">However, there was another motion that the clerk didn't send, because we hadn't adopted it, so the minister was simply unable to provide a response. The motion was to have the minister appear for two hours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142032">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900436">Madam Clerk, can you find the motion that was proposed last week and that we had started discussing? We didn't have time to finish the discussion.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900437"> The clerk will find it, and then we can check the results. Is it your understanding that this is the same motion?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142038">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900438">Yes. I believe there was a friendly amendment to change it from four hours to two hours. That was my recollection.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142039">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900439">Madam Clerk, can you confirm that?</ParaText>
+              <ParaText id="8900440">In the meantime, Mrs. DeBellefeuille, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142040">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900441">That's more or less what I wanted to say. We had gotten very far in the debate, and we had made a compromise. I myself had proposed amending the motion to go from two meetings to just one. We were almost done, but we ran out of time to pass it.</ParaText>
+              <ParaText id="8900442">If our Liberal friends have no objections, I think it would be wise for us to be able to quickly adopt the motion and then hear what our witnesses have to say.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142044">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900443">Okay.</ParaText>
+              <ParaText id="8900444">I'm going to suspend the meeting for a few moments to give the clerk time to find this motion.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142057">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900445"> We have gathered enough evidence to validate that we have a motion for two hours for the minister. We can read that motion again if that is useful. </ParaText>
+              <ParaText id="8900446">The committee would like to invite the <Affiliation DbId="318630" Type="4">Minister of Public Safety</Affiliation> for an appearance of two hours at this committee. Is that the everyone's understanding? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142059">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900447">That's the gist of it.</ParaText>
+              <ParaText id="8900448"> I think we had a date on it as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142063">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900449">As we all know, experienced members in particular, the committee can always suggest a date. That does not force a minister or any other MP to come at a particular time on a particular date. It is obviously for the clerk, their team, the minister's office and the department involved to find a possible date for that to happen.</ParaText>
+              <ParaText id="8900450">Who is in favour of that motion?</ParaText>
+              <ParaText id="8900451">(Motion as amended agreed to [<I>See Minutes of Proceedings</I>])</ParaText>
+              <ParaText id="8900452">
+                <B>The Chair:</B> Then we will now move back to the business of the day.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900453">Thank you, Mr. Caputo.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900454">Our business, as I said earlier, is for Mr. Oldham to speak first for about five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142076">
+            <PersonSpeaking>
+              <Affiliation DbId="309455" Type="28">Craig Oldham (Director General, Program Development and Intergovernmental Affairs, Crime Prevention Branch, Department of Public Safety and Emergency Preparedness)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900455"> Thank you very much.</ParaText>
+              <ParaText id="8900456">I'm Craig Oldham. I'm one of the directors general in the crime prevention branch of Public Safety. I am largely responsible overall for the national action plan to combat auto theft.</ParaText>
+              <ParaText id="8900457">As highlighted in the RCMP's Criminal Intelligence Service Canada report from December 2023, the issue of vehicle theft in Canada had been steadily increasing in the years prior to 2024. From 2021 to 2023, Ontario and Quebec saw larger than normal surges in auto theft. Ontario witnessed a 78% increase in violent carjacking, while vehicle theft rates in Quebec rose by 50%. The involvement of organized crime groups in the vehicle theft market also augmented significantly during the same time.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900458">These circumstances warranted a swift and thorough response, and this is exactly what we have been collectively delivering across impacted jurisdictions since then.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900459">With the February 2024 national summit on auto theft and the follow-on launching of the national action plan on combatting auto theft, the federal government has worked steadily with an array of partners to advance a number of initiatives to prevent auto theft, recover stolen vehicles, stop their export and combat the organized crime networks behind the crime.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900460">As you may be aware, the national action plan on combatting auto theft has so far been updated on two occasions: first on October 16, 2024, followed by a second update on March 8, 2025.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900461">Through collaborative efforts with provincial, territorial, municipal and industrial partners, and as highlighted in the March 8, 2025, update, we continue to see positive results from these dedicated actions.</ParaText>
+              <ParaText id="8900462">In the first half of 2025, national auto theft trends have decreased by 19.1%, compared to the same period in 2024. This is from the Équité Association's “First Half of 2025: Auto Theft Trend Report”.</ParaText>
+              <ParaText id="8900463">The Canada Border Services Agency intercepted 2,277 stolen vehicles at its marine and intermodal ports in 2024, with significant interceptions in Quebec and Ontario. In addition, 1,155 vehicles have been detained thus far in 2025.</ParaText>
+              <ParaText id="8900464">Finally, since integrating data from the Canadian Police Information Centre with Interpol's stolen vehicle database, the Royal Canadian Mounted Police have received 4,312 notifications and 889 international collaboration requests via Interpol's stolen motor vehicle database.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900465">As we know too well, organized crime groups and networks are quick to adapt, and that is why Public Safety Canada, or PS; RCMP; CBSA and other involved federal departments continue to work actively with our partners to ensure a comprehensive and agile response to this evolving criminal trend.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900466"> This includes gathering provincial and territorial partners in early October to assess the overall progress and to agree on an approach to further engagement with industry partners beyond the existing national auto theft plan-related activities. This also includes continued work with Interpol so that they can further continue to contribute in tackling transnational organized crime.</ParaText>
+              <ParaText id="8900467">I would like to point out that as part of that success story, Interpol, in collaboration with 12 West African countries, conducted a successful operation in March of this year, during which most of the vehicles intercepted originated from Canada.</ParaText>
+              <ParaText id="8900468">Unless there are immediate questions, Mr. Chair, I will pass the floor to my colleagues from the RCMP and the Canada Border Services Agency in reverse order.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142104">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900469">Thank you, Mr. Oldham.</ParaText>
+              <ParaText id="8900470">Mr. McCrorie, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142105">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie (Vice-President, Intelligence and Enforcement, Canada Border Services Agency)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900471">Thank you, Mr. Chair, for the opportunity to discuss progress in combatting auto theft.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900472">I'm Aaron McCrorie, the vice-president for intelligence enforcement at the Canada Border Services Agency.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900473">Auto theft is a complex issue driven by organized crime that fuels broader criminal networks and undermines public confidence. It requires more than a single agency to address; it demands a unified, coordinated response. Auto theft has personal, social and economic impacts and is a priority for the Canada Border Services Agency.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900474">Our adversaries are transnational criminals who collaborate across borders. Successfully disrupting and defeating them therefore also depends on collaboration. The Canada Border Services Agency is working with law enforcement partners and stakeholders such as the Équité Association to support the continued work on combatting auto theft.</ParaText>
+              <ParaText id="8900475">Prior to and after the national summit on combatting auto theft in February 2024, the agency has been focused on auto theft. We have responded to 100% of referrals received from the police of jurisdiction, and over 1,800 interceptions of stolen vehicles were made in 2023.</ParaText>
+              <ParaText id="8900476">In 2024, the Canada Border Services Agency intercepted 2,277 stolen vehicles, and in 2025, as of September 23, 1,155 have been intercepted. These interceptions were driven by referrals from policing partners and our own intelligence-driven targeting. This highlights the importance of strong partnerships and coordinated efforts among the CBSA, the RCMP, and provincial and municipal police services, as well as with other key stakeholders.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900477">The Canada Border Services Agency undertook additional work following the National Summit on Combatting Auto Theft with the dedicated funding received. For example, we deployed scanning technology in the greater Toronto area to enhance our ability to examine cargo containers at intermodal facilities destined for export.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900478">We are supporting police-led joint intelligence groups and coordinating the sharing of intelligence and information on auto theft to support law enforcement investigations.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900479">We have also led regular meetings with the chiefs of police to discuss the progress on combatting auto theft and exchange information on trends and intelligence.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900480">The Canada Border Services Agency, in partnership with the Department of Justice, continues to review its legislative frameworks. A review of reporting obligations and compliance measures is in progress to ensure that the CBSA has the necessary tools, laws and regulations to detect stolen vehicles before they are exported.</ParaText>
+              <ParaText id="8900481">Équité Association is reporting a 19.1% decrease in auto theft in the first half of 2025 compared to 2024, which I would argue—and it's echoed by Équité—is the result of the collective efforts of police of jurisdiction, the RCMP, the Canada Border Services Agency, the Équité Association and other partners.</ParaText>
+              <ParaText id="8900482">The Équité Association report also notes significant decreases of theft in Ontario, which is down 25.9%, and in Quebec, which is down 22.2%. These are provinces that previously experienced the highest auto theft rates from 2021 to 2023.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900483">Coordinated efforts have shown great results, and we are committed to continuing these efforts with partners.</ParaText>
+              <ParaText id="8900484">I look forward to answering any questions the committee may have.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142123">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900485">Thank you, Mr. McCrorie.</ParaText>
+              <ParaText id="8900486">Mr. Price, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142124">
+            <PersonSpeaking>
+              <Affiliation DbId="322591" Type="28">Liam Price (Director General, International Special Services, Royal Canadian Mounted Police)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900487">Good afternoon, Mr. Chair. Thank you very much for the opportunity to provide an update to the committee on the RCMP's work to combat auto theft as part of the national action plan. </ParaText>
+              <ParaText id="8900488">My name is Liam Price, and I am the director general of international special services within federal policing at the RCMP. It's a hard title. Essentially, it's our relations with Interpol, our posts overseas and our peace operations around the world.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900489">Addressing auto theft requires strong partnerships. Co-operation among police services, governments, industry and international partners is essential to addressing this agile, resilient and persistent threat. While the investigation of each auto theft incident falls under the police of jurisdiction in Canada, the RCMP plays three essential roles.</ParaText>
+              <ParaText id="8900490">First, our federal policing mandate enables us to investigate the most serious threats to Canada.</ParaText>
+              <ParaText id="8900491">Second, we also take a leadership role as the national police force supporting provincial and municipal efforts.</ParaText>
+              <ParaText id="8900492">Finally, we act as the local police force in communities under contract.</ParaText>
+              <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900493">Under the pillars of the action plan, the RCMP, as co-lead or lead, is responsible for a number of activities. I'd like to provide some highlights of our efforts and then focus on my area of responsibility, which is international co-operation.</ParaText>
+              <ParaText id="8900494">Domestically, as you've heard from my colleagues, the RCMP continues to participate in multiple active joint task forces across the country. These include, for example in Quebec, Project Rechercher, which is led by the Sûreté du Québec. Also, there is Project Vector, which is led by the Ontario Provincial Police. </ParaText>
+              <ParaText id="8900495">These efforts aim to disrupt organized crime activities for stolen vehicles at all stages, and they are producing results. Overall, Project Rechercher has led to some of the seizures you've heard about already, such as the seizure of some 1,300 stolen vehicles, as well as the repatriation of more than 100 from overseas. This has resulted in 48 arrests and more than $1 billion in funds seized, and to date, Project Vector has contributed to the seizure of many of the vehicles intercepted at the port of Montreal that were bound for overseas.</ParaText>
+              <ParaText id="8900496">We also continue to collect, analyze and disseminate intelligence to inform our collective direction, and we deliver training to support our collective efforts. Criminal Intelligence Service Canada and the Canadian Police College, which are both hosted by the RCMP, are leaders in these areas.</ParaText>
+              <ParaText id="8900497">Let me now shift to my area of responsibility from the more transnational perspective. </ParaText>
+              <ParaText id="8900498">Auto theft is an issue that goes beyond Canada's borders. It is a global phenomenon that requires global responses. To this end, as you've heard from my colleagues, we've significantly expanded our efforts to share information about Canadian stolen vehicles with foreign partners.</ParaText>
+              <ParaText id="8900499">Since February 2024, data from CPIC, the Canadian Police Information Centre, has been integrated with Interpol's stolen motor vehicle database. That means details on more than 150,000 stolen cars from Canada are now integrated in the global fight around the world. </ParaText>
+              <ParaText id="8900500">By sharing this data, we have made it easier for foreign police to identify whether a car in front of them may have been stolen here in Canada. This is working. As you've heard, we've received notification that foreign police have checked and found stolen Canadian cars more than 4,000 times. On the back of that, we've received hundreds of requests for collaboration on investigations. As a result, that's helping us recover stolen vehicles and target the networks behind the thefts. </ParaText>
+              <ParaText id="8900501">However, we are doing more than that. We're also taking this effort overseas. As you heard from Director General Oldham, we are deploying experts as part of multinational operations, such as Operation Safe Wheels under the auspices of Interpol, which is funded by Canada, to West Africa to help local authorities there target imports of vehicles to the region by organized crime. Many of the vehicles we found there with Interpol and with local authorities did come from Canada.</ParaText>
+              <ParaText id="8900502">In closing, I would just like to reiterate that the RCMP remains engaged with partners to combat auto theft and to ensure that criminals are held to account. </ParaText>
+              <ParaText id="8900503"> We know that criminal networks are quick to adapt, and we appreciate the ongoing collaboration among partners to deprive criminal groups of this important profit centre and reduce harm to our communities.</ParaText>
+              <ParaText id="8900504">I look forward to answering any questions committee members may have today.</ParaText>
+              <ParaText id="8900505">Thank you, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142160">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900506">I'd like to thank the three witnesses for their opening remarks.</ParaText>
+              <ParaText id="8900507">We're now going to open it up to questions, starting with the Conservative Party.</ParaText>
+              <ParaText id="8900508">Mr. Caputo, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142167">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900509">Thank you very much, Mr. Chair.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900510">Thank you to all our witnesses. </ParaText>
+              <ParaText id="8900511">This question is for Mr. McCrorie from the CBSA. </ParaText>
+              <ParaText id="8900512">The government promised 1,000 new CBSA officers. You're obviously aware of that. How many have been hired?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142168">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900513">So far this year, based on the funding we got in the fall economic statement, we've hired 30 new officers to work on removals and 36 new officers to work on the new technology that we're purchasing. We're developing the plans to look at how we hire and bring on board the additional 1,000.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13142170">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900514">Is that 36 in total, or 66?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142174">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900515">It's 66. Let me clarify that those are the 66 from the fall economic statement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142176">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900516">Do those 66 specifically count toward the 1,000 that have been promised?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142179">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900517">Those are in addition to the 1,000.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142180">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900518">If they're in addition, then you haven't hired any of the 1,000 that have been promised. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142181">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900519">We're in the process of developing our plan to hire them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142183">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900520">Let's be real: We've all worked for the government, and “in the process of” is something of an indefinite timeline. The reality is that Canadians were promised 1,000 new officers at the border. At the rate we are going, by the rough math that I'm doing here, it will take seven years to hire those 1,000 officers. Isn't that of concern?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142185">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900521">I don't think it's going to take seven years. Our HR department is looking at how we can expedite this in working with our college to bring people on as quickly as they can.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142186">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900522">What I'm saying is that this was a promise and that the promise hasn't been kept, because 66 have been hired. We can all agree on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142190">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900523">I'm telling you that we're developing our action plan so that we can bring those 1,000 officers on board in addition to others we bring on as part of our—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142192">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900524">Mr. Price, I will put the same question to you. Of the 1,000 RCMP officers, how many have been hired?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142194">
+            <PersonSpeaking>
+              <Affiliation DbId="322591" Type="28">Liam Price</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900525">Sir, I don't know. It's not my area of responsibility.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142196">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900526">I get that it's not your area of responsibility, but with all due respect, you are at the public safety committee, and I anticipated that you would have anticipated this question would be asked. Is that fair?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142202">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900527">Let me point out that there are thousands of officials throughout the government, as we know. Some of them come to discuss a specific topic. The topic today is car theft. If you can focus your questions on car theft, that would be useful.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142204">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900528">With all due respect, Mr. Chair, the number of officers that were promised at the border directly impacts car thefts, so I'm going to continue on here.</ParaText>
+              <ParaText id="8900529">Sir, clearly you knew that this was going to come up. Can you get hold of somebody who can get us that number?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142206">
+            <PersonSpeaking>
+              <Affiliation DbId="322591" Type="28">Liam Price</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900530">I'd be happy to take it on notice and get back to you with details.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142207">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900531">We're going to have another round here soon, and you have two other panel mates—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142210">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand (Compton—Stanstead, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900532">Mr. Chair, I have a point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142212">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900533">Ms. Dandurand, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142215">
+            <PersonSpeaking>
+              <Affiliation DbId="319674" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900534">Mr. Chair, you said that the member was off topic, but he's asking the same question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142218">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900535">Members get a certain amount of leeway in terms of the questions they ask, but witnesses, of course, can't always provide the helpful answers that members want if the questions don't relate to the topic on the agenda.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142219">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900536">On the same point of order, Mr. Chair, I will continue. The reason I will continue is that we are talking about auto theft. Central to auto theft is our border. Central to our border is how many RCMP officers are there. Central to how many RCMP officers are there is how many were promised. I will continue on with this questioning.</ParaText>
+              <ParaText id="8900537">Mr. Price, are you prepared to send a text message to somebody who knows, and then we can come back to you in the next round?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142220">
+            <PersonSpeaking>
+              <Affiliation DbId="322591" Type="28">Liam Price</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900538">Mr. Chair—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13144886">
+            <PersonSpeaking>
+              <Affiliation DbId="319672" Type="47">Hon. Ali Ehsassi (Willowdale, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900539">I have a point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13144888">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900540">Mr. Ehsassi, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13142221">
+            <PersonSpeaking>
+              <Affiliation DbId="319672" Type="47">Hon. Ali Ehsassi</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900541">Mr. Chair, we're all familiar with the procedures that are used in committee. The way it works, as I'm sure Mr. Caputo is fully aware, is not that you ask a witness to text someone back in the department. That is truly unprofessional and a practice we would not want to encourage here. </ParaText>
+              <ParaText id="8900542">If Mr. Caputo wants to ask Mr. Price to follow up with information, that is permitted, but the practice Mr. Caputo is promoting is truly unprofessional. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142222">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900543"> Thank you for pointing this out. </ParaText>
+              <ParaText id="8900544">Obviously, Mr. Caputo and all other MPs are free to formulate their questions in the way they choose, but obviously they will want to take into account those points of view.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142226">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900545">Unfortunately for my Liberal colleague, I'm here on behalf of Canadians who have questions. We need those questions answered and we need those questions answered now. </ParaText>
+              <ParaText id="8900546">I don't think it's unprofessional to ask a senior member of the RCMP whether they can get the information in a timely manner. In fact, I think that's not only professional; it is my constitutional obligation as a member of His Majesty's loyal opposition.</ParaText>
+              <ParaText id="8900547">How many containers—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142230">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900548">I have a point of order, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142232">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900549">Okay, this is getting ridiculous.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142235">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900550">Go ahead, Mr. Ramsay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142236">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900551">Mr. Caputo is on the same line. He's asking an officer a question on something that is not his area. He doesn't work in human resources but on car thefts, so I don't think it's realistic to ask him to answer the question and to imply that he should know that answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142238">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900552">Again, witnesses have the freedom to say whether they can or cannot answer the questions. </ParaText>
+              <ParaText id="8900553">I'll follow up again with you, Mr. Caputo.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142241">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900554">On the same point of order, I've been interrupted three times while asking a very basic question. </ParaText>
+              <ParaText id="8900555">There were promises made by this government. I am asking whether—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142244">
+            <PersonSpeaking>
+              <Affiliation DbId="319672" Type="47">Hon. Ali Ehsassi</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900556">I have a point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142247">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900557">No, I have the floor here, Chair. I'm responding on a point of order. He cannot raise a point of order on my point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142249">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900558">It's the same point of order. I think we've already discussed it quite well now, so I would just encourage everyone to focus on the issue of interest today. </ParaText>
+              <ParaText id="8900559">We have the benefit of three great witnesses and we want to hear from them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142250">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900560">Has my time been stopped throughout?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142251">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900561">I will enhance your time. You have another minute and a half.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142253">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900562">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8900563">The point I'm trying to get to, Mr. Price, is this: This issue has come up in the House of Commons countless times. We all can acknowledge that. You are a senior member of the RCMP. I think it's reasonable that we, as parliamentarians, would expect that if you don't have an answer, you will get that answer forthwith. We would also expect and hope that this is information you would be armed with when you come to committee. </ParaText>
+              <ParaText id="8900564">I will move on.</ParaText>
+              <ParaText id="8900565">Mr. McCrorie, what percentage of export containers are scanned at the border?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142255">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900566">Thank you for the question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900567">I couldn't give you a breakdown in terms of import versus export, but I'd suggest that around 1% to 2% of containers are examined.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142256">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900568">I'm not talking about imports. I've asked this question before. I'm aware of the answer, but I need to get it on the record.</ParaText>
+              <ParaText id="8900569">One per cent to 2% of import containers, or 1.5%, are scanned. I'm only asking about export. Do you have statistics about how many export containers are scanned? That's where the stolen vehicles are. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142258">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900570">It'll be a fraction of that. </ParaText>
+              <ParaText id="8900571">What I need to emphasize is that what we're talking about here is whether or not those containers are physically examined or scanned with an X-ray machine, for example.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142260">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900572">When I say “examined”, if it's a fraction of—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142261">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900573">If I may, it's an important distinction, because we use advance commercial information, whether it's inbound or outbound. We have a new targeting tool that we've developed in response to auto theft that allows us to use that advance commercial information to identify which container should be subject to a physical exam.</ParaText>
+              <ParaText id="8900574">It's really about separating the wheat from the chaff so that we can focus our efforts where we think the vehicles are.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142266">
+            <PersonSpeaking>
+              <Affiliation DbId="321019" Type="40">Frank Caputo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900575">I 100% understand, but if we're only examining a fraction of 1.5%, we're examining a fraction of a fraction. That gives me pause for concern. </ParaText>
+              <ParaText id="8900576">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142273">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900577">Mr. McCrorie, I have to interrupt you because I now have to give the floor to Mr. Ramsay.</ParaText>
+              <ParaText id="8900578">You may have a chance to give a brief response later.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142276">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900579">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8900580">First of all, from what I understand, there's a 20% reduction in the number of car thefts. Congratulations. I assume that the measures you're going to implement will continue to yield results and that this percentage may increase even more.</ParaText>
+              <ParaText id="8900581">As you said, organized crime tends to evolve and adopt increasingly sophisticated ways of operating.</ParaText>
+              <ParaText id="8900582">My questions are for you, Mr. Oldham, but the other witnesses can also answer them.</ParaText>
+              <ParaText id="8900583">What are the next steps in the national strategy that could yield greater results? What best practices around the world are we using as inspiration for establishing the national strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142279">
+            <PersonSpeaking>
+              <Affiliation DbId="309455" Type="28">Craig Oldham</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900584">Thank you for the question. It's really interesting.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900585"> The fight against auto theft, I would suggest, is a team sport, and it would be difficult to point to one single action. I would very much suggest that probably our greatest strength has been the collaboration portion of this, bringing the partners—municipal, federal and international, through Interpol—together to do the intelligence-based law enforcement that allows us to target and zero in on the problems.</ParaText>
+              <ParaText id="8900586">I would suggest that there have been a number of regulatory and legislative changes as well that have also enhanced our ability to reduce the number of auto thefts and to make this less attractive to organized crime, which, much like water, will always follow the path of least resistance and go where they think the profits are the highest. The more deterrence we put here, the less engagement.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142285">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900587">I'd like to thank the member for his question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900588">I would echo that statement about the importance of collaboration. </ParaText>
+              <ParaText id="8900589">When I look at the results for the Canada Border Services Agency, I see that we recovered in the order of 2,300 vehicles last year. We're on track to do about 1,500 this year, and I think that's an indication of auto theft going down. That's all entirely due to collaboration with our policing partners. When we've identified stolen vehicles, it's been based on police referrals, on the new intelligence capacity that we've built and our new targeting tool that we've developed.</ParaText>
+              <ParaText id="8900590">In the Toronto area rail yards, we deployed two scanners to look randomly for vehicles. We have done 6,500 scans so far this year, and we've not identified any stolen vehicles as a result of those 6,500 scans, so the success is working with partners, the success is taking an intelligence-driven approach and the success is based on collaboration.</ParaText>
+              <ParaText id="8900591">Our president has convened chiefs of police about seven times since the auto theft summit to coordinate efforts, and I've convened my counterparts about 25 times, all with a view to making sure that we're all working together, all collaborating, to identify stolen vehicles and defeat the organized crime behind it.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142296">
+            <PersonSpeaking>
+              <Affiliation DbId="322591" Type="28">Liam Price</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900592">Mr. Chair, I'd also like to thank the member for his question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900593">I would echo my colleagues and really emphasize that role of global collaboration. The Secretary General of Interpol highlighted Canada's inclusion of all of the stolen motor vehicle data in Interpol's databases as a global best practice and one that should be emulated by countries around the world. That has led to our finding connections we didn't know were there, and that's really important to sealing off the vulnerabilities that Mr. Oldham spoke about.</ParaText>
+              <ParaText id="8900594">I'm very proud of that collaboration. It needs to continue, and we are continuing it. Later this fall, we will be at the next Interpol global conference on vehicle crime, talking about evolving trends that we're seeing around the world.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142300">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900595">Mr. Ramsay, you still have a minute.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142301">
+            <PersonSpeaking>
+              <Affiliation DbId="319671" Type="47">Jacques Ramsay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900596">I'll turn it over to my colleague.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142302">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900597">Mrs. DeBellefeuille, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142303">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900598">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8900599">I'd also like to thank the parliamentary secretary for being so generous to me.</ParaText>
+              <ParaText id="8900600">Gentlemen, thank you for your remarks. It's unfortunate that we don't have more time to delve into this.</ParaText>
+              <ParaText id="8900601">I wasn't part of the auto theft study, but I have read the Government of Canada's national action plan on combatting auto theft and its follow-ups, and I have to tell you sincerely that, from the outside, it seems as though everyone is making an effort, but the root of the problem isn't being addressed. I'll explain what I mean by that.</ParaText>
+              <ParaText id="8900602">A professional Radio-Canada journalist recently said, on the <I>Enquête</I> program, that organized crime offenders from West Africa were very active in car theft. The method used for arriving in Canada is to apply for a study permit, which is granted by Immigration, Refugees and Citizenship Canada, or IRCC. However, neither IRCC nor Global Affairs Canada seems to be involved in the national action plan. There is no accountability and no follow-up.</ParaText>
+              <ParaText id="8900603">It seems to me that Global Affairs Canada should establish protocols with Côte d'Ivoire and inform us of how their relationship evolves. IRCC, for its part, should show how it can better monitor the issuance of study permits and better track students from West Africa. I think those are the major omissions from the national action plan, because those departments aren't accountable for helping to reduce vehicle theft.</ParaText>
+              <ParaText id="8900604">I also don't get the impression that there's more space for border officers at the Port of Montreal. I don't think Mr. McCrorie is surprised to hear that. There aren't more hired border officers either. I think there are about eight specifically dedicated to combatting auto theft.</ParaText>
+              <ParaText id="8900605">In short, I see improvements, but some stakeholders are missing.</ParaText>
+              <ParaText id="8900606">What do you think of my idea to take the national action plan and add active participation by Global Affairs Canada and IRCC when it comes to issuing study permits for students from West Africa?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142332">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900607">Thank you for your question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900608"> You're absolutely right. This was an interesting case in which CBSA played a very active role with the police of local jurisdiction to conduct an investigation. In part, this was driven by some of the findings that CBSA inland investigators generated in working with FINTRAC as well.</ParaText>
+              <ParaText id="8900609">Part of our normal working relationship with IRCC is in fact based on the information we have gathered through this exercise. We share that with IRCC so they can do a better job when they are issuing student permits. It's also a little bit on CBSA, because some of those student visas will come to us for background checks. That will inform us in terms of how we do background checks prior to a visa being issued.</ParaText>
+              <ParaText id="8900610">The other part I would highlight is that the police are going to play their role in doing the criminal investigation and ultimately charging people. For example, if students who are foreign nationals are convicted, then we will remove them. They would be inadmissible as a result of criminality or serious criminality. One of the consequences, once they are done with the criminal system, is that we would remove them. We're actively pursuing that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142344">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900611">I have to interrupt.</ParaText>
+              <ParaText id="8900612">As we speak, we know that students from West Africa are part of organized crime in Canada and are stealing cars. The idea is to intervene upstream.</ParaText>
+              <ParaText id="8900613">Some students who come here for the purpose of studying can leave and then come back without their round trips necessarily being monitored. We wonder why Immigration, Refugees and Citizenship Canada isn't tracking where they go.</ParaText>
+              <ParaText id="8900614">Border services doesn't document the whereabouts of students.</ParaText>
+              <ParaText id="8900615">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142351">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900616">I can't answer on behalf of IRCC. I can't talk about what the IRCC is doing, but what I can say is that we do have inland investigators. When we receive tips or when we receive information that there may be students, for example, involved in criminality, we will pursue that or share that information with police. To the extent that we have information about it, we will either work with them or let them pursue their criminal investigations. </ParaText>
+              <ParaText id="8900617">We don't actively monitor every student in the country and we don't actively monitor every foreign national in the country, but when we do receive information about criminality, we will pursue that. Again, we either do that with police or we will pursue it on our own. The ultimate consequence for that will be removal if somebody is convicted.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142356">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900618">I'd like to ask you one last question.</ParaText>
+              <ParaText id="8900619">I see that Public Safety Canada, the Royal Canadian Mounted Police and the Canada Border Services Agency are taking measures under the national action plan, but I don't see a lot of motivation to encourage the auto sector to build cars that aren't so easy to steal.</ParaText>
+              <ParaText id="8900620">I find these measures a bit timid. There's plenty of talk, but it seems to me that there also has to be action taken at the source.</ParaText>
+              <ParaText id="8900621">Why does Canada allow the manufacturing of cars that are so easy to steal?</ParaText>
+              <ParaText id="8900622">Who is following up with the Minister of Public Safety so that he can have his officials change course, and they can get results more quickly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142362">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900623">You have 10 seconds, Mr. Oldham, to answer the question.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142363">
+            <PersonSpeaking>
+              <Affiliation DbId="309455" Type="28">Craig Oldham</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900624">Mr. Chair, I will try to answer in 10 seconds.</ParaText>
+              <ParaText id="8900625">Certainly, we are engaged with the auto sector and the manufacturers. It's a new area of work where we are increasingly engaged with them. In fact, we have meetings in October with partners in that area. </ParaText>
+              <ParaText id="8900626">I would also point to the work that ISED is doing to try to encourage innovation around reducing auto theft through technology. It is obviously a complex space because of the interaction with the United States and the joint nature of the auto industry. A more detailed explanation of this subject could probably come from Transport Canada and ISED. I am not the expert in that kind of detail. </ParaText>
+              <ParaText id="8900627">We consider the auto sector, the manufacturing sector and all of the private sectors as key partners in the national action plan.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142371">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900628">Thank you.</ParaText>
+              <ParaText id="8900629">We absolutely have to leave between 1:10 p.m. and 1:15 p.m. There are two more interventions.</ParaText>
+              <ParaText id="8900630">We'll start with Mr. Lloyd, and then we'll go to Ms. Acan.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142376">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd (Parkland, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900631">Thank you.</ParaText>
+              <ParaText id="8900632">Mr. Oldham, you said that 2,227 vehicles were intercepted at the ports by CBSA in 2024, plus 1,155 so far in 2025. I noted that in 2023, about 1,800 vehicles were intercepted at the border. However, according to the Équité Association, out of all the vehicles that were stolen in 2023, about 2.5% of stolen vehicles were intercepted at the border. That went up to about 3.9% in 2024. If the trend continues this year, it will sit at about 5%. It doesn't seem like a very dramatic increase in the number of vehicles being intercepted at the border.</ParaText>
+              <ParaText id="8900633">Why has the number not increased, given all the investments and announcements the government has made?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="13" Mn="00">(1300)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142381">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900634">Not all cars that are stolen in Canada are bound for the export market, so I think you need to be careful with.... </ParaText>
+              <ParaText id="8900635">I don't mean this disrespectfully—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142383">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900636">I understand that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142385">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900637">—but in terms of how you calculate the percentages of what's going out, I can say that even this year, we're seeing a decline in the number of vehicles we've intercepted at the border. By rough math, we're probably going to intercept about 1,500 vehicles. That's still higher than the years prior to 2022. In 2022 it was about 1,300 vehicles, so we're still seeing more. </ParaText>
+              <ParaText id="8900638">When you look at the combination of the number of vehicles we're intercepting and the decline in auto theft, I'm not pretending that CBSA is the only answer, but I think the point is that we've been working very well with our partners, which is having an impact on auto theft. </ParaText>
+              <ParaText id="8900639">Criminals are moving on to other and different modes. We're seeing changes in their trends. We're seeing them move to the west coast rather than the east coast, for example, but I do think we're having an impact.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142386">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900640">I'm well aware that it's a significant issue, because if criminals are not shipping vehicles out as much, they're still stealing vehicles. It's estimated that in the first half of this year, 23,000 vehicles were stolen. These are bound for domestic sale, within Canada. Carfax just released a report saying that 372,000 cloned VINs, or vehicle identification numbers, are currently in operation in Canada today. Of those, 127,000 are Ontario-registered vehicles.</ParaText>
+              <ParaText id="8900641">I'm very concerned. I know that this is a provincial issue as well, but hundreds of thousands of Canadians are driving vehicles that potentially are stolen vehicles. What are we going to do about it when these people find out that the vehicles they're depending on for their livelihoods were stolen? Are there any plans on how we're going to deal with that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142392">
+            <PersonSpeaking>
+              <Affiliation DbId="309455" Type="28">Craig Oldham</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900642">Thank you for that.</ParaText>
+              <ParaText id="8900643">There is a fair bit of activity around the VIN issue. It's a very interesting one. Ontario has been quite seized with this as a province. They are working with us on it and also with Transport Canada and ISED. It's a technological problem as well that needs some resolution. We're not there yet, but we are working hard at it.</ParaText>
+              <ParaText id="8900644">I think it would also be accurate to point out that stolen vehicles in Canada are often used domestically for parts. It's the old chop shop sort of methodology here, not just revinning and remodelling a vehicle.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142396">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900645">Is there a concern, though, that...? With Carfax providing a reporting service on whether your VIN is a real VIN or a cloned VIN, if you find out that your VIN is cloned, you're talking about a $50,000 loss, and potentially even more, in terms of what you paid for that vehicle. People have brought that concern to me. </ParaText>
+              <ParaText id="8900646">I don't want to say that people will do the wrong thing, but there's a risk that these vehicles will magically get stolen. People will file insurance claims. Vehicles will be found burned out in the forest and insurance claims will be filed. The liability costs could be massive.</ParaText>
+              <ParaText id="8900647">What plans are being made to ensure that these potentially 372,000 cloned VIN vehicles are not going to undergo that kind of fate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142405">
+            <PersonSpeaking>
+              <Affiliation DbId="309455" Type="28">Craig Oldham</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900648">I can't speak to your numbers, as I'm not familiar with them, but I will say, as I said previously, that the revinning issue is of concern. Through this national action plan and the collaboration among provinces, municipalities, police forces, etc., we are actively working on that issue. </ParaText>
+              <ParaText id="8900649">There is not a plan yet. We are working on a plan. That would be a fair assessment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142411">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900650">We're in a cost of living crisis right now. Probably through no fault of their own, people bought these vehicles. This is the work of transnational gangs, is it not? These are gangs that are selling these stolen vehicles and revinning them. What's being done to combat these gangs in doing revinning domestically in Canada? </ParaText>
+              <ParaText id="8900651">That's my final question. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142416">
+            <PersonSpeaking>
+              <Affiliation DbId="309455" Type="28">Craig Oldham</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900652">I will say that globally, the government is doing quite a bit around the gang issue. You've seen actions within the border bill. You see actions included in Bill <Document DbId="13543613" Type="3">C-2</Document>, which is coming forward. There were changes through Bill <Document DbId="13050012" Type="3">C-69</Document> back in June of 2024, which increased offences around the possession and distribution of devices that are linked to this, of course, and adding the revinning factor—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="13" Mn="05">(1305)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142426">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900653">Mr. Oldham, I'm sorry to interrupt, but the time is up.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142429">
+            <PersonSpeaking>
+              <Affiliation DbId="319843" Type="47">Dane Lloyd</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900654">I'd ask you to follow up in writing to finish the answer. </ParaText>
+              <ParaText id="8900655">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142432">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900656">Yes. That would be greatly appreciated.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900657">Ms. Acan, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142435">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan (Oakville West, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900658">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8900659">My question is for all the witnesses.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900660"> I appreciate the numbers you shared from the Équité Association report. That is a drastic change since last year, since 2024.</ParaText>
+              <ParaText id="8900661">In the numbers that you gave, you mentioned that Ontario had an almost 26% decrease. This is thanks to the civilian and uniformed members of law enforcement and also thanks to the Halton Regional Police Service, which is headquartered in my riding. Their Project Credit investigation revealed a sophisticated auto theft network operating in the GTA that included chop shops and revinning the vehicles. Those domestic chop shops are now expanding to ship parts internationally.</ParaText>
+              <ParaText id="8900662">The Équité Association report also notes the RCMP's role in providing stolen vehicle data to Interpol as a key part of the successful strategy.</ParaText>
+              <ParaText id="8900663">With criminals now targeting provinces like Alberta for international export and even expanding domestic chop shops to ship parts internationally, how is the enhanced data sharing with international partners like Interpol empowering the RCMP to disrupt these evolving global criminal networks at their source and at their destination points?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142444">
+            <PersonSpeaking>
+              <Affiliation DbId="322591" Type="28">Liam Price</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900664">Thank you for the detail in the comments about our international efforts.</ParaText>
+              <ParaText id="8900665">Let me first say that Halton is a great partner. The Halton Regional Police Service is an incredibly dedicated bunch of folks.</ParaText>
+              <ParaText id="8900666">One of the great things about the RCMP is that it is a big tent with jurisdictions across Canada, so the sharing of data is happening organically. We were out in Winnipeg just last month talking with the Winnipeg Police Service and with police officers from across the west about the vehicle theft problem and sharing the lessons that have been learned from central Canada already.</ParaText>
+              <ParaText id="8900667">That is happening on a daily basis through awareness and things like the purple notices that go out through Interpol. It's a key part of our effort, so that we don't have to relearn the problem time and again.</ParaText>
+              <ParaText id="8900668">My colleague just mentioned the movement to the west. We're detecting these trends earlier because that sharing of data is happening organically.</ParaText>
+              <ParaText id="8900669">I hope that's helpful.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142455">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900670">Thank you very much.</ParaText>
+              <ParaText id="8900671">The report also mentions the positive impacts of Ontario's major auto theft prosecution response team, which focuses on crime hot spots. We see criminal tactics evolving and targeting different regions, such as Alberta, as I mentioned. </ParaText>
+              <ParaText id="8900672">Could you please discuss how the RCMP is applying lessons learned from these successful provincial task forces to adapt its national strategy and stay ahead of these organized criminals?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142460">
+            <PersonSpeaking>
+              <Affiliation DbId="322591" Type="28">Liam Price</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900673">Like any challenge involving organized crime, it is a bit of an arms race, a cat and mouse game. We take action; they adapt. We take action again, and they adapt again. It's a constant learning process.</ParaText>
+              <ParaText id="8900674">One of the great things about the collaboration among all levels and all of the various partnerships has been our ability to use that collaboration to adjust our strategies. You described the movement from the export of full vehicles to chop shops. There's the movement from stealing cars physically to stealing them by fraud. Those are adjustments that we're making within the strategy at a very organic level. We're applying it as those data points come up in various other jurisdictions. We're sharing with international partners when we learn that there's a network that may have been active in one country and it has suddenly moved to another, and this group of folks is in your backyard, so let's pay attention to them.</ParaText>
+              <ParaText id="8900675">To respond a little bit to an earlier question, one danger in focusing on just one group of people is that the organized crime milieu is quite a complex ecosystem, not necessarily from any one country or one background. We really need to use those lessons and investigations to focus on the people who are committing the crimes in the round.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="13" Mn="10">(1310)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142471">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900676">Ms. Acan, you have a little time left for a very brief last question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900677">You have 15 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13142472">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900678">Mr. Chair, I don't have any other questions. They have already answered some questions that I had.</ParaText>
+              <ParaText id="8900679">If I have any time left, then I would like to share it with Madame DeBellefeuille, if she would like to take that time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142473">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900680"> That's great. We indeed have two and a half minutes, Madame DeBellefeuille. We don't have more than that.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142475">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900681">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8900682">Thank you very much as well, Ms. Acan.</ParaText>
+              <ParaText id="8900683">My only question is for Mr. McCrorie.</ParaText>
+              <ParaText id="8900684">The national action plan on combatting auto theft includes hiring new officers at the Canada Border Services Agency and deploying them at ports, rail yards and intermodal hubs. The plan is one year old; it will celebrate its first anniversary in November 2025.</ParaText>
+              <ParaText id="8900685">Can you tell us exactly how many new officers have been deployed as part of the national action plan?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142479">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900686">Thank you for the question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8900687">Very quickly, probably around 30 FTEs have been hired, but the ones that really matter are the 25 FTEs that are operational. We hired 10 new intelligence and targeting officers, and then 15 additional commercial exam officers to deploy to Montreal at the port, in the Toronto area rail yards, the port of Halifax and the port of Vancouver as well. They're in place.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142481">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900688">According to the information I have, the number of border services officers at the Port of Montreal hasn't been increased.</ParaText>
+              <ParaText id="8900689">Is that information false? Can you confirm that there has been an increase?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142483">
+            <PersonSpeaking>
+              <Affiliation DbId="293468" Type="28">Aaron McCrorie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900690">I'm not sure what the source of your information is, but what I would say is that we probably have on average about 40 people working at the marine and rail examination centre at the port of Montreal. With the additional resources, probably another six were added. </ParaText>
+              <ParaText id="8900691">Again, some of them were intelligence officers and some of them are going to be there to facilitate the examination of containers.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142485">
+            <PersonSpeaking>
+              <Affiliation DbId="321020" Type="40">Claude DeBellefeuille</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900692">Mr. Chair, is my time up?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142487">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900693">Unfortunately, yes.</ParaText>
+              <ParaText id="8900694">That said, the questions were excellent. There will be more opportunities to discuss all of this in the context of the border study, since these two files are related.</ParaText>
+              <ParaText id="8900695">Ms. Acan, you seem to want to say something.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13142488">
+            <PersonSpeaking>
+              <Affiliation DbId="319675" Type="47">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900696">Thank you.</ParaText>
+              <ParaText id="8900697">Mr. Chair, if I may, I would like to move a motion to adjourn the meeting for today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13142490">
+            <PersonSpeaking>
+              <Affiliation DbId="321014" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8900698">I was going to do that now, because it's already 1:10 p.m. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8900699">Thank you very much, everyone.</ParaText>
+              <ParaText id="8900700">Have a good day.</ParaText>
+              <ParaText id="8900701">The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

@@ -1,0 +1,883 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="FR" id="13156479">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>TÉMOIGNAGES</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Comité permanent de l'environnement et du développement durable</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="Session">1<Sup>re</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le lundi 6 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Monday, October 6, 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Comité permanent de l'environnement et du développement durable</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Enregistrement électronique]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">TÉMOIGNAGES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">6 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/06 11:00:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'environnement et du développement durable</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Environment and Sustainable Development</ExtractedItem>
+    <ExtractedItem Name="Acronyme">ENVI</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Président</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Angelo Iacono</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote">PARTIE PUBLIQUE SEULEMENT - PUBLIC PART ONLY</ExtractedItem>
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="00">(1100)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156482">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président (Angelo Iacono (Alfred-Pellan, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920643"> La séance est ouverte. </ParaText>
+              <ParaText id="8920644">Bonjour, chers collègues. J'espère que vous avez tous passé une bonne fin de semaine et que je ne vous ai pas trop manqué. Je suis de retour pour vous jouer de mauvais tours. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8920645">Bonjour, chers témoins.</ParaText>
+              <ParaText id="8920646">Je vous remercie d'être ici ce matin.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8920647">Aujourd'hui a lieu la sixième réunion du Comité permanent de l'environnement et du développement durable. Cette réunion se déroule en format hybride et est publique. À midi, nous nous retirerons à huis clos pour discuter des travaux du Comité. </ParaText>
+              <ParaText id="8920648">Pour ceux qui participent en personne, veuillez suivre les consignes de santé et de sécurité relatives à l'utilisation des oreillettes, qui sont inscrites sur les cartes disposées sur la table. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8920649">Le Comité reprend son étude sur l'efficacité, les améliorations possibles et la capacité du Plan de réduction des émissions pour 2030 du Canada.</ParaText>
+              <ParaText id="8920650">Nous recevons aujourd'hui M. Dave Sawyer, économiste principal à l'Institut climatique du Canada.</ParaText>
+              <ParaText id="8920651">Nous accueillons aussi Mme Heather Exner‑Pirot, directrice, Énergie, ressources naturelles et environnement. Elle participe à la réunion au moyen de l'application Zoom.</ParaText>
+              <ParaText id="8920652">Enfin, nous recevons également M. Moe Kabbara, président de l'Accélérateur de transition.</ParaText>
+              <ParaText id="8920653">Chacun des témoins disposera de cinq minutes pour prononcer son allocution d'ouverture.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8920654">Nous allons commencer avec le témoignage de M. Dave Sawyer.</ParaText>
+              <ParaText id="8920655">Vous avez cinq minutes, monsieur.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156491">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer (économiste principal, Institut climatique du Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920656"> Merci, monsieur le président, mesdames et messieurs les membres du comité.</ParaText>
+              <ParaText id="8920657">Aujourd'hui, je veux vous parler de la situation actuelle de la politique climatique au Canada. C'est une histoire de progrès fragiles, de risques croissants et de mesures à prendre pour rester sur la bonne voie. En fait, je voudrais que vous reteniez trois messages et que vous y réfléchissiez.</ParaText>
+              <ParaText id="8920658">Tout d'abord, les progrès de notre pays en matière de climat sont réels, mais fragiles. Nous avons développé l'économie tout en réduisant les émissions, mais les progrès ont stagné, les émissions ayant atteint en 2024 le même niveau qu'en 2023. Le système qui a permis de créer cette tendance pendant plus de 20 ans, à savoir la collaboration entre les provinces, le gouvernement fédéral et les territoires, perd de son élan.</ParaText>
+              <ParaText id="8920659">Deuxièmement, la dynamique évolue dans la mauvaise direction. Le recul des politiques et la production record de pétrole et de gaz continuent d'effacer les gains réalisés. Les politiques actuelles ne permettront pas d'atteindre l'objectif fixé pour 2030, et cette dérive devient structurelle. Nous avons trouvé certains indicateurs techniques qui montrent que la tendance se dirige dans la mauvaise direction.</ParaText>
+              <ParaText id="8920660">Troisièmement, le Canada peut rester sur la bonne voie. L'architecture est en place. Les outils ont fait leurs preuves. Ce dont le Canada a besoin maintenant, c'est d'une coordination ciblée et, peut-être, de bonne volonté dans tous les ordres de gouvernement.</ParaText>
+              <ParaText id="8920661">Voilà le tableau: des progrès fragiles, une dynamique défavorable et un chemin à suivre pour rester sur la bonne voie.</ParaText>
+              <ParaText id="8920662">Nos estimations des émissions pour 2024 montrent que celles‑ci ont stagné à 694 mégatonnes, soit bien au‑delà de l'objectif fixé pour 2030, et à peine plus de 8 % sous les niveaux de 2005. Ce ralentissement survient alors que les feux de forêt mettent en évidence le coût croissant de l'inaction et, bien entendu, alors que l'économie ralentit sous l'effet des droits de douane américains. Les risques liés à la concurrence et au coût de la vie s'accumulent.</ParaText>
+              <ParaText id="8920663">Pendant près de 20 ans, nous avons découplé la croissance des émissions, mais ce découplage s'est à nouveau affaibli l'année dernière; nous constatons que les émissions continuent d'augmenter à mesure que l'économie se développe. Nous ne pouvons pas lutter contre cette hausse des émissions avec des politiques moins ambitieuses.</ParaText>
+              <ParaText id="8920664">Le succès dépend des politiques, tout comme des technologies qui sont en train d'apparaître au Canada et qui sont stimulées par l'innovation canadienne. C'est grâce à des politiques et à la technologie que nous avons réussi à réduire les émissions au fil du temps. La filière électrique est une grande réussite. Des décennies d'actions fédérales et provinciales ont permis de réduire les émissions de 60 % par rapport aux niveaux de 2005. À l'échelle nationale, nous en sommes à 8 %. Ce résultat est le fruit d'une coopération, de politiques fédérales de soutien, de la volonté des provinces d'aller de l'avant et de l'arrivée sur le réseau d'énergies renouvelables bon marché, qui nous facilitent la vie.</ParaText>
+              <ParaText id="8920665">Pour ce qui est de la dynamique défavorable, les émissions dans le secteur pétrolier et gazier, en particulier celles provenant des sables bitumineux, ont augmenté de 150 % depuis 2005. Ce secteur produit désormais un tiers des émissions du pays — il est bien sûr très important sur le plan économique —, et il a atteint des niveaux de production records l'année dernière. Les données officielles et notre analyse montrent que ce secteur à lui seul a contribué à hauteur d'environ trois mégatonnes d'émissions l'année dernière, en 2024. Tous les autres secteurs ont connu une baisse ou une stagnation économique, de sorte que les gains ont été effacés par ce seul secteur. Les industries pétrolières et gazières conventionnelles font du bon travail en ce qui concerne la réglementation sur le méthane, et les émissions diminuent progressivement.</ParaText>
+              <ParaText id="8920666">Le fait est que d'autres secteurs parviennent à inverser la tendance, tandis que notre plus grand émetteur va dans la mauvaise direction, ce qui éloigne nos émissions totales de l'objectif.</ParaText>
+              <ParaText id="8920667">Où nous trouvons-nous par rapport à 2030? Il y a un an, notre évaluation indépendante du Plan de réduction des émissions — votre étude — a révélé que nous avions atteint environ les trois quarts de notre objectif pour 2030, soit une réduction d'environ 35 % sur un objectif de 40 %. Aujourd'hui, nos dernières estimations indiquent une réduction d'environ 20 à 25 % par rapport au niveau de référence de 2005 en 2030.</ParaText>
+              <ParaText id="8920668">Comment expliquer cela? Pourquoi? Cela s'explique par des reculs et des retards dans les politiques fédérales et provinciales, par de nouveaux projets de gaz naturel liquéfié à fortes émissions dont la construction est déjà prévue, et par d'importantes augmentations ponctuelles des émissions. En particulier, les programmes provinciaux visant les grands émetteurs sont en train d'être assouplis au moment même où nous parlons, ce qui ouvre vraiment la voie à une augmentation des émissions futures. Bien sûr, il y a aussi le retrait de la taxe fédérale sur le carbone et de la taxe sur le carbone de la Colombie‑Britannique, ainsi que toute une série de retards dans la mise en œuvre de politiques clés telles que la norme sur la disponibilité des véhicules électriques.</ParaText>
+              <ParaText id="8920669">Ce que je tiens vraiment à dire, c'est que nous voyons les politiques partir en fumée alors que la saison des feux de forêt bat son plein. Il y a deux réalités parallèles: nous revenons en arrière sur les politiques environnementales, et nous assistons à des incendies records et nous devons tous vivre dans la fumée chaque mois durant l'été.</ParaText>
+              <ParaText id="8920670">Que faire maintenant? Chaque tonne compte. Les politiques de lutte contre les changements climatiques ne sont pas un test où l'on réussit ou l'on échoue par rapport aux objectifs fixés. Chaque tonne compte, et chaque tonne d'émissions évitée permet d'éviter des dégâts au Canada et partout dans le monde. Ainsi, ce ne sont pas tant les objectifs qui importent — ils servent plutôt de guide pour orienter les politiques —, mais plutôt le fait de réduire les émissions à temps. Les changements climatiques ne sont pas vraiment le problème de demain. Nous sommes déjà confrontés à plusieurs de ses réalités. Voilà pourquoi il est plus important que jamais de mettre en place des politiques intelligentes et cohérentes.</ParaText>
+              <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+              <ParaText id="8920671">Comment faire? En partageant les responsabilités et en utilisant des outils qui ont fait leurs preuves à tous les échelons.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156527">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920672">Merci. Votre temps de parole est écoulé.</ParaText>
+              <ParaText id="8920673">La parole est maintenant à Mme Heather Exner-Pirot.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156532">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot (directrice, Énergie, ressources naturelles et environnement, Institut Macdonald-Laurier)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920674"> Merci, monsieur le président.</ParaText>
+              <ParaText id="8920675">Merci, mesdames et messieurs les membres du Comité, de me donner l'occasion de m'adresser à vous aujourd'hui.</ParaText>
+              <ParaText id="8920676">Le gouvernement du Canada a déjà décrit son Plan de réduction des émissions pour 2030 comme présentant « une feuille de route ambitieuse et réalisable ». Il avait à moitié raison. Le plan était ambitieux, mais il ne sera pas réalisé. Quoi qu'il en soit, il nuit à l'économie canadienne.</ParaText>
+              <ParaText id="8920677">Le gouvernement libéral précédent avait fait de la réalisation des objectifs climatiques la pièce maîtresse de son programme politique. L'économie et la sécurité nationale passaient au second plan. Cette orientation politique a eu des répercussions considérables, et le Canada s'est appauvri et affaibli.</ParaText>
+              <ParaText id="8920678">Le gouvernement s'est désormais engagé à atteindre des objectifs de dépenses plus élevés pour l'OTAN, à devenir une superpuissance énergétique et à devenir l'économie à la croissance la plus rapide du G7. Aucun de ces objectifs n'est compatible avec le Plan de réduction des émissions pour 2030.</ParaText>
+              <ParaText id="8920679">Dans un sondage réalisé par Abacus la fin de semaine dernière, quand on a demandé aux gens quels étaient les plus grands problèmes au Canada, les changements climatiques et l'environnement sont arrivés en neuvième position. Les Canadiens sont davantage préoccupés par le coût de la vie, l'économie, le prix des logements et le chômage.</ParaText>
+              <ParaText id="8920680">Je veux toujours croire qu'un environnement propre et une économie forte peuvent aller de pair, mais je suis certaine qu'une économie forte et le Plan de réduction des émissions ne peuvent pas coexister. Au contraire, le Plan de réduction des émissions a réveillé ce que j'appelle les « quatre cavaliers » de l'économie canadienne.</ParaText>
+              <ParaText id="8920681">Tout d'abord, le Règlement sur l'électricité propre a fait grimper le coût de l'électricité à des niveaux records. Il a également rendu plus difficile la construction d'installations de production d'électricité adéquates au Canada, à un moment où la demande en intelligence artificielle explose. Non seulement nous passons à côté d'un investissement générationnel de plusieurs centaines de milliards de dollars en capitaux privés, mais nous nous rendons de plus en plus dépendants des États‑Unis pour ce qui est clairement une capacité stratégique.</ParaText>
+              <ParaText id="8920682">Deuxièmement, l'obligation relative aux véhicules électriques va à l'encontre des préférences des consommateurs et est totalement déconnectée des réalités du marché. Même avant que l'industrie de l'automobile ne soit confrontée à l'incertitude et aux perturbations causées par les droits de douane américains, l'obligation relative aux véhicules électriques ajoutait des pressions et des coûts, et elle nuisait à sa concurrentialité. Maintenant, avec les droits de douane en vigueur, cette obligation représente une menace existentielle.</ParaText>
+              <ParaText id="8920683">Troisièmement, le plafonnement des émissions, bien qu'il soit encore à l'état de projet, a ajouté une grande incertitude au secteur pétrolier et gazier canadien, ce qui a nui à l'attraction de capitaux. L'industrie a répété à maintes reprises qu'elle ne pouvait respecter ce plafonnement sans réduire sa production. Notre gaz naturel liquéfié et notre pétrole ne seront pas concurrentiels à l'échelle mondiale si un tel plafond est mis en place, et le capital ira vers des endroits où les normes environnementales et éthiques sont moins élevées.</ParaText>
+              <ParaText id="8920684">Enfin, même si le gouvernement a suspendu la taxe sur le carbone à la consommation au printemps en raison de son impopularité, il semble y avoir une idée selon laquelle la taxe sur le carbone pour l'industrie compensera l'atteinte des objectifs d'émissions du Canada. Le marché du carbone ne fonctionne que si les gros émetteurs sont prêts à acheter des crédits. Plus le prix du carbone pour l'industrie augmente, moins les activités canadiennes sont viables. À un certain moment, le capital se déplacera tout simplement vers des pays moins soucieux des émissions de carbone. À partir d'un certain prix, la taxe sur le carbone pour l'industrie aura surtout pour effet de pousser les industries lourdes vers des pays où les normes environnementales et éthiques sont moins strictes. Les émissions mondiales n'en seront pas altérées.</ParaText>
+              <ParaText id="8920685">Je crois que les émissions de gaz à effet de serre sont à l'origine des changements climatiques, et je pense qu'il est dans notre intérêt d'élaborer des stratégies pour y remédier. Je ne pense pas qu'il suffise de souligner les lacunes du plan actuel. Nous devrions tous chercher à proposer d'autres politiques en toute bonne foi, mais ces politiques doivent viser à améliorer les secteurs énergivores et à fortes émissions du Canada, et non à les diminuer. Il est malheureusement évident que le Plan de réduction des émissions de 2030 a eu un impact dévastateur sur l'économie canadienne.</ParaText>
+              <ParaText id="8920686">De manière générale, les politiques climatiques adoptées par les pays occidentaux depuis l'Accord de Paris ont délocalisé la production industrielle vers des pays moins respectueux de l'environnement, affaibli la concurrence de nos économies et rendu nos chaînes d'approvisionnement industrielles dépendantes de nos adversaires. En conséquence, nous assistons à un recul de l'idéologie climatique à travers l'Europe et les États‑Unis. </ParaText>
+              <ParaText id="8920687">Le Canada ne doit pas être laissé pour compte. Le déclin économique ne nous mènera pas vers l'innovation, les investissements et les infrastructures nécessaires à un avenir meilleur.</ParaText>
+              <ParaText id="8920688">Pour conclure, j'aimerais citer Greg Ebel, le PDG d'Enbridge, qui a déclaré dans un discours la semaine dernière que nous nous trouvons dans cette situation en raison d'une « décennie où la vanité politique a pris le pas sur l'utilité économique ».</ParaText>
+              <ParaText id="8920689">Les Canadiens veulent avant tout une économie forte et un sentiment d'espoir pour leur avenir. Le plan de réduction des émissions y fait obstacle. Ne laissez pas la vanité politique nous empêcher de trouver un moyen de reconstruire et de croître à nouveau.</ParaText>
+              <ParaText id="8920690">Merci de votre attention. Je me tiens à votre disposition pour répondre à vos questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156563">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920691">Merci, madame Exner-Pirot.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8920692">Je donne maintenant la parole à M. Kabbara pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156564">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara (président, L'Accélérateur de transition)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920693"> Merci, monsieur le président, mesdames et messieurs les membres du Comité.</ParaText>
+              <ParaText id="8920694">Aujourd'hui, je vais parler de la manière dont nous pourrions renforcer le Plan de réduction des émissions pour 2030 grâce à ce que j'appellerais un impératif de compétitivité qui préserverait nos politiques climatiques tout en renforçant notre économie et en favorisant la transformation nécessaire pour un avenir à faibles émissions de carbone.</ParaText>
+              <ParaText id="8920695">Comme je l'ai déjà dit, une politique climatique efficace doit vraiment trouver le juste équilibre entre ambition et faisabilité. Quand les objectifs semblent déconnectés des moyens pratiques pour les atteindre, on risque de paralyser au lieu de mobiliser les gens. La clé, c'est de se concentrer sur les domaines où la transformation est à la fois techniquement faisable et économiquement avantageuse. On doit ressentir l'urgence, c'est vrai, mais on doit aussi s'attaquer aux problèmes qui peuvent vraiment être résolus. C'est là qu'on peut se mobiliser.</ParaText>
+              <ParaText id="8920696">Parlons des émissions. La production pétrolière et gazière représente environ 30 % des émissions du Canada. C'est le plus grand contributeur, mais cela signifie tout de même que 70 % des émissions proviennent d'autres secteurs, tels que l'électricité, les transports, le bâtiment et des industries comme le ciment, l'acier, etc. Or, c'est justement dans ces secteurs que se trouvent, selon moi, les plus grandes possibilités. </ParaText>
+              <ParaText id="8920697">Regardez ce que la Chine a fait avec les véhicules électriques, les batteries, les panneaux solaires et les minéraux essentiels. Elle n'a pas dominé ces marchés parce qu'elle se souciait particulièrement du changement climatique. Elle a compris très tôt que l'économie de demain reposerait sur des technologies tout simplement meilleures. Elles sont plus efficaces, plus performantes et elles offrent une plus grande flexibilité au niveau des systèmes énergétiques. La Chine a agi rapidement et elle a dominé ces marchés.</ParaText>
+              <ParaText id="8920698">Au moment d'évaluer le plan du Canada pour 2030, nous devons nous demander si nous nous positionnons pour être concurrentiels dans ces secteurs. Sommes-nous en train de bâtir une capacité industrielle qui favorisera la prospérité dans les prochaines décennies? </ParaText>
+              <ParaText id="8920699">Je vais vous parler des possibilités stratégiques auxquelles nous devrions accorder la priorité. </ParaText>
+              <ParaText id="8920700">Premièrement, nous avons une électricité abondante, fiable et abordable. L'extension du réseau ne concerne pas seulement les émissions, mais aussi l'attraction des industries que nous souhaitons accueillir, par exemple les centres de données, la fabrication de pointe et la production d'acier et d'aluminium verts. Nous constatons déjà que cela fonctionne.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156580">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin (Repentigny, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920701">Excusez-moi, monsieur le président.</ParaText>
+              <ParaText id="8920702">Il n'y a plus d'interprétation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156581">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920703">Ça va maintenant.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8920704">Allez‑y, monsieur Kabbara.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156584">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920705">Nous avons ici au Canada des fabricants qui produisent des transformateurs, comme Hammond Power. Nous avons vu les exportations de ces secteurs augmenter de 200 % entre 2022 et 2024. </ParaText>
+              <ParaText id="8920706">Deuxièmement, nous avons également une occasion à saisir dans le domaine de la fabrication de véhicules électriques. La réalité à long terme est assez claire. La meilleure technologie l'emportera. Les véhicules électriques sont tout simplement plus efficaces. Ils offrent de meilleures performances et leur coût d'exploitation est moindre. Il y aura peut-être des hauts et des bas, mais la direction que prennent les investissements, compte tenu des milliards de dollars qui ont été dépensés dans ce secteur, est claire. Nous pouvons tirer parti de toute cette chaîne de valeur ici même, au Canada. Nous devrions renforcer les exigences en matière de contenu fabriqué au Canada et faire en sorte que nos chaînes de production d'automobiles soient résilientes. C'est le type de transformation qui nous préparera pour l'avenir. </ParaText>
+              <ParaText id="8920707">Troisièmement, je veux parler du traitement des minéraux critiques. Nous disposons ici d'un potentiel considérable, avec des réserves de lithium, de cobalt, de nickel, de graphite et de terres rares. C'est en transformant le minerai brut en matériaux à valeur ajoutée que nous pourrons créer une réelle valeur. Par exemple, en transformant le lithium en hydroxyde de lithium, on multiplie sa valeur par quatre ou cinq. Ces matériaux sont également utilisés dans d'autres chaînes d'approvisionnement, comme les systèmes de défense et les missiles à guidage de précision. Tout cela sera essentiel à notre souveraineté et à notre sécurité. </ParaText>
+              <ParaText id="8920708">Quatrièmement, il y a le bois massif pour la construction de logements. Le bois massif permet de construire des logements plus rapidement. Il permet également de réduire les émissions de carbone. Le marché mondial du bois massif devrait connaître une croissance de 150 % d'ici 2030. Comment pourrions-nous ajouter de la valeur à nos produits forestiers lorsque nous les exportons?</ParaText>
+              <ParaText id="8920709">Enfin, dans le domaine de la défense, je dirais que la mise en place d'une base industrielle défensive pourrait s'appuyer sur les systèmes électriques, l'extension du réseau de distribution et les minéraux essentiels que nous sommes en train de développer.</ParaText>
+              <ParaText id="8920710">En fin de compte, au moment de réorienter le plan pour 2030, je dirais que chaque mesure devrait répondre à trois questions. Est‑ce que cela renforce la position concurrentielle du Canada? Est‑ce que cela crée de la valeur économique à long terme? Est‑ce que cela favorise la transformation structurelle dont nous avons besoin pour nous diriger vers un avenir à faibles émissions de carbone?</ParaText>
+              <ParaText id="8920711">L'idée n'est pas nécessairement de chercher les coûts les plus bas ou les réductions d'émissions les plus faciles à court terme, mais plutôt de transformer véritablement l'économie afin de mettre en place la structure nécessaire à notre avenir à faibles émissions de carbone.</ParaText>
+              <ParaText id="8920712">Merci.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156593">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920713">Merci de votre exposé, monsieur Kabbara. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8920714">Nous entamons maintenant la période des questions. Nous commençons par le Parti conservateur.</ParaText>
+              <ParaText id="8920715">Je donne la parole à M. Leslie pour six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156597">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie (Portage—Lisgar, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920716"> Merci, monsieur le président. Bon retour parmi nous. </ParaText>
+              <ParaText id="8920717">Madame Exner-Pirot, dans votre article intitulé « Coûts élevés, rendements faibles », vous affirmez que le Canada a le potentiel de devenir une superpuissance énergétique mondiale. </ParaText>
+              <ParaText id="8920718">Pourriez-vous nous expliquer en quoi le plafond de production des libéraux compromet totalement cet objectif, notamment du point de vue de notre compétitivité sur la scène internationale?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156599">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920719">Tout d'abord, la plupart des entreprises exploitant les sables bitumineux, qui sont les plus gros émetteurs, sont cotées en bourse. Elles sont en concurrence pour obtenir des capitaux sur les marchés mondiaux. Les investisseurs peuvent choisir non seulement d'autres producteurs de pétrole et de gaz, mais aussi n'importe quelle autre matière première ou n'importe quel autre secteur. Ces entreprises doivent donc offrir un très bon rendement sur l'investissement pour obtenir ces capitaux. </ParaText>
+              <ParaText id="8920720">Évidemment, la situation a été très difficile ces dernières années avec les politiques mises en place. Si on ajoute à cela un plafond d'émissions, on dit aux investisseurs: « Je ne sais pas si je peux me développer. Je ne sais pas si je peux produire davantage à l'avenir. Avec cette politique, je ne peux pas; j'en suis certain. »</ParaText>
+              <ParaText id="8920721">Personne ne souhaite investir dans une industrie capitalistique sans la promesse d'une croissance future. Même si le plafonnement n'a pas encore été mis en œuvre, il a vraiment nui à la capacité de repérage des investissements. Même le gaz naturel liquéfié, que tout le monde semble apprécier de nos jours, augmente quand même les émissions, comme cela a déjà été mentionné ce matin. </ParaText>
+              <ParaText id="8920722">Quand on essaie d'aller convaincre des acheteurs en Asie de signer des accords d'exploitation et d'engager des milliards de dollars, ces derniers posent des questions comme: « Quel sera l'impact du plafonnement des émissions? Serez-vous en mesure de produire le gaz naturel liquéfié pour lequel je m'engage aujourd'hui à investir des milliards de dollars? Pourrai‑je obtenir cet accord d'exploitation? La production sera-t-elle maintenue dans 15 ans? »</ParaText>
+              <ParaText id="8920723">Il n'y a pas de bonne réponse à cette question avec le plafond d'émissions en vigueur. Aux fins des travaux de ce comité, je tiens à souligner que dans l'article... J'ai examiné la question avec certains économistes. Le pétrole lourd canadien génère plus d'émissions. Cependant, il ne génère en moyenne que 1 % à 3 % d'émissions de plus que la moyenne mondiale pour le pétrole typique. Il ne génère plus d'émissions exceptionnellement plus élevées. Je pense qu'il s'agit là d'une idée fausse qui date d'il y a 10 ans. </ParaText>
+              <ParaText id="8920724">Il est important de noter que ce pétrole émet moins de gaz à effet de serre que d'autres pétroles lourds. Il n'est pas facile de remplacer le pétrole lourd par du pétrole léger. Nous n'allons pas remplacer le pétrole lourd canadien par du pétrole plus propre provenant du bassin permien ou d'Arabie saoudite; nous allons plutôt nous approvisionner davantage au Venezuela et en Irak, où les émissions sont plus élevées.</ParaText>
+              <ParaText id="8920725">Au niveau mondial, ce n'est pas en déplaçant le pétrole lourd canadien que l'on réduira les émissions. On laisserait simplement un plus grand marché pour le pétrole vénézuélien, irakien et colombien, en particulier. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156618">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920726">Merci. L'idée de compenser en important du pétrole de ces pays me semble préoccupante. </ParaText>
+              <ParaText id="8920727">Le directeur parlementaire du budget a estimé que le plafonnement coûterait 20,5 milliards de dollars à l'économie canadienne d'ici 2032, ce qui correspondrait à une taxe sur le carbone intérieur implicite de 2 887 $ par tonne. </ParaText>
+              <ParaText id="8920728">Pouvez-vous citer un autre pays qui s'inflige ce genre de souffrances économiques?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156622">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920729">Dans l'article, nous avons simplement examiné le coût exact indiqué par le directeur parlementaire du budget. Si on divise ce montant par le nombre de tonnes que le directeur parlementaire du budget estime que l'on économise, on obtient le coût du remplacement de chaque tonne de carbone au Canada, soit 2 887 $. Ce montant est évidemment beaucoup plus élevé que la taxe sur le carbone pour les consommateurs, que nous avons rejetée à 80 $ parce que nous la trouvions trop élevée. Cela me semble être une utilisation abusive de la politique climatique alors qu'il existe des solutions beaucoup plus faciles à mettre en œuvre et beaucoup moins coûteuses. </ParaText>
+              <ParaText id="8920730">En Norvège, les subventions pour les véhicules électriques sont extrêmement élevées. L'Inflation Reduction Act américaine prévoit des montants très élevés. Le passage de l'Allemagne à l'énergie éolienne et solaire a été extrêmement coûteux. Il existe quelques comparaisons, mais je n'en ai trouvé aucune qui soit aussi élevée que le plafonnement des émissions. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156626">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920731">Merci, madame. </ParaText>
+              <ParaText id="8920732">Si <Affiliation DbId="314774" Type="1">le premier ministre Carney</Affiliation> va de l'avant avec ce plafonnement des émissions, pensez-vous qu'il y ait une chance que nous devenions une superpuissance énergétique? Soyez aussi claire que possible.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156631">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920733">Il n'y a pas la moindre chance. En fait, nous assisterons à un déclin économique encore plus marqué, c'est certain. </ParaText>
+              <ParaText id="8920734">Tous ces terminaux de gaz naturel liquéfié qui viennent d'être approuvés sur la côte Ouest de la Colombie‑Britannique ne recevront probablement pas la décision finale d'investissement et ne passeront pas à la phase de construction. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156633">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920735">Si nous parvenions à trouver de nouveaux moyens de commercialiser notre produit sans abroger les dispositions issues du projet de loi <Document DbId="8936657" Type="3">C‑48</Document>, pourrions-nous devenir une superpuissance énergétique?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156634">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920736">Pour une démocratie... L'Arabie saoudite dispose de bonnes réserves. L'Iran aussi, tout comme le Venezuela. Nous sommes la seule démocratie à disposer de ces ressources exceptionnelles parmi bien plus de 100 autres. </ParaText>
+              <ParaText id="8920737">Nous pensons que nous sommes en train de nous éloigner des combustibles fossiles, mais ce n'est pas encore le cas. J'espère que nous nous en éloignerons, mais il faut comprendre... Nous consommons aujourd'hui environ 105 millions de barils par jour, mais même lorsque nous atteindrons 80, 70 ou 60 millions de barils, nous ne voudrons pas que tout cela soit fourni par l'OPEP. Nous voudrons que certaines démocraties fournissent également une partie du pétrole. </ParaText>
+              <ParaText id="8920738">Ce sera le Canada. Les États‑Unis ont manifestement atteint leur pic de production avec l'exploitation des schistes bitumineux. La Norvège atteindra probablement son pic de production de pétrole et de gaz cette année. Le seul grand fournisseur démocratique qui restera sera le Canada, car nous disposons d'énormes réserves de sables bitumineux et de réserves considérables de gaz naturel. </ParaText>
+              <ParaText id="8920739">Nous ne serons pas à court ici chez nous, mais il sera très important pour nos alliés que nous soyons en mesure de leur fournir un approvisionnement sûr. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156644">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920740">Merci.</ParaText>
+              <ParaText id="8920741">Évidemment, <Affiliation DbId="314774" Type="1">le premier ministre Carney</Affiliation> a mis en place le Bureau des grands projets, et je suppose qu'il y a toutes sortes de pressions exercées à huis clos pour faire sélectionner des projets spéciaux. Du point de vue du libre marché, n'aurait‑il pas été plus logique de simplement corriger le processus d'évaluation environnementale qui a été compromis par le projet de loi <Document DbId="9630600" Type="3">C‑69</Document> et de permettre au secteur privé de faire ce qu'il fait le mieux, plutôt que de politiser tout le processus?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156648">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920742">Tout le monde est très satisfait qu'au moins l'accent ait été mis sur les grands projets et la construction, donc ce genre de discours est le bienvenu. L'arrivée de Dawn Ferrell est la bienvenue, mais je dirais que, effectivement, du point de vue du secteur privé, ce n'était pas une couche supplémentaire de bureaucratie gouvernementale qui était attendue. Le but était de simplifier toute la législation environnementale que le projet de loi <Document DbId="13547622" Type="3">C‑5</Document> tentait de contourner. Le problème, c'est que cette solution ne fonctionne que pour ceux qui sont là, mais nous pourrions lancer des dizaines, voire des centaines de projets, au lieu des cinq ou dix qui ont été choisis ici et là. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156657">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920743">Merci. </ParaText>
+              <ParaText id="8920744">Nous passons à Mme Miedema. Vous avez six minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156661">
+            <PersonSpeaking>
+              <Affiliation DbId="317575" Type="2">Shannon Miedema (Halifax, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920745">Merci beaucoup. Je remercie également tous les témoins de nous avoir accordé leur temps aujourd'hui. </ParaText>
+              <ParaText id="8920746">Ma première question s'adresse à M. Sawyer. Les conservateurs ont pris l'habitude de parler de « plafond de production » au lieu de « plafond d'émissions ». C'est encore le cas aujourd'hui. Pourriez-vous expliquer la différence entre le plafond de production et le plafond d'émissions, ainsi que le rôle des politiques, considérant que nous convenons tous qu'il faut chercher à réduire les émissions? </ParaText>
+              <ParaText id="8920747">Ce sera tout pour ma première question. Merci. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156667">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920748">Le plafond d'émissions impose une restriction sur les émissions et permet aux entreprises... La réglementation proposée offre une certaine souplesse qui permet aux entreprises de faire des échanges et d'employer différents mécanismes de conformité, comme l'exportation de carburant et de GNL à l'étranger et l'obtention d'unités à employer au pays. Cela est prévu comme une option de conformité qui peut être envisagée dans le cadre de la réglementation. </ParaText>
+              <ParaText id="8920749">Il existe une certaine flexibilité en matière de conformité en ce qui concerne les échanges, et les entreprises peuvent faire ce qu'elles veulent pour atteindre cet objectif, ce plafond. La réglementation proposée prévoit une réduction d'environ trois mégatonnes à terme. Comparez cela à la proposition de Pathways en matière de captage et de séquestration du carbone, qui prévoit une réduction d'environ 10 à 12 mégatonnes. Cela permet de mettre les choses en perspective. </ParaText>
+              <ParaText id="8920750">Un des problèmes concernant les études sur l'impact du plafond d'émissions proposé est qu'elles partent du principe que la seule façon de réduire les émissions est de réduire ou de limiter la production, sans tenir compte des échanges ni des transactions compensatoires avec des pays d'Asie. Comme cela vient d'être souligné, limiter la production coûte très cher, environ 800 $ par tonne. Il existe d'autres options moins coûteuses pour se conformer à la réglementation. </ParaText>
+              <ParaText id="8920751">Si les entreprises veulent réduire leur production, c'est leur choix, mais il existe une grande flexibilité en matière de conformité pour limiter les coûts. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156682">
+            <PersonSpeaking>
+              <Affiliation DbId="317575" Type="2">Shannon Miedema</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920752">Merci. Avant, je travaillais pour la Ville d'Halifax où j'étais directrice de l'environnement et des changements climatiques et je comptais vraiment sur la politique fédérale pour donner le ton à ce que les gouvernements provinciaux, puis les pouvoirs locaux, ainsi que d'autres acteurs et secteurs pouvaient faire pour faire avancer le changement transformationnel dont on a besoin au Canada et dans le monde. Bon nombre des obstacles auxquels nous étions confrontés au niveau de la mise en œuvre concernaient la coordination de l'action collective. </ParaText>
+              <ParaText id="8920753">Monsieur Kabbara ou monsieur Sawyer, ou peut-être vous deux, je me demande si vous pourriez nous parler de ce point. On peut avoir une politique fédérale formidable, mais sans la bonne volonté de tous, on peut quand même échouer en grande partie. </ParaText>
+              <ParaText id="8920754">Y a‑t‑il des choses sur lesquelles nous pourrions travailler en tant que gouvernement fédéral pour améliorer la mise en œuvre de ce changement urgent et transformationnel en termes de politique ou autre? </ParaText>
+              <ParaText id="8920755">Merci. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156698">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920756">Bien sûr. Je vais répondre très rapidement. </ParaText>
+              <ParaText id="8920757">Je pense que, au bout du compte, une harmonisation est nécessaire, n'est-ce pas? Je pense que cette harmonisation peut être représentée dans un diagramme de Venn, où il y a une intersection entre ce qui est économiquement avantageux et ce qui est bon pour le climat. Ce diagramme de Venn ou cette intersection peut varier selon la province. Je dirais que, en Alberta, ce sera différent de la Nouvelle‑Écosse et du Québec, et je pense que nous devons tenir compte de cela dans le type d'alignement que le gouvernement fédéral peut avoir avec les provinces. </ParaText>
+              <ParaText id="8920758">Par exemple, si vous avez un système de chauffage au mazout dans votre maison en Nouvelle‑Écosse, comme vous le savez bien, si vous installez une thermopompe, c'est gagné d'avance: vous allez faire des économies dès le lendemain. La situation pourrait être différente si vous vous chauffez actuellement au gaz naturel à Edmonton. Je pense que nous devons reconnaître cela si nous voulons vraiment trouver des solutions pratiques et résoudre le problème de l'abordabilité. Au bout du compte, je pense que la coordination doit commencer par un alignement, puis peut-être par des politiques asymétriques en ce qui concerne la manière dont le gouvernement fédéral interagit avec les provinces. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156713">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920759">Très rapidement, si vous me le permettez, nous venons de mener un travail approfondi sur les compétences partagées dans le pays. Les réductions d'émissions les plus importantes proviennent de loin des politiques fédérales et provinciales dans lesquelles les compétences sont bien définies et la mise en œuvre, laissée aux provinces. Les règlements sur le méthane sont mis en œuvre par les provinces, de sorte qu'une seule autorité les applique. </ParaText>
+              <ParaText id="8920760">Notre succès repose sur le partage des responsabilités et des compétences, et c'est vraiment de cette façon que cela fonctionne. Des normes fédérales minimales adaptées aux besoins locaux au niveau provincial, voilà comment fonctionne la fédération. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156720">
+            <PersonSpeaking>
+              <Affiliation DbId="317575" Type="2">Shannon Miedema</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920761">Je vous remercie de vos réponses. </ParaText>
+              <ParaText id="8920762">Monsieur Kabbara, vous avez parlé de compétitivité. On parle beaucoup de l'élaboration d'une stratégie de compétitivité climatique par le gouvernement fédéral. Elle devrait être dévoilée avant le budget. </ParaText>
+              <ParaText id="8920763">Si vous pouviez définir cette stratégie, quels en seraient les éléments? Selon vous, quels sont les aspects les plus importants à prendre en considération à l'heure actuelle? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156725">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920764">Sur le plan sectoriel, je pense que ce serait l'électricité, les véhicules électriques, les minéraux critiques, le bois d'œuvre et les liens avec le secteur de la défense. Ce sont les cinq secteurs sur lesquels je me concentrerais. </ParaText>
+              <ParaText id="8920765">Plus généralement, l'un des points que nous avons défendus est ce qui se trouve réellement en amont de tous ces éléments; c'est‑à‑dire une base industrielle solide, n'est‑ce pas? </ParaText>
+              <ParaText id="8920766">Si l'on regarde la Corée pendant la crise de Nixon dans les années 70, ce qu'ils ont finalement fait, c'est construire leur base industrielle en amont dans le domaine de l'industrie chimique. C'est ce qui a ensuite conduit à tous les secteurs en aval présent dans le pays aujourd'hui. </ParaText>
+              <ParaText id="8920767">Je pense qu'il faudrait se pencher sur les éléments qui permettraient de construire cette base industrielle en termes de main-d'œuvre, d'énergie, de recherche et développement, d'innovation, d'infrastructures et de stratégie de diversification commerciale ou de corridors commerciaux. Je pense qu'il faudrait se concentrer sur un nombre limité de priorités efficaces et s'assurer qu'il existe une base industrielle capable d'alimenter tous ces différents secteurs. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156737">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920768">Merci, monsieur Kabbara. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8920769"> Monsieur Bonin, vous avez la parole pour six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156741">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920770">Merci, monsieur le président. Je vous souhaite un bon retour.</ParaText>
+              <ParaText id="8920771">Je remercie les témoins de leurs présentations.</ParaText>
+              <ParaText id="8920772">Monsieur Sawyer, vous avez dit que, selon les évaluations, les trois quarts de la cible établie pour 2030 étaient atteints, mais qu'en raison de récents reculs, entre autres choses, la réduction des émissions prévue pour 2030 serait de 20 à 25 % par rapport aux niveaux de 2005.</ParaText>
+              <ParaText id="8920773">Pourriez-vous nous donner des précisions là-dessus? Où en sommes-nous exactement?</ParaText>
+              <ParaText id="8920774">Que voulez-vous dire lorsque vous parlez de récents reculs? Quelle serait leur incidence?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156751">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920775">Les grandes lacunes dans les politiques concernent les systèmes d'échange de quotas d'émission pour les grands émetteurs: les systèmes de tarification du carbone pour l'industrie. Le gouvernement fédéral fixe une norme de référence et les provinces peuvent choisir de mettre en œuvre leurs propres politiques. </ParaText>
+              <ParaText id="8920776">Certaines provinces ont édulcoré le système. La Saskatchewan a complètement suspendu son système. L'Alberta a annoncé une série de changements pas plus tard que la semaine dernière. Cela exerce une pression à la baisse importante sur les émissions et les prix. Les prix négociés actuellement dans le règlement TIER sont inférieurs aux niveaux fixés par l'ancien premier ministre Stephen Harper, à moins de 15 $ la tonne. Le marché est illiquide en raison de ces derniers changements. Cela ne permet vraiment pas de maintenir le signal à long terme que nous avions observé. </ParaText>
+              <ParaText id="8920777">La suspension de la norme de disponibilité des véhicules électriques représente une décision importante. Oui, il y a des problèmes liés aux ventes. Le ralentissement des ventes est également dû en grande partie à la diminution des subventions accordées. En ce qui concerne le secteur des transports, la population augmente et les émissions ne diminuent pas aussi rapidement. L'adoption de la technologie n'est pas celle qui était prévue. C'est un autre élément important. </ParaText>
+              <ParaText id="8920778">De plus, la réglementation sur le méthane dans le secteur pétrolier et gazier doit être renforcée. Une grande partie de nos travaux reposait sur l'hypothèse d'une réglementation stricte dans ce secteur. Il pourrait y avoir un ralentissement. </ParaText>
+              <ParaText id="8920779">Une réglementation sur l'électricité propre sera bientôt mise en place, mais elle n'entrera pas vraiment en vigueur avant 2035, donc elle n'a pas beaucoup d'impact pour l'instant. Bien sûr, il y a un horizon d'investissement, mais il arrivera dans 10 ans. </ParaText>
+              <ParaText id="8920780">C'est ce genre de choses. Nous pouvons citer un certain nombre de politiques, notamment l'élimination de la taxe sur le carbone en Colombie‑Britannique et au niveau fédéral... </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156765">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920781">J'aimerais revenir sur le prix industriel pour les provinces.</ParaText>
+              <ParaText id="8920782">Vous avez dit que l'Alberta avait reculé quant au système de tarification du carbone.</ParaText>
+              <ParaText id="8920783">Le gouvernement fédéral devrait-il intervenir pour s'assurer que le prix du carbone industriel en Alberta est équivalent actuellement à celui du système fédéral ou encore au système de plafonnement du Québec?</ParaText>
+              <ParaText id="8920784">Est-ce équivalent?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156775">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920785">Je vais d'abord répondre à la question au sujet du Québec. </ParaText>
+              <ParaText id="8920786">Le système québécois est solide, fonctionnel, bien organisé et bien entretenu, et il présente toutes les caractéristiques souhaitables. Il offre une grande souplesse qui permet de maintenir les prix bas. Il est relié au système californien afin de maintenir les coûts de crédit pour l'industrie et les ménages à un niveau bas, tout en réacheminant les crédits vers les ménages et l'industrie pour favoriser les technologies à faible émission de carbone. Le système de plafonnement et d'échange du Québec est très solide. </ParaText>
+              <ParaText id="8920787">Dans le cadre du programme TIER, plusieurs annonces techniques viennent d'être faites. Elles semblent techniques, mais lorsque vous les intégrez dans les modèles et que vous examinez la situation, vous constatez que les prix futurs pourraient atteindre 65 $ la tonne, si tout va bien. Cela a complètement refroidi le marché. Ceux qui négocient les échanges nous disent que le marché manque de liquidité. </ParaText>
+              <ParaText id="8920788">Il y a une grande incertitude dans le système. Il faudrait une bourse publique et de la transparence, comme c'est le cas au Québec avec la WCI, où, quand des annonces sont faites en Californie et au Québec, les prix réagissent. Le marché s'exprime, et on le voit. On ne sait vraiment pas ce qui se passe. On n'a pas de découverte des prix ni de bourse, alors ce sont ceux qui négocient qui nous disent ce qui se passe. </ParaText>
+              <ParaText id="8920789">Le marché s'est exprimé. Si on examine les chiffres, on constate qu'ils restent bien en deçà des niveaux nécessaires pour une bonne décarbonation ou pour que les investissements importants dans la décarbonation soient rentables. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156785">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920790">Actuellement, les systèmes en place en Alberta et en Saskatchewan respectivement sont-ils équivalents au système fédéral?</ParaText>
+              <ParaText id="8920791">Le gouvernement devrait-il intervenir pour s'assurer que le prix établi actuellement en Alberta sera augmenté?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156789">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920792">Je ne m'avancerai pas au sujet de ce que le gouvernement devrait ou ne devrait pas faire. </ParaText>
+              <ParaText id="8920793">Je connais bien le fonctionnement du filet de sécurité fédéral. Il permet aux provinces de concevoir leurs propres systèmes en fonction de leurs besoins. L'Alberta, la Saskatchewan et l'Ontario ont leurs propres systèmes. </ParaText>
+              <ParaText id="8920794">La Saskatchewan a annoncé qu'elle avait suspendu son système, de sorte que la province n'est plus conforme aux exigences du fédéral. Le gouvernement pourrait imposer le filet de sécurité. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156792">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920795">Vous semblez dire qu'il est encore possible d'atteindre la cible établie pour 2030, si le Canada prenait des virages majeurs.</ParaText>
+              <ParaText id="8920796">Pouvez-vous nous dire brièvement quels virages devraient être faits en priorité?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156795">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920797">Il faudrait... </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13158409">
+            <PersonSpeaking>
+              <Affiliation DbId="320321" Type="47">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920798">Ma question s'adresse aussi à M. Kabbara.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156796">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920799">Je suis désolé. Je vais faire vite. </ParaText>
+              <ParaText id="8920800">Il faudrait réduire les émissions de 40 mégatonnes par an pour atteindre l'objectif. Le projet Pathways... Depuis l'ancien premier ministre Chrétien et l'ancien premier ministre Klein, il est question de captage, d'utilisation et de stockage du carbone en Alberta et dans tout le pays. Cela représente 10 à 12 mégatonnes. Il faudrait réduire les émissions de 40 mégatonnes par an pour atteindre l'objectif. Nous l'avons annoncé cette année. Je pense que nous sommes en retard. Chaque tonne compte. </ParaText>
+              <ParaText id="8920801">Nous avons en quelque sorte recensé un certain nombre de choses. Nous devrions renforcer les programmes provinciaux visant les grands émetteurs, durcir la réglementation sur le pétrole, le gaz et le méthane — le captage du carbone peut fonctionner, mais nous avons besoin de programmes renforcés visant les grands émetteurs —, régler la question de la norme sur les véhicules électriques, maintenir le Règlement sur les combustibles propres et mettre en œuvre la réglementation sur l'électricité propre avec des crédits d'impôt à l'investissement. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156806">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920802">Merci, monsieur Sawyer. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8920803">Je donne la parole à M. Bexte pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156811">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte (Bow River, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920804">Merci beaucoup, monsieur le président. Je suis heureux d'avoir l'occasion de prendre la parole. </ParaText>
+              <ParaText id="8920805">Madame Exner‑Pirot, merci d'être avec nous aujourd'hui. J'ai quelques questions. </ParaText>
+              <ParaText id="8920806">Au sujet des solutions de rechange possibles pour la gestion des émissions, vous avez déjà dit ceci: </ParaText>
+              <ParaText id="8920807">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">Il est difficile d'imaginer une solution plus coûteuse et plus controversée que le plafonnement des émissions proposé pour réduire les émissions de ce secteur et de l'économie canadienne.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8920808">Pouvez-vous expliquer pourquoi le plafonnement des émissions équivaut à un plafonnement de la production et dire en quoi cette solution nuit aux investissements? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156817">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920809">Oui. Il semble y avoir un écart considérable entre les fonctionnaires qui conçoivent ces mesures et les personnes qui doivent travailler et obtenir des fonds pour leur entreprise dans le cadre de ce système. Tous les acteurs du secteur pétrolier et gazier qui ont besoin d'acheteurs, de vendeurs et d'investisseurs disent que ce système aboutira à un plafonnement de la production. Qu'il existe ou non un mécanisme ingénieux permettant de choisir différentes compensations ou autres, le fait est que leurs entreprises seront moins compétitives par rapport à leurs homologues du reste du monde. </ParaText>
+              <ParaText id="8920810">Pour moi, le cœur du problème est que nous nous concentrons trop sur la réduction des émissions au Canada sans réfléchir à l'impact sur les émissions mondiales. Vous voulez faire cesser l'exploitation de pétrole lourd de GNL au Canada alors que les concurrents directs, les équivalents sur les marchés mondiaux, présentent presque toujours une intensité d'émissions plus élevée. En réalité, le secteur pétrolier a plutôt bien réussi à réduire l'intensité de ses émissions. Comme je l'ai mentionné, la réduction du méthane a joué un rôle important dans ce domaine pour les énergies conventionnelles. La production de pétrole issu des sables bitumineux a également diminué d'environ 30 % au cours des 12 dernières années. </ParaText>
+              <ParaText id="8920811">Certaines mesures fonctionnent. Il y a le programme TIER, qui vise à réduire l'intensité des émissions. Les gens font des efforts. Certains ont investi des milliards de dollars pour essayer de réduire les émissions, mais à un certain moment, vous n'êtes tout simplement plus compétitif. Arrive un point où vous cédez simplement des parts de marché à quelqu'un d'autre. </ParaText>
+              <ParaText id="8920812">Pour la plupart de ces entreprises, le but n'est pas de négocier des crédits carbone, mais plutôt de produire des unités de gaz naturel ou des barils de pétrole au prix le plus bas possible. À l'heure actuelle, le prix du pétrole WTI est d'environ 65 $. Le prix du gaz naturel dans l'Ouest du Canada est inférieur à zéro, voire négatif, depuis un mois. Comment pouvez-vous être compétitif dans un contexte de prix bas — on parle d'une matière première, donc il arrive parfois que les prix soient bas — lorsque vous ajoutez des coûts liés au climat qui pourraient s'élever à 10 ou 20 $ par baril de pétrole? </ParaText>
+              <ParaText id="8920813">Alors non, cela ne vous oblige pas à arrêter la production, mais votre entreprise n'est absolument pas compétitive et n'est pas du tout rentable si vous devez faire tout cela. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156846">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920814">Merci. </ParaText>
+              <ParaText id="8920815">Dans le même ordre d'idées, les modèles élaborés par le gouvernement, par Environnement et Changement climatique Canada pour être précis, ne prévoient qu'une baisse de 0,7 % de la production de pétrole et de gaz en raison du plafonnement des émissions. Le directeur parlementaire du budget prévoit quant à lui une perte de 5,4 %. Le Conference Board du Canada et Deloitte estiment cette perte à environ 11 %. Les tendances observées dans la production réelle semblent correspondre davantage aux estimations les plus élevées. Selon vous, quelle série de données est la plus proche de la réalité? Que faut‑il en conclure? Cela signifie‑t‑il que le gouvernement minimise l'impact de sa propre politique? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156853">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920816">C'est une bonne question, car le scénario d'Environnement et Changement climatique Canada est déjà erroné. Il repose sur des données qui ont déjà été infirmées. Je pense qu'il s'appuie sur les scénarios de la Régie canadienne de l'énergie, qui eux-mêmes s'appuient sur ceux de l'Agence internationale de l'énergie. Comme la plupart des membres de ce comité l'ont probablement remarqué, il y a un mois, l'Agence internationale de l'énergie est revenue sur sa position et a déclaré que son scénario de politiques actuel ne prévoit pas que la production pétrolière atteindra son pic au cours de cette décennie et qu'elle restera stable jusqu'en 2050. Si vous revenez en arrière et que vous intégrez cela dans le modèle d'Environnement et Changement climatique Canada, vous constaterez qu'il était extrêmement ambitieux. La situation n'a pas du tout évolué de cette manière. Il y a un écart énorme. </ParaText>
+              <ParaText id="8920817">Même les chiffres du directeur parlementaire du budget semblent très prudents et ils ne correspondent pas à la réalité en octobre 2025. Il semble que les chiffres du Conference Board et de Deloitte soient les plus près de la réalité. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156870">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920818">Selon vos recherches, l'imposition d'un plafond d'émissions à l'industrie du pétrole et du gaz au Canada pourrait même avoir comme effet d'augmenter les émissions à l'échelle mondiale. Vous l'avez déjà mentionné aujourd'hui. </ParaText>
+              <ParaText id="8920819">Vous avez également affirmé que le coût par tonne de carbone de cette méthode de réduction des émissions pourrait être infini. Ai‑je bien compris? Pourriez-vous expliquer comment vous êtes arrivée à cette conclusion? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156874">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920820">Je vais l'expliquer. Je voulais frapper l'imaginaire et employer le symbole de l'infini dans mon article, mais l'éditeur trouvait que cela faisait trop intello, alors je ne l'ai pas mis. </ParaText>
+              <ParaText id="8920821">Fondamentalement, quand on parle du GNL canadien, je pense que beaucoup de gens, tous horizons politiques confondus, sont aujourd'hui fiers à juste titre de ce produit. Il présente généralement la plus faible intensité en gaz à effet de serre de tous les GNL disponibles sur les marchés mondiaux. Cela s'explique en partie par la composition du gisement de Montney. Il s'agit d'un gisement à très faibles émissions ou à faible intensité carbone. Cela s'explique également par l'hydroélectricité employée pour la liquéfaction. Enfin, il y a également les normes environnementales élevées du Canada, par exemple les réglementations sur le torchage et le méthane. </ParaText>
+              <ParaText id="8920822">Si on transférait... </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156882">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920823">Merci. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156883">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920824">Merci. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156884">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920825">Bienvenue. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8920826">Monsieur St‑Pierre, vous avez la parole pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156887">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre (Honoré-Mercier, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920827">Merci, monsieur le président.</ParaText>
+              <ParaText id="8920828">Monsieur Sawyer, les provinces ont adopté des cibles pour réduire leurs émissions de gaz à effet de serre. La province d'où je viens, c'est-à-dire le Québec, a établi une cible de réduction de 37,5 %.</ParaText>
+              <ParaText id="8920829">Les provinces sont-elles en voie d'atteindre leur cible pour 2030?</ParaText>
+              <ParaText id="8920830">Cela aura-t-il une incidence sur la cible nationale?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156892">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920831"> C'est une bonne question. </ParaText>
+              <ParaText id="8920832">Pour moi, les cibles sont comme l'étoile Polaire; elles servent de guide pour orienter les politiques et les mesures. La plupart des provinces n'ont pas atteint leurs cibles. Grâce aux plafonds qu'il a mis en place, le Québec semble être en bonne voie d'atteindre sa cible. À mon avis, la question est vraiment de savoir si nous avons mis en place les politiques nécessaires pour réduire les émissions afin d'atteindre nos cibles, et ce n'est pas en éliminant des politiques que nous allons y parvenir. Chaque tonne évitée est une tonne de dommages évités aujourd'hui et dans le futur. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156901">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920833">Merci. </ParaText>
+              <ParaText id="8920834">Monsieur Kabbara, dans le plus récent rapport que vous avez publié en septembre intitulé « Building the Future Economy », vous cernez les secteurs présentant les opportunités les plus importantes dont les véhicules électriques, les minéraux critiques, l'énergie propre, les logements modulaires et la défense. </ParaText>
+              <ParaText id="8920835">Ces opportunités pourraient-elles dans certains cas nous permettre d'atteindre nos cibles pour 2030 ou d'arriver à la carboneutralité d'ici 2050? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156905">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920836">Au bout du compte, elles peuvent certainement nous aider à atteindre notre objectif de carboneutralité d'ici 2050 en favorisant les types de produits qui réduisent les émissions. </ParaText>
+              <ParaText id="8920837">En ce qui concerne la cible de 2030, je suis d'accord avec l'évaluation de Dave, à savoir qu'il sera pratiquement impossible de l'atteindre à ce stade. Les choses évoluent toujours dans la bonne direction, relativement parlant, pour ce qui est de la mise en place du système futur, et je pense que ces mesures aboutiront à ce résultat. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156915">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920838">Parfait. </ParaText>
+              <ParaText id="8920839">Je me tourne maintenant vers Mme Exner‑Pirot. </ParaText>
+              <ParaText id="8920840"> Je suis heureux de vous revoir. Je crois que c'est moi qui vous avais présentée, il y a un an, lors du forum à Banff. Je suis content de vous revoir, même si c'est à distance. </ParaText>
+              <ParaText id="8920841">Imperial Oil, qui a augmenté son dividende de 20 % l'année dernière, a annoncé la semaine dernière la suppression de 900 à 1 000 emplois à Calgary. Vous avez été citée le 30 septembre dans un article de la CBC où vous parliez des tendances mondiales dans le secteur du pétrole et du gaz. Vous avez déclaré: « C'est évidemment extrêmement difficile pour Calgary et extrêmement difficile pour le Canada, mais cela s'inscrit dans une série de licenciements beaucoup plus large. » </ParaText>
+              <ParaText id="8920842">Pouvez-vous expliquer ce que vous entendiez par « série de licenciements beaucoup plus large »? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156927">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920843">Oui. Imperial, en particulier, est détenue à 70 % par ExxonMobil, qui est évidemment une énorme compagnie pétrolière américaine. Elle a annoncé plusieurs milliers de licenciements à l'échelle mondiale. Ce phénomène ne touche pas seulement le secteur pétrolier canadien; on le constate également chez BP, Chevron et ConocoPhillips. Il y a des licenciements dans le secteur pétrolier et gazier, car les prix sont très bas et l'environnement est extrêmement concurrentiel. La raison pour laquelle les prix sont très bas est que l'OPEP a inondé le marché, probablement de connivence avec l'administration Trump, afin de contenir l'inflation. Tout le monde essaie de réduire les coûts et de survivre dans ce marché, et si possible, d'augmenter sa part de marché si l'on est un producteur à faible coût, comme c'est le cas actuellement pour les sables bitumineux canadiens. </ParaText>
+              <ParaText id="8920844">Les réductions opérées par Imperial, en particulier, ne sont que le reflet de ces structures mondiales et de ce que fait ExxonMobil avec ses propres activités. Il y a là une opportunité de faire croître l'économie par d'autres moyens, même si certaines entreprises tentent de réduire leurs effectifs. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156949">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920845">Merci. </ParaText>
+              <ParaText id="8920846"> Comme nous le savons, les ventes de véhicules électriques connaissent une croissance exponentielle. En 2024, environ 20 % des voitures neuves vendues dans le monde étaient électriques. L'Agence internationale de l'énergie estime qu'environ 25 % des voitures neuves vendues cette année seront électriques et prévoit que 40 % des voitures neuves vendues d'ici 2030 seront électriques. </ParaText>
+              <ParaText id="8920847">Les licenciements observés à l'échelle mondiale dans le secteur du pétrole et du gaz sont-ils liés à une offre excédentaire ou à une baisse de la demande de pétrole, et quel serait l'impact de cette situation au Canada? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156954">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920848">C'est une bonne question. </ParaText>
+              <ParaText id="8920849">En réalité, la demande mondiale de pétrole n'a jamais été aussi forte qu'aujourd'hui. Le problème vient plutôt de la production saoudienne, qui utilise toute sa capacité de réserve pour faire baisser les prix et gagner des parts de marché. Je ne crois pas que les ventes de véhicules électriques connaissent une croissance exponentielle, mais plutôt une croissance progressive. Si l'on exclut les chiffres chinois et que l'on prend ceux des États‑Unis, de l'Amérique du Nord ou de l'Europe, la situation est évidemment beaucoup plus sombre pour les véhicules électriques. Vous n'avez pas à me croire sur parole. C'est ce que disent eux-mêmes les constructeurs de véhicules électriques et les constructeurs automobiles canadiens. En d'autres termes, l'obligation de vendre des véhicules électriques qui est imposée ne les aide pas, elle les rend moins compétitifs, il n'y a pas de marché pour ces véhicules et cela va bientôt toucher les concessionnaires. </ParaText>
+              <ParaText id="8920850">Je vais m'arrêter là. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156959">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920851">Merci. </ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8920852">Je passe maintenant la parole à M. Bonin pour deux minutes et demie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156960">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920853">Merci, monsieur le président.</ParaText>
+              <ParaText id="8920854">Monsieur Sawyer, vous avez dressé un inventaire des émissions. Pour ce qui touche l'intensité des émissions du pétrole et du gaz, vous dites qu'elle n'a pas diminué au cours des dernières années.</ParaText>
+              <ParaText id="8920855">Est-ce bien le cas?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156961">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920856"> Oui, depuis 2017, l'intensité des émissions issues de l'exploitation des sables bitumineux a plafonné. Il y a eu des changements importants depuis 2005, mais dans les cinq dernières années, nous avons atteint un plateau. </ParaText>
+              <ParaText id="8920857">Plus la production augmente, plus la croissance des émissions est forte. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156963">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920858">Le <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> a mentionné l'idée d'avoir du pétrole vert. Comprenez-vous ce dont il parle?</ParaText>
+              <ParaText id="8920859">Selon vous, est-ce possible actuellement d'obtenir du pétrole vert à partir des sables bitumineux?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156972">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920860">Toutes les émissions liées au pétrole et au gaz, comme l'a indiqué Moe, devraient vraiment être contrôlées ou au moins faire l'objet d'un signal de prix ou d'une réglementation qui concilie abordabilité et compétitivité et envoie un signal pour gérer le carbone à long terme. C'est le signal à long terme: les dommages climatiques, la compétitivité sur la scène mondiale, les ajustements à la frontière pour le carbone, toutes ces choses. </ParaText>
+              <ParaText id="8920861">Nous avons besoin de signaux pour changer les comportements afin que nous modifiions tous nos technologies et que, lorsqu'un nouvel équipement ou une nouvelle voiture arrive, nous changions encore une fois les choses. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156981">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920862">Monsieur Kabbara, le Canada est-il en bonne position en matière de leadership économique pour faire la transition énergétique, comparativement aux autres pays dans le monde, comme l'Europe ou la Chine?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156983">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920863">Oui, et c'est pourquoi nous avons été très clairs à ce sujet. Nous pensons que le Canada dispose actuellement d'une occasion en or. Le pays est l'un des seuls au monde à avoir accès à pratiquement tous les minéraux critiques nécessaires à la fabrication des produits qui seront indispensables à l'avenir. Nous disposons également du savoir-faire et des compétences nécessaires pour transformer ces minéraux critiques et ces matériaux en produits à valeur ajoutée. Nous avons accès à une électricité propre et abondante que nous pouvons également développer. Nous avons accès à une main-d'œuvre et à des talents de classe mondiale. </ParaText>
+              <ParaText id="8920864">Je pense que le Canada est très bien placé si, comme je l'ai mentionné précédemment, nous choisissons quelques domaines prioritaires et nous concentrons nos efforts sur ceux‑ci. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13156989">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920865">Le Canada pourrait-il être plus concurrentiel, par exemple en réduisant les émissions du secteur pétrolier et gazier, et en investissant dans la transition énergétique, la recherche, l'innovation et les industries vertes?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156991">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920866">C'est pourquoi j'insiste sur le fait qu'il y a beaucoup de discussions autour de cette part de 30 %. Nous ne nous concentrons pas particulièrement sur cet aspect, ce qui ne veut pas dire qu'il n'est pas important, mais il reste 70 % sur lesquels nous devons nous concentrer. En ce qui concerne ces investissements, qu'il s'agisse de construire ici des véhicules électriques ou des batteries qui peuvent conduire à une réduction des émissions liées au transport, c'est une chose sur laquelle nous nous concentrons. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156997">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920867">Merci beaucoup. </ParaText>
+              <ParaText id="8920868">Madame Anstey, c'est à vous. Vous avez cinq minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156999">
+            <PersonSpeaking>
+              <Affiliation DbId="320169" Type="47">Carol Anstey (Long Range Mountains, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920869">Merci. </ParaText>
+              <ParaText id="8920870">Heureuse de vous voir madame Exner‑Pirot. </ParaText>
+              <ParaText id="8920871">Puisque nous parlons des émissions, j'aimerais poser quelques questions au sujet du virage vers l'hydrogène propre. Le chancelier allemand est venu au pays en 2022. Il s'est rendu dans ma circonscription, à Terre‑Neuve‑et‑Labrador, où il a manifesté un intérêt pour le GNL, mais on lui a répondu qu'il n'y avait pas de justification économique pour s'engager dans cette voie. </ParaText>
+              <ParaText id="8920872">Je suis curieuse de savoir où en sont les projets actuels liés à l'hydrogène et comment la décision du Canada de privilégier l'hydrogène propre plutôt que le GNL affecte sa crédibilité en tant que fournisseur d'énergie fiable. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157010">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920873">C'est une bonne question. </ParaText>
+              <ParaText id="8920874">Cette triste affaire est malheureusement bien connue. Le chancelier et le vice-chancelier allemands sont arrivés alors que l'Allemagne était en pleine crise énergétique et qu'elle construisait ses propres terminaux d'importation de GNL afin de trouver une solution de remplacement à l'approvisionnement en provenance de Russie, mais aussi de certains de ses fournisseurs du Moyen‑Orient. Ils souhaitaient diversifier leurs sources d'approvisionnement et ne pas dépendre uniquement des États‑Unis. Bien sûr, les ressources du Canada en font une superpuissance énergétique, mais à l'époque le pays n'était pas en mesure d'offrir quoi que ce soit aux Allemands. Il n'y avait donc pas vraiment de justification économique, et nous avons plutôt promis de l'hydrogène propre. </ParaText>
+              <ParaText id="8920875">D'ailleurs, cet hydrogène propre devait être livré en 2025. Le protocole d'accord ou l'engagement pris envers le chancelier Scholz prévoyait une livraison en 2025. Évidemment, nous sommes loin d'être prêts pour la production. Ce marché s'est effondré. Il n'y a pas d'acheteurs en Allemagne. En fait, il existe des sources moins chères auprès desquelles ils pourraient acheter de l'hydrogène propre en Europe et dans les environs, donc cela ne s'est pas matérialisé. Il faut donc réfléchir à ce que nous devons privilégier pour que les collectivités du pays puissent prospérer à l'avenir. Nous devons chercher des projets pour lesquels il y a vraiment des investissements et des capitaux, au lieu de nous concentrer sur l'espoir que certaines technologies émergent dans le futur. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157023">
+            <PersonSpeaking>
+              <Affiliation DbId="320169" Type="47">Carol Anstey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920876">Par ailleurs, quels sont les risques pour le secteur énergétique canadien de trop se concentrer sur une technologie qui n'est peut-être pas encore prête à être commercialisée? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157027">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920877"> Ces risques sont en partie liés au fait que l'argent des contribuables canadiens a été investi dans un projet qui n'a pas généré de retour sur investissement. Ils sont également liés au coût de renonciation. Je pense que les gens doivent comprendre que, quand on investit tout son capital humain, financier et politique dans des technologies non éprouvées, cela signifie qu'on néglige le développement d'économies, d'entreprises, d'exploitations agricoles et d'entrepreneurs dont la viabilité pourrait être un peu plus grande. </ParaText>
+              <ParaText id="8920878">Bien sûr, Terre‑Neuve dispose d'énormes réserves de pétrole et de gaz. La province devrait en tirer beaucoup plus de bénéfices, mais il est évident que c'est peut-être à Terre‑Neuve que le plafonnement des émissions a le plus nui, parce qu'il y a déjà de la production en Alberta, en Saskatchewan et en Colombie‑Britannique, donc c'est vraiment la croissance de la nouvelle production et l'investissement dans de nouveaux gisements qui sont les moins attrayants à cause du plafonnement des émissions. Cela signifie que les nouveaux développements, les nouveaux gisements à Terre‑Neuve et au large des côtes de l'Atlantique, sont les derniers à intéresser les investisseurs dans ce contexte. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157046">
+            <PersonSpeaking>
+              <Affiliation DbId="320169" Type="47">Carol Anstey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920879">Merci. </ParaText>
+              <ParaText id="8920880">Au sujet de la volonté du gouvernement de pouvoir choisir, du virage vers l'hydrogène propre et du projet de loi <Document DbId="13547622" Type="3">C‑5</Document>, qui, comme vous l'avez mentionné, donnera maintenant au gouvernement le pouvoir de choisir les gagnants et les perdants, quel pourrait être l'effet négatif de cet environnement sur les investissements pour l'avancement ou le développement d'autres projets? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157055">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920881">Ce qu'il faut retenir, c'est que toutes les mesures législatives et réglementaires nuisibles qui pourront être épargnées à une poignée de projets par le projet de loi <Document DbId="13547622" Type="3">C‑5</Document> continueront de s'appliquer à tous les autres. Tout le monde continuera de fonctionner selon ces cadres réglementaires nuisibles qui entravent les investissements. C'est une première chose. Le même système que nous avons connu depuis 10 ans, et qui n'a pas donné de bons résultats, restera en place. </ParaText>
+              <ParaText id="8920882">Ensuite, il y a aussi la question de la concurrence. Si une mine de cuivre, une mine d'uranium ou un projet donné est sélectionné par le Bureau des grands projets, qu'arrivera-t‑il à son compétiteur, qui cherche à obtenir le même capital auprès des mêmes sources, mais qui ne figure pas sur cette liste prioritaire? Cela ne semble pas très équitable pour personne. </ParaText>
+              <ParaText id="8920883">Encore une fois, la stratégie ne devrait pas consister à choisir cinq ou dix projets que le gouvernement estime prometteurs. Le gouvernement devrait plutôt mettre en place un cadre, un environnement qui attire des dizaines, voire des centaines de promoteurs désireux de s'implanter au Canada et d'investir dans notre économie. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157068">
+            <PersonSpeaking>
+              <Affiliation DbId="320169" Type="47">Carol Anstey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920884">Vous avez mentionné le secteur du pétrole et du gaz extracôtier à Terre‑Neuve‑et‑Labrador. D'après ce que je comprends, une fois que le projet Bay du Nord sera opérationnel, la situation fera disparaître les sources d'investissements futurs. Pourriez-vous nous en dire plus à ce sujet? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157069">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920885">Je suis désolé; le temps est écoulé. Vous aurez peut-être l'occasion de donner votre réponse dans le cadre d'une prochaine question. </ParaText>
+              <ParaText id="8920886">Merci. </ParaText>
+              <ParaText id="8920887">C'est maintenant au tour de M. Fanjoy. Vous avez cinq minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157071">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy (Carleton, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920888">Merci beaucoup. </ParaText>
+              <ParaText id="8920889">Je remercie les témoins. </ParaText>
+              <ParaText id="8920890">Ma première question s'adresse à Mme Exner‑Pirot. </ParaText>
+              <ParaText id="8920891">Je crois vous avoir entendue dire que les émissions de gaz à effet de serre contribuaient aux changements climatiques. C'est exact? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13158463">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920892">Oui. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13158466">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920893">J'aimerais imaginer un avenir pas trop lointain où le Canada et le monde dépendraient de plus en plus des énergies propres et renouvelables. Pourriez-vous m'expliquer pourquoi les Canadiens — je dis « Canadiens », mais je parle des gens de toutes les nationalités —, qui sont passés aux véhicules électriques pour leurs déplacements, aux autobus électriques pour les transports en commun et aux thermopompes et à l'électricité pour chauffer leurs maisons, devraient revenir aux combustibles fossiles? Pourquoi seraient-ils persuadés de revenir en arrière si cela augmente les émissions de gaz à effet de serre? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157092">
+            <PersonSpeaking>
+              <Affiliation DbId="311835" Type="28">Heather Exner-Pirot</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920894">Je n'essaie pas de convaincre qui que ce soit de revenir en arrière. Je serais prête à acheter une voiture électrique. Je n'ai rien contre les voitures électriques. Je ne serais pas contre l'idée d'avoir une Tesla en plus de mes autres véhicules. Personne ne demande de revenir en arrière. Il y a des gens qui utilisent encore des combustibles fossiles, qui, comme vous le savez, comptent pour environ 81 % des sources d'énergie primaire dans le monde. Il n'y a aucun moyen de remplacer les combustibles fossiles dans le domaine du chauffage et dans de nombreux secteurs des transports aujourd'hui. Nous ne disposons pas de la technologie nécessaire pour remplacer ce qu'ils apportent dans ces secteurs. Il faut être réaliste. </ParaText>
+              <ParaText id="8920895">Il est souvent question du juste milieu à trouver entre abordabilité, fiabilité et durabilité, mais je dis toujours qu'il s'agit plutôt d'une hiérarchie. Il faut d'abord garantir la fiabilité et l'abordabilité avant de pouvoir atteindre la durabilité. Je pense que nous avons perdu de vue les aspects liés à l'abordabilité et à la fiabilité. </ParaText>
+              <ParaText id="8920896">Nous voyons ce qui se passe à l'Île‑du‑Prince‑Édouard, où tout le monde est passé aux thermopompes lorsque le gouvernement a subventionné ces dernières, et où les habitants manquent désormais d'électricité. Le fournisseur d'électricité soumet des demandes d'urgence pour construire davantage de centrales électriques au gaz naturel, car il n'est pas certain de disposer de suffisamment d'électricité pour alimenter toutes ces thermopompes cet hiver. </ParaText>
+              <ParaText id="8920897">L'important est que le gouvernement ne prenne pas de mesures autoritaires et imposées d'en haut, qui ont inévitablement des conséquences imprévues. Il faut mettre en place les bons incitatifs pour que les gens puissent choisir ce qui leur convient le mieux et avoir le choix en tant que consommateurs. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157121">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920898">Merci beaucoup. </ParaText>
+              <ParaText id="8920899">J'aimerais entendre les autres témoins au sujet des solutions qui existent pour les gens qui ont adopté les thermopompes et d'autres solutions. </ParaText>
+              <ParaText id="8920900">Sont-elles fiables? Ont-elles un effet bénéfique sur l'abordabilité? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157124">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920901">Les thermopompes, en particulier dans le cas de l'Île‑du‑Prince‑Édouard, ont été très avantageuses d'un point de vue économique. La dépendance au mazout de chauffage dans les provinces de l'Atlantique fait en sorte que cette région est l'une de celles où le chauffage domestique coûte le plus cher. Même si vous utilisez du gaz naturel, la province est à l'extrémité du réseau, alors le gaz y est plus cher. </ParaText>
+              <ParaText id="8920902">Le problème n'est pas que nous ne pouvons pas répondre à cette demande en électricité. Nous le pouvons. Il s'agit simplement d'aligner correctement la planification. Dans ce cas‑ci, la demande a connu une forte augmentation. Les gens se sont rués sur cette solution en raison de son attrait économique. </ParaText>
+              <ParaText id="8920903">Je pense que c'est une source de chauffage fiable. Cependant, je tiens à rappeler, et je tiens à être clair, que nous sommes très prudents à ce sujet et que ce n'est pas avantageux dans tous les cas. La question est de savoir commencer par les endroits où c'est une solution évidente et de se servir de cette réussite pour lancer la transformation du marché en termes d'installateurs, de distributeurs et même, éventuellement, de fabricants ici au Canada, afin de transformer le marché dans son ensemble à mesure que cela devient plus avantageux dans différentes régions. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157129">
+            <PersonSpeaking>
+              <Affiliation DbId="314227" Type="28">Dave Sawyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920904">J'ai vécu à l'Île‑du‑Prince‑Édouard pendant 30 ans, et le pire était le réservoir de mazout léger dans le sous-sol. Les coûts d'assurance étaient plus élevés, il y avait des odeurs désagréables et des risques pour la santé et le système ne refroidissait pas la maison en été. Il fait vraiment chaud maintenant à l'Île‑du‑Prince‑Édouard, donc la charge de chauffage et de refroidissement... Je pense que le passage aux thermopompes avec chauffage... Écoutez, ces technologies sont tout simplement meilleures et moins chères, et elles font le travail. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157132">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920905">Mme Exner‑Pirot a parlé plus tôt des réserves de combustibles fossiles du Canada, notamment dans les sables bitumineux. </ParaText>
+              <ParaText id="8920906">J'aimerais ouvrir cette question à tous afin de discuter du potentiel du Canada en matière d'énergie propre et renouvelable. Il ne s'agit pas d'une énergie épuisable comme les combustibles fossiles. J'aimerais connaître votre opinion sur le potentiel de l'énergie propre et renouvelable par rapport à d'autres pays. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157138">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920907">La réponse doit être brève. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157140">
+            <PersonSpeaking>
+              <Affiliation DbId="322882" Type="28">Moe Kabbara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920908">Si on pense au potentiel éolien extracôtier dans le Canada Atlantique et au développement important qui est en cours là‑bas, ainsi qu'à l'expansion du recours au nucléaire en Ontario au moyen des petits réacteurs modulaires, les premiers à être déployés dans le G7, je pense que le potentiel est immense. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157143">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8920909">Merci beaucoup. </ParaText>
+              <ParaText id="8920910">Je tiens à remercier tous les témoins de leur présence aujourd'hui. Vos témoignages sont appréciés. Au nom des membres du Comité, je vous remercie de votre contribution à notre étude. </ParaText>
+              <ParaText id="8920911">Je libère les témoins. La séance est suspendue d'ici à ce que nous poursuivions les discussions à huis clos. </ParaText>
+              <ParaText id="8920912">[<I>La séance se poursuit à huis clos.</I>] </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

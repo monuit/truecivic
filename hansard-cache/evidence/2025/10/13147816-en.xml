@@ -1,0 +1,1301 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13147816">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, October 1, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 1<Sup>er</Sup> octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 1, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">01</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/01 16:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la science et de la recherche</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Science and Research</ExtractedItem>
+    <ExtractedItem Name="Acronyme">SRSR</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Salma Zahid</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote">PUBLIC PART ONLY - PARTIE PUBLIQUE SEULEMENT</ExtractedItem>
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147822">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair (Salma Zahid (Scarborough Centre—Don Valley East, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911209"> I call the meeting to order.</ParaText>
+              <ParaText id="8911210"> Welcome to meeting number six of the Standing Committee on Science and Research.</ParaText>
+              <ParaText id="8911211">Pursuant to the committee's motions on June 18 and September 17, the committee is meeting to study the impact of the criteria for awarding federal funding on research excellence in Canada.</ParaText>
+              <ParaText id="8911212">Today’s meeting is taking place in a hybrid format. Pursuant to the Standing Orders, members are attending in person in the room and remotely using the Zoom application. I think everyone is in person today.</ParaText>
+              <ParaText id="8911213">Before we continue, I would like to ask all in-person participants to consult the guidelines written on the cards on the table. These measures are in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including the interpreters. You will also notice a QR code on the card; it links to a short awareness video.</ParaText>
+              <ParaText id="8911214">I would like to make a few comments for the benefit of the witnesses and members.</ParaText>
+              <ParaText id="8911215">Please wait until I recognize you by name before speaking. Those participating by video conference, click on the microphone icon to activate your mic, and please mute yourself when you are not speaking. Those on Zoom, at the bottom of your screen you can select the appropriate channel for interpretation: floor, English or French. Those in the room can use the earpiece and select the desired channel.</ParaText>
+              <ParaText id="8911216">I will remind you that all comments should be addressed through the chair. Members in the room, if you wish to speak, please raise your hand. Members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can, and we appreciate your patience and understanding in this regard.</ParaText>
+              <ParaText id="8911217">I would like to welcome our witnesses today. We have three organizations for this panel. The first one is the Social Sciences and Humanities Research Council, represented by Dr. Ted Hewitt, president; and Dr. Valérie Laflamme, associate vice-president, tri-agency institutional programs secretariat. The next organization is the Natural Sciences and Engineering Research Council, represented by Anne-Marie Thompson, vice-president, research grants and scholarships; and Marcel Turcot, vice-president, strategic, corporate and public affairs. The third organization is the Canadian Institutes of Health Research, represented by Dr. Paul Hébert, president; and Jeff Moore, associate vice-president, government and external relations.</ParaText>
+              <ParaText id="8911218">All three organizations will get five minutes for their opening remarks. We will start with Dr. Ted Hewitt.</ParaText>
+              <ParaText id="8911219">You will have the floor for five minutes. Then, after that, we will go to the Natural Sciences and Engineering Research Council and finally to the Canadian Institutes of Health Research.</ParaText>
+              <ParaText id="8911220">Dr. Hewitt, the floor is yours. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147887">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt (President, Social Sciences and Humanities Research Council)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911221"> Thank you, Madam Chair, for inviting me to speak on today's critically important topic.</ParaText>
+              <ParaText id="8911222">I'm here on behalf, as you said, of the Social Sciences and Humanities Research Council, SSHRC. We are the federal funding agency that supports research and research training in disciplines related to social sciences and humanities, and advances partnerships and initiatives that help communities, businesses and governments apply research knowledge and insights to innovate and improve the lives of Canadians.</ParaText>
+              <ParaText id="8911223">Within the social sciences and humanities specifically, SSHRC invests about $570 million annually in research and research training for students and post-doctoral fellows. This research explores all aspects of human thought and behaviour; it builds understanding of people and their past, present and future experiences to strengthen society, build prosperity and improve lives. The research we support covers a wide array of disciplines—from business, economics and law to philosophy, history and literature, among many others—and it contributes to Canada's economic cultural, social, technological and environmental well-being.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8911224"> Just like Canadians, the research the SSHRC supports is extremely diverse and reflects the many interests and issues of importance to Canadians in every region, sector and community across the country.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8911225">It's important to stress that SSHRC research grants and fellowships are awarded through an independent merit review process designed to ensure the highest standards of excellence and impartiality. This process is undertaken in accordance with international standards that are globally recognized as the most transparent, in-depth and effective way to allocate public research funds.</ParaText>
+              <ParaText id="8911226">Each year, merit review committees made up of volunteer university, college and community-based experts from Canada and around the world evaluate thousands of research proposals and make recommendations about which projects to fund.</ParaText>
+              <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8911227">Reviews are always assessed against the objectives of the particular funding opportunity, but generally reviewers evaluate the challenge outlined in the application, the plan to achieve excellence, and the expertise to succeed that the applicant has detailed. In addition, applicants must demonstrate the impact for Canadians that the proposed research will have.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8911228"> The concept of research excellence is not static, I need to emphasize. Over its five decades, SSHRC has recognized and highlighted, often in collaboration with our fellow research funding agencies, components that define research excellence and good research practices. Such guidelines include those on the responsible conduct of research and on the merit review of indigenous research. Like many agencies worldwide, we also provide guidelines on the use of broadly recognized principles of equity, diversity and inclusion to promote research excellence through inclusion of the broadest possible array of human perspectives in research design and practice. </ParaText>
+              <ParaText id="8911229">Further, SSHRC is involved in several international initiatives in adopting best practices in the assessment of scholarly research and seeking ways to modernize and remain at the forefront of applying rigorous scientific methods to improve the way we fund, practice, evaluate and communicate research. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8911230">As Canada faces many daunting challenges in a rapidly changing world, it’s more important than ever for us to invest in a vibrant research ecosystem that reflects the broad diversity of our country and can offer made-in-Canada solutions for us all. And SSHRC remains steadfast in its commitment to fuelling the research excellence across all disciplines needed for Canada to thrive.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8911231">Thank you again for your time. I very much look forward to answering any questions you may have. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147919">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911232">Thank you, Dr. Hewitt.</ParaText>
+              <ParaText id="8911233">Now we will proceed to the Natural Sciences and Engineering Research Council.</ParaText>
+              <ParaText id="8911234">Ms. Thompson, you have five minutes for your opening remarks. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147923">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson (Vice-President, Research Grants and Scholarships Directorate, Natural Sciences and Engineering Research Council)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911235"> Good afternoon, Madam Chair, and members of the committee. </ParaText>
+              <ParaText id="8911236">I'm here today representing the Natural Sciences and Engineering Research Council. On behalf of NSERC President Alejandro Adem, who is abroad on work-related travel, I am pleased to provide remarks for your important study. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8911237">NSERC invests over $1.4 billion each year in natural sciences and engineering research in Canada to deliver impact locally, nationally and globally. These investments build a national knowledge base through broad-based discovery-oriented research at Canada’s universities and colleges. This research catalyzes the development of highly qualified research professionals to create talent that innovative organizations need, creating over 35,000 training opportunities annually, with over 83% of trainees going on to work in R and D.</ParaText>
+              <ParaText id="8911238">Canada is certainly well regarded by its peers internationally for supporting research excellence. Since 2015, three NSERC-supported researchers based in Canada have won Nobel Prizes in Physics.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8911239">Beyond discovery research, NSERC investments also power industry partnerships with universities and colleges, creating a culture of academic entrepreneurialism and connections between the creators and users of discovery research. </ParaText>
+              <ParaText id="8911240">Over 2,500 partners participate in NSERC projects each year, most from industry, and 91% report benefits from the collaboration. In 2023-24, these collaborations attracted $356 million in partner contributions. NSERC funding is awarded following competitive and independent merit reviews by Canadian and international experts. The process evaluates proposals based on the applicant’s demonstration of producing meaningful and impactful research, on the originality and proposed use of the research, and on the quality of the training and mentoring provided. As funders, we recognize the need for continual modernization to stay relevant within the research enterprise. Continuous reflection and improvement in assessing research quality and impact is a consistent theme at NSERC. For example, NSERC is a signatory to DORA, the San Francisco Declaration on Research Assessment.</ParaText>
+              <ParaText id="8911241">NSERC, along with SSHRC and CIHR, are also implementing the tri-agency EDI action plan, recognizing that equity, diversity and inclusion are essential to research quality and impact. </ParaText>
+              <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8911242">In line with these commitments, NSERC released revised guidelines in 2022 to encourage reviewers and applicants to consider a more comprehensive range of contributions to research, training and mentoring.</ParaText>
+              <ParaText id="8911243">NSERC asks reviewers to recognize that research contributions can take many forms: publications, datasets, public engagement or technology licensing that benefit society as a whole or enhance Canada’s research ecosystem. Different programs have different objectives, and we approach the evaluation of proposals in ways that take this into account.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8911244"> Through our programs and commitment to impact, NSERC helps drive the growth of Canada's research enterprise. We continue to modernize programming and evaluation processes to deliver the greatest benefits for Canadians. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8911245">Thank you for the opportunity to speak with you today. I look forward to answering any questions you may have, and I would be happy to share with you more examples of the work NSERC is doing to promote research excellence in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147977">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911246">Thank you, Ms. Thompson.</ParaText>
+              <ParaText id="8911247">We will now proceed to Dr. Hébert, president of the Canadian Institutes of Health Research.</ParaText>
+              <ParaText id="8911248">The floor is yours. You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147985">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert (President, Canadian Institutes of Health Research)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911249">Madam Chair, thank you for the invitation to appear before your committee.</ParaText>
+              <ParaText id="8911250">It’s a pleasure for me to be here for the first time as president of the Canadian Institutes of Health Research, or CIHR.</ParaText>
+              <ParaText id="8911251">Research excellence is an issue close to my heart and fundamental to CIHR’s work. Nine months ago, I accepted this role because the mission of CIHR—to improve the health, well-being, and prosperity of Canadians through research excellence—is a mission I deeply believe in. As a clinician-researcher for 33 years, I have seen first-hand how research transforms lives and health systems.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8911252"> Cancer care and outcomes have dramatically improved over my lifetime. This is quite personal to me. I lost my first wife to breast cancer. It turns out that during her battle a new class of anti-estrogen medications called aromatase inhibitors became available just when she needed them. Thanks in part to excellent Canadian research, these treatments gave her more time and gave our then 10-year-old daughter eight more years with her mother.</ParaText>
+              <ParaText id="8911253">We are now at a critical moment in human history where scientific discoveries will transform our daily lives.</ParaText>
+              <ParaText id="8911254">Twenty-five years ago, when CIHR was created, Canadian scientists joined the human genome project. It took thousands of scientists and billions of dollars to map just one genome. Today, not only can we map a whole genome over a weekend with less than $100 but we can now edit that genome and remove disease-causing sequences using gene editing technologies called CRISPR, CRISPR-Cas9, to potentially cure diseases, including sickle-cell disease and cystic fibrosis. </ParaText>
+              <ParaText id="8911255">This means we now have the power to transform life. Imagine now, if we couple this foundational transformation in human biology with artificial intelligence. In health and life sciences, this powerful combination will accelerate discovery at unfathomable rates. These powerful forces will generate new foundational and fundamental insights. They will affect health and health care, as well as all aspects of our social fabric. This convergence will require all of society, including our best scientists, to be at the forefront of this new revolution.</ParaText>
+              <ParaText id="8911256">Are we ready to act boldly and together? Are we willing and ready to overcome the barriers and unlock the power of our health data, from our genome to health records, to serve the public good? Are we ready as a country to invest in being bold leaders. Canada has some of the best scientists in the world, whether they're from the two other agencies or our own and which we fund. Canada has some of the world's best scientists, I believe we can move ahead and remain global leaders. However, we are sadly falling behind.</ParaText>
+              <ParaText id="8911257">As the global research landscape explodes, there's a clear imperative to strengthen Canada's science to grow our economy as well as to protect our sovereignty and security. My vision of research excellence is captured in three words, “collaboration for impact”. For me, it means fostering partnerships, building problem-focused networks, and consortia across sectors and jurisdictions that integrate diverse disciplines and perspectives to tackle major societal problems affecting all of us, including the most vulnerable. This also means that equity must be a foundational principle. </ParaText>
+              <ParaText id="8911258">Without enabling all Canadians to benefit from our many discoveries, we risk tearing at Canada's social fabric as well as worsening health and economic outcomes. Research excellence alone will not suffice.</ParaText>
+              <ParaText id="8911259">CIHR has the bold ambition and the funding approaches to continue supporting research excellence. We have a discovery fund that supports the best and most original science, and many mission-driven funds that target priority areas like primary care and mental health, brain health, pandemics and the opioid crisis.</ParaText>
+              <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8911260"> As my colleagues have already told you, both approaches rely on rigorous peer review in accordance with international standards.This is how we produce impactful research that continues to change lives.</ParaText>
+              <ParaText id="8911261">At this pivotal moment, we must not only provide all necessary resources to our top scientists, but also improve the commercialization of discoveries made right here in Canada. Otherwise, we risk enriching other countries instead of our own—as was the case with mRNA vaccines and Ozempic.</ParaText>
+              <ParaText id="8911262">In summary, through our unwavering commitment to excellence, CIHR aims to maximize the impact of research on the health, well-being and economic prosperity of Canadians from coast to coast to coast.</ParaText>
+              <ParaText id="8911263">Thank you. I would be pleased to answer your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148045">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911264">Thank you, Dr. Hébert.</ParaText>
+              <ParaText id="8911265">We will now go to a round of questioning.</ParaText>
+              <ParaText id="8911266">For the first round I will start with Mr. Baldinelli, for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148048">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli (Niagara Falls—Niagara-on-the-Lake, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911267"> Thank you, Madam Chair.</ParaText>
+              <ParaText id="8911268">Thank you to the witnesses for being with us today.</ParaText>
+              <ParaText id="8911269">I'm going to begin with Dr. Hewitt from the Social Sciences and Humanities Research Council.</ParaText>
+              <ParaText id="8911270">We recently had Dr. Gad Saad before this committee. He said during his testimony that:</ParaText>
+              <ParaText id="8911271">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">...there has been an autocorrection of all this diversity, inclusion and equity stuff in the United States. ...I see no autocorrection taking place in Canada. If anything, I see the doubling down of all of the parasitic nonsense in Canada.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8911272">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> ...science is a fully meritocratic thing. Nobody gives a damn about your identity markers. The best people should be doing the best science, period.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8911273">Would you agree with that statement or not?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148059">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911274">I would agree with the last part of the statement. I also believe, and I'll also say, if you'll allow me, that we believe diversity brings all viewpoints to the table, which is useful for the advancement of science. If those viewpoints are excluded, you're not going to get the best science.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148061">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911275">Some of the comments we've heard, too, talk about and touch upon things such as “viewpoint diversity”. In your comments, you talked about how “excellence is not static” and the notion of applying that to all the merit review categories and how that has all taken place.</ParaText>
+              <ParaText id="8911276">Are the qualifications for that in a sense limiting by having some of these criteria in place and that some viewpoint diversity may be excluded?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148073">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911277">I would argue no, that in fact we see better representation as a result of guidelines we put in place. At the end of the day, nobody gets funded because they are a member of a particular group or identify with a particular group. They get funded on the basis of the excellence of their proposal, as judged by a set of criteria that we make clear from the outset and that conform to international practice.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13148086">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911278">Well, it's interesting. We've also had some other professors come here.</ParaText>
+              <ParaText id="8911279"> For example, a Harvard professor, Steven Pinker, said that in terms of research capability, Canada has the reputation now of being more woke than the United States, and that in terms of losing scholars, because of some of these EDI programs and policies that are being put in place, researchers do not feel welcome here. They look for opportunities south of the border instead of looking for research opportunities here.</ParaText>
+              <ParaText id="8911280">How would you respond to that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148097">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911281">I'd like to see the evidence that he brought to bear with respect to the movement of researchers. I think Canada is a hugely attractive place. Positions are heavily subscribed and our funding is heavily subscribed. Our funding rates are relatively low at 35% and sometimes at 30% or even lower.</ParaText>
+              <ParaText id="8911282"> I just don't see that in the work we do or in the results of the work we fund.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148102">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911283">Thank you.</ParaText>
+              <ParaText id="8911284">I'm going to Dr. Hébert from the Canadian Institutes of Health Research.</ParaText>
+              <ParaText id="8911285">According to the EDI “in Action at CIHR”, in order to “mitigate barriers faced by underrepresented groups”, the first-class average or A+ eligibility criterion was removed from Canada graduate scholarships, the doctoral program. How is this lowering of standards increasing research excellence?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148115">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911286">I would say that in most of our programs currently the issue is largely a very low success rate. We have exceptional research, and every single time we run a competition we leave exceptional research on the table. Our biggest challenge is the lack of funds. The lack of funds creates, I would suggest, very difficult competitive issues.</ParaText>
+              <ParaText id="8911287">In terms of the equity criteria, the way we're thinking this through is, one, it's important, as some of my other colleagues said, so let's divide up what I mean. The first thing is that equity matters in issues of health services and systems. It may matter less in terms of our approach in managing test tubes.</ParaText>
+              <ParaText id="8911288"> Depending on the study and the issue, the issue of equity will be life-saving for people. As an example, the one reason why our hospitals are full right now is because of equity, largely. Our older adults, those who are lonely, isolated and financially deprived, end up unable to go home. In fact, that's how I spent my day today.</ParaText>
+              <ParaText id="8911289"> From my perspective, equity matters, because if we don't take care of some of those issues, then we don't study them and understand them. Depending on the studies we do, that's important. I would argue that our approach generally has been not so much cookie-cutter, as you're suggesting, but rather problem focused. Depending on the issue we focus on, equity takes on a very important role.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148144">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911290"> I appreciate your comments and your statement about how scientific discoveries will transform our lives.</ParaText>
+              <ParaText id="8911291">You also talked about limited finances. We're talking about $4 billion being committed by the federal government to research excellence, and about $311 million of that goes to the research chairs. Those dollars that are being put towards this research are precious. As this government goes through its budget ideas and this notion of spending less to invest more, they're going to be looking at all agencies with regard to their funding allocations. Sometimes when we look at issues such as EDI —</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148158">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911292">Sorry, your time is up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148160">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911293">—and their requirements, we're limiting the possibilities and the pool of talent that is going to be able to do that type of hugely important research, I would suggest.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148163">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911294">Sorry for interrupting, but the time is up. Maybe you will get an opportunity in the second round to respond to that. </ParaText>
+              <ParaText id="8911295">With that, we will now move to MP McKelvie for six minutes.</ParaText>
+              <ParaText id="8911296">Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148166">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie (Ajax, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911297">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8911298">Dr. Hébert, you mentioned “collaboration for impact”. I was very excited to hear you mention that statement. </ParaText>
+              <ParaText id="8911299">The intent of this study has always been to undertake a study on the impact that various criteria for awarding federal funding have on research excellence in Canada. </ParaText>
+              <ParaText id="8911300">In that spirit of collaboration, I was wondering if I could go to each of the agencies so you could quickly speak to how you are moving towards funding collaborative interdisciplinary research that brings multiple groups together. One of my favourite examples of that is the microbiome of humans. From a medical perspective, we largely looked at the hundred that could kill us, but we know if we bring in soil scientists, that might be traditionally funded under NSERC, because they have different tools and techniques that could be used. Certainly, if you bring forward anthropologists and people who look at diets, that might be funded under SSHRC, and you could really start to have real discovery and catalysts for real discovery. </ParaText>
+              <ParaText id="8911301">Could each of you speak to how you're evolving to fund that interdisciplinary science?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148187">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911302">I won't speak to the TIPS programs, because there are a number of issues of programming that we do at the broader level.</ParaText>
+              <ParaText id="8911303">For our agencies, in the one-third of our funds that we use strategically, the approaches that we're starting to use are network support strategies. You bring consortia or groups together to do exactly what you just said, for example, on issues of opioids, where the discovery of new forms of therapeutics might change our approach to addiction. </ParaText>
+              <ParaText id="8911304">Pandemics are a problem for all of us. We're bringing together folks who are interested in all kinds of different aspects of that. </ParaText>
+              <ParaText id="8911305">Regarding engineering and chemistry, I was at UBC the other day, and I was flabbergasted by what I saw. These chemists were exploring new ways of tagging molecules of designer drugs, and all the while they were testing their new approaches in rural B.C. They are making a transformation by thinking of how they work and by working with physicians and systems in a way to transform our future.</ParaText>
+              <ParaText id="8911306">That type of stuff is happening everywhere in our country. Our approach to doing that is to basically light it up and build together consortia of interest, but it comes from our community. Most of what we do is bottom-up. If the ecosystem is ready to move in a direction, we incentivize it in all kinds of different ways. That can be through our projects or our network thinking, but we can't do it alone. </ParaText>
+              <ParaText id="8911307">In health and health care, in a lot of what we do, the provinces have a huge role to play. They have to fund the scientists, the universities and the hospitals we support to do their work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148217">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911308">I'll quickly see if NSERC and SSHRC have anything to add to that or if I can move to the next question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148220">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911309">I can quickly add to the discussion.</ParaText>
+              <ParaText id="8911310">To your point, interdisciplinary research is often the intersection of where very interesting science happens, so beyond the chairs and the tri-agency programming, we do of course collaborate across the agencies across several specific calls. </ParaText>
+              <ParaText id="8911311">We also encourage where there are at least two different disciplinary areas; we have a specific program for that. If somebody is doing something that meets at the intersection of SSHRC and CIHR, we're able to accommodate that on a smaller scale.</ParaText>
+              <ParaText id="8911312">At NSERC, we have over 21 collaborations with other science-based departments and agencies, so we really wanted to connect that science that is happening in academia with the federal government.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148227">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911313">It was mentioned earlier that there's an investment of about $4.2 billion, and about a quarter of that or maybe a little more is dedicated to interdisciplinary programming.</ParaText>
+              <ParaText id="8911314">Some of them extend back to the previous government. The Canada first research excellence fund is a very large program of about $250 million to $300 million a year that is invested explicitly in interdisciplinary programming of large scale and import. </ParaText>
+              <ParaText id="8911315">We have our new frontiers in research fund, which has as a mandate international research and interdisciplinary research at the cutting edge. </ParaText>
+              <ParaText id="8911316">We work together as agencies. We developed a program in response to concerns of researchers over the years about how they can get funded if their work crosses agency boundaries. We've now created a program we call TAIPR, which is the tri-agency interdisciplinary peer review program, in which people can apply to any of our agencies by ticking a box indicating that this goes across agencies, and it gets put through a separate peer review mechanism. We're working very hard to ensure those opportunities are, in fact, growing and not decreasing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148246">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911317"> I would also suggest we have the same kind of frame of mind in our international programming. What you're hearing is all of us work together in various ways, and we also have an approach to do this internationally. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148249">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911318">Some time ago, when I was in the research world, NSERC had undertaken a women in science summit that was looking at how to increase representation of women, especially at the higher ranks of science. One of the changes you made through that was having spots where you can indicate gaps in research, for example, so people could indicate parental leave, so it could benefit both men and women who are taking parental leave. </ParaText>
+              <ParaText id="8911319">Can you speak to how impactful that was, in making sure the research pool is more inclusive and why that is important?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148259">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911320">We have chairs for women in science and engineering. That's now been expanded to chairs for science and inclusion in engineering and science. That recognizes the importance of paying attention to specific groups where there can be under-representation. We know that science and engineering, especially engineering, have very low rates of female participation. Things like these practices you mentioned, such as supporting parental leave or allowing the engagement of researchers who have different circumstances in the research, are extremely effective and important. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148266">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911321">Thank you. </ParaText>
+              <ParaText id="8911322">Now we will proceed to Mr. Blanchette-Joncas.</ParaText>
+              <ParaText id="8911323"> Please go ahead. You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148269">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas (Rimouski—La Matapédia, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911324">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8911325">I welcome the witnesses joining us today.</ParaText>
+              <ParaText id="8911326">Ms. Thompson, in May 2019, you signed the San Francisco declaration on research assessment, commonly known as DORA, which recommended eliminating the use of journal-based metrics. However, a number of your programs, including the research chairs and NSERC's guidelines on contributions, continue to value productivity in terms of publications, number of citations, and institutional prestige.</ParaText>
+              <ParaText id="8911327">How do you explain this contradiction between your international commitments and your own criteria?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148278">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911328">Thank you for the question.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8911329">We do take part in some of the metrics you mentioned. To your point about DORA, this is very much about recognizing different elements of the contribution to research excellence. </ParaText>
+              <ParaText id="8911330">In my opening remarks, I named a few. It could be citizen science, the promulgation of technologies, patents or public engagement, that kind of thing. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148285">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911331">Six years later, in the absence of a real action plan to implement DORA, how can you ensure that your committees truly stop judging researchers on these grounds?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148288">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911332">We provide the committee guidance on how this should be assessed. We provide examples of what is considered to be appropriate in research proposals for this purpose.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148291">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911333">Do you have any data to share with us? Have you measured assessment and implementation of DORA in committees?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148295">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911334">I'd be happy to follow up with that. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148301">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911335">Thank you.</ParaText>
+              <ParaText id="8911336">Mr. Hewitt, does the Social Sciences and Humanities Research Council have a DORA action plan?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148305">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911337">At this time, our discussions on an action plan are ongoing. There is the Canada Research Coordinating Committee, and this issue is very important for the future.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148309">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911338">So, the answer is no. Thank you.</ParaText>
+              <ParaText id="8911339">As for the Canadian Institutes of Health Research, is there an action plan to measure the application of DORA to the assessment of research by review committees?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148316">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911340">I don't have an answer to that question at this time. I will need to send the response in writing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148319">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911341">Thank you very much. Six years later, we hope to get some answers.</ParaText>
+              <ParaText id="8911342">Mr. Hewitt, your documents require researchers to demonstrate how their projects will foster the principles of equity, diversity and inclusion. Doesn't this amount to guiding scientific research based on ideological considerations at the expense of academic freedom?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148321">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911343">I apologize but I didn't hear the question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148324">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911344">Don't you find that applying EDI criteria to research funding amounts to guiding scientific research based on ideological considerations at the expense of academic freedom?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148327">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911345">I'd say no. We're working with people with very different perspectives. We're not applying any such filters. We're funding the best research out there.</ParaText>
+              <ParaText id="8911346">I'll give the floor to Ms. Laflamme who can talk to you about inter-agency programs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148332">
+            <PersonSpeaking>
+              <Affiliation DbId="301101" Type="28">Valérie Laflamme (Associate Vice-President, Tri-agency Institutional Programs Secretariat, Social Sciences and Humanities Research Council)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911347">Thank you.</ParaText>
+              <ParaText id="8911348">I'd like to add a comment about equity, diversity and inclusion considerations in programs, particularly those managed by the three granting councils. These measures were put in place to reduce systemic barriers and biases in research and have nothing to do with excellence in research. Indeed, these measures were put in place to ensure excellence in research. It's not to control ideology but rather to ensure that excellence in research can be achieved and that everyone has the opportunity to take part in the research ecosystem, regardless of their identity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148350">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911349">All right. Thank you.</ParaText>
+              <ParaText id="8911350">Ms. Thompson and Mr. Hébert, a number of organizations are implementing EDI considerations.</ParaText>
+              <ParaText id="8911351">However, assessing their accuracy and the results of their implementation require data. To date, only the Social Sciences and Humanities Research Council of Canada, or SSHRC, has provided comparable data on grant applications. Neither the Natural Sciences and Engineering Research Council nor the Canadian Institutes of Health Research has done so.</ParaText>
+              <ParaText id="8911352">The only way to scientifically assess inequalities among institutions would be through data. I'd like you to explain to me why Julien Larregue, a researcher who testified before this committee and who specializes in these areas of research, doesn't have access to data from your agencies, although he does have it from SSHRC.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148365">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911353">I can say that, in our case, we publish the results of competitions. We're extremely transparent about the equity groups that obtain grants. Furthermore, as I mentioned, we also give clear examples.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8911354"> For the committee, we provide guidance to them on what they should be considering, but we do publish dashboards with our results, which are very clear.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148367">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911355">Mr. Hébert, can you explain why we're unable to obtain data on grant applications from CIHR, even though we're talking about public funds? Are you not managing taxpayers' money?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148371">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911356">Absolutely.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148374">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911357">An agency like SSHRC provides that data to researchers. However CIHR and NSERC are saying they can't due for privacy reasons.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148379">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911358">As Ms. Thompson clearly explained, we're doing the same thing. The results of our competitions are public. We publish statistics after all our competitions, along with the success rate.</ParaText>
+              <ParaText id="8911359">Once again, our major problem is the success rate, which varies between 15% and 18%. This is due to the fact that money is tight everywhere and that's not fair to anyone. It's a challenge. There is equity, and the data is public; we can tell out who got money, it's quite clear, and we can also see what's happening over time.</ParaText>
+              <ParaText id="8911360">Demand is becoming extremely high. Almost all our young researchers, over 70%, belong to a minority group. Our challenge is to reserve as much money as possible to ensure that our young researchers get funding. We have had some limited success in that regard. That said, among our young researchers, there's been a real increase in diversity, which is a far better reflection of Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148392">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911361">Thank you. Your time is up.</ParaText>
+              <ParaText id="8911362">Now, we will proceed to MP Ho for five minutes.</ParaText>
+              <ParaText id="8911363">Please go ahead. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148394">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho (Richmond Hill South, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911364">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8911365">My first question is for Ms. Thompson.</ParaText>
+              <ParaText id="8911366">What are your thoughts on DEI in the Natural Sciences and Engineering Research Council?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148401">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911367">Rather than provide my personal thoughts, I'll provide you with some information about how we implement the policies and the practices.</ParaText>
+              <ParaText id="8911368">As others have stated, we do consider having a wide variety of perspectives brought to the table and consider the strengthening of science through the consideration of EDI in research design. To give a very quick example, there have been studies, for instance—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148407">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911369">Was this brought forth by the government? Was this an initiative the government asked you to implement in your research council?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148409">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911370">The priorities were identified by the government, yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148411">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911371">The priorities...by the government, and then you were asked to carry it out. Okay.</ParaText>
+              <ParaText id="8911372">You said that a variety of perspectives is part of the mandate. Do you agree that diversity of viewpoints is important, then?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148415">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911373">I won't state if I personally agree with it, but certainly our organization is carrying out the policies.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148422">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911374">Right. Therefore, it falls under the gambit of what you described as a variety of perspectives.</ParaText>
+              <ParaText id="8911375">There was a study that was done, which was submitted as part of this study, and it states that 88% of all Canadian faculty in universities are left-leaning and that 12% are right-leaning. Do you see an issue with that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148424">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911376">I won't comment on that personally.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148428">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911377">Okay, but you just said that you want to promote diversity of viewpoints—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148432">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911378">We do, so—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148434">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911379">—or a diversity of perspectives.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148439">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911380">Sure. I'm not a researcher myself, but there is evidence that considerations of EDI in science result in stronger science, and we've heard about usability of science and why that's important.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148442">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911381">Do you think that if there was more representation of right-leaning views—it wasn't 12%; it was a little higher than 12%—it would make the research better, then? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148446">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911382">I can't comment on that. As other colleagues have said—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148449">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911383">You just said that you want more diversity, and now you're saying you can't comment on having more diversity—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148451">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911384"> I can't provide my personal opinion on it. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148454">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911385">Okay. What does your organization think if a viewpoint—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13150337">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911386">As colleagues have mentioned—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148457">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911387">All questions should be directed through the chair. Let's have one person at a time, please. Otherwise, it becomes a problem for the interpreters.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148459">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911388">I'll rephrase the question. If there were more right-leaning views, do you think that would meet the stated objectives of your organization?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148462">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911389">It's always about the merit of the application and the excellence of the proposal. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148464">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911390">It's all about merit, but then you said that a diversity of viewpoints matters too. How do you reconcile that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148469">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911391">A diversity of viewpoints matters in the research design and the usability of the science outcomes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148473">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911392">Okay. I think we're hitting a wall here. </ParaText>
+              <ParaText id="8911393">My next question is for the Social Sciences and Humanities Research Council. I'm looking at some of the funding of some of the research examples. All of this research is funded by taxpayers. All of these positions are funded by taxpayers. Indirectly, it's accountable to the Canadian taxpayer. I'm seeing here $75,000 for a research project entitled “Text Complexity of German Children's Books”. </ParaText>
+              <ParaText id="8911394">How does that give value to taxpayers in Canada? When we're facing an inflation crisis, a cost of living crisis and a border crisis, it's money that could be redirected to.... How do we explain to Canadian taxpayers that it is money well spent? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148488">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911395"> As you said, it's public money. It's taxpayer money. Within Canada there's a diversity of viewpoints and a variety of interests. As a federal agency, we look to fund those interests—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148491">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911396">To study German children's books—</ParaText>
+              <ParaText id="8911397">
+                <B>Ted Hewitt:</B> Madam Chair...?</ParaText>
+              <ParaText id="8911398">
+                <B>Vincent Ho:</B> I mean, shouldn't the German government study this? Why are we studying this? How does that help Canadians?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148497">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911399">It would be a great idea to bring the researcher here and ask the researcher those questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148499">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911400">Well, the researchers are at the University of Calgary, both of them. They're Canadian, or they're based in Canada, rather. Why are we studying this? How does that provide value?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148501">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911401">I can assure you, first off, that the research would be of excellent quality, as deemed by peers. I think it would be a great idea to bring the researcher here to ask the researcher those questions. It's very hard to tell from a title and a short description exactly what the research is and how it would benefit Canada—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148504">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911402">Let me start with another one. I know that my time is running out. </ParaText>
+              <ParaText id="8911403">This again goes to SSHRC. Another project is entitled “Situated Apathy: The Politics of Postcolonial Climate Apathy and Artistic Mobilization in Sri Lanka”. It was granted in 2023 to applicants at McMaster University for $20,000. That's a lot of money. </ParaText>
+              <ParaText id="8911404">How does that help taxpayers? How do we explain to taxpayers, when trust in public institutions is at an all-time low among Canadians, that this is good value for money?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148509">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911405">Here again, I think Canadians and Canadian researchers have a broad variety of interests. It's our obligation to fund that broad variety of interests. You should ask the researcher how that's important and how that assists Canada. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148512">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911406">I'm sorry, Mr. Ho. Your time is up.</ParaText>
+              <ParaText id="8911407">We will now proceed to MP Jaczek.</ParaText>
+              <ParaText id="8911408">MP Jaczek, you have five minutes. Please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148514">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek (Markham—Stouffville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911409">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8911410">Thank you to all the witnesses for appearing.</ParaText>
+              <ParaText id="8911411">During the course of this study, I think it's been said many times that diversity in the design of the research project is very important. </ParaText>
+              <ParaText id="8911412">Dr. Hébert, you will perhaps remember the days when a lot of medical research was done on men only, and therefore the implications were not seen in terms of perhaps women's results. In terms of the design of a study, it seems to be important to have diversity. </ParaText>
+              <ParaText id="8911413">Ms. Thompson, you also talked about talent development and supporting new researchers. When an application is successful and it has shown that there is a very diverse pool of talent within the research team, do you follow them to see if in fact it has developed their talent in a way that is useful on an ongoing basis?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148524">
+            <PersonSpeaking>
+              <Affiliation DbId="322523" Type="28">Anne-Marie Thompson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911414">Perhaps I can speak about our evaluation criteria. That is considered in the training plan. We ask the researcher to elaborate on processes or procedures or how they are building inclusive research training environments. That is assessed by their peers on the committee. NSERC itself doesn't monitor what is happening in the research labs. However, when that researcher comes back to make an application for their next grant, they have to share with their peers what they did with the previous grant. That's where that would come out. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148530">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911415">Dr. Hewitt, do you have a similar evaluation method?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148533">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911416">We all do. All research funding programs are subject to evaluation. </ParaText>
+              <ParaText id="8911417">If there are to some extent, with respect to the submission of applications, criteria that relate to equity, diversity and inclusion, they would be assessed or evaluated, or, if data are collected at that point, then that would be subject to evaluation. The results of that would be published. We have done that in the case of one or two programs already, such as the new frontiers in research program, which is actually a tri-agency program.</ParaText>
+              <ParaText id="8911418">I don't know if Madam Laflamme wants to speak to that or just in terms of some very early indications we've had. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148537">
+            <PersonSpeaking>
+              <Affiliation DbId="301101" Type="28">Valérie Laflamme</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911419"> When we get the reports from the grantees of the new frontiers in research fund, we get results about outcomes. What we see in the context of the exploration grants is that 67% of the respondents say the diversity of the research team has brought innovation in research and brought them to results they initially did not expect.</ParaText>
+              <ParaText id="8911420"> That's innovation, and we have those metrics.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148539">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911421">I am not at all surprised that you seem to be very much in favour of including EDI criteria in the assessment of the research projects you look at.</ParaText>
+              <ParaText id="8911422">If I have a little more time, Madam Chair, I'll move on to Canada research chairs. Apparently, there are specific targets to ensure that women, those with disabilities, other groups and indigenous people have the appropriate opportunity to move into those positions.</ParaText>
+              <ParaText id="8911423"> Perhaps we could start with the CIHR. Are you involved in any way with Canada research chairs?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148546">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911424">Not in their evaluation, but we fund them. TIPS and the Canada research chairs program are run by my colleague Madame Laflamme.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148548">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911425">This is a unique program in its formulation. As I've explained at committee before, this was mandated by a Federal Court order that was subject to a mediation run by the Canadian Human Rights Commission following complaints that were made over a number of years about the fact that this program was the least diverse of the programming we had funded previously.</ParaText>
+              <ParaText id="8911426">Madame Laflamme runs this program. She can certainly speak to that and how it operates.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148552">
+            <PersonSpeaking>
+              <Affiliation DbId="301101" Type="28">Valérie Laflamme</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911427">Thank you.</ParaText>
+              <ParaText id="8911428"> EDI equity targets are one of the elements that are put in place based on the Federal Court order tied to the 2019 addendum.</ParaText>
+              <ParaText id="8911429">I'll throw out a few metrics. When the program was launched, 14% of the chairholders were women when, in fact, in academia, more than 40% of the faculty were women. We have that metric because it's the only one that was gathered at the time. The equity targets have contributed to ensuring that the chairholders, as a whole, are representative of the Canadian population.</ParaText>
+              <ParaText id="8911430">It goes far beyond the question of just ensuring that people have access to the program. There are other measures put in place to make sure that the universities are providing equitable environments, ensuring that the research can be done in a very good quality and environment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148568">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911431">Thank you.</ParaText>
+              <ParaText id="8911432">Now we will proceed to Mr. Blanchette-Joncas for two and a half minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148570">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911433">Thank you very much, Madam Chair.</ParaText>
+              <ParaText id="8911434">I'd like to table a notice of motion, with the understanding that I won't lose any speaking time.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148572">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911435">Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148573">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911436">All right.</ParaText>
+              <ParaText id="8911437">In order for our study on the impact of the criteria for awarding federal funding on research excellence in Canada to be credible and factual, it's essential for the committee to have access to complete and disaggregated data.</ParaText>
+              <ParaText id="8911438">However, we have found that some agencies refuse to make public data that is essential to understanding the source of inequality in funding, be it institutions, disciplines, languages or criteria such as equity, diversity and inclusion. Without that information, our committee runs the risk of working in the dark. It's our duty to demand full transparency from organizations managing billions of dollars in public funds in order to be able to objectively assess whether their criteria truly foster research excellence or whether they're introducing systemic biases. That is why I'm tabling the following motion:</ParaText>
+              <ParaText id="8911439">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">That the committee request the three funding councils, namely the Social Sciences and Humanities Research Council (SSHRC), the Natural Sciences and Engineering Research Council (NSERC), and the Canadian Institutes of Health Research (CIHR), as part of the study on the impact of federal funding allocation criteria on research excellence in Canada, to provide it with the disaggregated data of all submitted applications, whether funded or not, for all student and faculty funding programs from the master's level onwards for applications made between 2020 and 2025. That this data include (1) demographic data of applicants and collaborators, including applicants' responses to the equity, diversity and inclusion (EDI) questionnaire, (2) the institutions and departments of applicants, including the institutions of collaboration, (3) the language of the application, (4) all data regarding the type of application and project content (application year, grant program, discipline, title, summary, amount requested by the applicant), as well as (5) the identity of the evaluation committee, comments, opinions, scores assigned to applications for each criterion, and (6) the outcome of the application and the amount awarded. That the three funding councils submit all this data to the committee within 15 days following the adoption of this motion, in an Excel spreadsheet format.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148613">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911440"> Are you just putting it on notice or are you...?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148618">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911441">It's open for discussion, Madam Chair.</ParaText>
+              <ParaText id="8911442">I also just want to clarify a correction that was made to the paper copy I provided. I'm referring to the period between 2020 and 2025. I can resend the text of the motion to the clerk if you wish.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148625">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911443">We have a motion on the floor, and it's open for debate.</ParaText>
+              <ParaText id="8911444">MP Noormohamed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148627">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed (Vancouver Granville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911445">I have lots of questions, and I wonder if we could get some clarity on the construction of this motion.</ParaText>
+              <ParaText id="8911446">The motion says that the committee should get the “demographic data of applicants and collaborators, including applicants’ responses to the equity, diversity, and inclusion (EDI) questionnaire”. Unless it's anonymized, I don't know that we can get the names of applicants and their specific responses. Can we get some clarification as to whether or not we're looking for every single named applicant, for example, Vincent Neil Ho, Taleeb Noormohamed, Maxime Blanchette-Joncas, along with how they're categorized? Is that what we're looking for here? I don't know that we have the right to get that under privacy legislation. </ParaText>
+              <ParaText id="8911447">I would love some clarification on that point from my colleague.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148642">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911448">Thank you, MP Noormohamed.</ParaText>
+              <ParaText id="8911449">MP Blanchette-Joncas, do you want to clarify that?</ParaText>
+              <ParaText id="8911450">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148645">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911451">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8911452">I just want to say that this isn't a witch hunt or an attempt to learn who applied. The data can be anonymous. I'd point out that the Social Sciences and Humanities Research Council already provided this data to researchers. The Canadian Institutes of Health Research and the Natural Sciences and Engineering Research Council decided this information was confidential. Managing public funds is too sensitive to know what happens with the results.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148656">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911453">Thank you.</ParaText>
+              <ParaText id="8911454">We will proceed to MP Ho.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148660">
+            <PersonSpeaking>
+              <Affiliation DbId="319849" Type="47">Vincent Ho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911455">The names are already public, the applicants and the recipients of funding. That's already public in the current database. That's already out there. When you see the grants, you see who received them. You see the names of the individuals.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148665">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911456">All questions should be through the chair.</ParaText>
+              <ParaText id="8911457">MP McKelvie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148668">
+            <PersonSpeaking>
+              <Affiliation DbId="319682" Type="47">Jennifer McKelvie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911458">My question is about point number five. You say, “the identity of the evaluation committee, comments, opinions, scores assigned to applications for each criterion”. It's for the ones that are awarded and not awarded. Some researchers who might have had a proposal rejected may not want that information out there. They may not want other people to get those ideas and use those ideas somewhere else. There is privacy involved in that.</ParaText>
+              <ParaText id="8911459">Also, we need to recognize that when you sign up to be a peer reviewer, you are a volunteer. I think we have to be somewhat respectful of the enormous contribution the scientific and research community makes. If we actually put a dollar value on that time...we're not paying those researchers to do this.</ParaText>
+              <ParaText id="8911460">I'm wondering whether your intent is that the names of the evaluators would be on there, and the names of the proposals that aren't funded and those ideas would also be released. I would find that very problematic.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148679">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911461">MP Blanchette-Joncas, please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148681">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911462">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8911463">I didn't invent it yesterday morning when I got up. This data is already in the three funding councils' databases. A researcher appeared before this committee. We can say his name; it was Julien Larregue. He even submitted a brief to committee members indicating he hadn't obtained the data he wanted to analyze to see whether there were inequalities in the allocation of funding based on certain criteria. That's the subject of today's study, but we're unable to proceed because we don't have a complete picture. We have data only from the Social Sciences and Humanities Research Council.</ParaText>
+              <ParaText id="8911464">I understand what my colleague is saying, meaning the people sitting on these review committees are volunteers. However, here, we're simply trying to paint a picture of the analysis to see if there are any systemic inequalities in the allocation of research funding in Canada. To perform that analysis, we need data. I repeat: We have a picture of one of the three granting councils, but we need all three to really know if our study will allow us to make recommendations based on an overview of all three.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148690">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911465">Thank you.</ParaText>
+              <ParaText id="8911466">MP Jaczek, please go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148692">
+            <PersonSpeaking>
+              <Affiliation DbId="319683" Type="47">Hon. Helena Jaczek</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911467">Madam Chair, is it possible for us to inquire of the tri-agencies present whether they, in fact, do have this type of data and how onerous it might be even to provide it in theory? It's five years' worth of data, because it's 2020 to 2025 and within 15 days. I want to know about the possibility of it even being achievable.</ParaText>
+              <ParaText id="8911468">Could we hear from the—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148696">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911469"> Would anyone like to comment?</ParaText>
+              <ParaText id="8911470">Yes, Mr. Hewitt.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148698">
+            <PersonSpeaking>
+              <Affiliation DbId="211277" Type="28">Ted Hewitt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911471">I'd have to see the motion in detail and scrutinize what we would have available. We do have considerable information, and we do have observers' reports from actual peer-review meetings and so forth that we present to our own counsel and that are available. There are probably some things we could secure in other ways, so I'd have to see the motion in terms of the full wording to see exactly what elements could be secured or not.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148700">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911472">Thank you.</ParaText>
+              <ParaText id="8911473">Go ahead, Dr. Hébert.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148701">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911474">I would agree with Dr. Hewitt. I might suggest that one of the things you might think through, rather than the data you want, are the questions because we can do an analysis on certain questions. That's kind of what Ted was saying. You know, depending on what you're asking, we can provide the data, so clarity on the questions rather than on the data would be easier for us to manage, I would think. However, if you want the database, we'd need to see the exact nature. A lot of it is confidential. We have a lot more than just numbers. We have a ton of qualitative information that may be useful, depending on the questions you're asking.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148708">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911475">Thank you.</ParaText>
+              <ParaText id="8911476">Next we have MP Baldinelli.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148711">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911477">Madam Chair, I'm not sure.... I look to my colleague from the Bloc for some guidance here on whether or not we could continue on the discussion on this motion when we go in camera and have a resolution there. We could finish off our round of questioning and then go into the in camera portion. We could discuss this motion, probably, as the first item of business.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148712">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911478">We have just three minutes left for this panel, and we have some people on the speaking list. We have a speaking order.</ParaText>
+              <ParaText id="8911479">Please go ahead, MP Noormohamed</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148716">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911480">I actually don't see any reason why it would not be interesting for us to dig into some of these questions, some of this data. I would be very curious to see all of this. I think it provides us with an interesting set of perspectives.</ParaText>
+              <ParaText id="8911481">I want to try to do two things. One is to make sure that whatever comes out of this isn't.... You know, we've had a lot of questions today where witnesses tried to answer the question, to give an example, and they were cut off. Let me be very clear.</ParaText>
+              <ParaText id="8911482">You're laughing, but that's exactly what you did.</ParaText>
+              <ParaText id="8911483">Look, there are a few things.</ParaText>
+              <ParaText id="8911484"> One is that I think everything in here, if it's anonymized, is really important for us to have. If it's five years' worth of data, I think it would be very insightful. I think our Conservative friends might be surprised by what they actually get out from the other side. The same goes for our Bloc friends.</ParaText>
+              <ParaText id="8911485">I think it would be very interesting to get this information. How do we do this in a way that makes sure that the academic integrity of the people who are doing the work is not compromised, that the peer reviewers are not compromised and that we're not casting a Trump-like chill on academics who actually are trying to do good research? If we can find a way to do that, I would be very supportive of making sure that we proceed with what my Bloc colleague has suggested. I do think there is a lot of value in this.</ParaText>
+              <ParaText id="8911486">I also think it's important for us, as members of this committee, to try to not, on either side of this conversation, weaponize whatever comes out the other side. I mean, if this is really for the purpose of getting on the ground and doing some good work and making sure that we are doing right by the research dollars that are going in, I think that's a fantastic approach. If the intention is good, I don't see any issues. I just want to make sure that we work through the two questions I raised, and I wonder if my colleague from the Bloc has any views on that.</ParaText>
+              <ParaText id="8911487">On principle, if I understand what he's trying to accomplish, I think that's reasonable.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148730">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911488">Thank you.</ParaText>
+              <ParaText id="8911489">We will now proceed to MP Blanchette-Joncas.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148733">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911490">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8911491">I welcome the comments made by my colleagues, and would like to reassure the people following our work that we don't need the names of the researchers. We simply need access to the browsing data. Then we'll do the analysis. If there are any problems, the members of this committee will be able to look at them and make recommendations to the government to resolve them. That's all.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148735">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911492">Thank you.</ParaText>
+              <ParaText id="8911493">Seeing no further debate, we will proceed to the vote on this motion.</ParaText>
+              <ParaText id="8911494">Clerk, if you could take the votes—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148740">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911495">I'm sorry. Give me one second.</ParaText>
+              <ParaText id="8911496">We still don't have clarity on that point from my colleague—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148742">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911497"> We already have—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148744">
+            <PersonSpeaking>
+              <Affiliation DbId="319681" Type="47">Taleeb Noormohamed</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911498">Do we have confirmation that we're talking about everyone being anonymized, including the peer reviewers? Is that what we've agreed to? It's silent on this, and I just want to make sure we're voting on what we agreed to.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148746">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911499">Mr. Blanchette-Joncas, be quick so that we can proceed to the vote.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148748">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911500">That's right. We don't need the names of the people. The goal isn't to try to endorse people in this process, but to know the current criteria for allocating funding to see if there are any systemic inequities. That's all it is.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148752">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911501"> We will vote on the motion.</ParaText>
+              <ParaText id="8911502">(Motion agreed to: yeas 9; nays 0)</ParaText>
+              <ParaText id="8911503">
+                <B>The Chair:</B> With that, this panel comes to an end.</ParaText>
+              <ParaText id="8911504">I want to thank all our witnesses today for coming to this meeting. Thank you for the work you have done and for your important testimony.</ParaText>
+              <ParaText id="8911505">Go ahead, Mr. Blanchette-Joncas.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148763">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911506">I just want to understand what's happening right now. I was starting my round of questions. I tabled a motion, but normally, the time taken to table a motion isn't counted in the time allotted. Therefore, my time is not up.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148767">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911507">We can go ahead with two minutes and 21 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148769">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911508">Thank you very much.</ParaText>
+              <ParaText id="8911509">I'm going to continue asking questions of the witnesses who are with us today. I have a question for Mr. Hébert.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148771">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911510">I have a point of order.</ParaText>
+              <ParaText id="8911511">I apologize to my colleague, but that same rule will apply to my colleague, who also had her round of questioning coming up next, as well, after—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148775">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911512">No, the panel has to come to an end because of the time, so this will be the last round of questions. Our time is over. We have to then move to an in camera meeting for our committee business.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148777">
+            <PersonSpeaking>
+              <Affiliation DbId="320801" Type="40">Tony Baldinelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911513">Well, I would suggest, if we could, the courtesy of the committee members to extend the hearing until one more—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148780">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911514">That will be up to all the members. If it is a unanimous decision to go to two other members....</ParaText>
+              <ParaText id="8911515">What is the will of the committee members?</ParaText>
+              <ParaText id="8911516">Go ahead, Mr. Mahal.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148783">
+            <PersonSpeaking>
+              <Affiliation DbId="319848" Type="47">Jagsharan Singh Mahal (Edmonton Southeast, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911517">I think, Madam Chair, you also mentioned that, after Mr. Blanchette-Joncas, we would have three minutes more, so maybe you want to check.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148784">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911518">Let us go ahead, because it was a point of order.</ParaText>
+              <ParaText id="8911519">We will go to Mr. Blanchette-Joncas.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148786">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911520">Thank you very much, Madam Chair.</ParaText>
+              <ParaText id="8911521">Dr. Hébert, a study published in The Lancet in 2019 was based on an experience of the Canadian Institutes of Health Research. It revealed that when evaluations focus on the applicant's background rather than on the science, women aren't evaluated as favourably.</ParaText>
+              <ParaText id="8911522">How do you justify continuing to introduce non-scientific criteria into your evaluations, and even creating entire scholarships based on those criteria?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148789">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911523">I'm having a bit of trouble understanding. Ultimately, our criteria are criteria of excellence. So, basically, we look at the foundation of the research, we note the innovative parts, their importance and all that.</ParaText>
+              <ParaText id="8911524">I can answer the question in two ways.</ParaText>
+              <ParaText id="8911525">On the one hand, we've done extensive multivariate analyses with the data you're talking about. What all our evaluations show is that we are still having some difficulty in ensuring that women are rated as well as men. Clearly, you are right to say that there is still some bias in the evaluations.</ParaText>
+              <ParaText id="8911526">On the other hand, even if it does exist, that bias isn't significant. I'm sure you'd be interested to know that there is no bias in the processing of francophone applications. My point is that we have to be careful when studying the data and ensure that we're comparing apples to apples and oranges to oranges. In our evaluations, when we conduct multivariate rather than simple analyses, it appears that there is still a bias that puts women at a disadvantage, which we are trying to correct.</ParaText>
+              <ParaText id="8911527">That said, do you know what the biggest priority is, Mr. Blanchette‑Joncas?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13148802">
+            <PersonSpeaking>
+              <Affiliation DbId="320802" Type="40">Maxime Blanchette-Joncas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911528">I'll let you answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148803">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911529">It's the region of Canada. The biggest bias, from an intersectoral point of view, is that the Atlantic provinces are neglected more often than the rest of the country, like two other Canadian provinces: Manitoba, in our case, and Saskatchewan.</ParaText>
+              <ParaText id="8911530">Two things can explain that. First, there is a geographic element, which is found in our data and which interests us a great deal. We're trying to figure out how to meet that imperative. I'm interested in this because I'm Acadian, and I hear the—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148810">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911531"> I'm sorry for interrupting. Our time is up. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148811">
+            <PersonSpeaking>
+              <Affiliation DbId="322548" Type="28">Paul Hébert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911532">I'll leave it at that. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148813">
+            <PersonSpeaking>
+              <Affiliation DbId="320800" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8911533">With that, this panel comes to an end. We will suspend the meeting so that we can go in camera.</ParaText>
+              <ParaText id="8911534">[<I>Proceedings continue in camera</I>]</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

@@ -1,0 +1,1178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13156495">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Monday, October 6, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le lundi 6 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 6, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/06 11:05:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'industrie et de la technologie</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Acronyme">INDU</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Ben Carr</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156499">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair (Ben Carr (Winnipeg South Centre, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918791"> Good morning, everybody. Welcome to the sixth meeting of the House of Commons Standing Committee on Industry and Technology.</ParaText>
+              <ParaText id="8918792">I will quickly mention that we have a little technical glitch. It is showing that we are in camera on Zoom. We are not in camera; we are public. This is being broadcast publicly. I'm told that the witnesses may see that it shows “in camera” on their link, so I'll clarify that this is not in camera. In other words, your testimony is public, and we are streaming this meeting live to the public.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8918793">I also want to mention that all witnesses have completed the required connection tests in advance of the meeting.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8918794"> I will remind colleagues and witnesses to please, if you're not using your earpiece here in the room, make sure that you have it on the sticker in front of you in order to protect the health and well-being of our interpreters.</ParaText>
+              <ParaText id="8918795">Colleagues, we are continuing with our productivity study today. We have three witnesses, two of whom will provide opening remarks. We'll do a little transition after the first hour as we move into the next line of questions.</ParaText>
+              <ParaText id="8918796">Witnesses, if you have any problems at any point with your technology, put your hand up in the window and let us know.</ParaText>
+              <ParaText id="8918797">We have here with us today, from Canadian Manufacturers and Exporters, Ryan Greer, senior vice-president, public affairs and national policy.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8918798">We have, from the Fédération des chambres de commerce du Québec, Philippe Noël, vice president of public affairs, competitiveness and market access, and Hubert Rioux, economic advisor.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8918799">With that, Mr. Greer, I'm going to turn the floor over to you for the first upwards of five minutes of introductory remarks.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8918800">Once Mr. Greer is finished, you will have five minutes, Mr. Noël.</ParaText>
+              <ParaText id="8918801">Then, we will begin the first round of questions for witnesses.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8918802"> Mr. Greer, the floor is yours, sir, for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156515">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer (Senior Vice-President, Public Affairs and National Policy, Canadian Manufacturers and Exporters)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918803"> Thank you, Chair, and members of the committee. </ParaText>
+              <ParaText id="8918804">I am pleased to be here on behalf of Canadian Manufacturers and Exporters, one of the oldest and largest trade associations in Canada, representing thousands of manufacturers from coast to coast.</ParaText>
+              <ParaText id="8918805">Manufacturing is the backbone of Canada's economy, employing 1.8 million Canadians, generating over $200 billion in real GDP and driving two-thirds of Canada's value-added exports, yet weak productivity growth continues to hold our sector back. Canada's labour productivity lags nearly 30% behind the U.S., and business investment per worker has dropped to half of U.S. levels. This gap leaves our economy exposed.</ParaText>
+              <ParaText id="8918806"> For Canadian companies, workers and families, the best defence against tariffs, protectionism and other external shocks is a strong and productive domestic manufacturing base. </ParaText>
+              <ParaText id="8918807">Not all productivity gains are created equal. Manufacturing matters more. Manufacturing is unique because it drives innovation, investment and skills development across the entire economy. When manufacturers invest in new equipment or processes, the benefits spill over into other sectors. When they adopt advanced technologies, those innovations diffuse outward, and because manufacturing is both capital intensive and trade exposed, productivity improvements in this sector translate directly into higher wages, stronger exports and more resilient supply chains. </ParaText>
+              <ParaText id="8918808">Before I get into some solutions, I want to stress that productivity isn't just something we as a trade association talk about. It is what we do every day. CME works directly with manufacturers across Canada to provide practical lean training and continuous improvement programs to help them cut waste, boost efficiency and stay competitive. That shop floor commitment to productivity is also what drives the productivity reforms we're here to talk abut today. </ParaText>
+              <ParaText id="8918809">I'd like to highlight three opportunities to improve manufacturing productivity and competitiveness. The first is tax policy. Canada's overall tax burden on business investment is too high, and the system is too complex. Manufacturers tell us that predictability and simplicity matter just as much as rates. If the system is difficult to navigate, investment flows elsewhere. </ParaText>
+              <ParaText id="8918810">The competitiveness of Canada's corporate tax system is difficult to measure precisely, but one reality is clear. Recent U.S. tax reforms, notably through the One Big Beautiful Bill Act, have made Canada relatively less attractive for new manufacturing investment. That bill strongly incentivizes domestic investment in U.S. production through a series of tax changes. The biggest benefits are immediate expensing of short-lived assets, 100% deduction for a production plant, more favourable R and D incentives and a more favourable international tax regime. Our close attention to U.S. trade policy is obviously warranted, but we cannot ignore the effect of their tax reforms as well. </ParaText>
+              <ParaText id="8918811">The second area I'd like to identify is around trade and transportation infrastructure investment. Canada's productivity, and frankly, our resilience, hinge on having efficient transportation networks. Investments in trade-enabling infrastructure have the virtue of making all of its users—our members, Canadian manufacturers—more productive. Canada needs more targeted public and private investments to build new trade-enabling infrastructure and to maximize the efficiency of the infrastructure that already exists. </ParaText>
+              <ParaText id="8918812">Third, I'd like to flag regulatory burden. This is where we see some of the biggest and the lowest-cost opportunities to boost productivity. Manufacturers, especially small and medium-sized ones, consistently cite regulatory burden as a top barrier to growth. They face a system that is fragmented, duplicative and unpredictable. Every advanced economy wrestles with regulatory drag to some extent. Bold action on this front could differentiate ourselves from competitors and could attract investment that we are losing out on today. </ParaText>
+              <ParaText id="8918813">The flaw with past federal red tape reduction efforts is that they targeted isolated irritants instead of undertaking the systemic reforms needed to improve regulatory outcomes across all decision-making. It's like pumping air into a leaky tire: It might help you in the short term, but the underlying problem goes unsolved.</ParaText>
+              <ParaText id="8918814">CME's “Regulate Better, Grow Faster” report lays out a road map, and I would quickly highlight a few key recommendations from it before I wrap up. </ParaText>
+              <ParaText id="8918815">The first is that we think the federal government should legislate competitiveness and growth mandates for all federal regulators. Regulators should be required to give appropriate consideration to the potential impact of their activities on economic growth, not as an afterthought, but as a statutory obligation.</ParaText>
+              <ParaText id="8918816">Second, we believe the federal government should expand the scope of the current one-for-one rule. Despite the rule, government-imposed requirements on businesses continue to increase because the law itself has some carve-outs in it. It also excludes legislated obligations, ministerial guidance and other non-regulatory requirements that are imposed on businesses. We think these gaps must be closed to truly contain the proliferation of red tape. </ParaText>
+              <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+              <ParaText id="8918817"> Third, we think there is an opportunity to strengthen the oversight of the cost-benefit analysis process that underpins all new regulations. Regulators can and do play with the numbers as part of these analyses to present overly optimistic analyses that justify new rules. To fix this, Canada should create an independent body, modelled after the U.K.'s Regulatory Policy Committee, to publicly grade the quality of regulatory impact assessments. A similar body in Canada would ensure that all cost-benefit analyses are credible, realistic and transparent.</ParaText>
+              <ParaText id="8918818">These and some other systemic reforms would fundamentally change and improve how we regulate, providing significant long-term benefits to our manufacturing sector and the broader economy. </ParaText>
+              <ParaText id="8918819">Chair and members, Canada's productivity crisis is real and urgent, and we hope that your work today and over the proceeding meetings will help spark the bold action that is required. It is only through achieving higher productivity that Canada's manufacturers can compete globally, while offering their workers better jobs and rising, real wages.</ParaText>
+              <ParaText id="8918820">Thank you. I look forward to your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156566">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918821">Thanks very much, Mr. Greer.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8918822">Mr. Noël, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156568">
+            <PersonSpeaking>
+              <Affiliation DbId="289505" Type="28">Philippe Noël (Vice-President, Public Affairs, Competitiveness and Market Access, Fédération des chambres de commerce du Québec)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918823"> Mr. Chair, Madam Vice-Chair, Mr. Vice-Chair and distinguished members of the committee, we thank you for giving us an opportunity to be here today.</ParaText>
+              <ParaText id="8918824">I would remind you that we are Quebec's largest network of business people. We represent 120 chambers of commerce and more than 40,000 businesses. </ParaText>
+              <ParaText id="8918825">We have been looking into productivity and investment issues for many years, and in March, we published a study entitled “Livre bleu de la productivité”. My colleague, Hubert Rioux, who is an economic advisor at the FCCQ and who is here with me today, worked extensively on that study.</ParaText>
+              <ParaText id="8918826">The state of productivity in Quebec and Canada in recent years has led us to seek practical solutions for increasing our productivity.</ParaText>
+              <ParaText id="8918827">In 2023, every hour worked in Canada generated approximately $14 less than the average for advanced OECD economies and $17 less than in the United States. This productivity gap is having a negative effect, not only on the competitiveness of our businesses and industries, but also on our collective wealth.</ParaText>
+              <ParaText id="8918828">In 2023, Canada's GDP per capita was $4,500 less than the average GDP per capita of advanced OECD economies and nearly $21,000 less than that of the United States.</ParaText>
+              <ParaText id="8918829">Low rates of private investment in Canada are fuelling this productivity deficit. For example, private investments in machinery and equipment per worker in Canada are 45% less than the average for advanced OECD economies and nearly 60% less than in the United States.</ParaText>
+              <ParaText id="8918830">Furthermore, while our dependence on the U.S. market remains a major risk, it is also important to point out that this risk is exacerbated by our productivity gap, which hinders the diversification of our export markets in three ways. First, it increases the relative price of our exports because of our higher unit production costs. Second, it shrinks the profit margins of our businesses, which then have less cash flow to invest in product innovation to meet the demands of international markets. Third, it limits some of our businesses to low-value-added sectors or product categories, which are less competitive on international markets.</ParaText>
+              <ParaText id="8918831">There are many structural causes for this, but here are the main three.</ParaText>
+              <ParaText id="8918832">First, let's not forget that the International Tax Competitiveness Index ranked Canada 26th out of 38 OECD countries for corporate taxation.</ParaText>
+              <ParaText id="8918833">Second, the tax burden on salaries, income and corporate profits in Canada is higher than the average for OECD countries and the United States.</ParaText>
+              <ParaText id="8918834">The growing administrative burden on businesses is also a major obstacle. In fact, 80% of businesses surveyed by the FCCQ believe that this burden is only growing year after year. Businesses spoke against tax compliance requirements, the complexity of financial incentives, government overlap and processing delays in the public administration.</ParaText>
+              <ParaText id="8918835">The productivity rate of SMEs is 20% to 50% less than that of large corporations. Right now, very few SMEs are able to take advantage of export opportunities. It is a vicious cycle: SMEs do not export very many of their products because they are less productive, and their productivity stagnates because they do not have much exposure to international competition. We need to support their growth and encourage them to export.</ParaText>
+              <ParaText id="8918836">We have a number of recommendations to address these major structural issues.</ParaText>
+              <ParaText id="8918837">First, when it comes to taxation, we propose enhancing the small business tax deduction by increasing the limit from $500,000 to $1 million of taxable income.</ParaText>
+              <ParaText id="8918838">Second, we recommend implementing the modernized tax incentive program for scientific research and experimental development, or SR&amp;ED, proposed in last December's economic statement.</ParaText>
+              <ParaText id="8918839">We also suggest creating the patent box regime that was also announced.</ParaText>
+              <ParaText id="8918840">Furthermore, we recommend that the government extend indefinitely the accelerated investment incentive, which ended in 2023, and expand eligibility for that program to the mining and defence sectors. </ParaText>
+              <ParaText id="8918841">With regard to the administrative and regulatory burden, we commend the current efforts, but we also recommend simplifying and expanding the eligibility criteria for tax credits by eliminating the eligibility rule related to Canadian-controlled private corporation status. We also suggest that the government convert some of the financial assistance programs into tax credits. The government should also work with the Government of Quebec to come to an agreement to establish a single tax return. Right now, our businesses have to file two tax returns, which, of course, has an impact. </ParaText>
+              <ParaText id="8918842">Lastly, it is important that the government take action in the coming years to increase the size of our businesses and help them go international.</ParaText>
+              <ParaText id="8918843">We propose encouraging stock exchange listings and having major pension funds and fund managers invest in Canadian companies, particularly by following up on the recommendations made by the working group led by Stephen Poloz.</ParaText>
+              <ParaText id="8918844">Next, we recommend reforming the CanExport program to provide better funding for operations so that our SMEs are able to successfully establish themselves in international markets, rather than simply break into them.</ParaText>
+              <ParaText id="8918845">Lastly, we suggest making some of our SMEs' export revenues in new markets tax exempt.</ParaText>
+              <ParaText id="8918846">Thank you for your attention. We welcome your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156603">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918847">Thank you very much, Mr. Noël.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8918848"> Colleagues, we'll begin our lines of questioning.</ParaText>
+              <ParaText id="8918849">Madam Dancho, the floor is yours for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156607">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho (Kildonan—St. Paul, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918850">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8918851">Thank you, witnesses, for your testimony thus far, and thank you for being here.</ParaText>
+              <ParaText id="8918852"> My questions are primarily for Mr. Greer.</ParaText>
+              <ParaText id="8918853"> In your opening, you spoke a lot about the challenges faced by Canadian manufacturers. I know that your organization represents well over a thousand members. Ninety per cent of them are SMEs, small and medium-sized businesses. You also mentioned that you employ almost two million Canadians and produce billions in GDP for Canada, so I think your members have a good idea of what's going on, certainly vis-à-vis the tariff situation and the changing geopolitical dynamic that Canada is experiencing.</ParaText>
+              <ParaText id="8918854"> You also mentioned that there is considerably less investment, unfortunately, in Canadian companies and individual workers and the capital in Canada versus in the United States. I think you mentioned one-third in previous testimony.</ParaText>
+              <ParaText id="8918855">Can you describe in brief why that should matter to Canadians, the productivity increase and the like? Why should Canadians care about this issue?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156612">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918856"> I think that's one of the most important questions to frame up your work with this study: to translate what something as obscure sounding as productivity, where Canada rests in OECD rankings or what business investment per worker mean. It means that, for Canadian manufacturers and other Canadian workers, there is less business investment in supporting them to do their jobs, to produce more and to help generate higher real wages for them, their co-workers and, of course, the families and the communities they operate in. As I noted in my remarks, it's only by increasing productivity that we ensure that Canadian firms can better compete, which means that we can hire more, pay better and take advantage of new market opportunities, whether those be through the U.S., where most of our sector still exports, or taking advantage of new market opportunities.</ParaText>
+              <ParaText id="8918857">In the context of the current trade crisis, there's been a lot of talk about diversification and how we better diversify. The answer is partially through, of course, market access and tools to support manufacturers, especially SMEs, to figure out how to access those markets, but really it lies in making us more competitive and productive. Ultimately, Canada is a somewhat high-cost jurisdiction to do business in. We have benefited for decades due to our proximity to and integration with the U.S., but our ability to compete and carve out new market access and our ability to withstand tariff pressures and other political tactics from south of the border really depend on our ability to invest in our facilities, to invest in the capital stock, to give Canadian manufacturers access to the technologies that are being deployed in our competitor markets, and to continue building some of the best products in the world at the best prices and in the most reliable way.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156623">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918858">Thank you for outlining that very well.</ParaText>
+              <ParaText id="8918859">My understanding is that Canada has had significant challenges with productivity decline and capital outflow to the U.S., primarily over the last number of years, but that's really been cranked up in the last six to eight months. In particular, you mentioned the Trump administration's One Big Beautiful Bill Act in your opening remarks, as well as notable production tax credits or tax deferrals and things like that in that bill.</ParaText>
+              <ParaText id="8918860">Should Canada be looking at something like that? I mean, when we talk about tax reform.... I know it's a dream of the Conservative Party and other political institutions to really do that, but it could take a long time to reformulate our entire tax structure. Are there any things that could be quite immediate—perhaps tax deferral on capital gains or something like that—that could provide immediate relief within the next year or two? Is that something we should be looking at?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156636">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918861">Yes, I think it has to be an “all of the above” approach, which is that we need to be thinking of how to reverse what is a long-term, multi-decade trend that, of course, has been brought into intense focus over the last several months. That draws to simplifying the tax code, as I said, making it easier to navigate, making a straighter line between those who wish to invest and their trying to understand what that means. In the current environment, I also think we need to be looking at every short-term incentive possible to do everything we can. We can't just say that we want investment in Canada; we have to make it undeniable, to make Canada an undeniable investment opportunity.</ParaText>
+              <ParaText id="8918862">Certainly, in the context of capital depreciation in terms of some current capital cost initiatives that are due to expire in the next couple of years and in the context of doing a competitive analysis of all the incentives under the One Big Beautiful Bill Act and trying to draw some lines to understand directly where some of the weaker points are relative to Canadian tax law, I think that's really important. It has to be, as I said, an “all of the above” approach when we're trying to think of how to defend and go on the offensive in terms of bringing that investment here.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156647">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918863">Thank you.</ParaText>
+              <ParaText id="8918864"> The Department of Industry, from what I've learned in meeting with businesses, many of them members of yours, has $8 billion or $9 billion of various tax incentives, programs and things like that, which are supposed to support the issues that you and other businesses have outlined to help generate some productivity, some IP and things like that. </ParaText>
+              <ParaText id="8918865">Are there programs you've come across in the industry department that are particularly helpful or that could be helpful if they were rejigged? Can you touch on any thoughts that come to mind on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156656">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918866">Yes. It's not directly through the Department of Industry, but one of the biggest ones that all of you will be well aware of is, of course, the SR and ED program, which is incredibly important to our members. However, it is also very difficult to navigate, and there's a lot of uncertainty. We often talk to members about access to certain programs or tax credits, and they'll say, “It was very helpful to my business. I greatly appreciate it, but if I had to make the same decision, I'm not sure I would have applied in the first place.”</ParaText>
+              <ParaText id="8918867">A lot of our federal programming is designed, of course, to stop bad actors, but that framing is how many officials or the programs will engage with businesses directly. They engage as if everybody is trying to defraud the government, as opposed to trying to be enablers that are going to help Canadian companies succeed. It's not to say we don't need to have strong measures in place, but I think we do need to find ways to continue to simplify these programs.</ParaText>
+              <ParaText id="8918868">When we sit down with small and medium-sized members of ours and there's a menu of dozens of different programs across the RDAs and various other departments, including the Department of Industry, we try to walk them through what is required. Then they start to think through what kind of consultant or other external support they would need just to access these. It's a lot for them, especially because these are folks who are operators themselves. They are managing the floor. They do not have a big compliance department to help them manage these things. I think that trying to simplify all the programs that are designed to support these types of investments is a good place to start.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156675">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918869"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156676">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918870">Thank you, Madam Dancho.</ParaText>
+              <ParaText id="8918871">Mr. Bardeesy, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156679">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy (Taiaiako'n—Parkdale—High Park, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918872">Thank you. </ParaText>
+              <ParaText id="8918873">I have a few questions for Ryan and a few questions for our friends online. </ParaText>
+              <ParaText id="8918874">I want to start with the threats to the auto sector and the very specific statements that President Trump has made about repatriating auto assembly. </ParaText>
+              <ParaText id="8918875">Could you speak to the importance of the auto sector in the context of the larger manufacturing sector in which it resides?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156683">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918876">The automotive sector is really the engine of southern Ontario specifically and in the Great Lakes region with these integrated supply chains. When we see what the administration has expressed in terms of its goal and some of the tariff and tax policies that it is putting in place to do it, it is incredibly challenging for tens of thousands of workers who have now found themselves either unemployed or in precarious employment because of this. </ParaText>
+              <ParaText id="8918877">It's challenging, of course, for our members, because Swedish automakers are not pining for Canadian auto parts. We have built up a deeply integrated sector over decades to everyone's benefit, including the United States, and now that is trying to be unwound in a very unproductive way. </ParaText>
+              <ParaText id="8918878">I'm somewhat concerned that there have been opinions expressed that Canada's overall tariff level right now isn't so bad compared to the rest of the world. While that might be true in certain instances, where the damage is being impacted is in the manufacturing sector. Where the damage is being most acutely felt is by families that are supported by manufacturing jobs in southern Ontario, around Montreal and some other clusters around the country. </ParaText>
+              <ParaText id="8918879">Obviously, the automotive sector on the parts side and on the OEM side are being most directly impacted by that. We are hopeful that some level of sectoral relief could come in the near term because our members need it. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156708">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918880">The other study that our committee is doing is on defence industrial policy. There's a relationship between the possible benefits of that and your sector. </ParaText>
+              <ParaText id="8918881">Can you talk to us a bit about how the industrial and technological benefits policy may be working or not, and how could that work better as part of a reframed industrial policy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156711">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918882">It's a great question. Canada's ITB policy is really important for Canadian manufacturers to ensure that they can participate in these North American and in some cases global supply chains to help build, secure and provide the kit that Canada's military needs. There are opportunities to improve the program. The government should be considering it as it considers what a defence industrial strategy looks like. </ParaText>
+              <ParaText id="8918883">One of the hardest parts is, again, for Canadian SMEs to feel connected to the government and its goals. Under the ITB policy, of course, it is through their supply chains and the large OEMs which have well-established relationships. They work with various contractors across the world and through the United States for various platforms that they've built in the past. </ParaText>
+              <ParaText id="8918884">It can be hard for SMEs to one, show, offer and compete on how they could do something domestically that would be as good, if not better, within those supply chains. Two, it's hard for them to grow in terms of their relationship with the federal government, because those small and medium-sized manufacturers have no connectivity with the government. It is only through the OEM supply chain that they have an opportunity to do what they can.</ParaText>
+              <ParaText id="8918885">I think that finding ways in a process to connect those innovative small and medium-sized manufacturers to help them grow within that framework needs to be an important consideration.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156723">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918886">Thank you. </ParaText>
+              <ParaText id="8918887">Any specific advice that CME might want to present in relation to the study that we're doing would be very helpful.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8918888">Mr. Noël, your “Livre bleu de la productivité” sets out 40 recommendations. One section of the document focuses on decarbonization.</ParaText>
+              <ParaText id="8918889">Could you tell us about the companies in Quebec's economy that are involved in that? Are they companies in the clean technology sector, or are these companies not limited to a single sector in particular?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156731">
+            <PersonSpeaking>
+              <Affiliation DbId="289505" Type="28">Philippe Noël</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918890">Companies have a strong interest in increasing their decarbonization and reducing their environmental footprint, particularly by reducing greenhouse gas emissions and by recovering what is produced within their own facilities.</ParaText>
+              <ParaText id="8918891">I am thinking in particular about circular economy processes that prevent too much of what is being produced from being wasted and allowing it to be reused more effectively. In the end, that reduces operating costs and the company's carbon footprint. For example, the Bridgestone facility in Joliette invested heavily in decarbonizing its operations and recovering the heat produced to reduce energy consumption. These companies are more productive because these processes reduce their operating costs and their environmental footprint. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156750">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918892">Thank you. It is important to include stories about companies like these in our report so that we can come up with a plan for this sector.</ParaText>
+              <ParaText id="8918893">I would like you to talk about Quebec's aerospace industry. There isn't much time left, but could you tell us briefly about that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156754">
+            <PersonSpeaking>
+              <Affiliation DbId="289505" Type="28">Philippe Noël</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918894">My colleague, Hubert Rioux, can add to my answer if he wants.</ParaText>
+              <ParaText id="8918895">The aerospace industry is facing several productivity challenges, some of which are a result of measures put in place by different levels of government that have an impact not only on the aerospace industry but on other sectors as well.</ParaText>
+              <ParaText id="8918896">We are calling for an immediate moratorium on the restrictions imposed on the temporary foreign worker program. We are also asking the government to help those companies by giving priority to local businesses when awarding aerospace contracts. </ParaText>
+              <ParaText id="8918897">You spoke earlier about a defence industrial strategy. We hope that, as much as possible, our aerospace companies will be the ones to benefit from those contracts. We are talking about the major players in the industry, obviously, but also about all the subcontractors that contribute to the aerospace industry's value and supply chains.</ParaText>
+              <ParaText id="8918898">We are also calling for the government to reduce companies' regulatory and tax burdens, which would give them some breathing room, enable them to increase their productivity and give them the means to achieve their goals.</ParaText>
+              <ParaText id="8918899">We also expect governments to take advantage of this opportunity to showcase the aerospace industry's expertise on the international stage. There are tens of billions of dollars in defence contracts available, especially in Europe. We recently went there to see what those business opportunities entail.</ParaText>
+              <ParaText id="8918900">In addition to the upcoming defence industrial strategy, the federal government has a responsibility to give preference to Canadian companies and to promote them so that they can get contracts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156774">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918901">Thank you very much.</ParaText>
+              <ParaText id="8918902">Mr. Ste‑Marie, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156777">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie (Joliette—Manawan, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918903">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8918904">Welcome to all the witnesses.</ParaText>
+              <ParaText id="8918905">My questions are for Mr. Noël and Mr. Rioux, and I thank them for being here with us today.</ParaText>
+              <ParaText id="8918906">As you mentioned, your federation represents 40,000 businesses and 120 chambers of commerce. Your “Livre bleu de la productivité”, which sets out 40 recommendations, is really well written and comprehensive. I thank you for giving the example of Bridgestone, which is the largest private sector employer in Joliette.</ParaText>
+              <ParaText id="8918907">Mr. Noël, you mentioned the temporary foreign worker program. In my region, many SMEs in the manufacturing sector are involved in metal processing. These companies have followed two trends.</ParaText>
+              <ParaText id="8918908">Some chose to focus on robotics, innovation and artificial intelligence. They reduced the number of welders, machinists and operators they require and thus managed to reduce the number of temporary foreign workers they need to hire. They have been successful, but it took them several years to get to where they are now.</ParaText>
+              <ParaText id="8918909">Other companies chose to use the temporary foreign worker program, but they were taken by surprise by the about-face of both the federal and the Quebec governments. In the past, they were told that the solution was to recruit abroad, but then all of a sudden they were being told that those days were over and that they would have to figure things out for themselves.</ParaText>
+              <ParaText id="8918910">Tell us why the federal government should reconsider its announcement and be more pragmatic and more responsive to the needs of SMEs.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156790">
+            <PersonSpeaking>
+              <Affiliation DbId="289505" Type="28">Philippe Noël</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918911">In our opinion, the restrictions imposed on the temporary foreign worker program jeopardize the productivity and growth of businesses that, as you obviously know, are struggling with a shortage of skilled labour. This shortage undermines the competitiveness of our economy and our regions in particular. Businesses need access to these workers. We have estimated that 106,000 foreign skilled workers are needed to meet the demand.</ParaText>
+              <ParaText id="8918912">We believe that the federal government must reconsider all of the measures it has taken in this case because they threaten critical expertise. These temporary foreign workers generate several million dollars in economic spinoffs, which ultimately support our growth. That is worth protecting through a moratorium on the program restrictions.</ParaText>
+              <ParaText id="8918913">For several months, that is what we have been calling for from both levels of government, the federal and the Government of Quebec. Recently we have felt the Government of Quebec to be much more open about this issue. We are now waiting for action from the federal government.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156798">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918914">Thank you. That is duly noted.</ParaText>
+              <ParaText id="8918915">Your “Livre bleu de la productivité” was published in March. In your opinion, what has changed since March, particularly with regard to our relationship with our neighbour to the south, the government's announced intention to spend more on defence and the ongoing development of artificial intelligence? What updates would you make to this publication today?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156812">
+            <PersonSpeaking>
+              <Affiliation DbId="311483" Type="28">Hubert Rioux (Economic Advisor, Fédération des chambres de commerce du Québec)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918916">Thank you for your question.</ParaText>
+              <ParaText id="8918917">Several of the recommendations that we made in our pre-budget submission build on the ones we made in our publication. They are based on developments that have occurred since that time. For me, the most important was the passage of the One Big Beautiful Bill Act in the United States, as was mentioned. This bill introduces many significant tax incentives for American businesses, but they exacerbate the problems that our cumbersome tax system causes for Canadian businesses.</ParaText>
+              <ParaText id="8918918">For example, this U.S. bill indefinitely extends the reduction of the United States' federal corporate tax rate to 21%. In Canada, our federal corporate tax rate is 15%, but the problem is that the combined federal and provincial rate is often much higher than the combined federal and state rate in the United States, because many states impose a maximum corporate tax rate of 10%. That is the case for some of Quebec's direct competitors, such as Ohio and Texas.</ParaText>
+              <ParaText id="8918919">The U.S. bill also restored the possibility for SMEs to retroactively deduct all R and D and software expenses back to December 31, 2021. Furthermore, it makes permanent the accelerated 100% depreciation bonus for certain eligible goods in the manufacturing sector.</ParaText>
+              <ParaText id="8918920">There is therefore considerable tax pressure coming from the United States. We must maintain the tax competitiveness of our businesses by responding, in a way, to what has been done in the United States. I would say that is the priority right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156836">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918921">In that same vein, my colleague asked you a question about decarbonization.</ParaText>
+              <ParaText id="8918922">Given what is being done in the United States, is decarbonization becoming secondary for Quebec's economy or is it still just as important?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156840">
+            <PersonSpeaking>
+              <Affiliation DbId="289505" Type="28">Philippe Noël</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918923">No, it is still something that we are hearing a lot about.</ParaText>
+              <ParaText id="8918924">We created a guide on decarbonization with the help of energy experts. The goal is to explain, not only to big corporations but also to SMEs, the approach to take, the game plan for decarbonizing their operations. </ParaText>
+              <ParaText id="8918925">Earlier, I gave the example of Bridgestone. In our guide, we highlight this example, but also that of an SME that reinvests to improve the energy efficiency of its operations simply by caulking around windows or changing the type of light bulbs used. The guide contains all sorts of tricks that can be used by both SMEs and large corporations.</ParaText>
+              <ParaText id="8918926">To answer your question, I would say that there still seems to be an interest in that.</ParaText>
+              <ParaText id="8918927">As you know, in Quebec, we have several types of energy, for example, hydroelectricity, wind energy, solar energy, natural gas and even renewable natural gas, which is becoming increasingly popular. There are therefore all kinds of energy options that can be used to help meet the greenhouse gas reduction targets and, ultimately, improve the productivity of businesses and reduce their operating costs. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156856">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918928">Thank you very much.</ParaText>
+              <ParaText id="8918929">Do you have anything to add, Mr. Rioux?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156858">
+            <PersonSpeaking>
+              <Affiliation DbId="311483" Type="28">Hubert Rioux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918930">If I may—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156860">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918931">Nice try, Mr. Ste‑Marie. Unfortunately, your time is up for this round of questions, but I appreciate the effort.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8918932"> Mr. Guglielmin, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156863">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin (Vaughan—Woodbridge, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918933">Thank you for your testimony.</ParaText>
+              <ParaText id="8918934">Mr. Greer, according to the National Bank of Canada, there are now over 105,000 regulations impacting manufacturing.</ParaText>
+              <ParaText id="8918935"> We've been having some discussions about what the United States is doing. It seems that they're streamlining their regulatory framework, while here in Canada we're burying industry under regulatory burdens. I think you have said yourself that the regulatory burdens are now even more impactful in some cases than the tariffs themselves.</ParaText>
+              <ParaText id="8918936">I was wondering if you could describe for us what manufacturers are saying about the impact on the day-to-day environment with some of these regulatory burdens, especially when they're competing with U.S. firms.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156876">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918937"> Thank you very much for the question.</ParaText>
+              <ParaText id="8918938">At CME, we regularly connect with our members on the ground in their communities. We also have bodies called peer councils, which is where small groups of small and medium-sized manufacturer owner-operators can compare notes on business challenges and help each other work through them. It's really an interesting and unique model. </ParaText>
+              <ParaText id="8918939">I get the opportunity to join some of these calls or conversations, and it's remarkable to me how much time is spent in those conversations not talking about dealing with a workforce issue, what they're doing to capture new customers or how they're managing new technology implementation. So many of those calls are about comparing notes on how they're navigating regulatory burden compliance requirements and other challenges with all levels of government. They don't always distinguish between a provincial requirement, a federal one and a municipal one, but between all three levels of government, it adds up and it takes so much of their time.</ParaText>
+              <ParaText id="8918940"> There's a cost to their businesses, of course, in complying with these. There's the opportunity cost of all the other things they could be doing to grow their businesses. It's the one thing when we survey our members, which we do very regularly, to ask for their biggest concerns and what public policy changes would help them grow their business. Regulatory burden is almost always in one or two when we do those surveys. We consistently hear it, and the burden does continue to proliferate. </ParaText>
+              <ParaText id="8918941">That's not to say the one-for-one rule and other initiatives at all levels of government haven't helped manage it or tend to some of the more problematic regulations, but, as I stressed in my remarks, what our members want to see is not to fix one or two problematic regulations. I know that's the easiest place to start. Tell us what's wrong and we'll try to fix it. In the time you fix one, another dozen pop up that are maybe based on a consultation process that didn't quite integrate or learn from what industry had to say. It's other requirements that pop up through ministerial guidance, legislation or elsewhere that add a new burden in the 12 or 18 months it might take us to fix one.</ParaText>
+              <ParaText id="8918942">As I said, our members are looking for governments to indicate not only that they understand this is a problem but that they're going to do systemic reform to try to fix these challenges for the long term.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156907">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918943">Do you believe the current regulatory framework is deterring foreign investment in the manufacturing sector?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156909">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918944">Uncertainty is what drives a lot of this decision-making. Obviously, in the last six to eight months, a lot of that uncertainty has come around trade policies. Prior to that, and even in the current context, we heard regulatory uncertainty cited repeatedly as a barrier to investment in our sector.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156916">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918945">In “The atrophy of the Canadian manufacturing sector has gone too far”, the National Bank of Canada highlights how, from 2018 to the time of the article's publication on December 23, 2024, Canada's manufacturing sector regressed by over 5%, affecting “no fewer than 15 of 18 manufacturing industries”, and calls this “a concerning indicator of economic erosion”. However, during the same time period, U.S. manufacturing has grown by 10%. Why do you think that is?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156925">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918946">It's a range of issues, but plainly we think that all government apparatus at all levels of government should be focused on this question of productivity growth and competitiveness, because that's what's going to raise low wages, create jobs and generate government revenues to fund other priorities. This is not a short-term trend; this is a long-term one. The investment in the manufacturing sector has been sluggish for all of about two decades. In fact, it's so sluggish that we're unable to compensate for the depreciation of existing plants and machinery. Put another way, we're not actually replacing existing capital as it wears out and grows obsolete because we're below that neutral rate itself.</ParaText>
+              <ParaText id="8918947">There needs to be a real long-term think about how we can incentivize investments through all means possible, so it is tax, it is regulatory and it is programmatic reform. There is no one key to turn on this one. It's looking at the whole suite of various ways that governments help or, in some cases, hinder business investment. As I said earlier, we want to make investment in Canada undeniable, not just attractive, but something that somebody needs to do or must do. That's how we need to frame all these decisions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156948">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918948">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156950">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918949">Thank you, Mr. Guglielmin.</ParaText>
+              <ParaText id="8918950">Mr. Bains, go ahead for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156952">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains (Richmond East—Steveston, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918951">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8918952">Thank you, Mr. Greer, for joining us and for your work in this space with your organization and for sharing very critical information with us on this topic of productivity.</ParaText>
+              <ParaText id="8918953">Canada ships a significant amount of raw materials outside of the country for processing, and then we reimport them as finished products. In some cases, this is regulatory. For example, in my home province of British Columbia, there's a rule that if you are to process food, you have to grow 50% of it on your own farm. </ParaText>
+              <ParaText id="8918954">How can we retain more of the value-added processing here in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156955">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918955"> You're absolutely correct in terms of what we export and how we export. </ParaText>
+              <ParaText id="8918956">When we think of our north-south relationship, almost three-quarters of what we export to the U.S. are parts, ingredients and components that integrate into U.S. manufacturing processes. These are not finished consumer goods. It's also very much true of most of what the U.S. exports to Canada, which outlines how deeply integrated our manufacturing sector is. That is a net good. When we think of Canada-U.S., it really is a sector that works together to build things to compete with the rest of the world as opposed to with each other.</ParaText>
+              <ParaText id="8918957">Recent months have illustrated that we need to take a long look at all of the rules, requirements and incentives that might have some value-add and that might have somebody looking for a domestic market. They might be looking for a way to add value within Canada.</ParaText>
+              <ParaText id="8918958">Again, to repeat myself, I think regulatory burden rules, like the one you've cited, might have made sense in a current context or in a previous context. We need to look at all of our priors to decide whether this make sense. Are we ensuring that we can add as much value to a product as possible in Canada? The answer may be, in some cases, that we don't need to or that we don't want to, that we're extracting a lot of benefit by selling it to customers in the U.S. or abroad. It's taking a look at all of those rules, requirements and incentives that have caused investors to make the decisions not to do those value-added processes in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13156969">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918959">Can you share your thoughts on the removal of internal trade barriers and impacts there?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13156973">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918960">It is one of the biggest opportunities for growth. I don't need to outline all the figures. I'm sure members of this committee have heard them many times around the potential to grow Canadian GDP and create tens of thousands of jobs.</ParaText>
+              <ParaText id="8918961">It is important to remember that these barriers are not hard tariff barriers. These are, in most cases, small regulatory differences that have been created across provincial borders. The way you produce or sell a product in one province is subject to different rules in another. Obviously, the labour requirements are based on various certification and boards. This means that we've created a series of small markets instead of one large market.</ParaText>
+              <ParaText id="8918962">We are encouraged by the recent movement of the last six or seven months. We've been shaken out of our complacency on internal trade, and we've seen a number of these bilateral trade agreements announced by the provinces to look at mutual recognition.</ParaText>
+              <ParaText id="8918963">I'm a little worried that some of that momentum seems to be fading a little bit. Everybody was talking about it, all levels of government, saying that they're going to do everything to remove these barriers. Now I don't hear as much. I know that a lot of that means work is happening behind the scenes to look at what mutual recognition looks like.</ParaText>
+              <ParaText id="8918964">We think that strong leadership at all levels of government to continue to aggressively try to remove these barriers and commit to mutual recognition is really the key. Trying to align regulations is a long, slow, painful process, for those involved, at least, whereas mutual recognition says that, if you produce a good or sell a good in a way that is legal in one province, it should be considered legal and lawful in another. We think that's the answer. We hope all provinces start to move even more aggressively in that direction in the months ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13156993">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918965">Thank you.</ParaText>
+              <ParaText id="8918966">I have a quick question for either Monsieur Noël or Monsieur Rioux.</ParaText>
+              <ParaText id="8918967">In August, a consortium of Ford Motor Company and South Korean companies said they would build a $1.2-billion plant to produce electric vehicle battery materials in Becancour, Quebec. Can you expand on the reasons Canada secured this investment in the middle of a very competitive environment for private capital investment?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157000">
+            <PersonSpeaking>
+              <Affiliation DbId="311483" Type="28">Hubert Rioux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918968">I'm sorry, but I'm not familiar with the details of that project or the reasons why it was put forward, so I'd rather not comment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157003">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918969">Thank you, Mr. Rioux.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8918970">Thank you, Mr. Bains.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8918971">Mr. Ste‑Marie, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157005">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918972">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8918973">Mr. Rioux, this issue has already been raised in this meeting, but could you remind us of the importance of having high-quality transportation infrastructure, especially in the regions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157008">
+            <PersonSpeaking>
+              <Affiliation DbId="311483" Type="28">Hubert Rioux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918974">That is indeed very important. It is an argument that the Fédération des chambres de commerce du Québec has been putting forward for some time. Some of the biggest challenges in Quebec and Canada have to do with the quality of our infrastructure and the maintenance of existing assets. For some time now, there has been a lot of talk about diversifying our exports, and rightly so given our dependence on the American market. However, in order to increase exports and diversify our export markets, we must be able to move our goods efficiently within Canada. That is why we need transportation infrastructure expansion projects, such as the port expansion project in Contrecoeur.</ParaText>
+              <ParaText id="8918975">Roads and railways are also extremely important for transporting our goods. Right now, most of the goods we ship to the United States go by train or truck. If we now want to export some of those goods to other parts of the world instead, for example, Europe or Asia, we need to increase the shipping capacity of our ports and airports. Infrastructure must be properly maintained in all regions of Quebec. We also need to expand the transportation capacity of various regions by increasing access to infrastructure. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157024">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918976">Since we are talking about exports and diversifying markets, the FCCQ is saying that we need to better support SMEs, particularly when it comes to exporting.</ParaText>
+              <ParaText id="8918977">Could you elaborate on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157029">
+            <PersonSpeaking>
+              <Affiliation DbId="311483" Type="28">Hubert Rioux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918978">Yes, of course.</ParaText>
+              <ParaText id="8918979">Right now, one of the problems we are facing in Canada is that our businesses are small compared to our foreign competitors. Many of our SMEs do not export or are not competitive enough on international markets. We need to increase the proportion of SMEs that export to international markets.</ParaText>
+              <ParaText id="8918980">In order to do that, we must first support SMEs when it comes to taxes. That is why we are proposing that part of the revenue they get from exports to international markets be made tax exempt.</ParaText>
+              <ParaText id="8918981">We also need to change the approach we have been taking to date. It is all well and good to have programs like CanExport to help SMEs shuttle goods, participate in trade shows or conduct market research, but more needs to be done. The government needs to provide our SMEs with funding for their operations and funding to set up overseas and develop new supply chains on international markets.</ParaText>
+              <ParaText id="8918982">The government needs to step up the support it is providing to SMEs to help them access foreign markets. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157048">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918983">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157052">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918984">Thank you, Mr. Ste‑Marie.</ParaText>
+              <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8918985"> Colleagues, we're running a little bit over time, and we have to transition again. I'm going to knock these next two down to two and a half minutes apiece to keep us a little more on time.</ParaText>
+              <ParaText id="8918986">We have Mr. Falk for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157058">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk (Provencher, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918987">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8918988">Thank you to our witnesses for their presentations here at committee today.</ParaText>
+              <ParaText id="8918989">Mr. Greer, I'd like to build on a few of the comments you've been making. When you speak to your members and you get feedback from them on why they're not expanding their businesses, why they're not making the investments in machinery and equipment that would help them move to the next level, what are their responses? Are they based on access to labour, access to markets or access to capital? Can you comment briefly on all three of those?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157063">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918990">Yes, I'm happy to.</ParaText>
+              <ParaText id="8918991">It is really all three. It depends on the business, where they are in their life cycle and where they're located. If you're in the Lower Mainland and you're looking to expand but you have to get a new facility that is now going to be two bridges away for most of your workforce, you're probably going to lose most of that workforce. The transportation infrastructure, gridlock and availability of industrial land might be what stops you in the Lower Mainland. If you are in southern Ontario and you're looking at what some of the requirements might be if you increase the size of your workforce by a certain amount, or at adopting a new piece of a technology kit, that may drop you....</ParaText>
+              <ParaText id="8918992">Obviously, some of the uncertainty is in the tariff environment. We've had manufacturers who are looking to make major equipment purchases, but these have lead times of six to eight months. They're not certain if a piece of equipment that is not being tariffed now could be six to eight months from now.</ParaText>
+              <ParaText id="8918993">It is significantly wide-ranging, but, ultimately, it is access to capital and access to investment that can help fix a lot of that and deal with lots of those problems. Being able to attract that kind of investment is the biggest barrier.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157075">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918994">Often when the government issues tax credits as an incentive to make investments in manufacturing, they're non-refundable or refundable. Could you explain a little bit to the committee about the difference between refundable and non-refundable tax credits, why there's an environment for each one, and when it would be best used?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157082">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918995">I know we're low on time. </ParaText>
+              <ParaText id="8918996">To back up a step, when we talk to manufacturers, they look at the overall complexity of the system, including the range of credits, refundable and non-refundable. They're challenged on this. There's just more that they need to do. This is an opportunity, but who are they going to have to pay to help them do it.</ParaText>
+              <ParaText id="8918997">Not to skip past the question, I think there's an important environment for both refundable and non-refundable credits. Part of the reason our overall tax code is so challenging is that it is a mishmash of various incentives of both kinds, when we think simplicity and lower rates would actually help drive some of the investment we're seeking.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157094">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918998">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157098">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8918999">Thanks, Mr. Falk.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8919000">Ms. O'Rourke, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13157102">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke (Guelph, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919001">Thank you very much for being here, Mr. Greer.</ParaText>
+              <ParaText id="8919002">I'm from Guelph. One in five homes relies directly on advanced manufacturing, so your testimony really hits home. I think it's important to find out what will work.</ParaText>
+              <ParaText id="8919003">On a couple of fronts, I'll combine my questions. The year 2024 had a record foreign direct investment in Canada of $85.5 billion, which was a 36% increase from 2023, the best performance in over a decade. What was working in that context? What do we keep? We're talking about what we change, but what do we keep that is working well to attract foreign direct investment?</ParaText>
+              <ParaText id="8919004">I'm going to tag on to my question. We have the regional tariff incentive fund now to help any tariff-affected business to retool and pivot to other things, with up to $1 billion in southwestern Ontario and up to $1 million in a non-repayable loan. How do you think that is resonating among manufacturers, and where do you think the opportunity to maximize that is?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157116">
+            <PersonSpeaking>
+              <Affiliation DbId="303549" Type="28">Ryan Greer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919005">In terms of what's attracting FDI, specifically in 2024, the biggest part of what makes Canada an attractive market and a good place to set up a manufacturing facility is its proximity and access to the U.S. market. We will never be able to diversify ourselves away from the U.S. market and our reliance on it. </ParaText>
+              <ParaText id="8919006">The best way to fix our U.S. problem is to fix our U.S. problem. That's going to help us on the investment side, because outside investment is not just investing in southern Ontario, although that's where they might be going; it's investing in the Great Lakes manufacturing ecosystem that has been deeply integrated, to the benefit of communities and families on both sides of the border for decades. In terms of what works, step one is fixing our U.S. problem, and then step two is moving on to everything else we've been talking about here today. </ParaText>
+              <ParaText id="8919007">In terms of the regional tariff supports, we're encouraged that those funds have been made available. As I mentioned earlier, our sector is the one being hit first and hit hardest by U.S. action. It's important for the government to have the flexibility to respond and support manufacturers, given the unique needs. </ParaText>
+              <ParaText id="8919008">It is a significant investment and business decision to consider retooling, pivoting or trying to find a new customer abroad compared to somebody you've been serving maybe a few hundred kilometres south of you in the Great Lakes region. Trying to de-risk those investments as much as possible is going to be an important part of that. </ParaText>
+              <ParaText id="8919009">Obviously, some skills retraining and support for tens of thousands of workers who have been displaced and are looking for new opportunities are important. For us, the marker for success on these programs will be if the money is moving quickly and if the red tape that's attached to it—the programmatic steps required to access funding—is reasonable and appropriate for the speed at which those funds are needed for manufacturers.</ParaText>
+              <ParaText id="8919010">We're looking forward to hearing more as the programs roll out in the months ahead to make sure those things are happening. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157135">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919011">Ms. O'Rourke, I have to be non-partisan in my chair. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8919012">Thank you for being with us this morning, Mr. Greer, Mr. Rioux and Mr. Noël. </ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8919013">We appreciate your testimony. </ParaText>
+              <ParaText id="8919014">Colleagues, we're going to suspend briefly as we transfer over.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="12" Mn="00">(1200)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157160">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919015">Colleagues, we're going to continue with the second hour of our questioning.</ParaText>
+              <ParaText id="8919016">We have two new witnesses, both joining us virtually. </ParaText>
+              <ParaText id="8919017">We have associate professor from the department of finance and economics at the Université du Québec à Trois-Rivières, Monsieur Marc Duhamel.</ParaText>
+              <ParaText id="8919018">I know I'm supposed to be unbiased in the chair, but anytime there's a Manitoban who is willing to make themselves available to us, I have to, of course, highlight that. We have Neil Fast, who is the president and chief executive officer of Loewen Windows and Doors, a very proud Manitoban company.</ParaText>
+              <ParaText id="8919019">Mr. Fast, welcome to you.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8919020">Mr. Duhamel, you have up to five minutes to give your presentation. </ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8919021">We will then go to you, Mr. Fast, for upwards of five minutes, and then we'll begin our line of questioning.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8919022">Mr. Duhamel, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157162">
+            <PersonSpeaking>
+              <Affiliation DbId="322913" Type="28">Marc Duhamel (Associate Professor, Department of Finance and Economics, Université du Québec à Trois-Rivières, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919023">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8919024">Thank you to the committee members for having me.</ParaText>
+              <ParaText id="8919025">My name is Marc Duhamel. I have a Ph.D. in economics from the University of British Columbia. Not only am I a professor at the department of finance and economics at the Université du Québec à Trois-Rivières, or UQTR, but I am also a researcher at UQTR's Institut de recherche sur les PME, which has been recognized for the past 25 years as one of the largest research institutes on SMEs and entrepreneurship in the francophonie and the world. Since 2023, I have also been serving as the scientific director of Repreneuriat Québec's Observatoire du repreneuriat, a provincial economic development organization whose mission is to ensure the survival of Quebec businesses by promoting business succession.</ParaText>
+              <ParaText id="8919026">To avoid any misunderstanding, I want to say that my opinions are my own. They do not represent the views of Repreneuriat Québec, the Government of Quebec, the Institut de recherche sur les PME or UQTR. </ParaText>
+              <ParaText id="8919027">I was asked to testify regarding Canada's productivity challenges. Although I am not an expert on this issue, I am relatively familiar with it because I worked as an economist at the Competition Bureau and at Industry Canada for 15 years, including as the director of microeconomic research and market framework policy for the last four years I was there.</ParaText>
+              <ParaText id="8919028">What brings me here today is an issue that seems to have escaped the attention of many experts and public decision-makers, even though it has been a concern for them for several years, and that is business transfers in the context of Canada's aging population. </ParaText>
+              <ParaText id="8919029">My testimony focuses on two main points. The first has to do with the underestimated role of business transfer in Canada, commonly referred to as “<I>repreneuriat</I>” in Quebec, and its potential contribution to the growth of SME productivity in Canada. The second has to do with the specific support requirements for business transfers in Canada in the context of the need for business succession. </ParaText>
+              <ParaText id="8919030">I would like to define business transfer. A business transfer is the economic transfer of a company's property titles, control and authority over the use of assets to new owners. It is often a gradual process that takes place over several months and that enables the company to continue its business activities.</ParaText>
+              <ParaText id="8919031">In many cases, for the buyer, or the person purchasing the company from the seller or the transferor, a business transfer represents an opportunity to strategically renew an established business. In other words, it is a transformative event in the life cycle of a SME. The buyer can renew the offer of products and services, improve the business model and increase productivity through innovation and investments in new technologies.</ParaText>
+              <ParaText id="8919032">I am here because my research using one of Statistics Canada's new experimental databases showed that 57,760 SMEs were transferred in Canada in 2022, an increase of 25.8% compared to 2015. Canada is dealing with aging entrepreneurs, a challenge that is affecting many developed economies and putting them at risk of losing their entrepreneurial legacy. For example, according to the Organisation for Economic Co-operation and Development, the OECD, Japan lost 21% of its SMEs in just 15 years. If the same thing were to happen in Canada, we would lose 285,000 active SMEs and the jobs that go along with them over the next 15 years, mainly in remote areas.</ParaText>
+              <ParaText id="8919033">This is a very real risk in Canada. For example, according to the Institut de la statistique du Québec, the proportion of municipalities in Quebec with fewer than 1,000 inhabitants that do not have a retail building went from 14.8% in 2015 to 22.7% in 2024, even though there has not really been any change in the number of municipalities with fewer than 1,000 inhabitants. </ParaText>
+              <ParaText id="8919034">Right now, Canada is facing a wave of transfer intentions. According to Statistics Canada, the owners of nearly 51,000 private businesses in Canada intend to sell or transfer their business in the next 12 months. According to another study conducted in 2024, in the medium term, 126,000 SME owners want to sell or transfer their business in the next 60 months. As a result, support for the development of entrepreneurial succession is needed to prevent what happened in Japan from happening here in Canada.</ParaText>
+              <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+              <ParaText id="8919035">In order to promote business succession, Canada's economic development policies have focused primarily on supporting forces of creative destruction in business. The economic rationale behind this approach is that entrepreneurial start-ups will be able to assure the transfer of Canada's entrepreneurial legacy to a new generation of more skilled, innovative and successful entrepreneurs. However, it is clear that entrepreneurship policies and investments in developing the start-up ecosystem remain weak, with a few exceptions. Other leading researchers have also made this same observation on the ineffectiveness of entrepreneurship policies in developed countries.</ParaText>
+              <ParaText id="8919036">However, the most important—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157204">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919037">Mr. Duhamel, unfortunately, we were running late during the first hour, and we still are. I must give the floor to Mr. Fast, but you can add to what you were saying when answering questions.</ParaText>
+              <ParaText id="8919038">Thank you.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8919039"> Mr. Fast, the floor is yours for upwards of five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157208">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast (President and Chief Executive Officer, Loewen Windows and Doors)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919040">Thank you very much.</ParaText>
+              <ParaText id="8919041">I very much appreciate the opportunity to speak with you all.</ParaText>
+              <ParaText id="8919042">Since early 2023, I have been the president and CEO of Loewen Windows and Doors. We are a manufacturer of high-end windows and doors based in Steinbach, Manitoba, located about 40 minutes southeast of Winnipeg. Our products are positioned at the high end of the market with each unit made to custom specifications and the very highest levels of energy efficiency. </ParaText>
+              <ParaText id="8919043">We are privately owned and have been in business since 1905. We currently employ 700 people in the southeastern Manitoba area. In any given year we export over three-quarters of our production to the United States.</ParaText>
+              <ParaText id="8919044">In Canada, we sell our product directly to home builders and owners, or through small, specialized fenestration dealers, such as Bowen Windows in Ottawa. In the United States, we go to market exclusively through these fenestration dealers who market our products to architects and homebuilders across that country.</ParaText>
+              <ParaText id="8919045">In our manufacturing process, we use softwood sourced from both British Columbia and Oregon state. Our glass products come from southwest Ontario and North Dakota. Hardware comes from Asia or Europe, and over one million pounds of aluminum is shaped and painted in either Ontario or Wisconsin before coming to our facilities. Much of our product is European or American in origin.</ParaText>
+              <ParaText id="8919046">With this type of complicated supply chain, we experience impacts from trade policy, tariffs and counter-tariffs every day. While the street price of aluminum has risen, our product currently comes into Canada tariff-free despite Canada's current 25% counter-tariff because of the remission policies currently in place. However, those blanket remissions are scheduled to expire on October 16, which will drive additional cost and complexity into the industry. </ParaText>
+              <ParaText id="8919047">Significant changes have been made to our current transportation patterns, with products that once travelled through the U.S. now coming directly from Europe and requiring extra processing. Small service parts and shipments heading to the U.S. are now burdened with additional costs and time to clear the border. With the custom broker industry currently overwhelmed, this is all more complicated than it should be and could be.</ParaText>
+              <ParaText id="8919048">While we have significant investments under way in plant modernization and information infrastructure, Loewen finds itself in an awkward position. We are a true medium-sized company. With 700 employees, most government programs are targeted at companies smaller than us. With only 700 employees, we are too small to effectively access public debt and other large-scale financing available to larger businesses.</ParaText>
+              <ParaText id="8919049">Over the past 35 years, Loewen has been very successful in manufacturing and exporting our product into the United States. In the past five years, we have seen significant supply chain and demand whiplash with COVID, an explosion of multi-jurisdictional rules and regulations and are now experiencing significant demand and supply side uncertainty in this new trade environment, all while trying to invest in and improve the position of our business in a very competitive market.</ParaText>
+              <ParaText id="8919050">I am looking forward to my time here and the opportunity to tell our story and am available to answer any questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157242">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919051">Thank you very much, Mr. Fast.</ParaText>
+              <ParaText id="8919052">I'll pass the floor to someone else who lives not too far from Steinbach.</ParaText>
+              <ParaText id="8919053">Mr. Falk, the floor is yours for six minutes, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157245">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919054">Thank you.</ParaText>
+              <ParaText id="8919055">Thank you very much to both of our witnesses for their attendance here at committee this morning. </ParaText>
+              <ParaText id="8919056">Like Mr. Carr, I too would indicate I have a specific bias for anyone from Manitoba, but particularly when they come from my riding and my constituency of Provencher. We are very proud of the fact that Loewen Windows is still in our community after 120 years and that you've grown the business to the size that you have, and also that you're such a wonderful corporate citizen in the whole southeast.</ParaText>
+              <ParaText id="8919057">Mr. Fast, building on some of the comments that you made, you talked about the remission agreement that you currently have on aluminum that you bring in from the United States. Most aluminum is mined in Canada. It's processed and extruded in the United States, and then you bring it back and you add value to it at Loewen Windows. </ParaText>
+              <ParaText id="8919058">Can you tell us a little bit about that remission agreement and why you're so concerned about it?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157256">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919059"> Certainly. Correctly so, all of our aluminum is extruded in either Canada or the U.S., but painted by a manufacturer in Wisconsin, and must then make its way into Canada. Our country currently has a 25% counter-tariff in place, however, with 100% remission for Canadian manufacturers. That is set to expire in just under two weeks from now. At that point in time, we would have to pay a 25% tariff but would be able to ask for a drawback from the Canadian government for any product we export.</ParaText>
+              <ParaText id="8919060">Instead of going from a zero-cost free trade environment, we would now have to put significant working capital up front into tariffs paid to the Canadian government and then apply for drawbacks, which requires an education and a negotiation with CBSA, but would then allow us to claim back any tariffs on products exported to America.</ParaText>
+              <ParaText id="8919061">That also leaves us in the awkward position where the cost to produce product for our Canadian customers is now higher than the cost for our U.S. customers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157266">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919062">It's very important to you that this agreement gets extended, and we hope Prime Minister <Affiliation DbId="314774" Type="1">Carney</Affiliation>'s visit to the United States will yield some positive results this time.</ParaText>
+              <ParaText id="8919063">You also talked about access to capital and access to federal Government of Canada programs, in that the size of your business makes it awkward. Are there programs in particular that you're referring to and that you would really be able to take advantage of as Loewen Windows?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157273">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919064">SR and ED is a program where we have minor participation, but it certainly becomes challenging. Many of the tariff abatements or programs that allow our business to tool and invest are targeted at businesses smaller than our own.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157279">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919065">Recently at committee—I think about two weeks ago—we had William Robson, who is the president and CEO of the C.D. Howe Institute. He talked about capital investment, about machinery and equipment, and how American manufacturers are spending the equivalent of just under $12,800 Canadian per worker, while Canadian manufacturers are spending just north of $4,000. Per worker, they spend about three times more on machinery and equipment.</ParaText>
+              <ParaText id="8919066">You also talked about the uncertainty of the environment that we are currently finding ourselves in. How does that impact your decision to invest in machinery and equipment for your workers to continue to produce, expand your business and improve your quality even more?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157296">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919067">I can say that the C.D. Howe numbers certainly ring true. We are currently investing annually north of $6,000 per employee, within that range. </ParaText>
+              <ParaText id="8919068">Much of our equipment, though, is made out of steel and aluminum and is coming from overseas, so we are experiencing uncertainty from a demand perspective. What will happen to demand for our products in the United States as the tariff regime may change from month to month? Lead time for many of the products we use can range from eight to 12 months, and that time frame certainly adds to the challenges we have in forecasting our U.S. business.</ParaText>
+              <ParaText id="8919069">We require skilled manufacturing engineers, and those are always difficult to bring in. Our immigration policy certainly makes it challenging. Then, of course, the cost of the raw inputs has raised the cost of this machinery dramatically over the past four years. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157306">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919070">I have one final question. </ParaText>
+              <ParaText id="8919071">When I drive by your business, I think of it so proudly and fondly, but I often notice that there's a sign on the front boulevard which says, “We're hiring”. Can you talk a bit about your access to labour? Can you get the employees you need to grow your business?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157311">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919072">Sure. I would like to say, without expressing any bias, Mr. Falk, that our business would not.... Our product is custom made and much of it is handmade by a very talented workforce. It takes us upwards of eight to 12 months before a new employee truly becomes adept at their job, so we depend on a stable workforce and have really benefited from the community we operate in.</ParaText>
+              <ParaText id="8919073">That being said, manufacturing is an environment where we do experience turnover. On our shop floor, we may see an average turnover of 20% a year, which I think many manufacturers would be jealous of but is impactful for our business. We always struggle to bring in technical individuals, particularly manufacturing engineers and product development people. There, we are recruiting from as far away as Winnipeg and do occasionally bring in people who work outside the country, both in the U.S. and in Mexico.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157336">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919074"> Thank you very much, Mr. Falk.</ParaText>
+              <ParaText id="8919075">Mr. Bardeesy, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157341">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919076">Thank you.</ParaText>
+              <ParaText id="8919077">I have a couple of questions for Mr. Fast and then a couple of questions for Monsieur Duhamel.</ParaText>
+              <ParaText id="8919078">Mr. Fast, in the housing sector, there are some long-standing productivity metrics that haven't moved as much, but you're in the manufacturing part of the housing sector, and you've obviously moved up the value chain. Can you speak, from a firm perspective, on what you've done that maybe some of your competitors have not done?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157347">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919079">Certainly. I have been involved in the construction industry since I was 18 and a half years old, and we have been concerned about productivity and labour since then.</ParaText>
+              <ParaText id="8919080">Particularly, we operate, as you said, at the high end of the market, but we still see and are held captive by the productivity challenges in new home construction. We are involved in houses that can take three and four years to build from the time they break ground, much of that due to local permitting and labour restrictions, and we build sports arenas in faster times than some of these homes.</ParaText>
+              <ParaText id="8919081">We operate on a custom perspective. Let me step back. If you were in the COVID market, you saw 2022 and 2023 as some of your largest years ever, as you were able to stuff the supply chain full of inventory that you pushed off the shelf. As a custom manufacturer, we are tied in tightly with our home builders and architects, and we make nothing until the home is already well under construction, and that certainly helps our ability to not get caught in the whiplash of new residential construction.</ParaText>
+              <ParaText id="8919082">I'm not sure if I answered your question in the way you were looking for.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13157371">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919083">That's very helpful, thank you.</ParaText>
+              <ParaText id="8919084">You also mentioned capital raising and having access to financing vehicles. The Competition Bureau just started a study on small and medium enterprise access to lending from the big financial institutions. Without divulging any corporate secrets, can you just tell us how you've traditionally financed and the role of banks, in particular, in that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157374">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919085">Yes. We operate at a very high degree of, frankly, corporate equity and reinvestment in the business. We have almost no unsecured financing in the business and very little secured financing. We reinvest with the profits.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157380">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919086">That's one of the benefits of a family enterprise in the long-term horizon, I gather.</ParaText>
+              <ParaText id="8919087">Thank you.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8919088">Mr. Duhamel, you shared some very interesting and informative statistics about businesses and a wave of upcoming retirements.</ParaText>
+              <ParaText id="8919089">The former government implemented a public policy to encourage employee ownership. Are you satisfied with that policy? Is employee ownership a solution for dealing with the wave of upcoming retirements that you mentioned?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157393">
+            <PersonSpeaking>
+              <Affiliation DbId="322913" Type="28">Marc Duhamel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919090">Thank you for your question.</ParaText>
+              <ParaText id="8919091">Transferring a business to employees is one of the three main types of business transfer. It is the least popular among transferors. Only about 15% of them plan to transfer their business to employees. In Canada, the most popular type of transfer by far is the transfer to external owners. Since 2018, this type of transfer has accounted for 60% of transfer intentions, placing it far ahead of the second most popular type of transfer, the transfer of the business to family members, which accounts for approximately 25% of transfer intentions. </ParaText>
+              <ParaText id="8919092">Although there are programs aimed at transferring businesses to employees and this type of transfer can improve a business's productivity and financial performance, it remains a minor component in the overall business transfer picture because approximately 85% of business transfers involve other types of transfers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157404">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919093">Do public policies increase transfers to external parties? Should one of the goals of public policy be to reduce the sales rate for such individuals?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157412">
+            <PersonSpeaking>
+              <Affiliation DbId="322913" Type="28">Marc Duhamel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919094">From an economic perspective, the most important thing a public policy can do is to ensure the transfer of businesses. The main reason is that two major factors are often overlooked when a business is transferred. First, the transfer prevents the dissolution of the business and thus prevents the loss of intangible capital, which is becoming an increasingly important contributor to business productivity. Second, the transfer maintains the intensity of the competition in local markets, particularly in more remote markets. It is therefore important to ensure that transfers take place. </ParaText>
+              <ParaText id="8919095">What is the ideal method of transfer? The transferor and the buyer are in the best position to determine the best way to transfer the business, whether it be to a family member, an employee or someone outside the business.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157420">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919096">Thank you very much, Mr. Bardeesy.</ParaText>
+              <ParaText id="8919097">Mr. Ste‑Marie, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157422">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919098">I welcome Mr. Fast and Mr. Duhamel and thank them for being here.</ParaText>
+              <ParaText id="8919099">My questions are for Mr. Duhamel. </ParaText>
+              <ParaText id="8919100">First, I would like to give you the time to finish your presentation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157426">
+            <PersonSpeaking>
+              <Affiliation DbId="322913" Type="28">Marc Duhamel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919101">Thank you very much. </ParaText>
+              <ParaText id="8919102">I would just like to briefly add a few things.</ParaText>
+              <ParaText id="8919103">First, Canada is facing a challenge in terms of business succession. Second, the approach that is often taken to address this challenge is akin to trying to fill a pool with a bigger hose in that we are sending more new, fledging entrepreneurs into the pool. The problem is that we are losing a lot of these entrepreneurs. The wave of transfers is threatening the survival of existing SMEs, which form the foundation of a vibrant, productive and prosperous entrepreneurial ecosystem.</ParaText>
+              <ParaText id="8919104">The best way to ensure the survival of these businesses is to make sure that they get transferred. The problem that we are seeing in Quebec is that most transferors and buyers go about the transfer the wrong way and do not understand the process properly. Ultimately, we end up with a relatively high transfer failure rate. As a result, SME owners may hastily decide to dissolve their business.</ParaText>
+              <ParaText id="8919105">From what we are seeing in Quebec, business transfer is a unique market because of its lack of transparency. The information exchanged between buyers and sellers is sensitive business information. Transferors tend to not want to reveal too much for fear of negatively affecting the value of their business.</ParaText>
+              <ParaText id="8919106">Nevertheless, more data is needed so that all transferors, buyers and intermediaries working to promote or carry out a business transfer are aware of the extent of the problem.</ParaText>
+              <ParaText id="8919107">In Quebec, this approach to data production, which enables transferors, buyers and all stakeholders in the ecosystem to become aware of the importance of this phenomenon in their area, was fundamental to mobilizing all stakeholders, whether it be the Business Development Bank of Canada, the Fonds de solidarité FTQ, Repreneuriat Québec or the Quebec ministry of economy, innovation and energy, and encouraging them to develop strategies to better prepare transferors and buyers and to find and train the next generation of entrepreneurs so that they are able to take over a business within a reasonable period of time.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13157458">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919108">In your presentation, you mentioned the difference in productivity between a business that is taken over and a new start-up.</ParaText>
+              <ParaText id="8919109">Could you elaborate on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157460">
+            <PersonSpeaking>
+              <Affiliation DbId="322913" Type="28">Marc Duhamel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919110">It is important to understand that we want new start-ups in Quebec, but that, in terms of productivity, a business transfer has three big advantages over starting a new business. Transferred businesses are the gems of Quebec's entrepreneurial legacy. I have no reason to believe that things are any different outside of Quebec. Transferred businesses generate an average revenue of $4.6 million and employ about 15 people. What is more, the revenue level of transferred businesses is $300,000 per employee. It is clear that these are not small businesses. Yes, many businesses are transferred, but on average, they represent the best of the entrepreneurial ecosystem being passed from one owner to another. That is much more important for very small businesses.</ParaText>
+              <ParaText id="8919111">According to my research, whether we are talking about revenue, number of employees, survival rate or the size of businesses at start up and dissolution, Quebec's experience shows that, in Quebec and Canada, we underestimate the potential contribution of business transfers in accelerating business productivity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157485">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919112">In your presentation, you mentioned that Japan's population is aging more rapidly than ours. Of the business succession practices that you have observed at the international level, particularly in Japan, which ones would be good for us to adopt here?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157492">
+            <PersonSpeaking>
+              <Affiliation DbId="322913" Type="28">Marc Duhamel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919113">The international approach is inspired by what is being done in Austria, Finland, France and many other countries. Many countries are dealing with this problem.</ParaText>
+              <ParaText id="8919114">The first step is awareness. We need to inform the stakeholders in the ecosystem and produce statistics so that lawyers, accountants and notaries can determine for themselves the demand for a business and assess its value. I would remind you that 50% of business owners have no idea how much their business is worth. One can imagine how much work needs to be done. We therefore need to raise awareness.</ParaText>
+              <ParaText id="8919115">The second step is developing a national business transfer strategy. As you know, Quebec is very well organized in this regard. For example, Repreneuriat Québec was established to promote business transfers. However, this strategy must align with what is happening at the local and federal levels.</ParaText>
+              <ParaText id="8919116">Right now, there is no federal strategy or road map that divides the work among Industry Canada, the Quebec ministry of economy, innovation and energy, and Repreneuriat Québec. There is a lot of improvisation happening. </ParaText>
+              <ParaText id="8919117">The other—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157518">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919118">I'm sorry to interrupt you, Mr. Duhamel, but Mr. Ste‑Marie has already gone over his time by 90 seconds, so I must give the floor to Mr. Guglielmin.</ParaText>
+              <ParaText id="8919119">Mr. Guglielmin, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13157521">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919120"> Thank you to both witnesses for their testimony so far. </ParaText>
+              <ParaText id="8919121">Mr. Fast, you mentioned in your opening remarks that you employ 700 people and about 85% of your product goes to the United States. I know you've stated previously that a 25% tariff, which had been threatened, would instantly raise prices, make your dealers less competitive, hurt their profitability and hurt your bottom line. The general theme here is that businesses require certainty when it comes to budgeting and capital allocation. </ParaText>
+              <ParaText id="8919122">How is trade uncertainty impacting your capital investment decisions and, by association, your hiring?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157532">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919123"> Let me approach this from two sides, first, the demand side and then our investment side of the business. </ParaText>
+              <ParaText id="8919124">When we sell our product, we start that process. It may be 18 to 24 months before we ship, so we require a great deal of commitment from our sales staff who are independent business people in the U.S. If these U.S. businesses can't count on us to provide a product at the original prices, because of changing tariff environments, it will become an obvious solution for them to move away from Canadian suppliers. Certainly, once we lose that mindshare and market share in the U.S., that is a decades-long process to rebuild. Having tariffs raise our prices would be an immediate blow to our competitiveness.</ParaText>
+              <ParaText id="8919125">The second is that we look at major plant investments. You would expect that, for anything of significant size, you are looking at a four- to five-year payback time before you start seeing positive cash comeback on an investment. That certainty, in terms of what our ongoing sales outlook may be, absolutely drives our ability to invest in new equipment, and then again, there's the cost basis of that equipment as it rapidly escalates. We recently shelved one investment product because over the course of the 14 months it took us to build out our business case and decide to go forward, the cost had inflated so much it became unreasonable to go forward with that project.</ParaText>
+              <ParaText id="8919126">As a product that is made with a lot of labour input, we need the machines to aid the people, and without machines, we can't hire more people to work them. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157547">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919127">I want to pivot here to interprovincial trade barriers. You've pointed out that interprovincial trade barriers, such as differing energy codes and certification requirements, make it harder for companies like yours to operate efficiently within Canada. How significant are these internal regulatory inconsistencies in limiting your growth within Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157552">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919128">As Mr. Greer said in the prior hour, in our field it is as much regulations as it is actual trade barriers. </ParaText>
+              <ParaText id="8919129">Construction in Canada is ruled by a national building code, but that becomes fractionalized at a provincial level and then again at a city or a regional level. Sometimes it is, with common sense, that a product in the rain in Vancouver should perform differently from how it performs in the snow in Winnipeg. Oftentimes, those are strictly because a local city or a province wants to put their fingers on the code. That makes it very challenging to move product back and forth. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157572">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919130">Are there any specific changes, or is there co-operation between federal and provincial governments that you'd recommend to lower the regulatory red tape burden to help facilitate growth and make you more competitive, both domestically and internationally?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157588">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919131">I would echo Mr. Greer's comments of being very excited about the talk six months ago about all of the provinces getting ready to harmonize and to eliminate trade barriers. That has gone quiet now, and I do hope that is because of hard work going on in the background and not because of jockeying for political position. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157609">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919132">For my last question, may I have a quick response, if you can?</ParaText>
+              <ParaText id="8919133"> At town halls in the past, you mentioned layoffs. What is your company doing to avoid layoffs, and would you be able to sustain that in the case of long-term uncertainty?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13159225">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919134">Would you respond very quickly, Mr. Fast? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157631">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919135">We do some job sharing and have occasionally shut down for a week. That has allowed us to ride through. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157643">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919136">Thank you very much.</ParaText>
+              <ParaText id="8919137">Madam O'Rourke, you have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157656">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919138">Thank you, Chair. </ParaText>
+              <ParaText id="8919139">My first question is for Mr. Fast. </ParaText>
+              <ParaText id="8919140">I am hoping you're aware of the BDC-EDC regional tariff response initiative, which may be helpful for you in the coming months.</ParaText>
+              <ParaText id="8919141">I am also hearing from medium-sized businesses in Guelph and nationally that there seems to be a missing middle for manufacturing. There is support for entrepreneurship, innovation, small businesses and start-ups to help them scale, and then there is support for the larger organizations, but that piece in the middle needs something different. </ParaText>
+              <ParaText id="8919142">I'm wondering what programs or supports you think would be helpful for medium-sized businesses. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157673">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919143"> Thank you for that question. I could not agree more.</ParaText>
+              <ParaText id="8919144"> I would like to echo.... We have all of these new programs, and while I have a limited understanding of the BDC-EDC program, our ability to take advantage of these programs, every one of them, comes at the cost of employee attention. As we work to comply with export regulations and customs and to understand tariffs, the reporting requirements of what country of origin the aluminum is smelted in consumes so much capability. We have had to start hiring consultants to help us comply with human trafficking regulations.</ParaText>
+              <ParaText id="8919145">The ability to take advantage of these programs with less overhead and fewer requirements, or by removing some of the overhead that is already placed on us, would really allow us to take more benefit.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157686">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919146">That's a great recommendation for us. I've made a note of that.</ParaText>
+              <ParaText id="8919147">You mentioned that some of your manufacturing is taking place in Europe. Are there any opportunities to pivot to some domestic manufacturing around that to build and buy Canadian and to reduce your costs of import?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157691">
+            <PersonSpeaking>
+              <Affiliation DbId="323083" Type="28">Neil Fast</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919148">We do all of our manufacturing and assembling here in Manitoba, Canada. We have several significant vendors that are located in Europe.</ParaText>
+              <ParaText id="8919149"> What happened even six or eight months ago was that they would ship to a large location in the U.S., where that product may have been combined with something that was manufactured in the U.S. and China and then redistributed throughout North America as a complete product.</ParaText>
+              <ParaText id="8919150"> To bypass tariffs, all of those issues have changed. In that way, it's a benefit to Canada. More work is being driven into Canada because of those tariff walls.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13157702">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919151">Thank you.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8919152">My next question is for Mr. Duhamel. </ParaText>
+              <ParaText id="8919153">We have been talking about productivity in Canada for 30 years. I'm a visual person. If you had to create a continuum of actions to improve business productivity in Canada in the short, medium and long term, where would you place the most relevant initiatives? </ParaText>
+              <ParaText id="8919154">What is urgent, what needs to be done over the next two years and what needs to be done in the longer term?</ParaText>
+              <ParaText id="8919155">I am relying on your expertise to help the committee do its work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157715">
+            <PersonSpeaking>
+              <Affiliation DbId="322913" Type="28">Marc Duhamel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919156">I'm not an expert in productivity. I'm sure you will be hearing from other experts who will talk to you about this.</ParaText>
+              <ParaText id="8919157">I'm here to tell the committee about the importance of business transfer. Let's look at the example that you mentioned, namely medium-sized businesses that employ between 100 and 499 people. A total of 8.5% of medium-sized businesses are transferred, while 0.8% are start-ups and 0.1% are dissolved. </ParaText>
+              <ParaText id="8919158">Business transfer is therefore one way of improving and accelerating business transformation through new investments in innovation and technology.</ParaText>
+              <ParaText id="8919159">I sincerely believe that this course of action has been overlooked. It is new, but it should be urgently studied in depth by the committee. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157728">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919160">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157730">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919161">Thank you, Ms. O'Rourke.</ParaText>
+              <ParaText id="8919162">Mr. Ste‑Marie, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157732">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919163">Mr. Duhamel, in two and a half minutes, can you talk to us about the funding needs of young buyers?</ParaText>
+              <ParaText id="8919164">Can you also tell us what you mean by the “intangible capital” of businesses? </ParaText>
+              <ParaText id="8919165">You can also use the time to share any other comments you may wish to make.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157739">
+            <PersonSpeaking>
+              <Affiliation DbId="322913" Type="28">Marc Duhamel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919166">Thank you for the question.</ParaText>
+              <ParaText id="8919167">In Quebec, the average transferred business has an annual revenue of $4 million and employs about 15 people. It's obvious that entrepreneurs under the age of 30 have a really hard time finding the capital they need to buy such a business. In fact, the segment that is experiencing the strongest growth is buyers aged 55 and over. Older people or senior entrepreneurs make up the segment that has the strongest intention of taking over businesses in Quebec, and I have no reason to believe that things are any different in the rest of Canada.</ParaText>
+              <ParaText id="8919168">We are talking about protecting the intangible capital of businesses. What is intangible capital? It is assets that lack physical substance, such as trade secrets, patents and all other forms of explicit or implicit intellectual property that contribute so much to the value-added businesses in Canada, as studies by Statistics Canada show.</ParaText>
+              <ParaText id="8919169">A business transfer is important to protect this capital, since it will ensure its survival, while a merger, an acquisition that liquidates all of the company's assets, or worse still, a dissolution, will result in the loss of this intangible capital.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13157758">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919170">Thank you very much. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13157759">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8919171">Thank you everyone. </ParaText>
+              <ParaText id="8919172">I want to thank Mr. Fast and Mr. Duhamel for being with us this afternoon.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8919173">Thank you very much for making yourselves available to the committee. I appreciate the insight very much. It's quite useful and helps guide us as we move forward.</ParaText>
+              <ParaText id="8919174">We'll dismiss the witnesses. Thank you very much. You're welcome to drop off.</ParaText>
+              <ParaText id="8919175">Colleagues, I want to raise one quick thing before we go.</ParaText>
+              <ParaText id="8919176">This is just as a matter of practice. We've been meeting for a couple of weeks now, and I think we've gotten a feel for style. I've allowed us, quite graciously, to go over time in most instances because I always feel my job is to make sure—no pun intended—we're productive and efficient and that there's no use in calling witnesses.... The downside is that we lose time. Every time I allow somebody to go a minute, a minute and a half or two minutes over, it cuts into someone else's time. </ParaText>
+              <ParaText id="8919177">I'd like to suggest that when we look at the way we move forward, in the second round, the Conservatives and the Liberals will get five minutes. That's the last two, so that's 10 minutes. Ultimately, the discretion is mine, but I don't want to be a dictator here, so I would like to suggest, if everyone is amenable to this, that we kind of operate with the understanding that we're not going to go to that last part of the second round. If we make up the time, then we make the offer.</ParaText>
+              <ParaText id="8919178"> If we operate with it.... I see it as a little bit unfair because a member comes, puts their name on the list; they've prepared a question and now we're 15 or 20 minutes over time and people are saying that they have to get to their next meeting, etc.</ParaText>
+              <ParaText id="8919179"> This is just food for thought. We don't have to make a formal decision. I just want to put it out there that I've really tried to not cut people off, but there comes a point when, of course, I have to do that because it comes at the expense....</ParaText>
+              <ParaText id="8919180">Maybe it's something we can discuss among the respective critics for the parties around the table. I just wanted to put that out there because I don't want to get in the habit of saying, “Sorry, witness, we've gone over. You still have something to add that will be useful to the committee, but I'm stopping the clock here just for the sake of making sure we end on time.” </ParaText>
+              <ParaText id="8919181">Does what I'm proposing kind of make sense? </ParaText>
+              <ParaText id="8919182">I share this just as where my thinking is.</ParaText>
+              <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8919183">We don't have to make a decision today. I just wanted to share some thoughts now that we have had a few meetings.</ParaText>
+              <ParaText id="8919184">Thank you, everyone.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8919185">The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

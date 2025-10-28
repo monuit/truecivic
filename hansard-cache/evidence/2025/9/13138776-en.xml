@@ -1,0 +1,813 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13138776">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Access to Information, Privacy and Ethics</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, September 24, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 24 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Access to Information, Privacy and Ethics</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 24, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">05</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">24</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/24 16:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Access to Information, Privacy and Ethics</ExtractedItem>
+    <ExtractedItem Name="Acronyme">ETHI</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">John Brassard</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138779">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair (John Brassard (Barrie South—Innisfil, CPC))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898527"> I call this meeting to order. </ParaText>
+              <ParaText id="8898528">Welcome to meeting number five of the House of Commons Standing Committee on Access to Information, Privacy and Ethics.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8898529">Pursuant to Standing Order 108(3)(h) and the motion adopted by the committee on Wednesday, September 17, 2025, the committee undertakes its review of the Conflict of Interest Act.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8898530">Today's meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are attending in person in the room and are participating remotely by using the Zoom application. </ParaText>
+              <ParaText id="8898531">Before we go to our witness, I want to remind members to be mindful of the microphones and the earpieces and to make sure they're away from each other so that we don't cause the interpreters any challenges. </ParaText>
+              <ParaText id="8898532">I would like to welcome our first witness today. We have, an individual, via video conference, Mr. Ian Greene, professor emeritus, school of public policy and administration, York University.</ParaText>
+              <ParaText id="8898533">Mr. Greene, on behalf of the committee, I want to thank you for making yourself available today on such short notice. We're in that sweet spot where we make a determination of what we're going to study and then try to invite witnesses. In some cases, it's on short notice, but you, sir, have graciously given up your time today. </ParaText>
+              <ParaText id="8898534">I invite you to address the committee for five minutes with an opening statement, which will be followed by questions. </ParaText>
+              <ParaText id="8898535"> Go ahead, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138798">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene (Professor Emeritus, School of Public Policy &amp; Administration, York University, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898536">Thank you very much. I'm honoured to be asked to address you today. </ParaText>
+              <ParaText id="8898537">Mr. Chair, I'm impressed with the scholarships that you're providing for students from your riding to study programs such as political science. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138804">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898538">Thank you, sir.</ParaText>
+              <ParaText id="8898539"> Mr. Greene, I'm sorry to interrupt. You locked up for a second there. I just want to make sure that we didn't miss anything. </ParaText>
+              <ParaText id="8898540">I appreciate your bringing that up. My wife and I have been doing that for the better part of 14 to 15 years, I think, in our community.</ParaText>
+              <ParaText id="8898541">Go ahead, and I can give you a little more than five minutes as well, if you like. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138830">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898542"> I'm impressed by the public service that every one of you has done. I see that one of you has experience with the Canadian military. My dad was a soldier in World War I. He served at Vimy Ridge. When he returned, he earned a dental degree at the University of Toronto, and during summers, he worked on a ship in the Thousand Islands, which I think two of you represent in different constituencies. </ParaText>
+              <ParaText id="8898543">One of you represents a riding in Saskatchewan, where my dad was born. Although I grew up in Alberta and I got my undergrad degree from the University of Alberta, I attended Bishop's University in Sherbrooke, Quebec, on exchange for a year; I learned to love Quebec. One of you has a degree from the University of Toronto, which is where I earned my Ph.D. studying our justice system.</ParaText>
+              <ParaText id="8898544">The motion that set up today's meeting asks whether changes are needed to the Conflict of Interest Act regarding the disclosure of assets of public office holders and whether changes are needed regarding blind trusts or ethics screens. In his annual report for 2024-25, Commissioner Konrad von Finckenstein made recommendations for changes, which I agree with and will discuss in more detail in a few minutes.</ParaText>
+              <ParaText id="8898545">I'd like to begin by emphasizing that the principle of mutual respect is the fundamental principle underlying all ethics standards in successful democracies. Mutual respect also underlies our basic constitutional principles of the rule of law, legislative supremacy and fundamental justice. </ParaText>
+              <ParaText id="8898546">The precise application of these principles based on mutual respect cannot be etched in stone but evolves over time. Sometimes the evolution is positive as we achieve higher levels of civilized behaviour; sometimes it's negative as we abandon the lessons of history because of ignorance, hubris or human frailty.</ParaText>
+              <ParaText id="8898547">I'd like to let you know how I became engaged in the study of ethics in politics. </ParaText>
+              <ParaText id="8898548">My interest in these subjects was kindled in 1968, when I was the campaign manager for Bob Thompson, who had jumped ship from the Social Credit Party to the Progressive Conservatives. My two qualifications for this job were that I had just finished the second year of a political science degree and my dad was Bob's dentist. I was 20—too young to vote in those days, but not too young to learn about the challenges of ethics in politics. I spent at least 10% of my time as campaign manager trying to stop unethical behaviour by either my campaign workers or those of other parties.</ParaText>
+              <ParaText id="8898549">In 1972, I was the assistant to an Alberta cabinet minister. He was the chair of an all-party legislative committee investigating whether discriminatory legislation aimed at the Hutterian Brethren could be legally or ethically justified. The committee concluded that discrimination could not be justified, and a liaison committee was set up to promote mutual respect. It worked.</ParaText>
+              <ParaText id="8898550">A few years later, my Ph.D. at the University of Toronto centred on how to improve the justice system by minimizing unnecessary delays. I've always considered unnecessary delay in courts an ethics issue.</ParaText>
+              <ParaText id="8898551">I was hired at York University in 1985 to teach courses on the Charter of Rights, public administration and public service ethics.</ParaText>
+              <ParaText id="8898552">The late 1980s was a time of numerous political scandals federally, provincially and municipally in Canada that I feared threatened our democracy. In our country, it was a period of polarization and venom not unlike what is currently going on in the U.S. I conducted a study of media stories about conflicts of interest in federal, provincial and municipal politics. I had to take breaks from my study because after reading hundreds of media stories about conflicts of interest, I often felt sick.</ParaText>
+              <ParaText id="8898553">In 1987, the Ontario government appointed John Black Aird, the former lieutenant governor, to investigate and report. He recommended the creation of Canada's first independent ethics commissioner. Aird wrote that most people in public life think they behave ethically, but they don't always understand ethical standards in the same way. He wrote that an independent ethics commissioner is necessary to clarify the standards and to advise and support members of the legislative houses.</ParaText>
+              <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+              <ParaText id="8898554">After further research, I found that after the appointment of Ontario's independent ethics commissioner in 1988, conflict of interest scandals in Ontario became stunningly less frequent. As well, MLAs eventually came to see the commissioner as a friend—someone who, through sound advice, would keep them from making mistakes.</ParaText>
+              <ParaText id="8898555">I then began to publish articles and books on ethics and, especially, conflict of interest. Since that time, I've written or co-written four books.</ParaText>
+              <ParaText id="8898556">I found that Ontario's model soon spread to all the other provinces, but Parliament was the last holdout. Part of the delay in creating ethics commissioners for the House of Commons and the Senate was caused by an attempt by the Chrétien government to create one commissioner for both chambers. Quite rightly, the Senate objected and held out for a separate commissioner. </ParaText>
+              <ParaText id="8898557">Finally, the Conflict of Interest Act for public office holders, as well as the code of conduct for MPs, came into effect in 2006. The Conflict of Interest Act, the code of conduct for MPs and the Senate conflict of interest regime have substantially reduced the incidence of conflict of interest scandals at the federal level. However, the incidence of conflict of interest scandals for federal cabinet ministers and MPs has been above the provincial level on a proportionate basis.</ParaText>
+              <ParaText id="8898558">Eight provinces require annual meetings between the ethics commissioner and individual members of provincial legislatures. According to my interviews with provincial ethics commissioners, these meetings are critical to prevent conflicts of interest. Required meetings occur in the Canadian Senate, and, according to the former Senate ethics officer, Jean Fournier, they are critical to the success of the Senate ethics regime. </ParaText>
+              <ParaText id="8898559">However, conflict of interest scandals have continued to occur in the realm of Canadian cabinet ministers and MPs of all stripes. My analysis is that this is because compulsory annual meetings between individual cabinet ministers and MPs and someone in the Office of the Conflict of Interest and Ethics Commissioner are not required, but are optional. Currently, there are advisers appointed by the Office of the Conflict of Interest and Ethics Commissioner for every cabinet minister and MP. Is this enough to prevent conflicts of interest, or should there be mandatory meetings between the adviser and MPs, including cabinet ministers? I think this is an important question that you should look into.</ParaText>
+              <ParaText id="8898560">At the September 15 meeting of this committee, the Commissioner stated that the changes to the act to require public office holders to sell assets rather than putting them into a blind trust would be counterproductive. I agree. His comment that this might result in large income tax bills, which would discourage good people from getting into politics, is a good point. Nevertheless, some public office holders will give their trustees the freedom to sell assets and reinvest. What is important is to ensure that an ethics screen is in place to prevent a public office holder from being directly involved in decision-making that might benefit assets that remain in the trust. </ParaText>
+              <ParaText id="8898561">In the case of <Affiliation DbId="314774" Type="1">Prime Minister Carney</Affiliation>, the ethics screen was set up by the Commissioner and is administered by the Prime Minister's chief of staff and the Clerk of the Privy Council.</ParaText>
+              <ParaText id="8898562">First, given Commissioner von Finckenstein's extensive background in business law, the justice system and the Federal Court, I can't think of anyone more qualified to set up an effective screen mechanism.</ParaText>
+              <ParaText id="8898563">Second, in Canada there is a strong tradition that the Clerk of the Privy Council is completely non-partisan, so I think his role in the screen is appropriate. </ParaText>
+              <ParaText id="8898564">The chief of staff is partisan and is trusted by the Prime Minister. I think it is important for the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> to have someone involved in the screen mechanism he can trust to make the trust work, and who will likely advise the Prime Minister out of an excess and an abundance of caution.</ParaText>
+              <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+              <ParaText id="8898565"> In his annual report, the Commissioner made a number of recommendations. He proposed adding a provision for the “appointment of an interim commissioner” when no permanent commissioner has been appointed; “adding apparent conflicts of interest” to the definition of conflicts of interest that must be avoided by public office holders; relaxing provisions regarding certain types of assets; harmonizing “the definitions of 'private interest'” in the act and the code; “expanding allowed outside activities”; and “increasing administrative monetary penalties”.</ParaText>
+              <ParaText id="8898566"> I agree with all of these recommendations and I hope your committee will work to expedite the legislative changes needed to bring them about.</ParaText>
+              <ParaText id="8898567"> I think that the proposed change that you should examine most closely is the one regarding apparent conflicts of interest. </ParaText>
+              <ParaText id="8898568">The current accepted definition of “apparent conflict of interest”, as noted by the Commissioner, is a situation in which “there is a reasonable perception, which a reasonably well-informed person could properly have, that a public office holder's ability to exercise an official power or perform an official duty or function will be, or must have been, affected by his or her private interest or that of a relative or friend.”</ParaText>
+              <ParaText id="8898569">Thirty-five years ago there was a consensus among those studying conflicts of interest that apparent conflicts of interest should not be prohibited, because the definition was too vague. Thinking has changed since that time, mostly because of public outrage over the technicalities of the differences between real and apparent conflicts of interest. Apparent conflicts of interest are prohibited by the code, and it makes no sense that they would not be prohibited by the act as well. </ParaText>
+              <ParaText id="8898570">This leads to another point I'd like to make. Conflict of interest scandals have been more frequent among federal MPs and cabinet ministers than among those at the provincial level. I think this is primarily because in most provinces, elected members are required to meet with their ethics commissioners within two months of being elected and then on an annual basis after that. </ParaText>
+              <ParaText id="8898571">During my career, I've interviewed many of these commissioners. They've all told me how important these meetings are to clarify the conflict of interest rules. The meetings also encourage elected members to consult the commissioner whenever they are unsure about a potential conflict of interest. </ParaText>
+              <ParaText id="8898572">For you, these meetings, in my understanding, are optional. However, every MP and cabinet minister has an adviser appointed by the commissioner. I think it would be worthwhile to look into whether the adviser system needs to be beefed up in some way. Should in-person meetings with the advisers be made compulsory?</ParaText>
+              <ParaText id="8898573">In 1990 to 1991, the Mulroney government established the Royal Commission on Electoral Reform and Party Financing. The commission did great work, which included 12 volumes of research reports. I wrote a paper for the commission about how to determine the maximum amount allowed for individual and corporate donations to candidates and parties. Is it time for another royal commission to look into such complex matters as how to prevent apparent conflicts of interest, how to set up effective blind trusts and how to establish effective ethics screens? These are very complex questions that would benefit from such a thorough study.</ParaText>
+              <ParaText id="8898574"> I study ethics in politics because the more our system is perceived by the public as ethical, the more likely it is that good people like you will get involved in politics. Please keep up the good work.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138845">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898575">Thank you, Mr. Greene, for your opening remarks. </ParaText>
+              <ParaText id="8898576">We're going to go to our rounds of questions now. We're going to start with Mr. Barrett for six minutes, followed by Madame Lapointe.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8898577">Ms. Lapointe will share her time with Mr. Sari.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8898578"> Mr. Barrett, go ahead for six minutes, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138879">
+            <PersonSpeaking>
+              <Affiliation DbId="320173" Type="47">Michael Barrett (Leeds—Grenville—Thousand Islands—Rideau Lakes, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898579">Professor Greene, thanks very much for taking a moment to personalize your appearance today. I appreciate the connection to your father's military service and to the Thousand Islands region, which I have the honour to represent. Of course, I have a kinship with your father through the opportunity that I had to serve as well.</ParaText>
+              <ParaText id="8898580"> I'd also like to quickly observe the photo behind you. That's lovely, and while we've read about your background, I think that photo probably says more than I read in your biography about you, so I appreciate that very much, sir.</ParaText>
+              <ParaText id="8898581"> I have five minutes remaining for questions, so I'd like to get through four, if I could.</ParaText>
+              <ParaText id="8898582">On blind trusts, you mentioned.... Perhaps I could characterize it as a perception of inefficiency in having a designated public office holder sell their assets instead of placing them in a blind trust. During the Commissioner's appearance, which you're familiar with, he said that the trustees generally don't sell what's placed in the trust, so the public office holder knows exactly what went into it.</ParaText>
+              <ParaText id="8898583">Is there an issue with not just the characterization of it being a blind trust, but also with the reality that they and their advisers, their cabinet colleagues and other officials know exactly what went into it?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138882">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898584">Well, that's a very important question. I have talked with a former public office holder who, having very high ethical standards, had told his trustee, “You can sell anything in my trust. I just don't want to know whether my assets are still in there or if they've changed.” Then, after he became free of being a public office holder, he was quite shocked at what had been sold and what he thought was a very poor decision of the trustee about the replacement. </ParaText>
+              <ParaText id="8898585">It's a chance that public office holders take. Having these required divestments—and the blind trust being one possibility in politics—is only about 30 years to 40 years old. We're experimenting. This is why I think it might be good to have a major study of various different systems in Canada and other countries. What works best? What needs to be changed? It's a complex issue. </ParaText>
+              <ParaText id="8898586">Once again, I think the focus is mostly on the screens that have been set up for <Affiliation DbId="314774" Type="1">Mark Carney</Affiliation> and whether they will work. Will they create problems? Only time will tell—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138888">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898587">I'm sorry, Mr. Greene, but Mr. Barrett has a question. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138898">
+            <PersonSpeaking>
+              <Affiliation DbId="320173" Type="47">Michael Barrett</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898588"> You raised the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and his screen. During the most recent campaign, the Prime Minister said—and it was reported on—that he had crafted the Liberal Party platform. Now, at that time he was just exiting his private sector career and of course was very aware of all of the investing that he had done and what was inside the investments and those particular funds that he had created for Brookfield Asset Management. At that time, the screens weren't in place yet, so Mr. Carney's election as leader of his party, his appointment as Prime Minister and then the subsequent election campaign all took place before these measures had been taken, but the political document that underpins the government's policy documents was written by him without any space in between. </ParaText>
+              <ParaText id="8898589">Does the system protect public confidence in our institutions in a case like that? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138903">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898590"> We are never going to get a system that is perfect. We have to experiment. We really have to depend on the integrity of public office holders to make difficult decisions like this. </ParaText>
+              <ParaText id="8898591">My experience of looking at political scandals federally and provincially is that the people we have to worry about are those whose finances are close to the line. They might be tempted to do something unethical to make sure that they have a nest egg when they retire. If someone is very, very well off, they're much less likely to be tempted to benefit themselves, because they're already pretty well off.</ParaText>
+              <ParaText id="8898592"> As I say, you raise legitimate questions, and they're something worth looking into more thoroughly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138909">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898593">Thank you, Mr. Greene. </ParaText>
+              <ParaText id="8898594">Thank you, Mr. Barrett.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8898595">Ms. Lapointe, you have six minutes, and you can share it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138917">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898596">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8898597">Good afternoon, everyone.</ParaText>
+              <ParaText id="8898598">Witnesses, welcome to the Standing Committee on Access to Information, Privacy and Ethics. Thank you for being here.</ParaText>
+              <ParaText id="8898599">Mr. Greene, you just said something about blind trusts. If I understand correctly, you talked about someone who is close to the line. What do you mean by “line”? Are you saying that someone who is more financially constrained would be more likely to break the conflict of interest rules?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138925">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898600">In a blind trust, a trustee has control over all the assets and makes decisions without being in touch with the person who owns the assets.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138935">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898601">I understand very well what you mean by the role of a trustee in a blind trust.</ParaText>
+              <ParaText id="8898602">What I wanted to know is what you meant by someone who is close to the line.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138944">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898603"> What I meant is that they are aware of the assets that went into the blind trust.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138946">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898604">Earlier, it was mentioned that people were aware of what was in the trust. Has anyone taken the time to find out whether, over the years, the trustee has actually made transactions within the trust? Has anyone checked that?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138955">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898605">That's something I assume the Conflict of Interest and Ethics Commissioner would do. The trustee has specific responsibilities. That's certainly at arm's length from the person who owns the assets.</ParaText>
+              <ParaText id="8898606">I'm a trustee for a couple of trusts for handicapped people. I'm aware of my obligations, and they're very, very strict. I want to make sure that I always honour those obligations. If I didn't, I would get into legal trouble. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138963">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898607">The trustees could continue making transactions similar to the person's previous ones, when they were in charge of their investments.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138969">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898608">The trustees look into the financial viability of the assets, from my experience. If they wanted to sell assets and buy new ones, they would look into something similar. The important point is that if they sell the assets, the owner of the assets would not know about the sold assets or new assets.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138975">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898609">Thank you.</ParaText>
+              <ParaText id="8898610">I will now turn the floor over to Mr. Sari.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138983">
+            <PersonSpeaking>
+              <Affiliation DbId="319866" Type="47">Abdelhaq Sari (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898611">Thank you.</ParaText>
+              <ParaText id="8898612">Mr. Greene, thank you for being here. I also want to thank you for taking the time to share your knowledge with us.</ParaText>
+              <ParaText id="8898613">In your opening remarks, you mentioned the Conflict of Interest Code for Members of the House of Commons and the Conflict of Interest Act.</ParaText>
+              <ParaText id="8898614">In your opinion, should the Conflict of Interest Act be much broader and apply to all members? Should the Conflict of Interest Code for Members of the House of Commons be updated to better reflect the standards set out in the act, but also to reflect the very significant changes that have occurred over time?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138987">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898615"> That's a very good question.</ParaText>
+              <ParaText id="8898616">It's very confusing to have sets of rules in the act that differ from those in the code. I think the recommendation that apparent conflicts of interest be included in the act, as they are in the code, makes it slightly less confusing. You folks have to live with the code and cabinet ministers have to live also with the act, so it's really up to you in your experience, in consultation with the Commissioner, to decide whether there should be more of a confluence between the two documents.</ParaText>
+              <ParaText id="8898617">I think it's confusing for the general public to see two different documents and see some reports coming out under the act, others coming out under the code, and some coming out under both. Perhaps there could be a way of merging these in a more seamless manner.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138993">
+            <PersonSpeaking>
+              <Affiliation DbId="319866" Type="47">Abdelhaq Sari</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898618">I read your past testimony, and I saw you also emphasized how important it is for ethics commissioners to be perceived as non-partisan. Do you think that automatically granting the Commissioner of Lobbying an interim role as a replacement in the event of absence, incapacity or a vacant office, as proposed in new section 82(3), could undermine this perception of independence, or would it instead strengthen it?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138997">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898619">I'm sorry; will you repeat that question?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139005">
+            <PersonSpeaking>
+              <Affiliation DbId="319866" Type="47">Abdelhaq Sari</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898620">In your testimony, you talked a lot about the role of the Ethics Commissioner. Do you think that automatically granting an interim role to the Commissioner of Lobbying, through proposed section 82(3), could undermine this perception of independence, or would it instead strengthen it?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139013">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898621"> I think that would support the perception of independence.</ParaText>
+              <ParaText id="8898622">In previous testimonies before this committee, I have argued that when the Conflict of Interest and Ethics Commissioner is selected, it's very important that this person be acceptable to both the government and the opposition, because it's very important for that person to have the trust of both sides of the House.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139020">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898623">Thank you, Mr. Greene.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8898624">Mr. Sari, I gave you a little more time, since you had to repeat your question.</ParaText>
+              <ParaText id="8898625">Mr. Thériault, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139027">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault (Montcalm, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898626">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8898627">Professor Greene, first of all, I'd like to thank you for doing us the honour of being with us and showing so much generosity by accepting the invitation on such short notice.</ParaText>
+              <ParaText id="8898628">I understand that you're in favour of ethics that are more proactive than reactive, that look forward rather than backward. That means not waiting until there are conflicts of interest, but getting ahead of them and providing training and information.</ParaText>
+              <ParaText id="8898629">One part of my political action is to reintroduce ethics into politics, not the other way around. However, the committee still has an obligation to ensure that we set the highest ethical criteria so that the public trusts the work of institutions, including the one we represent.</ParaText>
+              <ParaText id="8898630">You mentioned the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation>, Mr. Carney. Clearly, his situation before he became Prime Minister required more measures to govern at least the appearance of conflict of interest. When there is an appearance of conflict of interest, isn't that a red flag that indicates that a great deal of screening must be done precisely to avoid a conflict of interest?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139037">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898631"> Thank you very much for your question. </ParaText>
+              <ParaText id="8898632">It depends on the individual situation, and I very much agree with you that the approach should be proactive.</ParaText>
+              <ParaText id="8898633">I've interviewed more than 10 provincial ethics commissioners over time, and that's why they have felt that their personal meetings with the elected members are so important: It's because they become familiar with the situation of each individual member through the disclosure statements and, based on their experience, they can look for the possibilities of potential conflicts of interest. They can tell that person, “These are the kinds of things that I would say to be careful about. If you have any questions, come and see me. I want to prevent you from getting into a real conflict of interest situation, whether it's a real situation or a perception of conflict of interest.”</ParaText>
+              <ParaText id="8898634">I don't know much about your system of advisers—how it works and how many of you actually meet your advisers in person and the kinds of advice they give to you—but I think there's a lot of work that your committee could do to see if that system could be improved in some way.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139044">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898635">The current <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> was the head of Brookfield, a company that manages $1 trillion, controls 916 companies and whose interests include the five major areas covered by Bill <Document DbId="13547622" Type="3">C‑5</Document>.</ParaText>
+              <ParaText id="8898636">Without disclosing Mr. Carney's interests in Brookfield and other companies, the screen that is applied to Prime Minister Carney through his chief of staff and the clerk has not been looked into, as far as we know. I asked the Commissioner whether it had, and he didn't answer. Don't you think that's a bit lacking for a conflict of interest screen?</ParaText>
+              <ParaText id="8898637">From an ethical standpoint, don't you think that having held certain positions in the private sector makes a person incompatible with the office of Prime Minister?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139052">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898638">Let me deal with your second question first, because that's a new one that I haven't thought of before.</ParaText>
+              <ParaText id="8898639">I'm an optimist. I think that no matter what someone's background is or has been, everybody should be capable of becoming prime minister, although it's good to have a runway in order to prepare for this, and of course, in the last year, we haven't had much of a runway.</ParaText>
+              <ParaText id="8898640">Can you remind me, please, of what your first question was?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139060">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898641">It was about the Prime Minister's interests in Brookfield.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139066">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898642">Oh, yes.</ParaText>
+              <ParaText id="8898643">We have to see the current—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139073">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898644">The Prime Minister, not just any cabinet minister, makes all the decisions. He sets all the political and economic directions. Even though there is a blind trust and the Prime Minister doesn't know how much money he's going to earn, the decisions he makes will necessarily increase his assets. He knows that, even if he doesn't know the amount.</ParaText>
+              <ParaText id="8898645">Do you think the conflict of interest screen that was applied is sufficient?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139081">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898646">Can we get a brief response, Mr. Greene, please?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139091">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898647">There will be some situations when perhaps the chief of staff will say to the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation>, “This particular piece of legislation, I'm afraid, might affect significantly the value of your assets that went into the trust.” Maybe for this particular thing, it's time to actually go beyond the screens to disclose what is still in the trust and say, “This is what I've done. This is my decision. I've recused myself and I leave it up to the public to decide whether I've done the right thing.”</ParaText>
+              <ParaText id="8898648">There may well be some difficult decisions to make in the future about this, but once again, these are complex questions, and I really hope that there will be further studies about them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139099">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898649"> Thank you, Mr. Greene.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8898650">Thank you, Mr. Thériault.</ParaText>
+              <ParaText id="8898651">That concludes the first round. We will now begin the second round.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8898652">Michael Cooper, you have five minutes. Go ahead, sir. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139588">
+            <PersonSpeaking>
+              <Affiliation DbId="320172" Type="47">Michael Cooper (St. Albert—Sturgeon River, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898653">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8898654">Professor Greene, I'd like to ask you some questions about ethics screens that can be set up by the Ethics Commissioner, pursuant to section 29 of the act, in respect of public office holders.</ParaText>
+              <ParaText id="8898655">At the end of your opening statement, you spoke of the importance of public confidence in the robustness of our ethics laws. In that regard, there has been some criticism of ethics screens from the standpoint of transparency, insofar as they effectively enable a public office holder to get around the reporting requirements under subsection 25(1) of the Conflict of Interest Act, which requires a public office holder to publicly report each occasion that they recuse themselves in order to avoid a conflict of interest.</ParaText>
+              <ParaText id="8898656">I'd be interested in your thoughts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139592">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898657"> In my past life, when I worked for the Alberta government, my wife was an auditor, and she sometimes was asked to audit some of the agencies that I was responsible for. Ethics screens had to be set up for both of us, so I understand being covered by an ethics screen. You have to ask a lot of hard questions about the specific situations. It's hard to generalize about them, but in the end, I think it's up to the integrity of the people involved to make sure that they're trying to make decisions that are as impartial as possible and are in the public good.</ParaText>
+              <ParaText id="8898658"> You have to be able to defend your actions as being ethical and in the public good, and there isn't a perfect cast-in-stone solution. It depends on each individual situation.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139595">
+            <PersonSpeaking>
+              <Affiliation DbId="320172" Type="47">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898659">I think what you have said, and what I understand you to have said, is that we are, with respect to the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation>'s ethics screen, for example, to simply trust the Prime Minister and also the Clerk of the Privy Council and the Prime Minister's chief of staff, both of whom serve at the pleasure of the Prime Minister.</ParaText>
+              <ParaText id="8898660"> Can you understand that many Canadians, from the standpoint of having confidence that the ethics screen is working, might find that wanting?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139600">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898661">I think that many Canadians don't understand the difference between a potential conflict of interest and a real conflict of interest.</ParaText>
+              <ParaText id="8898662"> All of you—and I'm sure you yourself—have found yourself in a potential conflict of interest. There's no corruption involved in that. It's simply part of life. You have to take appropriate measures to make sure potential conflicts don't become real conflicts or apparent conflicts. If you don't take those steps, or other people don't advise you to take those steps, then there's trouble.</ParaText>
+              <ParaText id="8898663">Many Canadians see potential conflicts of interest on the horizon for <Affiliation DbId="314774" Type="1">Prime Minister Carney</Affiliation> because of who he is and his background, but there are many—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139603">
+            <PersonSpeaking>
+              <Affiliation DbId="320172" Type="47">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898664">If I may, sir, what's lacking is transparency. We're simply left to trust.</ParaText>
+              <ParaText id="8898665">Again, I think that is problematic, and again, how is that better than simply requiring that the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> publicly disclose, publicly report, each and every time a conflict of interest or potential conflict of interest arises with respect to Brookfield or any of the companies—the 89 companies—that are part of that vast ethics screen?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139609">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898666">Yes, it's a very complex question, because that sort of information might create problems on its own. There may be dishonest people who want to try to impress the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> by investing in those assets. There may be foreign governments that may try to influence Canada by investing in the Prime Minister's confirmed assets. There are all kinds of problems that could result from being overzealous.</ParaText>
+              <ParaText id="8898667"> I think the system we have right now, based on our 40 years of experience with these kinds of things, works as well as it can. It's not perfect. There will need to be changes made in the future. </ParaText>
+              <ParaText id="8898668">As I say, these are such complex questions. Maybe it's time for a royal commission to look into them more thoroughly. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139614">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898669"> Thank you, Mr. Greene. Thank you, Mr. Cooper.</ParaText>
+              <ParaText id="8898670">Ms. Church, go ahead, please, for five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139621">
+            <PersonSpeaking>
+              <Affiliation DbId="319869" Type="47">Leslie Church (Toronto—St. Paul's, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898671">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8898672">Dr. Greene, thank you for being with us today, and thank you for acknowledging, I think, the shared fond memories we have of being at two great institutions in Canada, the University of Alberta and the University of Toronto, which are also my alma maters. </ParaText>
+              <ParaText id="8898673"> I think it's significant that Parliament enumerated, within the objectives of the Conflict of Interest Act, that the very purpose of the act included an objective to, “(d) encourage experienced and competent persons to seek and accept public office; and (e) facilitate interchange between the private and public sector.”</ParaText>
+              <ParaText id="8898674">Can you talk a little about why you think those objectives might be an important piece to the framework that we're discussing today?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139627">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898675">We want people who have a broad range of experience in many different sectors of society to get involved in public life. To create rules that are unnecessarily strict, to the point that they discourage good people from getting involved in politics, I think is counterproductive. </ParaText>
+              <ParaText id="8898676">It's important to have rules that are strong enough so that most Canadians think that the people getting involved in politics have high ethical standards. I mentioned the Royal Commission on Electoral Reform and Party Financing, which reported in 1991. One of the exercises that we undertook was to have a couple of days of meetings with representatives of all the parties. I think we chose five women and five men from every party that existed in 1991 to talk about ethics and about how to promote ethics. </ParaText>
+              <ParaText id="8898677">One thing I remember from those two days of meetings with the equal number of men and women is that many women said that they were reluctant to get involved in politics because the ethical standards were so low and that if there were stricter standards, more women would get involved in politics. The men tended to be of a different point of view—if you're too strict, you'll keep too many good people out—so it's a question of finding a balance.</ParaText>
+              <ParaText id="8898678">As I said, I am interested in studying ethics in politics because I want Canadians to have a high opinion of people who get involved in politics. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139632">
+            <PersonSpeaking>
+              <Affiliation DbId="319869" Type="47">Leslie Church</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898679">If it's important to have a framework, a strong and trusted framework, and a blind trust was created in that vein, then in your view, what are some of the indices of what would make a strong trust, such as the terms of the trust and the requirements that are built in when one establishes a trust? What do you think gives this system its strength?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139637">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898680">I think that having trustees who have integrity and who can be trusted to manage the affairs competently and ethically is important. I think it's important to have people helping with the screens, such as the Clerk of the Privy Council, to make sure that the screens are working properly. That's a big job. I hope the Clerk of the Privy Council has some assistance with regard to that. </ParaText>
+              <ParaText id="8898681">Anyway, we will see how the current system works, but I think it's really important for you, on this committee, to try to make sure that there are high standards that Canadians have trust in. </ParaText>
+              <ParaText id="8898682">Getting back to the royal commission, some of the male participants in that two-day conference said that they didn't want higher ethical standards because their opponents would use them to criticize them. That would be unethical, so I think it's important to make sure that ethical standards are used to make sure that the system is as ethical as possible and is not used to jump on your opponents. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139642">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898683"> Thank you, Mr. Greene. </ParaText>
+              <ParaText id="8898684">Thank you, Ms. Church.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8898685">Mr. Thériault, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139650">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898686">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8898687">Professor Greene, it's often said that public office holders, such as the Prime Minister, would just have to recuse themselves when a decision had to be made that could affect their holdings in a blind trust. I imagine that will happen quite often when Bill <Document DbId="13547622" Type="3">C‑5</Document> is implemented. If someone has to recuse himself 60, if not 100 times during his term, is he in the right job?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139658">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898688">I'm not sure that recusal would be necessary that frequently. I'm familiar with the kind of business that Parliament does. I just don't think it would happen all that frequently. </ParaText>
+              <ParaText id="8898689">Keep in mind that the Minister of Finance—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139665">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898690">In this case, what do you think would be an acceptable number of times the Prime Minister can recuse himself when he is the one who decides on the country's economic policies? We know very well that it's tricky when the Prime Minister recuses himself but his chief of staff stays in the room. I don't think the cabinet would make a decision that goes against the interests of the person leaving the room. He's not just a minister; he's the Prime Minister, who has absolute power over everybody in the room who is going to make the decision.</ParaText>
+              <ParaText id="8898691">Should we have stricter requirements and means to regulate the current scenario? It is unusual in terms of managing conflicts of interest and a case study that would be very interesting to academics.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139674">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898692">Keep in mind that legislation that has a general impact on the public doesn't lead to individual conflicts of interest. For example, you might be able to argue that the Minister of Finance has a conflict of interest when bringing down tax legislation, but because taxes affect everyone, including the Minister of Finance, there's no real conflict of interest there. I think most legislation that the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> would deal with would have that general application, affecting the Prime Minister's assets only incidentally. </ParaText>
+              <ParaText id="8898693"> I just don't think that there would be recusal very often. I would guess a couple of times a year at the most.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139680">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898694">Personally, I don't think so.</ParaText>
+              <ParaText id="8898695">Let's look at the situation with Bill <Document DbId="13547622" Type="3">C‑5</Document>. Brookfield has interests in the railways covered by the bill, in natural gas processing, in pipelines and in nuclear power plants. Westinghouse is owned by Brookfield. Nuclear energy will be used to build small nuclear power plants. The day we decide to move forward, which will happen because the policy was adopted under a gag order in the House, we know full well that all these interests will be on the table again.</ParaText>
+              <ParaText id="8898696">That means that, ethically, the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> should say that Westinghouse cannot bid on contracts. I would not be happy if I were currently at Brookfield. Ethically speaking, all this means that there will eventually be conflicts of interest, not just apparent ones. The Prime Minister is the one who decides; the minister who leaves the room is not just one among many. The Prime Minister can also make the decision and see if it would be an abuse of the public trust. This is an unusual scenario. Never mind any doubts about this person's merit or criticisms of the way he manages Canada. The fact remains that, from an ethical standpoint, this is unprecedented.</ParaText>
+              <ParaText id="8898697">First, shouldn't everyone know about the screens that have been put in place, for the sake of transparency? Second, are these screens sufficient?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139684">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898698"> Unfortunately, I need a very quick response, Mr. Greene.</ParaText>
+              <ParaText id="8898699">Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139690">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898700">I still think that Bill <Document DbId="13547622" Type="3">C-5</Document> should be considered a matter of general application. I would not be convinced that there are potential conflicts of interest here.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139696">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898701">Thank you, Mr. Greene.</ParaText>
+              <ParaText id="8898702">Go ahead, Mr. Hardy, for five minutes, please. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139705">
+            <PersonSpeaking>
+              <Affiliation DbId="320171" Type="47">Gabriel Hardy (Montmorency—Charlevoix, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898703">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8898704">Good afternoon, Mr. Greene.</ParaText>
+              <ParaText id="8898705">I have a quick question for you. Are there any countries, such as the United Kingdom, Australia and Scandinavia, whose democratic structure might be worth looking at? Could we learn from them or other similar jurisdictions, particularly in terms of sanctions and transparency, to see whether Canada's approach to ethics is improving?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139711">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898706">It's always worthwhile looking at other countries. The countries you mention have all learned from Canada. We were really at the forefront of improving standards of ethics in politics, beginning in the late 1980s, but those countries have sometimes made advances beyond where we are.</ParaText>
+              <ParaText id="8898707">I know that ethics commissioners, including your Conflict of Interest and Ethics Commissioner, have their own networks. In addition to looking at best practices from one another, they look at other countries, and they often have speakers from other countries talking about this.</ParaText>
+              <ParaText id="8898708">Yes, it is worthwhile keeping abreast of this.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139717">
+            <PersonSpeaking>
+              <Affiliation DbId="320171" Type="47">Gabriel Hardy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898709">You said that the conflict of interest and lobbying rules had improved a lot since the 1990s, but that there were still obvious shortcomings.</ParaText>
+              <ParaText id="8898710">The Prime Minister has interests in hundreds of companies the government is going to do business with. In your opinion, given that scenario, what would be the most urgent ethics priority to examine in 2025? We need to rebuild public trust in our institutions, but we also need to make sure we have proper oversight and are in a good position going forward.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139721">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898711">We want to make sure that there aren't conflict of interest scandals—proven, real conflicts of interest. It's going to be very important for the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and his advisers to make sure that those kinds of situations are avoided. Because the ethics screens have been put in place for the Prime Minister, I think they will be avoided.</ParaText>
+              <ParaText id="8898712">What concerns me is that other cabinet ministers may not be as well informed. That's why I think that all cabinet ministers should meet in person with the Conflict of Interest and Ethics Commissioner to better understand the rules, just to keep them out of trouble.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139727">
+            <PersonSpeaking>
+              <Affiliation DbId="320171" Type="47">Gabriel Hardy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898713">Do you think we should expand the scope of the Conflict of Interest Act so that it also applies to the appearance of conflict of interest? When there is an apparent conflict, should we be able to start an ethics investigation or should we always wait for a conflict of interest to be declared before taking action?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139731">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898714">I think that the Conflict of Interest and Ethics Commissioner should advise how elected MPs and cabinet ministers can avoid apparent conflicts of interest as well as real conflicts of interest. The public doesn't understand the difference between the two; it's pretty arcane for them. If you're found to be in an apparent conflict of interest, in the public eye, it's almost as bad as being in a real conflict of interest, and sometimes worse. </ParaText>
+              <ParaText id="8898715">Yes, I think the act should include both. The penalties for being in an apparent conflict of interest shouldn't be as severe as those for being in a real conflict of interest, but I think all politicians need to make sure that they avoid those as well.</ParaText>
+              <ParaText id="8898716">As I mentioned earlier, it's something your committee should look into. If the act is going to be amended to include apparent conflicts of interest, it's important to know how this can be done in the most effective way.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139735">
+            <PersonSpeaking>
+              <Affiliation DbId="320171" Type="47">Gabriel Hardy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898717">A little earlier, my colleague asked you whether, in the event of an apparent conflict of interest, the Ethics Commissioner is the person who is entitled to say whether or not there is a real conflict of interest. There could be a lot of them with all the businesses that may be subject to federal decisions.</ParaText>
+              <ParaText id="8898718">Do you think that, at some point, that person could end up overwhelmed by the number of cases to be processed and could, by necessity, let a few slip by? Do you see that as something that could happen, given the current structure of the Ethics Commissioner's office and the way things work in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139739">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898719"> I'm going to need a quick response to that, Mr. Greene. I will give you a little bit of time. Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139745">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898720">The Ethics Commissioner has nearly 60 people to help with the various duties of the office. It's a very complex office. I would rely on the annual reports of the commissioner as to what changes might be helpful to make it work more effectively.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139750">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898721">Thank you, Mr. Greene.</ParaText>
+              <ParaText id="8898722">We're going to conclude today with Mr. Saini for five minutes.</ParaText>
+              <ParaText id="8898723">Go ahead, Mr. Saini.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139756">
+            <PersonSpeaking>
+              <Affiliation DbId="319867" Type="47">Gurbux Saini (Fleetwood—Port Kells, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898724">Professor Greene, this whole afternoon we have been focused on only one thing, the <Affiliation DbId="314774" Type="1">Prime Minister of Canada</Affiliation>. I find it disturbing that we are looking for people who have never done any business to be the public office holders of the most effective office in this country. I find that disturbing.</ParaText>
+              <ParaText id="8898725">Besides that, my question to you is this: If someone who is holding a public office has to divest their entire investment portfolio when entering public life, could they choose the option of utilizing a blank trust?</ParaText>
+              <ParaText id="8898726">Could you give your opinion?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139761">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898727">I think it's counterproductive for public office holders to divest everything.</ParaText>
+              <ParaText id="8898728">I once worked for a cabinet minister in Alberta. At that time, Peter Lougheed was the premier. At that time, in 1972, he required all his cabinet ministers to sell all their stocks and bonds, including my minister, who had to sell his penny stocks and bonds. I think that was overreach, but in those days we hadn't thought of better ways of preventing real conflicts of interest. We were in the early days.</ParaText>
+              <ParaText id="8898729">I think the current regime is much better. It makes it more attractive for good people to get involved in politics.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139765">
+            <PersonSpeaking>
+              <Affiliation DbId="319867" Type="47">Gurbux Saini</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898730">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139770">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898731">I have a question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139775">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898732">If you're going to share your time, we have three minutes and 15 seconds.</ParaText>
+              <ParaText id="8898733">Who's going ahead?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139778">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898734">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8898735">Professor Greene, if we were to review the way the Conflict of Interest and Ethics Commissioner is appointed, would you have any suggestions for us on how to go about it?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139780">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898736">Yes. In most of the provinces there is a legislative committee composed of members of all parties. They advertise for the position of ethics commissioner. They interview the best candidates. In some cases, the candidates being interviewed will say that they won't accept the position unless the decision to recommend them is unanimous. It's so important for the commissioner to have the trust of both sides of the House.</ParaText>
+              <ParaText id="8898737">I think it would be useful for you to look at what's done in most provinces in choosing the ethics commissioner and maybe think about changing the federal procedure.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139784">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898738">Thank you for that information.</ParaText>
+              <ParaText id="8898739">Earlier, one of my colleagues talked about other countries that we could learn from, such as the United Kingdom. Which countries could we learn from when it comes to having the best ethical standards within our current laws?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139787">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898740">I believe it's Tanzania that requires all political parties to have their own codes of conduct, and they have to be approved by an ethics commissioner, I believe. I think that would be a way forward.</ParaText>
+              <ParaText id="8898741">The royal commission on electoral reform, back in 1991, recommended that every political party in Canada develop its own code of conduct. Very few have. The Quebec Liberal Party is one of the few, and they did it only because they were trying to recover from scandals.</ParaText>
+              <ParaText id="8898742">You can't have everything controlled by the Ethics Commissioner: The parties themselves have to buy into ethics principles. They need to develop their own codes of conduct.</ParaText>
+              <ParaText id="8898743">The process of developing a code of conduct is very educational. I think a requirement for all parties to have their own codes of conduct that would be approved by the Ethics Commissioner so that they're serious and enforceable would be a step forward.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139791">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898744">Thank you very much for being here. We appreciate your sharing your knowledge with us.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139794">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898745">Thank you, Ms. Lapointe.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8898746"> That concludes our testimony from our witness today.</ParaText>
+              <ParaText id="8898747">Mr. Greene, I want to thank you, sir, for preparing for this meeting. It was a very rapid response to the invitation from the clerk. I know we sent out numerous invitations, and there were many people who said they needed more time to prepare. Obviously, you've done this, and I really appreciate that you've taken the time to be with the committee today. Thank you, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139799">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898748">You're very welcome, and thank you for inviting me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139801">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898749">I don't have any other business, so I adjourn the meeting.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

@@ -1,0 +1,2001 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13166099">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, October 8, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 8 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 8, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 007</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">08</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/08 16:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'industrie et de la technologie</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Acronyme">INDU</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Ben Carr</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote">PUBLIC PART ONLY - PARTIE PUBLIQUE SEULEMENT</ExtractedItem>
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166102">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair (Ben Carr (Winnipeg South Centre, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931706"> Good afternoon, everybody. Welcome. </ParaText>
+              <ParaText id="8931707">Here we are again, meeting for the second time on our defence industrial strategy study. This is meeting number seven of the Standing Committee on Industry and Technology.</ParaText>
+              <ParaText id="8931708">This is a friendly reminder to protect the health and well-being of our interpreters. If you are using your earpiece, and if it's plugged in and not on your ear, please place it on the sticker in front of you. If it's not plugged in, don't worry about that. That's just relevant to those who have tables in front of them.</ParaText>
+              <ParaText id="8931709">Colleagues, we're going to try to be effective and efficient today, as always. We have two witnesses with us here for the first hour of our meeting. </ParaText>
+              <ParaText id="8931710">From the Office of the Parliamentary Budget Officer, we have the interim Parliamentary Budget Officer himself, Jason Jacques. We also have Christopher Penney, senior adviser, from the PBO.</ParaText>
+              <ParaText id="8931711">Mr. Jacques, the floor will be yours for upwards of five minutes. </ParaText>
+              <ParaText id="8931712">Following that, we will get into a line of questioning. Each member of the affiliated political parties here has an allotted amount of time. We'll begin with our colleagues from the Conservative Party and then go around the table. </ParaText>
+              <ParaText id="8931713">If you have any questions at any point, you are certainly welcome to pose those to me. Otherwise, I'm going to let us get going.</ParaText>
+              <ParaText id="8931714">Mr. Jacques, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166115">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques (Interim Parliamentary Budget Officer, Office of the Parliamentary Budget Officer)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931715"> Thank you.</ParaText>
+              <ParaText id="8931716">Good afternoon, Mr. Chair and committee members.</ParaText>
+              <ParaText id="8931717">Thank you for the invitation to appear before you today. We're pleased to be adding content to the study of Canada's industrial defence strategy.</ParaText>
+              <ParaText id="8931718">With me today I have senior advisor Christopher Penney, our office lead on the defence file.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8931719"> In accordance with our legislative mandate to provide impartial independent analysis to help you fulfill your constitutional role of holding government accountable, our office prepares reports and analyses on the fiscal implications of Canada’s defence spending and major procurement programs.</ParaText>
+              <ParaText id="8931720">In May 2022, we published our independent assessment, “The Industrial and Technological Benefits Policy: An Analysis of Contractor Obligations and Fulfillment”. This report analyzes transactions and investments under the industrial and technological benefits policy, also known as the ITB policy, for Canadian defence and security procurement.</ParaText>
+              <ParaText id="8931721">Based on our analysis, we found that transactions under this policy for the period of 2015-19 totalled $18.3 billion. Of this amount, we found that almost half related to transactions that were not directly related to the production of military equipment purchased by Canada.</ParaText>
+              <ParaText id="8931722">Furthermore, our analysis found that Canadian-owned firms accounted for about one-third of the total dollar value of ITB transactions with large partner firms.</ParaText>
+              <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8931723">We'll now answer your questions regarding our analysis of the industrial and technological benefits policy or other work done by the Office of the Parliamentary Budget Officer.</ParaText>
+              <ParaText id="8931724">Thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166131">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931725">Thank you very much, Mr. Jacques.</ParaText>
+              <ParaText id="8931726">Mr. Guglielmin, the floor is your for six minutes, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166132">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin (Vaughan—Woodbridge, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931727">Thank you both for being here today.</ParaText>
+              <ParaText id="8931728">Mr. Jacques, your economic and fiscal outlook doesn't include the NATO commitment of 5% of GDP on defence by 2035. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166134">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931729">That is correct.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166137">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931730">Your outlook then didn't include the full picture of Canada's fiscal position, considering that it not only didn't include the 5%, but also didn't include a large portion of the Liberal campaign promises.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166140">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931731">It's important to look at the other side of what was also not included. We also did not include the potential savings from the comprehensive expenditure review currently being undertaken by the government. That could potentially offset some of the additional fiscal costs that will be incurred by the government. As well, with respect to the NATO 5%, something which I mentioned at the government operations committee, one of the major reasons we didn't include the ramp-up from 2% to 5% is that there is the potential for dual-use infrastructure. As to the extent to which Canada is already spending on infrastructure, under the new NATO 5% commitment that might be eligible as part of the new 5%, we don't know what that precisely looks like at this point.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166144">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931732">You also said in some of your assumptions that you made around this that the countermeasures that were in effect on September 5 would remain in place. There were some assumptions that the Canadian tariffs on goods from the U.S. will be gradually phased out. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166148">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931733"> That's correct.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166149">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931734">We learned today that not only do we not have a deal with the U.S. yet, but news out of the U.S. today said auto tariffs are going to remain in place. This means that potentially the outlook could be worse than anticipated.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166152">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931735">It potentially could be worse. It potentially could be better. It's a very dynamic environment, and it's something—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166155">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931736">That's fair enough.</ParaText>
+              <ParaText id="8931737">Given that the federal deficit is projected to be $68.5 billion this year and that Canada has an unsustainable debt trajectory, as you had mentioned, even before accounting for the very much-needed defence spending increase, to your knowledge, should Canadians be at all concerned that Canada might not be able to meet these important critical NATO defence commitments and potentially risk not keeping our commitments to our troops or allies?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166165">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931738">With respect to the key question of sustainability, the debt-to-GDP ratio for the country cannot rise in perpetuity. What I pointed out at the government operations committee was that this is the first time in a long time that we've seen an upward trajectory for the debt-to-GDP ratio. Obviously, the government's aware of that and the government has space at this point to manage it.</ParaText>
+              <ParaText id="8931739">The key point and I think the key takeaway that I highlighted was that it's a very challenging fiscal situation owing in large part to factors outside of the government's control and to external factors outside of the country at this point. </ParaText>
+              <ParaText id="8931740">Yes, absolutely, it raises challenges for the government to make really important trade-offs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166177">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931741">Given your stark warning that it's not a funny outlook, that it's unsustainable and shocking, what concrete fiscal adjustments would you think the government might need to make so that we can meet this very necessary and critical NATO defence spending commitment, and what happens if we don't make the adjustments required, just from a purely fiscal perspective?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166182">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931742">I think, as I mentioned at previous committees, generically there end up being two options for the government, or any government, around budgeting: You can make adjustments on the expense side or you can make adjustments on the revenue side. Fundamentally, it does come down to a question of trade-offs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166185">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931743">It's cut spending or raise taxes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166189">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931744">It's the same way that people would manage a household. You can't buy everything you want. You can't get everything you want. You have limited means. The government, like any household in this situation, is going to have to make trade-offs, just as Canadians need to make trade-offs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166221">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931745">Your report highlights that debt interest charges will cost taxpayers $55.3 billion this year, already exceeding health care transfers. It will rise to $82.4 billion by 2030.</ParaText>
+              <ParaText id="8931746">If we add this very important and critical NATO spending on top of this, what effect would this have on debt servicing costs?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166225">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931747">Obviously, if you spend more money without a commensurate increase on the revenue side, then potentially you would need to raise that money through debt financing. If you raise it through debt financing, then you're going to be paying higher debt interest costs.</ParaText>
+              <ParaText id="8931748">Again, something that I mentioned at the committee previously is that it's a forecast; it's not the future. If I were perfectly clairvoyant, I would be retired on a Pacific island with a helicopter pad at this point. I'm not, and the mandate of the office is to ensure that we are putting numbers into the public domain and making them available to parliamentarians so they have a sense of what the status quo looks like. I'm very optimistic that the status quo will not come to pass.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166234">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931749">I want to ask a question related to our other study on capital flight and productivity.</ParaText>
+              <ParaText id="8931750">As mentioned, the federal deficit is now projected to reach $68.5 billion this year under <Affiliation DbId="314774" Type="1">Prime Minister Mark Carney</Affiliation>. It's a significant jump from the $42.2 billion projected in the 2024 fall economic statement under former prime minister Trudeau. At that time, the $42.2 billion was so alarming that finance minister <Affiliation DbId="317725" Type="2">Chrystia Freeland</Affiliation> resigned over it. </ParaText>
+              <ParaText id="8931751">What does this sharp increase to the deficit say about Canada's fiscal sustainability moving forward? That sustainability affects investment, business confidence and overall productivity in the market.</ParaText>
+              <ParaText id="8931752">You'll have to be quick.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166239">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931753">I think a large part of the deteriorating deficit situation is just a natural reflection of what happens when the economy hits a period of uncertainty, the labour market becomes more challenging and automatic federal supports kick into place. People lose their jobs, unfortunately, and employment insurance is there to help them out and give them some sort of support. Inversely, the flip side of that on the revenue side is that when people lose their jobs, they're not paying personal income taxes, so you would expect automatically to see the deficit situation deteriorate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166245">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931754"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166247">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931755">Thank you, Mr. Guglielmin.</ParaText>
+              <ParaText id="8931756">Ms. Acan, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166248">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan (Oakville West, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931757">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8931758">Mr. Jacques, our government is making deliberate and targeted investments in Canada's strategic industries, from clean technology to advanced manufacturing, with the goal of building a more innovative and resilient economy. These are not short-term expenditures, but forward-looking investments designed to strengthen our industrial capacity and ultimately reinforce our long-term fiscal sustainability. Specifically, defence investments are critical to securing the safety of Canadians in a challenging global landscape. I believe you and fellow committee members agree with that.</ParaText>
+              <ParaText id="8931759">Given that Canada continues to maintain one of the lowest debt-to-GDP ratios among the G7 economies, would you agree that Canada retains fiscal credibility and the necessary fiscal room to pursue these kind of strategic, growth-oriented, national defence investments, particularly when they are tied to innovation, long-term economic outcomes and the security of our nation?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166257">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931760">Thank you for the question.</ParaText>
+              <ParaText id="8931761">In response to it, I would start with a quote from the 2024 fall economic statement on page 38, which at that point indicated the following:</ParaText>
+              <ParaText id="8931762">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">The government is committed to its fiscal anchor: to reduce the federal debt-to-GDP ratio over the medium-term. This metric is key not only for fiscal sustainability, but also to preserve Canada's AAA credit rating, which helps maintain investors' confidence and keeps Canada's borrowing costs as low as possible.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166263">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931763">I'm asking specifically for defence investments because there are advanced manufacturers, engineering companies and aerospace and defence manufacturers in my riding of Oakville West. That's why I would like to hear your input on this question on defence investment.</ParaText>
+              <ParaText id="8931764">Do you not agree that these investments are actually not expenditures, but investments to bring jobs and more manufacturing to Canada and to increase our productivity?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166271">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney (Senior Advisor, Office of the Parliamentary Budget Officer)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931765"> I would respond by saying that we haven't conducted such an analysis at our office to determine whether these investments are a net gain or a net loss, for instance. </ParaText>
+              <ParaText id="8931766">Of course, with any investment in the defence industry, you have to compare that against what could have been done with that money otherwise. Could it have been invested in social policies? Could it have been in tax cuts? Could it have been anything else?</ParaText>
+              <ParaText id="8931767">We haven't conducted a report on that. We wouldn't want to speak authoritatively in providing a response.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166277">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931768">How can we ensure that we have the right metrics or measurement framework in place to evaluate the long-term outcomes of defence investments, not just in terms of immediate spending, but with respect to economic growth and productivity gains?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166279">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931769">I would say that defence investments are included in our economic modelling thus far. It's certainly something we want to look at in more detail going forward. </ParaText>
+              <ParaText id="8931770">Of course, with the increased defence expenditures planned to reach 5%, or 3.5% of actual defence and 1.5% ancillary defence, by 2035, we want to know and people want to know what the economic impact of this increased defence expenditure will be. Yes, we will certainly deign to model those economic impacts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166283">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931771">Thank you.</ParaText>
+              <ParaText id="8931772">Canada's defence industry undertakes 3.4 times more research and development than the manufacturing sector. It employs 2.5 times more STEM workers.</ParaText>
+              <ParaText id="8931773">When modelling the economic impact of the defence industrial strategy, what key assumptions are necessary to fully capture the productivity uplift associated with this high level of specialized research and development, and capacity reuse?</ParaText>
+              <ParaText id="8931774">How would these benefits compare to modelling conventional industrial or infrastructure spending where research and development intensity may be lower?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166290">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931775">I would say that it's a matter of course that investments in the defence sector would tend to have a greater concentration of, for instance, STEM or other technologically oriented areas. </ParaText>
+              <ParaText id="8931776">As mentioned, we haven't yet conducted a study on this topic. It is something that we would like to look into in greater detail.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166295">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931777">I may be repeating myself here, but would you please answer?</ParaText>
+              <ParaText id="8931778">With Canada committed to increasing defence spending through the new defence industrial strategy, what would the cost of inaction on this file be? How might an increased reliance on foreign supply, missed innovation opportunities or an immature industrial supply chain impact Canadian opportunities and development in the coming years?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166301">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931779"> That's a very good question. It's perhaps the million dollar question actually. </ParaText>
+              <ParaText id="8931780">One of the main reasons you want to invest in your domestic industry is to ensure security of supply in the event of a sustained conflict. Are we there yet? That remains to be seen. If you look at the MSP, the munitions supply program, only half of our munitions are supplied by Canadian firms. Certainly you don't want to get into a situation where you enter into a conflict and you're unable to supply yourself. </ParaText>
+              <ParaText id="8931781">Yes, you can make the argument, or one reasonable person could make the argument, that investments are needed in these areas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166306">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931782">I'm happy to see that you agree that defence investment is a major item that we need to focus on now.</ParaText>
+              <ParaText id="8931783">Thank you so much</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166309">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931784">Thank you, Ms. Acan.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8931785">Mr. Ste‑Marie, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166315">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie (Joliette—Manawan, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931786">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8931787">Good afternoon, Mr. Jacques and Mr. Penney.</ParaText>
+              <ParaText id="8931788">Thank you for agreeing to appear before the committee today to discuss the industrial defence strategy.</ParaText>
+              <ParaText id="8931789">Mr. Jacques, before asking you more specific questions, I want to hear your thoughts on something. The government announced that it will table its budget on November 4. It warned us that some spending would reach record levels. We often hear talk of $100 billion. A new accounting approach would involve keeping government operating expenses very low and placing almost everything in another category.</ParaText>
+              <ParaText id="8931790">Have you looked at the announcements made by the Minister of Finance and the rest of the government regarding this new accounting method?</ParaText>
+              <ParaText id="8931791">In your opinion, where would military spending fall under this new approach? What are your thoughts on this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166321">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931792">Thank you for your questions.</ParaText>
+              <ParaText id="8931793">We saw yesterday's announcement. We're pleased about the government's statement that the current indicators for the debt‑to‑GDP ratio and the deficit‑to‑GDP ratio will remain unchanged. Everything that we've seen in the past will continue. </ParaText>
+              <ParaText id="8931794">At the same time, as you said, the government announced another way of looking at the budget, with an operating budget and a capital budget. This has already been done in Quebec and other Canadian provinces. However, as we said yesterday, the government is proposing a different definition for the capital budget, which would exist only here in Canada. It would be distinct. That gives us some cause for concern. Parliamentarians should opt for a clear and obvious approach that already exists, instead of reinventing something completely new.</ParaText>
+              <ParaText id="8931795">In terms of National Defence spending, given yesterday's announcement, I think that defence infrastructure will be included in the capital budget. Some conceptual issues remain when it comes to increasing productivity with a few military weapons. However, according to the accounting approach, it will be there.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166333">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931796">I want to be sure that I understood correctly.</ParaText>
+              <ParaText id="8931797">You're telling me that all military spending would be considered capital expenditures, not operating budget expenditures.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166336">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931798">That isn't the case for all spending. This applies only in cases where the government will be purchasing goods.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166340">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931799">Good. Thank you.</ParaText>
+              <ParaText id="8931800">If the November 4 budget did indeed include a $100 billion deficit, how much financial leeway would this give Canada for major new military spending programs?</ParaText>
+              <ParaText id="8931801">What would be the impact?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166348">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931802">It's difficult for us to predict. One hundred billion dollars is a large figure, but it's just one figure. We think that it's more important to look at the other figures. One hundred billion dollars is a high figure. However, it's more important to look at the forecasts for other years and the projections for managing the financial gap in the future. This is difficult right now.</ParaText>
+              <ParaText id="8931803">You spoke about military spending. There are other expenditures and other types of significant revenue. It's difficult to calculate the revenue and expenditures.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166351">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931804">Yes, clearly.</ParaText>
+              <ParaText id="8931805">In your opinion, could the additional investments undermine other federal government priorities, taking into account the leeway available?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166353">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931806">As I said, it's always about decisions. Money isn't an inexhaustible resource. You and I must make decisions about our own finances. Canada, the provinces and Canadians must do exactly the same thing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166361">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931807">Good.</ParaText>
+              <ParaText id="8931808">My next question is for Mr. Penney.</ParaText>
+              <ParaText id="8931809">A little less than a year ago, you published the report entitled “The Fiscal Implications of Meeting the NATO Military Spending Target”. </ParaText>
+              <ParaText id="8931810">Can you take a few minutes to tell our committee the areas of concern in your report?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166367">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931811">It is perhaps somewhat ironic to bring up that report, which is now completely moot, as we're now aiming to hit 5% and not 2%. In that report, we found that there would be some violations of the fiscal anchors that were placed at that time, which were the GDP decreasing and deficit to GDP being under 1%. We found that, according to that study, it would violate the deficit to GDP and there would be some period of increasing debt to GDP under those assumptions.</ParaText>
+              <ParaText id="8931812">With the 5%, I am happy to advertise that we are working on a new report that will ascertain the fiscal impact of reaching 3.5% of defence spending plus 1.5% ancillary defence spending by 2035.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166376">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931813">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166377">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931814">Thank you, Mr. Ste‑Marie.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8931815">Madam Dancho, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166379">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho (Kildonan—St. Paul, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931816">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8931817">Thank you, Mr. Jacques and Mr. Penney, for being with us today.</ParaText>
+              <ParaText id="8931818">As you know, this committee is also studying the productivity decline and capital outflow which Canada has been experiencing, unfortunately, for quite some time. Certainly, as you know, on top of these long-standing economic issues in Canada, we're also experiencing a bit of an economic slowdown. In fact, the government's own numbers, as you're well aware, are predicting a decline of 1.6% in real GDP in 2025. Certainly at least some of that decline can be attributed to the tariff war.</ParaText>
+              <ParaText id="8931819">I think everyone agreed that we needed to punch back against what we see as unfair trade practices from the United States with counter-tariffs, but what I've been unable to find is the magnitude of those counter-tariffs.</ParaText>
+              <ParaText id="8931820">Are you aware of how much revenue the Canadian government has accumulated from those counter-tariffs? Can you provide a number?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166385">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931821">I have a number but, unfortunately, it's back at the office right now.</ParaText>
+              <ParaText id="8931822"> I would say the government's been relatively transparent about providing numbers on counter-tariff revenue. They publish a monthly fiscal monitor by the Department of Finance, and the details are provided within that document.</ParaText>
+              <ParaText id="8931823"> I'd be happy to furnish the precise number back to the committee. I know that we have an estimate for the current fiscal year, for 2025-26.</ParaText>
+              <ParaText id="8931824">Sadly, I did not anticipate there would be so much interest in our economic fiscal outlook.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166390">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931825">Thank you.</ParaText>
+              <ParaText id="8931826">Yes, I did see in The Globe and Mail that it was just south of $1 billion, but we saw some of the numbers in the spring from the Carney government that were over $1 billion. </ParaText>
+              <ParaText id="8931827">I'm wondering if you can provide an update, even just a general number. Is it more than $1 billion? Is it $5 billion? Is it $10 billion?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166392">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931828">I could, but I always get into trouble when I speculate. I'll get back to the committee with that number.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166395">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931829">Can you confirm if it's $20 billion or near $20 billion? That's a number that you would remember, I think.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166397">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931830">The number $20 billion was floated in the spring, and it was something that we looked at in anticipation of the counter-tariffs that had been announced by the government being in place, as announced, for the full year. As everyone is aware, those counter-tariffs have been removed slowly over time, so we're well below the $20 billion mark at this point.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166401">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931831">Okay.</ParaText>
+              <ParaText id="8931832">From the numbers that we saw, it's perhaps $1 billion to $2 billion. That's what I saw. Those were the most recent numbers I was able to get, but you're saying it may be more but it's certainly not $20 billion, as you've outlined.</ParaText>
+              <ParaText id="8931833">I appreciate that.</ParaText>
+              <ParaText id="8931834">I did also want to ask if you're aware of how much has been remitted to businesses since then, because we did hear that there were promises that these counter-tariff measures from businesses paying on those imports from the United States would be given back to workers and businesses. Do you have a number for that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166405">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931835">I do have a number and, sadly, it's back at the office right now. I apologize.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166406">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931836">That's no problem. If you could commit to sending those figures to us, that would be great.</ParaText>
+              <ParaText id="8931837">It's my understanding from the Canadian Federation of Independent Business that well over half of their members—which is 100,000 members—who have applied have not heard back. Out of their membership who applied for counter-tariff measures, half of those have not heard back.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166411">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke (Guelph, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931838"> I have a point of order, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166414">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931839">I'm sorry, Madam Dancho. I've stopped the clock.</ParaText>
+              <ParaText id="8931840">Madam O'Rourke.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166415">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931841">I understand it's of interest—</ParaText>
+              <ParaText id="8931842">
+                <B>Raquel Dancho:</B> Is there a standing order I'm violating, Mr. Chair?</ParaText>
+              <ParaText id="8931843">
+                <B>Dominique O'Rourke:</B> —but we are speaking about the defence industrial strategy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166418">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931844">Madam Dancho, a point of order requires me to address the member who has raised it. I'm just trying to understand her argument, so give me one sec.</ParaText>
+              <ParaText id="8931845">Madam O'Rourke, if I understand this correctly, you're raising a point of order on a question of relevance.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166423">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931846">Precisely.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166426">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931847">Okay.</ParaText>
+              <ParaText id="8931848">Look, we're here to have a conversation about the defence industrial strategy. I understand that this can encompass a wide array of affairs. I hope in our line of questioning we can get to some specifics that, even if not at the outset, when directed toward the defence industrial strategy will ultimately help us understand how it connects to it.</ParaText>
+              <ParaText id="8931849">Madam Dancho, I paused the clock. I'll return the floor to you with a minute and 57 seconds remaining.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166429">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931850">On that same point of order, if I may, when we were consulted on whether we could bring in the PBO, my understanding from our Bloc Québécois member was that it was for both studies. That may be my mistake. We did have conversations, I believe, with the clerk, but perhaps there's been a miscommunication. I would not have agreed unless he could have come to speak to both. </ParaText>
+              <ParaText id="8931851">Perhaps a compromise is that he be invited back promptly to speak exclusively about productivity and capital outflow. Otherwise, we would not have agreed. I can either continue my line or we can have him back real soon.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166436">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931852">For the purposes of the efficiency of this discussion, with two minutes remaining in your line of questioning, let's allow you to complete that. If I hear anything that concerns me about the direction, I'll intervene at that point.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166438">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931853">Thank you.</ParaText>
+              <ParaText id="8931854">I could loop this, certainly, to the defence industrial strategy, because a lot of our SMEs produce things that the Canadian military would be happy to buy and does buy. It does certainly impact them, because of course they are importing many goods from the United States to manufacture into things that are Canadian made. In fact, a very large part of our businesses in this country does bring in goods from the United States. I think 51% of SMEs bring goods in from the United States. Many of them have experienced reduced profit margins, layoffs and very serious consequences from what the U.S. is doing, but of course we have our countermeasures. We understood that we had to punch back very hard. I think everyone supports that. </ParaText>
+              <ParaText id="8931855">There was a promise in the spring about those counter-tariffs collected from Canadian businesses importing those American goods to build Canadian goods. The Liberal government promised that the money would be remitted to those businesses and workers. We're hearing on the ground that this is not happening. I would like confirmation of the numbers that the Liberal government has taken and what's been remitted. I think it's very important that, at a time when we're seeing massive capital outflow, businesses closing and moving to the United States, and layoffs, we ensure that we're holding the government accountable to the promises they made to ensure that these businesses are being helped out. Unfortunately, I don't see a lot of evidence of that. </ParaText>
+              <ParaText id="8931856">I appreciate your time and look forward to that data. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166458">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931857">Thank you very much.</ParaText>
+              <ParaText id="8931858">Madam O'Rourke, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166461">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931859">Thank you, Chair.</ParaText>
+              <ParaText id="8931860">I have a quick question around dual use. Obviously, many of our projects of national interest will also be about our sovereignty and our defence—things like runways, investments in ports, digital perhaps, and a lot of defence in the Arctic. How do you approach that from a finance perspective in terms of the ROI and in terms of mapping out what is the defence spend? Are these double counted? Can you help me understand what the approach is on these dual-use investments that will unlock more work if there's a longer runway in the Arctic? How do we approach that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166468">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931861">It's an excellent question. It's been a bit of a curveball, to be honest, to understand that there is this added 1.5% as part of the 5% that is going toward the things you referred to—security of supply, ancillary, critical minerals, cyber. It's actually not at all clear that these would necessarily be incremental to current spending. It may be that we're already at 1.5%.</ParaText>
+              <ParaText id="8931862">We've interfaced with the Department of National Defence to understand what exactly the definition is for the 1.5% ancillary spending. They've duly provided us with information. They don't have an estimate of how much we actually have at this moment, but our analysis going forward will include, of course, an estimate of spending under that rubric.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166478">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931863"> Thank you.</ParaText>
+              <ParaText id="8931864">Mr. Jacques, you said in your opening remarks that we're in a very challenging period. Just last week we heard from an ADM at the Department of National Defence and also the chief of the Royal Canadian Air Force and space force development that we are not in peacetime, so there's an urgency both at home and abroad to meet our NATO commitments and to rearm and equip our military. At the same time, we're facing tariffs that are not in our control, and so, in the event that there's a larger tariff impact, we're looking at investing in major projects, training folks for trades, investing in housing and setting aside funds for EI and other social programs. </ParaText>
+              <ParaText id="8931865">In your assessment, are these situational expenses at this moment in time? How are they offset by returns on those investments—as, certainly, there will be—or is this a structural issue that we need to address in the longer term? I would add as well that there's no ability to wait, particularly on the defence spending.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166497">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931866">Certainly, given the mandate of our office, it's not our place to judge policy or decisions the government makes on what they want to spend on and when they want to spend on it. It's our mandate simply to calculate the numbers and present that to parliamentarians in a neutral and independent way.</ParaText>
+              <ParaText id="8931867">With respect to the return on investment or the economic benefits of the investment, that's something, as my colleague Mr. Penney mentioned previously, that is explicitly taken into account within our macroeconomic model as part of the overall numbers for growth when we see additional government investment.</ParaText>
+              <ParaText id="8931868">With respect to the longer-term spending—and to get back to a point I made to Monsieur Ste-Marie—the major issue is not what happens in the next one or two years; the major question is what years three, four and five look like. What we've seen in the past, and to go back to the recent reports from the International Monetary Fund and the OECD, the advice is to be aware that, for most governments around the world, public debt is going up, and it's a major challenge and needs to be managed carefully. That's a common challenge everyone faces. </ParaText>
+              <ParaText id="8931869">The major concern, and the challenge the government needs to solve at this point is that, certainly, we'll see a short-term economic shock, but where do we end up over the longer term? Mathematically, there does come a point at which the economy has to grow in such a way that it generates enough revenue to pay for the goods and services that Canadians expect and enjoy.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166525">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931870"> I'm so glad you mentioned that most governments around the world are facing similar situations, because it broadens that lens and allows us to see that there are global shocks and not strictly in Canada. I appreciate that. </ParaText>
+              <ParaText id="8931871">What metrics would you suggest we put into analyzing the success of the defence industrial strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166529">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931872">In terms of metrics to assess whether the defence industrial strategy is working, I would think that looking at delivery timelines would certainly be one of them, and cost overruns, of course—these are the things we're always concerned with—but to know whether investments are effective is a difficult thing. </ParaText>
+              <ParaText id="8931873">One metric that has been used in the past is to look at whether a firm, let's say, in the case of our ITB report, that has received ITB economic activity continues exporting, for instance. If they're wrapped into a global supply chain as a result of investments, that certainly would be something you could point to as being successful.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166539">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931874">Thanks, Madam O'Rourke. We're over time here.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8931875">Mr. Ste‑Marie, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166544">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931876">Mr. Penney, a few years ago, you worked on industrial and technological benefits policies in the defence and security sector.</ParaText>
+              <ParaText id="8931877">Can you summarize the main points of your study?</ParaText>
+              <ParaText id="8931878">If you had to make an assumption about the development of these policies up to now, given the announcements, what should we be looking at as members of Parliament?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166548">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931879"> With regard to the ITB program, our study found that.... Mr. Jacques mentioned a few of the <I>faits saillants</I> in the introduction. </ParaText>
+              <ParaText id="8931880">My apologies for not answering in French.</ParaText>
+              <ParaText id="8931881">I would say that my read of the situation is that only 30% of the firms involved in ITBs are Canadian. Of the remaining firms, I believe that about 60% or 63% are American owned. On the stated goals of the policy, among other things, there are many things if you want to look at enhancing research and development and helping out small and medium enterprises. With regard to the latter point, only 12% of the total economic activity goes to small and medium enterprises. This would be something that I think should be of interest, although that's my opinion.</ParaText>
+              <ParaText id="8931882">Going forward in terms of analysis, in terms of what I think or we think should be done or should be analyzed is looking at what is the premium associated with the industrial and technological benefits program. We buy something from a foreign country and we require them to invest in Canada. These other firms are not stupid. They of course factor that requirement into the cost of what they're selling us.</ParaText>
+              <ParaText id="8931883">To answer the question of whether this policy is effective, whether it's actually helping our industry, we have to compare that against how much we're saving or how much we're having to spend.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166563">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931884">Thank you.</ParaText>
+              <ParaText id="8931885">The expenditures include many imports.</ParaText>
+              <ParaText id="8931886">Would you say that Canadian defence companies export just as much? Is this offset, or do we have a trade deficit in this area?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166566">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931887">Yes, it's an excellent question. Unfortunately, our study did not cover exactly what is the breakdown between exportation and importation under the ITB policy, but it is something that I can see would be very important to.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174273">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931888">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166570">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931889">Unfortunately, your time is up.</ParaText>
+              <ParaText id="8931890">Thank you, Mr. Ste‑Marie.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8931891">Mr. Falk, the floor is yours for five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166573">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk (Provencher, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931892">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8931893">Thank you, Mr. Jacques and Mr. Penney, for your attendance here at committee. </ParaText>
+              <ParaText id="8931894">Just to confirm a few things, on the $68-billion deficit you're projecting, does that include or anticipate the 2% military spending?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166575">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931895">It does. Yes, based upon the numbers we have within our five-year outlook, it rounds to 2%.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166582">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931896">Okay. Have you factored in at all a model if we were to reach the 5%?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166586">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931897">No. We're working on that right now, so stay tuned. There is keen interest by many parliamentarians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166589">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931898">Okay.</ParaText>
+              <ParaText id="8931899">Following up a bit on Mr. Ste-Marie's line of questioning, the government has signalled that they're looking at presenting our finances in a different format and at a different time of year. Things like that are flags to me. They want to move to a more capital asset type of reporting system and income and expense. Have you looked at that model at all?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166591">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931900">Yes, we have. Yesterday morning, we published our initial take on what the government has proposed and has in mind.</ParaText>
+              <ParaText id="8931901"> I would say, broadly speaking, that it's a mixed bag. There are some aspects where we think it's really a win for Parliament, especially in looking at the timing side. Moving the budget up to earlier in the year ensures that something all parliamentarians over the 20 years I've been on the Hill have complained about, and that's the lack of integration between the main estimates document and the budget. This allows that to actually to happen.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166598">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931902">The fiscal reporting periods wouldn't change.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166601">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931903">No. From a fiscal reporting period perspective, it won't change.</ParaText>
+              <ParaText id="8931904">Moving the documents up is also a good international practice. It's something that the IMF and the OECD have recommended, because previously, we would have a situation where the budget would be tabled potentially after the fiscal year it started and the main estimates would be tabled very close to the beginning of the fiscal year, but they wouldn't actually incorporate any of the measures in the budget. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166605">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931905">Would you also then anticipate a new line in the reporting for depreciation?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166606">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931906">Yes, in terms of the shift, the government's announcement of enhancing or adding additional metrics that they're going to provide on the operating and capital side, again I go back to how everything that we've seen before, everything that was published previously, will continue to be published. That was the first concern for us. It's something that we are really pleased to see, that the government has committed to, and we're not losing anything.</ParaText>
+              <ParaText id="8931907">On the operating and capital side, again, on the capital budget, it is a unique made-in-Canada, at the federal government level, approach. I think that for most accountants it gives you a bit of a pause when the federal government is coming up with a brand new way of presenting capital budgeting when there are 10 Canadian provinces that are already doing it, along with other municipalities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166614">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931908"> Thank you.</ParaText>
+              <ParaText id="8931909">It reminds me of that saying, “Figures don't lie, but liars know how to figure.” That's the first thing; it's a flag that comes up for me when they're changing the reporting only.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166618">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931910">Something I've mentioned before is the government has indicated this is how they're making decisions internally on the capital side and the operating side, so we're very much restraining the growth and operating spending. Historically, it's been growing at 9% a year; the target now is to take it down to around 2% and shift to continue to grow capital spending. </ParaText>
+              <ParaText id="8931911">From my own perspective, if the government was not sharing that information with parliamentarians, if they had a new way of making decisions inside government and they weren't communicating that to the public, the first thing I would say is, “It's not transparent, and it's problematic, so please share your internal deliberations and how you make decisions with the public.” I think, from that perspective, it's definitely transparent.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166626">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931912">They've also been using different terminology. Now they're using deficit to GDP as opposed to debt to GDP. Are there any other jurisdictions now reporting it differently like that as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166629">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931913">The choice of fiscal—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166636">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931914">It's certainly a departure from what we have been used to.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166644">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931915">Yes, it's a departure from what we've seen in the past. Over the past 40 years, the debt-to-GDP anchor—and, as I recited earlier, the declining debt-to-GDP anchor—has been a cornerstone of the government's fiscal anchors regardless of the stripe of government you're looking at.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166645">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931916">What is the fiscal anchor, then?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166647">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931917">Thankfully, the <Affiliation DbId="318631" Type="4">Minister of Finance</Affiliation> was at committee yesterday, and he identified two fiscal anchors: balancing the operating budget over three years and a declining deficit-to-GDP ratio over the medium-term horizon. He conspicuously did not mention the debt-to-GDP anchor, although on September 17—I have the quote right here—the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> did indicate one of the fiscal anchors is “a declining level of debt” overall. At that point, I presumed he meant debt to GDP, but obviously there are a lot of things in flux.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166651">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931918">Okay.</ParaText>
+              <ParaText id="8931919">May I ask one more question very quickly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166654">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931920">I'm sorry, Mr. Falk, but we're 30 seconds over. My apologies.</ParaText>
+              <ParaText id="8931921">Thank you.</ParaText>
+              <ParaText id="8931922">Mr. Bardeesy, go ahead for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166661">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy (Taiaiako'n—Parkdale—High Park, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931923">Thank you so much.</ParaText>
+              <ParaText id="8931924">I'm going to focus my questions on the defence industrial policy study we're doing. I want to pick up a few of the threads Monsieur Ste-Marie and Mr. Falk laid.</ParaText>
+              <ParaText id="8931925">Earlier in the conversation, you mentioned you're going to give some guidance on capital versus operating more generally. Specifically with respect to defence procurement, we know there is going to be a need for hardware procurement, but we also know the defence sector is changing and software procurement is probably going to be a bigger part of defence procurement going forward. Software procurement has capital-like features, but it's not goods you can point to. </ParaText>
+              <ParaText id="8931926">I'm wondering if you can speak to how software procurement in defence spending might be treated. What is your thinking on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166671">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931927">Our office does track capital spending by National Defence and, as of recently, the Coast Guard. We are not enabled by the legislation to release any information the department doesn't allow us to release, so we can't talk about specific projects. </ParaText>
+              <ParaText id="8931928">We have a capital spending report that is going to come out later this month, most likely; I think I might have just painted us into a corner, but yes, we're planning on releasing it later this month. We don't parcel out the different aspects of capital spending, other than perhaps we'll look at the different environments, as we call them—army, navy, air force, joint—but there will probably not be a separate section for software capital.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166685">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931929">I have a couple of questions about ITBs. Again, Monsieur Ste-Marie was asking about these.</ParaText>
+              <ParaText id="8931930">In your summary brief, you mentioned Canadian firms accounted for 30% in the past study. Are there benchmarks for other countries that have policies similar to ITBs? Is there an objective we should be aiming for?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166694">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931931">I can't speak to an objective. I can say, however, that virtually every developed country levies some type of program. Pretty generally, those of us who are nerdy enough to call ourselves defence economists call them trade offsets or defence offsets, and most countries engage in this. I wouldn't speak to any benchmarks that would say it's better or worse.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166700">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931932"> Is it fair to assume that a greater proportion of Canadian firms' involvement in ITB going forward could lead to greater tax revenue in the revenue calculations you're looking at?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166707">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931933">I see nothing objectionable about that statement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166711">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931934">Governments like to talk about the potential revenue uplifts from all kinds of policies, but it's important to put on the record that you've already identified that defence spending has multiplier effects that are perhaps greater than other forms of spending.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166713">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931935">As I said, it's one of the things we're going to be studying more in the future, but yes, as Mr. Jacques and I have already mentioned, our economic modelling takes into account the multiplier effect of investments in defence.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166715">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931936">A couple of my colleagues have spoken to this, but I want to see if there are more points that can be put on it. There is a cost of not acting, and there is a potential fiscal cost of not acting in defence procurement or national security more generally.</ParaText>
+              <ParaText id="8931937"> In the world you occupy, of defence economics, in particular, how do they think about that? Even if it isn't something they would publish with numbers, can you talk to us about how those kinds of things are discussed?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166724">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931938">When it comes to the study of defence in economics, one of the things that are really hard to measure is the output. What is the output? The output is we get to have a country and we're able to protect ourselves. It's not like when we have a capability for tanks, for instance, or fighter aircraft or something like that. How much is that worth? How do you put a price tag on that?</ParaText>
+              <ParaText id="8931939"> Essentially, it's one of the primary confounding things in that area of study.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166735">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931940">Do I have time for one more question? No. Okay.</ParaText>
+              <ParaText id="8931941">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166738">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931942">Colleagues, because we are a little under the time, we don't have time for a full round. I'm going to Mr. Ste-Marie for two and a half minutes, the Conservatives for two and a half minutes and then the Liberals for two and a half minutes.</ParaText>
+              <ParaText id="8931943">Go ahead, Mr. Ste-Marie.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166744">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931944">Every time that he meets with the Prime Minister of Canada, the President of the United States talks about his “Golden Dome” protection project.</ParaText>
+              <ParaText id="8931945">Mr. Penney, to your knowledge, if Canada were to fund this type of protection project for both countries, what economic benefits or financial impact could this entail for the federal government and the Canadian economy?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166751">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931946">It's very hard to say, especially at this nascent phase when the project has only been announced. We've seen the media reports about it, but we don't really know what's going into it and we don't know how much we're going to pay. For better or for worse, we're intertwined with the United States via NORAD and NATO, and those investments, certainly for NORAD, will continue at pace, regardless.</ParaText>
+              <ParaText id="8931947">We haven't looked at the golden dome and what exactly that entails for the Canadian economy.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166756">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931948">So we have the name of the project, but the details are yet to come. Thank you.</ParaText>
+              <ParaText id="8931949">Suppose that Canadian defence equipment exports to the United States were subject to additional tariffs. Could you model this scenario to see the potential impact on our public finances and the Canadian economy?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166767">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931950">It would be difficult to look at that in real time. In terms of modelling and using data, the tariffs are very new, and it would take some time for us to really ascertain exactly what the impact has been.</ParaText>
+              <ParaText id="8931951">As I mentioned before, 63% of ITB dollar value comes from American-owned firms. Would it levy tariffs on those? Honestly, we haven't studied that in great detail as of yet. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13166783">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931952">Thank you.</ParaText>
+              <ParaText id="8931953">I believe that the American government would be able to impose tariffs on its own companies for products manufactured in Canada. This is something to keep an eye on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166786">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931954">Thank you, Mr. Ste‑Marie.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8931955">Madam Dancho, you have two minutes and 30 seconds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166789">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931956">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8931957">My question is about the defence procurement agency. Canada has a considerable issue with its procurement process in the military. It takes a very long time to procure the equipment we need. Do you have a budget number for this new agency, or is it going to be an amalgamation from existing department apparatus?</ParaText>
+              <ParaText id="8931958">My understanding is that we have a very large bureaucracy in charge of procurement now. Is this within that, or will it be additional to that? Do you have a budget figure for it at all?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166793">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931959"> Our most recent economic and fiscal outlook was finalized before that announcement occurred, so we don't have figures on that. That said, we will be obtaining additional information from the government, so we'll be in a position to provide information to the committee within the coming weeks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166794">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931960">Thank you.</ParaText>
+              <ParaText id="8931961"> I believe Mr. Falk has a question, as well. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166795">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931962">Thank you, Raquel.</ParaText>
+              <ParaText id="8931963"> As a follow-up question, does the 2% of defence spending that you've included in your $68-billion projected deficit include additional things like Coast Guard expenditures now?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166796">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931964">For this year, I don't think it does. The thing we need to understand is that Coast Guard expenditures were already included under the NATO definition of expenditures. When they're saying $62 billion for this year, 2% of GDP, that already includes spending from other government departments, including the Canadian Coast Guard. </ParaText>
+              <ParaText id="8931965">The Canadian Coast Guard has moved under National Defence. I'm speculating at this point, but I think that means that some of the administrative costs, some of the civilian areas of CCG would be included now in the definition because, under the NATO definition of your defence ministry, everything counts as far as civilians are concerned. </ParaText>
+              <ParaText id="8931966">I suspect that adding CCG will increase, just by virtue of accounting, defence spending. It shouldn't be part of that figure, though, because those figures were released before CCG....</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13166804">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931967">Is that something your department will be monitoring or auditing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166806">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931968">We are coming out with reports on a yearly basis on NATO defence spending, yes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166807">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931969">Are you aware of any other areas where the government is reclassifying expenditures into defence to meet that 2% target?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166810">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931970">My understanding is that, every year, National Defence sends some of their civilian members to other government departments to figure out how much spending would fit under the NATO definition of military expenditures. At the end of the year, they have line items showing that for this department, for example, the RCMP, there's <I>x</I> billion dollars, for the Coast Guard, there's <I>y</I> billion dollars, and so on and so forth.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166814">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931971">Thank you, Mr. Falk. </ParaText>
+              <ParaText id="8931972">Mr. Bains, you have two and a half minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166816">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains (Richmond East—Steveston, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931973">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8931974">Based on publicly available data, can your office estimate regional and sectoral benefits from defence procurement? For example, in my home province of British Columbia, the national shipbuilding strategy is under way. </ParaText>
+              <ParaText id="8931975">Would you be able to talk about jobs or how much output per dollar in impacts it has compared to conventional infrastructure or industrial spending?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166818">
+            <PersonSpeaking>
+              <Affiliation DbId="323123" Type="28">Christopher Penney</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931976">That's a perfectly fair question. </ParaText>
+              <ParaText id="8931977">I would say that ISED would be the department you'd want to speak to in terms of evaluating regional benefits or economic activity that occurs in certain areas. It's not something that we've looked at. Of course, our mandate is to look at things of particular importance to the nation's finances, so arguably, it's not inside our mandate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166825">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931978">In addition to Canada's security and sovereignty, the defence industrial strategy is expected to bring domestic industrial benefits such as careers and innovation. For example, according to a study by Desjardins, one dollar of defence spending leads to $1.2 in nominal GDP once direct, indirect and induced effects are accounted for.</ParaText>
+              <ParaText id="8931979">Can you tell us what assumptions are needed to model productivity?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166826">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931980">To clarify the question in terms of modelling productivity—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13166828">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931981">An example would be innovation and capacity reuse.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166831">
+            <PersonSpeaking>
+              <Affiliation DbId="322277" Type="28">Jason Jacques</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931982">As Mr. Penney indicated, within our existing modelling, we do take into account increasing both the public sector and private sector investment, of which National Defence would be included as part of it. </ParaText>
+              <ParaText id="8931983">We already have the data available, and it's something we're following and tracking.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166833">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931984">Thank you, colleagues. That was a productive meeting. </ParaText>
+              <ParaText id="8931985">Thank you, witnesses, for making yourselves available today and providing insight on this study in relation to the defence industrial strategy, which is a big component of what we are setting time aside for over the course of the next few months. Thank you again.</ParaText>
+              <ParaText id="8931986">Colleagues, we are going to briefly suspend in order to turn to the second half of our meeting today.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166916">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931987">Colleagues, I call this meeting back to order.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8931988"> We're going to get into the second hour.</ParaText>
+              <ParaText id="8931989">We have three witnesses with us today, two here and one online. All witnesses have completed the required connection tests in advance of this meeting.</ParaText>
+              <ParaText id="8931990">For our witnesses, there will be up to, and I stress “up to”, five minutes for introductory remarks, at which point we will get into a line of questioning with predetermined allocated time for members of each affiliated party around the table.</ParaText>
+              <ParaText id="8931991">We have with us, from Triple Helix, Alexander Salt, post-doctoral fellow; from Acme Testing and Consulting, Richard Borger; and from U15 Canada, Robert Asselin, the chief executive officer.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8931992">Mr. Asselin, since you're participating in our meeting virtually, you'll be the first to speak.</ParaText>
+              <ParaText id="8931993">If you're ready, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166929">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin (Chief Executive Officer, U15 Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8931994">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8931995">Thank you for the opportunity to appear before you today. My name is Robert Asselin. I serve as the chief executive officer of U15 Canada. We represent the 15 leading research universities in the country. Our institutions conduct more than 75% of all university research in Canada. They enrol 70% of the full‑time doctoral students. They generate much of the nation's innovation, from patents to private sector research contracts or major scientific discoveries. Collectively, our universities are a national strategic asset. They're the anchors of talent, research and innovation in Canada.</ParaText>
+              <ParaText id="8931996">We're living through a profound transformation in the global economy. The era of unfettered trade—the idea that open markets would always deliver stability and prosperity—is over. Around the world, we see the return of economic coercion. Supply chains are weaponized, access to technologies is restricted and the nations are redefining prosperity through the lens of security.</ParaText>
+              <ParaText id="8931997">In this new era, economic and national security are inseparable. The long‑term contest among nations is now about who can compete and win in advanced industries.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8931998">As former Google CEO Eric Schmidt's special competitive studies project puts it, “innovation power”, the ability to invent, adopt and integrate technologies at scale, is now the foundation of both prosperity and security.</ParaText>
+              <ParaText id="8931999">As former U.S. ambassador Rahm Emanuel recently wrote, industrial policy can only succeed if it rests on a deep and sustained base of advanced research.</ParaText>
+              <ParaText id="8932000">History offers powerful lessons on how existential threats can drive transformation. In 1957, the launch of Sputnik was a shock to the United States. The response was not incremental; it was transformational. President Eisenhower created DARPA, the Defense Advanced Research Projects Agency. DARPA's innovations—GPS, the Internet and more—became the backbone of U.S. economic and technological dominance.</ParaText>
+              <ParaText id="8932001">In 1962, President Kennedy went to Rice University to deliver his famous moon speech and called for a national mission to lead in science and technology. Crucially, they placed their leading research universities at the centre of that effort. NASA's partnership with Caltech became a vibrant model for what alignment between government, academia and industry can achieve. It turned scientific excellence into national capability, and it produced spillovers in robotics, materials, communications and defence that still shape the world today.</ParaText>
+              <ParaText id="8932002">Canada now stands at a similar inflection point. Our leading research universities—the U15—are among the best in the world. They produce extraordinary talent and cutting-edge discoveries. Yet, too often our breakthroughs are scaled elsewhere because we lack a coordinated strategy linking discovery to deployment and research strength to industrial advantage. That gap, the failure to connect our research power to national purpose, has been the Achilles heel of Canada's industrial policy.</ParaText>
+              <ParaText id="8932003">The creation of BOREALIS, Canada's new defence innovation platform, offers a way to change that. It can be our version of DARPA, a vehicle to translate advanced research into deployable technologies for the Canadian Armed Forces and for our advanced industries.</ParaText>
+              <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8932004">However, we must act boldly and decisively. We need to better connect talent and intellectual capital, foundational research, commercialization and public procurement.</ParaText>
+              <ParaText id="8932005">Advanced industries aren't only drivers of productivity. They're also the building blocks of national security. Canada can't afford to remain a passive adopter of foreign technologies.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8932006"> Yes, Canada is not the United States; our scale is different, but scale is not the lesson. The lesson is alignment. When research excellence, receptive industrial capacity, and predictable procurement work together, sovereign capabilities follow. If we get that alignment right, we will strengthen our security, drive innovation and build the technological foundations of Canada’s prosperity for decades to come. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8932007">Thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166968">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932008">Perfect, Mr. Asselin.</ParaText>
+              <ParaText id="8932009">You used exactly five minutes.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8932010">Dr. Salt, I'll turn the floor over to you for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13166975">
+            <PersonSpeaking>
+              <Affiliation DbId="323141" Type="28">Alexander Salt (Triple Helix Post-doctoral Fellow, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932011">I would like to thank the chair and members for inviting me to speak today on what is an incredibly important issue. </ParaText>
+              <ParaText id="8932012">In my opening remarks, I will make a couple of observations about the evolving state of Canada’s defence industrial ecosystem and make a few recommendations that you may want to examine for further study. </ParaText>
+              <ParaText id="8932013">The evolving international security environment, marked by rising geopolitical tensions and Russia’s war of aggression in Ukraine, has underscored the urgent need for Canada to develop a coherent national defence industrial strategy. Such a strategy must go beyond rhetoric to modernize Canada’s approach, align our defence and dual-use innovation ecosystems and ensure that they can be mobilized for real strategic effect. Canada’s security and economic resilience increasingly depends on our ability to harness this integrated ecosystem with purpose, speed and focus. Advanced technologies such as AI, robotics, cloud networks, biotech and quantum computing, among others, are holding increasing relevancy to modern military operations as well as Canadian defence. </ParaText>
+              <ParaText id="8932014">What sets the current generation of emerging tech apart from traditional 20th century defence technologies, like tanks and fighter jets, is their origin, in that, historically, conventional military hardware has typically been designed and manufactured by major defence contractors, while today it is civilian technological start-ups, often at the small and medium enterprise level, that are driving tech innovation. Many of these start-ups are creating technology with dual-use application, meaning they hold utility to both militaries as well as the civilian economy. These dual-use technologies are also developed at a much more rapid pace than what traditional government procurement processes can handle. Simply put, the status quo of how Canada identifies and acquires new military technology is likely ill-suited to ensure that the military maintains access to strategically vital emerging technologies. Unless this is fixed, the military will be outpaced by allies and adversaries alike. Accepting risk and prioritizing speed must become a much larger component of how Canadian defence operates.</ParaText>
+              <ParaText id="8932015">In terms of a few recommendations, first, the government needs better data. To sustain an effective defence industrial strategy it will require a much better understanding of the small and medium enterprise ecosystem within Canada, including what firms are out there and where they are located. The government needs to better define how it characterizes dual-use firms. Further, there likely needs to be a better understanding of what constitutes a sovereign Canadian company, especially when it comes to multinational corporate structures.</ParaText>
+              <ParaText id="8932016"> Second, to meet the needs of small and medium enterprises, Canada should consider establishing alternative funding mechanisms to help streamline investment in dual-use start-ups. This could include the establishment of a not-for-profit venture capital fund. Canadian allies such as the U.S, U.K. and Australia, are starting to demonstrate that this approach can be effective at driving technological innovation. There is an attractiveness to forming a publicly funded venture capital fund that could help streamline defence tech investments but also can allow the government and military to shape the research and development cycles of the start-ups involved. </ParaText>
+              <ParaText id="8932017">Third, existing innovation mechanisms such as the IDEaS program are in need of aggressive reform or replacement. Transforming IDEaS into a formal defence accelerator institution similar to those currently in operation in the U.K. and Australia would likely enhance the program's effectiveness by lessening the focus on competition over grants and allowing more opportunities for direct contracting to occur. </ParaText>
+              <ParaText id="8932018">Fourth and finally, Canada should diversify its international defence industrial partnerships and explore forming new research and development agreements with other countries on matters related to emerging technologies. These initiatives would help diversify and strengthen the Canadian defence industrial base, help accelerate the integration of emerging technologies within the military, and potentially, expand the export market opportunities for certain sovereign defence products.</ParaText>
+              <ParaText id="8932019">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167014">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932020"> You're setting quite the standard here, witnesses.</ParaText>
+              <ParaText id="8932021">Mr. Borger, I think the pressure is on you now, sir.</ParaText>
+              <ParaText id="8932022">You have upwards of five minutes. Take your time as needed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167016">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger (ACME Testing and Consulting)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932023"> Thank you, Mr. Chair, and the rest of the members of this committee.</ParaText>
+              <ParaText id="8932024">I would like to begin by expressing my gratitude for the opportunity to present to you tonight. </ParaText>
+              <ParaText id="8932025">I believe I have a unique perspective to provide suggestions on how the defence industrial strategy can be leveraged to regenerate and further develop sovereign capabilities of Canada's industrial ecosystem and procurement opportunities for Canadian businesses. In the past several years, I have provided in situ testing and objective evaluation on the functionality of several innovations that were processed through the innovation solutions Canada testing stream. Additionally, since 2023, I have been the secretary of the Innovation Centre of the North, which is one of Canada's recently established NATO DIANA testing centres. This experience, coupled with being the director of a small Canadian business, has provided me with a rather unique lens to provide suggestions to this committee. </ParaText>
+              <ParaText id="8932026">Based on this experience, I've provided five suggestions for this committee to consider as you frame the defence industrial strategy to ensure the most benefit for Canadian businesses. </ParaText>
+              <ParaText id="8932027">These suggestions include the following: review and reinvigorate the innovation solutions Canada testing stream with a committed intent to normalize the use of third party evaluators; increase utilization of the NATO DIANA testing centres; repeal the industrial and technological benefits, or ITB, policy; implement dynamic procurement strategies for defence procurement; and promote an innovation-forward mandate for all members of the Department of National Defence and the Canadian Armed Forces.</ParaText>
+              <ParaText id="8932028">In the brief I provided to the committee, I've attempted to provide context to each of these items and provide evidence-based suggestions for the implementation that will provide immediate support for Canada's industrial ecosystem. I look forward to further discussion on this matter.</ParaText>
+              <ParaText id="8932029">Thank you once again for this opportunity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167033">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932030">We should have brought you for the entire discussion on productivity.</ParaText>
+              <ParaText id="8932031">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
+              <ParaText id="8932032">
+                <B>The Chair:</B> Your introduction in and of itself could have been a great standard to set for us.</ParaText>
+              <ParaText id="8932033">Okay, colleagues, we have some time to play with.</ParaText>
+              <ParaText id="8932034">Madam Dancho, the floor is yours for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167036">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932035">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8932036">Thank you to the witnesses for being here.</ParaText>
+              <ParaText id="8932037">I have questions for Mr. Asselin</ParaText>
+              <ParaText id="8932038">You mentioned in your opening remarks that universities are a strategic asset. I very much agree with you. Of course, you are the CEO of U15 Canada, which is our top Canadian academic institutions, our universities. Well done on that, and we're looking forward to your testimony.</ParaText>
+              <ParaText id="8932039">I've done a lot of reading of things you've published in recent years, so I would like to ask you a bit about that.</ParaText>
+              <ParaText id="8932040">You had written that “economic security and national security” are now “inseparable” and that Canada's “long-standing failure” has been “linking discovery to deployment and research strength to industrial advantage.”</ParaText>
+              <ParaText id="8932041">I do feel this is a core issue that this committee needs to be seized with concerning the defence industrial policy that we're looking to make recommendations on.</ParaText>
+              <ParaText id="8932042">As you know, about $3.7 billion goes from the federal government to our universities for research and development. There's also quite a bit of research and development tax credits and innovation programs. In my study of this department and of this funding, it doesn't seem to me that there's any coherent strategy behind this funding that would be focused on, say, sovereignty and our critical industries. I want to ask you a bit about that.</ParaText>
+              <ParaText id="8932043">In particular, you said that Canada must build “the sovereign capabilities and productive capacity that...underpin [our] resilience for decades.” That's very well said. </ParaText>
+              <ParaText id="8932044">Do you feel that taxpayer funding for research and development to universities and/or private enterprise should have a more strategic focus on ensuring that it's contributing to our critical industries and the development of them?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167059">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932045">It's a great question.</ParaText>
+              <ParaText id="8932046">Obviously, the granting councils provide various sources of funding, from very fundamental to more mission-driven. I will say that in the context of the defence industrial strategy, we have not yet seen more targeted funding related to the objectives we're discussing today. We're hoping this will come, in light of the upcoming budget, with more intentionality. </ParaText>
+              <ParaText id="8932047">BOREALIS right now is a vehicle that has been announced. It has not really been explained in detail how it would, for example, fund research and what mechanism it would use to transmit this idea generation to corporations and commercialization and then public procurement. What we're hoping to see is the full continuum from research funding through public procurement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167069">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932048">In some of your previous writing you've warned that “vague” industrial objectives tend to yield “underwhelming results”. Within that, you've also pointed to DARPA, the U.S. Defense Advanced Research Projects Agency, which clearly has been quite successful in contributing to their defence industrial strategy there. </ParaText>
+              <ParaText id="8932049">If Canada were to build its own DARPA, would it be like this BOREALIS agency you've alluded to?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167073">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932050"> I hope so, but everything will be in the execution of it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167077">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932051">What sort of metrics do you think we should be looking at to measure success?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167080">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932052">First, in the design of the institution, it's really important that it's not business as usual but high risk, high reward and very focused on the capabilities we're trying to build, linking the research with the other parts of the innovation ecosystem. The reason DARPA has been so successful is that it has been very targeted. The way it functions as an agency is very nimble and very agile. It's not bureaucratic at all. I hope we will follow this model.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167086">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932053">Of course, in the last number of months, Canadians have been quite seized with these sovereignty issues. It's quite timely that we're studying this defence industrial policy. Those are inextricably linked, in my opinion.</ParaText>
+              <ParaText id="8932054">My concern is that we do fund research and development, whether through our public institutions or private enterprise, to the tune of billions of dollars. It just doesn't seem to be focused on the industries that secure our food supply, necessarily, or our defence technologies, or our computing capacity, or our transportation or telecommunications. Some of that is funded, but it's almost by accident, it seems, rather than a coherent strategy for that.</ParaText>
+              <ParaText id="8932055">If you could make a recommendation to the <Affiliation DbId="318679" Type="4">Minister of Industry</Affiliation> and perhaps to the <Affiliation DbId="318688" Type="4">Minister of Defence</Affiliation>, how would you advise them to evolve the way in which we're funding research and development to our universities and private enterprise?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167094">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932056">In the case of defence, I think target it to sovereign capabilities, clearly. Identify it and then fund the research that comes with it. It also has to be targeted to technology development. It's really important. If we want to own our own technology, we have to first design it through research, obviously, and ideas and intellectual capital.</ParaText>
+              <ParaText id="8932057">Then I would say we need modern science technology architecture. Our architecture is from the post world war 1940s. We have things like the National Research Council. We have a lot of silos in the ecosystem that are not working together. I would hope that the government gets its ducks in order with modern science, technology and architecture for the world we live in.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167104">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932058">I think you were touching a little bit on our IP. We do invest in our research and development in our universities, but a lot of that IP, as you've written, goes to the south or to other foreign entities.</ParaText>
+              <ParaText id="8932059"> Can you comment a bit on that and on how we can ensure that we're keeping that IP in of course the defence and security sector? That would be great.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167112">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932060">I'm hoping that the public procurement part of the initial strategy will be really helpful in solving this problem. We have a problem of scale in our businesses. Lots of SMEs are not able to do enough R and D and are not able to scale and keep the IP in Canada, because it either sold in the U.S. market...or it fails, eventually, as a company.</ParaText>
+              <ParaText id="8932061">I'm hoping that public procurement, especially in the context of the defence industrial strategy, will really help provide some certainty around those businesses that we want to scale and keep in Canada, including, obviously, the IP that we have developed in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167122">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932062">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167123">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932063">Thank you, Madam Dancho.</ParaText>
+              <ParaText id="8932064">Mr. Bains, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167127">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932065">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8932066">Thank you to our guests for joining us today.</ParaText>
+              <ParaText id="8932067">I'll begin with you, Dr. Salt. </ParaText>
+              <ParaText id="8932068">In your work entitled “The Future of Canadian Defence Involvement in the Indo-Pacific”, you posed that Five Eyes members can move beyond just information sharing to fostering “technological development and integration”. </ParaText>
+              <ParaText id="8932069">What kind of partnerships and development opportunities do you think Canada has? What strength does Canada have, and what kind of role could we play?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167133">
+            <PersonSpeaking>
+              <Affiliation DbId="323141" Type="28">Alexander Salt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932070">I think it's a lot easier to form partnerships in the emerging tech space than it is in the traditional major defence procurements. Everybody has factories. Everybody wants to not necessarily lose out on contracting. When it comes to emerging tech, you can have one side take care of the software and one side take care of the hardware component. It's a lot easier to share information, especially around the world in Australia, New Zealand and other countries in that area.</ParaText>
+              <ParaText id="8932071">In terms of Canada's potential strengths and what it can bring to the table in potential future relationships here, it's artificial intelligence and robotics, especially in the maritime domain. We have companies like Kraken Robotics, for example, in Newfoundland. These are world-renowned companies that are doing some really innovative tech. Our AI ecosystem in Ontario in the Kitchener-Waterloo corridor is internationally known. These are immediate strengths we could tap into in any sort of international defence partnership.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167147">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932072"> Thank you.</ParaText>
+              <ParaText id="8932073">I'm going to move to Mr. Borger. </ParaText>
+              <ParaText id="8932074">With Russia's invasion of Ukraine, we've seen that there's a need for modern warfare, for more development of new things like drones. It's beyond a doubt that nations like Canada also have to adapt and have to procure these things. </ParaText>
+              <ParaText id="8932075">Can you let me know what the software and the control systems are that go along with that? Is Canada positioned to develop these advanced systems when it comes to drones?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167158">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932076">That's excellent. Thank you for the question.</ParaText>
+              <ParaText id="8932077">I've worked with a number of drone manufacturers across the country, starting with Newfoundland again, with StrobelTEK, right through to Pegasus in the Kitchener-Waterloo area. Every single one of those companies works with open-source hardware and open-source software, and they actually modify that specifically for their command and control links for the drone technology that they're using.</ParaText>
+              <ParaText id="8932078">There is actually a fairly wide spectrum of capabilities that can be leveraged. Some of it is open source, and some of it is very proprietary. Canada is well positioned to actually develop that technology here in our country.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167164">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932079">What is the capital availability currently for your sector within the country?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167165">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932080">I'm sorry, but that's outside of my expertise. Is it possible to rephrase that question?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167167">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932081">Is there financing capital that's available right now for private industry? To go a bit further, how much interest is there? How much private investment is there?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167171">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932082">There's a significant amount of private interest in these companies. The challenge that a lot of these companies have is getting through that stage of prototype development and being able to attract venture capital to investments in their companies. That's why, in the brief that I provided, one of the suggestions I made was to reallocate some of those ITB credits to increase the multiplier for investment in some of those SMBs, which would allow that development that is already of interest there, but it would allow that development to increase further until it reaches that private sector capital raise.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167174">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932083">Thank you.</ParaText>
+              <ParaText id="8932084">Mr. Asselin, when it comes to Canadian universities, we have some of the most highly respected research institutions in the world. My colleague talked a bit about that. How can the research from universities be better commercialized to enhance Canadian access to dual-use technologies and to get these technologies into market?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167179">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932085">This is at the core of the innovation problem we have in Canada. I just want to be clear that our job as leading research universities is to be excellent—and we are—at research. Our job is not to be corporate entities that commercialize our own research. In the ecosystem, we have to build that bridge that translates intellectual capital into commercial applications both in services and in products. Most countries have built these mechanisms. </ParaText>
+              <ParaText id="8932086">I spoke to the DARPA model; BOREALIS could play that function. I want to emphasize that the commercialization problem will not be solved by universities. It is not what they are designed to do. We have to build an innovation ecosystem that understands that and that builds this bridge between leading research universities and the corporate world.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="00">(1800)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167188">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932087">You believe the focus should be on research institutions or on other entities that can create that strength in the domestic industrial base.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167194">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932088">Basically, they are different steps. What I'm arguing today is that industrial strategies and industrial policies start with talent and research. Then it has to be moved into commercialization and technological applications. Those functions are played by different players in the ecosystem. Universities will continue to be excellent at research, but other institutions need to play the role of translating these ideas into the corporate world.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167203">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932089">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167204">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932090">Thank you, Mr. Bains.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8932091">Mr. Ste‑Marie, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167207">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932092">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8932093">I want to extend my greetings to all the witnesses and thank them for their participation.</ParaText>
+              <ParaText id="8932094">My first questions are for Mr. Asselin.</ParaText>
+              <ParaText id="8932095">It's quite interesting. I'll start with the issue raised by my colleague, Mr. Bains. You said that this issue lies at the heart of the matter. How could we improve the connection between research and innovation in academia and its application in business? You said that this issue is hindering productivity growth in Canada.</ParaText>
+              <ParaText id="8932096">Given all your experience, both at the government level and in business and academic circles, how could Ottawa improve this aspect, particularly for the National Defence sector?</ParaText>
+              <ParaText id="8932097">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167222">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932098"> Thank you for your question.</ParaText>
+              <ParaText id="8932099">I have high hopes for the newly created BOREALIS office. It serves as a vital bridge between research universities and the corporate world. This would serve to boost research into concrete applications and, ultimately, to ensure that a public purchaser, in this case the Government of Canada, adopts Canadian technologies. This will support our innovation and productivity. The missing links in the chain come after ideas leave universities, which take care of patents. These patents aren't commercialized because no one in the ecosystem has that mandate. I hope that BOREALIS will pay particular attention to this aspect.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167241">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932100">Thank you.</ParaText>
+              <ParaText id="8932101">Can you elaborate on BOREALIS?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167247">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932102">This scientific office was created and announced by the Prime Minister at the University of Toronto a few months ago. I can't speak on behalf of the government or the <Affiliation DbId="318688" Type="4">Minister of National Defence</Affiliation>. However, I understand that the idea is to emulate the DARPA model in the United States. We want to use this office to revisit previous issues and direct research into the sovereign capabilities that Canada should possess. We may not yet have these capabilities, or they may not be sufficiently developed. We want to commercialize these capabilities with the ability to make public purchases. The government would become a purchaser, similar to the United States. Take companies such as Boeing and Lockheed Martin, for example. They didn't become multinational corporations simply because they were good at their job. The main reason was that institutions such as DARPA helped them, with public funds, become experts in defence technology. They acquired their expertise largely through public funds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167264">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932103">Thank you.</ParaText>
+              <ParaText id="8932104">When we look at defence spending in Canada, we can see that a large portion of purchases are made in the United States or in other places outside Canada.</ParaText>
+              <ParaText id="8932105">Our initial witnesses, particularly defence officials, said that this was part of the procurement process. For example, I saw contracts awarded to Boeing for end‑of‑life aircraft rather than to Bombardier for aircraft made in Canada. I know that Boeing aircraft will be manufactured mostly in Canada. However, in some cases, the call for bids for night vision goggles and glasses was tailored to American production rather than Canadian production.</ParaText>
+              <ParaText id="8932106">Based on your experience, and not just as CEO of U15, what should be changed to maximize the economic benefits of defence spending in Canada? Also, how are universities working to maximize the benefits to the local economy through BOREALIS?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167285">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932107">Good question.</ParaText>
+              <ParaText id="8932108">This really lies at the heart of the defence industrial policy. In my opinion, this will also determine its success or failure. We must see whether we can provide public procurement that will help our Canadian companies expand in the market. We may even export our technologies, services and equipment.</ParaText>
+              <ParaText id="8932109">In terms of exports and the culture of the Department of Defence, I'll be honest. I suspect that I won't be the first or the last person to say this. Obviously, we always turned to the Americans to buy their technology because it was more practical and more integrated. However, if we fail to change this habit and promote the domestic market, we won't be able to help our companies succeed. Moreover, in my opinion, the defence industrial policy won't be a success. So, in my view, this policy is really about a fundamental cultural shift and a change in public policy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167307">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932110">Thank you.</ParaText>
+              <ParaText id="8932111">Of course.</ParaText>
+              <ParaText id="8932112">Mr. Chair, do I still have time?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167315">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932113">You have 20 seconds left.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167320">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932114">I'll use them to ask about the need for a foothold in the upcoming budget, which will be tabled on November 4, to find out what you think.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174722">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932115">Okay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167323">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932116">Thank you.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8932117">Mr. Falk, the floor is yours, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167325">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932118">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8932119">Thank you to all of our witnesses for their testimony.</ParaText>
+              <ParaText id="8932120">Mr. Borger, I'd like to begin with you.</ParaText>
+              <ParaText id="8932121"> I want to pick up on a comment you made in your presentation. You said that the industrial and technological benefits policy needs to be scrapped.</ParaText>
+              <ParaText id="8932122">There are things that are completely unrelated to manufacturing and defence procurement inside of that policy. Can you tell me specifically what you think the problem with that program is or what impediments it creates?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13168436">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932123">That's an incredibly challenging question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13168437">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932124">It's what you're here for.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13167330">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932125">To be honest, the ITB program is relatively murky at best. To really understand the ins and outs of the ITB program, it's important to bring in someone from ISED directly to speak to that.</ParaText>
+              <ParaText id="8932126">However, my experience with the ITB program, as we heard earlier from the Office of the Parliamentary Budget Officer, is that it's not strongly benefiting Canadians. We're seeing that only 30% of the recipients are Canadian companies. We're seeing that process is often exploited by defence primes to a point where SMBs are spending time preparing pitches in the hopes that they'll land a contract that might be outside of their purview. The time that they spend on that contract would actually be better spent doing the R and D or the development of the product that they're better focused on.</ParaText>
+              <ParaText id="8932127">In addition to that, in my role, I've seen pitches targeted to helping defence primes spend their ITB obligations with little concern over whether or not there is output that will benefit the Canadian economy. That, to me, is concerning. It shows that while the core concept of ITBs is fundamentally beneficial to Canadians, it's just not being implemented properly. This is why I suggested the repeal of the program.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="10">(1810)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167345">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932128">Okay, so scrap it.</ParaText>
+              <ParaText id="8932129">It seems to be very difficult for SMEs to break into defence procurement or the defence industry. What are some of the barriers you've identified for small and medium-sized enterprises that prevent them from accessing defence contracts or tenders?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167348">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932130">There are quite a few things that stand in the way of allowing SMBs to commercialize their procurement with the Canadian Armed Forces or the Department of National Defence. Perhaps one of the biggest is the lack of direct relation to an end operator. By the time a contract is issued, it's gone through several stages of review, and it's been distilled to a point where that contract is no longer valid to the end operator. The device that's produced is no longer valid because there's no direct feedback loop between the end-user and the innovator themselves.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13168572">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932131">Can I interrupt you there?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13168573">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932132">Absolutely.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13167359">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932133">Are you a little concerned about this new initiative of a defence procurement agency creating another level of bureaucracy that's going to further compound that aggravation?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167363">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932134">I'm hopeful and perhaps naively so. This is why I suggested the creation of that group be focused on—very similarly to what they have with Brave1 in Ukraine—every new innovation being vetted for its technological capabilities by an end-user or a group of end-users. They could then validate the functionality of that tech in a very rapid feedback loop. That would immediately provide meaningful feedback to the innovator, which would allow them to develop their prototype for the next stage of commercialization.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167369">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932135">For the benefit of the committee, most SMEs have to work through a prime as opposed to directly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167371">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932136">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167376">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932137">In some applications, it would be beneficial to Canada and to our defence agency to have a direct relationship with some of these SMEs. How can we do that or facilitate that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167380">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932138">Again, this goes back to my first point about the review and reinvigoration of the innovative solutions Canada program, especially the testing stream. It's a gem. It allows innovators to produce their innovation, bring it forward to end-users and get immediate feedback, ideally with a third party evaluator who can promote that dual-use component. It's not just focused with the government as the end client but allows for other users outside of the public sector.</ParaText>
+              <ParaText id="8932139">That program really was an accelerator for many SMBs within the country.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167386">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932140"> Thank you.</ParaText>
+              <ParaText id="8932141">Dr. Salt, I'd like to ask you a question as well. You indicated that, the longer Canada waits to procure many of these necessary emerging technologies, the greater the risk for Canada's continental defence and international security commitments. My question is this: In what ways does government bureaucracy hinder Canada's ability to rapidly procure emerging technologies critical for national sovereignty and defence?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167392">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932142">Be concise, please, Dr. Salt. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167395">
+            <PersonSpeaking>
+              <Affiliation DbId="323141" Type="28">Alexander Salt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932143">Concisely, I think there's a culture of risk averseness in the decision-making process cycles that we have within the bureaucracy here. We don't want to make the wrong decision. We always want every decision to be 100% correct rather than, maybe, 85% correct that will be delivered on time. We need to shake that risk averseness culture and just be prepared to take a bit of risk to make decisions a little faster to get the tech and equipment that we need on time and at cost.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167404">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932144">Thank you very much.</ParaText>
+              <ParaText id="8932145">Ms. Acan, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167407">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932146">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8932147">Thank you to our witnesses for being with us tonight. </ParaText>
+              <ParaText id="8932148">This question is for any expert, but Mr. Borger, I was thinking of you.</ParaText>
+              <ParaText id="8932149"> Canada's new government has made a historic and generational investment of over $30 billion this fiscal year, which will ensure that we hit the NATO 2% spending target. This summer, at the NATO leaders summit, the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> also announced that Canada will meet the new NATO targets of 3.5% and 5% on defence and defence-related capabilities.</ParaText>
+              <ParaText id="8932150">As a member of Parliament who has an electronics engineering background and also has experience with robotics and uncrewed land systems, I see these investments as very important steps not only for our sovereignty but also for our industries, which can take Canada to a number-one level, to be the name for defence manufacturing in the world. </ParaText>
+              <ParaText id="8932151">From your perspective, can you speak to what these new investments mean for Canada's ability to produce and produce new capabilities? Do we have what it takes to get the money out the door in time to hit our targets?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="15">(1815)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167419">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932152"> Thank you very much for the question, especially the latter half of it.</ParaText>
+              <ParaText id="8932153">The announcement of the investment is very much welcomed by the industry. It's desperately needed. The challenge, though, is this: How do we leverage that money, or how do we get that money out the door? </ParaText>
+              <ParaText id="8932154">This essentially becomes a procurement challenge. It's easy to say that we need to fix procurement, but that's a generational change. I think one of the easiest solutions is to delegate that purchasing authority to a lower level, to allow for a more dynamic approach for procurement to actually happen, so that we're not waiting for an executive-level approval on a purchase. We can actually have those procurement authorities delegated to much lower levels, who are equally well trained and responsible with the public's dollars, but are able to action that money a lot quicker.</ParaText>
+              <ParaText id="8932155">In addition to that, speaking of timelines, there needs to be a bit more of a consequential emphasis on maintaining service standards by procurement. There were times when I worked with innovators, and we waited six, eight, 10 or 12 months for an answer to a bid or a bidder's solicitation.</ParaText>
+              <ParaText id="8932156">In terms of a service range...between five and 25 days, and we need to get better at that. The terms of service and the announcement of the investment are there, so simply enforcing those terms of service would be very much helpful in getting that money out the door in a timely manner. That would mean a lot to the SMBs in the country.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167431">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932157">Thank you very much.</ParaText>
+              <ParaText id="8932158">Your work at Acme Testing and Consulting, particularly in remotely piloted aircraft systems and robotic platforms, positions your firm as a strategic partner in this support and helps bridge the gap between concept and deployment. We have seen in Ukraine, and it's been mentioned several times tonight, how low-cost attritable drones are reshaping modern combat. The Department of National Defence has called this a transformative approach for Canada's defence and security industries by enhancing domestic capabilities and protecting our national sovereignty.</ParaText>
+              <ParaText id="8932159">The challenge now is to build a supply chain, as you mentioned, that not only supports Canadian SMEs but also attracts offshore companies to establish operations here.</ParaText>
+              <ParaText id="8932160"> Mr. Borger, from your perspective, what are the most pressing bottlenecks in Canada's defence supply chain that limit the ability for SMEs to scale and compete? Also, how can we work to attract offshore companies to invest in and bring money into Canada, and establish operations here?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167450">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932161">I can speak specifically to drones and remotely piloted systems. One of the big bottlenecks there is printed circuitry and the precious metals that go into it.</ParaText>
+              <ParaText id="8932162">Here in Ontario, we're looking at developments for during a fire, perhaps, or for other critically important projects for national sovereignty. I think it's fundamental that we actually work towards developing those programs to allow for Canadian SMBs to access the resources that we need here in-country.</ParaText>
+              <ParaText id="8932163">With respect to investment, I believe that's better suited to some of my other colleagues on the witness panel. Economics is a bit out of my strength.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167464">
+            <PersonSpeaking>
+              <Affiliation DbId="319740" Type="49">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932164">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167469">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932165">Thank you very much, Ms. Acan.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8932166">Mr. Ste‑Marie, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167474">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932167">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8932168">My question is for Mr. Borger.</ParaText>
+              <ParaText id="8932169">I want you to elaborate on one of your comments. You said that, to ensure dynamic procurement procedures with appropriate oversight, it's necessary to delegate procurement powers to lower levels of management.</ParaText>
+              <ParaText id="8932170">Could you explain the reason for this requirement?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167475">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932171">Thank you, and while French is a beautiful language, it's definitely not my first, so I'm going to answer in English.</ParaText>
+              <ParaText id="8932172">The dynamic procurement strategy, focused with delegated authority, I think is fundamental, because now, from my experience in watching contracts go through, the budget analysis has been completed, the need for that technology has been completed by a management level and then that request for contract gets pushed up to the executive level. That executive level is fielding 300 to 400 emails a day, and it might take several weeks for that email just to be addressed. From there, it then comes back down to the managerial level and gets pushed across for contracting. By allowing that authority to be delegated to a lower level, I think we will make that process a lot more dynamic.</ParaText>
+              <ParaText id="8932173">In addition to that, I was at the GCXpo recently here in Ottawa, and I heard Lieutenant-Colonel Amanda Whalen speak about the option to actually combine delegated authority, so we'd have a delegated purchase authority of a larger number than is currently there.</ParaText>
+              <ParaText id="8932174"> What that would do is actually allow like-minded individuals who recognize the desperate need for a piece of technology to combine in a business case the need for that technology and combine procurement powers and actually be able to buy tech again, at a much more nimble speed than what we're seeing now.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167503">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932175">Thank you.</ParaText>
+              <ParaText id="8932176">Thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167508">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932177">Thank you.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8932178">Mr. Guglielmin, you have up to five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167514">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932179">Thank you to the witnesses for being here.</ParaText>
+              <ParaText id="8932180">Dr. Salt, you've observed in the past that the current procurement system tends to favour larger, more traditional defence companies over smaller companies that have very innovative solutions. How can the government restructure procurement to level the playing field for SMEs?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167520">
+            <PersonSpeaking>
+              <Affiliation DbId="323141" Type="28">Alexander Salt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932181">A couple of things come to mind right away.</ParaText>
+              <ParaText id="8932182"> First, it's just accelerating the contract process time, because smaller businesses don't have enough capital runway to wait months, half a year or even years. They need to pay rent. They need to pay their legal teams. They need to pay salaries.</ParaText>
+              <ParaText id="8932183">The other key area that could be improved even more quickly is developing some sort of communication hub/support hub. The Brits are playing around with this right now with their SME community in their defence sector. Especially in the emerging tech space like AI and quantum, you have firms that have absolutely no personnel with previous military or defence experience. This is a whole new world where they are potentially seeking to dip their toes into the water, especially with the increased money floating around, but they don't know how the processes work. They don't know how things like ITBs work. They don't know how any of this works.</ParaText>
+              <ParaText id="8932184"> I think it's very overwhelming for them to try to position themselves to get involved, other than having the primes come to them. Having more options for open dialogue with the department, just to walk them through the process and provide ongoing support as they potentially receive contracts, would go quite a long way, I think, in terms of allowing a more welcoming environment for smaller businesses to get involved.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167538">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932185">We know that a large number of projects are pre-approved. The private sector oftentimes is ready to deliver and government follow-through is often missing. That seems to be the case.</ParaText>
+              <ParaText id="8932186"> What would you say to innovators whose work has been stalled not because of some sort of technical shortcoming, but perhaps because of cost overruns or bureaucratic delays in the procurement process? What should they be doing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167549">
+            <PersonSpeaking>
+              <Affiliation DbId="323141" Type="28">Alexander Salt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932187"> Having had some conversations with folks, especially in the small and medium-sized enterprise area, when they're going through pauses domestically here in Canada, they first think about the export market and especially the United States, which is, quite frankly, a bit more welcoming to them. If the U.S. DOD wants tech, even if it's in Canada, they will make it happen.</ParaText>
+              <ParaText id="8932188">My usual advice just informally to them is that they have to look abroad while we figure out how to make things more effective here in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167559">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932189">Mr. Borger, I have a question for you.</ParaText>
+              <ParaText id="8932190">You indicated that contracts can take up to six weeks to move from ideation to submission to PSPC. You've attributed part of this delay to the fact that only executives can approve contracts exceeding $40,000, while management-level employees across the public service are restricted to lower values.</ParaText>
+              <ParaText id="8932191">How does this concentration of authority at the executive level create unnecessary delays? Can you expand on what types of forms are needed to empower management-level decision-makers to make sure we can get this done in a timely process?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167567">
+            <PersonSpeaking>
+              <Affiliation DbId="322917" Type="28">Richard Borger</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932192">I'll deal with the second half of your question first.</ParaText>
+              <ParaText id="8932193">I think the empowerment is already there. The lower level of management is already trained on procurement. Some of them are taking three- to five-day courses on training. We're paying them well. The government is paying them well. We do that because we trust their judgment in what they're doing, and they're well trained to do it. I think we already have the processes in place to expedite that.</ParaText>
+              <ParaText id="8932194">In addition to that, and with great respect to PSPC, if they are, indeed, as overwhelmed with contracts as they purport to be.... PSPC, essentially—and this is to my untrained eye—is simply contract management, managing appropriate trade laws and making sure contracts are put in place that meet all the checks and balances that the Government of Canada requires. Any law firm worth its salt could do that. We could easily off-load some of that work to a law firm that has that contracting capability and then get back on timelines. Then when the workload is back, we would bring those contracts back in-house.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13167578">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932195">Thank you.</ParaText>
+              <ParaText id="8932196">Thank you, Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167582">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932197">Thank you very much.</ParaText>
+              <ParaText id="8932198">Madam O'Rourke, you have up to five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167587">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932199">Thank you, Chair.</ParaText>
+              <ParaText id="8932200">The United States and the U.K. have dedicated procurement streams for small and medium-sized businesses. The United States actually has a dedicated DEI stream. Given that there would be more competition at that level and potentially lower costs because it wouldn't be subbed out by a tier one and a tier two, would you support Canada adopting a dedicated small business or DEI stream?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167593">
+            <PersonSpeaking>
+              <Affiliation DbId="323141" Type="28">Alexander Salt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932201">Absolutely. I think it would help level the playing field a great deal.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167599">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932202">Perfect.</ParaText>
+              <ParaText id="8932203">I'm sharing my time, so I'm going very fast.</ParaText>
+              <ParaText id="8932204">Thank you.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8932205">Mr. Asselin, we're talking about military members and decisions that become matters of life and death.</ParaText>
+              <ParaText id="8932206">In your opinion, at what stage do we still apply ethical standards, particularly in the use of artificial intelligence and autonomous weapons, setting limits on production, purchases or exports?</ParaText>
+              <ParaText id="8932207">Is this done at the design stage?</ParaText>
+              <ParaText id="8932208">Is this done at university?</ParaText>
+              <ParaText id="8932209">Where does this fit into our conversation about the defence industrial strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167613">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932210">Thank you for your highly relevant question.</ParaText>
+              <ParaText id="8932211">All sorts of policies regulate university research. I can only speak about this issue in terms of ethics and what is and isn't allowed. Obviously, the concept of academic freedom allows researchers to choose how they conduct their research and pursue research questions. I think that this is important.</ParaText>
+              <ParaText id="8932212">Artificial intelligence is certainly a major field of work. How will it be regulated?</ParaText>
+              <ParaText id="8932213">I think that a policy will come from the innovation, science and industry department, rather than from academia.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167629">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932214">I'll give my time to Mr. Bardeesy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167631">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932215">Thank you, Ms. O'Rourke.</ParaText>
+              <ParaText id="8932216">Mr. Asselin, I know that some of your members met with Minister McGuinty over the summer.</ParaText>
+              <ParaText id="8932217">In your opinion, how well prepared are university administrators and management for defence procurement?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167638">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932218">Thank you for your question.</ParaText>
+              <ParaText id="8932219">After our very constructive discussions with the Minister of National Defence, both sides expressed a sense of urgency. We understand that the country must quickly mobilize all stakeholders, including major research universities. We're here to respond to that request. I want to be clear on that point.</ParaText>
+              <ParaText id="8932220">The procurement issue is a bit more complicated in academia. These institutions aren't necessarily the ones making decisions or purchasing the technology. However, when it comes to artificial intelligence, major research universities can facilitate supercomputing, meaning the ability to generate large amounts of data, and play a major role in it. Many of our universities and stakeholders play a key role in this area.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13167643">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932221">We heard testimony from a representative of the University of Alberta. The university launched its own initiative by creating the Centre for Applied Research in Defence and Dual‑Use Technologies.</ParaText>
+              <ParaText id="8932222">What do you expect from your members as part of this initiative?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167645">
+            <PersonSpeaking>
+              <Affiliation DbId="322573" Type="28">Robert Asselin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932223">Thank you for your question.</ParaText>
+              <ParaText id="8932224">All 15 of our major research universities have already established research capabilities and maintain relationships with the Department of National Defence.</ParaText>
+              <ParaText id="8932225">Since the goal and scope of the initiative call for mobilization, greater efforts will be involved. I want to make it clear to the committee members that our major research universities already have significant research capacity in the areas of defence, national security, cybersecurity, quantum physics, artificial intelligence and Arctic defence.</ParaText>
+              <ParaText id="8932226">We have strong capabilities, but we must continue to develop them. As a result, we hope that we can work with the Department of National Defence on this initiative.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13167659">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932227"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13167661">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8932228">Thank you very much to our witnesses. I appreciate your contributing today.</ParaText>
+              <ParaText id="8932229">Colleagues, I did let the respective representatives of each party know that we're going to go in camera for five minutes because we have one brief thing we have to discuss. That means any members of the media, witnesses, or non-authorized staff are going to have to vacate the room as quickly as you can, please, as you can't be here while we're in camera.</ParaText>
+              <ParaText id="8932230">Witnesses, thank you very much.</ParaText>
+              <ParaText id="8932231">Mr. Asselin, thank you.</ParaText>
+              <ParaText id="8932232">We're briefly suspended, and we'll come back in camera.</ParaText>
+              <ParaText id="8932233">[<I>Proceedings continue in camera</I>]</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

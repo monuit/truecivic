@@ -1,0 +1,813 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="FR" id="13138776">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>TÉMOIGNAGES</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="Session">1<Sup>re</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le mercredi 24 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Wednesday, September 24, 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Enregistrement électronique]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">TÉMOIGNAGES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">24 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">05</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">24</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/24 16:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Access to Information, Privacy and Ethics</ExtractedItem>
+    <ExtractedItem Name="Acronyme">ETHI</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Président</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">John Brassard</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138779">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président (John Brassard (Barrie-Sud—Innisfil, PCC))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898527"> Je déclare la séance ouverte. </ParaText>
+              <ParaText id="8898528">Bienvenue à la cinquième réunion du Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8898529">Conformément à l'article 108(3)h) du Règlement et à la motion adoptée par le Comité le mercredi 17 septembre 2025, le Comité entreprend son examen de la Loi sur les conflits d’intérêts.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8898530">La réunion d'aujourd'hui se tient en format hybride conformément au Règlement. Des députés y assistent en personne, tandis que d'autres y assistent à distance au moyen de l'application Zoom. </ParaText>
+              <ParaText id="8898531">Avant de passer à notre témoin, j'aimerais vous rappeler l'importance de faire attention à votre microphone et à votre oreillette et de les tenir à distance l'un de l'autre pour éviter de causer des problèmes aux interprètes. </ParaText>
+              <ParaText id="8898532">J'aimerais souhaiter la bienvenue à notre premier témoin aujourd'hui. Nous accueillons M. Ian Greene, professeur émérite à l'École de l'administration et des politiques publiques de l'Université York, qui comparaît à titre personnel par vidéoconférence.</ParaText>
+              <ParaText id="8898533">Monsieur Greene, au nom du Comité, je vous remercie de vous être libéré à si court préavis. Nous devons jouer serré en ce moment parce que nous déterminons nos sujets d'étude et que nous essayons d'inviter des témoins en conséquence. Dans certains cas, le préavis est court, mais vous, monsieur, vous avez eu la gentillesse de nous donner de votre temps aujourd'hui. </ParaText>
+              <ParaText id="8898534">Vous avez cinq minutes pour prononcer votre déclaration liminaire, qui sera suivie par une période de questions. </ParaText>
+              <ParaText id="8898535"> La parole est à vous.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138798">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene (professeur émérite, School of Public Policy &amp; Administration, York University, à titre personnel)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898536">Merci beaucoup. Je suis honoré d'avoir été invité à m'adresser au Comité aujourd'hui. </ParaText>
+              <ParaText id="8898537">Monsieur le président, je suis impressionné par les bourses que vous offrez aux étudiants de votre circonscription pour étudier dans des programmes comme science politique. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138804">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898538">Merci, monsieur.</ParaText>
+              <ParaText id="8898539"> Monsieur Greene, je suis désolé de vous interrompre. Votre écran a figé pendant une seconde. Je voudrais seulement vérifier que nous n'avons rien manqué. </ParaText>
+              <ParaText id="8898540">Je vous remercie d'avoir souligné cette initiative. Mon épouse et moi-même faisons cela depuis, je crois, 14 ou 15 ans dans notre localité. </ParaText>
+              <ParaText id="8898541">Je vous cède la parole. Je peux vous accorder un peu plus de cinq minutes si vous le souhaitez. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138830">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898542">Je suis impressionné par le travail que chacun des membres du Comité accomplit pour la population. Je vois que l'un des membres a servi dans les Forces canadiennes. Mon père était soldat pendant la Deuxième Guerre mondiale. Il a été déployé à la bataille de la crête de Vimy. À son retour, il a étudié en médecine dentaire à l'Université de Toronto, et pendant ses étés, il a travaillé sur un bateau dans les Mille-Îles, dont deux circonscriptions sont représentées par des membres du Comité. </ParaText>
+              <ParaText id="8898543">Un autre député représente une circonscription en Saskatchewan, où mon père est né. Même si j'ai grandi en Alberta et que j'ai obtenu mon diplôme de premier cycle à l'Université de l'Alberta, j'ai étudié pendant un an à l'Université Bishop, à Sherbrooke, au Québec, dans le cadre d'un échange. J'ai appris à aimer le Québec. Un autre député est un diplômé de l'Université de Toronto, là où j'ai soutenu ma thèse de doctorat sur le système de justice au Canada. </ParaText>
+              <ParaText id="8898544">La motion à l'origine de la séance d'aujourd'hui demande de déterminer s'il y a lieu de modifier les dispositions de la Loi sur les conflits d'intérêts qui portent sur la divulgation des biens des titulaires de charge publique ainsi que de modifier les règles applicables aux fiducies sans droit de regard ou au filtrage éthique. Dans son rapport annuel 2024‑2025, le commissaire Konrad von Finckenstein a recommandé des modifications avec lesquelles je suis d'accord et dont je vais discuter plus en détail dans quelques minutes.</ParaText>
+              <ParaText id="8898545">J'aimerais commencer par souligner que le principe de respect mutuel est le principe fondamental qui sous-tend toutes les normes d'éthique dans les démocraties durables. Le respect mutuel sous-tend également les principes constitutionnels de base que sont la primauté de droit, la suprématie législative et la justice fondamentale. </ParaText>
+              <ParaText id="8898546">L'application précise de ce principe fondé sur le respect mutuel n'est pas immuable; elle évolue au fil du temps. Cette évolution est favorable lorsque nous atteignons des niveaux plus élevés de comportements civilisés, mais elle est négative lorsque nous tournons le dos aux leçons de l'histoire par ignorance, arrogance ou faiblesse.</ParaText>
+              <ParaText id="8898547">J'aimerais vous raconter comment je me suis intéressé à l'étude de l'éthique en politique. </ParaText>
+              <ParaText id="8898548">Mon intérêt pour ce thème est né en 1968, lorsque j'étais le directeur de campagne de Bob Thompson, qui avait quitté le Crédit social pour rejoindre les progressistes-conservateurs. Mes deux qualifications pour le poste étaient mes deux ans d'étude au baccalauréat en science politique et un père qui était le dentiste de M. Thompson. À 20 ans, j'étais trop jeune pour voter à l'époque, mais assez vieux pour en apprendre sur la cohabitation parfois houleuse de l'éthique et de la politique. Comme directeur de campagne, je passais au moins 10 % de mon temps à essayer de mettre fin aux comportements non éthiques de mes collaborateurs et de ceux des autres partis. </ParaText>
+              <ParaText id="8898549">En 1972, j'étais l'adjoint d'un ministre du gouvernement de l'Alberta qui présidait un comité législatif multipartite chargé de déterminer si une loi discriminatoire qui visait les frères huttériens pouvait se justifier sur le plan juridique ou éthique. Le comité a conclu que la discrimination ne pouvait être justifiée, et un comité de liaison a été mis sur pied pour promouvoir le respect mutuel. Le tout a été couronné de succès. </ParaText>
+              <ParaText id="8898550">Quelques années plus tard, mes études doctorales à l'Université de Toronto ont porté sur la façon d'améliorer le système de justice en réduisant au minimum les délais inutiles. J'ai toujours considéré comme des problèmes d'éthique les délais judiciaires déraisonnables.</ParaText>
+              <ParaText id="8898551">J'ai été embauché à l'Université York en 1985 pour donner des cours sur la Charte canadienne des droits et libertés, l'administration publique et l'éthique dans la fonction publique. </ParaText>
+              <ParaText id="8898552">La fin des années 1980 a été marquée par de nombreux scandales politiques dans les trois ordres de gouvernement au Canada. Je craignais que ces scandales ébranlent la démocratie au pays. Nous assistions à une période de polarisation qui générait beaucoup de fiel, qui ressemble beaucoup à ce qui se passe aux États-Unis aujourd'hui. J'ai mené une étude sur les articles médiatiques relatant des conflits d'intérêts en politique fédérale, provinciale et municipale. Il m'a fallu prendre du recul de temps à autre parce que la lecture de centaines de textes sur les conflits d'intérêts me rendait souvent malade.</ParaText>
+              <ParaText id="8898553">En 1987, le gouvernement de l'Ontario a chargé l'ancien lieutenant-gouverneur John Black Aird de mener une enquête et de rédiger un rapport. M. Aird a recommandé la création du premier commissariat à l'éthique indépendant du Canada. Il a écrit que la plupart des personnes qui travaillent dans la sphère publique pensent se comporter de manière éthique, mais qu'il n'existe pas de compréhension commune des normes d'éthique. Selon lui, la fonction de commissaire à l'éthique indépendant était nécessaire pour clarifier les normes de même que conseiller et soutenir les membres des assemblées législatives. </ParaText>
+              <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+              <ParaText id="8898554">Au fil de mes recherches, j'ai observé que depuis la nomination du commissaire à l'éthique indépendant de l'Ontario en 1988, la fréquence des scandales liés aux conflits d'intérêts dans la province avait considérablement diminué. Les députés ont fini par considérer le commissaire comme un ami — quelqu'un dont les conseils avisés pouvaient les empêcher de commettre des erreurs. </ParaText>
+              <ParaText id="8898555">J'ai ensuite commencé à publier des articles et des livres sur l'éthique, notamment sur les conflits d'intérêts. Depuis lors, j'ai écrit et coécrit quatre livres. </ParaText>
+              <ParaText id="8898556">J'ai constaté que le modèle ontarien s'étendait rapidement aux autres provinces, mais que le Parlement tardait à l'adopter. Le retard pris dans la création de commissariats à l'éthique à la Chambre des communes et au Sénat s'expliquait en partie par la tentative du gouvernement Chrétien de mettre en place un seul bureau pour les deux Chambres. Le Sénat s'y est opposé à juste titre en insistant pour avoir son propre commissaire. </ParaText>
+              <ParaText id="8898557">Finalement, la Loi sur les conflits d'intérêts visant les titulaires de charge publique et le code de conduite des députés sont entrés en vigueur en 2006. La Loi sur les conflits d'intérêts, le code de conduite des députés et le régime de gestion des conflits d'intérêts du Sénat ont considérablement réduit l'incidence des scandales liés aux conflits d'intérêts au fédéral. N'empêche que toutes proportions gardées, l'incidence des scandales liés aux conflits d'intérêts impliquant des ministres et des députés fédéraux était supérieure à celle observée au niveau provincial.</ParaText>
+              <ParaText id="8898558">Huit provinces exigent la tenue de rencontres annuelles entre le commissaire à l'éthique et chacun des députés des assemblées législatives provinciales. Selon les entrevues que j'ai menées avec les commissaires à l'éthique provinciaux, ces rencontres sont essentielles à la prévention des conflits d'intérêts. Des rencontres obligatoires se tiennent au Sénat du Canada, et selon l'ancien conseiller sénatorial en éthique, Jean Fournier, elles sont essentielles au succès du régime de gestion de l'éthique du Sénat. </ParaText>
+              <ParaText id="8898559">Toutefois, des scandales provoqués par les conflits d'intérêts ont continué à se produire dans les bureaux de ministres et de députés canadiens de tous les ordres de gouvernement. Selon moi, la cause du problème est le caractère facultatif des rencontres annuelles entre chacun des élus et un membre du Commissariat aux conflits d'intérêts et à l'éthique. À l'heure actuelle, le commissariat affecte un conseiller à chaque ministre et à chaque député. Est‑ce suffisant pour éviter les conflits d'intérêts ou faudrait‑il instaurer des rencontres obligatoires entre le conseiller et les députés, y compris les ministres? Voilà à mon avis une question importante sur laquelle le Comité doit se pencher.</ParaText>
+              <ParaText id="8898560">À la réunion du Comité du 15 septembre, le commissaire a déclaré que de modifier la loi pour exiger que les titulaires de charge publique vendent leurs biens au lieu de les placer dans une fiducie sans droit de regard serait contre-productif. Je suis d'accord. Le commissaire soulève un bon point en soulignant que les lourds impôts à payer résultant de cette obligation pourraient décourager de bons candidats de se lancer en politique. Cela dit, certains titulaires de charge publique donneront à leurs fiduciaires la liberté de vendre leurs biens et de les réinvestir. L'important, c'est de s'assurer qu'un filtrage éthique soit en place pour empêcher les titulaires de charge publique de s'impliquer directement dans des décisions qui pourraient favoriser les biens qui se trouvent dans leur fiducie. </ParaText>
+              <ParaText id="8898561">Dans le cas du <Affiliation DbId="314774" Type="1">premier ministre Carney</Affiliation>, le filtrage établi par le commissaire est administré par son chef de cabinet et par le greffier du Conseil privé.</ParaText>
+              <ParaText id="8898562">Premièrement, étant donné le bagage considérable du commissaire von Finckenstein en droit des affaires, dans le système de justice et à la Cour fédérale, je ne vois personne de plus qualifié pour mettre en place un mécanisme de filtrage efficace. </ParaText>
+              <ParaText id="8898563">Deuxièmement, au Canada, il y a une tradition bien établie voulant que le greffier du Conseil privé soit complètement non partisan. Je pense donc qu'il est approprié que le greffier joue un rôle dans ce mécanisme. </ParaText>
+              <ParaText id="8898564">Le chef de cabinet est partisan et a la confiance du premier ministre. Selon moi, le <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> doit pouvoir compter sur une personne de confiance qui participe au mécanisme de filtrage pour s'occuper de la fiducie et pour lui prodiguer des conseils axés sur la prudence et les précautions à prendre.</ParaText>
+              <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+              <ParaText id="8898565">Dans son rapport annuel, le commissaire a formulé les recommandations suivantes: la « nomination d'un commissaire intérimaire » en attendant la nomination d'un commissaire permanent; l'« ajout des conflits d'intérêts apparents » à la définition des conflits d'intérêts que doivent éviter les titulaires de charge publique; l'assouplissement des dispositions visant certains types de biens; l'harmonisation « des définitions d'“intérêt personnel“ » énoncées respectivement dans la Loi et dans le Code; l'« élargissement des activités extérieures autorisées »; l'« augmentation du montant des pénalités. »</ParaText>
+              <ParaText id="8898566"> Je suis d'accord avec toutes ces recommandations et j'espère que le Comité s'efforcera d'accélérer l'adoption des modifications législatives nécessaires pour les mettre en œuvre. </ParaText>
+              <ParaText id="8898567"> La proposition de modification à examiner le plus attentivement est celle qui porte sur les conflits d'intérêts apparents. </ParaText>
+              <ParaText id="8898568">Comme l'a fait remarquer le commissaire, selon la définition acceptée en vigueur actuellement, le conflit d'intérêts apparent « s'entend d'une situation où une personne raisonnablement bien informée peut convenablement avoir une perception raisonnable que la capacité d'un titulaire de charge publique d'exercer un pouvoir officiel ou d'exécuter un devoir ou une fonction officielle sera ou doit avoir été teintée par son intérêt personnel ou par l'intérêt personnel d'un parent ou d'un ami. »</ParaText>
+              <ParaText id="8898569">Il y a 35 ans, les spécialistes des conflits d'intérêts s'entendaient pour dire que les conflits d'intérêts apparents ne devaient pas être interdits parce que la définition de cette notion était trop vague. Les mentalités ont évolué depuis en raison en grande partie de l'exaspération du public contre les subtilités techniques qui distinguent les conflits d'intérêts réels et apparents. Les conflits d'intérêts apparents sont interdits par le Code. Ce serait absurde que cette interdiction ne figure pas dans la Loi également. </ParaText>
+              <ParaText id="8898570">Cela m'amène à un autre point que j'aimerais soulever. Les scandales causés par les conflits d'intérêts sont plus fréquents dans le groupe des députés et des ministres fédéraux que dans le groupe de leurs homologues provinciaux. Cet écart est dû principalement au fait que dans la plupart des provinces, les élus sont tenus de rencontrer les commissaires à l'éthique dans les deux mois suivant leur élection, puis chaque année par la suite. </ParaText>
+              <ParaText id="8898571">Au cours de ma carrière, j'ai mené des entrevues avec un bon nombre de ces commissaires. Tous ont souligné à quel point ces rencontres étaient importantes pour clarifier les règles sur les conflits d'intérêts. Elles encouragent également les élus à consulter le commissaire chaque fois qu'ils ont des doutes sur la présence de conflits d'intérêts. </ParaText>
+              <ParaText id="8898572">Au fédéral, ces rencontres sont facultatives si je comprends bien. Toutefois, chaque député et chaque ministre a un conseiller qui lui est affecté par le commissaire. Cela vaudrait la peine de se pencher sur l'utilité de renforcer le système de conseillers de quelque manière que ce soit et de se poser la question de savoir s'il faut rendre obligatoires les rencontres avec les conseillers.</ParaText>
+              <ParaText id="8898573">De 1990 à 1991, le gouvernement Mulroney a établi la Commission royale sur la réforme électorale et le financement des partis. La Commission a accompli un travail remarquable, notamment la production de 12 volumes de rapports de recherche. J'avais préparé un document pour la Commission sur la manière de déterminer le montant maximal autorisé des dons individuels et des dons d'entreprises aux candidats et aux partis. Peut-être que le moment est venu de lancer une autre commission royale qui se pencherait sur des questions complexes telles que la prévention des conflits d'intérêts apparents de même que la mise en place de fiducies sans droit de regard efficaces et de filtres éthiques efficaces. Ce sont des questions très complexes qui mériteraient une étude approfondie.</ParaText>
+              <ParaText id="8898574"> J'étudie l'éthique en politique parce que je suis convaincu que plus le public croira au caractère éthique du système, plus les personnes de qualité comme celles à qui je m'adresse aujourd'hui seront portées à se lancer en politique. Continuez votre bon travail. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138845">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898575">Merci de votre déclaration liminaire, monsieur Greene. </ParaText>
+              <ParaText id="8898576">Nous allons poursuivre avec les séries de questions. Nous commençons avec M. Barrett pour six minutes, suivi de Mme Lapointe.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8898577">Mme Lapointe partagera son temps de parole avec M. Sari.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8898578"> Monsieur Barrett, vous avez la parole pour six minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138879">
+            <PersonSpeaking>
+              <Affiliation DbId="320173" Type="47">Michael Barrett (Leeds—Grenville—Thousand Islands—Rideau Lakes, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898579">Professeur Greene, merci beaucoup d'avoir pris le temps de personnaliser votre témoignage. Je me réjouis du lien que vous avez fait avec le service militaire de votre père et avec la région des Mille-Îles, que j'ai l'honneur de représenter. J'ai en commun avec votre père d'avoir servi, moi aussi.</ParaText>
+              <ParaText id="8898580">Je tiens également à mentionner la photo derrière vous. Elle est charmante. Nous avons pris connaissance de vos antécédents, mais cette photo en dit probablement plus sur vous que ce que j'ai lu dans votre biographie. Merci beaucoup, monsieur.</ParaText>
+              <ParaText id="8898581">Il me reste cinq minutes pour mes questions. Je vais essayer de vous en poser quatre.</ParaText>
+              <ParaText id="8898582">Au sujet des fiducies sans droit de regard, vous avez mentionné... Je pourrais peut-être caractériser de perception d'inefficacité l'impression que donne la possibilité pour le titulaire d'une charge publique désignée de vendre ses actifs au lieu de les placer dans une fiducie sans droit de regard. Comme vous le savez, durant son témoignage, le commissaire a mentionné qu'en général, les fiduciaires ne vendent pas le contenu des fiducies. Par conséquent, les titulaires de charge publique savent exactement ce qu'elles contiennent.</ParaText>
+              <ParaText id="8898583">Au‑delà de la caractérisation de la fiducie sans droit de regard, le fait que le titulaire de charge publique, ainsi que ses conseillers, ses collègues de cabinet et d'autres responsables savent exactement ce que la fiducie contient pose‑t‑il problème?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138882">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898584">C'est une question très importante. J'ai parlé à un ancien titulaire de charge publique très intègre qui avait dit à son fiduciaire: « Tu peux vendre n'importe quel bien de ma fiducie, mais je ne veux pas savoir si son contenu a changé. » Après avoir quitté sa charge, il a été très étonné de constater quels biens son fiduciaire avait choisi de vendre et par quels biens il avait pris la très mauvaise décision, à ses yeux, de les remplacer.</ParaText>
+              <ParaText id="8898585">C'est un risque que les titulaires de charge publique prennent. Le dessaisissement obligatoire — qui peut se faire au moyen d'une fiducie sans droit de regard en politique — n'existe que depuis environ 30 à 40 ans. Nous expérimentons. C'est la raison pour laquelle je recommande d'entreprendre une étude à grande échelle des différents systèmes utilisés au Canada et ailleurs dans le monde. Qu'est‑ce qui fonctionne le mieux? Que faut‑il changer? C'est une question complexe.</ParaText>
+              <ParaText id="8898586">Encore une fois, je pense qu'il s'agit surtout de savoir si les filtres mis en place pour <Affiliation DbId="314774" Type="1">Mark Carney</Affiliation> vont fonctionner. Causeront-ils des problèmes? Seul le temps nous le dira...</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138888">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898587">Excusez-moi, monsieur Greene, mais M. Barrett a une question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138898">
+            <PersonSpeaking>
+              <Affiliation DbId="320173" Type="47">Michael Barrett</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898588"> Vous avez mentionné les filtres du <Affiliation DbId="314774" Type="1">premier ministre</Affiliation>. Durant la dernière campagne, on a rapporté que le premier ministre avait déclaré qu'il avait conçu le programme électoral du Parti libéral. À l'époque, il venait tout juste de quitter le secteur privé; il connaissait très bien tous les investissements qu'il avait faits, ainsi que le contenu des fonds qu'il avait créés pour Brookfield Asset Management. Les filtres n'avaient pas encore été mis en place. Ainsi, l'élection de M. Carney à la tête de son parti, sa nomination au poste de premier ministre et la campagne électorale subséquente ont toutes eu lieu avant que ces mesures soient prises. Cependant, c'est lui qui a écrit le document sur lequel repose la stratégie du gouvernement, sans le moindre intervalle.</ParaText>
+              <ParaText id="8898589">Dans un cas pareil, le système protège‑t‑il la confiance du public envers nos institutions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138903">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898590">Nous n'arriverons jamais à mettre en place un système parfait. Il faut expérimenter. Nous devons compter sur les titulaires de charge publique pour faire preuve d'intégrité lorsque vient le temps de prendre des décisions difficiles.</ParaText>
+              <ParaText id="8898591">En étudiant les scandales politiques aux ordres fédéral et provincial, j'ai constaté que les personnes dont il faut se méfier sont celles dont la situation financière est proche de la ligne. Ces personnes pourraient être tentées de prendre des mesures contraires à l'éthique pour s'assurer d'avoir des économies au moment de prendre leur retraite. Le risque qu'une personne très fortunée soit tentée de faire quelque chose pour se remplir les poches est beaucoup moins élevé puisqu'elle est déjà bien nantie.</ParaText>
+              <ParaText id="8898592">Je le répète, vos questions sont légitimes et elles méritent d'être approfondies.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138909">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898593">Merci, monsieur Greene.</ParaText>
+              <ParaText id="8898594">Merci, monsieur Barrett.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8898595">Madame Lapointe, votre temps de parole est de six minutes, et vous pouvez le partager.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138917">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898596">Merci, monsieur le président.</ParaText>
+              <ParaText id="8898597">Bonjour, tout le monde.</ParaText>
+              <ParaText id="8898598">Chers témoins, je vous souhaite la bienvenue au Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique. Nous vous remercions de votre présence.</ParaText>
+              <ParaText id="8898599">Monsieur Greene, vous venez de dire quelque chose au sujet des fiducies sans droit de regard. Si je comprends bien, on parle de quelqu'un qui est plus proche de la ligne. Qu'entendez-vous par « ligne »? Voulez-vous dire que quelqu'un qui a plus de difficulté sur le plan financier serait plus sujet à contrevenir aux règles entourant les conflits d'intérêts?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138925">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898600">Dans une fiducie sans droit de regard, le fiduciaire administre l'ensemble des biens et il prend les décisions sans consulter le propriétaire.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138935">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898601"> Je comprends très bien ce que vous me dites sur le rôle d'un fiduciaire dans une fiducie sans droit de regard.</ParaText>
+              <ParaText id="8898602">Ce que je voulais savoir, c'est ce que vous vouliez dire par quelqu'un qui est proche de la ligne.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138944">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898603">Ce que je voulais dire, c'est que la personne est au courant des biens placés dans la fiducie sans droit de regard.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138946">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898604">Tantôt, on a dit que les gens étaient au courant de ce qui se trouvait dans la fiducie. Quelqu'un s'est-il préoccupé de savoir si, au fil des ans, le fiduciaire a vraiment effectué des transactions dans le cadre de la fiducie? Quelqu'un a-t-il vérifié ça?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138955">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898605">Je présume que c'est quelque chose que ferait le commissaire aux conflits d'intérêts et à l'éthique. Le fiduciaire a des responsabilités précises. Il doit agir indépendamment du propriétaire des biens.</ParaText>
+              <ParaText id="8898606">Je suis fiduciaire pour quelques fiducies créées pour des personnes handicapées. Je connais mes obligations, et elles sont extrêmement strictes. Je m'assure de toujours les respecter. Si j'y manquais, je m'exposerais à des poursuites judiciaires.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138963">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898607">Il est possible que les fiduciaires continuent à effectuer des transactions semblables à celles que la personne faisait auparavant, lorsqu'elle investissait elle-même.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138969">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898608">D'après mon expérience, les fiduciaires examinent la viabilité financière des biens. S'ils voulaient vendre des biens et en acheter de nouveaux, ils chercheraient quelque chose de semblable. L'important, c'est que lorsqu'un fiduciaire vend des biens, le propriétaire ne doit pas être informé de ce qui a été vendu ou acquis.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138975">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898609"> Merci beaucoup.</ParaText>
+              <ParaText id="8898610">Je vais maintenant laisser la parole à M. Sari.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138983">
+            <PersonSpeaking>
+              <Affiliation DbId="319866" Type="47">Abdelhaq Sari (Bourassa, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898611"> Merci beaucoup.</ParaText>
+              <ParaText id="8898612">Monsieur Greene, je vous remercie de votre présence. Je vous remercie également de prendre le temps de nous transmettre vos connaissances.</ParaText>
+              <ParaText id="8898613">Dans votre allocution, vous avez évoqué le Code régissant les conflits d'intérêts des députés et la Loi sur les conflits d'intérêts.</ParaText>
+              <ParaText id="8898614">Selon vous, est-ce que la Loi sur les conflits d'intérêts devrait être beaucoup plus large et s'appliquer à l'ensemble des députés? Le Code régissant les conflits d'intérêts des députés devrait-il être mis à jour pour mieux correspondre à certaines normes prévues dans la Loi, mais aussi pour correspondre aux changements très importants survenus au fil du temps?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138987">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898615">C'est une très bonne question.</ParaText>
+              <ParaText id="8898616">Les différences entre les règles prévues par la Loi et celles prévues par le Code prêtent à confusion. Selon moi, la recommandation d'inclure les conflits d'intérêts apparents dans la Loi, comme ils le sont dans le Code, éliminerait une partie de la confusion. Vous, les députés, devez vous accommoder au Code, et les ministres doivent aussi s'accommoder à la Loi; c'est donc à vous, selon votre expérience et en consultation avec le commissaire, de décider si les deux documents devraient confluer davantage.</ParaText>
+              <ParaText id="8898617">Je pense que c'est mêlant pour la population générale de voir qu'il existe deux documents, et que certains rapports sont préparés en vertu de la Loi, d'autres en vertu du Code, et d'autres encore en vertu des deux. Il y aurait peut-être moyen de mieux les faire converger.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13138993">
+            <PersonSpeaking>
+              <Affiliation DbId="319866" Type="47">Abdelhaq Sari</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898618">J'ai lu vos témoignages passés et je trouvais que vous insistiez également sur l'importance pour les commissaires à l'éthique d'être perçus comme non partisans. Selon vous, le fait d'accorder automatiquement au commissaire au lobbying un rôle intérimaire de remplaçant en cas d'absence, d'empêchement ou de vacance de poste, comme proposé dans le nouvel article 82(3), pourrait-il nuire à cette perception d'indépendance, ou viendrait-il plutôt la renforcer?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138997">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898619">Excusez-moi, pouvez-vous répéter la question?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139005">
+            <PersonSpeaking>
+              <Affiliation DbId="319866" Type="47">Abdelhaq Sari</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898620">Dans vos témoignages, vous avez beaucoup parlé du rôle du commissaire à l'éthique. Selon vous, le fait d'accorder automatiquement un rôle intérimaire au commissaire au lobbying, par l'entremise de l'article 82(3) proposé, pourrait-il nuire à cette perception d'indépendance, ou viendrait-il plutôt la renforcer?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139013">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898621">Je pense qu'il renforcerait la perception d'indépendance.</ParaText>
+              <ParaText id="8898622">Au cours de témoignages précédents devant le Comité, j'ai soutenu que le choix du commissaire aux conflits d'intérêts et à l'éthique devait absolument convenir et au gouvernement et à l'opposition, car c'est très important que les deux côtés de la Chambre aient confiance en la personne nommée.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139020">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898623">Merci, monsieur Greene.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8898624">Monsieur Sari, je vous ai donné un peu plus de temps de parole, puisque vous avez dû répéter votre question.</ParaText>
+              <ParaText id="8898625">Monsieur Thériault, vous avez la parole pour six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139027">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault (Montcalm, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898626"> Merci, monsieur le président.</ParaText>
+              <ParaText id="8898627">Professeur Greene, dans un premier temps, j'aimerais vous remercier de nous faire l'honneur d'être avec nous et d'avoir démontré autant de générosité en acceptant l'invitation à si brève échéance.</ParaText>
+              <ParaText id="8898628">Je comprends que vous êtes en faveur d'une éthique plus proactive que réactive, ou plus prospective que rétrospective. Cela signifie qu'il faut ne pas attendre qu'il y ait des conflits d'intérêts, mais aller au-devant de ceux-ci et offrir de la formation et de l'information.</ParaText>
+              <ParaText id="8898629">Un des pans de mon action politique consiste à réintroduire l'éthique dans la politique, et non l'inverse. Cependant, le Comité a quand même l'obligation de voir à ce que les plus hauts critères éthiques soient établis pour que la population ait confiance dans le travail des institutions, y compris celle que nous représentons.</ParaText>
+              <ParaText id="8898630">Vous avez parlé du <Affiliation DbId="314774" Type="1">premier ministre</Affiliation>, M. Carney. Avouez que sa situation, avant qu'il devienne premier ministre, commandait qu'il y ait davantage de mesures pour encadrer au moins l'apparence de conflit d'intérêts. Quand il y a apparence de conflit d'intérêts, n'est-ce pas le drapeau rouge qui indique qu'il faut mettre en place une panoplie de filtres pour justement éviter d'en arriver à un conflit d'intérêts?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139037">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898631">Merci beaucoup pour la question.</ParaText>
+              <ParaText id="8898632">Tout dépend de la situation de la personne, et je suis tout à fait d'accord avec vous qu'il faut une approche proactive.</ParaText>
+              <ParaText id="8898633">Au fil du temps, je me suis entretenu avec plus d'une dizaine de commissaires à l'éthique provinciaux. C'est la raison pour laquelle ils accordent une si grande importance aux rencontres avec les élus: ces rencontres leur permettent de se familiariser avec la situation de chaque élu à l'aide des déclarations. Puis, en se fondant sur leur expérience, ils peuvent évaluer les risques de conflits d'intérêts. Ils peuvent dire à la personne: « Je vous recommande de faire attention à telle chose. Si vous avez des questions, venez me voir. Je veux prévenir que vous vous retrouviez en situation de conflit d'intérêts, que le conflit soit réel ou apparent. »</ParaText>
+              <ParaText id="8898634">J'en sais peu sur votre système de conseillers. J'ignore comment il fonctionne, combien d'entre vous rencontrent les conseillers en personne et quels genres de conseils ils vous donnent. Cependant, je pense que votre comité pourrait en faire beaucoup pour déterminer s'il y aurait moyen d'améliorer ce système.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139044">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898635">L'actuel <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> était à la tête de Brookfield, une société qui gère 1 000 milliards de dollars, qui a le contrôle de 916 compagnies et qui, entre autres, possède des intérêts dans les cinq grands champs d'application visés par le projet de loi <Document DbId="13547622" Type="3">C‑5</Document>.</ParaText>
+              <ParaText id="8898636">Sans avoir divulgué les intérêts de M. Carney dans Brookfield, entre autres, le filtre qui est appliqué au premier ministre Carney par l'entremise de son chef de cabinet et du greffier n'a fait l'objet d'aucune recherche, à ce qu'on sache. J'ai posé la question au commissaire et il n'y a pas répondu. Ne pensez-vous pas que c'est un peu léger comme filtre contre les conflits d'intérêts?</ParaText>
+              <ParaText id="8898637">D'un point de vue éthique, ne croyez-vous pas que le fait d'avoir occupé certains postes dans le secteur privé rend un individu incompatible avec la fonction de premier ministre?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139052">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898638">Permettez-moi de répondre à votre deuxième question en premier, car c'est une nouvelle question à laquelle je n'ai jamais réfléchi.</ParaText>
+              <ParaText id="8898639">Je suis un optimiste. Je crois que toute personne devrait pouvoir devenir premier ministre, peu importe ses antécédents. Cela étant dit, c'est bien d'avoir du temps pour se préparer, et il va sans dire qu'au cours de la dernière année, nous n'avons pas eu beaucoup de temps.</ParaText>
+              <ParaText id="8898640">Pouvez-vous me rappeler quelle était votre première question?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139060">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898641">Elle concernait les intérêts du premier ministre dans Brookfield.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139066">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898642">Ah, oui.</ParaText>
+              <ParaText id="8898643">Il faut voir l'actuel...</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139073">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898644">C'est le premier ministre, et non un simple ministre du Cabinet, qui prend toutes les décisions. C'est lui qui donne toutes les orientations politiques et économiques. Même s'il y a une fiducie sans droit de regard, le premier ministre ne sait pas combien il va faire d'argent, mais les décisions qu'il va prendre vont nécessairement faire augmenter ses actifs. Il le sait, même s'il ne connaît pas le montant.</ParaText>
+              <ParaText id="8898645">Croyez-vous que le filtre contre les conflits d'intérêts que l'on a appliqué est suffisant?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139081">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898646">Pouvez-vous donner une réponse brève, s'il vous plaît, monsieur Greene?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139091">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898647">Il se peut que des situations surviennent où le chef de cabinet du <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> doive lui dire: « Cette mesure législative pourrait avoir un effet considérable sur la valeur des actifs qui ont été placés dans votre fiducie. » Dans un cas pareil, il faudrait peut-être aller au‑delà des filtres en faisant une déclaration sur ce que contient toujours la fiducie et en disant: « Voici ce que j'ai fait. Voici la décision que j'ai prise. Je me suis récusé et je laisse à la population le soin de décider si j'ai pris la bonne décision. »</ParaText>
+              <ParaText id="8898648">Il se peut très bien que des décisions difficiles doivent être prises à ce sujet dans l'avenir. Je le répète, ce sont des questions complexes, et j'espère vraiment qu'elles feront l'objet d'examens approfondis.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139099">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898649">Merci, monsieur Greene.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8898650">Merci, monsieur Thériault.</ParaText>
+              <ParaText id="8898651">Voilà ce qui met fin au premier tour de parole. Nous commençons maintenant le deuxième.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8898652">Monsieur Cooper, la parole est à vous. Vous disposez de cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139588">
+            <PersonSpeaking>
+              <Affiliation DbId="320172" Type="47">Michael Cooper (St. Albert—Sturgeon River, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898653">Merci, monsieur le président.</ParaText>
+              <ParaText id="8898654">Professeur Greene, j'aimerais vous poser des questions sur les filtres anti-conflits d'intérêts que le commissaire à l'éthique peut appliquer à l'endroit des titulaires de charge publique conformément à l'article 29 de la Loi.</ParaText>
+              <ParaText id="8898655">À la fin de votre déclaration préliminaire, vous avez parlé de l'importance de la confiance du public dans la robustesse de nos lois en matière d'éthique. À cet égard, des critiques ont été émises par rapport aux filtres anti-conflits d'intérêts pour ce qui est de la transparence. Dans les faits, les filtres permettent aux titulaires de charge publique de contourner les exigences relatives à la déclaration prévues au paragraphe 25(1) de la Loi sur les conflits d'intérêts, en vertu duquel un titulaire de charge publique doit faire une déclaration publique chaque fois qu'il se récuse pour éviter un conflit d'intérêts.</ParaText>
+              <ParaText id="8898656">J'aimerais savoir ce que vous en pensez.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139592">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898657">Dans mon ancienne vie, quand je travaillais pour le gouvernement de l'Alberta, ma femme était vérificatrice, et on lui demandait parfois d'auditer des organismes dont j'étais responsable. Des filtres anti-conflits d'intérêts ont dû être mis en place pour elle et pour moi; je comprends donc ce qui arrive quand un filtre s'applique à nous. Il faut poser beaucoup de questions difficiles sur les situations données. C'est dur de généraliser, mais au bout du compte, je pense qu'il revient aux personnes concernées de faire preuve d'intégrité et de veiller à ce que leurs décisions soient les plus impartiales possibles et servent l'intérêt public.</ParaText>
+              <ParaText id="8898658">Nous devons être en mesure de démontrer que nos actions sont conformes à l'éthique et qu'elles servent l'intérêt public. Il n'existe pas de solution immuable et parfaite. Tout dépend de la situation en question.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139595">
+            <PersonSpeaking>
+              <Affiliation DbId="320172" Type="47">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898659">Si je comprends bien, vous dites, par rapport au filtre mis en place pour le <Affiliation DbId="314774" Type="1">premier ministre</Affiliation>, par exemple, que nous devons simplement faire confiance au premier ministre, ainsi qu'à son chef de cabinet et au greffier du Conseil privé, qui servent tous les deux au gré du premier ministre.</ParaText>
+              <ParaText id="8898660">En l'occurrence, comprenez-vous pourquoi de nombreux Canadiens ne sont pas convaincus que le filtre anti-conflits d'intérêts est une mesure digne de confiance?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139600">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898661">Je pense que beaucoup de Canadiens ne comprennent pas la différence entre un conflit d'intérêts potentiel et un conflit d'intérêts réel.</ParaText>
+              <ParaText id="8898662">Je suis certain que vous vous êtes tous déjà trouvés en situation de conflit d'intérêts potentiel, vous y compris. Ce n'est pas de la corruption, c'est simplement une réalité. Les gens doivent prendre les mesures qui s'imposent pour éviter que les conflits potentiels se transforment en conflits réels ou apparents. C'est quand ils ne prennent pas ces mesures ou quand personne ne leur conseille de les prendre que les problèmes surviennent.</ParaText>
+              <ParaText id="8898663">Beaucoup de Canadiens voient venir des conflits d'intérêts potentiels pour le <Affiliation DbId="314774" Type="1">premier ministre Carney</Affiliation> à cause de ses antécédents, mais bon nombre de...</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139603">
+            <PersonSpeaking>
+              <Affiliation DbId="320172" Type="47">Michael Cooper</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898664">Si vous me permettez, monsieur, ce qui manque, c'est la transparence. Il ne nous reste que la confiance. </ParaText>
+              <ParaText id="8898665">Je le répète, à mes yeux, c'est un problème. Ne serait‑ce pas mieux d'exiger que le <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> fasse une déclaration publique chaque fois qu'un conflit d'intérêts réel ou potentiel surgit relativement à Brookfield ou à une des 89 entreprises visées par le filtre anti-conflits d'intérêts?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139609">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898666">C'est une question très complexe parce que ce type de renseignements pourrait donner lieu à d'autres problèmes. Des personnes malhonnêtes pourraient chercher à impressionner le <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> en investissant dans les actifs nommés. Des gouvernements étrangers pourraient tenter d'influencer le Canada en investissant dans les avoirs confirmés du premier ministre. Un excès de zèle pourrait causer toutes sortes de problèmes.</ParaText>
+              <ParaText id="8898667">À partir des 40 ans d'expérience que nous avons dans ce domaine, je peux dire que le système actuel fonctionne aussi bien que possible. Il n'est pas parfait. Dans l'avenir, il faudra y apporter des changements.</ParaText>
+              <ParaText id="8898668">Comme je l'ai déjà dit, ces questions sont très complexes. Il est peut-être temps de mettre sur pied une commission royale pour les examiner en profondeur.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139614">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898669">Je vous remercie, monsieur Greene, monsieur Cooper.</ParaText>
+              <ParaText id="8898670">Madame Church, la parole est à vous pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139621">
+            <PersonSpeaking>
+              <Affiliation DbId="319869" Type="47">Leslie Church (Toronto—St. Paul's, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898671">Merci, monsieur le président.</ParaText>
+              <ParaText id="8898672">Monsieur Greene, je vous remercie de vous joindre à nous aujourd'hui. Je vous remercie également d'avoir mentionné, je crois, les bons souvenirs que nous gardons de deux établissements canadiens remarquables, l'Université de l'Alberta et l'Université de Toronto, où j'ai aussi étudié.</ParaText>
+              <ParaText id="8898673">Je trouve significatif que le Parlement ait précisé, dans les objectifs de la Loi sur les conflits d'intérêts, que la loi a pour objet, entre autres: « d) d'encourager les personnes qui possèdent l'expérience et les compétences requises à solliciter et à accepter une charge publique; e) de faciliter les échanges entre les secteurs privé et public. »</ParaText>
+              <ParaText id="8898674">Pouvez-vous nous expliquer brièvement pourquoi vous considérez ces objectifs comme une partie importante du cadre dont il est question aujourd'hui?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139627">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898675">Nous voulons que des gens qui ont une vaste expérience dans de nombreux secteurs de la société participent à la sphère publique. Je pense qu'il est contre-productif de créer des règles inutilement strictes, au point de décourager les personnes compétentes de se lancer en politique.</ParaText>
+              <ParaText id="8898676">Il est important de mettre en place des règles assez rigoureuses pour que la plupart des Canadiens estiment que les gens qui participent à la sphère politique suivent des normes élevées en matière d'éthique. J'ai mentionné plus tôt la Commission royale sur la réforme électorale et le financement des partis, qui a présenté son rapport en 1991. Dans le cadre de ses activités, la Commission avait organisé deux jours de réunions avec des représentants de tous les partis. Je pense que nous avions choisi cinq femmes et cinq hommes de tous les partis qui existaient en 1991 pour parler d'éthique et des façons de mettre cette notion en valeur.</ParaText>
+              <ParaText id="8898677">L'une des choses dont je me souviens de ces deux jours de réunions avec un nombre égal d'hommes et de femmes, c'est que de nombreuses femmes ont dit qu'elles hésitaient à se lancer en politique parce que les normes en matière d'éthique étaient très peu élevées, mais que si elles étaient plus élevées, plus de femmes se lanceraient en politique. Les hommes avaient tendance à avoir un point de vue différent, soit que des normes trop strictes tiennent un trop grand nombre de gens compétents à l'écart. Il s'agit donc de trouver un équilibre.</ParaText>
+              <ParaText id="8898678">Comme je l'ai déjà dit, je m'intéresse aux considérations éthiques dans le milieu politique parce que je tiens à ce que les Canadiens aient une haute opinion des gens qui participent à la sphère politique.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139632">
+            <PersonSpeaking>
+              <Affiliation DbId="319869" Type="47">Leslie Church</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898679">S'il est important d'avoir un cadre robuste et fiable, et qu'une fiducie sans droit de regard a été créée dans ce but, à votre avis, quels sont certains des critères qui permettent de constituer une fiducie robuste, comme les modalités de la fiducie et les exigences qui sont intégrées à sa création? Selon vous, qu'est‑ce qui fait la force de ce système?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139637">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898680">Je pense qu'il est important d'avoir des fiduciaires intègres à qui on peut faire confiance pour gérer les affaires de manière compétente et éthique. Je pense qu'il est important que certaines personnes, par exemple le greffier du Conseil privé, aident à mettre en place les mécanismes de vérification de conflit d'intérêts pour s'assurer qu'ils fonctionnent correctement. C'est une tâche colossale. J'espère que le greffier du Conseil privé a de l'aide à cet égard.</ParaText>
+              <ParaText id="8898681">Quoi qu'il en soit, nous verrons comment le système actuel fonctionne, mais je pense qu'il est très important que les membres de votre comité tentent de garantir la mise en œuvre de normes élevées qui inspirent confiance aux Canadiens.</ParaText>
+              <ParaText id="8898682">Pour revenir à la Commission royale, certains des participants masculins à cette conférence de deux jours ont dit qu'ils ne voulaient pas de normes éthiques plus élevées parce que leurs adversaires pourraient les utiliser pour les critiquer. Ce serait contraire à l'éthique et je pense donc qu'il est important de veiller à ce que des normes en matière d'éthique soient mises en place pour rendre le système aussi éthique que possible et non pour attaquer ses adversaires.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139642">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898683">Je vous remercie, monsieur Greene.</ParaText>
+              <ParaText id="8898684">Je vous remercie, madame Church.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8898685">Monsieur Thériault, vous avez la parole pour cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139650">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898686">Merci, monsieur le président.</ParaText>
+              <ParaText id="8898687">Professeur Greene, on dit souvent que le titulaire d'une charge publique, par exemple le premier ministre, n'aurait qu'à se récuser lorsqu'il y a une décision à prendre qui pourrait avoir une incidence sur ses avoirs dans une fiducie sans droit de regard. J'imagine que ça arrivera assez souvent avec l'application du projet de loi <Document DbId="13547622" Type="3">C‑5</Document>. Si un individu doit se récuser une soixantaine, voire une centaine de fois pendant son mandat, est-il assis à la bonne chaise?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139658">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898688">Je ne suis pas certain qu'il serait nécessaire de se récuser aussi souvent. Je connais bien le genre de travail que fait le Parlement. Je ne pense tout simplement pas que cela se produirait très souvent.</ParaText>
+              <ParaText id="8898689">N'oubliez pas que le ministre des Finances...</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139665">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898690">Dans ce cas, qu'est-ce qui serait, selon vous, acceptable quant au nombre de fois qu'on peut se récuser quand on est premier ministre et qu'on décide des politiques économiques du pays? On sait très bien que c'est délicat lorsque le premier ministre se récuse, mais que son chef de cabinet reste dans la salle. Je ne pense pas que le Cabinet prendrait une décision qui irait à l'encontre des intérêts de celui qui sort de la pièce. Ce n'est pas un simple ministre, c'est le premier des ministres, qui a un pouvoir absolu sur tous les gens qui sont dans la pièce et vont prendre la décision.</ParaText>
+              <ParaText id="8898691">Devrait-on avoir des exigences et des moyens plus grands pour encadrer cette situation? C'est un cas de figure auquel on assiste présentement. Cette situation, inusitée sur le plan de la gestion des conflits d'intérêts, est très intéressante pour les universitaires.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139674">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898692">Il ne faut pas oublier qu'une loi qui a une incidence générale sur le public ne mène pas à des conflits d'intérêts individuels. Par exemple, on pourrait faire valoir que le ministre des Finances est en conflit d'intérêts lorsqu'il adopte des lois fiscales, mais comme les impôts touchent tout le monde, y compris le ministre des Finances, il n'y a pas vraiment de conflit d'intérêts dans ce cas. Je pense que la plupart des lois dont s'occuperait le <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> seraient d'application générale et ne toucheraient les actifs du premier ministre que de façon fortuite.</ParaText>
+              <ParaText id="8898693">Je ne pense tout simplement pas que les récusations seraient très fréquentes. Je dirais qu'il y en aurait deux ou trois par année, tout au plus.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139680">
+            <PersonSpeaking>
+              <Affiliation DbId="321041" Type="40">Luc Thériault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898694">Personnellement, je ne suis pas de cet avis.</ParaText>
+              <ParaText id="8898695">Regardons la situation par rapport au projet de loi <Document DbId="13547622" Type="3">C‑5</Document>. Brookfield a des intérêts dans les chemins de fer visés par le projet de loi, dans le traitement du gaz naturel, dans les gazoducs et dans les centrales nucléaires. Westinghouse appartient à Brookfield. On va se servir de l'énergie nucléaire pour faire des petites centrales nucléaires. La journée où on décidera d'aller de l'avant, ce qui se fera parce que la politique a été adoptée sous bâillon à la Chambre, on sait bien que tous ces intérêts vont revenir sur la table.</ParaText>
+              <ParaText id="8898696">Ça signifie que, par souci d'éthique, le <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> devrait dire que Westinghouse ne peut pas soumissionner d'appels d'offres. Je ne serais pas content si j'étais présentement chez Brookfield. Sur le plan éthique, tout ça va faire en sorte que, à un moment donné, il va y avoir des conflits d'intérêts, et non seulement une apparence de conflit d'intérêts. C'est le premier des ministres qui décide, ce n'est pas juste un ministre parmi tant d'autres qui va quitter la salle. Le premier ministre peut aussi prendre la décision et voir si celle-ci abuserait de la confiance de la population. On est devant un cas de figure inusité. Ça ne veut pas dire qu'on enlève à cet individu son mérite ou qu'on critique la manière dont il gère le Canada. Il reste que, du point de vue éthique, c'est du jamais-vu.</ParaText>
+              <ParaText id="8898697">Premièrement, les filtres qui ont été mis en place ne devraient-ils pas être connus de tous, par souci de transparence? Deuxièmement, ces filtres sont-ils suffisants?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139684">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898698">Malheureusement, vous devez répondre très brièvement, monsieur Greene.</ParaText>
+              <ParaText id="8898699">Vous avez la parole.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139690">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898700">Je pense toujours que le projet de loi <Document DbId="13547622" Type="3">C‑5</Document> devrait être considéré comme étant d'application générale. Je ne suis pas convaincu qu'il pourrait entraîner des conflits d'intérêts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139696">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898701">Je vous remercie, monsieur Greene.</ParaText>
+              <ParaText id="8898702">Monsieur Hardy, vous avez la parole. Vous avez cinq minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139705">
+            <PersonSpeaking>
+              <Affiliation DbId="320171" Type="47">Gabriel Hardy (Montmorency—Charlevoix, PCC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898703">Merci beaucoup, monsieur le président.</ParaText>
+              <ParaText id="8898704">Bonjour, monsieur Greene.</ParaText>
+              <ParaText id="8898705">J'ai une courte question à vous poser. Existe-t-il des pays, par exemple le Royaume‑Uni, l'Australie et la Scandinavie, dont la structure démocratique pourrait être intéressante à examiner et dont nous pourrions nous inspirer, notamment sur le plan des sanctions proportionnelles, de la transparence ou d'une autre compétence semblable, afin de vérifier si l'approche du Canada en matière d'éthique s'améliore?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139711">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898706">Il est toujours utile d'examiner ce qui se fait dans d'autres pays. Les pays que vous avez mentionnés ont tous appris du Canada. Nous étions à l'avant-garde de l'amélioration des normes d'éthique dans la sphère politique à partir de la fin des années 1980, mais ces pays ont parfois progressé jusqu'à nous dépasser aujourd'hui.</ParaText>
+              <ParaText id="8898707">Je sais que les commissaires à l'éthique, y compris votre commissaire aux conflits d'intérêts et à l'éthique, ont leurs propres réseaux. En plus d'examiner les pratiques exemplaires des uns et des autres, ils observent ce qui se fait dans d'autres pays, et ils entendent souvent des conférenciers d'autres pays sur la question.</ParaText>
+              <ParaText id="8898708">Oui, il est utile de se tenir au courant de ce qui se fait ailleurs.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139717">
+            <PersonSpeaking>
+              <Affiliation DbId="320171" Type="47">Gabriel Hardy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898709">Vous avez dit que les règles sur les conflits d'intérêts et le lobbying s'étaient beaucoup améliorées depuis les années 1990, mais qu'il restait des lacunes évidentes.</ParaText>
+              <ParaText id="8898710">Selon vous, compte tenu du cas de figure d'aujourd'hui — un premier ministre qui a des intérêts dans des centaines d'entreprises avec lesquelles le gouvernement va faire affaire —, quelle serait la priorité ou l'urgence en matière d'éthique à examiner cette année, en 2025? Je pense notamment à la population, qui doit regagner confiance dans nos institutions, mais aussi au fait que nous devons nous assurer d'avoir un bon contrôle et d'être vraiment solides pour l'avenir.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139721">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898711">Nous voulons nous assurer qu'il n'y a pas de scandales de conflits d'intérêts, c'est‑à‑dire des conflits d'intérêts réels et avérés. Il sera très important que le <Affiliation DbId="314774" Type="1">premier ministre</Affiliation> et ses conseillers s'assurent d'éviter ce genre de situation. Comme des mécanismes de vérification contre les conflits d'intérêts ont été mis en place pour le premier ministre, je pense qu'on pourra les éviter.</ParaText>
+              <ParaText id="8898712">Ce qui me préoccupe, c'est que d'autres ministres du Cabinet ne sont peut-être pas aussi bien informés. C'est la raison pour laquelle je pense que tous les ministres du Cabinet devraient rencontrer en personne le commissaire aux conflits d'intérêts et à l'éthique pour mieux comprendre les règles et leur éviter ainsi des ennuis.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139727">
+            <PersonSpeaking>
+              <Affiliation DbId="320171" Type="47">Gabriel Hardy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898713">Croyez-vous qu'on devrait élargir la portée de la Loi sur les conflits d'intérêts afin qu'elle s'applique également à l'apparence de conflit d'intérêts? Lorsqu'il y a apparence de conflit, devrait-on aussi, sur le plan de l'éthique, pouvoir commencer à investiguer ou devrait-on toujours attendre qu'un conflit d'intérêts soit déclaré avant d'agir?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139731">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898714">Je pense que le commissaire aux conflits d'intérêts et à l'éthique devrait conseiller les députés et les ministres du Cabinet sur la façon d'éviter les conflits d'intérêts apparents et les conflits d'intérêts réels. Le public ne fait pas la différence entre les deux, car ce n'est pas évident. Lorsqu'une personne se trouve en situation de conflit d'intérêts apparent, aux yeux du public, c'est presque aussi grave que d'être en situation de conflit d'intérêts réel, et parfois pire.</ParaText>
+              <ParaText id="8898715">Oui, je pense que la Loi devrait viser les deux types de situations. Les sanctions pour conflit d'intérêts apparent ne devraient pas être aussi sévères que celles pour conflit d'intérêts réel, mais je pense que tous les politiciens doivent s'assurer de les éviter aussi.</ParaText>
+              <ParaText id="8898716">Comme je l'ai mentionné plus tôt, c'est une question sur laquelle votre comité devrait se pencher. Si la Loi doit être modifiée pour viser les conflits d'intérêts apparents, il est important de savoir comment le faire le plus efficacement possible.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139735">
+            <PersonSpeaking>
+              <Affiliation DbId="320171" Type="47">Gabriel Hardy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898717">Un peu plus tôt, mon collègue vous demandait si, advenant une apparence de conflit d'intérêts — il pourrait y en avoir beaucoup avec toutes les entreprises pouvant être visées par des décisions fédérales —, le commissaire à l'éthique est la personne qui a un droit de regard pour dire s'il y a ou non un conflit d'intérêts réel.</ParaText>
+              <ParaText id="8898718">Pensez-vous que, à un certain moment, cette personne pourrait finir par être submergée par le nombre de cas à traiter et pourrait, par la force des choses, en échapper quelques-uns? Selon vous, est-ce quelque chose qui pourrait arriver, étant donné la structure actuelle du commissariat à l'éthique et la manière dont les choses fonctionnent au Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139739">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898719">Veuillez fournir une brève réponse, monsieur Greene. Je vais vous donner un peu de temps. Vous avez la parole.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139745">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898720">Le commissaire à l'éthique dispose d'un personnel de près de 60 personnes pour l'aider dans ses diverses fonctions. C'est un bureau très complexe. Je pense qu'il faudrait consulter les rapports annuels du commissaire pour déterminer quels changements pourraient aider à rendre le système plus efficace.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139750">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898721">Je vous remercie, monsieur Greene.</ParaText>
+              <ParaText id="8898722">Le dernier intervenant sera M. Saini. Il a cinq minutes.</ParaText>
+              <ParaText id="8898723">Vous avez la parole, monsieur Saini.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139756">
+            <PersonSpeaking>
+              <Affiliation DbId="319867" Type="47">Gurbux Saini (Fleetwood—Port Kells, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898724">Monsieur Greene, nous nous sommes concentrés sur une seule chose cet après-midi, soit le <Affiliation DbId="314774" Type="1">premier ministre du Canada</Affiliation>. Je trouve troublant que nous cherchions des gens qui n'ont jamais mené d'affaires pour être les titulaires de la charge publique la plus efficace du pays. Je trouve cela inquiétant.</ParaText>
+              <ParaText id="8898725">Par ailleurs, j'aimerais vous poser une question. Si une personne qui détient une charge publique doit se départir de tout son portefeuille d'investissement à son entrée dans la sphère publique, pourrait-elle choisir l'option d'utiliser une simple fiducie?</ParaText>
+              <ParaText id="8898726">Pourriez-vous nous donner votre avis à ce sujet?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139761">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898727">Je pense qu'il est contre-productif que les titulaires de charge publique se départissent de tous leurs actifs.</ParaText>
+              <ParaText id="8898728">J'ai déjà travaillé pour un ministre en Alberta, à l'époque où Peter Lougheed était premier ministre de la province. C'était en 1972, et il a exigé que tous ses ministres vendent toutes leurs actions et obligations, y compris mon ministre, qui a dû vendre ses actions et ses obligations bon marché. Je pense que c'était exagéré, mais à l'époque, nous n'avions pas trouvé de meilleurs moyens de prévenir les conflits d'intérêts réels. C'était au début du processus.</ParaText>
+              <ParaText id="8898729">Je pense que le régime actuel est bien meilleur. Il rend la sphère politique plus attrayante pour les personnes compétentes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139765">
+            <PersonSpeaking>
+              <Affiliation DbId="319867" Type="47">Gurbux Saini</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898730">Je vous remercie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139770">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898731">J'aimerais poser une question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139775">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898732">Si vous voulez partager votre temps, il reste trois minutes et 15 secondes.</ParaText>
+              <ParaText id="8898733">Qui prendra la parole?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139778">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898734">Merci beaucoup, monsieur le président.</ParaText>
+              <ParaText id="8898735">Professeur Greene, si on devait réviser la façon dont on nomme le commissaire aux conflits d'intérêts et à l'éthique, auriez-vous des suggestions à nous faire sur la façon de s'y prendre?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139780">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898736">Oui. La plupart des provinces ont un comité législatif composé de membres de tous les partis. Ils affichent le poste de commissaire à l'éthique et ils convoquent les meilleurs candidats à une entrevue. Dans certains cas, les candidats précisent, pendant l'entrevue, qu'ils n'accepteront pas le poste à moins que la décision de les recommander ne soit unanime. Il est très important que le commissaire ait la confiance des deux côtés de la Chambre.</ParaText>
+              <ParaText id="8898737">Je pense qu'il serait utile que vous examiniez ce qui se fait dans la plupart des provinces pour choisir le commissaire à l'éthique et que vous envisagiez de modifier la procédure fédérale à cet égard.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139784">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898738">Je vous remercie de ces informations.</ParaText>
+              <ParaText id="8898739">Tantôt, un de mes collègues a parlé d'autres pays dont nous pourrions nous inspirer, notamment le Royaume-Uni. De quels pays pourrions-nous nous inspirer quant aux meilleures normes d'éthique à avoir à l'intérieur de nos lois actuelles?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139787">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898740">Je crois que la Tanzanie exige que tous les partis politiques aient leur propre code de déontologie et qu'il soit approuvé par un commissaire à l'éthique, si je ne me trompe pas. Je pense que ce serait une bonne façon de procéder.</ParaText>
+              <ParaText id="8898741">En 1991, la Commission royale sur la réforme électorale a recommandé que chaque parti politique au Canada élabore son propre code de déontologie. Un très petit nombre d'entre eux l'ont fait. Le Parti libéral du Québec est l'un des rares partis qui l'ont fait, et c'était uniquement parce qu'il tentait de s'éloigner de certains scandales.</ParaText>
+              <ParaText id="8898742">Le commissaire à l'éthique ne peut pas tout contrôler. Les partis eux-mêmes doivent adhérer aux principes en matière d'éthique et ils doivent élaborer leur propre code de déontologie.</ParaText>
+              <ParaText id="8898743">Le processus d'élaboration d'un code de déontologie est très formateur. Je pense qu'il serait utile d'exiger que tous les partis élaborent leur propre code de déontologie qui serait approuvé par le commissaire à l'éthique pour garantir qu'il est convenable et qu'il a force exécutoire.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139791">
+            <PersonSpeaking>
+              <Affiliation DbId="321038" Type="40">Linda Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898744">Merci beaucoup de votre présence. Nous vous sommes reconnaissants de nous avoir fait part de votre savoir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139794">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898745">Merci, madame Lapointe.</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8898746">C'est ce qui met fin aux témoignages dans le cadre de notre réunion d'aujourd'hui.</ParaText>
+              <ParaText id="8898747">Monsieur Greene, je tiens à vous remercier de vous être préparé pour la réunion. Vous avez répondu très rapidement à l'invitation de la greffière. Nous avons envoyé de nombreuses invitations et de nombreuses personnes nous ont répondu avoir besoin de plus de temps pour se préparer. De toute évidence, vous avez fait le nécessaire et je vous suis très reconnaissant d'avoir pris le temps de comparaître devant le Comité aujourd'hui. Je vous remercie, monsieur.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139799">
+            <PersonSpeaking>
+              <Affiliation DbId="322571" Type="28">Ian Greene</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898748">Je vous en prie. Je vous remercie de m'avoir invité.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139801">
+            <PersonSpeaking>
+              <Affiliation DbId="321035" Type="35">Le président</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8898749">Comme il n'y a pas d'autres points à l'ordre du jour, je vais mettre fin à la réunion. La séance est levée.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

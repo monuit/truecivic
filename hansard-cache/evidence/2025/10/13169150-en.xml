@@ -1,0 +1,2159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13169150">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Environment and Sustainable Development</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, October 9, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 9 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Environment and Sustainable Development</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 9, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 007</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 007</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/09 11:00:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'environnement et du développement durable</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Environment and Sustainable Development</ExtractedItem>
+    <ExtractedItem Name="Acronyme">ENVI</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Angelo Iacono</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="11" Mn="05">(1105)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13169184">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair (Angelo Iacono (Alfred-Pellan, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937552"> Welcome to meeting number seven of the Standing Committee on Environment and Sustainable Development. This meeting is taking place in a hybrid format and is public. We have witness testimony for the full two hours. </ParaText>
+              <ParaText id="8937553">For those attending in person, please follow the health and safety guidelines for using earpieces, which are written on the cards found on the table.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937554">The committee is resuming its study on the effectiveness, potential improvements and capability of Canada's 2030 emissions reduction plan.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937555">This morning we will be meeting with witnesses from 11 a.m. to 12 p.m. Aaron Cosbey from the Commission on Carbon Competitiveness will be with us virtually. </ParaText>
+              <ParaText id="8937556">Good morning, Mr. Cosbey. Do you hear us?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169185">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey (Chair, Commission on Carbon Competitiveness)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937557">I do. Thanks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169186">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937558">From the Office of the Auditor General, we have Mr. Jerry V. DeMarco, commissioner of the environment and sustainable development; Ms. Elsa DaCosta, director; and Ms. Kimberley Leach, principal.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937559">Each witness has five minutes for their opening remarks.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937560">We will start with Commissioner Jerry V. DeMarco for up to five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169188">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco (Commissioner of the Environment and Sustainable Development, Office of the Auditor General)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937561">Mr. Chair, we're happy to appear before your committee this morning. I would like to acknowledge that this hearing is taking place on the traditional unceded territory of the Algonquin Anishinabe people.</ParaText>
+              <ParaText id="8937562">With me today are Kimberley Leach and Elsa DaCosta, the principal and the director who have conducted much of the audit work on climate change that we have undertaken in recent years.</ParaText>
+              <ParaText id="8937563">Since 1990, Canada has set out many plans, measures and targets to reduce greenhouse gas emissions, but no target has been met. According to Environment and Climate Change Canada, national emissions in 2023 were 694 megatonnes. This is 8.5% lower than in 2005 but 14% higher than in 1990. According to the department's most recent projections, Canada will not deliver on its commitment to reduce emissions by 40% to 45% below 2005 levels by 2030. In addition, these projections have not been updated since the government repealed the consumer carbon price.</ParaText>
+              <ParaText id="8937564">While Canada's overall emissions have increased since 1990, some sectors have achieved reductions, with the electricity sector leading the pack. With only five years left to meet the 2030 target, a significant shift toward implementing effective actions is needed in certain sectors, such as oil and gas. The time is now to take stock of existing policies and plans and to consider lessons learned from past efforts.</ParaText>
+              <ParaText id="8937565">In November of 2021, I provided to Parliament a report that sets out eight lessons learned from Canada's record on climate change. The report is based on three decades of audits focused on Canada's action and inaction on the enduring climate crisis. Given Canada's disappointing track record in addressing climate change, we urged the government to ensure that its plans and actions work to meet its targets. At the time of our 2021 report, we noted that implementing the measures then in place was expected to yield reductions of 36% by 2030.</ParaText>
+              <ParaText id="8937566">To help frame discussions on climate change such as this one, the lessons learned report also sets out critical questions for parliamentarians to consider as levers to prompt action against government commitments. We have provided these in an appendix to this statement today for your reference.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937567">Environment and Climate Change Canada’s first progress report under the Canadian Net‑Zero Emissions Accountability Act, issued in 2023, shows that the gap between anticipated results from current measures and meeting the 2030 target persists. This legislation, if implemented diligently, should help establish the accountability and oversight needed to reduce emissions and meet targets.</ParaText>
+              <ParaText id="8937568">Since 2021, our office has examined about 40 of the more than 140 measures identified in the 2030 emissions reduction plan or its progress report. Our most recent report on this topic, tabled last fall, highlighted six common themes from our findings, such as delays in the implementation of measures, unreliable estimates of emission reductions, and a lack of transparency.</ParaText>
+              <ParaText id="8937569"> In our audit work, we have noted that many experts and international bodies agree that a policy package with a range of measures, such as regulations and carbon pricing, can support deep emission reductions if they are stringent enough and applied widely.</ParaText>
+              <ParaText id="8937570">The enduring crisis of climate change looms larger than ever. We are at a crossroads, globally and nationally, and we face difficult decisions on how we deal with a changing climate and what kind of a world we want to leave to future generations.</ParaText>
+              <ParaText id="8937571">It is clear that new or enhanced measures are needed to put Canada on track to meet the 2030 emission reduction target. In this context, “on track” means three things. First, there needs to be a plan with concrete measures that add up to meeting or exceeding the target. Second, there needs to be reliable modelling of the reductions the plan is expected to deliver. Third, there needs to be an effective implementation of actions resulting in significant year‑over‑year reductions.</ParaText>
+              <Timestamp Hr="11" Mn="10">(1110)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937572">This concludes my opening remarks. We are happy to answer any questions the committee may have.</ParaText>
+              <ParaText id="8937573">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169221">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937574">Thank you, Commissioner.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937575"> Dear colleagues, I have come up with a tool that can help us during all our meetings. It is very easy to understand. This sign means you have one minute to speak. When I flip this sign over, that means the time is up. This is for all members as well as for our guests, witnesses, etc.</ParaText>
+              <ParaText id="8937576">I will now turn the floor over to the next witness. </ParaText>
+              <ParaText id="8937577">Mr. Cosbey, I see you find that really funny. I'm happy to see that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169228">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937578">I welcome the discipline.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169231">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937579">The floor is yours, Mr. Cosbey. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169235">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937580"> Thank you, and thanks for the opportunity to be with you today. I wish I were there in person, but I'm coming from the traditional territories of the Sinixt and Ktunaxa peoples in the western Kootenays of British Columbia.</ParaText>
+              <ParaText id="8937581">I chair the Commission on Carbon Competitiveness. It's a group of 11 experts drawn from different fields. We're devoted to in-depth thinking about the competitiveness of Canadian industry in the context of a decarbonizing world. I'll be presenting some of the findings contained in our first three reports.</ParaText>
+              <ParaText id="8937582">First—as a little side trip—why do we focus on industry? In part, it's because it makes up over 40% of our national emissions, and getting those down is critical to achieving our targets for 2030 and beyond. Also, it's because it is the last frontier in climate policy.</ParaText>
+              <ParaText id="8937583">We can see the clear paths ahead for electricity, for transportation and even for buildings, but industry is the last on the docket because it is the toughest. In part, it's tough because these are heavily traded sectors, and we don't want our climate policy simply lowering their competitiveness vis-à-vis the producers in less climate-ambitious countries. That's one pillar of the carbon competitiveness angle.</ParaText>
+              <ParaText id="8937584">Another pillar is the fact that the markets of the world and the investors of the world increasingly care about the carbon footprint of traded goods. If we don't successfully decarbonize, we lose markets; we lose jobs. Think of the EU CBAM, an example being followed by other countries, or the 100-plus sustainability standards currently in use or being developed in the global steel sector alone. We see carbon competitiveness not even so much as an environmental preoccupation but as an essential ingredient to Canadian prosperity in the years to come.</ParaText>
+              <ParaText id="8937585">I'm going to try to distill three key messages from our research to date, the ones I think most relevant for this committee's deliberations.</ParaText>
+              <ParaText id="8937586">First, Canada's industrial pricing systems are critical, but they need serious fixing. Second, in the long run, output-based pricing is going to struggle to protect against leakage and loss of competitiveness, so we need to start thinking now about mechanisms like border carbon adjustment. Third, an industrial carbon price is necessary, but it is not sufficient. It needs to be heavily supported by other policies.</ParaText>
+              <ParaText id="8937587">I'll go into a little more depth on those three.</ParaText>
+              <ParaText id="8937588">First, modelling from the Canadian Climate Institute shows us—and you've heard this from other witnesses—that the potential mitigation from large-emitter trading systems, like the OBPS, is slated to account for up to almost half of the incremental mitigation out to 2030. However, industrial carbon pricing in Canada is in crisis. The sectoral performance standards—that is, the level above which the carbon price is paid—need to be tightened. More important is that they need to be much better tailored to the different sectors. These standards are supposed to protect against the risk of carbon leakage and competitiveness impacts, and our research shows clearly that those risks are vastly different from sector to sector. The current approach is too burdensome for some sectors, and it provides absolutely no incentives for others. Other improvements are also needed: price transparency, stronger rules on equivalency, price floors or contracts for differences, larger markets, and so on. Our key message is the need to treat different sectors differently.</ParaText>
+              <ParaText id="8937589">Second, right now, those sectoral standards are working pretty well to stave off the competitiveness and leakage risks, but in the long run, they are not enough. As firms decarbonize over time, there's going to be a need to keep carefully tightening the standards to keep the credit markets in balance. This is a difficult balancing act. Fear of leakage is going to tempt policy-makers to err on the side of caution, undercutting stringency and incentives. We've already seen this dynamic. As we get closer to net zero, we're going to need other mechanisms to reduce the risk of leakage, like border carbon adjustment similar to the EU CBAM. That kind of an instrument is going to be challenging for Canada to implement—for reasons that include wanting to avoid kicking a hornet's nest south of the border—but we need to begin now to explore the viable policy options.</ParaText>
+              <ParaText id="8937590">Finally, an industrial carbon price may be necessary, but it is not sufficient. All sectors face barriers that are going to impede their investment in responding to that price. We need sector-specific enabling policies to make the carbon price work. This is true not just in legacy sectors, like steel and aluminum, but also in the up-and-coming sectors of our future. Think carbon fibre from bitumen; think critical minerals and batteries and so on.</ParaText>
+              <Timestamp Hr="11" Mn="15">(1115)</Timestamp>
+              <ParaText id="8937591"> Our most recent report, published with The Transition Accelerator, pushes for a game-changing new Canadian industrial strategy. We need to apply the lessons of successful industrial policy, choosing a small number of sectors or technologies and pushing hard on them. We're not going to get breakthroughs without that kind of active policy support.</ParaText>
+              <ParaText id="8937592">To wrap up, achieving Canada's climate targets has to be more than an environmental achievement. It has to also be a nation-building effort that, to use an analogy, sees us skating to where the puck is going and finding success and prosperity in the burgeoning low-carbon markets of the future.</ParaText>
+              <ParaText id="8937593">Thank you for your attention. I look forward to questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169278">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937594">Thank you, Mr. Cosbey, for your opening remarks.</ParaText>
+              <ParaText id="8937595">I will commence with Mr. Bexte from the Conservative Party.</ParaText>
+              <ParaText id="8937596">You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169284">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte (Bow River, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937597">Thank you, Chair. I appreciate the opportunity to speak. </ParaText>
+              <ParaText id="8937598">Thank you, witnesses, for being here today. I appreciate it.</ParaText>
+              <ParaText id="8937599"> Commissioner, at Monday's committee meeting, Dr. Exner-Pirot of the Macdonald-Laurier Institute indicated that the ECCC's modelling of oil and gas production declines under the emissions cap was based on data that was unproven or overly ambitious. It has not played out as expected. The predictive force is unproven.</ParaText>
+              <ParaText id="8937600">Given that, and given your own report finding that emissions reduction estimates are often unreliable and not transparent, why is the department still relying on unproven data to guide these climate policies? How do you ensure that ECCC models in the future will be more accurate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169293">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937601">Thank you for the question.</ParaText>
+              <ParaText id="8937602">It has been a source of some frustration for our office in the sense that we've had to recommend and re-recommend, not just in my tenure but with previous commissioners as well, the need for more transparency and more accurate modelling. Why has it been such a tough nut to crack by Environment and Climate Change Canada? I don't know. That would be a good question to ask them when you have them before you as witnesses. </ParaText>
+              <ParaText id="8937603">I am in agreement that, to date, the quality of the modelling and the assumptions going into them have not been up to standard, and neither has the degree of transparency with respect to that. I would add that improving the transparency could also lead to more accurate modelling, because other third parties would be able to use the data and run models and do their own work, as is common in scientific fora. </ParaText>
+              <ParaText id="8937604"> Improving transparency and accuracy is something that we've recommended several times. You would have to ask the department why they are not progressing as far as we'd like and you'd like.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169302">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937605">Thank you.</ParaText>
+              <ParaText id="8937606">Have you been able to at least establish some error bars on the output of the modelling or establish the uncertainty?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169304">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937607">We don't do that sort of thing, but the department does.</ParaText>
+              <ParaText id="8937608">Ms. Leach may be able to expand on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169305">
+            <PersonSpeaking>
+              <Affiliation DbId="244177" Type="28">Kimberley Leach (Principal, Office of the Auditor General)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937609">Yes, it is something that we have recommended—that they more transparently report the uncertainty bars, the barriers. It's been a recommendation that we have made, yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169307">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937610">Thank you.</ParaText>
+              <ParaText id="8937611">Commissioner, your most recent audit report found that Environment and Climate Change hasn't identified which measures are actually key to meeting the target. Similar concerns were raised in the 2023 report, so this is repeated. They are not improving or changing their behaviour. </ParaText>
+              <ParaText id="8937612">How can Canadians have confidence that the plan is on track if we can't say which measures are more effective or not?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169311">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937613">I don't believe Canadians should have confidence that the plan is on track, because the plan is not on track.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169312">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937614">What would the government need to do to get it on track? What are specific examples?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169314">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937615">The three things I mentioned at the closing of my opening statement are what I would formulate as the key elements of being on track. I won't repeat them, but if they do those things, then you would be seeing year-over-year decreases that, if extrapolated, would get us to the 2026 objective, the 2030 target, the 2035 target and the 2050 target, but we haven't been seeing that. </ParaText>
+              <ParaText id="8937616">That's on the results side in terms of emissions. On the plan side, we don't even have a plan that adds up to the necessary reductions to get there. It's not a big surprise that we're not seeing the results when we don't even have a plan that adds up.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="20">(1120)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169325">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937617">Could you speculate on the impact of reducing the consumer carbon tax or eliminating the consumer carbon tax and what the impact is on emissions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169328">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937618">As I mentioned before this committee in the session last December, the plan as it was then, in ECCC's estimation, added up to only 36% reductions instead of 40% to 45%. We didn't believe that number was accurate. It was something below 36% because of the assumptions and so on that we just spoke about. </ParaText>
+              <ParaText id="8937619">Now that they've removed that measure, it's something even lower. It's something in the twenties, likely, but we haven't recalculated yet because we want to see what their projections are. We audit their work. We don't do their work for them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169334">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937620"> You don't replicate the work, but you would estimate it's in that range.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169338">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937621">We'll audit their work, but they haven't updated their projections since the removal of that measure.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169341">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937622">Are they going to? Have they indicated when might you expect them to update that work?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169345">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937623">I hope it will be in the progress report that's due under the act. You will have to ask them specifically.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169349">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937624">Fair enough.</ParaText>
+              <ParaText id="8937625">Your report shows that the department hasn't set clear milestones or timetables for most of the 149 measures. There are just six years left. How can we, as parliamentarians, hold the government to account if there's no clear schedule?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169354">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937626">Deadlines drive action and provide a sense of urgency. That was one of the hopes of adding an objective for 2026, instead of just thinking about how 2030 is a way off. One of the options that have been under consideration, which we talked in the last session, is annual carbon budgeting, where you would have specific amounts and targets for each year to keep on track. That's one element.</ParaText>
+              <ParaText id="8937627"> There are different ways of doing it, but a stepwise plan to get there.... Just a hope that we will arrive in 2030 and land on target is not sufficient, and we know that from the last 30 years.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169356">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937628">Thank you, Commissioner DeMarco.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937629">Mr. St‑Pierre, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169358">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre (Honoré-Mercier, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937630">Thank you for your testimony, Commissioner.</ParaText>
+              <ParaText id="8937631">My question is for the three witnesses from the Office of the Auditor General.</ParaText>
+              <ParaText id="8937632">As you know, provincial governments play a key role in meeting Canada's targets. I'm a member for Quebec, and even Quebec is missing its 2030 target of 37.5%.</ParaText>
+              <ParaText id="8937633">Provinces have many regulatory and legislative tools at their disposal to reduce these emissions.</ParaText>
+              <ParaText id="8937634">Are the measures provinces like Quebec and Ontario have taken sufficient to reduce emissions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169360">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937635">All levels of government, communities, the private sector and Canadians must take action to address climate change.</ParaText>
+              <ParaText id="8937636">Does the federal government believe that provincial measures will be sufficient? No, the provinces need leadership on this issue.</ParaText>
+              <ParaText id="8937637">The Supreme Court of Canada confirmed that the Canadian Environmental Protection Act and the Greenhouse Gas Pollution Pricing Act fall under federal jurisdiction.</ParaText>
+              <ParaText id="8937638">If the willingness is there, the federal government can be a leader in this field while working with the provinces on their turf. However, if we look at all the federal and provincial measures taken to date, they're not sufficient to reach the target.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169373">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937639">Are there certain provinces that concern you or that are particularly behind in meeting their targets? How could this affect federal targets?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169375">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937640">The Office of the Auditor General of Canada is mandated to review federal performance. Provincial offices sometimes analyze progress made in their own provinces.</ParaText>
+              <ParaText id="8937641">Two weeks ago, the Auditor General of Ontario released her report on the progress made in that province.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="25">(1125)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13169381">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937642">This question is for Mr. Cosbey from the Commission on Carbon Competitiveness. The carbon border adjustment mechanism imposes a levy on carbon-intensive goods coming into one's jurisdiction and addresses carbon leakage, as you mentioned. Europe recently adopted a CBAM model specifically to introduce a level playing field for industrial sectors, like cement and steel.</ParaText>
+              <ParaText id="8937643"> I'm interested in getting your perspective. Should Canada adopt a similar CBAM type of model or system?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169388">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937644">Our finding was that Canada has no choice. In the immediate term, the output-based allocation—the sectoral standards under industrial pricing—are working to prevent leakage and competitiveness risks, but when firms start to decarbonize more and the credit markets get tighter, that's not going to work anymore. We are going to have to find some other ways to protect against competitiveness impacts and the risk of leakage.</ParaText>
+              <ParaText id="8937645"> The European CBAM is a pioneering effort in that space. We're all watching it to see how well it does. It's not an easy challenge, but I think it's inevitable that Canada will have to go there. Other players are doing the same. Australia and Japan are considering it, and Norway and the U.K. have adopted it. We're seeing that any country with a seriously ambitious industrial carbon price has to think about how to protect the competitiveness of those industries, and border carbon adjustment seems the premier tool of choice.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169402">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937646"> Great. </ParaText>
+              <ParaText id="8937647">Just to follow up on that, we're living in a fairly complex world right now, with the discussion around tariffs being front and centre. I would argue that our new government is handling the situation exceptionally well. </ParaText>
+              <ParaText id="8937648">Could Canada implement carbon tariffs as a way to ensure that our Canadian industries are strengthened?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169406">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937649">It's absolutely a mix of a desire for competitiveness and avoiding risk of leakage. The mix of these environmental and competitiveness objectives drives the move toward instruments like border carbon adjustment in the EU and other places. If we start from a place of strength, if we start from a place where our producers are relatively clean compared with global production, then putting in place that kind of border protection does give your domestic producers a leg-up.</ParaText>
+              <ParaText id="8937650">To be clear, our producers of steel are among the cleanest in the world. Our producers of aluminum are among the cleanest in the world. The same goes for fertilizers. Yes, these things will have a beneficial competitiveness impact in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169426">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937651">As a quick follow-up, using the few seconds I have left, could you speak to specific Canadian industries that would stand to benefit? I heard you quickly mention steel. Could you highlight those in 20 seconds?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169429">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937652">It would be steel and aluminum in particular. If you look at global benchmarks, we are literally the cleanest in the world, with very few exceptions in those sectors, benefiting from our clean energy mix and benefiting from our modern production methods. </ParaText>
+              <ParaText id="8937653">Those two sectors in particular stand out as liable to benefit under a border carbon adjustment scheme.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169433">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937654">Thank you, Mr. Cosbey.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937655">Mr. Bonin, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13169436">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin (Repentigny, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937656">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8937657">Commissioner, your report clearly shows that Canada is not on track to meet its target. You mentioned setbacks, particularly with regard to the consumer carbon price, but we believe there are other setbacks as well.</ParaText>
+              <ParaText id="8937658">Another setback, for example, is the issue of approving liquefied natural gas projects. The government classified one of these projects as being in the national interest.</ParaText>
+              <ParaText id="8937659">Furthermore, <Affiliation DbId="314774" Type="1">Mr. Carney</Affiliation> is talking about green oil. He made an announcement about the Keystone XL pipeline this week, and we're no longer hearing anything about capping oil and gas emissions.</ParaText>
+              <ParaText id="8937660">In your opinion, how will the government's shift toward oil and gas affect the action plan?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169445">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937661">Some measures were scrapped, such as consumer carbon pricing and others you mentioned.</ParaText>
+              <ParaText id="8937662">According to the results of the department's new model, Canada will achieve a reduction of less than 36%. I don't know the exact figure.</ParaText>
+              <ParaText id="8937663">It's also unclear whether the government will implement new measures to replace those it scrapped.</ParaText>
+              <ParaText id="8937664">I can't do the math because I haven't seen the whole new plan. I know the current plan has shortcomings because of the elimination of consumer carbon pricing, but I don't know what the new version of the plan looks like.</ParaText>
+              <ParaText id="8937665">We hope there won't just be scrapped measures; I'd like to see new or improved measures.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="30">(1130)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169469">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937666">As I understand it, you would also like to see modelling if new measures are implemented as part of the upcoming climate competitiveness strategy.</ParaText>
+              <ParaText id="8937667">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169472">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937668">What do you mean by “modelling”?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169474">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937669">The government has promised to implement a climate competitiveness strategy. As I understand it, you would like this strategy to include modelling to ensure each measure effectively reduces emissions.</ParaText>
+              <ParaText id="8937670">Am I understanding that correctly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169477">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937671">We only know the title of the new plan. We don't know what's in it. However, we do recommend that improvements be made to the content of the plan for the coming decades.</ParaText>
+              <ParaText id="8937672">I don't know if this is a new plan that will replace the current one or if it's an addition to it. I've only read the title. We'll see.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169479">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937673">With regard to the Canadian Net-Zero Emissions Accountability Act, it's clear the government is not on track to meet its targets for 2026 or 2030.</ParaText>
+              <ParaText id="8937674">If it doesn't comply with the act, what does that mean for Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169484">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937675">It might be easier to talk about our new audit on adapting to climate change. If Canada and other countries fail to meet the targets set, the planet will suffer the consequences. There will be more forest fires and more flooding, which will have adverse effects on the economy, on social measures, etc.</ParaText>
+              <ParaText id="8937676">It's not just future generations that will suffer. This generation is already suffering.</ParaText>
+              <ParaText id="8937677">It's not just about the future; we're already seeing these negative effects.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169498">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937678">Is there a way to strengthen the act to ensure it's enforced?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169501">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937679">I understand your question.</ParaText>
+              <ParaText id="8937680">The Canadian Net-Zero Emissions Accountability Act now requires the government to publish a progress report, which is something we analyzed in our report.</ParaText>
+              <ParaText id="8937681">That said, can this act be amended to make it have legal consequences? Maybe, but that's up to Parliament to decide. It's not for us to put forward.</ParaText>
+              <ParaText id="8937682">Cases can also be brought before the courts, as is the case in the Netherlands and at the International Court of Justice, so there could be consequences in terms of liability.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169517">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937683">Beyond the consequences or legal remedies, do any other countries have stronger legislation that can force the government to meet its targets?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169521">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937684">Yes, I would like to invite Ms. Leach to talk a little about the United Kingdom. Their system has things we don't have in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169525">
+            <PersonSpeaking>
+              <Affiliation DbId="244177" Type="28">Kimberley Leach</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937685"> Yes, the United Kingdom has a climate change committee. They have carbon budgets that are set into law as well. They have been fairly successful at meeting these targets and these budgets, but I don't know what would happen if they didn't meet them.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13169528">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937686">Please send us this information in writing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169561">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937687">Thank you very much, Mr. Bonin.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937688">Time is up. Thank you. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937689">Next is Mr. Leslie for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13169565">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie (Portage—Lisgar, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937690">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8937691">It's good to see you again, Mr. DeMarco.</ParaText>
+              <ParaText id="8937692">When Environment Canada officials were recently before this committee, they insisted that the <Affiliation DbId="318637" Type="4">minister</Affiliation> had not in fact walked away from her 2030 emissions targets. Based on what we know today, is there any realistic path for the Liberals to actually meet those targets?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="35">(1135)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169567">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937693">Even though I've concluded for a few years now that they're not on track to meet the target, that's not the same thing as throwing up one's hands and saying there's no hope of meeting a target. It's a matter of will and putting in effective measures. It's only 2025. Time is getting short. Some people are giving up on it, but it is physically possible to still make the effort to meet or at least get close to the 2030 target. A past history of failure doesn't equate with an assumption that they have to fail in the future, because it's not physical phenomena we're measuring but something that is a choice for government to do. Are they going to take enough action to meet a target or not? </ParaText>
+              <ParaText id="8937694">The fact is that it would still be possible. It would be very disruptive to try to meet the target, because there's only five years left and we're so far from it, but it is physically possible.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169578">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937695">You mentioned the word “disruptive” there. You also mentioned effective implementation. In your expert opinion, assuming that the government is still attempting to reach this target, what would they have to do to actually achieve it? From a policy standpoint, are we talking about the lowering of a cap of production of oil and gas? Are we going to need to double the industrial carbon tax? Are we going to need to fast-track the EV mandate? </ParaText>
+              <ParaText id="8937696">What specific policies—drastic policies—would be necessary to actually achieve what, as you outlined, the hope would be?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169588">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937697"> The choice of policy, as I've indicated in previous testimony before this committee, is for the government. It knows the possibilities. The choices are difficult. Each one has stakeholders or affected parties that might be negatively affected by that choice. Some of them also have stakeholders that will be positively affected by the choice, and so on.</ParaText>
+              <ParaText id="8937698">Ultimately, it's up to the government to come up with its selection of measures and for them to add up to a minimum of 40%, based on proper assumptions, without double counting and some of the things we've talked about, but the actual choice amongst the various different tools is not for us to say.</ParaText>
+              <ParaText id="8937699">I can say that regulation, pricing and subsidies are the three main ones. To a lesser extent, less tangible things like education and procurement are some of the other tools. Within those, you have experts—such as the gentleman who's on the line with us today—who are better positioned, and within their mandate, to recommend very specific measures.</ParaText>
+              <ParaText id="8937700">I can tell you that what we've seen for the last 30 years is plans being created that have not met the targets. The lesson needs to be learned: Create more realistic plans, but more importantly, implement them effectively.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169609">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937701">Mr. DeMarco, what is the point of the net-zero accountability act if no one is ever held accountable for outlining all these plans yet achieving none of the results aimed for? Does it not make a complete mockery of this? </ParaText>
+              <ParaText id="8937702">The Liberal government implemented an act that has no teeth and then went on to break the act by achieving none of the results they set out.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169614">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937703">The degree of accountability was the choice of Parliament in passing that piece of legislation. As discussed with Monsieur Bonin, there was a choice to not have a legal liability associated with it. There's no offence section in the act that says the minister will be committing an offence by doing such a thing and so on.</ParaText>
+              <ParaText id="8937704"> That's a choice for Parliament to make. Next time Parliament is reviewing this sort of legislation, it will have to look back at what's been tried already and didn't work, learn from that and choose the provisions it thinks are going to achieve the degree of accountability necessary. We haven't had a high enough level of accountability to the point where it's assured that Canada meets its targets, because it has failed on each target.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169624">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937705">Thank you. I have one more question relating to your great work.</ParaText>
+              <ParaText id="8937706"> Canadians were able to learn the truth about the Liberal government's $8-billion net-zero accelerator fund in the last Parliament, and about the taxpayer money that flowed to a bunch of big major corporations with no binding requirements to cut emissions and no proof of value for money.</ParaText>
+              <ParaText id="8937707">Would you consider conducting an updated audit of that program?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169629">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937708">I'm sorry, Mr. DeMarco. The time is up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169632">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937709">It's a yes-or-no answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169636">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937710">He can answer the question with one of your colleagues when they'll be asking questions.</ParaText>
+              <ParaText id="8937711">For five minutes, the next member will be Ms. Miedema.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="40">(1140)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169639">
+            <PersonSpeaking>
+              <Affiliation DbId="319894" Type="47">Shannon Miedema (Halifax, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937712">Thank you very much.</ParaText>
+              <ParaText id="8937713">Thanks to all the witnesses today. It's really wonderful to hear from you.</ParaText>
+              <ParaText id="8937714">I want to start by talking for a minute about targets and responsibility for targets, because we've had this conversation for multiple sessions now where it's the Liberals who are responsible for failing at a target.</ParaText>
+              <ParaText id="8937715">A federal target is the roll-up of all of the emissions that happen inside our country. Seventy per cent of them, actually, have been within city boundaries. Lots are under the control of provincial governments, territorial governments, local governments and the private sector and industry. The federal government has a very important role to play in setting the requirements and coming up with the policy levers, the mechanisms and the strategies, but at the end of the day, it's not them cranking out all of these emissions. The liability is actually spread across everybody in Canada for getting these targets hit.</ParaText>
+              <ParaText id="8937716">I worked in Halifax for 15 years and was driving forward an implementation plan for a very ambitious climate strategy we had in trying to achieve net zero by 2050. We are not on track in Halifax. We are not on track across provinces and territories. We are not on track as a country—or as a globe—on these things. That doesn't mean that we don't set targets that are science-based and ambitious. Then the question is, how do we really drive our action and scale our action?</ParaText>
+              <ParaText id="8937717">I've been to a couple of COPs. I've had these conversations with all kinds of experts, and nobody really knows, exactly. The solutions are really complicated. You can't reduce it to blaming. You can't reduce it to simple black and white. There's no silver bullet.</ParaText>
+              <ParaText id="8937718">I'm really curious, from both Mr. DeMarco's role and Mr. Cosbey's role, about what you can say to us in terms of what the federal government can do to better drive the implementation and better drive the scaling, from a policy, funding or whatever perspective. I'm particularly interested in comments around the upcoming climate competitiveness strategy the federal government is working on and what you think would be really important in that.</ParaText>
+              <ParaText id="8937719">We could start with Mr. DeMarco.</ParaText>
+              <ParaText id="8937720">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169662">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937721"> I think your question is in part getting at the concept of co-operative federalism. As I indicated in my previous testimony, it's a shared jurisdiction. It's a challenge that affects all of us, from the individual to the community to the municipal government to territorial, provincial, federal and even international bodies. Ultimately, Canada made this commitment through initially signing the climate convention in 1992 and then adopting the more specific agreements under it, the most recent one being Paris. Just because Canada is a federal state, it can't wash its hands of the responsibility it has as a federal government to lead on the file. The two key levers that it has, regulation and pricing, have great effect. Both of those have been upheld by the Supreme Court of Canada, as I indicated earlier.</ParaText>
+              <ParaText id="8937722">The federal government is not unable to act in this case. It's not the same shared jurisdiction where it has only, for example, a fiscal tool to use. It does have a regulatory tool under the criminal law power for CEPA and under the national concern power for carbon pricing. It could do more at the federal level if it were seeing that it was not getting co-operation from other levels of jurisdiction. Sure, a few years ago, we had the pan-Canadian framework, and there was more of a consensus on the need for climate action. That's preferable in a federal state like Canada, but when there isn't consensus, then the federal government does have quite a bit of room to take the lead on it. It isn't just a case that its work is at the mercy of other levels of government.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169688">
+            <PersonSpeaking>
+              <Affiliation DbId="319894" Type="47">Shannon Miedema</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937723">Thank you.</ParaText>
+              <ParaText id="8937724">Mr. Cosbey, go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169689">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937725">Thanks. This is an excellent question.</ParaText>
+              <ParaText id="8937726">I have two thoughts. First, if we dissect the failure of the consumer carbon price in Canada, the lesson is clearly that in order to implement environmental policies and climate change policies, you need a political constituency. You need to communicate the policy well. You need to communicate the need for the policy. If that constituency doesn't exist, the policy is subject to failure.</ParaText>
+              <ParaText id="8937727">If we're thinking about what the upcoming climate competitiveness strategy looks like, the framing sounds good. It needs to be married with environmental objectives—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="45">(1145)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169693">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937728">Thank you, Mr. Cosbey. I'm sorry. The time is up.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937729">Mr. Bonin, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169695">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937730">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8937731">Mr. Cosbey, did you make any recommendations regarding the climate competitiveness strategy the federal government announced?</ParaText>
+              <ParaText id="8937732">If so, could you share them with us in writing?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169698">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937733">We have not made a formal submission to the government with recommendations on the climate competitiveness strategy. All of our work goes to that strategy more broadly. In the context of creating this particular upcoming strategy, we have not made recommendations.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13169704">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937734">As part of this study, could you share some recommendations with the committee?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169708">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937735">Yes. I would be delighted to do that.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13169712">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937736">Thank you.</ParaText>
+              <ParaText id="8937737">We've seen that Alberta and Saskatchewan would have weakened, or at least no longer complied with, the federal carbon pricing equivalent.</ParaText>
+              <ParaText id="8937738">What are your thoughts on that?</ParaText>
+              <ParaText id="8937739">Should the federal government intervene to force Alberta to strengthen its carbon pricing?</ParaText>
+              <ParaText id="8937740">Do you think the current system is equivalent to Quebec's cap-and-trade system? Would Alberta have an advantage over Quebec, which would explain why its system is less restrictive?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169719">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937741">One of the reasons I say that the industrial carbon pricing regimes in Canada are in crisis is precisely because we don't have a particularly strong and effective regime of assuring the kind of equivalence that you're concerned about here. Certainly, Saskatchewan's failure to implement industrial carbon pricing and the most recent changes in Alberta to its TIER system are causes for concern. Most commentators would agree that both of those changes significantly weaken industrial carbon pricing in those provinces, relative to the federal benchmark.</ParaText>
+              <ParaText id="8937742">Obviously, it's not my place to pronounce on equivalence, but in the upcoming carbon pricing review, it has to be front and centre. There's a need for strong and in-depth criteria to determine that equivalence and to ensure that all provinces are at the same level of stringency. Quebec is a particularly good example of that stringency.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169735">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937743">Thank you, Mr. Bonin.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937744"> Mr. Ross, the floor is yours for five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169741">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross (Skeena—Bulkley Valley, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937745">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8937746"> Thank you to both presenters for your presentations. They were very enlightening.</ParaText>
+              <ParaText id="8937747">Mr. DeMarco, I want to repeat a question that was asked by my colleague. It was quite intriguing, because most of us are quite new to this committee and to the environment file at the federal level.</ParaText>
+              <ParaText id="8937748"> Thanks to your work, Canadians learned the truth about the Liberal government's $8-billion net-zero accelerator fund, which is taxpayer money flowing to major corporations with no binding requirement to cut emissions and no proof of value for money. Would you consider conducting an updated audit of that program?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169750">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937749">Thank you for the question.</ParaText>
+              <ParaText id="8937750"> Our net-zero accelerator initiative report from last year was the subject of some hearings at this committee and at other committees as well. I should add, before directly addressing your question, that we do point out, as the other witness, Mr. Cosbey, does here today, the absence of an industrial strategy that would help guide the choice of sectors to subsidize at the federal level. That's something that comes up in that report as well.</ParaText>
+              <ParaText id="8937751">In terms of a follow-up, we now have a system within our office through which we have committed to report to Parliament annually on the climate change file. We've done two and we'll do another one in November. We will select reports from previous years to do follow-ups on that cycle. We may not do a stand-alone follow-up of the net-zero accelerator, but it is now in the hopper for our continuous reporting on an annual basis. I can answer in the positive that, yes, we will be looking at it again, but maybe not as a stand-alone report.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="50">(1150)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169778">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937752">Great. Thank you very much.</ParaText>
+              <ParaText id="8937753">Mr. Cosbey, on competitiveness, I read the job description of your department. When you're doing your work, do you actually compare different programs, from different countries, that deal with emissions, specifically with oil, gas, gasoline, diesel and natural gas?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169786">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937754">I'm sorry. Can you repeat the question? Do we compare different programs from different countries with respect to their oil and gas sectors? Was that the question?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169787">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937755">Yes, because to my way of thinking, I'm thinking of competitiveness in terms of a global scheme, and our competitors in terms of oil and gas are Russia, Saudi Arabia and the United States, for example. Eighty per cent of our product comes from the United States. </ParaText>
+              <ParaText id="8937756">Do you do any kind of analysis to compare the competitiveness of their sectors with what we're doing here in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169792">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937757">We did a fairly robust analysis of the competitiveness determinants of Canadian oil and gas as part of our overall sectoral netcasting.</ParaText>
+              <ParaText id="8937758">I should say in terms of oil and gas that the competitiveness of Canadian oil and gas, especially in the U.S. market, is not under threat. It's delivered by fixed assets. Those are pipelines. It goes primarily to Midwestern refiners that have to buy our particular brand of sour heavy crude because they're tooled up with billions of dollars of investment to be able to use that. They can't just switch to Permian basin light supplies. That doesn't work. We pretty much have a captive market there.</ParaText>
+              <ParaText id="8937759">As well, our tidewater supply of oil does pretty well. We stack up well in terms of heavy crude against our competitors in Venezuela and Mexico. Again, there are facilities globally that only want that kind of heavy crude. We're well placed. Our assessment—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169813">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937760">Okay—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169817">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937761">—was that we don't have competitiveness problems relative to our international competitors.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169820">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937762">Okay. Maybe I didn't phrase that well enough.</ParaText>
+              <ParaText id="8937763"> We were talking about the emissions cap and the industrial carbon tax, for example. How does that make us competitive with countries that don't have a carbon tax or an emissions cap, such as Russia, Saudi Arabia and United States? </ParaText>
+              <ParaText id="8937764">In terms of a global competition scheme, how do we match up on a global level? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169824">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937765"> I'm sorry. I didn't catch the drift the first time around, but I do come back to the same question. If we're thinking about the competitiveness impacts of climate policy on our Canadian oil and gas exports and we're looking at, for example, our oil exports, we have captive markets. We have, moreover, a great deal of rent accruing to.... There's a fair bit of profit accruing to Canadian producers. We are low-cost producers, and even at $65 U.S. a barrel, we're making a good deal on profit.</ParaText>
+              <ParaText id="8937766">Our assessment was that the future costs of climate action in Canada weren't a particularly great concern for the oil sector in particular because of those captive markets. Gas is a little different. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169832">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937767"> Mr. Fanjoy, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13169836">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy (Carleton, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937768">Thank you.</ParaText>
+              <ParaText id="8937769">Mr. Cosbey, it's clear that addressing and meeting our targets for addressing climate change is the more affordable route than is not meeting them. Ultimately, we're going to have to get there sometime, and the sooner we get there, the faster we will benefit from greater competitiveness for our industries and greater affordability for Canadians.</ParaText>
+              <ParaText id="8937770">Industry and governments are sometimes subject to short-term thinking. This is a long-term problem. I'd be interested in your observations as to how we can encourage industry for its benefit and Canadians for their benefit to look at this as something that may involve some upfront investment but an investment that is going to pay off in spades very quickly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169859">
+            <PersonSpeaking>
+              <Affiliation DbId="323267" Type="28">Aaron Cosbey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937771">I wish we had a couple of hours to devote to this, but I'll try to be brief.</ParaText>
+              <ParaText id="8937772">Let me dwell on the example of the steel sector in Canada as a concrete example. In that sector, they need to make major investments to decarbonize, and the carbon price is one incentive to make those investments, but there are elements beyond their control that keep them from making those investments. They need to know with some certainty that there's going to be availability of green hydrogen at scale and of low-cost electricity at scale. Otherwise, the carbon price for them is just a cost if they don't have those sorts of guarantees.</ParaText>
+              <ParaText id="8937773">They also need de-risking of their initial investments on some technologies that aren't yet proven. There's a huge role for government here in supporting policies to try to get those industries on board. It's not just short-term thinking on their part. There are real obstacles that Canadian policy can help to overcome, to help them decarbonize and ensure their future competitiveness in markets that are going to increasingly care about decarbonized goods flowing from Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13169875">
+            <PersonSpeaking>
+              <Affiliation DbId="319897" Type="47">Bruce Fanjoy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937774">Thank you.</ParaText>
+              <ParaText id="8937775">Mr. DeMarco, you have a unique perspective here, in that you're doing this work on a federal level. You've previously done it at a provincial level in Ontario. I'd like to hear your observations on how Canada—and I use the term “Canada” to refer to all three levels of government—can run this three-legged race more effectively as we meet our obligations to reduce GHGs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169887">
+            <PersonSpeaking>
+              <Affiliation DbId="272070" Type="28">Jerry V. DeMarco</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937776">Thank you for the question.</ParaText>
+              <ParaText id="8937777">The larger context questions like you're posing right now are important ones, because we can sometimes look at the details of particular programs and then forget that there are underlying challenges present that are very difficult to crack. This is my second hearing this morning where we've been talking about the need for a long-term approach to these issues.</ParaText>
+              <ParaText id="8937778">I would say that it's critical—and I don't think Mr. Cosbey used this term—to have social licence for the activities that are going to change people's lives, their livelihoods and their incomes. There needs to be buy-in and that's why education is important. It's actually one of the lessons in our lessons learned report.</ParaText>
+              <ParaText id="8937779"> If there isn't support for measures, not just among government actors negotiating but amongst the population, the measures will not last. We had the discussion already about the consumer carbon price coming in and then going. I would say that the federal government needs to take the lead and try to encourage a collaborative approach, but should do so in a way that doesn't give the impression that it will do nothing in the absence of consensus. There needs to be some sort of backstop or baseline so that those who are negotiating with the federal government know that there are consequences if we don't reach an agreement. </ParaText>
+              <ParaText id="8937780">In negotiation talk, what's our best alternative to a negotiated agreement? In this case, the federal government may come in and do things that the province doesn't want to happen. This is part of the challenge of Canada in a federal state—in addition to the municipal and indigenous governments as well—but it's not something that's impossible to overcome.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13169922">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937781"> Thank you, Mr. DeMarco.</ParaText>
+              <ParaText id="8937782">This puts an end to the first round. I would like to thank all witnesses for their testimony this morning. </ParaText>
+              <ParaText id="8937783">The witnesses are excused, and the meeting will suspend while we prepare the next witness panel. Thank you.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="11" Mn="55">(1155)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="12" Mn="05">(1205)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170032">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937784">We'll resume the meeting.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937785"> This afternoon, the committee is meeting with the following witnesses by video conference.</ParaText>
+              <ParaText id="8937786">From the Canadian Energy Regulator we have Mr. Jonathan Timlin, vice-president, system operations; Mr. Darren Christie, chief economist; and Mr. Sean Maher, professional leader, environment. From the Department of Natural Resources we have Jeff Labonté, associate deputy minister. From the Major Projects Office we have Dawn Farrell, chief executive officer; and Sarah Jackson, director.</ParaText>
+              <ParaText id="8937787">Welcome. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937788">Each witness will have five minutes for their opening remarks.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937789">We will start with Mr. Jonathan Timlin. </ParaText>
+              <ParaText id="8937790">You have up to five minutes. When you see this sign up, it means you have one minute to go. The other means end of discussion.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170050">
+            <PersonSpeaking>
+              <Affiliation DbId="323193" Type="28">Darren Christie (Chief Economist, Canadian Energy Regulator)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937791">Good morning, Mr. Chair. We're having a technical issue where John Timlin is showing as an attendee rather than a speaker. He's run up to my office. I will hand him my headset. The name tag will be incorrect, I suspect, but I will hand it over to him now if that works. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170056">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937792">If you want, I can give you some time to settle that, and we can start with Ms. Farrell.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170083">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell (Chief Executive Officer, Major Projects Office)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937793"> Yes, I can start, if you'd like.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="10">(1210)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174516">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937794">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174517">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937795">Thank you.</ParaText>
+              <ParaText id="8937796">I'm Dawn Farrell. I'm the new chief executive officer of the Major Projects Office. I'm joined by my colleagues Mr. Labonté and Sarah Jackson, who were really instrumental in getting this office off the ground, which I started on September 1. In terms of the last 39 days, I can tell you that we are hitting the ground running. There's a lot to do. We have people focused and a plan. There's really a lot under way that hopefully we can convey to you today.</ParaText>
+              <ParaText id="8937797">Our job is to advance large-scale projects of national significance that would create major opportunities for our country. We are here to both strengthen the regulatory framework and ensure the financing framework for these projects is such that we can uphold the values of Canadians and bring these projects into execution in a two-year time frame.</ParaText>
+              <ParaText id="8937798">We can only do our work if we work in close partnership with federal government departments, provinces, territories and indigenous peoples. One of our main objectives is to ensure that we create enough certainty that we really leverage the power of private investors. What you'll see here today is that we're talking about a major program with billions of dollars. There will be a lot of capital required.</ParaText>
+              <ParaText id="8937799">Before I get into the projects and the work of our office, here is some background. We provide a single point of contact and leadership on major projects. I've talked about the partnership that we need to be able to do for that. Our office is focused on identifying and shepherding projects that are of national importance and significance, which means not all projects will be managed through us. There are a lot of projects trying to be managed through us, so we're trying to make that very clear. That being said, as we do our work, we do believe that many projects will benefit from the regulatory streamlining and the financial coordination that we'll provide.</ParaText>
+              <ParaText id="8937800">In considering whether a project is of national importance, the office evaluates a variety of factors. They're in the legislation. It's the potential to contribute to Canada's autonomy, resilience and security; the economic benefits; the contribution to indigenous interests; and contributions to clean growth and our climate objectives. It's also about the executability of these projects in a time frame that will make Canada strong over the short term and the long term.</ParaText>
+              <ParaText id="8937801">When a project is referred to our office we start the process immediately and begin to think about the work that needs to be done to fast-track its development within the values that we all have. The office's aim in the current projects we're working on is that we're trying to close final regulatory and permitting gaps. We're helping to structure the financing plans and really provide certainty so that proponents can go forward, make FIDs, final investment decisions, and finance their projects.</ParaText>
+              <ParaText id="8937802">Not all projects that are referred to our office will be designated under the Building Canada Act. It's just a tool that our office can recommend if we believe that a particular project would benefit from that legislation. We will seek out the best course of action to advance a given project so that proponents can make smart investment decisions.</ParaText>
+              <ParaText id="8937803">Five projects have been referred so far. They have ambitious milestones and we are already working on them. Project announcements will follow soon.</ParaText>
+              <ParaText id="8937804">We've also started working on several transformative strategies that we were asked to do by the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation>. With those particular transformative strategies we're making project charters, getting teams together and making sure that we can come back with advice around what the strategy is so that we can promote the kinds of projects that we need to build Canada's future.</ParaText>
+              <ParaText id="8937805">If you think about transformative projects, there are critical minerals. They are really about our ability to meet our global demand for clean energy production and storage. We're looking at nuclear. We're looking at west wind energy, which is actually wind in the east. We're looking at pathways plus, which is really about how we continue to build our energy infrastructure in a lower carbon way. We're of course looking at the Alto high-speed rail and how we can reduce CO2 with different modes of transportation.</ParaText>
+              <ParaText id="8937806">All of these transformative strategies are very powerful for Canada. They will build our competitiveness and make us one of the cleanest economies in the world.</ParaText>
+              <ParaText id="8937807">We will be transparent as we go through our processes. </ParaText>
+              <ParaText id="8937808">There's a lot to talk about. I look forward to the questions that you have for me today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170149">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937809"> Thank you, Ms. Farrell.</ParaText>
+              <ParaText id="8937810">Now I'll pass the floor to Mr. Timlin for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170153">
+            <PersonSpeaking>
+              <Affiliation DbId="323190" Type="28">Jonathan Timlin (Vice President, System Operations, Canadian Energy Regulator)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937811"> Good morning. Can you hear me?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170156">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937812">Yes, we hear you. Go ahead, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170161">
+            <PersonSpeaking>
+              <Affiliation DbId="323190" Type="28">Jonathan Timlin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937813">I appreciate the extra steps I was able to clock in this morning while getting back and forth from Mr. Christie's office, so thank you, members and staff.</ParaText>
+              <ParaText id="8937814">Good morning, Ms. Farrell and Mr. Labonté.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937815">My name is Jonathan Timlin, I'm the vice president of system operations with the Canada Energy Regulator. </ParaText>
+              <ParaText id="8937816">I'm here with Mr. Darren Christie, chief economist, and Mr. Sean Maher, professional leader, environment.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937817">I want to begin by acknowledging that I'm appearing before you today from Calgary, located within Treaty 7 territory, the traditional territory of the Blackfoot Confederacy, which includes the Siksika, Piikani and Kainai first nations. Treaty 7 territory is also home to the Tsuut'ina First Nation and the Stoney Nakoda, which includes the Chiniki, Bearspaw and Goodstoney nations. I'd also like to recognize the Métis who have settled in southern Alberta and call this place home.</ParaText>
+              <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937818">Thank you for the opportunity to talk to you about the work CER is doing as part of your study.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937819">I welcome the opportunity to briefly describe the CER's mandate, how we assess energy infrastructure projects in relation to greenhouse gas emissions, and how we support the Minister of Energy and Natural Resources and the Canadian public with information about potential future scenarios for Canada's emissions reductions and energy mix.</ParaText>
+              <ParaText id="8937820">The CER's mandate is clear: to regulate energy infrastructure, international and interprovincial power lines and offshore energy projects in a way that prevents harm and ensures a safe, reliable, competitive and environmentally sustainable delivery of energy to Canada and the world. Our mandate includes the full life cycle of the energy infrastructure we regulate, from design and assessment through to construction, operation and end-of-life. We oversee approximately 73,000 kilometres of federally regulated pipelines and just over 1,600 kilometres of power lines.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937821">We play an important economic role in pipeline rights and tariffs, as well as energy exports.</ParaText>
+              <ParaText id="8937822">Part of the Canada Energy Regulator's mandate is also to provide information on energy. We provide information and analysis that inform decision-making and dialogue on energy in Canada.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937823">In everything we do, safety and environmental oversight are always at the forefront. They're the reasons we exist. The CER does not develop or set government policy, including federal climate policies. Questions on these matters are best directed to our colleagues at NRCan and Environment and Climate Change Canada.</ParaText>
+              <ParaText id="8937824"> In speaking about our mandate, I also want to recognize reconciliation with Canada's indigenous people as core to our work. We're implementing the United Nations Declaration on the Rights of Indigenous Peoples by enhancing indigenous involvement in our oversight, building renewed relationships based on recognition of rights, improving the cultural competency of the CER and its staff, and driving meaningful change in the CER's requirements and expectations of regulated industry.</ParaText>
+              <ParaText id="8937825">The CER Act established the commission of the CER as the court of record responsible for making independent, adjudicated decisions and recommendations on pipelines, power lines and offshore renewable energy projects within Parliament's jurisdiction. In making a decision or recommendation as to whether a proposed facility is in the public interest, our commission takes into account a number of specified factors, including the extent to which the project hinders or contributes to Canada's ability to meet its environmental objectives and commitments with respect to climate change.</ParaText>
+              <ParaText id="8937826">In assessing the extent of emissions, the commission also considers how the project's predicted emissions impact Canada's GHG reduction targets. The commission may impose legally binding conditions as part of a project's authorization, and conditions may refer to additional mitigation measures and other requirements in order to avoid or reduce a project's GHG emissions. </ParaText>
+              <ParaText id="8937827">Alongside our regulatory functions, the CER plays a vital role in providing timely and relevant energy information and analysis to support industry conversation in Canada. We monitor energy markets on an ongoing basis and produce a series of publications on topical energy issues, such as energy trade, energy supply and demand, pipeline—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170256">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937828">Excuse me, Mr. Chair, the interpretation has stopped.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170259">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937829">The interpretation has stopped.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170264">
+            <PersonSpeaking>
+              <Affiliation DbId="323190" Type="28">Jonathan Timlin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937830">Would you like me to repeat what I said?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170271">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937831">Wait one second, Mr. Timlin. We'll figure out the problem on our side.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="12" Mn="15">(1215)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="12" Mn="20">(1220)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170381">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937832"> I'm sorry, Mr. Timlin. We're still having difficulty trying to make it out.</ParaText>
+              <ParaText id="8937833">Mr. Timlin, in order to go ahead with time—because time is a factor—you can provide us with your opening remarks, and we will put them into our record.</ParaText>
+              <ParaText id="8937834">We will now proceed with questions for the witnesses.</ParaText>
+              <ParaText id="8937835">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170384">
+            <PersonSpeaking>
+              <Affiliation DbId="323190" Type="28">Jonathan Timlin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937836"> Thank you, committee.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170388">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937837"> We will have Mr. Leslie for six minutes.</ParaText>
+              <ParaText id="8937838">The floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170393">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937839">Can I start with Ms. Farrell, please?</ParaText>
+              <ParaText id="8937840">I've been informed that the government officials are quietly telling stakeholders that the new powers in Bill <Document DbId="13547622" Type="3">C-5</Document> could be used to bypass the Liberal tanker ban on the Pacific coast.</ParaText>
+              <ParaText id="8937841">My question is straightforward. Does the Major Projects Office now have the legal authority to exempt certain projects from the Oil Tanker Moratorium Act, yes or no?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170397">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937842"> I'm going to turn to Mr. Labonté on that question. He'd be better informed on that than I would at this point.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170401">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté (Associate Deputy Minister, Department of Natural Resources)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937843"> The act provides the ability for a project, should it be deemed in the national interest, to have a series of conditions. Those conditions can spell out the regulatory requirements. There has to be a project, and there has to be a proposal. It has to be something that's deemed in the national interest, evaluated and then presented to the order in council.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170404">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937844"> Can I reframe the question, then, for you?</ParaText>
+              <ParaText id="8937845">If there were a pipeline approved for the west coast by this government with the aid of the Major Projects Office, it would face the current barrier of Bill <Document DbId="8936657" Type="3">C-48</Document>, the moratorium on tankers. Without the repealing of that legislation, could that project move ahead to get oil to tidewater?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170407">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937846"> I think we'd have to take a look at the project. At this point, there are no specific projects that indicate and have a route.</ParaText>
+              <ParaText id="8937847">The route—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170415">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937848"> Is it a possibility? It's hypothetical. Let's say that a project gets a route and gets built to the ocean. Bill <Document DbId="8936657" Type="3">C-48</Document> stands in the way. Could the extraordinary powers under Bill <Document DbId="13547622" Type="3">C-5</Document> and the creation of the Major Projects Office allow for, without repealing Bill C-48, oil to be moved to a tanker there? Is it possible?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174863">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937849"> Sarah, could you jump in on this one?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174866">
+            <PersonSpeaking>
+              <Affiliation DbId="319894" Type="47">Shannon Miedema</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937850"> I have a point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174867">
+            <PersonSpeaking>
+              <Affiliation DbId="323265" Type="28">Sarah Jackson (Director, Major Projects Office)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937851"> The Building Canada Act applies to authorizations that are listed in schedule 2 of that act.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174873">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937852"> Mrs. Jackson, wait one second. There's a point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170425">
+            <PersonSpeaking>
+              <Affiliation DbId="319894" Type="47">Shannon Miedema</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937853"> I'm just wondering how this question relates to the study at hand. I would argue that it's irrelevant. Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13174625">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937854">Witness, please continue. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170427">
+            <PersonSpeaking>
+              <Affiliation DbId="323265" Type="28">Sarah Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937855">If a hypothetical project were determined or designated to be “in the national interest” under the Building Canada Act, there's no automatic exemption from the tanker ban. The law does not provide for exemptions. It provides for streamlined approvals. </ParaText>
+              <ParaText id="8937856">For authorizations listed in schedule 2, the tanker ban is not one of those pieces of legislation listed in schedule 2. By virtue of being designated under the act, that would not be an automatic result. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174758">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937857">There is—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170431">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937858">Mr. Leslie, you do not instruct the witnesses to go ahead and speak. That is for the chair to do.</ParaText>
+              <ParaText id="8937859">Thank you. You have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174795">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937860">Is it possible, without repealing Bill <Document DbId="8936657" Type="3">C-48</Document>, for a tanker to come and pick up oil that has been transported from a pipeline approved by the MPO to tidewater? Is it possible without repealing Bill C-48?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170436">
+            <PersonSpeaking>
+              <Affiliation DbId="323265" Type="28">Sarah Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937861"> I can't comment on a hypothetical project.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174822">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937862">Ms. Farrell, we've heard a lot about consensus from the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation>. As clearly as you can define it, what is consensus in terms of the need for a project to be deemed “in the national interest”?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174841">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937863"> As I understand the role of the MPO today, after 39 days—just with that proviso—if a project is referred to us to be considered for designation, we undertake a process in the MPO to work with all the stakeholders in the federal government on the regulatory side, with the provinces if they're involved and with indigenous communities through indigenous consultation. We come forward with a recommendation to the minister, who takes that forward to cabinet.</ParaText>
+              <ParaText id="8937864">I think I have that right.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174849">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937865">Thank you.</ParaText>
+              <ParaText id="8937866">You mentioned the five projects that have been referred to your office. Who exactly referred them to you? </ParaText>
+              <ParaText id="8937867">On the flow chart on your website, nowhere does the government refer projects to this office.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174851">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937868">There was a press release issued on September 11, where the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> of Canada announced that the government had referred five projects and six transformative strategies to us to start work on. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174852">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937869">Why isn't that indicated on the flow chart on your website, as to how the referral process works?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174853">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937870">Ms. Jackson would be better prepared for that answer. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170451">
+            <PersonSpeaking>
+              <Affiliation DbId="323265" Type="28">Sarah Jackson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937871"> Yes, absolutely. </ParaText>
+              <ParaText id="8937872">That flow chart on the site explains the process to designate a project under the Building Canada Act. As Ms. Farrell mentioned in her remarks, not all projects referred to the Major Projects Office are going to be designated under the Building Canada Act. </ParaText>
+              <ParaText id="8937873">That flow chart shows a specific process related to designations. It's not meant to outline the process for referring projects to the office and other measures that the office may take to support projects, aside from designation under that specific tool. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="25">(1225)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170455">
+            <PersonSpeaking>
+              <Affiliation DbId="320167" Type="47">Branden Leslie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937874">How many projects have been submitted to the intake on the website? By next week, could you table the names and a summary of the projects that have been submitted thus far? </ParaText>
+              <ParaText id="8937875">As well, while you're submitting things, I would love to know who exactly has been coming to meet with this office thus far. If you could share that with the committee, it would be appreciated. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170460">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937876">Thank you very much. The time is up.</ParaText>
+              <ParaText id="8937877">The next member would be Mr. Grant for six minutes.</ParaText>
+              <ParaText id="8937878">The floor is yours. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170499">
+            <PersonSpeaking>
+              <Affiliation DbId="319896" Type="47">Wade Grant (Vancouver Quadra, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937879">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8937880">Thank you to the witnesses for taking time to be here today. My first question is for Ms. Farrell. </ParaText>
+              <ParaText id="8937881"> I've heard arguments that building major projects such as new energy infrastructure and large-scale industrial developments runs counter to Canada's emissions reduction goals.</ParaText>
+              <ParaText id="8937882">In your view, how are major projects essential to actually achieving those very goals? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170500">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937883"> If you look at the major projects and the transformative strategies that we're looking at today, plus what we potentially see coming, as a group they meet the criteria that's been set under the act. As a group, they do strengthen our autonomy, resilience and security. They provide economic benefits. They can be successfully executed. They do advance interests of our indigenous people, and they contribute to clean growth and our objectives.</ParaText>
+              <ParaText id="8937884">If you start to dissect them, for example, you see things like Darlington, which provides clean nuclear energy to the people of the province of Ontario. Over the long term, you see us looking at the wind resource in eastern Canada and how that can be brought to bear. You see a lot of work on critical minerals, which are essential to a strong electricity system with storage, and you see things like LNG and the Pathways, which enable us to bring greener natural gas and better bitumen to the global marketplace and which contribute overall to climate change.</ParaText>
+              <ParaText id="8937885">We are developing the portfolio of projects we'll be working on, which contribute to all of those objectives.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="30">(1230)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170528">
+            <PersonSpeaking>
+              <Affiliation DbId="319896" Type="47">Wade Grant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937886">Thank you.</ParaText>
+              <ParaText id="8937887">I know from living in British Columbia that the impacts of climate change are felt most acutely by first nations, especially those in rural and remote areas. I've seen wildfires and flooding devastate their communities. We know that having indigenous proponents involved with major projects often motivates project proponents to design projects that minimize greenhouse gas emissions. A good example of this is LNG phase two up in northwestern British Columbia. </ParaText>
+              <ParaText id="8937888">Can you share how the Major Projects Office is supporting indigenous equity participation and ensuring that indigenous voices are at the table from the very beginning? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170540">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937889"> Thank you for that question. It's really an important one because, in evaluating projects, the Major Projects Office is looking at regulatory barriers that stop the projects from having certainty so that they can attract financial capital. We're also looking at how we can make sure that we have the right financial instruments behind the projects to ensure that we can have first nations participation. </ParaText>
+              <ParaText id="8937890">For example, in LNG phase two, one of the pieces of work that we'll be doing is helping the indigenous population in that project work inside the government to go through the loan guarantee program so that they can be an economic participant. </ParaText>
+              <ParaText id="8937891">As we evaluate all of the individual projects, having all of the tools at our fingertips to be able to work with the federal government, the provinces and the indigenous governments to ensure that we have indigenous participation up front and economic benefits for indigenous populations out of the projects will make a huge difference to how the projects are developed from the get-go. We've already started that work on LNG.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170552">
+            <PersonSpeaking>
+              <Affiliation DbId="319896" Type="47">Wade Grant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937892">Thank you.</ParaText>
+              <ParaText id="8937893">My third question is this. Given that many of these projects will operate for decades to come, how is the Major Projects Office implementing the Building Canada Act consideration of climate impacts of projects to support the long-term climate competitiveness of Canada's economy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170561">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937894">Again that's a very interesting question, and we can spend a lot of time on it, but, as we look at the projects and work with proponents—and we're evaluating their economic and environmental strengths over the longer term—we hear very clearly from the buyers of the outputs of these projects how important it is for Canada to maintain its clean transition.</ParaText>
+              <ParaText id="8937895">For example, yesterday, one of the buyers of the output of the LNG project was in and was very clear with us that, if Canada could do more of what it's doing on LNG, they believe that our LNG is substantively better than any other LNG that's being sold into the international market. That's a long-term consideration that we have as we design those projects.</ParaText>
+              <ParaText id="8937896">It's the same on critical minerals. Having a long-term source to enable us to get those critical minerals to market and, at the same time, build Canada's economy for batteries and other things, makes a huge difference to how we execute these projects.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170585">
+            <PersonSpeaking>
+              <Affiliation DbId="319896" Type="47">Wade Grant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937897">I think I have less than a minute left, so I'll stop there.</ParaText>
+              <ParaText id="8937898">Thank you for answering my questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170588">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937899">Thank you, Mr. Grant.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937900">Mr. Bonin, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170591">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937901">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8937902">Ms. Farrell, you just mentioned liquified natural gas, or LNG, which you described as an almost-green gas.</ParaText>
+              <ParaText id="8937903">Can you tell us about the assessment you conducted on greenhouse gas emissions in connection with the LNG project in Canada?</ParaText>
+              <ParaText id="8937904">Does this assessment take into account the entire life cycle of projects, i.e., during production, transport, liquefaction and combustion?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170606">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937905">Thank you for that question. Just to be clear, that project was referred to our office on September 11, and it is under consideration by our office right now. We have not finished our evaluation or our analysis, and we have not gone back to the government with our advice. We would not be finished all of that work. There's a lot of work that's already been done by NRCan. We're gathering all of that work and pulling all of that together. </ParaText>
+              <ParaText id="8937906">I'm just going to ask Mr. Labonté to maybe add some colour to that, but we are not anywhere near a position yet where we would be ready to conclude all of the work we've done.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="35">(1235)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170624">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937907">Thank you for clarifying.</ParaText>
+              <ParaText id="8937908">You said that Canadian LNG is among the best. If you haven't done an assessment, what are you basing that statement on?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170630">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937909">Thank you for your question.</ParaText>
+              <ParaText id="8937910">When it comes to assessing projects like the LNG project, we use the project life cycle analysis model for Scope 1 and Scope 2 carbon emissions.</ParaText>
+              <ParaText id="8937911">We assessed the forecasts for LNG Canada, and we are now comparing them with those for projects in other countries, including the United States.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170638">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937912">Could you please share this assessment with us? Thank you.</ParaText>
+              <ParaText id="8937913">Ms. Farrell, what is your annual salary?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170645">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937914"> I'm not really sure. It's in the range of $700,000, with base and incentives.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170652">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937915">If I do a quick calculation, by 2030, i.e., in five years, that comes to $3.5 million. That's more than a third of the budget allocated to the climate change action plan announced in 2022, which was $9.1 billion.</ParaText>
+              <ParaText id="8937916">Given this, do you think there should be more funding for the energy transition and actions to address climate change?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170662">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937917"> I'm not sure how to answer that question. I'm not sure what you're referring to.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170668">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937918">Do you think there should be more funding for the energy transition and actions to address climate change than the $9.1 billion announced in 2022?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170672">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937919"> I have no comment about that. </ParaText>
+              <ParaText id="8937920">I don't know, Mr. Labonté or Ms. Jackson, whether you can add to that, but....</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170674">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937921">Thank you, but I was looking to hear your opinion.</ParaText>
+              <ParaText id="8937922">As we know, the Building Canada Act aims to expedite project approval, not reject projects. Some provisions even provide for the possibility of bypassing legislation.</ParaText>
+              <ParaText id="8937923">So, you have to do summary assessments. What experience do you have assessing greenhouse gas emissions and climate change in terms of the factors considered?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170681">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937924"> If I step back from it and look at the major projects that we'll be looking at, the total value of those projects to contribute to Canada's goals around economics and clean growth—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170686">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937925">Excuse me—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170690">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937926"> —and executable projects—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170696">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937927">My question was about your level of climate change and assessment experience.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170700">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937928"> Yes, I'm going to get to that.</ParaText>
+              <ParaText id="8937929">If you look at the total amount for projects that we're assessing, it's in the range of $500 billion over, so far, 10 years—and we think that should go up. </ParaText>
+              <ParaText id="8937930">My expertise comes from 35 years of experience in electricity, two years of building a pipeline and over 40 years of working on climate change policy and systems in Canada, which I started in 1987—probably before many people who are on this committee.... I'm an economist and CEO by training. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170705">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937931">My question is about—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170709">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937932"> I'm a financial expert, and I provide all of those—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170713">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937933">My question is about your climate change-related environmental assessment experience.</ParaText>
+              <ParaText id="8937934">Could you share a document with the committee summarizing your experience?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170717">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937935"> Yes, I have expertise in that from developing major projects and from going through processes in all of my jobs on environmental assessments.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170721">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937936">Sorry to interrupt, but you can send the committee a document summarizing your experience.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170725">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937937"> Sure, that would be great. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170728">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937938">Thank you.</ParaText>
+              <ParaText id="8937939">Is the Major Projects Office subject to the Lobbying Act?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170740">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937940"> Mr. Labonté or Sarah, would you like to reply?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="40">(1240)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170748">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937941">Yes—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170751">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937942"> Could we have a quick answer, please? </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170755">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937943">The answer is yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170758">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937944">Thank you very much.</ParaText>
+              <ParaText id="8937945">Before we proceed, I would like to say something to all committee members.</ParaText>
+              <ParaText id="8937946">To help the interpreters do their job, please avoid asking a question while a witness is answering, as this makes interpreting more difficult.</ParaText>
+              <ParaText id="8937947">Please ask your question, then give the witness time to respond.</ParaText>
+              <ParaText id="8937948">Thank you very much.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937949"> Next, I give the floor to the Conservative Party.</ParaText>
+              <ParaText id="8937950">Mr. Ross, you have the floor for five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170763">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937951"> Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8937952">I am intrigued with the conversation on LNG Canada phase two.</ParaText>
+              <ParaText id="8937953">I was the chief councillor with the Haisla Nation, which actually brought that to Canada in B.C. and signed an impact and benefits agreement with the company. I was surprised to hear that it is up for reapproval. I assume phase two is up for approval for some sort of reason, but I'm not sure. The Impact Assessment Agency of Canada said there are no outstanding authorizations needed by Canada.</ParaText>
+              <ParaText id="8937954">Ms. Farrell, you said something interesting about opening up phase two for opportunities for first nations to participate. I seem to recall our IBA having no such clause. In fact, if anything, that was mutually excluded because of corporation laws and international laws that were put forward by LNG Canada.</ParaText>
+              <ParaText id="8937955">Can you elaborate on what the opportunity is for first nations to participate in phase two?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170766">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937956"> Let me be clear, because I've probably confused everybody here.</ParaText>
+              <ParaText id="8937957">The LNG phase two was referred to our office. Our job is to look at what the remaining hurdles are for LNG to go to a FID—final investment decision. FID is expected some time in 2026, and we're working with all of the project proponents to ensure that all of the loose ends are tied up.</ParaText>
+              <ParaText id="8937958">There is no need—and my colleagues will confirm this—for additional environmental assessments. Those are already done, but there are some loose ends in order for the project's proponents to want to allocate $33 billion to the project in a final decision, which they must make so that they can decide to build the project. As part of discussions with LNG Canada, they have asked us to ensure there is access to the loan guarantee program in Canada and that we help facilitate that so there is participation.</ParaText>
+              <ParaText id="8937959">That's really what I meant to say.</ParaText>
+              <ParaText id="8937960">I don't know, Mr. Labonté, if you want to clarify that. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170772">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937961">I only have five minutes, but thank you for that. </ParaText>
+              <ParaText id="8937962">In terms of the loan guarantee, is that basically being earmarked for, say, equity or for contracts?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170777">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937963"> Yes, and I think it can be any of the above. That's yet to be decided. That's work I haven't undertaken personally and that we need to do with the first nations there to see what they want. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170780">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937964"> Is there an opportunity for first nations to be equity owners in phase two of LNG Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170781">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937965"> Yes, I think there is. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170782">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937966"> My follow-up question is this: Phase one of LNG Canada, emissions-wise, is approved. Is your office doing any work in terms of emissions for phase two? Is there approval needed from either your office or maybe the Impact Assessment Agency of Canada for phase two, emissions-wise?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170785">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937967"> There is no requirement for additional work from the Impact Assessment Agency. We are working with LNG phase two to assess the implications of the emissions to make sure there is certainty around what they need to make their final investment decision.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170792">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937968"> Thank you.</ParaText>
+              <ParaText id="8937969">My colleague asked a question about the Major Projects Office exempting certain projects from the tanker ban, which is Bill <Document DbId="8936657" Type="3">C-48</Document>, and you said that there's no automatic exemption. Am I to infer that there is no automatic exemption, but there should be a process, a non-automatic process, to bypass Bill C-48 if a project is deemed to be in the national interest?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170795">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937970">Mr. Labonté, do you want to take that again?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170798">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937971">Let me start and try.</ParaText>
+              <ParaText id="8937972">Again, theoretical projects are hard to provide clear answers on because there's a lack of specifics about things like where projects go and what routes they use. When a project is considered for designation under the act, there's consultation about the project with indigenous communities that may be impacted, and then there's an assessment with all of the expertise in the federal regulatory system to assess the conditions that are necessary from a regulatory point of view and can be consolidated together to enable a project to have a level of certainty. This is the process used for the acts that the federal government—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="45">(1245)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170806">
+            <PersonSpeaking>
+              <Affiliation DbId="320644" Type="40">Ellis Ross</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937973">I understand, so typically I'm going to say that, based on the existing legislation and regulations, there is no opportunity either through the Major Projects Office or the Impact Assessment Agency of Canada for the exemption for Bill C-48 on the west coast of B.C.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170809">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937974">Thank you very much. Time is up.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937975">Mr. St‑Pierre, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170813">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937976">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8937977">Since this is a study on greenhouse gas emissions, I would like to return to the issue of oil and gas emissions.</ParaText>
+              <ParaText id="8937978">Mr. Timlin, what public policies are most effective in reducing greenhouse gas emissions in the oil and gas sector?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170816">
+            <PersonSpeaking>
+              <Affiliation DbId="323190" Type="28">Jonathan Timlin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937979">The CER doesn't set policy, so that wouldn't really be a question that we would be able to advise on. This is something that would be best left for our colleagues at Environment and Climate Change Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170822">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937980">Let me follow up. Is the CER tracking—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170827">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937981">Mr. Chair, the witness's remarks could not be interpreted because of poor sound quality.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170837">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937982">Thank you, Mr. Bonin.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8937983">Mr. Timlin, we're having difficulty with translation. Is there someone else on your team who can respond in your place?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170847">
+            <PersonSpeaking>
+              <Affiliation DbId="323190" Type="28">Jonathan Timlin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937984">We did do a sound test yesterday, but I will turn it over to our chief environment officer, Sean Maher.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170852">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937985">I'm sorry about that, but we're having difficulty in getting the translation through.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170857">
+            <PersonSpeaking>
+              <Affiliation DbId="323190" Type="28">Jonathan Timlin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937986">Mr. Maher, go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170860">
+            <PersonSpeaking>
+              <Affiliation DbId="323192" Type="28">Sean Maher (Professional Leader, Environment, Canadian Energy Regulator)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937987"> Thank you. I'm happy to answer the question.</ParaText>
+              <ParaText id="8937988">The CER doesn't really have a policy role. We don't advise on policy. As Mr. Timlin was saying, that would really be best placed with our colleagues at Environment and Climate Change Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170862">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937989">Maybe I'll follow up with a question for you.</ParaText>
+              <ParaText id="8937990">Is the CER tracking actual versus expected adoption of low-carbon technologies such as CCUS, power storage or electric vehicles? What trends are emerging, and which technologies are most likely to develop based on existing trends?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13170867">
+            <PersonSpeaking>
+              <Affiliation DbId="323193" Type="28">Darren Christie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937991"> Maybe I can take that question.</ParaText>
+              <ParaText id="8937992"> Our work, in addition to the regulatory side, as Mr. Timlin mentioned at the opening, includes an energy information function. As part of that, we look at what's happening in technologies in real time and we also, as part of our Canada's energy future series, look ahead out to 2050 at different scenarios and how the energy picture might evolve in Canada over that time.</ParaText>
+              <ParaText id="8937993">What we see depends a great deal on the scenario. In all of the scenarios, we see increasing electrification, growth in renewables and a general decarbonization of the electricity grid, but the degree to which that happens varies significantly across those scenarios. I'd be happy to elaborate more, but I'm mindful of time. If the member would like me to keep going, I'll pause for a moment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170870">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937994">Thank you.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8937995">Ms. Farrell, I'm a member from Montreal, and I'm very interested in the Alto high-speed train project.</ParaText>
+              <ParaText id="8937996">Could you give us some details about this project and the timeline?</ParaText>
+              <ParaText id="8937997">That said, I understand that you have only been in the position for 39 days.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170873">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8937998"> Yes, I have had some initial discussions with the team in Montreal, which is set up to organize that project as a whole, and I'll continue to do that. That is a transformative strategy as opposed to a project right now. As a project, that has not yet been referred to us. That gives us the opportunity to take the time to work with the project proponent to see how they think we can best be helpful to their process.</ParaText>
+              <ParaText id="8937999">The goal that was set out in the press release was to reduce the time needed to get started on that project. It was eight years of time to get ready, and there was an assessment that we could reduce that time by half. That's a really tough putt, as you all know, for building such a large project with a large impact and with so many impacts in terms of property and all the rest of the things that go along with linear projects.</ParaText>
+              <ParaText id="8938000">We are in the process now of beginning to work with Alto to see how the Major Projects Office can be additive to what they're trying to do, without being an extra layer of bureaucracy.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="50">(1250)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13170896">
+            <PersonSpeaking>
+              <Affiliation DbId="319893" Type="47">Eric St-Pierre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938001">Great.</ParaText>
+              <ParaText id="8938002">I have a few seconds left, and I'm sitting next to my colleague from Halifax, Nova Scotia. Can you quickly comment on the wind west project as well, very quickly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170903">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938003">Again, the wind west project is in the same category. I can say, truthfully, that I know the power sector quite well, and there have been a few discussions with people who are in the east. However, to come up with a comprehensive strategy for how to really utilize 60 gigawatts of wind resource off the coast, to get the transmission built, to get markets for that and to really do that well, it will take a considerable amount of time. We're just starting to staff that group and to make sure that we have the right people to do that work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170908">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938004">Thank you very much.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8938005">Thank you, Mr. St‑Pierre.</ParaText>
+              <ParaText id="8938006">Mr. Bonin, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170912">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938007">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8938008">I understand that Natural Resources Canada is currently assessing or has already assessed the LNG project, which is one of five national projects.</ParaText>
+              <ParaText id="8938009">Is that correct?</ParaText>
+              <ParaText id="8938010">Can you share this assessment with the committee, or, if it hasn't been completed yet, will you be able to do so when it is?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170922">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938011">Mr. Labonté, do you want to answer that?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170926">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938012">Thank you for the question.</ParaText>
+              <ParaText id="8938013">In collaboration with Ms. Farrell's team and the Calgary team, Natural Resources Canada's assessment of the LNG project, which is on the list of major projects, is ongoing.</ParaText>
+              <ParaText id="8938014">We conducted technical and economic assessments. We also carried out assessments to better understand the project managers' action plan regarding greenhouse gas emissions and the activities conducted with natural gas producers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170937">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938015">Can you send us this study if it's completed? If not, can you send it to us when it is completed?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170941">
+            <PersonSpeaking>
+              <Affiliation DbId="304255" Type="28">Jeff Labonté</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938016">The assessment is under way. I don't know exactly how long it will take us to complete our study, but we could send you a summary of our work, if you'd like.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13170946">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938017">Thank you. We would be grateful if you could also send us the assessment when it's completed.</ParaText>
+              <ParaText id="8938018">Ms. Farrell, you say you have experience assessing the climate impacts of projects. You are, of course, known for the Trans Mountain oil sands pipeline assessment.</ParaText>
+              <ParaText id="8938019">Is that a good project, in your opinion, for addressing climate change?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170951">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938020">The Trans Mountain pipeline was completed. It is delivering bitumen primarily into Asian markets.</ParaText>
+              <ParaText id="8938021">I was in the Asian markets early in September to talk to potential buyers of that oil. Of course, what I learned is what everybody already knows, which is that most of the bitumen going into the refineries in Asia is being cracked—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170957">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938022">I'm sorry, but we don't have much time left.</ParaText>
+              <ParaText id="8938023">Is the Trans Mountain pipeline project a good project for addressing climate change?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170966">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938024">Yes, and I'm getting to the answer. I'd like a chance to answer.</ParaText>
+              <ParaText id="8938025">The answer is yes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170970">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938026">Okay, thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170983">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938027"> Most of the oil that comes out of Alberta and goes to Asia is cracked to make naphtha, which goes into petrochemicals, which go into making electric cars to electrify the grids in Asia. That will, I think, contribute to climate change.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13170987">
+            <PersonSpeaking>
+              <Affiliation DbId="320647" Type="40">Patrick Bonin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938028">Thank you, Ms. Farrell.</ParaText>
+              <ParaText id="8938029">Have you declared any conflicts of interest?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13170997">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938030">I don't think so.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171000">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938031">The time is up.</ParaText>
+              <ParaText id="8938032">Mrs. Goodridge, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171003">
+            <PersonSpeaking>
+              <Affiliation DbId="317641" Type="2">Laila Goodridge (Fort McMurray—Cold Lake, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938033">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8938034">Earlier, you emphasized the importance of giving witnesses time to answer questions without interrupting them to facilitate interpretation.</ParaText>
+              <ParaText id="8938035">I notice the exchanges are happening very quickly. It's becoming difficult for those who need interpretation to follow what is being said.</ParaText>
+              <ParaText id="8938036">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="12" Mn="55">(1255)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171011">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938037">Noted.</ParaText>
+              <ParaText id="8938038">The next presenter is Mr. Bexte.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8938039">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171015">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938040">Thank you, Chair.</ParaText>
+              <ParaText id="8938041">Thank you to all the witnesses. I appreciate your being here today.</ParaText>
+              <ParaText id="8938042">Ms. Farrell, for clarity, will the Major Projects Office be the first point of contact for proponents in the future? There are the five that have gone now, but looking forward, is that the intent?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171017">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938043">No. There are many points of contact right now. For example, a lot of major projects come in through the provinces or through various federal government departments, especially NRCan and Transport. There are projects that can have direct contact with our office, but we anticipate it coordinating all of the projects in such a way that there is a single list.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171019">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938044">How many projects are in your queue now, that you're aware of, that have come in directly to the MPO and through other channels?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171025">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938045">Right now, from what I can tell from the data, there are 500 projects that think they're major projects. I hope that's not the case because we definitely can't handle that volume.</ParaText>
+              <ParaText id="8938046"> This month, we're assessing nine additional projects to determine whether they meet some of the criteria I've laid out for you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171030">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938047">You also indicated that there are different weighting criteria. How are those weighted against each other? Are any of them a “no pass”, like a fatal level or...?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171035">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938048">There's no weighting of the criteria on a project-by-project basis. Right now, we're looking at the portfolio of those projects. Do they meet the criteria in the act? We then have much more specific criteria that we're applying to how executable these projects are.</ParaText>
+              <ParaText id="8938049">One of the challenges I think we'll face is that many of these projects are not what I call ready for prime time. They're way far off in the future, or they're much further down the road in terms of their execution. We want to make sure we have projects that are also executable in a shorter time frame.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171046">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938050">You indicated earlier that climate competitiveness is one of the criteria, but how do you evaluate climate competitiveness if the entire economy is shrinking? If you follow that train of logic and that's your only criteria, it declines to zero really quickly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171050">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938051">I didn't say it was our only criteria. In fact, our criteria are strengthening our economy, providing economic benefits, successful execution, advancing the interests of indigenous peoples and contributing to clean growth and our objectives. They're looked at as a whole and they're not weighted.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171052">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938052">When Alberta comes to the table with its pipeline proponent, how long will it take you to confirm whether it meets the considerations for national interest?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171058">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938053">I can't answer that with any credibility. I'm 39 days into the program. I have lots of work to do to figure out how to do that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171065">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938054">What's your aspiration?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171071">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938055">My aspiration would be four to five months to determine whether it's a project that should be designated.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171075">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938056">Would B.C.'s NDP premier, David Eby, have a veto over this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171078">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938057">We have to consider all of the views of all of the different departments in the governments—indigenous as well as the provinces—in making our recommendation. As far as I understand it, there is no veto for anyone.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171081">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938058">Nobody has a veto—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171100">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938059">Nobody has a veto.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13175916">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938060">—except for the Privy Council.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171110">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938061"> Nobody has a veto.... Well, the recommendation has to be accepted by government and then deferred back to us, as designated.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174761">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938062"> Do they have the only veto?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13174770">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938063">They have the decision-making power, as I understand it. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171113">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938064">Okay. Thank you.</ParaText>
+              <ParaText id="8938065">Then what happens? It comes back to you after the Privy Council, and then what?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171116">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938066">Then all of the tough work starts because we go from a project that has been decided upon to now ensuring that we have a single permit with a set of conditions, out of all the people who are involved in the regulation. The streamlining has to happen so we can deliver that within a two-year time frame.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="13" Mn="00">(1300)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13171121">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938067">Thank you, Ms. Farrell.</ParaText>
+              <ParaText id="8938068">How many registerable meetings have you had under the Lobbying Act, so far, with proponents or potential proponents?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171124">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938069"> I can provide that in writing. I don't have that information with me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13171129">
+            <PersonSpeaking>
+              <Affiliation DbId="320168" Type="47">David Bexte</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938070">Thank you. Please table everything you can to that effect.</ParaText>
+              <ParaText id="8938071">You spoke about the financing framework but not about public versus private financing. Do you have any directive on public versus...and could you table that, please, or your guidelines?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171134">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938072">Yes, we'll table that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171140">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938073">Thank you very much, Mr. Bexte.</ParaText>
+              <ParaText id="8938074">I'd like to thank the witnesses for their testimony today and wish them a happy Thanksgiving weekend. The witnesses are now excused.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171143">
+            <PersonSpeaking>
+              <Affiliation DbId="323087" Type="28">Dawn Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938075"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13171145">
+            <PersonSpeaking>
+              <Affiliation DbId="320643" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8938076">The committee's next meeting is Monday, October 20, 2025.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8938077"> Thank you to all members for today's meeting, as well as to the translators, who were here today dealing with difficulties, and to the analysts as well as to the clerk. I wish you all a happy Thanksgiving.</ParaText>
+              <ParaText id="8938078">We will continue with witness testimony for the study on October 20 and 23. If the committee wishes to extend the study by a further two meetings, then the clerk will schedule the witnesses. If not, then the committee can find time to issue, to the analysts, drafting instructions to prepare a draft report. The committee may decide and, in the absence of a committee decision, the chair may instruct the clerk to schedule other business.</ParaText>
+              <ParaText id="8938079">The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

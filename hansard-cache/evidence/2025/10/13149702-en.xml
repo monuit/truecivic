@@ -1,0 +1,1825 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13149702">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on National Defence</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Thursday, October 2, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le jeudi 2 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on National Defence</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 2, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 005</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 005</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">05</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">02</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/02 08:15:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la défense nationale</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on National Defence</ExtractedItem>
+    <ExtractedItem Name="Acronyme">NDDN</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Charles Sousa</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote">PUBLIC PART ONLY - PARTIE PUBLIQUE SEULEMENT</ExtractedItem>
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="08" Mn="15">(0815)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149705">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair (Charles Sousa (Mississauga—Lakeshore, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I call this meeting to order.</ParaText>
+              <ParaText>Welcome to meeting number five of the House of Commons Standing Committee on National Defence.</ParaText>
+              <ParaText>Pursuant to the motion adopted on September 16, 2025, the committee is meeting to commence its study on the integration of the Canadian Coast Guard into the Department of National Defence.</ParaText>
+              <ParaText>Today's meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are attending in person in the room and remotely by using the Zoom application.</ParaText>
+              <ParaText>Before we continue, I ask all in-person participants to consult the audio guidelines to help prevent feedback incidents and to protect the health and safety of participants, including interpreters.</ParaText>
+              <ParaText>I would like to make a few comments for the benefit of the witnesses and members. First, please wait until I recognize you by name before speaking. For those participating by video conference, click on the microphone icon to activate your mic, and please mute yourselves when you are not speaking. For those on Zoom, at the bottom of your screen you can select the appropriate channel for interpretation: floor, English or French. For those in the room, you can use the earpiece and select the desired channel.</ParaText>
+              <ParaText>I will give a reminder that all comments should be addressed through the chair. For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can, and we appreciate your patience and understanding in this regard.</ParaText>
+              <ParaText>Before I talk to the witnesses, as I know we're in a public format, I want to congratulate all members of the committee for an outstanding job last Wednesday during the military exercise. For those of you who are watching, you may not know that the vice-chair of the committee had to wear fatigues, like the rest of us, and he didn't fall down, so congratulations, vice-chair, for standing up for the entire time of the committee meeting. </ParaText>
+              <ParaText>In fact, it was a great opportunity for some camaraderie and understanding of what our troops are doing day in and day out. It was a very worthwhile event. We did over 200 kilometres via off-road vehicles and helicopters, and of course there was a lot of hiking and walking and a lot of interaction with our troops, who told us first-hand about some of the challenges they face and the things we need to overcome. Thank you to the folks at Petawawa for hosting us.</ParaText>
+              <ParaText>Now I would like to welcome the witnesses.</ParaText>
+              <ParaText>Today we have Mr. Chris Henderson. We have Professor James Boutilier. We have the associate professor and director of the Canadian Maritime Security Network, Mr. Adam Lajeunesse, and we have the national president of the Union of Canadian Transportation Employees, Ms. Teresa Eschuk.</ParaText>
+              <ParaText>We are going to have opening statements by all four of you. I will now invite Mr. Henderson to make his opening statement.</ParaText>
+              <ParaText>You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149710">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson (As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair.</ParaText>
+              <ParaText>Good morning. Thank you to the members of the committee for the opportunity to speak with you this morning on the integration of the Canadian Coast Guard into the Department of National Defence.</ParaText>
+              <ParaText>My name is Chris Henderson. It was my privilege to serve Canada for 37 years, first as a member of the Royal Canadian Navy, serving at sea and ashore, and subsequently in a range of executive positions in the federal public service, mostly concerned with defence and security. I retired in April 2024 after serving four years as the deputy commissioner for operations at the Canadian Coast Guard.</ParaText>
+              <ParaText>It was in that capacity that I worked to raise the profile of the Coast Guard within the national security apparatus of Canada, as well as trying to promote a stronger focus within the Coast Guard on the contribution it could make to Canada's national security. Both efforts took more time and energy than one might expect.</ParaText>
+              <ParaText>Fortunately, we are meeting today because there has been a sea change in the evolution of the Coast Guard, and I would like to share my thoughts on how to realize the potential of the Coast Guard as an instrument of national power that can make much deeper contributions to the safety, security and sovereignty of the nation in years to come.</ParaText>
+              <ParaText>Two major developments occurred earlier this year that should lead the Coast Guard in this positive direction. The first was the introduction of Bill <Document DbId="13543613" Type="3">C-2</Document>, which, for the first time, has codified a formal role for the Coast Guard in national security—specifically, that it will henceforth be charged with collecting, analyzing and sharing intelligence about Canada's maritime domain. The second was the machinery of government change that recently saw the move of the Coast Guard from the Department of Fisheries and Oceans to the Department of National Defence.</ParaText>
+              <ParaText>These are important changes, to be sure, but to be frank, these are but the first baby steps to get the Coast Guard to where it should have been years ago and where, I would submit, Canadians could be forgiven for expecting it already was. By this I mean conceptually, as opposed to being specifically part of National Defence.</ParaText>
+              <ParaText>While this is a modest start, there remain gaps in the Coast Guard's tool kit that militate against the realization of its potential.</ParaText>
+              <ParaText>First, my strong recommendation is to provide new legislation—the Canadian Coast Guard act—that would enshrine its national security role, provide a framework for the future delegation of additional authorities and make the commissioner a deputy head within the federal public service, backed by their own departmental staff, so that he or she may assume their appropriate, equal position among the leaders of Canada's defence, security and intelligence agencies.</ParaText>
+              <ParaText>Second, I believe the Coast Guard should be given a law enforcement mandate to protect Canada's interests any time and anywhere in our huge expanse of maritime territory. Such a mandate would augment, not diminish, the roles of the RCMP, the Canada Border Services Agency and the conservation and protection branch of Fisheries and Oceans. Such a change would, however, require significant culture change and a long runway to achieve success.</ParaText>
+              <ParaText>Next, there remain a variety of maritime safety and security tools vested in other departments that should be consolidated within a legislated Coast Guard. These include, but are not limited to, the national aerial surveillance program and the office of boating safety, both currently within Transport Canada; the Canadian Hydrographic Service, which is part of Fisheries and Oceans; and the Canadian Ice Service of Environment and Climate Change.</ParaText>
+              <ParaText>Additionally, it will be imperative for Canada's leaders to recognize and expand upon the Coast Guard's areas of quiet, perennial excellence, which provide our nation with a significant comparative advantage in a region of growing importance and strategic focus. </ParaText>
+              <ParaText>For example, the Coast Guard has deep operational links, grounded in 60-plus years of Arctic experience, with the coast guards and navies of Denmark, Norway, Sweden, Finland and Iceland. The British, Chilean, German, Japanese and Korean coast guards are also strengthening their connections with the Canadian Coast Guard because of its matchless expertise in the Arctic.</ParaText>
+              <ParaText>All of this is to say nothing of the profound relationship between the Canadian Coast Guard and the United States Coast Guard, the opportunity for Canada to take a leading role in defending the northwest flank of NATO, or the Canadian Coast Guard's leadership in multilateral coast guard fora around the world. </ParaText>
+              <ParaText>Of course, Coasties are far too modest to toot their own horns, but I can assure you that every like-minded nation with interests in the Atlantic, Pacific or Arctic Ocean respects the Coast Guard's operational excellence and seeks its advice and guidance.</ParaText>
+              <ParaText>Indeed, our adversaries also respect the Canadian Coast Guard's track record in the Arctic, and it is possible, if not immediately likely, that in a <I>postbellum</I> world, the Canadian Coast Guard could provide some space for confidence-building measures between erstwhile competitors.</ParaText>
+              <Timestamp Hr="08" Mn="20">(0820)</Timestamp>
+              <ParaText>In the meantime, and much more urgently, we owe it to Canadians to maximize the investments being made in the renewal of the Coast Guards's fleet by harnessing it fully to the effort to monitor, understand and protect Canada's maritime domain on all four of Canada's coasts. Every ship must be a sensor, and every one of those sensors must be connected to a robust, secure network over which data, intelligence and action flow seamlessly. Every member of every crew must see themselves as a vital part of that web of knowledge, security and sovereignty. All of this is something that we need to do, and do well, for ourselves as a mature nation with an obligation to safeguard our national interests, not because of pressure from the United States or through the erroneous belief that moving the Coast Guard to National Defence will tip the balance in our NATO contributions.</ParaText>
+              <ParaText>I am deeply gratified that this House committee is taking the time to study the implications of the evolution of the Coast Guard as it assumes greater responsibility within the national security apparatus of the nation. The interest and leadership of each member of this committee are truly important and necessary to ensure that this good work continues.</ParaText>
+              <ParaText>Thank you for your attention, and I look forward to your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="08" Mn="25">(0825)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149712">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Henderson.</ParaText>
+              <ParaText>We'll now pass it over to Mr. James Boutilier. </ParaText>
+              <ParaText>You have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149715">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier (Professor, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much, Mr. Chairman. </ParaText>
+              <ParaText>I welcome you from the pre-dawn darkness of Victoria on the west coast.</ParaText>
+              <ParaText>I'd like to make four or five observations by way of scene-setting. </ParaText>
+              <ParaText>I applaud the government's decision to incorporate the Coast Guard within DND. My colleague, Mr. Henderson, has articulated elegantly the value of that integration. It is, in my estimation, very long overdue indeed. It's a blindingly obvious symbiotic relationship between two maritime organizations desperately in need of greater financial support and attention. It's a case, I think, of the sum being much more than the whole of the parts. We have a Coast Guard fleet larger numerically than the major elements of the Royal Canadian Navy, and one that has an acute and intimate understanding of our great northern flank. </ParaText>
+              <ParaText>It was back in 1957 that HMCS <I>Labrador</I>, the Arctic patrol ship of the Royal Canadian Navy, last transited the Arctic. More recently, of course, as you are well aware, the Arctic and offshore patrol ships have operated in the area, but they are in many ways woefully inadequate in terms of the equipment they carry on board.</ParaText>
+              <ParaText>I think there has been, over the years, an abject failure on the part of successive governments to honour the principal responsibility they have—that is to say, to provide defence and security for the nation. What makes their conduct even more criminal—and I use that word with some care—is that they were fully aware of the inadequacy of the preparations involved with respect to the Canadian Armed Forces and, in this setting, with respect to the Canadian Coast Guard. </ParaText>
+              <ParaText>There was an element of complacency and naïveté, which we are now obliged to address. For years, we were, to put it frankly, a nation of sleepwalkers in terms of the larger security dimension. We live, ladies and gentlemen, in what is self-evidently a dangerous and difficult and different world, and our opponents are brutal. They are intent and they will give us no quarter in the final analysis. We have become accustomed, rightly, to operating according to rules of law and to principles of warfare, and these are, for the most part, irrelevant to our principal competitors. They march to a different drum, and we need to be fully aware of that fact. </ParaText>
+              <ParaText>We are, in a word, at war. I don't say that unnecessarily and I don't say that provocatively, but when you look at the steady deterioration of the international geostrategic environment, what you see in sabotage, in interference operations, in grey zone activities threatens the very integrity of Canada, and we would be, I think, naive indeed if we failed to appreciate that and prepare accordingly. </ParaText>
+              <ParaText>What I would leave you with is one word: urgency. This, in my estimation, in reviewing the activities in the defence and security realm over the past 25 years, has been woefully absent. Time is not on our side, and we face a resolute and, in many ways, enormous competitor. We have, for example, only to look at the China Coast Guard, which has 225 ships, including two 10,000-tonne vessels, larger than anything in the Royal Canadian Navy. This is a force that is not benign, like our Coast Guard, but one that is used in a paramilitary role to advance China's interests. We have Russia with 41 icebreakers, a situation that will be impossible to replicate without decades of endeavour on our part. </ParaText>
+              <ParaText>This is a deeply serious state of affairs. We can no longer be laggards. We must act with immediate resolve.</ParaText>
+              <Timestamp Hr="08" Mn="30">(0830)</Timestamp>
+              <ParaText>The union of the Coast Guard and the navy in an operational context is an enormously important and positive step in terms of enhancing the ability of both services to increase our sensory capacity and to expand our knowledge, particularly in the high north.</ParaText>
+              <ParaText>Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149719">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Professor, thank you very much for your comments.</ParaText>
+              <ParaText>I'll pass it over to Mr. Lajeunesse.</ParaText>
+              <ParaText>You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149720">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse (Associate Professor, Canadian Maritime Security Network)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Good morning, and thank you for having me here.</ParaText>
+              <ParaText>I'm happy to provide comments today representing both the Naval Association of Canada and the Canadian Maritime Security Network.</ParaText>
+              <ParaText>To begin with, I applaud the government's decision to move the Coast Guard to DND. It's a move that is long overdue. I intend to focus today on areas where greater integration of training, operations and capability development can address current challenges and enhance Canada's maritime effectiveness.</ParaText>
+              <ParaText>First, this is an opportunity. Today, many of the RCN's junior officers are not receiving meaningful exposure to life at sea during the first 12 to 18 months of their commission. There is simply a lack of ship space. This lack of early sea time represents a missed opportunity, both for professional development, retention and personnel advancement and for facilitating operational readiness. The Coast Guard operates year-round, including in demanding Arctic environments, and embedding junior RCN officers aboard Coast Guard vessels during their initial training period would allow these officers to gain valuable real-world experience.</ParaText>
+              <ParaText>At the same time, the Coast Guard would benefit from their presence and skills, since the Coast Guard itself is short of personnel. Such an arrangement would be mutually advantageous and would help to build a generation of naval officers with a broader understanding of Canada's maritime operational landscape. </ParaText>
+              <ParaText>To formalize this collaboration, I propose the creation of a combined officer and sailor training program between the RCN and the Canadian Coast Guard. This could include the establishment of a single schoolhouse for core elements of officer training, ensuring that both organizations receive consistent foundational instruction. A standardization of qualifications is important, especially in areas like maritime engineering, which would make personnel more interchangeable and enable smoother collaboration during joint operations. Coordinating training deployments would give junior officers and sailors exposure to a wide variety of vessels, operating environments and mission types. As a secondary benefit, it would also establish, in the formative years of service, a better understanding of each other's challenges and work environments, thereby hopefully fostering lasting professional personal relationships. Such integration would not only improve individual competency but strengthen institutional ties between the navy and the Coast Guard. </ParaText>
+              <ParaText>Second, the Canadian Coast Guard's fleet could also play a larger role in supporting national defence operations, particularly in the Arctic. For example, Coast Guard vessels could conduct expanded hydrographic and survey missions in the northern waters, generating data that will directly support RCN operational planning and navigation. The growth of the Coast Guard fleet will, hopefully, provide that spare capacity.</ParaText>
+              <ParaText>Outfitting selected Coast Guard vessels with appropriate communication systems, and possibly electronic support mechanisms, would enable them to operate effectively in combined task groups, when forming such task groups makes sense. This would require ensuring that Coast Guard personnel receive the necessary training and familiarity with some of this new electronic equipment and be granted security clearances to handle classified information and to safeguard such systems in Coast Guard vessels.</ParaText>
+              <ParaText>Deploying UAVs from Coast Guard vessels for coastal surveillance and intelligence-gathering would also significantly augment Canada's maritime domain awareness. A joint UAV procurement and training program with the navy, which is also moving in this direction, would have obvious economies of scale. These measures would enhance both surveillance and response capability without requiring the immediate acquisition of new platforms.</ParaText>
+              <ParaText>We should also consider reallocating certain maritime coastal defence vessel roles to the Coast Guard where appropriate. By leveraging the Coast Guard's existing infrastructure and expertise in areas like coastal patrol and surveillance, the RCN could focus its limited resources on higher-end warfighting capabilities.</ParaText>
+              <ParaText>In tandem, Canada could explore arming select Coast Guard vessels and establishing procedures for the carriage of ammunition, allowing them to undertake limited defensive or enforcement tasks where appropriate and authorized. Such changes would be significant and must be accompanied by appropriate training, policy development and legal frameworks. They're worth examining as part of a grand strategy.</ParaText>
+              <ParaText>There are also important communications issues at play here. The Coast Guard workforce is very anxious at present about how this move changes their employment terms, career progression and tasks. This change arrived suddenly, and I think better communication is needed about what this means at the HR and operational level.</ParaText>
+              <Timestamp Hr="08" Mn="35">(0835)</Timestamp>
+              <ParaText>A second critical issue is how the Coast Guard's current command and control model would fit within the hierarchical, centralized military structure. The Coast Guard currently operates with strong, independent regional organizations, and for good reason. Over many decades, the Coast Guard has refined a structure that reflects the vast diversity of Canada's maritime environments and the distinct operational requirements of each region. This decentralized model is not a historical accident. It's deliberate. It provides structure built to meet Canada's extraordinary maritime challenges. Imposing a top-down, deferential hierarchy characteristic of military and naval command would risk undermining the effectiveness of those regional organizations, which have been built over decades. I recommend a strong voice from the Coast Guard in how this move is effected and how these new chains of command are built. </ParaText>
+              <ParaText>In summary, greater integration between the RCN and the Coast Guard offers real benefits, capability development and effectiveness. By combining training programs, aligning qualifications and enhancing Coast Guard platforms with modern surveillance and communication systems, Canada can achieve more resilient and flexible maritime operations. I urge the committee to pay close attention to workforce engagement, communication strategy and organizational design as part of any future integration discussions.</ParaText>
+              <ParaText>Thank you. I'd be pleased to take your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149739">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>Ms. Eschuk, you have up to five minutes as well. Then we'll get into the round of questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149741">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk (National President, Union of Canadian Transportation Employees)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair.</ParaText>
+              <ParaText>Good morning. Thank you for the opportunity to appear before you and to weigh in on this important issue.</ParaText>
+              <ParaText>I am here on behalf of the Union of Canadian Transportation Employees, which represents more than 3,500 Canadian Coast Guard workers. These are the men and women who crew our ships, launch in all weather to save lives, monitor marine traffic on all three coasts, protect our environment, staff our rescue coordination centres and keep our historic lighthouses lit. They are proud of their roles, proud of their civilian service and proud of the unique contribution made by the Canadian Coast Guard to Canada's security and safety. </ParaText>
+              <ParaText>We do not oppose the moving of responsibilities of the Coast Guard to National Defence. We do, however, want to raise the key issues and concerns that matter most to our members.</ParaText>
+              <ParaText>I would like to begin with the Coast Guard's legacy and identity. The Coast Guard has never been on the sidelines of Canada's defence. During the Second World War, lighthouse keepers along the Atlantic and Pacific served as Canada's first line of defence, literally keeping the lights on as our eyes on the coasts. This history continues today. The Coast Guard has quietly but steadfastly supported Fisheries and Oceans, Transport Canada and National Defence when it comes to protecting Canada's waterways. It has done so with skill, professionalism and dedication, but often with inadequate tools and declining infrastructure. Many of our historic lighthouses, for example, have fallen into disarray through neglect and a lack of proper funding. If this transfer proceeds—we know it has—we hope it will not mean further erosion, but rather renewed investment in these critical assets that are part of Canada's maritime backbone.</ParaText>
+              <ParaText>The first and perhaps greatest concern we must raise is chronic underfunding. For decades, the Coast Guard has been stretched far too thin, with too few vessels, too little modern equipment and too few trained hands to crew them. Recruitment and retention are serious problems, especially for our seafarers and search and rescue technicians. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="08" Mn="40">(0840)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149744">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Excuse me, Ms. Eschuk. </ParaText>
+              <ParaText>Can you raise your headset a little bit? You're just a bit hard to hear. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149746">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I'm sorry. </ParaText>
+              <ParaText>Is that better?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149750">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That's better. Very good. </ParaText>
+              <ParaText>Please continue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149759">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you. </ParaText>
+              <ParaText>Many of our members believe that under Fisheries and Oceans, funds intended for the Coast Guard were too often absorbed into the department's own internal operations. We must ensure that every dollar allocated to the Coast Guard reaches the Coast Guard. The money is needed to cover new duties and repair the long-standing gaps in people and equipment.</ParaText>
+              <ParaText>The second concern is one of identity. Our members chose the Coast Guard because it is a civilian agency. They are not soldiers. They did not enlist in the Canadian Armed Forces. They provide a distinct, essential service as civilians, and that must be preserved. The Coast Guard is at its best when it is focused on saving lives, ensuring safe navigation and protecting our coasts. Its credibility depends on its neutrality, its accessibility and its civilian mandate. We urge this committee to clearly affirm that the Coast Guard remains a civilian association under the umbrella of National Defence.</ParaText>
+              <ParaText>The third concern is marine security. The marine security operation centres, or MSOCs, bring together multiple departments, including DND, the RCMP, the CBSA, Transport Canada and the Coast Guard, to coordinate intelligence and response on our waterways. Originally, Canada operated seven MSOC bases, providing 24-7 coverage on all three coasts. In the recent year, the federal government has shut down four of those sites. In the UCTE's opinion, that decision has left significant gaps in our national marine security. Our members are the ones on the front line, gathering necessary data and intelligence, but too often, their role is limited to passing it up the chain. With this transition, the MSOCs should not just collect information but have the authority and resources to analyze and act on that intelligence, hence enhancing the national security of Canada.</ParaText>
+              <ParaText>We urge this committee to consider restoring the MSOCs to the original seven bases, to ensure full coverage across Canada, and expanding the Coast Guard's responsibilities with the MSOCs, to ensure that our members' expertise is fully applied and not sidelined. Strengthening the Coast Guard's role in the MSOCs is essential if Canada's marine security is to be cohesive, reliable and effective.</ParaText>
+              <ParaText>Finally, I must raise a practical but critical concern: administration and pay. Many public servants struggle with the Phoenix pay system. Believe it or not, it's been 10 years since that system came into play, and it's still not working. It's plagued with errors, underpayments and long delays in correction when the pay is wrong. For this transfer, we were provided with a year's notice before fully transferring over to DND. That preparation is welcome, but preparation alone does not remove risk. Our members cannot afford to face another round of pay errors. They deserve certainty that, on the day this transfer takes place, the guarantees we have been given will hold. That requires clear accountability before, during and after the handover to ensure that systems are aligned, oversight is maintained and members are paid accurately and on time. We urge this committee to treat payroll stability as a priority. Pay is one of the most basic responsibilities of any employer, and it must be guaranteed throughout this transition.</ParaText>
+              <ParaText>Mr. Chair and members of the committee, this transfer is an opportunity, but it's also a test. It is an opportunity to give the Coast Guard the funding, authority and recognition it has long been denied. It is also a test of our ability to protect the identity of a proud civilian service, to strengthen marine security and to manage the transition responsibly so workers do not pay the price.</ParaText>
+              <ParaText>Our members are proud of their service to Canada. They do not ask for praise. They only ask for the tools, respect and stability to continue doing their jobs.</ParaText>
+              <ParaText>I thank you for your attention, and I look forward to any of your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="08" Mn="45">(0845)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149761">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Ms. Eschuk. I apologize for having to interrupt you earlier.</ParaText>
+              <ParaText>We're going to move on to questions. To kick us off is a distinguished veteran of the Royal Canadian Navy. </ParaText>
+              <ParaText>Mr. Jeff Kibble, it's over to you. You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149774">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble (Cowichan—Malahat—Langford, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair. </ParaText>
+              <ParaText>Thank you to the panel for joining us today.</ParaText>
+              <ParaText>Mr. Henderson, I don't think we've crossed paths before. </ParaText>
+              <ParaText>Dr. Boutilier, it's great to hear from you, from beautiful Vancouver Island. It's good to see you again.</ParaText>
+              <ParaText>I would like to explore two areas, now that an OIC has been made effective transferring the Coast Guard under National Defence. Specifically, the first area is the Coast Guard spending, which currently qualifies towards NATO defence spending, and the second is some of the specific changes that will need to be made. I appreciate some of the excellent suggestions and observations that were made in your opening remarks, which did address this, but I will explore it a little bit further.</ParaText>
+              <ParaText>The August 2025 NATO press release defines NATO defence expenditures. It says, “In such cases, expenditure is included only in proportion to the forces that are trained in military tactics, are equipped as a military force, can operate under direct military authority...and can, realistically, be deployed outside national territory in support of a military force.”</ParaText>
+              <ParaText>In that light, what percentage of Coast Guard training and operations is as per the NATO definition? What are they trained in, in terms of military tactics? </ParaText>
+              <ParaText>This is for anyone in the panel. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149802">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>If I could offer a very brief introduction to that, I think the accounting is a bit opaque. The Government of Canada has, for some time now, been looking to move more Coast Guard spending into that 2%, and now that 3.5%. In the big picture, I think the objective from that accounting perspective is to demonstrate that Coast Guard vessels and operations, which previously were purely civilian, now also have a security mandate. For instance, a Coast Guard icebreaker in the north, which is undertaking community resupply support and search and rescue capacity, now may be equipped with sensors in order to monitor, say, Chinese marine scientific research.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149804">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>I'm not hearing anything about military tactics in that answer.</ParaText>
+              <ParaText>I'm also wondering, because you mentioned resupply operations, etc., what percentage of them are equipped with military equipment that gives them that capability, beyond supporting the military. These are the requirements for NATO spending.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149806">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Today, I believe it's none. However, the point of the movement into DND is that we will expand—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149834">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>This is current, and that's fair enough. That's what I'm looking for. I understand, as was alluded to in some of your comments, that this will be expanding.</ParaText>
+              <ParaText>They are now a special operating agency, and they are reporting to the deputy minister, not to the chief of the defence staff. Do you see this as “under direct military authority” and command, as per the NATO definition currently?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149844">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I would say yes. </ParaText>
+              <ParaText>Chris, I believe you have your hand up. Can you add something to that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149849">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>I would absolutely not see the alignment under the deputy minister as being part of the military chain of command. To Madame Eschuk's point, it should not be. I think it is a civilian organization, and it needs to remain a civilian organization.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149856">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>In your opinion, can the Coast Guard, as currently trained and equipped, operate in international waters in support of a military force, again, under the NATO definition for the spending, which I am focusing on at the moment?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149862">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, I do believe that the Canadian Coast Guard is prepared and ready to operate in international waters in support of military operations. Icebreaking is a good example of that capability. However, they are not trained in combat operations. They are not a combat-capable force, and they are not equipped to conduct combat operations.</ParaText>
+              <ParaText>If that's—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149864">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>So you are suggesting that they are currently capable of supporting the military and deploying into international or foreign waters outside of the Canadian Arctic and Canadian waters.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149866">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, I am. I agree with that statement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149868">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I have spoken to many Coast Guard members, and I find them in two distinct groups: those who are outspoken against the militarization of the Coast Guard and those who are very much in favour. This is a barometer-type question. In your experience, do you have a sense of the percentages of these two camps? Both are fairly outspoken groups.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149871">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I think the question of militarization is important. It may be an impression that's founded on a lack of understanding of what is being proposed. It is not being proposed to militarize the Coast Guard. I think Coast Guard employees could be forgiven for not actually understanding that well enough, because this is a recent change. It will take time for them to get into that space and to understand it. This is not about militarizing the Coast Guard. It's about harnessing the Coast Guard to a surveillance mandate to support maritime security, as a starting point.</ParaText>
+              <ParaText>I agree with the general idea that there are roughly two camps of people: those who are resistant and those who are very interested in pursuing the move.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149873">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>Ms. Eschuk, following that question, in terms of the retention of the currently short number of Coast Guard members, what do you assess the impact would be on those who are not looking for these changes? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="08" Mn="50">(0850)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149879">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Right now, what I hear from the majority of our members is that they didn't sign up for the Coast Guard to become militarized. There are other ways they can be involved in that; I mentioned the MSOC.</ParaText>
+              <ParaText>They have a huge recruiting issue today, and they've had for many years. It comes down to retention. A lot of that is underfunding and being underpaid. These members work in very dangerous conditions, and they're not paid very well. They've done a study, and there's no one to compare them to, but they're very underpaid for the work they do. That's why they have a retention and recruitment issue.</ParaText>
+              <ParaText>Also, part of that problem is the aging of the vessels. They don't want to be on vessels that are aging. They need the new equipment to be able to be there. </ParaText>
+              <ParaText>I know that for women in the Coast Guard, it's a huge problem.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149886">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you. I appreciate that.</ParaText>
+              <ParaText>I'm not taking away from the excellent work that the Coast Guard is doing. I appreciate that, and I have worked with them personally. They do excellent work.</ParaText>
+              <ParaText>I want to confirm that there is no current capability to interdict drug smuggling, human smuggling, illegal fishing, migrant vessels, etc. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149888">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>We'll retain that response for a minute. We're over time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149891">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Sorry, Mr. Chair, I was getting a bit carried away there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149894">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>We were well over on that one. I gave ample time.</ParaText>
+              <ParaText>I'm sorry, Jeff.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149896">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>No, thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149899">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>MP Romanado, it's over to you for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149901">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado (Longueuil—Charles-LeMoyne, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much, Mr. Chair. </ParaText>
+              <ParaText>I'd like to thank the witnesses for being with us today. I want to start with Mr. Henderson.</ParaText>
+              <ParaText>First of all, thank you for your service. I know you not only served in the navy, but also served in your capacity under various portfolios in the public service. </ParaText>
+              <ParaText>I have some questions for you. You mentioned Bill <Document DbId="13543613" Type="3">C-2</Document>. It includes expanding that mandate of the Canadian Coast Guard to add security-related activities to their mandate, including conducting security patrols and collecting, analyzing and disclosing information or intelligence. The Coast Guard and the Canadian Armed Forces will have a stronger and more coordinated presence in Canada's waters from coast to coast to coast.</ParaText>
+              <ParaText>What do you feel this new coordinated presence means for Canada's security footprint in the Arctic?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149903">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>My view on the improvements is that, first and foremost, should it receive royal assent, Bill <Document DbId="13543613" Type="3">C-2</Document> is going to formalize that role, which is more important than it would appear.</ParaText>
+              <ParaText>The Coast Guard, for many years, has conducted surveillance operations to some degree or another, probably not as much as it could, but it hasn't had that formal role, so it has been more customary. This is where that makes it complicated: When the Coast Guard is looking to develop capabilities or procure equipment that would support its improved work in surveillance, people who have to allocate resources take a look and ask, “Where does it say that you do that? It doesn't say that, so you can't have the money to buy that equipment.” That's one thing that I think is going to be a very direct improvement.</ParaText>
+              <ParaText>Second, I think that with a formal mandate such as this, you're going to see Coast Guard crews and shore personnel expanding their thinking and their activities in the security space. We saw that in the last couple of years when we conducted some, I'll call them, “experiments” to improve security observation actions, running UAVs off ships in the Arctic, and the crews really stepped up. They really enjoyed that additional responsibility, and we saw a significant increase in reports about suspicious activity just in that integration and flow of information.</ParaText>
+              <ParaText>I see that there's an opportunity to strengthen, continue and deepen the work of integration and coordination within the marine security operation centres. These are customary organizations; they're not founded in legislation. They exist because they exist, and they ride on good relationships and personalities and a willingness to work together. When you're in the same organization, that clarity, that unity of effort, really helps improve coordination and effectiveness.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="08" Mn="55">(0855)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13149905">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>You mentioned that it was a modest start, but that there are some gaps. You mentioned that you would recommend that we give a law enforcement mandate to the Canadian Coast Guard. In one of your papers, “A Constabulary Role for the Canadian Coast Guard?”, you mentioned, “Granting additional powers to the CCG to act in the absence of the RCMP, CBSA, or DFO would augment—quite dramatically—the overall capacity and effectiveness of Canadian law enforcement at sea.”</ParaText>
+              <ParaText>Is that what you were referring to when you mentioned that we should be giving a law enforcement mandate to the Canadian Coast Guard?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149910">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes. It is exactly that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149917">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>My next question is for Mr. Lajeunesse.</ParaText>
+              <ParaText>I really appreciate the focus that you have on opportunity and the fact that we have the opportunity to have—I'll use the word that Mr. Henderson used—“Coasties” working with Canadian navy personnel for training opportunities and opportunities to use various vessels, etc.</ParaText>
+              <ParaText>Can you elaborate on those recommendations and the opportunities that we have in terms of recruitment and retention? We heard from one of the other witnesses that there are difficulties in recruiting for the Canadian Coast Guard. How can that interoperability between the navy and the Coast Guard augment our capacity to recruit and retain members of both services?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149921">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That's absolutely a great question.</ParaText>
+              <ParaText>One of the problems we have is that we have two siloed services that are recruiting, training and, most importantly, building this new cadre of young recruits separately. Both are having trouble. The Canadian navy, in particular, has done fairly well with its recent recruiting programs, but it does not have enough ships to actually put these people on a ship and out to sea. That is a bit of a bottleneck in their training processes. The Coast Guard, of course, is out to sea all the time. Is there a way that we can create a more common training system? </ParaText>
+              <ParaText>If we could also create common training systems and standards for marine engineers, techs and different professions, that would allow more interchangeability between the two fleets. That would give us the opportunity to have a certain degree of flexibility that we don't have with two siloed organizations.</ParaText>
+              <ParaText>There are also economies of scale. One of the problems that my partners on this committee have mentioned is that we don't have new equipment. Chris, you mentioned that the CCG really enjoyed working with the drones. The navy is working on that, too. This new equipment, whether it's certain types of ships or certainly drones and surveillance equipment, is going to be cheaper and easier to buy if we buy it in bulk. It will be easier to maintain if we have a single, coherent maintenance profession. If we can combine the two federal fleets to get that economy of scale, it's going to give us an opportunity to build more faster and help retain people because they have the equipment they need.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149926">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149931">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>Mr. Savard-Tremblay, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13149935">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay (Saint-Hyacinthe—Bagot—Acton, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair.</ParaText>
+              <ParaText>I thank all the witnesses for their presentations.</ParaText>
+              <ParaText>My first question is for Mr. Boutilier.</ParaText>
+              <ParaText>Let's talk about the Arctic, specifically that big issue, Arctic sovereignty. We know Russia and China have very large fleets. Undersea sensors are needed to monitor the movements of vessels in those fleets. You said that the Canadian Coast Guard's undersea surveillance capacity is non-existent or extremely limited.</ParaText>
+              <ParaText>Can you clarify your opinion on this matter for the committee members? What is the minimum capacity the Coast Guard needs to play an effective role in Arctic surveillance and defence?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="00">(0900)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149938">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much for that question.</ParaText>
+              <ParaText>It, in fact, grows from the earlier discussion about the role of the Coast Guard, in the sense that when we look at intelligence collection and surveillance and the distribution of information, this is a vital defence issue, which complements and enhances the Royal Canadian Navy's capabilities. We can say that without any military training—further to the earlier question that was put forward about NATO requirements—in fact the Coast Guard has a major role to play.</ParaText>
+              <ParaText>The Russians have a petro-economy: 42% of their economy is related to gas and oil extraction, almost all of it in the northern flank of Siberia, in Novaya Zemlya, in the Kara peninsula and elsewhere. They have spent enormous sums of money, despite the war in Ukraine, on the enhancement of their ports and surveillance in the north, buttressed, as I mentioned earlier, by the 40-plus icebreakers, of which seven are nuclear-driven.</ParaText>
+              <ParaText>Further to your question, I would suggest that the Coast Guard has the most intimate relationship with northern communities. Leaving aside physical sensors, whether by surveillance satellites or undersea means, the Coast Guard provides an enormous entree into this vast world. It is truly colossal, the space that's involved to monitor. That relationship, built over many decades, is absolutely unparalleled and one that the navy benefits from enormously by virtue of its current relationship with the Coast Guard. </ParaText>
+              <ParaText>When it comes to sensors—whether it's what Coast Guard crews see, what is garnered from overflights or what is selected from drone surveillance—the Coast Guard can play an enormously important role in terms of enhancing our broader understanding of what's going on in the north.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149940">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>If I may tack a quick comment onto the end of that, sir, I think what's very important to recognize when we talk about the surveillance of adversary activity is that the principal threat is not warships and submarines, particularly coming from China. What we're talking about—and this comes back to the first question about the Coast Guard's military capacity—is that the principal threat is a hybrid threat: illegal Chinese fishing, maritime militia. These are state assets that fall into the grey zone, so we're not necessarily looking to track nuclear attack submarines. I would argue that the most serious threat the Coast Guard can respond to through constabulary means is this hybrid, grey zone threat in the future as we look at Chinese civilian/state vessels coming into the region, which I predict will happen.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13149942">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I want to make sure I understand that last point.</ParaText>
+              <ParaText>Even if submarine surveillance is lacking, that does fall into the hybrid threat category. Therefore, there isn't really a geopolitical threat despite the somewhat explosive context at this point.</ParaText>
+              <ParaText>Did I get the gist?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149944">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I believe the hybrid threat is a geopolitical threat. I think that will be at the heart of things.</ParaText>
+              <ParaText>To your comment on submarines, the simple reality is that Canada is unlikely to have a sovereign submarine detection capability in the Arctic. Dating back to the 1970s, we have worked with the United States to develop that capability, and we have developed that capability. That's simply part of continental defence. It's something we can do, and have done, in partnership with the United States.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="05">(0905)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149946">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>There were a few hands up.</ParaText>
+              <ParaText>Did you want to have an opportunity to respond, Mr. Boutilier? I think your hand was up initially there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149948">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, I did wish to respond, if I may, Mr. Chair.</ParaText>
+              <ParaText>I'd just like to underscore the fact that the Chinese are dispatching vessels on a regular basis to the Arctic. They travel entirely across the Arctic. While they would announce publicly that this is scientific or hydrographic research, I think we would be naive in the extreme if we did not imagine that it has profound security implications in terms of subsequent Chinese and/or Russian submarine and surface actions.</ParaText>
+              <ParaText>Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13149950">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I see that Mr. Henderson has his hand up.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149952">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>Mr. Chair, I'd like to go back and perhaps provide some specific information in response to the question about specific capabilities—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13149954">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>The sound isn't good enough.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149956">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I will speak loudly and slowly and just hope that the interpretation is sufficient.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13152860">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Henderson, I have to make sure everything is okay for the interpreters.</ParaText>
+              <ParaText>It's not great, but you can continue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13152864">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Would it be better if I continued in French?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13152867">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That would be fine by me, but it wouldn't solve the problem for the interpreters.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149958">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Please proceed, Mr. Henderson.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149963">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I will do my best here. </ParaText>
+              <ParaText>In terms of specific capabilities that the Coast Guard has and needs, first on the list, I think, is very robust data links. Satellite communications are difficult in the Arctic. We need broadband and large flows of data from ship to shore and between ships at sea. Uncrewed aerial vehicles for surveillance will be required, as will improved longer-range radars. We need electronic equipment in order to be able to do signals intelligence and to understand what other vessels are out there, using electronic means. We need remote sensing to understand flows of traffic. For example, there's a capability of putting all kinds of sensors on aids to navigation, which is a very good way of monitoring traffic.</ParaText>
+              <ParaText>Dr. Boutilier referred to the outstanding relationship with Inuit in the north. They are our eyes and ears. That is an excellent relationship that needs to be continued. </ParaText>
+              <ParaText>I made mention of the national area— </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149969">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I'm sensitive to the time for the other members. I apologize.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149972">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>No worries. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149974">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Cheryl Gallant, you have five minutes, I believe. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149976">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant (Algonquin—Renfrew—Pembroke, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Chair.</ParaText>
+              <ParaText>Mr. Lajeunesse, China has been sending more research vessels to the Arctic. What's the underlying purpose of their expeditions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149978">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>As a quick aside, the Canadian Maritime Security Network is about to publish a very large report on exactly that question. I'd be happy to send it to you in the future.</ParaText>
+              <ParaText>The quick answer is that there are multiple different objectives for these research missions, which have grown dramatically over the last five years. There is legitimate maritime science focused on climate change research. However, over the last six to seven years, we've seen hydrographic surveying and resource surveying. We're looking at salinity and acoustic studies, including acoustic buoys, which could, in theory, be used to prepare for submarine transits. </ParaText>
+              <ParaText>The big concern for both Canada and the United States is what's called dual scientific research—research that has a legitimate scientific purpose but could also be used to facilitate military operations in the future.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149981">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Is there any evidence to suggest that these dual-purpose vessels are armed?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149983">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>No. There's no evidence whatsoever to suggest that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149985">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>You mentioned “grey zone” tactics. Would they be in a position to sever undersea cables? Are they equipped to do that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149987">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, absolutely. There are relatively few undersea cables in the areas of operation where the Chinese icebreakers have been working over the last couple of decades. However, when I talk about grey zone tactics, I'm suggesting that the committee and others look at China's modus operandi elsewhere. How does China work with its maritime militia and its illegal fishing fleet in the South China Sea and its near abroad? Of course, it's not too much of a stretch to extend that pattern of operations into the Arctic in the future.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="10">(0910)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13149989">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Lajeunesse, how capable and ready is our Coast Guard to confront a potentially armed dual-purpose Chinese vessel in the Arctic? How would the Canadian Coast Guard expel the Chinese vessel from Canadian waters when encountered?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149991">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That is less a question of physical capability than it is political decision-making. If we're talking about physically expelling a Chinese ship, whether it's armed or not, that has obvious political ramifications. If we're talking about kinetic warfighting, then that's not the domain of the Coast Guard. That is something that the air force would be responsible for. </ParaText>
+              <ParaText>I would suggest that it's more of a political question than one of physical capability.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149993">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>How prepared is our Coast Guard if it were to have to defend itself against these dual-purpose vessels should they engage and ram our Coast Guard or naval vessels in the Arctic in the way we've seen in other parts of the world?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149995">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>If we are talking about ramming operations, most of our Coast Guard's heavy icebreakers are polar class 3. They'd be very capable of ramming right back, but once again, if we reach the point where our vessels are ramming one another, then politically we probably have much greater concerns than fights in the Arctic.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149997">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Do we have units from our regular forces in the Arctic that are armed and equipped to deal with a potentially armed Chinese intrusion if they disembark onto land?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149999">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>We do have the ability to project those forces. However, I would highlight that a Chinese intrusion onto land would be both extraordinarily unlikely and, of course, unlikely to achieve anything. I suspect our most appropriate tactic, were that to happen, would be to sit back while the Chinese froze to death in the stark Arctic environment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150001">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>The U.S. Coast Guard is currently building new icebreakers. The polar security cutters are expected to be armed with two 30-millimetre Bushmaster Mk44 auto cannons and six crewed Browning machine guns. Should Canada be moving to arm our Coast Guard's icebreakers with similar armaments to better counter Chinese in the Arctic?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150003">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>There has been discussion of adding mounts for heavy machine guns to Coast Guard vessels, which I think is a very good idea. There's no discussion of adding a larger or moderate-sized cannon like what we have on the AOPVs. </ParaText>
+              <ParaText>Again, if we are looking at the Coast Guard as a constabulary force, which I think is the appropriate response, what they're going to be dealing with will be, as I said, this grey zone, hybrid threat: illegal fishing vessels, which are unlikely to be armed, or maritime militia projected into the western Arctic, which, again, is unlikely to be armed. If we are in a position where we're fighting them with machine guns, then, again, we have a bigger picture, and we have the Canadian navy in the background to manage that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150004">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>The government has given us mixed messaging over the integration of the Coast Guard into DND. They've claimed that the Coast Guard will remain a civilian force and will not be converted to an armed fighting unit. How would a civilian force be effective at countering potentially armed ships, be it in the Arctic, the Atlantic or the Pacific, for that matter?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150006">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>The crux of this is the question of confrontation. The Coast Guard is neither intended nor will be intended to actually do that confrontation. This move is intended to increase their surveillance capability and their communications with the Canadian Armed Forces. In principle, the idea here is that the Coast Guard icebreakers in the Arctic will provide situational awareness so that if we need to confront someone, the Canadian navy and air force, which will exist in the background and be in the area, can do the actual confrontation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150008">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Are the Canadian Rangers equipped to confront Chinese or Russian combatants if they were ever to intrude into our Arctic?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150010">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>No, certainly not, and they're not intended to. Neither the Canadian Armed Forces nor the Rangers would tell you that they are frontline combat forces. Very similar to what we're talking about on the water, the Rangers are the eyes and ears of the CAF. They are there to tell the Canadian Armed Forces when someone is there who is not meant to be there. They are not meant to be doing the fighting.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150011">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>I'm passing it over to Mr. Watchorn. </ParaText>
+              <ParaText>You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="15">(0915)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150013">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="47">Tim Watchorn (Les Pays-d'en-Haut, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair.</ParaText>
+              <ParaText>I thank all the witnesses for being here with us.</ParaText>
+              <ParaText>Yesterday evening, I had an opportunity to go to the Fisheries Council of Canada, where I met with people who work at Fisheries and Oceans Canada. Most of them support the idea of integrating the Canadian Coast Guard into the military.</ParaText>
+              <ParaText>From what I'm hearing today, all or almost all of the witnesses are in favour of integrating it. Our government has announced massive investments in the Coast Guard, the Royal Canadian Navy and the Royal Canadian Air Force.</ParaText>
+              <ParaText>Professor Boutilier, how do you think all that new equipment and all those purchases, including those being made for the Coast Guard, can be integrated in such a way as to protect our northern, eastern and western borders?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150015">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much for that question. It is, in many ways, the central question going forward. </ParaText>
+              <ParaText>As I suggested in my preliminary observations, time, ladies and gentlemen, is not on our side. We have a series of ambitious programs going forward, but the phasing of those programs is awful. When you look at the Royal Canadian Navy, it has its Halifax class frigates, which are superb workhorses. However, they are coming towards the very end of their operational lives, and it will still be another 10 years before the replacements will be commissioned and begin to move into service. Similarly, we've seen the government's announcement that they plan to purchase 12 submarines. Regardless of the source, it will be another 10 years before these are fully operational—and we could say that about one or two other weapons systems, like the F-35s and so forth.</ParaText>
+              <ParaText>Not only do we have an enormous deficit that needs to be addressed—a legacy of failed government expenditure over the past 25 years—but we find ourselves in a situation where the timing is not attractive. The same failure to provide the latest equipment and so forth applies, of course—as we've seen from the testimony—to the Canadian Coast Guard. </ParaText>
+              <ParaText>It will be a major challenge, I think, going forward in the mid-2030s, when many of those reanimation programs in fact begin to come together, not only in terms of equipment and the integration of cultures but, as our colleagues have said, in terms of whether we can attract and retain personnel. All of these systems will begin to be operational, more or less, in mid-decade. Until that time, all we can do—and that's why I suggested it to you in my formal comments—is move with a sense of wartime urgency. This is serious stuff. We have dragged our feet for far too long. We've accepted self-congratulatory excuses, and this is no longer adequate for either the Coast Guard or the navy.</ParaText>
+              <ParaText>Your point is very well taken. This is a major integrative challenge, not only from a cultural perspective but from a physical one. I think, from my own experience, that the senior leadership in the navy—which is inspired, and we're very lucky to have excellent people at the top—and of the Coast Guard is eager to get on with getting on, so we have to streamline the bureaucratic processes to make this happen as quickly as possible. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150016">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="47">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you for that answer.</ParaText>
+              <ParaText>My next question is for you, Ms. Eschuk.</ParaText>
+              <ParaText>You talked about the closure of some Marine Security Operations Centres, or MSOCs. Can you tell us which MSOCs were closed recently?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150018">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I'm sorry. The translation wasn't great, but I'm going to try to answer the question. I didn't get the—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13155680">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="47">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I can ask it in English, if you want.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13155681">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13150019">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="47">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I heard you talk about MSOC bases closing. I'd like you to enumerate the ones that were closed, and then I'm going to ask somebody else a question about why they were closed.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="20">(0920)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150024">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I have to remember where the four centres were that were closed, but they went to three main ones. They have one on the east coast, one in central Canada and one in the west, I believe. There are barriers when it comes down to that. I'm sorry, but I don't have that data exactly in front of me. However, I do know—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150030">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I'm going to postpone that response until later, if I may, Tim. We are a bit over time.</ParaText>
+              <ParaText>Monsieur Savard-Tremblay, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150032">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Chair, don't reduce my speaking time, but can we get some information about what the interpretation issue was? I want to make sure it doesn't happen again. Usually there are sound checks before the meeting to avoid this kind of thing.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150038">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I'm sorry, but I didn't get the interpretation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150040">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Do you have your interpretation on the English channel?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150042">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, I do, but what I'm hearing is the speaker, and then the interpretation is coming in very low behind the speaker.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150044">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Increase your volume.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150046">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan (Selkirk—Interlake—Eastman, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I have the same thing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150050">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I have it at 80%.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150052">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Can someone increase the volume for the interpreters? It occurs with me as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150054">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150058">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Chair, were sound checks done before the meeting?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150060">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>The tests were done. What I normally find myself doing is increasing the volume every time the interpreters are being used. The volume falls right back down, so I have to physically increase it.</ParaText>
+              <ParaText>Do you want to try increasing your volume when Mr. Savard-Tremblay is speaking and see if that works for you?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150061">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Sure, I can do that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150062">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150063">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>My first questions are not for Ms. Eschuk.</ParaText>
+              <ParaText>Mr. Chair, would it be okay with you if we check at the end of my intervention to see if the interpretation was good?</ParaText>
+              <ParaText>Mr. Henderson, you ran out of time earlier to finish what you were saying about submarine detection and so on. Do you have anything to add about that?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150064">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Sir, I could hear the interpretation reasonably well there.</ParaText>
+              <ParaText>I don't really have much more to add specifically. There are lots of capabilities that the Coast Guard currently has, but, as I mentioned in my opening comments, I think there are certain areas that we would do well to add to the Coast Guard, specifically the national aerial surveillance program, which has a small fleet of fixed-wing aircraft with highly sophisticated surface sensors on them. That would feed very well into the marine security operation centres.</ParaText>
+              <ParaText>If I might just make one very quick comment about the locations of those marine security operation centres, to the best of my knowledge, there have only ever been three. One is in Esquimalt, British Columbia; one is in Halifax, Nova Scotia; and the third is in St. Catharines, Ontario.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150065">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Chair, the interpreter says the sound is too poor to continue interpretation. That's what the interpreter said when Mr. Henderson stopped talking.</ParaText>
+              <ParaText>Ms. Eschuk, please tell me if you understand me.</ParaText>
+              <ParaText>In June, when the announcement was made about potentially transferring the Canadian Coast Guard from Fisheries and Oceans to National Defence, you said you were disappointed in the lack of transparency and consultation. You also added that this came as a surprise, which doesn't mean you're against the idea. You also said that dialogue was under way with Coast Guard leadership.</ParaText>
+              <ParaText>Would you say coordination has improved since then?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150066">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, it has improved, but I've had to ask for it on numerous occasions. I mean, we found out via a leak on the news that it was going to be moved. We should have never found out that way. Can you imagine the surprise of our members and the calls this office got wondering what that does for their employment? </ParaText>
+              <ParaText>The communications have to be ongoing, and they need to be transparent. When we ask questions, we should be able to get those answers. If they don't have those answers on these committees, then they need to get them so that we can give the guarantee to our members that their employment is safe and that their jobs aren't changing—or, if their jobs are changing, that it's done accordingly. The communication at the very beginning was very poor.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="25">(0925)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150067">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I won't ask you if you think they should have consulted personnel, because I'm sure you'll say yes given that the transfer will affect them directly. Have you consulted your members, and what do they think of this transfer?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150069">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>To date, we haven't done a lot of consultation. There's been a lot of being consult-told. That's when they tell us what's going on instead of asking for our opinion or how things could be done a little bit better. Our members are out there, and they continue to do their jobs, but the lack of communication to them is very disappointing, because they still don't know. We hear from certain politicians that it will remain a civil agency, but they don't trust that information that's coming out.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150071">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much for those responses.</ParaText>
+              <ParaText>Mr. Scott Anderson, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150073">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson (Vernon—Lake Country—Monashee, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much.</ParaText>
+              <ParaText>I want to continue this line of questioning right now. There seems to be a great deal of confusion in the government. The government has said that the integration addresses “the need for a more agile, efficient, and robust maritime force” in responding to global security challenges. It has also said that it's going to remain civilian. There seems to be a lot of confusion, both in the government and right here, as to civilian versus paramilitary versus military.</ParaText>
+              <ParaText>One of the first things I had to sign when I joined the military was something called unlimited liability, which essentially turned my life over to the Canadian military. That is a distinctly military thing. There is a cultural, informal and formal distinction between military personnel and civilians. I can read the definition of a combatant here, and I can read the definition of a warship. I can promise you that both of those definitions fit the Coast Guard, now that it's merged with the DND.</ParaText>
+              <ParaText>Which way are we going? Is there any direction? I understand that the union has not had good direction on this. Where are we going with this exactly? Are we going military, paramilitary—which includes interdiction—or civilian?</ParaText>
+              <ParaText>That's for anybody who has an answer to it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150076">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Chair, perhaps I can put forth a thought on that.</ParaText>
+              <ParaText>I can't tell if you can hear me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150077">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>We'll hear from someone else at this point. There is an Internet speed issue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150082">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Perhaps I can begin, then, until Chris comes back online.</ParaText>
+              <ParaText>I think what's essential here—and we come back to an earlier conversation—is that there's a fundamental difference between the interdiction role, the confrontation role—which remains the navy and the air force—and a sensing role. The point is that the Coast Guard, as I understand it, will remain a civilian agency. The entire point of this exercise is to increase lines of communication, to knock down barriers in order to allow the Coast Guard and the CAF to exchange information and, of course, to build the Coast Guard's surveillance capability so that the real combatants—the Royal Canadian Navy—will have better access to marine—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150083">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>With respect, I understand that. The problem, though, is that when these ships are floating around in the Arctic with Royal Canadian Navy personnel, they are legitimate military targets. We can call them civilians. We can say that they're actually performing civilian duties, but in fact any over-the-horizon missile launch is not going to distinguish between Canadian Coast Guard ships and Royal Canadian Navy ships. If they are performing with the Royal Canadian Navy, they are combatant ships. We can say that they're civilians, but in point of fact they are legitimate military targets.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150086">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Well, sir, with due respect, whether they are legitimate military targets or not, during a time of war, our adversaries will target the Coast Guard, regardless of what department they fall under.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150087">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Indeed, they will.</ParaText>
+              <ParaText>Who will be in command of the joint operations?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="30">(0930)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150088">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I'm not sure if that has been resolved yet. I can't comment on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150090">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Okay. I guess my point is that there should be some.... The merger has already taken place, and nobody is quite sure about some of the major issues here. We're potentially arming the ships with guns. Civilians aren't going to be firing those guns, so either we're going to have navy personnel on board the Coast Guard ships, or we're going to have Coast Guard members who are soldiers. You can't have it both ways on this issue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150092">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I believe the long-term intent is to arm some Coast Guard vessels—I believe this, but I'm not sure—with heavy machine guns. However, there's a big difference between that, which is for personal ship protection, and a deck gun, which would be for offensive engagement.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150095">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That is certainly a debatable distinction. Being shot with a 50-calibre machine gun is just as painful as being shot with a deck gun. They're both kinetic weapons.</ParaText>
+              <ParaText>What extra equipment will the Coast Guard receive going forward?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150098">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Perhaps someone else can engage on this, but my understanding is that this has not yet been resolved.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150100">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>If my microphone is working and people can hear me, I will give this a try.</ParaText>
+              <ParaText>Can you hear me, Mr. Chair?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150102">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Henderson, it's breaking up, unfortunately. I am sorry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150103">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I can hear him, but it's very low.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150105">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>The interpreters can't. It's not good enough quality.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150108">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Henderson, we would welcome your response. What I would suggest is sending it in via written notice, unfortunately. I am sorry.</ParaText>
+              <ParaText>We are a bit over time at this point. I am giving a bit of grace, given the difficulties.</ParaText>
+              <ParaText>Mr. Henderson, thank you.</ParaText>
+              <ParaText>I'm going to move it over now to Mr. Chris Malette.</ParaText>
+              <ParaText>You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150110">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="47">Chris Malette (Bay of Quinte, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Chair.</ParaText>
+              <ParaText>My question is for Mr. Lajeunesse and Mr. Henderson, but Mr. Henderson seems to be having some connectivity issues.</ParaText>
+              <ParaText>Are you aware of any overlapping services that the Royal Canadian Navy and the Coast Guard both currently offer that will be amalgamated and/or streamlined in this upcoming merger in order to reduce any redundancies but not reduce services or resources for both the military and fish harvesters, as part of this merger?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150112">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I don't believe there are any obvious overlaps that will create redundancies. If anything, the sum will be greater than its parts. That is the point here—that what we have now are two federal fleets working in silos and, indeed, creating redundancies in communication and surveillance. If the two can work together, share a common marine domain awareness and operating picture, this will facilitate both the security defence and the safety tasks.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150116">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I have a point of order, Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150117">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150118">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I think it's unfortunate that Mr. Henderson isn't able to participate. Could we ask him to maybe log out and come back into the system? His system is freezing up. I don't know if it's the speed of the Wi-Fi, the broadband or whatever he is using. Perhaps if he logs out and comes back in, we'll be able to hear him better.</ParaText>
+              <ParaText>It's important that we have his participation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150131">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Can the technicians work on that separately while we continue our meeting? Is that possible?</ParaText>
+              <ParaText>Mr. Henderson, let's try that. Log off, and we'll try to get you back on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150132">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="47">Chris Malette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, I'd like to hear from Mr. Henderson as well on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150133">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes.</ParaText>
+              <ParaText>Mr. Boutilier, your hand is up. Go ahead, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150139">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>To further the question about the two services, I think that when we look at the Arctic, what we see, in many ways, is a landscape that is breathtakingly under-understood, in the sense that in many cases you'll see in charts of the Canadian north a single line of soundings that dates from somewhere in the 19th century. The collection of data, whether it's hydrographic or whether it relates to the salinity and so forth.... Whether it comes from the Coast Guard or the navy, both of those services can contribute to the combined picture. </ParaText>
+              <ParaText>That's further to the question you were kind enough to put a moment ago.</ParaText>
+              <ParaText>Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="35">(0935)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13150152">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="47">Chris Malette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Briefly, further to that, for either Mr. Boutilier or Ms. Eschuk, for the harvesters and fishers who possibly could be worried about a potential loss of capacity or resources in switching the Coast Guard from DFO to the Department of National Defence, could you reassure them that this is a good path forward that will work to merge capacities and will not reduce services to them, and will possibly even enhance available resources and safety opportunities for them?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13151564">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I can address that. I have already assured my members that we believe this is a good move, over to DND. </ParaText>
+              <ParaText>When it comes down to surveillance or to integrating into DND, as long as it remains a civil organization, you can enhance its services. As I said, the MSOCs, with their surveillance, can analyze that data and get it back to the powers that be that need it. </ParaText>
+              <ParaText>Also, I think our lighthouse keepers are underutilized. They used to provide a line of defence, and that seems to have gone away.</ParaText>
+              <ParaText>I do reassure our members that I believe the move to DND is a good move, in regard to funding and falling under the purview of that minister. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13151655">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="47">Chris Malette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150153">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Bezan, you have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150154">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair.</ParaText>
+              <ParaText>I want to thank our witnesses. It's unfortunate that Mr. Henderson has been in and out. </ParaText>
+              <ParaText>I just want to follow up a little bit more on the talk around the future of the Canadian Coast Guard. I think everyone around the table agrees that putting them into the national defence mandate is appropriate, while recognizing the fact that not everything they do is national defence, whether it's navigation, icebreaking or science. Very little of that has anything to do with national defence, and including that part of their budget under national defence for the NATO matrix, I think, is creative accounting at best. As well, it doesn't provide any kinetic capabilities to the Canadian Armed Forces.</ParaText>
+              <ParaText>However, three out of our four witnesses—Mr. Boutilier, Mr. Lajeunesse and Mr. Henderson—all talked about constabulary interdiction capabilities, potentially some weapons on ships and a law enforcement role. </ParaText>
+              <ParaText>One thing I look at is that we had, at one point in time, Canada Border Services agents who were not armed, and now they are. It took some time, and I think Mr. Henderson alluded to the fact that what is required is a change in culture. </ParaText>
+              <ParaText>We have the MV <I>Asterix</I>, which serves as a supply ship to the Royal Canadian Navy and has a crew that is both civilian and navy. </ParaText>
+              <ParaText>Mr. Lajeunesse, you talked about the potential of officer training on Coast Guard vessels. Would it make sense, if we want to keep the Coast Guard civilian staff, to put more navy officers and sailors on Coast Guard vessels so that they can do interdictions and do more on the national security front and in law enforcement, as was alluded to by Mr. Henderson, especially if we go to a new Canadian Coast Guard act?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150161">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Let me state that when I say that it's a good idea to move naval personnel onto Coast Guard vessels, I'm speaking purely of the training perspective. We do not have the RCN vessels available to do sea training, so that is a training possibility. </ParaText>
+              <ParaText>We don't need RCN personnel in order to undertake constabulary interdictions. RCN has no mandate for that, and neither does the Coast Guard. </ParaText>
+              <ParaText>I do agree with Mr. Henderson's point that part of the CCG does require a stronger constabulary interdiction mandate—for which we currently use ship riders who are DFO or RCMP—but it would require a shift in its legal mandate to undertake those operations. That shift doesn't require navy personnel. Coast Guard personnel can do those interdictions.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="40">(0940)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13150165">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>With proper training.... </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150166">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>With proper training, of course.... Absolutely, it would be a longer-term development. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150167">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I see that Teresa has her hand up. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150168">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, I just want to add something really quickly. I'm not saying I'm for or against adding navy personnel to the vessels. However, you have to consider the size of the vessels and whether they actually have the room to house those extra personnel. I think the committee needs to take that into consideration.</ParaText>
+              <ParaText>Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150170">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I appreciate that. </ParaText>
+              <ParaText>When we are talking about new ships being built for the Coast Guard.... There are a number of them under construction right now, and a lot of them are science vessels—which, again, wouldn't have much of a role from a national defence standpoint—but if we're looking at icebreakers or some of the Coast Guard cutters that are doing coastal surveillance, would it make sense to put some weapons on board as we move forward? </ParaText>
+              <ParaText>Professor Boutilier, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150173">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I think I might challenge your suggestion or intimation that because they're scientific, they're not of value. I think central to all of this is that the Coast Guard, among other things, expands the navy's eyes and ears dramatically, which is something it desperately needs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150175">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>If we can do this on all vessels, whether it's icebreakers, science vessels or Coast Guard cutters, what should we put on these new ones that are coming forward, and what can we do to the existing fleet to make it better from the standpoint of both defence and surveillance?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150178">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>In my estimation, it's not necessary to provide arms on new scientific Coast Guard vessels. That may be subject to debate. </ParaText>
+              <ParaText>Clearly, what we need, I think, are enhancements for the Coast Guard fleet in terms of communications and sensors, so that they can expand the array of readings they take while they're operational on our coasts. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150184">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Okay.</ParaText>
+              <ParaText>I have just a quick question for Teresa. </ParaText>
+              <ParaText>We heard earlier that employees of the Canadian Coast Guard will now be considered part of the National Defence employee network and will have access to both the ombudsman and the military sexual misconduct centre. Where do you fall on how we deal with Coast Guard employees going forward under the National Defence services? Would you consider them to be veterans?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150185">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That's an interesting question. That discussion hasn't taken place.</ParaText>
+              <ParaText>I wouldn't consider them veterans of DND. They'd be veterans of the Coast Guard, which is a totally different entity.</ParaText>
+              <ParaText>That discussion hasn't taken place, or I haven't been asked or consulted on that. I think that's a piece that's missing. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150186">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150187">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Ms. Lapointe, you have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150188">
+            <PersonSpeaking>
+              <Affiliation DbId="319757" Type="47">Viviane Lapointe (Sudbury, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you. </ParaText>
+              <ParaText>My first question is for Professor Boutilier. </ParaText>
+              <ParaText>What lessons can Canada take from allied nations that have moved or have more closely aligned their naval and coast guard operations? How might this kind of integration strengthen Canada's ability to coordinate with partners through NATO, Arctic co-operation and Indo-Pacific partnerships?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150190">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>One of the leading examples is, of course, China, but, from a Canadian perspective, we draw the wrong conclusion from there, in the sense that the Chinese have a huge coast guard—the largest in the world—but it is a paramilitary force that is utilized as the tip of the spear in terms of Chinese naval operations. There's nothing that we can draw from that experience, other than to realize that there are countries that use their coast guard in a way that's completely alien to our own concepts. </ParaText>
+              <ParaText>There is a robust coast guard community in the Indo-Pacific, coast guards that collaborate or coordinate in the north Pacific. It is yet another arm of our reputational challenge, in the sense that if we look at the Indo-Pacific strategy from November 2022, what we see is the failure to use our presence to advance Canada's brand in the region. That's why, of course, the Indo-Pacific strategy called for the RCN to deploy on a consistent basis into the region. The Coast Guard is another arm of that presence, to build relations with the maritime community in the Pacific.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="45">(0945)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13150197">
+            <PersonSpeaking>
+              <Affiliation DbId="319757" Type="47">Viviane Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I was struck when you said in your opening testimony that the key word for all of us here today was “urgency” and that we couldn't be “laggards” any longer. </ParaText>
+              <ParaText>If you were to look ahead 10 or 20 years from now, how do you see the integration of the Coast Guard into National Defence helping Canada sustain its sovereignty and security in contested waters like the Arctic?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150200">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I think that we have failed abjectly over the decades with our Arctic strategy. We have had a great deal of rhetoric and almost no reality. Of course, one can argue that it's extremely expensive to establish infrastructure and so forth, but if you look, for example, at the Nanisivik exercise, we see that 18 years have unfolded and nothing has been achieved. </ParaText>
+              <ParaText>Personally, I would like to see a regular rotation of RCN officers onto Coast Guard vessels and vice versa. I think that we have a cultural integration issue that we need to address. The personal links between the players are vitally important, so that they don't act as two separate communities, even though they have different responsibilities. </ParaText>
+              <ParaText>The Arctic is so colossally large that we desperately need every resource we can get. The Coast Guard is so integrated into the tiny communities of the north that this provides enormous value added to the Royal Canadian Navy. </ParaText>
+              <ParaText>Going forward, I see a greater synergy and value added from this decision to incorporate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150204">
+            <PersonSpeaking>
+              <Affiliation DbId="319757" Type="47">Viviane Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Mr. Lajeunesse, from your perspective, how could this integration help Canada build stronger partnerships, specifically with Arctic allies such as Norway and Denmark, which face similar challenges in the north?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150205">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That's a very good question.</ParaText>
+              <ParaText>I think it's unlikely that the Canadian Coast Guard will be deployed abroad to the European Arctic region. That's simply not what it's designed for. This is a coastal force. However, within the North American context, I think we're already starting to see opportunities to integrate with the United States Navy and the U.S. Coast Guard.</ParaText>
+              <ParaText>This summer, we had an icebreaker that was essentially shadowing a Chinese vessel as it moved up through the Bering Strait. Whether that was intentional or not remains to be determined, but the fact that it was there and that it was relieving American forces that were not present provides Canada with something to offer in continental defence and, indeed, even builds a bit of a dependency among the American forces on our greater Arctic capability. Therefore, integrating the Coast Guard with DND is also going to facilitate integration into the larger continental defence picture.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150207">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you. I appreciate that.</ParaText>
+              <ParaText>Mr. Henderson, I hope you can hear all of us at this point. We're going to test you out in a moment with Monsieur Savard-Tremblay.</ParaText>
+              <ParaText>Monsieur Savard-Tremblay, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150208">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair.</ParaText>
+              <ParaText>Ms. Eschuk, let's talk more about the new mandate. You said there wasn't a lot of consultation. You also said you had concerns because the new mandate might not be consistent with the conditions of employment for most of the staff or with their mission. Do you have some reassurance around that now?</ParaText>
+              <ParaText>I would also like to ask you if you think transition measures should be implemented.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150211">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, again, this happened so quickly, without consultation. From what I was told, even the Coast Guard was caught off guard. I think that, if you're looking at expanding their national scope and the national security, that consultation does have to take place with us and with the members to see if they're capable of doing that and to see if that's what they wish to do.</ParaText>
+              <ParaText>As you know, they all have signed letters of offer and have their conditions of employment. When you're changing those conditions of employment, people need to think of where their future lies and whether it's within the Coast Guard or somewhere else they need to go in order to fulfill their career. For the Coast Guard members, it's their career. It's not just a job to them; it's a career. If you're changing the parameters of their duties, then they need to have the opportunity, and they have to want to continue on with that, but they have to know what that means. </ParaText>
+              <ParaText>Today, we don't know what that means. The consultation hasn't taken place, and I'm wondering if the consultation hasn't taken place because DND and the Coast Guard don't know how that looks as a future. I think what this committee is trying to do is determine what the future of the Coast Guard looks like, but as of today, there's a big question mark of what that means to my members.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="50">(0950)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150214">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Go ahead with one more question.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150215">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>You shared concerns about the fact that this could impact recruitment, hiring, necessary skills and naval resources required to fulfill the new mandate.</ParaText>
+              <ParaText>Do you have anything to add about that?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150216">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Again, the biggest problem is the recruitment issue. I'll use the lighthouse keepers as an example. They're all term employees. Why? During a strike, they're deemed essential services, but if they're essential services and if they're that important, then why aren't they hired as indeterminate? That would give them job security. A lot of our members on the vessels are term employees.</ParaText>
+              <ParaText>They had an initiative called “stop the clock”, where after five years they had an automatic rollover into the indeterminate positions. I was able, successfully, with the commissioner, to get DFO to rescind that for our term employees so that the clock was still ticking, and after three years, they were able to get the indeterminate status. It's a big concern that they cannot get that guarantee—after three years they have a job—and their term may be ending. You need to be able to hire these members indeterminately, rather than with term employment. </ParaText>
+              <ParaText>Those are the biggest problems with recruitment: the term employment and the status of their jobs in the future.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150221">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much.</ParaText>
+              <ParaText>I've allowed a bit of flexibility in the questioning up to this point. We're down to only two more. If I may suggest, Mr. Bezan will be up next, and then Sherry could wrap it up. I think that will be it for the meeting today.</ParaText>
+              <ParaText>Actually, it won't be, because I want to talk to you about something else afterwards, if we can go in camera then.</ParaText>
+              <ParaText>Go ahead, Mr. Bezan.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150223">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair. I'll be splitting my time with Mr. Kibble, so I'll try to keep this very short. </ParaText>
+              <ParaText>I'm hoping, Mr. Henderson, that you're going to be able to participate. </ParaText>
+              <ParaText>You mentioned the change in culture that might need to happen within the Canadian Coast Guard. Having served in both the Royal Canadian Navy and the Coast Guard, what do you think needs to happen from a cultural standpoint, especially if we bring in a Canadian Coast Guard act that will provide some of that law enforcement and interdiction capability within CCG?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150228">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you for that question. </ParaText>
+              <ParaText>I hope you can hear me sufficiently. I am hearing you very well [<I>Technical difficulty—Editor</I>].</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150229">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>The interpreters will determine whether or not they can do a proper job.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150230">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Let's try again. Keep going, and we'll see what happens.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150231">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Regarding a culture change, I think one of the important things is that the Coast Guard and the Department of National Defence need to take a long view, because, as Madame Eschuk has pointed out, it is a challenging and difficult transition to make and people need to understand what their conditions of service are and will be, and that can take a considerable length of time.</ParaText>
+              <ParaText>One of my experiences was with the Canada Border Services Agency when they were arming, and they gave themselves 10 years. They probably should have given themselves 20 years for that culture change—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150233">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I apologize, but they can't get translation. We'll go to another witness.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="09" Mn="55">(0955)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13155764">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Okay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150234">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That's unfortunate, but I do encourage Mr. Henderson to send in a written submission addressing some of the questions we've had so that we can get his input, because I think his experience and knowledge are going to be very valuable to us in wrapping up recommendations when we provide our report to the House for consideration.</ParaText>
+              <ParaText>With that, I'll turn it over to Mr. Kibble.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150239">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much. </ParaText>
+              <ParaText>We mentioned grey zones and hybrid threats. Indeed, Bill <Document DbId="13543613" Type="3">C-2</Document> does not commit the Coast Guard to some of those missions, and we determined that it doesn't have this military capability or it's not going to be moving in that direction. </ParaText>
+              <ParaText>Is the Coast Guard currently capable of law enforcement interdiction?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150241">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>No, the Coast Guard does not have that legal mandate. The Coast Guard serves as a—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150242">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>[<I>Inaudible—Editor</I>] identified that as a potential of what we're looking for. Do they have a capability for boarding or enforcing illegal foreign fishing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150243">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>In a sense, the Coast Guard carries the other government departments that have that—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150244">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>So they're on their own, and I appreciate that they can embark RCMP, navy or DFO.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150245">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>They do not have that mandate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150247">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Okay, thank you.</ParaText>
+              <ParaText>I'm moving on to the MSOCs. Are they capable of receiving and processing surveillance and tactical data, beyond phone, email and typed communications, and then sharing that with the regional Canadian joint operations centre?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150249">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150250">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>They do have tactical data they can share with the regional joint operations centres. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150252">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That is my understanding. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150253">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Okay. Do they have cryptographic communications capability for sending secure messages via satellite, HF or other forms of communication for this enhanced surveillance data?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150254">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That, I can't speak to.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150255">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Okay. </ParaText>
+              <ParaText>Moving on to unions, the Coast Guard is currently unionized under several unions. Will this be compatible with the extra requirements of longer deployments and operations that can occur outside of regular times, which would require overtime operations?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150256">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I think Mr. Henderson wants to answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150257">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I do want to answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150258">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>The current [<I>Inaudible—Editor</I>] overtime to do extra drills or a boarding that may occur at off hours, etc. There's a significant cost.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150260">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>That is not actually the structure of operations at sea in the Coast Guard. Coast Guard ships operate 28 days on and 28 days off, and the crews—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13155662">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Unfortunately, because of protocol, we have a process that we require for the audio. I'm sorry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13155690">
+            <PersonSpeaking>
+              <Affiliation DbId="322820" Type="28">Chris Henderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I cannot answer. Okay.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13150261">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Perhaps my colleagues could stop asking Mr. Henderson questions since we know there's no interpretation. We've known that for an hour, but everyone keeps asking him questions as though it wasn't an issue.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13152484">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I appreciate that we'll potentially get a written response.</ParaText>
+              <ParaText>It's my understanding that the MSOCs currently operate only part time, from 8:00 to 4:00, not 24-7. Can we confirm that it is a Coast Guard overtime issue that's caused the shift from 24-7 down to 8:00 to 4:00 operations?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150267">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I'm looking at the witnesses. I know that's probably a good question for our officials.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150268">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Ms. Eschuk might be able to answer that one.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150271">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I think it's a little bit longer. They still have certain shifts, but I think it ends at 9:00, depending on what coast you are on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150272">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>It's not 24-7. Thank you.</ParaText>
+              <ParaText>Will the Coast Guard, now that they're under the Department of National Defence, fall under Veterans Affairs for their benefits post-employment? Also, will they fall under the National Defence code of service discipline? I know these are issues that need to be worked out, but it seems none of this has been sorted.</ParaText>
+              <ParaText>Do we know if they're going to fall under the DND code of service discipline for these types of operations? That service code is required when operating weapons, etc.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150275">
+            <PersonSpeaking>
+              <Affiliation DbId="322780" Type="28">Teresa Eschuk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>No, we don't know that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150277">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you.</ParaText>
+              <ParaText>Do I have time?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150278">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Sorry, we have one more questioner.</ParaText>
+              <ParaText>Thank you for your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150280">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you, Mr. Chair. </ParaText>
+              <ParaText>I appreciate that very much. I look forward to some of those written responses.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150285">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Yes, Mr. Henderson, please provide any written responses, if you can. That would be very helpful for us.</ParaText>
+              <ParaText>Ms. Sherry Romanado, you have the last round of questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150286">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much, Mr. Chair.</ParaText>
+              <ParaText>Mr. Henderson, if there is anything that you want to add to this conversation, could you please send it to the committee? I really look forward to getting your opinion on this.</ParaText>
+              <ParaText>I want to follow up on the line of questioning from my colleague MP Lapointe.</ParaText>
+              <ParaText>Mr. Lajeunesse, I want to get more information with respect to NORAD. When we look at maritime domain awareness, maritime warning and maritime control—maritime control is not under the NORAD agreement—I'd like to get your opinion on how this integration of the Canadian Coast Guard with the armed forces can assist and provide opportunities for us in terms of our continental defence.</ParaText>
+              <ParaText>I'll go first to Mr. Lajeunesse, and then I'd also like to bring it to Monsieur Boutilier.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="10" Mn="00">(1000)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150298">
+            <PersonSpeaking>
+              <Affiliation DbId="322814" Type="28">Adam Lajeunesse</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>I think the critical thing to remember here is that when we're talking about safety, security or defence, the kinetic value is not necessarily the deciding one. The military has many platforms that are not kinetic, such as drones, surveillance, etc. They still count as military capabilities.</ParaText>
+              <ParaText>What I believe the Canadian government is envisioning for the Coast Guard is civilian vessels undergoing their normal safety and security tasks that have this added surveillance capability to integrate their marine domain awareness into both the MSOCs or the Canadian picture and, through the MSOCs, into NORAD's domain awareness.</ParaText>
+              <ParaText>The real value, from a continental defence perspective, is not the new assets or training; it's the added lines of communication, the improved lines of communication. As the Coast Guard goes about its duties, it can feed that information through to larger continental defence structures.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13150306">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>In that regard, I think you wrapped it up very well in terms of it being a civilian force that augments the capabilities of the Canadian Armed Forces. I appreciate that you clarified that this is a civilian force that is going to augment these capabilities—it is not meant to replace them—and provide us additional capabilities that could be lacking currently.</ParaText>
+              <ParaText>Mr. Boutilier, do you want to weigh in on this as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13150308">
+            <PersonSpeaking>
+              <Affiliation DbId="310046" Type="28">James Boutilier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>No, I just want to commend you on that summary a moment ago, because I think that is really at the heart of this entire discussion.</ParaText>
+              <ParaText>Of course, you're well aware of the U.S.-Canada-Finland agreement to build a highly ambitious number of icebreakers. Whether that will be achieved remains to be seen, but it's yet another illustration, I think, of the integrative elements associated with the Coast Guard, despite the uncertainties emerging from Washington.</ParaText>
+              <ParaText>Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13150689">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you to all the witnesses.</ParaText>
+              <ParaText>Again, Mr. Henderson, if you could provide us any written comments, we'd greatly appreciate it.</ParaText>
+              <ParaText>Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13150691">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText>Thank you very much to all the witnesses.</ParaText>
+              <ParaText>I'm sorry for some of the technical difficulties that took place. It's important for all of us to understand what is taking place with this integration. We're going to have some of our officials come as well in the coming weeks. Your testimony is very helpful to us.</ParaText>
+              <ParaText>I would ask the committee for their indulgence to have agreement to suspend and resume in camera for a moment. There are a few other matters I would like to discuss.</ParaText>
+              <ParaText>
+                <I>[Proceedings continue in camera]</I>
+              </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

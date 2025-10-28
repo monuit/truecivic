@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13162252">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 001</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Tuesday, October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mardi 7 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 001</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 001</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 001</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">01</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/07 13:15:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Sous-comité des affaires émanant des députés du Comité permanent de la procédure et des affaires de la Chambre</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs</ExtractedItem>
+    <ExtractedItem Name="Acronyme">SMEM</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Élisabeth Brière</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="13" Mn="15">(1315)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162255">
+            <PersonSpeaking>
+              <Affiliation DbId="322144" Type="35">The Chair (Hon. Élisabeth Brière (Sherbrooke, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923359">Hello and good afternoon.</ParaText>
+              <ParaText id="8923360">I call this meeting to order.</ParaText>
+              <ParaText id="8923361">I would like to begin by welcoming you and thanking Émilie Thivierge, the clerk who supported us and prepared today's meeting.</ParaText>
+              <ParaText id="8923362">I would also like to thank François Delisle for his work in analyzing all private members' bills and the motions that have been introduced.</ParaText>
+              <ParaText id="8923363">We are meeting to consider the items placed in the order of precedence on September 23, 24, and 25, in order to determine whether they should be designated non-votable. I hope you've looked at the 30 files.</ParaText>
+              <ParaText id="8923364">Are there any questions, comments or objections?</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8923365"> No? Everything is fine.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8923366">A report will be submitted to the chair of the Standing Committee on Procedure and House Affairs that will read as follows:</ParaText>
+              <ParaText id="8923367">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">That all items added to the order of precedence on September 23, 24, and 25 remain votable.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">That the subcommittee present a report listing those items which it has determined should not be designated non-votable and recommending that they be considered by the House.</QuotePara>
+                </Quote>
+                <Quote>
+                  <QuotePara IndentFirst="2" IndentRest="2">That the Chair report the subcommittee's findings to the Standing Committee on Procedure and House Affairs as soon as possible.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8923368">Does everybody agree on these conclusions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162261">
+            <PersonSpeaking>
+              <Affiliation DbId="318151" Type="2">Ernie Klassen (South Surrey—White Rock, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923369">Okay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162262">
+            <PersonSpeaking>
+              <Affiliation DbId="322144" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923370">That's it.</ParaText>
+              <ParaText id="8923371">The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

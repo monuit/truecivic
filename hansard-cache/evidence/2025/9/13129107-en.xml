@@ -1,0 +1,1056 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13129107">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Canadian Heritage</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 002</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Monday, September 22, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le lundi 22 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Canadian Heritage</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 22, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 002</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 002</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 002</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">02</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">22</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/22 15:50:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent du patrimoine canadien</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Canadian Heritage</ExtractedItem>
+    <ExtractedItem Name="Acronyme">CHPC</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Lisa Hepfner</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129112">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair (Lisa Hepfner (Hamilton Mountain, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889190"> I call this meeting to order. </ParaText>
+              <ParaText id="8889191">Welcome to meeting number two of the House of Commons Standing Committee on Canadian Heritage.</ParaText>
+              <ParaText id="8889192"> This is a hybrid format meeting, but I don't believe we have any participation online today. All in-person participants, please consult the guidelines written on the cards on the table. These are measures in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including the interpreters. You will notice a QR code on the card for a short awareness video if you need it.</ParaText>
+              <ParaText id="8889193"> Please wait until I recognize you by name before speaking. For those participating by video conference, click on the microphone icon.</ParaText>
+              <ParaText id="8889194">I remind you that all comments should be addressed through the chair. If you wish to speak, please raise your hand in the room, and the clerk and I will manage the speaking order as best we can. We appreciate your patience and understanding in this regard.</ParaText>
+              <ParaText id="8889195"> Today, this committee is meeting to discuss committee business. The subcommittee met on Wednesday, September 17, to consider the business of the committee and agreed to make the following recommendations: first, that the committee invite the chairperson and chief executive officer of the CRTC, Vicky Eatrides—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13129453">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="47">Rachael Thomas (Lethbridge, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889196">I have a point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13129464">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889197">Go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13129123">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889198">I'm sorry. That wouldn't be my preferred way to interrupt, but I just want to make sure this is a business meeting. Normally they're not in the public domain, so I want to check in with you, Madam Chair, and see where things are at with that. I notice that it says “public”. I also notice that we have more people in the room than we should have if it is not, in fact, public, so I'm just checking in.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129127">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889199"> It's a public meeting with committee business. I think there has to be a motion if we want to go in camera.</ParaText>
+              <ParaText id="8889200">To reiterate, the subcommittee came up with three decisions:</ParaText>
+              <ParaText id="8889201">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">1. That the committee invite the Chairperson and Chief Executive Officer of the Canadian Radio-television and Telecommunications Commission, Vicky Eatrides, to appear on Wednesday, October 1, 2025, to provide an update on the implementation of the Online Streaming Act;</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8889202">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> 2. That the committee invite the President and Chief Executive Officer of CBC/Radio-Canada, Marie-Philippe Bouchard, to appear on Wednesday, October 8, 2025, to discuss CBC/Radio-Canada's priorities; and</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8889203">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> 3. That the committee give priority to a study on the effects of technological advances in artificial intelligence on the creative industries and that the committee members submit their witness lists to the clerk of the committee by Wednesday, September 24, 2025, at 5 p.m.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8889204"> Is there someone who's willing to move a motion to adopt the report of the subcommittee? You all should have a copy of this in your inbox.</ParaText>
+              <ParaText id="8889205">Mr. Al Soud, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129140">
+            <PersonSpeaking>
+              <Affiliation DbId="319884" Type="47">Fares Al Soud (Mississauga Centre, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889206"> I move the motion to adopt the subcommittee report.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129143">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889207">Is everyone in favour?</ParaText>
+              <ParaText id="8889208">(Motion agreed to)</ParaText>
+              <ParaText id="8889209">
+                <B>The Chair:</B> Next, you have also received in your inbox an operational budget to cover the cost of the meal for our meeting with the <Affiliation DbId="318663" Type="4">minister</Affiliation> coming up this Wednesday. Will someone move to adopt the budget for the meeting on Wednesday? Does no one want food for our witnesses on Wednesday?</ParaText>
+              <ParaText id="8889210">Mr. Myles, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129147">
+            <PersonSpeaking>
+              <Affiliation DbId="319882" Type="47">David Myles (Fredericton—Oromocto, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889211">I'm not totally sure how to say this. This is my first time. </ParaText>
+              <ParaText id="8889212">I move to adopt the motion for the budget for the food for the meeting. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129148">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889213">That was well done.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13129774">
+            <PersonSpeaking>
+              <Affiliation DbId="319882" Type="47">David Myles</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889214">I'll get better.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13129780">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889215">Mrs. Thomas, did you have your hand up, or was that just the intervention you already made?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129151">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889216"> That was just the intervention I made, but I will put up my hand whenever there's an opportunity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129153">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889217">All right. It's over to you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129156">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889218">That's perfect.</ParaText>
+              <ParaText id="8889219">Given that we are dealing with committee business, I would like to move a motion that was previously discussed on June 16. It's a motion to adopt several reports that were drafted during the last Parliament and then didn't get tabled because of prorogation. There was a friendly agreement around the table that the summer would be given for members to look at those reports and to make sure they were fine with them.</ParaText>
+              <ParaText id="8889220">The motion reads as follows:</ParaText>
+              <ParaText id="8889221">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">That, given that committee members, staff, the clerk, analysts, and witnesses worked hard to produce the report entitled “The holding of National Forum on the Media” during the first session of the 44th Parliament, and given that the government did not table a response because of the prorogation of Parliament: </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8889222">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">the committee deem that it has undertaken and completed a study on “The holding of National Forum on the Media” pursuant to Standing Order 108, and that it adopt that report as a report from this committee; </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8889223">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">pursuant to Standing Order 109, the committee request the government to table a comprehensive response to the report; </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8889224">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">supplementary or dissenting reports that accompanied the report in the previous session of Parliament be tabled with the main report; and,</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8889225">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">the Chair present the report to the House.</QuotePara>
+                </Quote>
+              </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129173">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889226"> I'm sorry, Mrs. Thomas. May I clarify? Are you talking about the tech giants report?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129175">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889227"> No. I believe there are several reports that need to be moved and adopted from the previous Parliament. The tech giants report is one of them, but the one that I'm moving right now is about the national forum on the media.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129177">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889228">Okay.</ParaText>
+              <ParaText id="8889229">Mr. Champoux, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129181">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux (Drummond, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889230">We could streamline our work. Since we already had this conversation in June, we are aware of the motions for the reports that Mrs. Thomas is talking about today. If everyone agrees and it's possible to do so, I think we could combine the three motions and adopt them as we had discussed doing a little earlier.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129183">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889231"> I have a quick point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129185">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889232"> Mrs. Thomas, go ahead on a point of order.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129188">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889233">I'm so sorry. We do not have interpretation, so we actually didn't get to hear what he said.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129199">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889234">I will suspend for a couple of minutes while we figure this out. Thank you.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129239">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889235"> All right, we are back in session.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8889236">I hope everyone can hear the interpretation.</ParaText>
+              <ParaText id="8889237">Can you repeat what you said, Mr. Champoux?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129246">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889238">Absolutely.</ParaText>
+              <ParaText id="8889239">We've already debated the concurrence motions for the committee reports from the previous Parliament that Mrs. Thomas is proposing to vote on today. Since we've had the summer to read the reports, including members who weren't familiar with the content, I would propose, with the committee's agreement, that we save time by adopting all three motions together.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129255">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889240">If we have unanimous consent to group the report on tech giants, the report on illegal sexual material online and the report on the national forum on the media, as Mr. Champoux has suggested, we will adopt all three reports together. Does everybody agree?</ParaText>
+              <ParaText id="8889241">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8889242">
+                <B>The Chair:</B> Mr. Champoux, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129262">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889243">Madam Chair, we adopted the report from the subcommittee meeting we held last week, containing recommendations to the committee on the work we could schedule for the next few weeks of meetings.</ParaText>
+              <ParaText id="8889244">I would first like to make sure that everyone is comfortable with the fact that we want to invite Ms. Eatrides, the chair of the Canadian Radio-television and Telecommunications Commission, or CRTC, and Ms. Bouchard, the president of CBC/Radio-Canada, on the proposed dates so that the clerk can quickly extend the invitations.</ParaText>
+              <ParaText id="8889245">Next, there's a study on artificial intelligence that we discussed at the subcommittee last week that seemed to have consensus around the table. I suggest that we start this study right away. It's a motion to undertake a study to assess the impacts of AI on cultural industries. This is a fairly broad field of study, and it will certainly give rise to some very interesting exchanges. I think we could open the discussion on this study.</ParaText>
+              <ParaText id="8889246">My motion proposed four meetings, but that was really a minimum. When I drafted my motion, I expected there would be a lot of study proposals for this fall. I assumed that we would want to make room for other topics, but I think this is a major study. I think this is a major issue for all sectors, not just the cultural one. I feel that we would need a minimum of five meetings, while leaving the door open to more meetings if committee members agree to add them. Since we are meeting with the chair of the CRTC and the president of CBC/Radio-Canada, this study could also take place around those meetings.</ParaText>
+              <ParaText id="8889247">Therefore, with the committee's agreement, I would make this study a priority. If you want, we can discuss it. If not, I think we can pass the motion by voting right now. It would save us time, which would be wonderful.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129291">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889248"> Mr. Champoux, I'm clarifying with the clerk. We adopted the subcommittee meeting minutes, so we already adopted that third study. We can absolutely talk about how many meetings we want to have, but as I understand it, we've already agreed to start with this study, which is worded in the subcommittee meeting.</ParaText>
+              <ParaText id="8889249">Mr. Champoux, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129302">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889250">Unless I'm mistaken, I don't think the motion was included in the subcommittee report that we adopted. I don't think we had discussed the number of meetings, and I think that's what we need to establish today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129304">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889251">Mr. Généreux has the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129307">
+            <PersonSpeaking>
+              <Affiliation DbId="320154" Type="47">Bernard Généreux (Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889252">I'll let Mrs. Thomas go first.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129310">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889253">I am under the same impression as Mr. Champoux. We adopted the standing committee report indicating the direction of study, but we do have two different motions that deal with artificial intelligence, one from a Liberal member and one from the Bloc Québécois. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129312">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889254">I don't think that's public.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129313">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889255">Both have been put on notice.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129317">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889256"> Are they in the public domain? They haven't been moved, so they're not public.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129319">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889257">If I understand, I think Mr. Champoux actually wants to move his motion to make it so that his is the motion that is passed in order to guide this study. I would ask for clarification from my colleague. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129325">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889258">Mr. Champoux has the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129327">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889259">Perhaps the clerk could provide some clarification on that. We did not adopt one of the motions that was on notice on this topic. We did agree, when we adopted the subcommittee report, to do a study on this. Any discussions to be had on the text of the motion that will guide the study on artificial intelligence would be entirely relevant. Again, maybe the clerk can provide more clarity on what was contained in the subcommittee report that we adopted.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129331">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889260">We don't need to pass a motion on the study because we've already decided to do it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129335">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889261">In that case, can we propose the number of meetings and then amend the motion that was passed, or can we just do it amicably?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129337">
+            <PersonSpeaking>
+              <Affiliation DbId="318973" Type="27">The Clerk of the Committee (Jean-François Pagé)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889262">[<I> Inaudible—Editor</I> ] of the report, because the discussions were in camera. The motion to conduct this study has been adopted and will be in the minutes of today's meeting. As for the number of meetings, it's obviously up to you to determine that.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129342">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889263"> Mr. Myles, you're next.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129343">
+            <PersonSpeaking>
+              <Affiliation DbId="319882" Type="47">David Myles</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889264">Fortunately, I think we're on the same page in terms of the number of meetings. We agree that we should hold at least five meetings, which will give us a chance to conduct a good study. We also agree about holding meetings with the Canadian Radio-television and Telecommunications Commission and CBC/Radio-Canada. We feel the same way, because it will give us an opportunity to ask questions of a variety of witnesses.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129347">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889265">So we're all on the same page, I just want to make sure that we all agree. We've adopted the motion as suggested at the subcommittee meeting, and now we're discussing any other particulars we might want to add to this motion, for example the number of days.</ParaText>
+              <ParaText id="8889266">Mr. Généreux.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129350">
+            <PersonSpeaking>
+              <Affiliation DbId="320154" Type="47">Bernard Généreux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889267">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8889268">Good morning, everyone. I am pleased to be sitting on the committee with you for this session. I'm extremely glad to be here.</ParaText>
+              <ParaText id="8889269">I understand that we just passed the motion to adopt a motion aimed at conducting a study on artificial intelligence. I would just like to bring to the committee's attention that, over the past two years, the Standing Committee on Industry has studied Bill <Document DbId="11873796" Type="3">C‑27</Document>, which had an artificial intelligence component. We've heard from a lot of witnesses on this.</ParaText>
+              <ParaText id="8889270">If I understand Mr. Champoux's motion correctly, the idea here is to conduct a study on artificial intelligence as it relates to creative industries. It's important to understand that artificial intelligence is an extremely broad subject. It's very, very wide-ranging. If we want to limit our study to the creative industries, at the very least we need to define what those are. Otherwise, we could cast a really wide net.</ParaText>
+              <ParaText id="8889271">The other point I would like to raise is that the main motion passed earlier asks us to submit witnesses within 48 hours for a study that I consider extremely important. That's an extremely short time frame for us to find all the witnesses needed to carry out a study. Could we submit witness lists, start the study and then have the option of adding other witnesses later on? It will be hard for us to draw up a list of all the relevant witnesses we would like to see during the five meetings of this study in 48 hours. There may be witnesses from other organizations we want to meet with. We would need the option of adding witnesses.</ParaText>
+              <ParaText id="8889272">I also agree that we should hold five meetings. I think this study is very important. As we know, AI is already very prevalent in our lives, and this is just the beginning. I therefore suggest that we move forward and adopt this motion today, but that we ask Mr. Champoux to provide a precise definition of what a creative industry is. I think it's important to study the subject of his motion in five meetings, while being able to add witnesses during the study. I find that 48 hours is much too short a time to come up with a list of appropriate witnesses for this study.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129379">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889273">I believe we already discussed this at the subcommittee. We've agreed to get preliminary witness lists and, later on, invite other people who we think will be essential to this study.</ParaText>
+              <ParaText id="8889274">Also, I don't know if we really need to define the concept of a creative industry. I think that will be up to the committee members to decide.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8889275"> Mr. Al Soud, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129389">
+            <PersonSpeaking>
+              <Affiliation DbId="319884" Type="47">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889276">Could you please read the exact wording of the motion that was passed? It appears to be a study on the effects of technological advances in artificial intelligence on the creative industries. Have I got that right?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129393">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889277"> Perhaps the clerk can read what we agreed upon.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129394">
+            <PersonSpeaking>
+              <Affiliation DbId="318973" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889278">Here is the last paragraph of the motion: “That the committee give priority to a study on the effects of technological advances in artificial intelligence on the creative industries and that the committee members submit their witness lists […].”</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129396">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889279"> I have Madame Thomas, and then Mr. Champoux and Mr. Al Soud.</ParaText>
+              <ParaText id="8889280"> Mrs. Thomas, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129400">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889281"> Thank you.</ParaText>
+              <ParaText id="8889282">I just want to lend our support. As Conservatives, we would support defining this study as being five meetings long. We'd be prepared to accept that.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129403">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889283">Mr. Champoux, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129404">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889284">I'd like to say two things to reassure Mr. Généreux.</ParaText>
+              <ParaText id="8889285">We did indeed specify that we would submit a list of preliminary witnesses by Wednesday to allow us to begin the study. We can obviously add witnesses later and take a bit more time to think about our list.</ParaText>
+              <ParaText id="8889286">As for defining the creative industries, as the chair said earlier, I don't think it's essential. We know what we're referring to when we talk about creative industries and there may be individuals in a specific sector of the creative industries you'd like to include in this study. The Liberals may have a different idea, us too, but I think we're capable of understanding the definition of creative industry in the context of this study.</ParaText>
+              <ParaText id="8889287">I'm in favour too of having at least five witnesses. Just based on today's conversation, I think that number could be higher. So I believe we should keep that in mind too. I think this study has the potential to come back.</ParaText>
+              <ParaText id="8889288">Furthermore, what Mr. Généreux is saying is true. In the previous Parliament, the Standing Committee on Industry and Technology considered Bill <Document DbId="11873796" Type="3">C‑27</Document>. It dealt mainly with AI, but the impacts are being directly felt by artisans and content creators and in all sectors of the creative industries. We must be able to anticipate some of the challenges. I think we have often been behind the curve of technological progress over the past 30 years and we still are. Then, I think there are things we will hear from the witnesses we invite. They'll tell us how much we need to regulate in some areas.</ParaText>
+              <ParaText id="8889289">Perhaps the committee will reach that conclusion, but this study will truly help us have a better understanding of the effects on the creative industries, in particular.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129429">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889290"> Mr. Al Soud, you are next.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129432">
+            <PersonSpeaking>
+              <Affiliation DbId="319884" Type="47">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889291">It has already been discussed.</ParaText>
+              <ParaText id="8889292">I'd also like to mention that we need at least five meetings, because, in my view, there is significant potential for a more elaborate study.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129437">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889293">Mr. Généreux, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129440">
+            <PersonSpeaking>
+              <Affiliation DbId="320154" Type="47">Bernard Généreux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889294">You're correct, Mr. Champoux: we spent two years working on Bill C‑27, which unfortunately died on the Order Paper.</ParaText>
+              <ParaText id="8889295">Mr. Myles, I don't know whether the government intends to table its bill on AI again this time minus everything on privacy. That's because when it's all lumped together, it goes nowhere. I don't know whether the government intends to table a new bill, and perhaps you could find out. If so, perhaps we should be advised quickly if we need to plan a study on it.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13142772">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889296">Mr. Ntumba, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129462">
+            <PersonSpeaking>
+              <Affiliation DbId="319881" Type="47">Bienvenu-Olivier Ntumba (Mont-Saint-Bruno—L'Acadie, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889297">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8889298"> Based on what he said, Mr. Champoux presumes we all agree on the definition of cultural industry. I'd still like to include a written definition, so that we can move forward without ambiguity or any misinterpretation of what a cultural industry is. A definition could state, for example, that “a cultural industry designates all economic activities that produce, distribute and market goods and services related to arts, culture and creative activities.” In other words, these are sectors where artistic and cultural creation is transformed into products or services for public consumption, be it in cinema, audio-visual media, music, entertainment, publishing, books, newspapers, graphic novels, video games, visual arts, fashion and architecture. It's quite broad. Therefore, if we imply a definition without putting anything in writing, we risk lacking focus.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129476">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889299"> Is everyone in agreement that we take this study to a minimum of five meetings and add that to the motion?</ParaText>
+              <ParaText id="8889300">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8889301">
+                <B>The Chair:</B> I also note that in our subcommittee motion, we do not ask for a report or a response from the government. Do we want to add that to this motion?</ParaText>
+              <ParaText id="8889302"> Mr. Al Soud.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129480">
+            <PersonSpeaking>
+              <Affiliation DbId="319884" Type="47">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889303">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129484">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889304">I don't see any other hands up.</ParaText>
+              <ParaText id="8889305">Mrs. Thomas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129488">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889306">Thank you.</ParaText>
+              <ParaText id="8889307">I understand that we have our trajectory in front of us. I would like to propose a study that might follow after the one on AI. Depending on how long that study is, if it is continuously expanded, then maybe this one could be interjected in there at some point. It has to do with my motion.</ParaText>
+              <ParaText id="8889308">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">That the committee undertake a study on the journalism and media sectors in Canada and Quebec, including issues of fairness and competition; that the study be comprised of no less than 5 meetings; that the committee invite the Minister of Canadian Identity and Culture and the President and CEO of the CBC/Radio-Canada to testify in relation to the study for no less than two hours each, separately; and that the committee invite other witnesses selected by parties to testify.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8889309">I would move this motion to be passed by the committee, so that this would be a topic of study going forward.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129499">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889310">Mr. Généreux, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129503">
+            <PersonSpeaking>
+              <Affiliation DbId="320154" Type="47">Bernard Généreux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889311">In terms of this motion, in keeping with what we just said in relation to the previous motion, I move adding that the committee report back to the House. However, I wonder whether we need to report back to the House or to—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129505">
+            <PersonSpeaking>
+              <Affiliation DbId="318973" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889312">That can be done at the conclusion of the study. When the committee concludes its study, it can move motions to adopt the report, and then ask the government to respond. We don't need to do it now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129508">
+            <PersonSpeaking>
+              <Affiliation DbId="320154" Type="47">Bernard Généreux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889313">Okay. I understand.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129510">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889314">Mr. Champoux, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129513">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889315">I'm still in agreement when we talk about undertaking studies on the journalism and media sectors. I agree with the proposal to hold five meetings. I consider this study to be broad enough.</ParaText>
+              <ParaText id="8889316">I also note that, yet again, there is a request to invite the CEO of CBC Radio-Canada to testify for two hours as part of this study. I understand full well the importance of the public broadcaster in the Canadian and Quebec news ecosystem. However, I think there are other major players in the news media sector and so I am somewhat reticent to set aside a two-hour meeting just for the CEO of CBC Radio-Canada as part of this study. That's a lot. There's nothing to prevent us from inviting her, I think it's quite relevant, but there are other challenges facing Quebecor, Cogeco Media, as well as the newspapers and all sectors of journalism in Quebec and Canada. I get the impression that devoting two hours of this study just to CBC Radio-Canada may distract us a little from this study. I am a little less comfortable with that part of the motion. I move it simply be removed.</ParaText>
+              <ParaText id="8889317">I quite agree with the motion to invite the <Affiliation DbId="318663" Type="4">minister</Affiliation> again. I don't see a problem with having the CEO of CBC Radio-Canada as part of this study. However, I am really much less comfortable with setting aside two hours for her appearance. I get the feeling that industry stakeholders, particularly those from Quebec with whom I've been speaking, might say that the committee is inviting Ms. Bouchard yet again, and that CBC Radio-Canada is in the spotlight yet again, whereas those stakeholders would like more time to speak and, once again, be heard by the committee.</ParaText>
+              <ParaText id="8889318">I would amend the motion by moving simply that the invitation to the CEO of CBC Radio-Canada be withdrawn. As for the rest of the motion, I fully agree for us to undertake a study on this subject and give it priority, after the study on AI. I don't know what the committee thinks.</ParaText>
+              <ParaText id="8889319">Will we debate the motion as amended?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129534">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889320"> Is there any debate on the amendment?</ParaText>
+              <ParaText id="8889321">We have Mr. Al Soud, and then Mrs. Thomas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129538">
+            <PersonSpeaking>
+              <Affiliation DbId="319884" Type="47">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889322"> Madam Chair, would it be possible to move to suspend for a second?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129540">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889323"> Do you understand what just happened?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13130225">
+            <PersonSpeaking>
+              <Affiliation DbId="319884" Type="47">Fares Al Soud</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889324">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13130235">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889325">Okay. Sure. I'm going to suspend for a minute.</ParaText>
+              <ParaText id="8889326">Thank you.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129626">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889327">I call the meeting back to order.</ParaText>
+              <ParaText id="8889328">I have Mr. Waugh, Mr. Champoux and then Madame Royer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129631">
+            <PersonSpeaking>
+              <Affiliation DbId="320151" Type="47">Kevin Waugh (Saskatoon South, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889329"> I'll let Mr. Champoux go ahead—I may follow up after that—because he had the floor before and was talking about this.</ParaText>
+              <ParaText id="8889330"> If you don't mind, Chair, I'll give the floor to Mr. Champoux first.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129637">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889331">Mr. Champoux, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129639">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889332">That's respect, Madam Chair. All jokes aside, I think it was extremely productive to take a small break to discuss all that. I believe we may have a proposal to achieve consensus.</ParaText>
+              <ParaText id="8889333">I thank Mr. Waugh for allowing me to continue my intervention.</ParaText>
+              <ParaText id="8889334">What I would do is withdraw the amendment I made before we suspended, and replace it with another. I am bothered by the fact that we would reserve an entire meeting for CBC Radio-Canada in a study on journalism and the media sector in Quebec and Canada. However, I think it's important for us to set aside some time and have the CEO of CBC Radio-Canada appear as a witness in this study.</ParaText>
+              <ParaText id="8889335">I would reword my amendment slightly to find a way to say that we want the <Affiliation DbId="318663" Type="4">Minister of Canadian Identity and Culture</Affiliation> to be with us for an entire meeting. I think that's important, because the study falls under his department and his area of responsibility. We can have him testify for two hours. I would also state we want the CEO of CBC Radio-Canada to appear, but without specifying the length of her appearance. We are committing then to inviting her as a witness but not necessarily for an entire meeting. If she came during a meeting with other witnesses, so be it. That can be decided later.</ParaText>
+              <ParaText id="8889336">I would simply like to amend the motion to invite the minister for a two-hour meeting, which is appropriate, and I would move we add that Ms. Bouchard, the CEO of CBC Radio-Canada, be simply added to the list of witnesses for this study. Would that wording allow us to reach an agreement?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129660">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889337"> I need unanimous consent to accept Martin's request, because he has already put forward a motion. We need unanimous consent to allow him to amend his motion. Are we all good?</ParaText>
+              <ParaText id="8889338">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129662">
+            <PersonSpeaking>
+              <Affiliation DbId="319882" Type="47">David Myles</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889339">However, we can to discuss it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129663">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889340">Yes, of course.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8889341">However, we all had to agree that he could amend the motion he'd already put on the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129665">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889342">Ms. Royer, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13129668">
+            <PersonSpeaking>
+              <Affiliation DbId="319880" Type="47">Zoe Royer (Port Moody—Coquitlam, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889343"> Thank you, Madam Chair and esteemed colleagues of the committee.</ParaText>
+              <ParaText id="8889344">I was fully supportive of MP Champoux's original amendment. I see great benefit in inviting others. I don't think that is off the table; perhaps I need a little clarity on this. I see great benefit in inviting CPAC and the Canadian Ethnic Media Association. Pardon me if it's already off the table.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129671">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889345">Are you suggesting that we add more names to the motion, or are you content to leave it as it is? You can invite whomever you want as a witness for this study, so it will still work. We don't need to put them in the text. I don't think I can do that, actually.</ParaText>
+              <ParaText id="8889346">I have Mr. Ntumba next.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129673">
+            <PersonSpeaking>
+              <Affiliation DbId="319881" Type="47">Bienvenu-Olivier Ntumba</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889347">Thank you, Madam Chair.</ParaText>
+              <ParaText id="8889348">Mr. Champoux, thank you for amending your motion. I understood that as well, meaning that we needed to set aside time for the <Affiliation DbId="318663" Type="4">minister</Affiliation> and that the CEO of CBC Radio-Canada should be among those invited to appear, without, however, specifying the length of her appearance.</ParaText>
+              <ParaText id="8889349">Like Ms. Royer just did, I will ask the clerk to add the name of the Black Screen Office to the list of witnesses. I have spoken to them. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129678">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889350">I have Mr. Myles, and then Mr. Waugh.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129682">
+            <PersonSpeaking>
+              <Affiliation DbId="319882" Type="47">David Myles</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889351">For me, the only question that remains is this: Since the CEO of CBC Radio-Canada is scheduled to appear before us next week for two hours, will we need to invite her back as part of the new study, along with the minister? It's the same subject, in my opinion.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129684">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889352"> I have Mr. Waugh, and then Mr. Champoux.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129685">
+            <PersonSpeaking>
+              <Affiliation DbId="320151" Type="47">Kevin Waugh</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889353"> Thanks, Madam Chair.</ParaText>
+              <ParaText id="8889354"> I do like this from Mr. Champoux. We've had a number of incidents over the last six months in this country where CBC has gone into areas in Quebec, and, I can tell you, in Alberta—namely, Lloydminster and Medicine Hat—where they've squeezed the traditional media right out. I do think that, since Madame Bouchard has hired.... They've promoted this: “We have reporters in Lethbridge, Medicine Hat and all over.” She was here touting that, along with Ms. Tait. It is their game plan to eliminate media in other zones. I will challenge them when they come. They've done a very good job of eliminating a 50-year station in Lloydminster and a 70-year station in Medicine Hat. That was their game plan, to hire reporters.</ParaText>
+              <ParaText id="8889355">Madam Chair, you used to be a reporter. They have unlimited resources. I look forward to CBC coming and answering why they hired 30 additional reporters in specific regions where they knew the local media currently there was very vulnerable.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129696">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889356"> There are a few former journalists around this table. You can tell we're very passionate about this topic.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8889357">I will give the floor to Mr. Champoux, who I believe is a former journalist.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129700">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889358">That sets the stage for Ms. Bouchard's visit. I think two hours with Ms. Bouchard will certainly not be enough to cover everything we need to cover.</ParaText>
+              <ParaText id="8889359">I wanted specifically to respond to Mr. Myles's question. Several topics under committee business will relate to CBC Radio-Canada. The appearance by Ms. Bouchard, scheduled for October 8, if it works, will allow us to address a variety of topics. However, when we delve into the study on journalism, for example, that will be a different study, during which we will invite back the CEO of CBC Radio-Canada. What I mean by that is that we won't take advantage of one appearance to talk about both the study we will undertake in three months' time and the events that took place this summer and to which Mr. Waugh is referring. We invite witnesses one study at a time, even if some return rather often. Over the past few years, the committee has become familiar with several faces.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129704">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889360">Go ahead, Mrs. Thomas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129706">
+            <PersonSpeaking>
+              <Affiliation DbId="320596" Type="40">Rachael Thomas</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889361">My only request would be that, perhaps, the clerk could read the motion as amended or just read the amendment before we go to the vote.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129709">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889362">That's a good idea.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129710">
+            <PersonSpeaking>
+              <Affiliation DbId="318973" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889363"> I don't have it in writing, but my understanding is that we'll keep “the Minister of Canadian Identity and Culture and the President and CEO of the CBC/Radio-Canada to testify” and—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129714">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889364">We take out the time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129715">
+            <PersonSpeaking>
+              <Affiliation DbId="318973" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889365">Yes. For the minister it's two hours, but we take out the time for CBC/Radio-Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129716">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889366">Should we just take out the time for both of them? There's only one instance of time in there.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129717">
+            <PersonSpeaking>
+              <Affiliation DbId="318973" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889367">Shall we set aside two hours for the minister?</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8889368">Okay, so we keep the minister for two hours. It's only the CBC.... That's in the motion, but with no time, as a regular witness.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8889369">Agreed.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8889370">I don't have the exact wording there. I will make sure to work on it, and I can show it to you after. I don't have the text now, but that's my understanding.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129719">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889371"> Mr. Champoux, go ahead.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129721">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889372">The wording of my motion aims to help everyone understand: That the committee undertake a study on the journalism and media sectors in Canada and Quebec, including issues of fairness and competition; that the study be comprised of at least five meetings; that the committee invite the <Affiliation DbId="318663" Type="4">Minister of Canadian Identity and Culture</Affiliation> for a minimum of two hours; that the CEO of CBC Radio-Canada be on the list of witnesses appearing before committee; and that the committee invite other witnesses selected by the parties to appear.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129726">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889373"> All right. I don't see any other hands up to speak to the amended motion.</ParaText>
+              <ParaText id="8889374">Go ahead, Mr. Myles.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129728">
+            <PersonSpeaking>
+              <Affiliation DbId="319882" Type="47">David Myles</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889375"> I would propose to amend it so the <Affiliation DbId="318700" Type="96">minister</Affiliation> does not have to come for two hours, because he's coming in two days for two hours. That would be the amendment I propose. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129739">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889376"> Do we have to vote on the first amendment? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13129946">
+            <PersonSpeaking>
+              <Affiliation DbId="318973" Type="27">The Clerk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889377">Yes, we have an amendment. We vote on that. Then he could move his amendment. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13129954">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889378">Mr. Généreux.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129742">
+            <PersonSpeaking>
+              <Affiliation DbId="320154" Type="47">Bernard Généreux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889379"> Mr. Myles, I'm sorry but I don't agree with your idea.</ParaText>
+              <ParaText id="8889380">It's the same principle again as for the CEO of CBC Radio-Canada. We haven't mentioned the number of hours she would be testifying. However, the <Affiliation DbId="318663" Type="4">minister</Affiliation> also needs to be there. These are two completely separate files that concern the department. So it's important the minister be present.</ParaText>
+              <ParaText id="8889381">Since we don't often get the opportunity to hear from the ministers in a given year, we can afford to invite them for two hours for the first study and one hour for the second. That said, it is clear that, at the very least, the minister needs to appear.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129745">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889382">If we delete all the hours….</ParaText>
+              <ParaText id="8889383">I'm hearing no.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8889384"> We are going to vote on Mr. Champoux's amendment now.</ParaText>
+              <ParaText id="8889385">(Amendment agreed to [<I>See Minutes of Proceedings</I>])</ParaText>
+              <ParaText id="8889386">
+                <B>The Chair:</B> Now Mr. Myles can move his amendment to that motion.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13129752">
+            <PersonSpeaking>
+              <Affiliation DbId="319882" Type="47">David Myles</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889387">Could I just propose to reduce the amount of time to one hour?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129754">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889388">Mr. Champoux, you have the floor.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129757">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889389">Usually, when we invite the <Affiliation DbId="318663" Type="4">minister</Affiliation> for two hours, he only comes for one. That will be the case on Wednesday: we invited him to a two-hour meeting, but he will only be here for one hour. We will have the deputy ministers for the second hour.</ParaText>
+              <ParaText id="8889390">The minister must be accountable: It's his department. This will be an important study and it will be quite separate from his appearance next week. We're talking about a study on AI, which will take place in the coming weeks and will last several weeks. I don't believe it will be too exhausting for him to appear twice before committee in that period.</ParaText>
+              <ParaText id="8889391">Furthermore, let me repeat that this file is directly related to his department. We are inviting him for two hours, which is entirely reasonable. He will probably again negotiate with us to come for just one hour. What do you expect? Ministers' schedules are like that. That said, it is reasonable to invite him for two hours, meaning for the full meeting, and it's entirely reasonable in the context of a study like this.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129768">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889392"> All right. We will vote on the amendment proposed by Mr. Myles. I think we should do a recorded vote. I think that's easier.</ParaText>
+              <ParaText id="8889393">(Amendment negatived: nays 5; yeas 4 [<I>See Minutes of Proceedings</I>])</ParaText>
+              <ParaText id="8889394">
+                <B>The Chair:</B> Okay. We will vote on Mrs. Thomas's motion as amended by Mr. Champoux, and we will do a recorded vote. </ParaText>
+              <ParaText id="8889395">(Motion as amended agreed to: yeas 9; nays 0 [<I>See Minutes of Proceedings</I>])</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129793">
+            <PersonSpeaking>
+              <Affiliation DbId="320597" Type="40">Martin Champoux</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889396">Madam Speaker, on a point of order. What is happening on screen?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129796">
+            <PersonSpeaking>
+              <Affiliation DbId="320595" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8889397">We're seeing the interpreter.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8889398"> Okay. The problem is resolved.</ParaText>
+              <ParaText id="8889399">Going once, going twice.... Nobody else has any other interventions. We will adjourn our meeting a bit early today, then.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

@@ -1,0 +1,1637 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13162926">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 008</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Tuesday, October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mardi 7 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 008</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 008</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 008</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">08</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/07 15:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des comptes publics</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Public Accounts</ExtractedItem>
+    <ExtractedItem Name="Acronyme">PACP</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">John Williamson</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162929">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair (John Williamson (Saint John—St. Croix, CPC))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928012"> Good afternoon, everyone. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928013">I call this meeting to order.</ParaText>
+              <ParaText id="8928014">Welcome to meeting number eight of the House of Commons Standing Committee on Public Accounts.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928015">Today's meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are attending in person in the room and remotely using the Zoom application.</ParaText>
+              <ParaText id="8928016"> I would like to remind participants of the following points. Please wait until I recognize you by name before speaking. All comments should be addressed through the chair. Members, please raise your hand if you wish to speak, whether participating in person or on Zoom. The clerk and I will manage any speaking order as best we can, should we be required to do so.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928017">Pursuant to Standing Order 108(3)(g), the committee is commencing consideration of report 2 of the Auditor General of Canada, entitled “Delivering Canada's Future Fighter Jet Capability”, of the 2025 reports 1 to 4 of the Auditor General, referred to the committee on Tuesday, June 10, 2025.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928018">I would now like to welcome our witnesses.</ParaText>
+              <ParaText id="8928019">From the Department of National Defence, we have Stefanie Beck, deputy minister. It's nice to see you at committee today. </ParaText>
+              <ParaText id="8928020">We have Lieutenant-General Jamie Speiser-Blanchet, commander, Royal Canadian Air Force. It's nice to see you as well today. </ParaText>
+              <ParaText id="8928021"> We have Heather Sheehy, assistant deputy minister for materiel, along with Peter Hammerschmidt, assistant deputy minister for infrastructure and environment.</ParaText>
+              <ParaText id="8928022">From the Department of Public Works and Government Services, we have Paula Folkes, associate assistant deputy minister.</ParaText>
+              <ParaText id="8928023">From the Office of the Auditor General, we have Karen Hogan, Auditor General of Canada. I see you, along with Nicholas Swales. I see you as well, sir. </ParaText>
+              <ParaText id="8928024">Each of you will have five minutes for an opening statement. We haven't discussed who might go first. </ParaText>
+              <ParaText id="8928025">Ms. Hogan, the last time, you went last. Why don't you go first? You have up to five minutes. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162947">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan (Auditor General of Canada, Office of the Auditor General)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928028">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8928029">Thank you for this opportunity to discuss our report, “Delivering Canada's Future Fighter Jet Capability”, which was tabled in the House of Commons on June 10. </ParaText>
+              <ParaText id="8928030">I would like to acknowledge that this hearing is taking place on the traditional unceded territory of the Algonquin Anishinabe people.</ParaText>
+              <ParaText id="8928031"> Joining me today is Nicholas Swales, who is the principal responsible for the audit. </ParaText>
+              <ParaText id="8928032"> In December 2022, the federal government finalized an arrangement to buy 88 CF‑35A fighter jets and associated equipment, weapons and services, from the United States to replace Canada's aging CF-18s. The prime objective of the future fighter capability project is to maintain a strong and modern fighter jet capability to defend our country and meet Canada's international defence commitments. This initiative is in its early stages. Based on the current plan, Canada's first CF-35s will be sent to Luke Air Force Base in Arizona in 2026 to support pilot training, while the first aircraft will arrive in Canada in 2028. </ParaText>
+              <ParaText id="8928033">For this audit, we wanted to know whether the Department of National Defence had achieved progress on its plans to introduce the CF-35s into service so that fighter capability would be delivered on time and on budget. We found that the estimated costs of the future fighter capability project had significantly increased and that the project faced several risks that could jeopardize the timely introduction of the new fleet. National Defence originally estimated that the project would cost $19 billion. The audit found that this figure was based on outdated information and that, by 2024, the projected costs had increased to $27.7 billion, almost 50% more than the original estimate. Some of the cost increase was caused by factors beyond the department's control, such as inflation and foreign exchange fluctuations.</ParaText>
+              <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928034">We found that construction of two fighter squadron facilities to accommodate the CF‑35s was more than three years behind schedule. As a result, an interim plan was needed, which will further increase infrastructure expenses. </ParaText>
+              <ParaText id="8928035">We also found that cost estimates for the project did not include other essential elements needed for full operational capability, such as essential infrastructure upgrades and advanced weapons. These would add at least $5.5 billion to the total cost.</ParaText>
+              <ParaText id="8928036">In addition, National Defence still had to address other risks that could jeopardize the timely introduction of the CF‑35 jets. For example, in 2018, when we last audited Canada’s fighter force, we found that one of National Defence's biggest obstacles was a shortage of qualified pilots. Six years later, that is still the case. Because the planned pilot training program would not produce enough pilots by 2032‑33, a new approach was needed.</ParaText>
+              <ParaText id="8928037">Finally, National Defence also had to complete the transition plans, such as the integrated master schedule and aircraft maintenance plans.</ParaText>
+              <ParaText id="8928038">Maintaining a strong fighter-jet capability contributes to the safety and security of Canadians. This is a large, multi-year project that requires active and ongoing management of risks and costs to ensure that the CF‑35 fleet can be brought into service on time. In the current context of increased defence spending, effective oversight and timely decision-making will be essential to optimize resources and ensure operational readiness.</ParaText>
+              <ParaText id="8928039">Mr. Chair, this concludes my opening remarks. We will be pleased to answer any questions the committee may have. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162975">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928041">Thank you, Ms. Hogan.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928042"> Ms. Beck, would you like to lead us off?</ParaText>
+              <ParaText id="8928043">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162979">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck (Deputy Minister, Department of National Defence)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928047"> Thank you very much, Mr. Chair and members of the committee. We very much appreciate the opportunity to appear in front of you today. I have with me subject matter experts. I would add it's a real pleasure to be here with our colleagues from PSPC and, of course, the Auditor General. We speak regularly, as you can imagine. There's lots to discuss.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928048">We are honoured to be here today to represent the Department of National Defence and the Canadian Armed Forces.</ParaText>
+              <ParaText id="8928049">As you may know, we employ about 120,000 people and we are represented from one end of Canada to the other. Our numbers recently rose with the arrival of the Canadian Coast Guard.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928050">We're very pleased to have new colleagues in the form of the Coast Guard, and of course, the Communications Security Establishment is also part of our department.</ParaText>
+              <ParaText id="8928051">I'm sure you're all well aware of the increases in our budget recently after the commitment of the government to spend 2% of Canada's GDP this fiscal year on defence.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928052">I wanted to point out that this money does not go solely to our department; it goes to various departments. We are responsible for a large portion of that budget, but not all of it.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928053">We also think of the amount of money we spend as all of it going on major capital projects. Just for general reference, about 80% of our budget goes on regular operations, salaries and that kind of thing. Only about 20% is spent on capital projects, of which this F-35 project is one.</ParaText>
+              <ParaText id="8928054">Given the gravity of our mandate, we must ensure that we are getting the best value for Canadians' money. I know this is something we're all worried about. This future fighter capability project is no exception. It is a massive undertaking for the Royal Canadian Air Force. There's the acquisition of the 88 aircraft themselves but also, as the auditor has outlined, there's the training that's required, the weapons, the spare parts, the facilities and much more. Through this project, we're making sure the RCAF has the capacity it needs to carry out the mandate that's been given to it by the Government of Canada. We very much appreciate the work of the OAG and parliamentarians in supporting us in this mission. </ParaText>
+              <ParaText id="8928055">I think you know that the global threat environment has changed in the last few years. The work has taken on a new urgency since this project first began. The numbers that the OAG was reporting were established before the pandemic and before the Russian invasion of Ukraine. We can see that the defence and security environment is much more volatile and unpredictable than it has been at any other point in recent memory. Our adversaries work independently but also increasingly in co-operation with one another to sow chaos, discord and uncertainty.</ParaText>
+              <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928056">This, combined with rapid technological advances in traditional and non-traditional military domains means that we’ve had to redouble our efforts to equip our military with future-ready technologies.</ParaText>
+              <ParaText id="8928057">That includes ensuring we can meet our obligations to both the North Atlantic Treaty Organization and the North American Aerospace Defense Command, concurrently. Quite simply, our current fighter, the CF‑18 Hornet, no longer meets our needs.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928058"> While the aircraft has served Canada well for the better part of four decades, the CF-18 Hornet is now nearing the end of its lifespan and cannot keep pace with the challenges facing it, with either our allies or our adversaries. Some of them are being retired as early as this year. The fleet, as you know, must be fully replaced by 2032.</ParaText>
+              <ParaText id="8928059">In early 2023, following a fair, transparent and open process, the government announced that it had finalized an agreement with the U.S. government and Lockheed Martin for the acquisition of the aircraft to help fulfill this requirement.</ParaText>
+              <ParaText id="8928060">This aircraft will enable us to remain closely interoperable with our allies—most NATO allies have procured the F-35—and it will also deliver significant economic benefits for Canada. This was part of the original agreement and remains our top consideration. Canadian firms have already benefited greatly from this acquisition.</ParaText>
+              <ParaText id="8928061">We have made firm financial commitments for the first eight aircraft, as well as to guarantee the delivery of long-lead items in support of the production of the first 12 of our initial tranche of 16 aircraft.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928062">These Canadian-owned aircraft will be delivered to Luke Air Force Base in Arizona, as the Auditor General said, beginning in 2026, and used to train our pilots on site and our technicians. This training phase is essential to ensure our aircrews are ready before the first jets, which should be delivered in 2028, arrive in Canada.</ParaText>
+              <ParaText id="8928063">To receive those aircraft, we are building new fighter squadron facilities at Cold Lake and Bagotville. Design work and site preparation are progressing well. Indeed, construction is already under way. Key elements such as underground infrastructure, site access and security fencing have been completed.</ParaText>
+              <ParaText id="8928064">The future fighter infrastructure will provide the space and security standards needed for maintenance, operations, administration, mission planning and simulator training. Although permanent facilities will not be completed before the first aircraft arrive, the Royal Canadian Air Force has developed an interim operations plan that will use existing facilities and temporary secure structures.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928065">Beyond the two main operating bases—those are the ones in Cold Lake and Bagotville—we are also modernizing power, runways and our quick-reaction alert facilities across the country through the defence of Canada fighter infrastructure initiative. These upgrades—for instance, to power—will also benefit the local communities.</ParaText>
+              <ParaText id="8928066">As we continue to advance the future fighter capability project, we remain deeply committed to stewardship, rigour, transparency and accountability.</ParaText>
+              <ParaText id="8928067">Since the initial estimate of $19 billion, project costs have increased to reflect global economic conditions. We had the pandemic supply chain conditions, of course, and as I mentioned, the invasion of Russia in Ukraine also distorted the defence industry supply chain around the world. Of course, inflation has also been high over the last few years.</ParaText>
+              <ParaText id="8928068">However, there has been no change in scope. The changes to the budget have nothing to do with a change in scope. We have stuck to our original plans.</ParaText>
+              <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928069">We are still on track to acquire 88 aircraft, along with the associated infrastructure, training and maintenance services. We are always working to incorporate expert recommendations and apply lessons from past procurements to ensure more discipline in our project and risk management.</ParaText>
+              <ParaText id="8928070">Canadians deserve assurance that this generational investment is delivering the best capability and value for money.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928071">Mr. Chair and committee members, it's pivotal to bolstering our continental defence and essential to safeguarding our sovereignty and upholding our obligations to our allies and partners around the world.</ParaText>
+              <ParaText id="8928072">We look forward to your questions.</ParaText>
+              <ParaText id="8928073">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163023">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928078"> Thank you very much.</ParaText>
+              <ParaText id="8928079">Members will note that I allowed a little extra time there. We wanted to get everything Ms. Beck had to say on the record so that members could consider it before their questions.</ParaText>
+              <ParaText id="8928080">Now, Ms. Folkes, you have an opening statement. The floor is yours, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163026">
+            <PersonSpeaking>
+              <Affiliation DbId="323021" Type="28">Paula Folkes (Associate Assistant Deputy Minister, Department of Public Works and Government Services)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928093">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8928094">I would like to acknowledge that we are meeting on the unceded territory of the Anishinabe Algonquin nation.</ParaText>
+              <ParaText id="8928095">I'm pleased to be here to address the Auditor General's second report, “Delivering Canada's Future Fighter Jet Capability”, as it pertains to Public Services and Procurement Canada, or PSPC as it is commonly known.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928096">Although there are no specific recommendations for Public Services and Procurement Canada in the report, I will take this opportunity to highlight our role within the Future Fighter Capability Project.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928097">As noted in the report, PSPC is the contracting authority for fighter aircraft acquisition, and we led the procurement process in support of the Department of National Defence, which is leading on the overall project.</ParaText>
+              <ParaText id="8928098">We are also responsible for weapons acquisitions, through the foreign military sales program agreements with the United States government or directly from industry.</ParaText>
+              <ParaText id="8928099">In undertaking our central purchasing agent role, we worked closely with our colleagues at National Defence and Innovation, Science and Economic Development Canada, as well as at central agencies including the Treasury Board of Canada Secretariat, to conduct an open, transparent and fair competitive process while ensuring the best value for Canada.</ParaText>
+              <ParaText id="8928100">In January 2023, as Deputy Minister Beck mentioned, Canada finalized an agreement with the United States government and Lockheed Martin, with Pratt &amp; Whitney, for the acquisition of 88 F-35 fighter jets for the Royal Canadian Air Force. </ParaText>
+              <ParaText id="8928101">As you know, in response to an evolving geopolitical situation, the government launched a review of the current F-35 agreement originally put in place by the Department of National Defence to ensure that it remains in the best interests of Canadians and the Canadian Armed Forces. The Department of National Defence is now leading on this front, and PSPC stands ready to support any decisions that may result from their review.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928102">In conclusion, Public Services and Procurement Canada remains committed to supporting the Department of National Defence in pursuing the Future Fighter Capability Project and in implementing the recommendations of the Auditor General of Canada.</ParaText>
+              <ParaText id="8928103">I would be happy to answer any questions the committee may have about the procurement process. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163055">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928107">Thank you as well.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928108">I will begin things with our first round. It will consist of three members for six minutes each. </ParaText>
+              <ParaText id="8928109">Ms. Kusie, I believe you'll start things off for us. It's over to you, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163063">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie (Calgary Midnapore, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928114"> Thank you, Chair.</ParaText>
+              <ParaText id="8928115">Thank you very much to all of our witnesses for being here today.</ParaText>
+              <ParaText id="8928116">I'm going to use some of my time to walk Canadians through the timeline of the fighter jet program in an effort to evaluate whether mismanagement of this program has cost Canada and Canadians our sovereignty.</ParaText>
+              <ParaText id="8928117">We know that in the beginning, in 1997, Canada participated, in varying degrees, under the U.S.-led F-35 joint strike fighter program. This was a move that Conservatives and many Canadians supported. We agreed that Canada should participate and stand with allies in NATO and the Five Eyes alliance.</ParaText>
+              <ParaText id="8928118">It was during the former Conservative government in 2010 that then defence minister Peter MacKay announced that Canada would purchase 66 F-35s and participate alongside our allies in this program. Ultimately, after an inflated report from the PBO in 2010, the government at the time opted to pause the contract and open competition on the F-35 program, leading us to 2015, when mismanagement delays and politicization truly began.</ParaText>
+              <ParaText id="8928119">Upon entering office, the government cancelled the F-35 contract and took us back to square one. However, this time, this was behind schedule with our allies and at the cost of our security.</ParaText>
+              <ParaText id="8928120">The new solution was to spend hundreds of millions of dollars examining different fighter jets and upgrading existing CF-18s, which have been described as aging and increasingly unreliable, so much so today that nearly 40% sit out of service. The government even bought used fighter jets from Australia to keep our existing fleet in the air.</ParaText>
+              <ParaText id="8928121">In 2018, the Auditor General released a report entitled “Canada's Fighter Force”. The biggest take-away was that the Liberal government must invest in and create a robust strategic plan to recruit and train service personnel and pilots to operate not only the future jets but those that were currently in our possession.</ParaText>
+              <ParaText id="8928122">Then, in early 2023, seven years after emphatically stating that the Liberals would not buy the F-35 fighter jet, <Affiliation DbId="318629" Type="4">Minister Anand</Affiliation> announced that this government would do exactly that—this time, however, at a higher cost and on a delayed timeline.</ParaText>
+              <ParaText id="8928123">Still, members on this side—recognizing the importance of the F-35s, as we did during the Harper government—supported the move and urged the Liberals to move quickly with their acquisition of the jets and to ensure that the critical security infrastructure upgrades needed to host the F-35s on Canadian soil were taking place.</ParaText>
+              <ParaText id="8928124">This brings us to 2025. As one of his first acts, the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> picked up on Trudeau's mismanagement and announced a re-examination of the F-35 purchase. He told Canadians that by the end of the summer a decision would be made on the program's future.</ParaText>
+              <ParaText id="8928125">Well, it's now October 7, and both our air force and our allies are waiting to know where the program stands. That leads to us today, 15 years after Conservatives announced the original F-35 purchase, beginning our study on the Auditor General's June report, a report that shows that the cost of this program, which was projected to cost $19 billion in 2022, has now skyrocketed to a minimum of $33.2 billion, a 57% increase, before a single jet has been delivered. It is my conclusion that the mismanagement of this program has come not only at a massive cost to taxpayers but with a cost to our country's security and sovereignty.</ParaText>
+              <ParaText id="8928126">With that, Lieutenant-General, as commander of the Royal Canadian Air Force, do you believe that the management of this program and the consistent backtracking to date have left your service members in the best position possible to defend our country and its sovereignty?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163114">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">Lieutenant-General Jamie Speiser-Blanchet (Commander, Royal Canadian Air Force, Department of National Defence)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928127">Thank you for the opportunity to be here with you today.</ParaText>
+              <ParaText id="8928128">As commander of the air force, I am committed to ensuring that the members of the Royal Canadian Air Force are trained, organized and equipped to meet the demands that the Government of Canada makes of them. In so doing, I have to focus on things that are within our control and the elements of what we're dealing with as we implement this very important and significant shift for the RCAF in terms of the advancement in technology and the advancement in our ability to safeguard Canadians and Canadian sovereignty, which is extremely important.</ParaText>
+              <ParaText id="8928129">We are very focused on ensuring that we have all of the elements in place in as timely a fashion as possible, and we're working very closely with all of our partners within the Department of National Defence and the other government departments to ensure success.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13163126">
+            <PersonSpeaking>
+              <Affiliation DbId="319811" Type="47">Stephanie Kusie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928134"> Ms. Hogan, I have a similar question for you. In your opinion, has the management of this program given you the confidence that our country is equipped to handle such a large increase in NATO commitments without more cost overruns, delays and mismanagement?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163134">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928137">Our audit found that there were some cost increases that were well within DND's control and others that were outside of their control, such as foreign exchange fluctuation, global demand for munitions, and inflation. Those are all outside of DND's control. It would have happened no matter what jet was chosen. </ParaText>
+              <ParaText id="8928138">I do think that National Defence has some difficulties in moving forward on projects. All parties should agree on what the Canadian Armed Forces need, and then we should allow the public service and the Canadian Armed Forces to deliver. It isn't about a party decision; this is about the sovereignty and security of Canada. I think that we should support the department in moving forward with that.</ParaText>
+              <ParaText id="8928139">Could they do things better? Absolutely. There were delays in construction; there was uncertainty; they used outdated information. That's why we issued recommendations about a constant need for better budgeting and more accurate tracking of costs, but also for more proactive risk management. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163149">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928143">Thank you very much. That is the time. </ParaText>
+              <ParaText id="8928144">Ms. Tesser Derksen, you will have the floor for six minutes. We go over to you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163154">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen (Milton East—Halton Hills South, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928146">Thank you very much, and thanks so much to our witnesses. </ParaText>
+              <ParaText id="8928147">This is obviously a focus right now among the public in general, because of the global climate we find ourselves in and announcements by the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> to be investing more in our national defence. </ParaText>
+              <ParaText id="8928148">The elephant in the room is the cost. It's been brought up numerous times. The Auditor General's report notes that in 2022 we had a projected cost of $19 billion. </ParaText>
+              <ParaText id="8928149">At that time, was that a reasonable estimate? I want to approach that question from the perspective of some things you've already mentioned, things that were outside the control of the department. When you're answering, keep in mind that there were extenuating factors that were not necessarily within our control. Should we have contemplated those types of risks when coming up with an estimate of this nature, and should we have baked in contingency...? Obviously the pandemic is once in a lifetime, but other stuff like global conflict, Russia.... Anybody probably could have foreseen that coming down the road. </ParaText>
+              <ParaText id="8928150">Could you answer that question, contemplating that there may be risks that we should be estimating for?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163177">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928154">It's true that every time we do costing, especially for a major project like this, it is a complex undertaking that in fact takes us months to do because of all the different aspects that were flagged during the review that the Auditor General did. We tried to include in every single costing a significant amount of contingency, but it's not just a flat percentage of the total project; it is related directly to, for instance, labour costs or the cost of inflation or the cost of an exchange rate. </ParaText>
+              <ParaText id="8928155">At the time, in 2019, the numbers we had were the numbers that were available also through the joint project office for the existing management and understanding of the costs of the operation of the aircraft and indeed at the time the infrastructure that was required for the F-35s. Between 2019 and the second round, the requirements for the infrastructure also changed. In fact, in the original estimate, we had about two billion dollars' worth of contingency baked into that, and the increase to $27.7 included another four billion dollars' worth of contingencies. In fact, the bulk of the increase is actually in contingency funding, just in case. Experience has shown that we normally use all of that contingency. </ParaText>
+              <ParaText id="8928156">At the time of the costing in 2019, we informed the authorities that we were about 50% confident in the numbers we had, whereas, for the numbers in the $27.7 billion, we were 80% confident from an accounting perspective. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163219">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928158">When you say you're 50% confident in your numbers, how is that managed? Are there additional steps that you take to make sure that.... It's not a very high number to be confident in when you're dealing with dollars of that magnitude. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163226">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928161">I think that goes to the Auditor General's point about making sure we're doing regular reviews of our numbers and being clear in our conversations with PSPC and Treasury Board about what that means, and I would say not just on an annual basis—I thought the Auditor General was very generous in suggesting we do it annually—but definitely more often than that, making sure that everyone is aware every time we see a significant bump. </ParaText>
+              <ParaText id="8928162">I might ask Heather to add to that, but we had some interesting percentages. If there's just a slight change in the foreign exchange rate, the change in our overall budget is likely to be enormous. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163233">
+            <PersonSpeaking>
+              <Affiliation DbId="322964" Type="28">Heather Sheehy (Assistant Deputy Minister, Materiel, Department of National Defence)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928163"> Thank you, Deputy Minister.</ParaText>
+              <ParaText id="8928164">Just to touch on that, you're absolutely right. When we have a 50% confidence level, to me—and I come from the Treasury Board Secretariat—that indicates we are in the early stage of a project. Then, as we get towards having more information, we get to that 80% confidence level.</ParaText>
+              <ParaText id="8928165">In this instance, the only way we could get to an 80% confidence level was to put in place a very significant contingency. The deputy already spoke about that. We went from $2 billion up to $6.2 billion. That's a very significant contingency; you could very well ask why we need that kind of contingency, and it is for exactly the types of things that the deputy referred to.</ParaText>
+              <ParaText id="8928166">Let's take foreign exchange. I asked my team to run the numbers. I'm going to use my notes here. For every cent increase in foreign exchange, there is about a $250-million impact on the costs for this particular project. You can imagine there's no way I can actually mitigate the risks of foreign exchange outside of contingency, because it's not something I can influence.</ParaText>
+              <ParaText id="8928167">Those are the types of things you see within the contingency, and about 40% of our contingency has been notionally allocated towards foreign exchange rates, but arguably the entire contingency there is a buffer for these kinds of impacts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163256">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928171">Thank you for that very thorough answer.</ParaText>
+              <ParaText id="8928172">In keeping with the theme of identifying and mitigating outside risks, I'll turn to the draft action plan. One of the recommendations was focused on identification and mitigation of risk. In that draft action plan, you responded to one of the AG's recommendations by agreeing and committing to, amongst some other things, updating the risk management process, and the action plan notes that the updated risk management plan was approved in January of this year.</ParaText>
+              <ParaText id="8928173"> The senior review board was going to be briefed on that, I believe, last month. How did that go? Do we have an update on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163298">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928175">In fact, there are so many different ways of managing the risk with this particular project internal to the Royal Canadian Air Force management of risk, at the broader departmental level and, in fact, beyond that at the Government of Canada level of the various departments that are involved in the major capital projects.</ParaText>
+              <ParaText id="8928176">These conversations happen, of course, not just as a one-off in January or indeed at specific times of the year. Every time we meet, we look at what we are concerned about in terms of not just this project but other major ones we have in front of us.</ParaText>
+              <ParaText id="8928177">Then, the other thing I think is important is that this project is unusual in that it's run by a joint project office. The eight partners who are members of this memorandum of understanding to procure the F-35s from Lockheed Martin and Pratt &amp; Whitney, who make the engines, meet frequently as well.</ParaText>
+              <ParaText id="8928178">Part of their job as an executive committee of that joint project office is to manage the risks and to mitigate and ensure as best we can the affordability, on an ongoing basis, to consider every new challenge that might arise in, for instance, a manufacturing line or a production line and to figure out the best way to address that. I would include supply chain challenges in that.</ParaText>
+              <ParaText id="8928179">It's not just one small group, for instance, that looks after risk, and it's not just one risk management plan. It's a much more holistic approach.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163324">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928181">Thank you. That is your time.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928182">Mr. Lemire, you have the floor for about six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163326">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire (Abitibi—Témiscamingue, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928184">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8928185">I would like to thank the witnesses for their presentations.</ParaText>
+              <ParaText id="8928186">Ms. Beck, as you said, the CF‑35 contact is moving forward. However, the government said it was still analyzing the contract. Do you see this as government intervention? Does this mean that other options besides the F‑35 aircraft are being considered at this time? What can we make of this? How are the government and your department currently lining up?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163334">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928188">I know there is a lot of discussion, not just within the government but also outside it. Our role during the review is to provide facts. For example, we share information about the progress of the project, where we are in respect of long lead purchases and materials, the costs we anticipate, or the impacts of global change and how to mitigate them.</ParaText>
+              <ParaText id="8928189">It is not really up to us to ascertain whether there are other options that might work. Our role is really to communicate what we know, and the government will base its decisions on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163355">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928191">This is obviously a political era when Canada is wanting to demonstrate some form of independence from the United States, but there seems to be total dependence in the case of the F‑35s. We know that some spare parts will be owned by the Pentagon until they are installed and the Pentagon will oversee software updates.</ParaText>
+              <ParaText id="8928192">Is this not Canada being even more dependent on the United States, when it comes to the F‑35s and Canada's capability for defending itself?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163363">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928196">I appreciate the opportunity to answer that question.</ParaText>
+              <ParaText id="8928197">As I said, this is actually a joint project, meaning that the parts that go into each aircraft come from all over the world. The project could not be halted by a single country. Regarding software, all of the various governments contribute to developing it. So if there were a problem and someone wanted to shut the aircraft down—people are always talking about a kill switch, for example—it would not be impossible, I admit, but it would be difficult. That would mean that no one in the aircraft could communicate with the others, which is impossible, of course. There is no such kill switch at the Pentagon.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163381">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928199">That's good to know, because I was actually wondering about that.</ParaText>
+              <ParaText id="8928200">On October 2, <Affiliation DbId="318703" Type="5">Stephen Fuhr</Affiliation>, Secretary of State for Defence, announced that he wanted to reduce Canada's dependence on the United States, and yet the next day, Canada signed a $1.75 billion agreement with the United States for rockets.</ParaText>
+              <ParaText id="8928201">What are you actually doing to reduce our dependence on the United States?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163389">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928202">As you know, our current projects are usually several months or even years old. So it is completely standard procedure for announcements to be made after a new government comes to power. I want to mention the major decisions we have made recently, including the one about over-the-horizon radar that we have just purchased from BAE Systems Australia. This is a huge investment for Canada's future and for protecting our sovereignty.</ParaText>
+              <ParaText id="8928203">We also have another huge project: the purchase of destroyers that will be built by the Irving shipyard in Canada. There are also submarines, which will definitely not come from the United States. So we are already pivoting toward countries other than the United States. However, that does not mean we will no longer buy anything from the Americans, because they make good products. I would add that most of what the defence industry in Canada exports goes to the United States.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163411">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928206">Interoperability is indeed important, but where a number of countries are participating, what is Canada's contribution to building the F‑35s? In Quebec in particular, we have an aerospace industry that can build a plane from start to finish. The F35s are being purchased at the expense of a number of other options that would have resulted in more consideration being given to Quebec.</ParaText>
+              <ParaText id="8928207">What is Canada's actual contribution? If these planes are costing us a lot of money, what are we getting back in income and other taxes?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163419">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928209">At present, there are about 30 Canadian companies that build different parts of each aircraft. That comes to over $3 million Canadian per plane. There are also other contracts coming up. I know that every month, Lockheed Martin and Pratt &amp; Whitney go looking for new partners to build these various aircraft, and this is working well in Canada. There are also very specific examples in Quebec. If these Canadian companies did not supply those products, the planes would not be able to fly. They are essential to the future of every plane.</ParaText>
+              <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928210">Howmet Aerospace makes optical bed castings—I apologize to the interpreters—and Nav-Aids Ltd. makes port covers and pressure test adapters.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928211">I also have to say that the Canadian government has been helping to promote the defence industry in Canada for years through various programs at the Department of Industry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163434">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928214">Thank you.</ParaText>
+              <ParaText id="8928215">Mr. Lemire, you will have an opportunity to ask more questions later.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928216"> Our next round will consistent of five members for various times.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928217">Mr. Deltell, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163436">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell (Louis-Saint-Laurent—Akiawenhrahk, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928218">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8928219">Good afternoon, colleagues.</ParaText>
+              <ParaText id="8928220">I would like to welcome the witnesses.</ParaText>
+              <ParaText id="8928221">Welcome, Lieutenant-General. Thank you very much for your service abroad in Haiti, Bosnia and Kuwait. Thank you for doing our country proud and for starting your career in Valcartier. I am being a bit chauvinistic, but I am very proud of that.</ParaText>
+              <ParaText id="8928222">I have a lot of subjects to discuss. Let's start with the question of cost overruns.</ParaText>
+              <ParaText id="8928223">Ms. Hogan, you said in your report that the amount initially projected for the Future Fighter Capability Project was $19 billion, but because we did not have good basic information, that amount has now risen to $27 billion. You also said things were not looking good, because there are a number of risks that costs could rise even more.</ParaText>
+              <ParaText id="8928224">We are talking about tens of billions of dollars that have been miscalculated, including money from the goods and services tax and income taxes paid by the people following our proceedings right now. How do you explain public finances going this far off track?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163448">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928230">I could refer members to exhibit 2.5 to our report, which explains in more detail why the projected $19 billion went up to $27 billion.</ParaText>
+              <ParaText id="8928231">As I said, some costs were beyond the control of National Defence, in my opinion. However, the department had determined that certain elements presented risks. If it had been more proactive in managing those risks, I think that would have helped. That being said, the costs would still have risen.</ParaText>
+              <ParaText id="8928232">However, the department could have exercised control over certain elements. For example, the first estimate was based on outdated data, when more up-to-date estimates for fighter jets could have been used.</ParaText>
+              <ParaText id="8928233">Delays in moving plans forward, the need to build interim aircraft maintenance facilities, and pilot training also contributed to cost increases.</ParaText>
+              <ParaText id="8928234">As we said, the risks, of which there are many, should have been better managed. Six of them were not yet approved at the time the costs were estimated. No risk mitigation plan had been made and two of those risks were inflation and foreign currency. So there are some things that could have been better controlled.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163464">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928240">How can we be confident about what comes next if the risks have not been controlled in recent years?</ParaText>
+              <ParaText id="8928241">As you put it so well, we are already slightly behind in terms of facilities and infrastructure, not to mention the runways that will now have to accommodate the CF‑35s. You also talked about certain essential elements needed for full operational capability, such as infrastructure upgrades.</ParaText>
+              <ParaText id="8928242">What message is this sending to the taxpayers who are paying for it all and thinking that if things have been done willy-nilly over the last ten years, we need to worry about what is coming?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163470">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928246">Regarding costs, we think $5.5 billion should be added. That gap tells us a bit about how National Defence manages its projects.</ParaText>
+              <ParaText id="8928247">I see my responsibility as being to ensure that Canadians and parliamentarians know the total cost of the CF‑18 Hornet to CF‑35A transition, which is why other costs from other projects should be included.</ParaText>
+              <ParaText id="8928248">I think our recommendations are going to address the shortcomings we have identified that should be corrected through better, proactive risk management, but also by publicly considering the price of the project and including all the elements that are essential to it in order for everything to be fully operational.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13163476">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928254"> You don't need a doctorate in history to notice that history repeats itself. </ParaText>
+              <ParaText id="8928255">In the 1990s and 2000s, a newly elected government abolished the program that had been designed to upgrade 30-year-old helicopters. A few decades later, in 2015, another newly elected government did exactly the same thing by cancelling a signed contract, and then returning seven years later to the same decision.</ParaText>
+              <ParaText id="8928256"> I'd like to draw your attention—and I'm speaking more to the people who are watching our proceedings, because I don't want to throw a can of political paint at you—that two Liberal governments did this. The governments of Mr. Chrétien and Mr. Trudeau abolished one program and proposed another, which ended up costing much more seven years later. </ParaText>
+              <ParaText id="8928257">Earlier, you answered my colleague's question by saying that there was a lot of concern about the politicization of debates like this. We see that history is repeating itself. Can you explain how a government of the same stripe made the same mistake 30 years later?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13163487">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928259">I'm not the person you should be asking. I'm not in a position to explain why some elected officials made the decisions they did.</ParaText>
+              <ParaText id="8928260">In my opinion, the time has come for Parliament to decide on the role of the Canadian Armed Forces and what they need to ensure our security and sovereignty. We have to make sure that we don't change our minds, and we have to leave it up to National Defence to buy or build what the armed forces need.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13163498">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928263">Thank you very much, Mr. Deltell.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928264"> Up next is Mr. Osborne. </ParaText>
+              <ParaText id="8928265">You have the floor for five minutes please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163506">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne (Cape Spear, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928268">Thank you.</ParaText>
+              <ParaText id="8928269">I'll attempt to take the politics out, because I'm not sure what punishing Mr. Chrétien or Mr. Trudeau will do. Focusing on how we improve the future is what I'm interested in.</ParaText>
+              <ParaText id="8928270">I know that the joint strike fighter program has certain requirements that need to be met before the jets can be delivered. Can you update us on what measures are being put in place to ensure that we will meet those requirements so that we can receive the fighter jets?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163515">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928271">I believe I can help to answer that one.</ParaText>
+              <ParaText id="8928272">In concert with the future fighter capability project and the project office, we're working together to ensure that the implementation plans are continually monitored and updated. One of the key plans in that, as mentioned by the Auditor General in the report, is the master implementation plan.</ParaText>
+              <ParaText id="8928273">This is the overall document and entity that is guiding the Royal Canadian Air Force, in concert with our other partners and colleagues, to ensure that all of those various different pieces are in place.</ParaText>
+              <ParaText id="8928274">One of the elements that we also have is the fighter operational implementation working group. That is a governance structure that meets regularly, and it also comprises several sub-working groups. In fact, there are 13, because they're all looking at different elements, from information systems and infrastructure to security and training. There are several. It's important that the fighter operational implementation working group maintains the cohesion that we need to make sure that things are all progressing, and being tracked and monitored, on a routine basis in order to meet the milestones that are outlined in the master implementation plan.</ParaText>
+              <ParaText id="8928275">We review that. It is a living document, because conditions certainly change rapidly, and it is something that we're committed to continuing to refresh as often as possible. That is our guiding document to achieve what you've asked.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163547">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928281">We are on track, then, to have those measures in place to receive the jets when the jets are ready.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163551">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928285">At this point in time, yes, we are. As mentioned in the Auditor General's report, we know that the permanent infrastructure of the two fighter squadron facilities, which are the two main squadron buildings—I was going to say hangars, but they're very large, giant—one in Cold Lake and one in Bagotville, will not be ready until 2031. That is the projected time. However, we have interim plans that are all on track. They're going to involve some temporary training facilities and temporary hangars and hangarettes, which are small structures that are able to shelter the F-35s as they start arriving in Canada. That's projected to be in 2028.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163565">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928291">On the air control and air attack capability, can you talk about that and whether we are ready in terms of those two aspects as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163572">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928293">Forgive me, but which...? Did you say “air control”?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163577">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928297">With respect to Canada's future fighter jets, National Defence is also responsible for improving the Canadian Armed Forces' air control and air attack capabilities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163583">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928298">I believe those are, if I'm understanding correctly, capability sets that we achieve with the fighter aircraft, so that would all be encompassed within the type of training that we provide to our air crew.</ParaText>
+              <ParaText id="8928299">As far as I know, that's something that is being worked on, and I don't know of any delays or challenges with that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163590">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928301">In terms of the shortage of pilots, engineers and aircraft maintenance personnel, can you talk about your recruitment strategies to ensure that we have those resources in place to receive the jets in a timely manner?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163595">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928304"> We have a number of efforts in place, because it is well known that we have been short on personnel. As was mentioned and highlighted, in the fighter force specifically there has been a shortage of pilots and a low number of technicians. We have put many initiatives in place. There's no one-size-fits-all approach that is going to fix everything. However, we are seeing progress in the numbers, and they are increasing.</ParaText>
+              <ParaText id="8928305">For example, some of the proactive enrolment of skilled pilots has taken place, and we have been able to re-attract back to the RCAF some pilots who had retired. Some of that was due to an increase in pilot pay specifically, which took place before the most recent increase in pay for all military members this past summer. Those are having the positive effect of attracting some members to return to the force if they had left. If we have those skilled applicants with that experience, then that is something we prioritize. We have people in place to help them return and go through that re-enrolment process more effectively.</ParaText>
+              <ParaText id="8928306">We also have a number of subsidized education and recruiting allowances on the technician side. We are working with many civilian colleges that offer some of the training, so we can leverage the training that is happening with academia right now. We are able to work with them as partners to subsidize some of the training or education, so those technicians can then join us.</ParaText>
+              <ParaText id="8928307">In terms of current staffing levels, since our most recent report to this committee in June, the fighter pilot staffing level has increased to 70.5% of what it was. It had last been reported at 66%, so this is a positive improvement that we must absolutely maintain. </ParaText>
+              <ParaText id="8928308">For our maintenance personnel, we're up to 86%, which is up 1.6% from June. A lot of these efforts, in concert, are working to ensure we can not only attract new members to come through but in many cases retain the experienced members we have invested so much in, certainly in terms of a fighter capability.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163627">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928312">Thank you.</ParaText>
+              <ParaText id="8928313">That is your time and well over. I wanted to get a full answer from the general. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928314">Mr. Lemire, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13163629">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928316">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8928317">Ms. Beck, during his visit to the United States today, Prime Minister Mark Carney highlighted that Canada will invest $1 trillion over the next five years. One of the things we can expect to see is significant military spending. Why is the government still turning to the United States after campaigning and saying that it had to elbow its way? I think this is a situation that will increase our dependence on the United States.</ParaText>
+              <ParaText id="8928318">The Americans would also have asked us to ensure greater security on our military bases hosting the F‑35s. They also said that the security access required to work on the F‑35s is more important.</ParaText>
+              <ParaText id="8928319">How did you assess those requests? What are the costs associated with them? Have they been costed in predictable spending?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13163644">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928321">Thank you for those questions. They aren't entirely related, but I'll answer them. I'll let my colleagues answer as well.</ParaText>
+              <ParaText id="8928322">I'll repeat what I found with respect to procurement. We're diversifying our sources to meet our national defence needs by purchasing from Australia, the United Kingdom or Europe. We travel, make calls, and receive visitors from abroad to find out where we can find other sources to help us defend our country and to have better partnerships for the future of our industry. Indeed, a stronger and more resilient industry will need to be created in the future.</ParaText>
+              <ParaText id="8928323">With respect to the issues related to the security of various infrastructures, I'll ask Mr. Hammerschmidt to answer as well. Those are changes that took place after 2019, so this is still one of the challenges we have in calculating various costs. However, beyond serving as a facility for aircraft repairs, it’s also used for training and maintenance, among other things.</ParaText>
+              <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928324">I have to say this in English.</ParaText>
+              <ParaText id="8928325">If you think of a big, compartmentalized security room—a classified room—it's basically that over the aircraft.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928326">I'll now give the floor to Mr. Hammerschmidt.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13163669">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt (Assistant Deputy Minister, Infrastructure and Environment, Department of National Defence)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928327">Unfortunately, since a number of terms are technical, I'll have to speak in English.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13163678">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928330">We have an excellent interpretation team.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13163680">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928332">There are a lot of infrastructure needs specific to the F‑35. For example, there's a team for flight simulations. There are heating, ventilation and air conditioning needs as well as electrical supply requirements that are really specific to this equipment. Much more space is required for logistics and maintenance of the F‑35. There are also specific requirements for electricity, electrical power and heating, ventilation and air conditioning.</ParaText>
+              <ParaText id="8928333">From a security standpoint, very heavy steel plates have to be used throughout the building envelope, which means a lot of extra costs.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928334"> We had to redesign the foundations, the columns and the beams because of the weight of those heavy steel plates that are on the building for security purposes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention ToC="No" ToCText="" Type="" id="13163692">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928335"> You're telling us that these aren't, strictly speaking, U.S. requests.</ParaText>
+              <ParaText id="8928336">My time is up. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13163696">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928338">This is a requirement of the joint program office.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13163698">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928341">Thank you very much.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928342">Up next, we have Mr. Kuruc for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163701">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc (Hamilton East—Stoney Creek, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928345">I would like to say thank you to all the witnesses who have come today.</ParaText>
+              <ParaText id="8928346">Lieutenant-General Speiser-Blanchet, I want to say thank you for your service to Canada. Congratulations on your post, and thank you for everything you're going to do for Canada.</ParaText>
+              <ParaText id="8928347">We know that the government has committed to the first 16 planes. The rest, I feel, reading the news and seeing what the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> is saying, are kind of up in the air. Given the current geopolitical state of the world, how important is it to prioritize obtaining these fifth-generation F-35s?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163706">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928348">I'll start, and then Jamie will jump in. </ParaText>
+              <ParaText id="8928349">The importance of having a fifth-generation aircraft cannot be overstated, because that is what our adversaries have, and our role of deterring them and defending Canada and Canadians means we need to have equipment that will create a dilemma in the minds of our adversaries. We want to look difficult to approach and, in fact, unfriendly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163715">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928352">Can I get your remarks as well, Lieutenant-General Speiser-Blanchet?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163717">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928356">Thank you.</ParaText>
+              <ParaText id="8928357">I can absolutely echo what the deputy minister is saying. Our adversaries are advancing in their technologies at a very rapid pace. At the moment, both China and Russia have fifth-generation fighter aircraft and fifth-generation missiles, which are able to go at much greater speeds and with much more lethality and are putting western allies at risk at this moment in time. </ParaText>
+              <ParaText id="8928358">Therefore, the sooner Canada is able to transform to a fifth-generation air force.... I'll note that even though the term “fifth generation” is associated with the advanced technology of certain fighter aircraft, it's also going to apply to some of the other aircraft we are procuring in Canada. When we think about the weaponry and the different missiles and weapons that will be acquired, these will also be usable for the P-8 Poseidon for maritime surveillance and the MQ-9B remotely piloted aircraft system, which are very important. </ParaText>
+              <ParaText id="8928359">For us, that is a key focus as we transform, and it also speaks to the security requirements that are simply different with this kind of advanced technology, which is necessary to effectively and credibly deter our adversaries.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13163734">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928363">For someone like you, who I would consider the expert, is it concerning that the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> is having second thoughts about fulfilling the second part of that contract?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163737">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928366">I am very committed to providing the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> with all of the information he needs to make a reasoned judgment, and I am focusing on doing just that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163746">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928368">Thank you.</ParaText>
+              <ParaText id="8928369">In your opinion, is a mixed fleet feasible? If we altered from the F-35 and went in another direction, is that feasible? What kinds of cost overruns would there be?</ParaText>
+              <ParaText id="8928370">Maybe Ms. Beck could also jump in on the cost side.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163753">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928372"> In terms of mixed fleet, with the transition to the F-35 with the F-18, we in fact will be operating a mixed fleet for a certain amount of time as we draw down the number of F-18s and increase the number of F-35s.</ParaText>
+              <ParaText id="8928373">That will be a very intricate and very deliberate endeavour, given the shortages we have mentioned. We will be monitoring that very closely to ensure we are providing our personnel with the right training and exposure, so that we're able to maintain our operational commitments throughout that, which is also involving a very important discussion with NORAD, North American air defence, as our key partner in continental defence. We are more than interoperable with the United States for NORAD, to protect the continent, and that is something we aim to maintain throughout this transition.</ParaText>
+              <ParaText id="8928374">In terms of a mixed fleet, we see very positive opportunities looking towards the future as we get beyond fifth-gen and towards sixth-generation aircraft, which are in development. They're in early development now with allies and partners. This is an area that we are looking into and working on with our research and development partners to learn more about.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163770">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928377"> Thank you very much.</ParaText>
+              <ParaText id="8928378">I guess where I was going is that my concern would be that I would like to see us fulfill the F-35 contract. I wouldn't like us to go backwards and obtain fourth-generation fighters.</ParaText>
+              <ParaText id="8928379"> It's very interesting that you put forth that there are sixth-generation fighters being developed. That's exciting.</ParaText>
+              <ParaText id="8928380"> I would like to see us fulfill that contract, given the geopolitical status of where the world is today and where we're going. Is there any talk of going backwards and possibly procuring fourth-gen fighters, or no?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163782">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928383">What we have as direction is to continue with the contract, with the MOU and with the arrangements we have in place, until we hear otherwise. We are full steam ahead: full steam ahead and focused on making sure we have the infrastructure, the pilots and the training in place for the arrival of those F-35s.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165984">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928385">That's very good. Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163784">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928386">Thank you.</ParaText>
+              <ParaText id="8928387">That is your time, Mr. Kuruc. You were a little over.</ParaText>
+              <ParaText id="8928388">Up next is Mr. Housefather for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163787">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather (Mount Royal, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928393">Thank you very much.</ParaText>
+              <ParaText id="8928394"> I heard Mr. Kuruc's questions, Ms. Folkes, and when we went to tender for or did the multiple processes of bidding for the contract that was eventually awarded for the F-35s, nobody was talking about generation-four fighters, right? We were looking at generation-five fighters even in that context, whether it was the Saabs or the F-35s.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163794">
+            <PersonSpeaking>
+              <Affiliation DbId="323021" Type="28">Paula Folkes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928397">Canada implemented an open and transparent competitive process that included high-level mandatory requirements. We were open to any allied fighter aircraft that was in production and that could meet those requirements. We established a list of qualified suppliers that included both fourth-gen and fifth-gen fighter aircraft. In that process, our goal was to make sure all of the qualified bidders could see a competitive path forward and would be able to demonstrate their strengths.</ParaText>
+              <ParaText id="8928398">To realize that, Public Services and Procurement Canada oversaw the evaluation of the bids. As is part of our role as a contracting authority to preserve the integrity of the procurement process, we employ the services of a fairness monitor. We contracted a third party reviewer to examine our procurement approach and all key documents. We also employed red teaming, which brought together experts from across all three core departments to neutrally and objectively assess and challenge the rigour of the evaluation process. The evaluation process of course looked at costs, capability and economic benefits. In that process, the F-35 was the preferred bidder across all of those evaluation demands.</ParaText>
+              <ParaText id="8928399">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13163815">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928402">Let me ask a different question.</ParaText>
+              <ParaText id="8928403">Ms. Hogan, when you looked at the costs and the higher cost than anticipated on the F-35s, did you also ever look at Finland, for example, which contracted for the F-35s in 2021? I think they were the most recent partner and bought them right before us in 2023. Did you look to see if they had similar issues in terms of the earlier anticipated costs? I think theirs was $9.4 million.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163823">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928410">It's very difficult to do a comparison like that.</ParaText>
+              <ParaText id="8928411"> Coming out of the joint strike fighter program office, everyone is getting the same cost for the aircraft. Then, where you'll have differences is in infrastructure upgrades, training and so on. I can only assume that every country would pay a similar price, but it's very difficult for us to gain access to that information, and we did not do a comparison country to country.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163832">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928412"> We didn't compare with other countries to see if they had similar issues in terms of initial projections versus costs after a couple of years.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163835">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928415">We didn't look into that. What I can tell you is that when National Defence prepared their estimate, it was based on information that was two years old, and there was more up-to-date information, so I don't know what other countries would have done, but Canada could have used the more updated cost for the aircraft.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163842">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928418">Thanks.</ParaText>
+              <ParaText id="8928419"> Lieutenant-General, congratulations on your nomination. I have a couple of questions for National Defence. </ParaText>
+              <ParaText id="8928420">First of all, on the pilots, you mentioned, obviously, that a big challenge is making sure we have pilots, beyond technicians and other people to operate.... You mentioned bringing people back who had retired from the armed forces. Would that be a temporary solution, because we eventually have the mandatory retirement age that they would reach, or is that a more permanent solution because they retired at such a young age that they would still be able to fly for another dozen years?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163853">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928422">We welcome anyone who is up to the compulsory retirement age of 55, or even it can extend to 60 years of age. We are always looking for volunteers to the force. Many of them are younger, and as long as they are still fit to fly and meet all of the requirements, then they are able to do so until those age limits apply.</ParaText>
+              <ParaText id="8928423">We are also working on increasing recruiting and the throughput through our training systems, which includes in fact a full modernization of our training aircraft fleets for all air crew—all of those fleets, in fact. We're replacing five fleets, and four of the five are from European partners. Many are being manufactured in Canada, so we're definitely working across multiple areas to be able to increase the number of pilots we have in the air force overall, but then specifically for the fighter fleet. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163865">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928425">Do I have any time left, Mr. Chair?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163867">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928427">You do, yes. You have a good minute.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163870">
+            <PersonSpeaking>
+              <Affiliation DbId="319668" Type="47">Anthony Housefather</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928430">I want to come back to Mr. Kuruc's last question in terms of the challenges that would be posed.... The more jets.... We go from the Hornets to the F-35s, and we may have sixth-generation jets coming up. Pilots are not automatically qualified to fly one aircraft when they're qualified to fly another aircraft, are they? Maintenance crews would have to learn various different aircraft, so it does pose a challenge. I understand it's not an insurmountable challenge, but certainly having multiple different jets introduced at the same time.... If we were to take 16 F-35s plus go to another supplier for the others, it would pose a number of challenges, which I assume would increase costs, would it not?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163881">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928432">That is a correct assumption. It would duplicate a certain amount of infrastructure and training and different support requirements. They would be different for each of those types of aircraft, yes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163884">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928437">Thank you. </ParaText>
+              <ParaText id="8928438">Thank you very much, Mr. Housefather.</ParaText>
+              <ParaText id="8928439">We're beginning our third round, with five members for various times.</ParaText>
+              <ParaText id="8928440">Mr. Stevenson, you'll lead us off, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163888">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson (Yellowhead, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928441">Thank you to our presenters here. I'll try not to repeat much of what has been said before, but from Ms. Beck and the lieutenant-general, I need probably just a yes or no on this. From what I'm hearing, you are 100% on the F-35s. You have no doubts that any change to a different plane is going to come from the political end, not you guys. You guys have all decided this is where you're going for this. If there's any change, it's going to be from the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> or their side to go away from the F-35 at this point.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163895">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928445">You're right. We are public servants. We offer the facts, and the decisions are made, and we take guidance from our elected leaders. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163903">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928446">I'm not sure if this is for Ms. Hogan or not, but if there was any change, can you tell me what the costs would be for any other cancellations going forward? I thought that was in there somewhere, but what would the consequences be to have any change if they did go away from that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163906">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928448">I think there are committed costs that have already been incurred. There's a commitment right now—or at least there was at the time of the audit—to purchase four aircraft and then parts for eight others, long-lead parts. I don't know if that's progressed since then. Obviously that would be committed, but then the nation-to-nation agreement would have to change, or Canada would just not call up the rest of the planes. I think that's something National Defence could help you better understand. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163914">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928450">What I'm reading and what I see from your answer is that it's best to get this done and get forward on the F-35. Then it goes back to managing costs. Maybe Ms. Folkes can answer part of this. In my reading, there's Defence Construction Canada, and I'm not sure.... Maybe you can clarify what the difference is between the PSPC and the Defence Construction Canada parts, and who is responsible for dealing with the costs and overruns on that side of it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163918">
+            <PersonSpeaking>
+              <Affiliation DbId="323021" Type="28">Paula Folkes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928451">Defence Construction Canada is within Public Services and Procurement's portfolio. It is the organization that would undertake the construction for National Defence. It has specific authorities under the Defence Production Act and reports up through the responsible public services and procurement minister.</ParaText>
+              <ParaText id="8928452">One thing I will say about the costs with respect to infrastructure speaks to the 50% fidelity that we had back in 2019. There are quite a few secure requirements that all members of the F-35 joint strike fighter program have to meet. It is not until you make a purchase decision and inform the joint program office of that purchase decision that you're able to receive a lot of the information around infrastructure. That is part of the reason we didn't have that information in 2021 and towards the end of 2022. </ParaText>
+              <ParaText id="8928453">Once you make the procurement decision, you're then able to receive a lot more information on infrastructure and other highly complex requirements that allow you to have greater fidelity of costing.</ParaText>
+              <ParaText id="8928454">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163940">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928457">My main thought on this is who's responsible for the cost versus the decision to purchase the F-35s.</ParaText>
+              <ParaText id="8928458">I do have another question, but I'm not sure if it should go to Ms. Beck or to Jamie. A few years ago, the current government had a strategy where they were going to “green” government, and they said the F-35 was going to be part of that. Is that still part of the mandate for net zero going forward? </ParaText>
+              <ParaText id="8928459">I'll leave it at that part first, if it is yes or no, and then we'll go from there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163951">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928461">It's something that we're pretty proud of, but it's not specific to the F-35 program. I'll let Pete elaborate, but we have recently, for instance, through Defence Construction Canada, started the construction of the first net-zero housing in the Government of Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163954">
+            <PersonSpeaking>
+              <Affiliation DbId="317663" Type="2">William Stevenson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928463">Can you tell me of any other NATO country that has a defence requirement to do greening of their...?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163958">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928465">I can jump in and perhaps try to help answer this. </ParaText>
+              <ParaText id="8928466">A number of other countries in NATO do have greening targets generally for the work they do as part of government, and that includes their defence departments. I wouldn't speculate on how many, but a number of nations do have some of those targets built in.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163960">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928468">Thank you.</ParaText>
+              <ParaText id="8928469">Oh, go ahead please, Lieutenant-General Speiser-Blanchet.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163961">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928470">I can elaborate quickly.</ParaText>
+              <ParaText id="8928471">One thing we are partnered with is a global air chiefs climate change collaboration. It's essentially a club of air forces that are working together to try to share best practices and work with one another to enable climate change reactions, and it does include some greening of our fleets. Some of it is, of course, reactions to climate change and humanitarian assistance types of elements. There's also a very robust discussion on synthetic aviation fuel, and we are using that in the RCAF to positive effect.</ParaText>
+              <ParaText id="8928472">There are some greening efforts that I would say are embedded in different parts of the organization.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163968">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928475">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163970">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928477">As we build buildings, we build them to a higher standard now than we did in the past, including net-zero or net-zero-ready buildings. We will be doing that as part of the infrastructure for the fighter.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163972">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928481">Thank you. As long as it's not tanks.... I represent CFB Gagetown, and we need diesel to run those things.</ParaText>
+              <ParaText id="8928482">Ms. Yip, you have the floor for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163975">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip (Scarborough—Agincourt, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928485">Thank you, Chair. </ParaText>
+              <ParaText id="8928486">Thank you for sharing those greening efforts and initiatives from National Defence. It's something that is really good to hear, especially with all our climate change issues. </ParaText>
+              <ParaText id="8928487">Ms. Beck, why was the construction of the fighter squadron facilities in Cold Lake and Bagotville more than three years behind the original schedule?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163976">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928492">I think we've touched on that a bit, but I am happy to elaborate, and maybe Pete will want to jump in here too.</ParaText>
+              <ParaText id="8928493">It's because the specifications changed. The articulation in the early years of the project was that the joint project office required a certain kind of hangar, and it's much more than just a hangar where we park the aircraft at night. That change to require much greater security includes those steel plates that Pete was talking about earlier. </ParaText>
+              <ParaText id="8928494">That then meant a much longer and more expensive supply chain to ensure that the steel that makes it into the hangar has been protected from birth, so to speak, all the way along that supply chain. Strictly speaking, security costs alone would have gone up because of the need to make sure the entire supply chain was secure, so we didn't end up with steel in the building that had other things in it, for instance. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163981">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928500"> The Auditor General's report indicated that there was “insufficient departmental engineering personnel to service support equipment for both the CF-18 Hornet and CF-35A during the transition.” How is the defence department overcoming this shortage of engineering personnel?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163987">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928505">I can answer that one.</ParaText>
+              <ParaText id="8928506">Maintenance support personnel is an area that we are continuing to work on, because we do not, as mentioned, have an abundance of them. However, this is an area that we continue to work on.</ParaText>
+              <ParaText id="8928507">In terms of that engineering support, there's the maintenance support, but then there are also the vehicle techs and others who are supporting different areas of the squadron and the squadron facility. Some of them actually come from the Canadian Army, so we're working on ways to work with them to be able to mitigate that shortage. We also see potential for a future opportunity to work with someone in the Canadian industry who can perhaps help us to mitigate that shortage. This is an area that we could look into future contracting for.</ParaText>
+              <ParaText id="8928508">We still have some years. It's on our action plan of things we must look at and continue to address and monitor. There are options that we will consider as we go forward.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163992">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928509">There are so many moving parts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165927">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928511">There are.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165929">
+            <PersonSpeaking>
+              <Affiliation DbId="320549" Type="40">Jean Yip</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928513">I'll continue asking you a question.</ParaText>
+              <ParaText id="8928514">Are there any best practices that Canada can learn from with regard to the procurement of Canada's future fighter jet capability, such as from previous major procurement projects?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163994">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928516">There are probably a lot of people who would want to comment on this particular one.</ParaText>
+              <ParaText id="8928517">I think one of the things that have been unusual but helpful in many ways is having this joint project office. The intent is to share the risk and the burden. In today's speak, it's the crowdsourcing of development, research and innovation, and it's getting the best from each country that will then be fed into the creation of this new aircraft—not just the operation of it but also the maintenance. You're getting the best of every best air force in all of the partners that belong to this particular organization. That means you're spreading the burden of the cost of the research and development.</ParaText>
+              <ParaText id="8928518">In fact, the U.S. government has shouldered by far the largest portion of the costs. From an R and D perspective, we're getting a good return on investment. You can't do that everywhere, but it is one good outcome of this particular structure.</ParaText>
+              <ParaText id="8928519">Heather, who has just come from the Treasury Board Secretariat, or Paula might have more to add.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164008">
+            <PersonSpeaking>
+              <Affiliation DbId="322964" Type="28">Heather Sheehy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928522">Deputy, I think you raised one of the best points on this particular procurement. This allows us to work with our partners. In this particular project, there are eight partner countries: the U.S., Canada, Australia, Denmark, Italy, the Netherlands, the U.K. and Norway.</ParaText>
+              <ParaText id="8928523">In addition to that, there are 12 other countries that are actually participating and have indicated that they are going to be purchasing this equipment through foreign military sales.</ParaText>
+              <ParaText id="8928524">I have to say that this allows us to be part of an international team. It allows us to have interoperability. It also allows us to have the economies of scale that the deputy was talking about.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164018">
+            <PersonSpeaking>
+              <Affiliation DbId="323021" Type="28">Paula Folkes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928526">I'll echo what my colleagues have stated.</ParaText>
+              <ParaText id="8928527">I think the other piece that's a really great practice here is the fact that we are joining a user group of all of our NATO allies that are in the Five Eyes group, and we are able to share that information. We also have the Australia, Canada and U.K. reprogramming lab, which is extraordinary. It is a tripartite effort to develop the mission datasets that we'll use for the CF-35A.</ParaText>
+              <ParaText id="8928528">As Heather pointed out, the economies of scale are really important. They allow us to get best-customer pricing. They also allow us to join bulk buys, which brings our pricing down. Looking at the fact that this particular aircraft would have over 3,000 units worldwide, around 2,000 of them within our continent, you see that it provides increased opportunities for our industry, which is already providing over three million dollars' worth of parts on existing aircraft. We haven't even received that in Canada yet. We anticipate that this could grow, and that would be good for our economy.</ParaText>
+              <ParaText id="8928529">There is one thing that I think is challenging. I don't know that any of us in this room thought that in 2025 we would have so many regional wars and also see a war in Europe. That geopolitical situation was hard to forecast. I think we do need to do a better job of that and have our costing match more for worst-case scenarios instead of reasonable scenarios, because the world is changing. Much of the cost increase and many of the changes are actually because the threat is proliferating rapidly and is changing. We have to achieve overmatch, so that we can bring our women and men, like Lieutenant-General Speiser-Blanchet, home and continue to undertake the missions asked of us by our government.</ParaText>
+              <ParaText id="8928530">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164039">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928531"> Thank you very much.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928532"> Mr. Lemire, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164044">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928534">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8928535">The former commander of the Royal Canadian Air Force, Mr. Yvan Blondin, said that Canada would benefit from operating a joint air force with other types of aircraft than F‑35s. There was the replacement of the CP‑140 Auroras by National Defence, which ultimately awarded the contract to Boeing, without a call for tenders and at Bombardier's expense.</ParaText>
+              <ParaText id="8928536">I also learned recently that Saab, the manufacturer of the Gripen, had committed to building its fighter jets in Quebec. That would have created 6,000 jobs, half of them in Quebec. It would also have created the Gripen Centre in Montreal, and there would have been a transfer of intellectual property. The development of a Canadian fighter aircraft through the Gripen research centre would probably have been a source of great pride. That would have allowed us to develop a generation of aircraft adapted to our reality.</ParaText>
+              <ParaText id="8928537">We're thinking about the possibilities regarding a sixth generation. We could have been at the heart of research development. Why was this project not pursued? We talk about interoperability, we talk about being with allies, and Sweden is a member of NATO. Why wasn't this followed up?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164062">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928539">We spoke earlier of the sixth generation. A number of companies and countries are looking into this possibility. We know there are three right now, and that includes not only European countries but Japan as well, for example. We're wondering how to proceed, because there are a number of options. We can do what we did during the pandemic, which is put our eggs in several baskets, for example for vaccines. Would it be worthwhile to do the same thing for the sixth generation? Should we be assessing who gives us the best options?</ParaText>
+              <ParaText id="8928540">One thing is certain: You have to join the various programs sooner rather than later. As the Auditor General said, as soon as you sign on to a program, you know a lot more about the costs and opportunities for Canadian businesses. Being there from the start changes everything.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention ToC="No" ToCText="" Type="" id="13164111">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928543"> Why didn't a company's willingness to invest so much, particularly in Quebec's economy, carry any weight in the decision?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164113">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928547">Maybe Paula could add to this, but in the evaluation of the different bids, they would always take into account the economic benefits, and that would have been part of the assessment at the time.</ParaText>
+              <ParaText id="8928548">I don't know what Saab was proposing at the time, but that would have been part of the assessment.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164118">
+            <PersonSpeaking>
+              <Affiliation DbId="323021" Type="28">Paula Folkes</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928549">It was recently announced that L3Harris in Mirabel is a strategic partner for Canada in the maintenance of our F‑35 fighter jets. Basically, our goal is to establish a regional repository. More than 2,000 fighter jets could be repaired in Quebec, at Mirabel. This is an incredible opportunity.</ParaText>
+              <ParaText id="8928550">I understand that it may be attractive to think about building 88 fighter jets, but basically 75% of the life-cycle cost is in fighter aircraft maintenance. Construction and capital are one thing, but there are other opportunities for Canada, such as maintenance and perhaps a depot for engine repair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164132">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928553">Thank you very much.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928554">Up next is Mr. Kuruc for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164136">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928555">Thank you very much.</ParaText>
+              <ParaText id="8928556">The Auditor General found major overruns within the DND's control. What was within the DND's control that led to these overruns?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164138">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928558">Do you want me to answer that first?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164141">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928562">Sure.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164145">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928567">I could try, and then I think DND could speak to the rest.</ParaText>
+              <ParaText id="8928568">For us, one of the first things was the fact that the original estimate was based on outdated information. As I mentioned, there were cost estimates for the aircraft themselves that were more up to date and could have been used that came out of the joint strike fighter program office. They could have started with that.</ParaText>
+              <ParaText id="8928569">There are elements that, in our view, were missing from the full costing of the project. As I mentioned earlier, DND manages its projects slightly differently. Some of the power grid upgrades and infrastructure needs that were put into another project should, I think, have been thought about here.</ParaText>
+              <ParaText id="8928570">Then there were the delays. Any time you delay something, costs have the potential to increase. In this case, needing temporary infrastructure for maintenance and for training was driving up the costs that weren't planned at the beginning.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164148">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928575"> Thank you. That's sufficient. </ParaText>
+              <ParaText id="8928576">Ms. Beck, what kinds of cost overruns...? There was mention of temporary facilities. We have temporary facilities because.... In the report, we're three years behind on two major facilities. What kind of cost to the taxpayer is this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164153">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928585">Those amounts would be included in the $27.7 billion, that particular package of costing. I know the term is “temporary”, but think of them more as transitional, because it's not a piece of infrastructure or equipment that we will throw away at the end. On the contrary, they can be used for other purposes, so it's not wasted money. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13164161">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928586">Thank you for your clarification on that. </ParaText>
+              <ParaText id="8928587">Would you agree that, to mitigate some of the costs in the foreign exchange that we talked about...? My colleagues on the other side were trying to figure out where these costs are coming from and may be taking the heat off what I would say is mismanagement. Would simply building things on time save the taxpayer a lot of money?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164166">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928589">Pete might want to add something, but we have done our own internal research, and the costs of inflation on defence equipment are even higher than regular inflation. The cost of infrastructure, especially the infrastructure we're building in the north, is even higher than it would be in the south of Canada, and of course a lot of our infrastructure is being built in the north. </ParaText>
+              <ParaText id="8928590">For each extra month and year that it takes, there is definitely a greater cost. Sometimes there's a trade-off, in that there is better technology available if we're building it later—you get version six instead of four—but it's hard to judge whether we would have spent the equivalent amount of money in doing the upgrades. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164175">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928595">Thank you for that answer. </ParaText>
+              <ParaText id="8928596">I would also like to ask, to flip back to the fifth-generation technology, who else is building fifth-generation planes? It's the U.S. and...? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164181">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928597">China and Russia—and we're not buying those. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164184">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928600">Thank you for clarifying that. </ParaText>
+              <ParaText id="8928601">I guess the only pathway forward for us, and you've both recommended it, is the F-35. Thank you for that. Can you and the expert, the general, speak on the sixth-generation technology? How far away is that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164189">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928602">I think the general is better to speak on the expert part, but the research and development is under way, as I was saying, amongst many countries. The earliest is the mid-2030s. It's more likely that what you would get is almost a prototype in the mid-2030s, and then it would evolve after that. Again, if you get in early, you get to shape it. </ParaText>
+              <ParaText id="8928603">However, the general knows more about the difference between five and six. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164198">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928607">It would be amazing if you could chime in on that. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164203">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928609">As the deputy mentioned, it is in the developmental and research phase now. In fact, some of the numbers, depending on how the prototypes go, are late 2030s and 2040s. </ParaText>
+              <ParaText id="8928610">However, other things that we are pursuing in the meantime are autonomous combat platforms—that's one. These are meant to be different drones that can accompany fighter jets. There will be opportunities, I believe, and we're certainly working more closely with Canadian industry while we talk to allies and partners who may be doing research as well. There's a lot more collaboration opportunity ahead. I believe those are areas that will be of benefit to us as we look to what we need in the future, because, as was mentioned, if we start now, those investments can actually help yield the technology and things that will give us that operational overmatch in the future. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164218">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928611">Can we actually pivot now, or are we not sure right now? We could create the perfect storm, where we could again be behind if we don't act out and fulfill what I think Ms. Beck alluded to earlier, saying that all parties came to a decision, which we all did, and we find ourselves behind. If we don't execute now and fulfill the F-35s, when it comes time to upgrade we could actually be more behind, and it could cost the taxpayer a lot more money.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164230">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928616">Mr. Kuruc, I want to stop you because you're over, but I will wait and allow for an answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164237">
+            <PersonSpeaking>
+              <Affiliation DbId="319812" Type="47">Ned Kuruc</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928620"> I don't know if I asked a question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164239">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928623">We're focused on delivering what we have. We have commitments in place, and we need to continue to maintain those, but as the general said, we always have an eye to the future.</ParaText>
+              <ParaText id="8928624">Maybe just one point is that on drone technology, the rate of change in the war in Ukraine is unseen. It's staggering. Every few weeks, there's a different version of a drone or a different version of electronic jamming equipment. It's just extraordinary, so we need to stay on top of that as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164245">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928627">Thank you.</ParaText>
+              <ParaText id="8928628">The committee does recognize that you are all experts here—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165915">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928631">Some are more expert than others.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165919">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928636">The general has the unique situation where people will literally shoot at her, so thank you for your service.</ParaText>
+              <ParaText id="8928637">We're going back to Ms. Tesser Derksen, please, for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164249">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928639">Thank you.</ParaText>
+              <ParaText id="8928640">I want to pick up on something Ms. Yip was asking about with respect to the facility. It's kind of a more specific question. </ParaText>
+              <ParaText id="8928641">I know it's been brought up repeatedly that there were things you weren't necessarily anticipating with respect to the design requirements. Pardon the frankness of the question, but did we miss something? </ParaText>
+              <ParaText id="8928638">I think that when you're procuring very expensive aircraft, you would have a pretty good idea of what the requirements would be for the facility they'd be housed in, in terms of security, build form and that sort of thing. I'm not an expert, so I'll rely on you to fill us in on that a bit.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164266">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928643">We launched modified design-build contracts for the two facilities in 2020. Since that time, we have been pursuing the design work for the facilities. </ParaText>
+              <ParaText id="8928644">Before the government decision to proceed with the F-35, we were at about 80% design on the facilities, so we had a pretty good sense already of what the facilities needed to look like. We did anticipate some change post decision on the selected fighter. To be frank, we didn't expect the extent of that change and just how specific some of those requirements would be. That led to the design changes I spoke to earlier. </ParaText>
+              <ParaText id="8928645">We did have a very good sense of what a fighter squadron facility needed to look like.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164277">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928648">Okay.</ParaText>
+              <ParaText id="8928649">I presume that at some point in the future we will be undergoing this process again, where we're procuring more aircraft. Hopefully, we'll all be retired by then. </ParaText>
+              <ParaText id="8928650">Looking backward, is there anything you would do differently next time, with this knowledge that you could potentially be facing design requirements that weren't anticipated?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164282">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928654">Certainly. This is the first time Canada has developed infrastructure for a fifth-generation capability. It's highly complex for some of the reasons that we've already covered. We've learned a heck of a lot, actually, as part of this design process. We've been working very closely with EllisDon, the contractor. Through the design predecision, we learned a lot of lessons that we applied in the design post decision, as we made the adjustments to the new requirements. </ParaText>
+              <ParaText id="8928655">We are in kind of a constant learning mode on this. We will be applying those lessons very much in the context of future acquisitions, for sure.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164291">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928656">That's great.</ParaText>
+              <ParaText id="8928657">Do you think there would be an opportunity to actually codify that knowledge and capture it? Anecdotally, it's something that you may talk about in the future, but is there a process where you would turn that into a best practice that's actually documented in a manual or something like that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164296">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928659">I don't know about a manual per se, but my team actively documents lessons learned, to be able to apply these next time. </ParaText>
+              <ParaText id="8928660">Infrastructure is often a step or two behind, simply because we build to the requirements of the equipment that is being procured, so we're always looking for ways to keep pace with equipment acquisition to ensure that infrastructure is there in time. These are exactly the types of lessons we learn, document and build into the work we do going forward.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164304">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928661">That's good to hear.</ParaText>
+              <ParaText id="8928662">I'll go to a very broad question with respect to methodologies and research. </ParaText>
+              <ParaText id="8928663">This has obviously been a very extensive overview of a major defence procurement process. We talked about equipment, the storage and the training. </ParaText>
+              <ParaText id="8928664">This will be for the Attorney Gen— </ParaText>
+              <ParaText id="8928665">I just made you a lawyer. Congratulations. </ParaText>
+              <ParaText id="8928666">This will be for the Auditor General. </ParaText>
+              <ParaText id="8928667">What types of research methodologies went into your report?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164315">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928670"> I'm sure many of the lawyers who work for me would be happy if I were a lawyer, but no.</ParaText>
+              <ParaText id="8928671">When you talk about research for a comparison or what we do for audits, it would be different. We definitely have data scientists who help support us when we do sampling and stratifying of populations. Here, we would have been looking for some advice of a technical nature.</ParaText>
+              <ParaText id="8928672">Not to put Nick on the spot, but he has audited National Defence for decades now, so he does understand them a lot.</ParaText>
+              <ParaText id="8928673">We typically try to compare, when we can, to foreign countries. It's a little more difficult in this space, for sure. We do definitely pay attention to what the Government Accountability Office has been doing. They have lots of work on fighter jets and have been talking about increasing costs just coming out of this in general for the F-35.</ParaText>
+              <ParaText id="8928674">It's a very broad question. It would depend on the topic. If it were in the health field, I could tell you that we'd go seek out experts there if we didn't necessarily have them. We have the ability to go get what we don't believe we have in-house, and then we do rely on the experts, whom we actually audit. We don't take for granted that they do this day-to-day and they know, but we take a step back for an independent, unbiased view of things.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164334">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928675">You are out of time, but if you have a brief follow-up question, please go ahead, Ms. Tesser Derksen.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164341">
+            <PersonSpeaking>
+              <Affiliation DbId="319666" Type="47">Kristina Tesser Derksen</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928679">In this particular instance, did you sense there were gaps in the information you had before you to make reasonable determinations in your reports, or were you pretty satisfied with the data that you were able to access?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164345">
+            <PersonSpeaking>
+              <Affiliation DbId="262933" Type="28">Karen Hogan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928686">We didn't have any access issues here whatsoever. We had the required security clearance to have the conversations and to look at the information that we looked at. I wouldn't say there was an issue here whatsoever on this file.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164352">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928687">Thank you very much.</ParaText>
+              <ParaText id="8928688">We're going to have a truncated last round, which will give three members various times. Again, to give the government the last slot, I'm going to mix it up. I'm going to have Monsieur Deltell and Monsieur Lemire go first, and then Mr. Osborne will end it for us this afternoon.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8928689"> Mr. Deltell, you have the floor for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164355">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928691">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8928692">Ms. Beck, I'd like to continue the discussion we had with Mr. Kuruc a few moments ago. You said that, in the woes of war, technological advances are rapid. History has taught us that. We're a long way from the days of Billy Bishop. It's important to remember that at the beginning of the Second World War, biplanes were still used and that the war ended with Messerschmitt 262s. Things changed rapidly.</ParaText>
+              <ParaText id="8928693">Without going into the details and revealing any national security information, can you tell us whether the Canadian Armed Forces or the Royal Canadian Air Force have drones? What's the current situation regarding drones? What types of drones do you have?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164367">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928701">In fact, we have them for the navy, army and air force. Their nature depends on the needs we have to meet and the results we want to achieve. A lot of research is being done into what else exists.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164370">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928702">Where are they made?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164373">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928705">They are manufactured all across Canada, including Quebec, Ontario and Alberta. Every day, we receive messages from various Canadian companies that want to offer us products that can help us, especially drones.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164376">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928706">Let's continue the discussion and explore this area.</ParaText>
+              <ParaText id="8928707">Is that part of the expansion plans for the armed forces and the Royal Canadian Air Force? How much of the budget will be allocated to that? Should we be putting more money into those aircraft, if we can define them that way, rather than into other aircraft?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164377">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928714">Absolutely. Investments will be announced not only for the Royal Canadian Air Force, but also for other divisions of the forces. It depends on the need to be met. There are drones that can carry heavy cargoes over long distances, while others are used to deliver things in close proximity very quickly.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928715">Actually, there is one more thing. We will, later this month or in November, have a drone exercise in urban Ottawa, so you will be able to see them. We'll give you warning, and, of course, Transport Canada is aware. This will be a test of all kinds of drones in downtown Ottawa, to see what there might be that we might need to purchase.</ParaText>
+              <ParaText id="8928716">Beyond that, we are doing research and inviting other countries to come and show us what they have in terms of all the different kinds of drones, and we also do research in Halifax Harbour, on underwater drones.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention ToC="No" ToCText="" Type="" id="13164391">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928717"> I don't need to tell you that we're very interested in what comes next, particularly because, in our opinion, it must be done here in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164392">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928722">There's a lot of expertise.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164396">
+            <PersonSpeaking>
+              <Affiliation DbId="319813" Type="47">Gérard Deltell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928723">We have a golden opportunity to develop expertise, and we know that we have very good expertise in this area.</ParaText>
+              <ParaText id="8928724">Before concluding, I'd like to come back to a very important point raised in Ms. Hogan's report, namely the shortage of qualified pilots. That was the case in 2018, and it's still true six years later.</ParaText>
+              <ParaText id="8928725">Lieutenant-General, do you think we're technically ready? Ms. Hogan mentioned that, when the planes are ready, it's still not entirely certain that there will be enough pilots. What's your reading of the situation?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164400">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928736">Thank you for the question.</ParaText>
+              <ParaText id="8928737">That's something we're working on very deliberately. We're making changes to training, and planning to replace our training fleets so that we can train more pilots. We're expanding. Indeed, since 2018, we've seen that a number of our initiatives have helped to increase the number of pilots. We're talking about recruiting more pilots, but also about implementing initiatives to retain experienced people, which is very important. This will involve continuing to implement our plans as well as continuing to assess and verify conditions annually.</ParaText>
+              <ParaText id="8928738">When we set up our F‑35 personnel, we'll be able to judge how operational we are based on the number of people we have. Right now, we're optimistic about rebuilding our workforce. To what extent will that be done? I'll have to continue working on that. We also work with maintenance people.</ParaText>
+              <ParaText id="8928739">We've also heard that there will be a need to expand the support capacity, so intelligence and planning for missions, as well as the security forces, which we talked about. So there are a number of areas where we're increasing our strength, and the fairly recent announcement of investment in defence and the Canadian Armed Forces allows us to make plans for growth.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164417">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928740">Thank you very much.</ParaText>
+              <ParaText id="8928741">Mr. Lemire, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164419">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928744">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8928745">Ms. Beck, I'd like to quickly talk about the Bagotville military base. In January 2023, during an interview with the Kick FM radio station, former minister of national defence <Affiliation DbId="317950" Type="2">Anita Anand</Affiliation> estimated that the work in Bagotville would cost $500 million. However, the work was launched on August 12, 2024, with an investment of only $120 million.</ParaText>
+              <ParaText id="8928746">How do you explain this discrepancy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164422">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928747">This is just the beginning of the project, that's all. There's nothing extraordinary about that. We don't pay for everything the first year, of course. We pay as we go.</ParaText>
+              <ParaText id="8928748">Mr. Hammerschmidt could add some details, because this is a complex project.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164424">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928751"> Since we know that there will be delays, why did the government not accelerate investments at the outset?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164426">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928752">To date, we've spent $125 million on the Bagotville military base. We've committed $319 million to develop the temporary rapid response area in Bagotville, and we're also beginning construction on facilities for the future fighter fleet.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164430">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928755">On another note, National Defence will have to defend the north. Obviously, the sovereignty of the Arctic is a very important issue, and we have to show our presence.</ParaText>
+              <ParaText id="8928756"> Since we won't necessarily be able to store all the equipment in one place, we'd have to find a place that experiences winter conditions. The region I represent, Abitibi-Témiscamingue, has a strategic position for that, in addition to having many mining companies.</ParaText>
+              <ParaText id="8928757">In a context where National Defence must increase its investments, but also improve its recruitment, training, or conduct rescue operations, I believe that Abitibi-Témiscamingue has an important role to play.</ParaText>
+              <ParaText id="8928758">How could regions like mine contribute more to National Defence?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164439">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928759">We're always pleased to have much more assistance in the regions, especially in the north. We're in the process of looking at different locations for operational support hubs in the north.</ParaText>
+              <ParaText id="8928760">We've chosen Iqaluit, Inuvik and Yellowknife to host those hubs, and we're looking for two more cities that will unfortunately be farther north than Abitibi-Témiscamingue.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164443">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928762">Interoperability is nevertheless important, and we need to have places where we can pass a trans-Canada highway and rail tracks, to supply the north. I'm telling you that in passing.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164444">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928763">We'll keep that in mind.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="" id="13164445">
+            <PersonSpeaking>
+              <Affiliation DbId="320550" Type="40">Sébastien Lemire</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928767">All right.</ParaText>
+              <ParaText id="8928768">Thank you, Mr. Chair.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" ToCText="" Type="Interjection" id="13164447">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928771">Thank you very much.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8928772"> Mr. Osborne, you'll take us out for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164451">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928773">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8928774">I guess this is for the deputy. </ParaText>
+              <ParaText id="8928775">The Auditor General found that National Defence was more reactive than proactive in terms of risk management. Effective planning and risk management are paramount, especially as we see the geopolitical...and the risks. </ParaText>
+              <ParaText id="8928776">Can you talk about the improvements you've put in place so that you become more proactive?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164457">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928783">I think the Auditor General is exactly right. The department has traditionally been very risk-averse and very controlled in decision-making and in purposeful spending. That is largely because of the constraints around the operating capabilities of the department in terms of resources. There are not enough people and there is not enough money.</ParaText>
+              <ParaText id="8928784"> This has changed. With that, it has become necessary to shift significantly how we evaluate and manage risk, and then how we mitigate what the different risks are. Layered on top of that is what you mentioned: The geopolitical situation has changed. We are in a different world from the one we were in even three or four years ago, or prepandemic.</ParaText>
+              <ParaText id="8928785"> This has meant an entire shift in the whole conversation in the department—with the military as well as with civilians. I would even go so far as to add our colleagues around town, because we have to take a completely different lens to the future of the Department of National Defence and of the CAF now, with funding that we can see coming for decades at a much higher level than was the case before.</ParaText>
+              <ParaText id="8928786">We are going to be relying not only on our existing partners. For instance, the creation of the new Defence Investment Agency is going to help us manage that risk. It's going to help us deliver projects and programs much faster than has been the case to date.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164481">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928788">Thank you. You led perfectly into my next question.</ParaText>
+              <ParaText id="8928789">This is probably more for the lieutenant-general. The commitment of the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and of Canada to meet NATO spending targets of 2%, 3.5% and 5% presents tremendous opportunity and excitement, I would say, for you. At the same time, the risks to our sovereignty and the tensions globally create additional challenges.</ParaText>
+              <ParaText id="8928790">Looking at the national defence industrial strategy, for example, can we talk about what that means for Canada's economy and for Canada's workforce? What are the benefits to Canada and to our forces with the increased spending? </ParaText>
+              <ParaText id="8928791">What does the future look like?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164500">
+            <PersonSpeaking>
+              <Affiliation DbId="309956" Type="28">Stefanie Beck</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928792">I'll pass it over to you in a second.</ParaText>
+              <ParaText id="8928793">The defence industrial strategy is in the definition phase right now, to use a military term. We've spoken with over 1,000 people. We've had input from all across the country and have deliberately sought out the views of provinces, territories and first nations communities. We're gathering all that together.</ParaText>
+              <ParaText id="8928794"> The goal of the strategy will be to increase investment in the defence industry to enable that to happen, with the support not only of the government but of the private sector as well. It's to make sure that the end result is our sovereign capabilities—we were talking about drones earlier—and access to capabilities that we will always need, that we can find at home and that we'll be able to rely on in the future.</ParaText>
+              <ParaText id="8928795"> We're doing that, of course, in close collaboration with the military, to make sure what we're targeting as sovereign capabilities are the ones they need not just now but in the future as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164512">
+            <PersonSpeaking>
+              <Affiliation DbId="322969" Type="28">LGen Jamie Speiser-Blanchet</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928796">Thank you.</ParaText>
+              <ParaText id="8928797">I would just maybe add three points that would summarize my view of the way you framed that. </ParaText>
+              <ParaText id="8928798">It is an amazing opportunity. We're very grateful for the increased investment. The RCAF has been on a path of modernization. It's the biggest one since the Second World War. We are creating the air and space force that Canada needs, not just now but for decades to come.</ParaText>
+              <ParaText id="8928799">With this increased investment, certainly the opportunities to work differently with industry are there. I believe there's a tremendous prospect there. It's also allowing us to fix some of the foundations, because, frankly, there has been a lack of investment over several decades. Infrastructure has been a focus. Digital transformation is a focus. Those are going to allow us to then modernize more effectively.</ParaText>
+              <ParaText id="8928800">It's really key, as mentioned, about the risk approach. How we do this is going to be very important. As you mentioned, it is a positive opportunity, but it is also quite challenging. It's important that we spend the money and the investments judiciously, ensure that we have continued value for money, and show and reassure Canadians that this is happening in a positive manner for the sovereignty and safety of Canadians.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164532">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928802"> Thank you.</ParaText>
+              <ParaText id="8928803">If you have a quick follow-up, go ahead, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164534">
+            <PersonSpeaking>
+              <Affiliation DbId="319667" Type="47">Tom Osborne</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928804">I have one quick follow-up. I know that in addition to Bagotville and Cold Lake, there are several other fighter locations across the country. I know each region is hoping for upgrades and investments, especially as we look at the F-35. </ParaText>
+              <ParaText id="8928805">Can you give us some indication of what that would look like for the other locations throughout the country?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164540">
+            <PersonSpeaking>
+              <Affiliation DbId="313839" Type="28">Peter Hammerschmidt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928806">Certainly, from an infrastructure perspective, there is a lot of focus on Bagotville and Cold Lake. However, as you have mentioned, they are not the only parts of the country. In terms of all of the forward operating locations, we have three of them in the north. Those will be upgraded to a whole range of infrastructure initiatives, including airfield rehabilitation, power grid modernization, runway work and facilities work.</ParaText>
+              <ParaText id="8928807"> There are also the deployed operating bases that are across the country. I'm going to miss one, I think, but they include Greenwood, Comox, Goose Bay, Winnipeg and Trenton. Those will all receive upgrades, as well.</ParaText>
+              <ParaText id="8928808"> Beyond that, we have three command centres, in Winnipeg, Ottawa and North Bay. Those too will receive upgrades, particularly for command and control to be able to operate the fighters and other aircraft.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164553">
+            <PersonSpeaking>
+              <Affiliation DbId="320548" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8928809">Thank you all very much for the information you provided today. I want to thank everyone for coming in today and being so forthright with your answers. The committee will take this up and decide where we want to go from here. This has been a very good meeting.</ParaText>
+              <ParaText id="8928810">Before I excuse everyone and adjourn the meeting, I want to let everyone know that the request for a 10 a.m. start time on Tuesday, October 21, has been approved. On that day, instead of meeting in the afternoon, we will be meeting as Parliament opens, at 10 a.m. We will be meeting with the Auditor General to get her public comments on the report right away. This is standard for this, and it has been approved by the various whips for that to happen.</ParaText>
+              <ParaText id="8928811">Without further ado, I'll excuse the witnesses. Thank you very much.</ParaText>
+              <ParaText id="8928812">This meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

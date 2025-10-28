@@ -1,0 +1,2080 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13147808">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Finance</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, October 1, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 1<Sup>er</Sup> octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Finance</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 1, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 004</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">01</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/01 16:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent des finances</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Finance</ExtractedItem>
+    <ExtractedItem Name="Acronyme">FINA</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Karina Gould</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13147811">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan (Calgary East, CPC)) </Affiliation>
+            </PersonSpeaking>
+            <Content>
+              <ParaText id="8907770"> I call this meeting to order.</ParaText>
+              <ParaText id="8907771">Welcome to meeting number four of the House of Commons Standing Committee on Finance. </ParaText>
+              <ParaText id="8907772"> I know the chair occupant looks a bit different from what's normal. Our chair is observing Yom Kippur today. </ParaText>
+              <ParaText id="8907773">I'll just take this opportunity to wish all of our Jewish friends a very blessed Yom Kippur.</ParaText>
+              <ParaText id="8907774">Today's meeting is taking place in a hybrid format. I would like to remind participants of the following points.</ParaText>
+              <ParaText id="8907775">Before speaking, please wait until I recognize you. For those participating by video conference, click on the microphone icon to activate your mic, and please mute yourself when you are not speaking. For those on Zoom, at the bottom of your screen you can select the appropriate channel for interpretation—floor, English or French. For those in the room, you can use the earpiece and select the desired channel. </ParaText>
+              <ParaText id="8907776">For members participating in person or via Zoom, please raise your hand if you wish to speak. The committee clerks and I will do the best we can to maintain a consolidated speaking order. </ParaText>
+              <ParaText id="8907777">I'll remind you that all comments should be addressed through the chair.</ParaText>
+              <ParaText id="8907778">Pursuant to the order of reference of Thursday, June 12, 2025, the committee shall commence consideration of Bill <Document DbId="13539746" Type="3">C-4</Document>, an act respecting certain affordability measures for Canadians and another measure.</ParaText>
+              <ParaText id="8907779">I would like to welcome our witnesses. </ParaText>
+              <ParaText id="8907780">Witnesses, could you just go around and introduce yourselves, with your name and your department?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147861">
+            <PersonSpeaking>
+              <Affiliation DbId="307847" Type="28">Stephanie Lane (Executive Director, Legislative Governance, Department of the Environment)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907781"> Hello. I'm Stephanie Lane, executive director of legislative governance at Environment and Climate Change Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147863">
+            <PersonSpeaking>
+              <Affiliation DbId="311821" Type="28">Judy Meltzer (Associate Assistant Deputy Minister, Environmental Protection Branch, Department of the Environment)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907782"> I'm Judy Meltzer, associate ADM of the environmental protection branch at Environment and Climate Change Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147865">
+            <PersonSpeaking>
+              <Affiliation DbId="299741" Type="28">Luisa Rizzo (Director General, GST/HST Rulings Directorate, Canada Revenue Agency)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907783"> I'm Luisa Rizzo from the GST/HST rulings directorate at the Canada Revenue Agency.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147868">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell (Director, Real Property and Financial Institutions, Sales Tax Division, Department of Finance)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907785">I'm Amanda Riddell, director of the real property and financial institutions section at Finance Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147870">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe (Director General, Legislation, Sales Tax Division, Department of Finance)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907786">Gervais Coulombe; director general; legislation, sales tax division; Department of Finance.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147872">
+            <PersonSpeaking>
+              <Affiliation DbId="322828" Type="28">Nina Gormanns (Director, Excise Policy, Sales Tax Division, Department of Finance)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907787"> I'm Nina Gormanns, director of excise policy at the Department of Finance Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147874">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci (Director, Strategic Projects, Personal Income Tax Division, Department of Finance)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907788"> I'm Stefania Bartucci, director of strategic projects in the personal income tax division at Finance Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147880">
+            <PersonSpeaking>
+              <Affiliation DbId="279360" Type="28">Lindsay Gwyer (Director General, Legislation, Tax Legislation Division, Tax Policy Branch, Department of Finance)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907789"> I'm Lindsay Gwyer, director general of the tax legislation division at the Department of Finance.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147881">
+            <PersonSpeaking>
+              <Affiliation DbId="322824" Type="28">Cathy Hawara (Assistant Secretary to Cabinet, Democratic Institutions and Machinery of Government, Privy Council Office)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907790"> I'm Cathy Hawara, assistant secretary to cabinet, machinery of government and democratic institutions at the PCO.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147882">
+            <PersonSpeaking>
+              <Affiliation DbId="309115" Type="28">Isabelle Brault (Director General, Legislative Policy Directorate, Legislative Policy and Regulatory Affairs Branch, Canada Revenue Agency)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907791">Isabelle Brault, director general, legislative policy directorate, legislative policy and regulatory affairs branch, Canada Revenue Agency.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13147883">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907792">Thank you to the witnesses.</ParaText>
+              <ParaText id="8907793">It's my understanding that the Department of Finance will be opening with five-minute remarks. I believe there are two of you—Gervais and Stefania. </ParaText>
+              <ParaText id="8907794">I'll just open the floor to you, and then we'll get right into questions.</ParaText>
+              <ParaText id="8907795">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147885">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907796">Thank you for the invitation to be here today.</ParaText>
+              <ParaText id="8907797">I'm here to speak on part 1 of the bill. </ParaText>
+              <ParaText id="8907798">Part 1 of Bill <Document DbId="13539746" Type="3">C-4</Document> lowers the first personal income tax rate—which applies to taxable income up to $57,375—in 2025 from 15% to 14%, effective July 1, 2025. </ParaText>
+              <ParaText id="8907799">You'll note that in the legislation there are two rates. Since income is reported in taxes calculated on an annual basis, the full-year tax rate for 2025 would be 14.5% to reflect the tax rate cut coming into force halfway through the year. The full-year rate for 2026 and future tax years would be 14%.</ParaText>
+              <ParaText id="8907800">In terms of administration, the Canada Revenue Agency has updated its withholdings tables and its communications with employers and pay administrators to reflect the rate reduction. Since July 1, individuals with employment income or other income subject to source deductions could have tax withheld at 14% for the second half of this year. Otherwise, individuals will realize the tax relief when they file in the spring.</ParaText>
+              <ParaText id="8907801">This change is expected to benefit nearly 22 million Canadians. Individuals who benefit would receive tax relief of up to $420 in 2026, which is the first full year where the rate will be 14%. Two-income families would receive relief of up to $840. Tax savings for 2025 are expected to be roughly half of this amount.</ParaText>
+              <ParaText id="8907802">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147895">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907803">Thank you for having us. </ParaText>
+              <ParaText id="8907804">Part 2 of the bill introduces the first-time homebuyers GST rebate. This rebate will provide a rebate of up to $50,000 for new homes priced up to $1 million, effectively amounting to a full relief of the 5% GST.</ParaText>
+              <ParaText id="8907805">For new homes priced between $1 million and $1.5 million, the maximum $50,000 rebate will be phased out in a linear manner. Namely, a rebate of $40,000 will be available on homes priced at $1.1 million; a $30,000 rebate would be available for homes priced at $1.2 million, and so forth. No rebate will be available for homes priced at $1.5 million and above.</ParaText>
+              <ParaText id="8907806">The measure will generally be available to eligible first-time homebuyers, as newly defined in the proposed amendments.</ParaText>
+              <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8907807">In general, the rebate would apply to the same types of eligible housing as those covered by the partial goods and services tax rebate for new housing: family homes, condominiums, owner-built homes and shares in co-operative housing corporations.</ParaText>
+              <ParaText id="8907808">The measure would generally apply to purchases made under contracts entered into on or after May 27, 2025. I'd like to point out that <Affiliation DbId="318631" Type="4">Minister Champagne</Affiliation> tabled the relevant notice of ways and means motion on May 27. It's a temporary measure. Contracts entered into from 2031 onward won't be eligible for this rebate.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8907809"> Part 3 contains amendments to the Greenhouse Gas Pollution Pricing Act, the GGPPA, to permanently repeal the federal fuel charge framework under part 1 of that statute. The fuel charge applied until March 2025 in eight provinces and two territories across Canada. Regulations to cease the application of the fuel charge were published in part II of the Canada Gazette on March 15 of this year.</ParaText>
+              <ParaText id="8907810">Part 3 introduces legislative amendments that would repeal the fuel charge in four phases, to ensure an orderly process for charge payers and the Canada Revenue Agency.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8907811">First, the provisions that imposed the charge were retroactively repealed on April 1 to reflect what the regulations had already done.</ParaText>
+              <ParaText id="8907812">Second, on October 1, so today, the repeal of the provisions allowing most rebates will come into force, subject to parliamentary approval.</ParaText>
+              <ParaText id="8907813">Third, on November 1, all registration requirements will be repealed. As a result, registrants will have until October 31 to file a final return regarding their obligations before April 1.</ParaText>
+              <ParaText id="8907814">Fourth, on April 1, 2035, all the provisions of part 1 and the regulations made under its enabling authority will be repealed.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8907815">This completes my opening remarks for parts 2 and 3.</ParaText>
+              <ParaText id="8907816">Mr. Chair, I don't know whether you want to turn it over to the PCO for a very quick overview of part 4.</ParaText>
+              <ParaText id="8907817">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147921">
+            <PersonSpeaking>
+              <Affiliation DbId="322824" Type="28">Cathy Hawara</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907818">Thank you for inviting me today.</ParaText>
+              <ParaText id="8907819">Part 4 of the bill seeks to clarify Parliament's intent that the activities of federal political parties involving personal information fall exclusively under federal jurisdiction and, more specifically, the Canada Elections Act. It would further clarify that this has been the case since May 31, 2000.</ParaText>
+              <ParaText id="8907820">Finally, the bill proposes new additional requirements that political parties would need to meet with respect to their policies on privacy.</ParaText>
+              <ParaText id="8907821">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13147927">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907822">We'll start our first round of questioning.</ParaText>
+              <ParaText id="8907823">Mr. Kelly, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13147929">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly (Calgary Crowfoot, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907824">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8907825">Thank you to the officials for attending today.</ParaText>
+              <ParaText id="8907826">The Parliamentary Budget Officer has just released a damning report. He delivered some fairly shocking testimony last week at the government operations committee.</ParaText>
+              <ParaText id="8907827">This bill is titled as an affordability measure for Canadians, but Canadians face a staggeringly high cost of living fuelled by inflation that is triggered by deficits.</ParaText>
+              <ParaText id="8907828">Can I confirm, then, whether the department agrees with the Parliamentary Budget Officer that the affordability measures here boil down to something under $200 a year per Canadian family? Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147938">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907829">I can speak to tax savings related to the reduction in the first personal income tax rate, which could be as high as $420 in 2026 or about half that in 2025. That's a potential savings from that measure.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13147941">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907830">If I understood you correctly, I think you said that's the absolute maximum savings.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147943">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907831">Yes, that would be the maximum.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13147945">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907832">My question was whether a more typical or average savings that an average Canadian would see would be under $200.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147946">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907833">For that, when it comes to a tax rate reduction, it will really depend on the individual circumstances, and that is specifically their level of taxable income and also what non-refundable tax credits they claim, which already reduce tax owing.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13147950">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907834">The PBO had this pegged at under $200 as an average amount. I think $190 was the number, if I understand it. Is that correct? Does that sound correct to you?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147954">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907835"> It really depends on individual circumstances. It depends on your claims of non-refundable tax credits and your average taxable income. I can't speak to whether the PBO's numbers are accurate. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13147959">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907836">Tax fairness for Canadians relies on every taxpayer paying what they owe under law. Does the department agree that all taxpayers must pay what they owe?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147967">
+            <PersonSpeaking>
+              <Affiliation DbId="279360" Type="28">Lindsay Gwyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907837">As a general statement, yes. We agree that, under the law—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13147970">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907838">Offshore tax filers have had enormous advantages in the tax system. There was a damning Auditor General report almost six years ago that pointed out that the department often gave months or even years for offshore filers to comply with requests for information, when a Canadian tax filer would automatically be assessed the full amount owed whenever there was a request for information that wasn't complied with in 30 days. </ParaText>
+              <ParaText id="8907839">Is that still the practice at the CRA?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147978">
+            <PersonSpeaking>
+              <Affiliation DbId="279360" Type="28">Lindsay Gwyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907840">I'm at the Department of Finance, so I can't really speak to the CRA's practice— </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13147981">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907841">Perhaps the CRA officials who are here could comment on that. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147984">
+            <PersonSpeaking>
+              <Affiliation DbId="279360" Type="28">Lindsay Gwyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907842">Maybe the question is how our information requests are treated for non-residents versus Canadian residents. Under the law, there's no different law for someone who is offshore versus— </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13147988">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907843">The Auditor General identified that the practice of the CRA was to give additional time for compliance, months or years, and, in fact, often write off or rescind a request for information when dealing with a complex offshore filer, whereas for a domestic filer with a simple return, if they don't give the information that's requested by the CRA, the CRA would just assess the tax amount in question. </ParaText>
+              <ParaText id="8907844">Is that still the current practice of the CRA?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13147994">
+            <PersonSpeaking>
+              <Affiliation DbId="309115" Type="28">Isabelle Brault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907845">Although the question does not relate to Bill <Document DbId="13539746" Type="3">C-4</Document> or its provisions, I can confirm that the CRA has addressed the recommendations of the Auditor General, and we have clarified the timelines for information requests for non-residents. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13147998">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907846">I'd like it if you could get back to the committee if you have any way that we can show or document how the timelines have changed since that Auditor General's report. </ParaText>
+              <ParaText id="8907847">Bill <Document DbId="13539746" Type="3">C-4</Document> is an affordability measure. Tax fairness is important to Canadians. Individual Canadians pay a lot of income tax and expect tax fairness. </ParaText>
+              <ParaText id="8907848">We have seen the use of tax havens by businesses, including Brookfield, the company the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> chaired until recently, which set up funds in offshore tax havens—Bermuda and the Cayman Islands. </ParaText>
+              <ParaText id="8907849">Will the tax collection measures of this government capture these offshore filers and ensure that businesses are not able to avoid paying Canadian taxes?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148003">
+            <PersonSpeaking>
+              <Affiliation DbId="279360" Type="28">Lindsay Gwyer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907850">There's nothing in this bill that speaks to offshore taxes or collections. That is something the Department of Finance is continually working on. There have been measures announced in recent years to implement rules that deal with offshore tax, but we're here to speak about the measures in <Document DbId="13539746" Type="3">C-4</Document>, so we don't have the people here who would be best positioned to speak to those other things that have been proposed over recent years. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148006">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907851">Thank you. That's time. </ParaText>
+              <ParaText id="8907852">If the witnesses don't have answers for things today, they can always submit them afterwards. </ParaText>
+              <ParaText id="8907853">We are moving into the next round. We have Jake Sawatzky for six minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13148012">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky (New Westminster—Burnaby—Maillardville, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907854">Thank you, Chair. </ParaText>
+              <ParaText id="8907855">Thank you to all the witnesses for coming in today. We appreciate your time. </ParaText>
+              <ParaText id="8907856">Young Canadians often have difficulty getting into the housing market. Who exactly is eligible for the tax relief when it comes to houses? Is this legislation mainly targeted towards young people?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148016">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907857">It's not targeted to young people per se, but it is targeted to first-time homebuyers who, on average, tend to be younger Canadians. The people who would qualify as a first-time homebuyer have to be Canadian citizens or permanent residents. They have to be at least 18, and they have to, when they take possession of the home, not have owned a home in that year or any of the previous four years. Their spouse or common-law partner also could not have owned a home in that year or the previous four years.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148024">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907858">Thank you.</ParaText>
+              <ParaText id="8907859">Could you elaborate on why it is for some homebuyers who haven't owned a home in the last four years. Could this possibly exclude younger families, who might have had to sell due to financial hardship but still face affordability pressures?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148030">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907860">The four-plus year marker was chosen because it's consistent with other programs under the Income Tax Act that deal with new housing. The first home savings account, for example, and the homebuyers' plan have a similar time test. This also limits the amount of time the CRA has to look back, in terms of how long it is since somebody's owned a home.</ParaText>
+              <ParaText id="8907861">To your question as to whether it ought to be shorter, again, we're striving for consistency with the other definitions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148037">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907862">Thank you.</ParaText>
+              <ParaText id="8907863">The GST stops at $1.5 million. In high-cost markets like Vancouver or Toronto, some starter homes are actually above this threshold. Is it possible that this policy might unfairly leave young Canadians in certain regions with higher prices behind?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148039">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907864">The $1-million threshold actually covers over 97% of homes purchased by first-time homebuyers. There are only about less than 3% that are above the $1-million mark. That extra buffer from $1 million to $1.5 million, where you get partial relief, was introduced in recognition of the fact that there are those markets like Vancouver and Toronto where prices are higher.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148043">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907865">Thank you.</ParaText>
+              <ParaText id="8907866">Coming back to affordability in a broader sense, to ensure affordability, is it possible that this might just be absorbed into higher developer profits? How can we make sure that this is passed through into affordability rather than inflating prices?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148047">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907867">One of the key advantages of doing a first-time homebuyer rebate, which is only available to a certain portion of the market, is that, if first-time homebuyers prefer, they could always not say they're a first-time homebuyer, negotiate a price on their home and claim the rebate directly with the CRA. However, if they're comfortable assigning the rebate to the builder, they can do so, perhaps after negotiating a price on the home.</ParaText>
+              <ParaText id="8907868">We're fairly confident, given the design of the measure and the fact that first-time homebuyers don't have to discuss the availability of the rebate with the builder, that most, if not all, of the relief should go to the first-time homebuyer. There are other designs that can be considered where that would be a bit more of a risk, but in this instance we're fairly confident that the relief will go where it's intended.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148053">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907869">Thank you.</ParaText>
+              <ParaText id="8907870">I'm wondering if you might be able to give any projections as to how many additional young Canadians will be able to buy a home as a result of this rebate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148058">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907871">We've estimated that the first-time homebuyer rebate will apply to 47,000 new homes. We estimate that first-time homebuyers represent about 30% of the market.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148062">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907872">Thanks.</ParaText>
+              <ParaText id="8907873">Given that this also applies to newbuilds, what does the government expect its effect will be on supply for when we're building homes young people can afford?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148067">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907874">I'm sorry, can you say your question again?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148071">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907875">This measure only applies to newbuilds. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148074">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907876">Yes, the GST only applies to newbuilds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148077">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907877">What effect will that have on the supply of houses?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148080">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907878">The relief is directed towards newbuilds, which, of course, have GST. GST doesn't apply to existing housing for the most part. Because it's directed at new homes, this incentive, which is fairly generous, is intended to encourage first-time homebuyers to consider a new home rather than an existing home. That should increase demand for the new home market. There should be a supply response from builders, who will then construct new homes to meet that additional demand.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13148089">
+            <PersonSpeaking>
+              <Affiliation DbId="319899" Type="47">Jake Sawatzky</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907879">Thank you.</ParaText>
+              <ParaText id="8907880">We've been talking a bit about buying houses, but, of course, many people are renting as well. A lot of young Canadians are not yet in a position to buy. How would this measure help Canadians who are paying rising rents and can't realistically afford a down payment?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148094">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907881"> This measure doesn't directly help people who are renting, in the sense that the benefit flows to the people who are buying homes, but it could indirectly help people who are renting to the extent that it increases the supply of homes more generally.</ParaText>
+              <ParaText id="8907882"> More importantly, a huge relief measure was provided back in 2023, when the government introduced the purpose-built rental rebate, which provided a 100% relief on the GST for purpose-built rentals. That should help spur the construction of more rental properties. Again, more supply generally results in lower rents.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148105">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907883">That's your time.</ParaText>
+              <ParaText id="8907884">Next, we have Mr. Garon.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148107">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon (Mirabel, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907885">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8907886">Officials, thank you for being here today.</ParaText>
+              <ParaText id="8907887">I'm going to start by asking the Department of Finance officials a question about carbon pricing, which I'm sure they expect to be asked.</ParaText>
+              <ParaText id="8907888">During the election campaign, there was an announcement of a Bill <Document DbId="13539746" Type="3">C‑4</Document> measure on eliminating the carbon tax for consumers. My understanding is that carbon tax rebates were paid in advance.</ParaText>
+              <ParaText id="8907889">Was the last payment, which was made a few days before the election, funded from carbon tax payments that had already been made in the provinces where it applied, or was that money taken out of the consolidated revenue fund?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148127">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907890">Thank you for the question.</ParaText>
+              <ParaText id="8907891">I can start answering the question, and Ms. Gormanns can then add details, if necessary.</ParaText>
+              <ParaText id="8907892">There are two things to note. First, the amounts collected under the fuel charge and the rebates that were made, including the climate action incentive payments, are always reconciled after the payments have been made. In all cases of payments in the history—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148136">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907893">I'm going to interrupt you, because two minutes have gone by and you aren't answering the question.</ParaText>
+              <ParaText id="8907894">According to a document from the Department of Finance, based on the policy, “in order to return fuel charge proceeds in advance of their collection for a quarter, CAI payments would be delivered at the beginning of each quarter.”</ParaText>
+              <ParaText id="8907895">Was the tax refunded before it was collected, yes or no? I'm waiting for a two or three-letter word, not a 14‑sentence explanation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148143">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907896">What I was going to say is that, yes, it always came from the consolidated revenue fund—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148146">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907897">Thank you very much.</ParaText>
+              <ParaText id="8907898">I'll move on to my next question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148149">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907899">—but there was a reconciliation later on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148151">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907900">I'm not interested in the accounting part. The Liberals stole $814 million from Quebeckers, who contributed to the rebates offered to taxpayers in the provinces concerned. It's theft, and it's vote buying. I wanted competent officials—thank you, by the way, because you are one—to answer that.</ParaText>
+              <ParaText id="8907901">My next questions are about the goods and services tax, or GST, rebate for first-time homebuyers. We support the spirit of this policy. It's a good policy. However, when people in Mirabel or elsewhere in Quebec call the CRA to say that they've bought their first home and are asking for their reimbursement, they're told that they won't be getting it right away. There are examples of this all over Quebec. However, the government is telling us that the measure is in effect and that, since the elimination of the consumer carbon tax and the adoption of the ways and means motion, tax tables have changed. That was immediate.</ParaText>
+              <ParaText id="8907902">How is it that a constituent of mine who is eligible for a rebate is told by the CRA that it has no idea what they're talking about and that the rebate isn't ready?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148167">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907903">To implement the measure on new housing for first-time buyers, the reimbursement authorities are asking for the bill before you to receive royal assent.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148172">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907904">The ways and means motion isn't enough, then.</ParaText>
+              <ParaText id="8907905">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148174">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907906">A ways and means motion isn't enough to authorize payments from the consolidated revenue fund.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13148177">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907907">When the government tells us that this is already in effect because the ways and means motion has been adopted, that's incorrect.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148180">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907908">However, the application will be retroactive to May 27, 2025.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148182">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907909">Will it be paid back with interest?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148183">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907910">I don't know if the agency—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148185">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907911">Constituents in my riding who have bought a home and are eligible for a rebate are being told that they have to wait before receiving it.</ParaText>
+              <ParaText id="8907912">Since the government is saying that the measure, which was announced in March, will apply retroactively, will interest be paid on that rebate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148190">
+            <PersonSpeaking>
+              <Affiliation DbId="309115" Type="28">Isabelle Brault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907913">I thank the member for his question.</ParaText>
+              <ParaText id="8907914">I'd like to provide some additional information from the agency.</ParaText>
+              <ParaText id="8907915">The processing will be the same regardless of the tax measure tabled in Parliament by way of a notice of ways and means motion. The notice of ways and means motion, in and of itself, doesn't give us the authority to make a reimbursement or make a payment. We have to wait for the bill to receive royal assent. The amount will be paid according to the calculations set out in the act that comes into force. The eligibility date has been extended to May 27, 2025.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148200">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907916">I understand, and I'm satisfied with your answer. Thank you very much.</ParaText>
+              <ParaText id="8907917">My last question is about reducing the personal income tax rate in the first tax bracket.</ParaText>
+              <ParaText id="8907918">That obviously affects the value of refunds for certain non-refundable tax credits, particularly for people with disabilities.</ParaText>
+              <ParaText id="8907919">Some of these people have reached out to us about this. According to them, the tax cut also reduces the tax credits they receive because of their disability. We checked the math related to their situation.</ParaText>
+              <ParaText id="8907920">Let's keep in mind that this is about equity. The objective is to use tax measures to deliver a service to the middle class or to people who are a little poorer.</ParaText>
+              <ParaText id="8907921">Has the Department of Finance considered ways to help these people?</ParaText>
+              <ParaText id="8907922">Has any thought been given to measures aimed at the most affected groups? I'm talking about people with disabilities, but this also applies to many non-refundable tax credits that are calculated for individuals in the first tax bracket.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148218">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907923"> The Department of Finance is aware of the concerns from these stakeholders. We are conducting our analysis and considering options.</ParaText>
+              <ParaText id="8907924"> I want to provide a quick background on exactly what's happening here. The first tax rate is linked to the non-refundable tax credit rate, so when the first tax rate goes down or up, the same thing happens in parallel with the credit rate. The purpose of the linking is to offset the tax on the income that is used to pay for whatever expense is related to the tax credit the person is claiming. We use the lowest rate for that, because everyone who pays tax, irrespective of what bracket they're in, will pay the lowest rate on at least a portion of their income, so it's a principle of fairness in the system. It also ensures that people claiming similar credit amounts receive the same tax relief, irrespective of their level of income. Consequently, that does mean, for anyone who claims a non-refundable tax credit in 2025, that rate will go from 15% to 14.5%, and in 2026 and future years, to 14%.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148237">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907925">Thank you. That's the time.</ParaText>
+              <ParaText id="8907926">We're moving to our second round.</ParaText>
+              <ParaText id="8907927">First, we have Mrs. Cobena for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148241">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena (Newmarket—Aurora, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907928">Can you tell the committee how many homes have been built in Canada over the last 12 months?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148242">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907929">Off the top of my head, I don't know. I'm assuming it's in the high two hundred thousands.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148244">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907930">I'm sorry. How many?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148247">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907931">Off the top of my head, it typically runs somewhere between 200,000 and the high two hundred thousands in a given year. I don't know what the specific number is for these last 12 months.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148248">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907932">Just in the past 12 months, is it 200,000?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148250">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907933">As I said, I don't have the specific figure for the past 12 months, but generally it's around, let's say, 250,000 per year.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148254">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907934">Of these new homes built, how many are less than $1 million and being purchased by first-time homebuyers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148257">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907935">I have a chart for that. We're not looking at the 250,000, just so you know, because a certain portion of housing starts are purpose-built rental units, and those aren't included in the calculation for the purposes of this rebate. Among the ones that are.... Oh, actually, I don't have the total here. I can get that to you, but the idea is that 97% or so are under $1 million, and 3% are between $1 million and $1.5 million.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13148265">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907936">Given that the homes above $1 million are not eligible for the 100% GST rebate, would you agree, then, that the majority of first-time homebuyers in large urban centres like Toronto, Vancouver and Montreal would not actually benefit from this rebate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148274">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907937">No, I don't think that's true. First-time homebuyers in Vancouver and Toronto might not be buying single-family homes: They're probably buying newly built condos when they're buying a newly built home. In general, even first-time homebuyers in the more expensive markets are expected to benefit from the rebate.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148280">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907938"> Has there been a statistically measurable increase in housing starts that can be attributed directly to the GST rebate policy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148287">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907939">We don't have figures like that, because when you introduce a measure like this amongst many other measures that are being introduced, not just tax measures but other types of federal measures, and not just at the federal level but also at the provincial and municipal levels, and then a variety of factors that have nothing to do with the government at all, such as interest rates, economic conditions, the availability of labour, costs of inputs, etc., those all impact housing prices and, in turn, demand. It's very difficult, if not impossible, to put a precise estimate on the number of newbuilds that will be created as a result of this one singular measure. </ParaText>
+              <ParaText id="8907940">However, directionally, we expect it to increase demand for new homes by first-time homebuyers. That increased demand, if those new homebuyers are encouraged to buy a new home rather than an older home that has no GST on it, would be expected to generate a supply response from builders. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148296">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907941">On the flip side, has there been any observable reduction in average home prices or rents since this rebate was introduced?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148302">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907942">We wouldn't expect a reduction in the price of homes as a result of this rebate, because the rebate is claimed directly by the purchaser of the home. As I said, the purchasers don't even have to disclose if they're first-time homebuyers to the builder. The builder is going to charge what the builder is going to charge, whatever the market will bear. They can either assign that rebate to the builder and have it reflected in the contract, or they will be able to claim it directly with the CRA. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148311">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907943">Can you confirm whether the CRA can legally administer or apply a tax change before Parliament has passed the enabling legislation?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148313">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907944">I'd like to defer that to my CRA colleagues. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148318">
+            <PersonSpeaking>
+              <Affiliation DbId="309115" Type="28">Isabelle Brault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907945">As I mentioned previously, in the case of a rebate or a refund, the CRA must wait for royal assent of the enabling legislation. The CRA is not able to speak to the impact of the measure, nor to its application, since it is still being considered by Parliament. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148326">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907946">In the case of the digital sales tax, the CRA began collecting the tax before the legislation received royal assent.</ParaText>
+              <ParaText id="8907947">Can you confirm that the government had to refund those collections later because the law wasn't yet in force?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148334">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907948">Make it a 10-second answer, please. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148337">
+            <PersonSpeaking>
+              <Affiliation DbId="309115" Type="28">Isabelle Brault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907949">Refunds require royal assent, so those have not taken place. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148339">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907950">Can I clarify my question?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148343">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907951">That's time. </ParaText>
+              <ParaText id="8907952">Next, we have Mr. Lavoie. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148345">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie (Beauport—Limoilou, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907953">I'd like to thank the witnesses for being here today. I'm very happy about that.</ParaText>
+              <ParaText id="8907954">Given my professional background, I find it very interesting to be able to question the witnesses. I worked in banks for 20 years, so I'm familiar with the issues of the GST and purchasing a first home. When I started my career, my job was to look at mortgages, so I know what young families can go through in that kind of situation.</ParaText>
+              <ParaText id="8907955">I've rarely seen such a direct measure. It's a GST rebate of up to $50,000 for the purchase of a first home. We all know that buying a house is financial leverage, if I can put it that way, for the future of young families, so I think the government is doing the right thing. Earlier, I heard that a large portion of the market is targeted by this measure, 32%, if I'm not mistaken. I find that interesting.</ParaText>
+              <ParaText id="8907956">I'm going to come back to what my colleague was talking about earlier regarding the implementation of the GST-related measure.</ParaText>
+              <ParaText id="8907957">Basically, this measure has been in effect since May 27, 2025, hasn't it?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148362">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907958">Once the measure is approved by Parliament, the agency will indeed be able to issue reimbursements for eligible contracts that were entered into on or after May 27, 2025.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148366">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907959">So it's as of May 27, 2025.</ParaText>
+              <ParaText id="8907960">As I understand it, the banks take this into account for the contracts they currently enter into. I worked in banks for 20 years, and I know they take that into account.</ParaText>
+              <ParaText id="8907961">That said, we are caught in a kind of administrative mess. However, since May 27, 2025, the issue has been resolved for first-time homebuyers who have taken steps to get mortgages, and they will be able to take advantage of this leverage.</ParaText>
+              <ParaText id="8907962">Is our understanding the same thing on this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148372">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907963">Bank loan arrangements vary from one first-time homebuyer to another, but—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148377">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907964">I can confirm that they have been able to take advantage of it since May 27, 2025 and that no one is penalized. Since that date, a first-time homebuyer who has signed a contract can already benefit from this rebate of up to $50,000. As for the rest, like the issue of delays, it's an administrative mess. I've worked in banks long enough to know that. This measure is very relevant at this time.</ParaText>
+              <ParaText id="8907965">My next question is about the middle-class personal income tax cut. We all know what's going on south of the border, and we can see the instability that's creating.</ParaText>
+              <ParaText id="8907966">Let's take the example of tax cuts. In the current context, could other unforeseen events occur, which would mean that the planned tax cuts would not have the desired effect for Canadians?</ParaText>
+              <ParaText id="8907967">Are there things we may not have seen that could have an impact on the measures you're presenting to us today?</ParaText>
+              <ParaText id="8907968">I'll allow you to indulge in your creativity, since that's what our neighbour to the south has been doing from the start.</ParaText>
+              <ParaText id="8907969">Several witnesses can answer my question, if they wish.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148393">
+            <PersonSpeaking>
+              <Affiliation DbId="309115" Type="28">Isabelle Brault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907970">Thank you for the question.</ParaText>
+              <ParaText id="8907971">Mr. Lavoie, I'll answer part of your question.</ParaText>
+              <ParaText id="8907972">As for the announced tax cut from 15% to 14%, it went into effect on July 1, which means that the tax rate for 2025 will be 14.5%. For this measure to take effect as soon as possible, the agency contacted the Canadian Payments Association so that it could adjust its table of source deductions. As of July, employers and their members will be able to apply a withholding tax rate that corresponds to the new rate.</ParaText>
+              <ParaText id="8907973">Obviously, for people who have changed jobs or for whom the change hasn't been made, we will make the necessary adjustments in early 2026, once those people have filed their tax returns for 2025. The tax rate will then be 14.5%.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148412">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907974">What about the second part of my question?</ParaText>
+              <ParaText id="8907975">Are there any unforeseeable events or decisions right now with respect to our American neighbours or anything else that could affect what the government has done to help families?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148419">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907976">Thank you for the question.</ParaText>
+              <ParaText id="8907977">It's all hypothetical. With respect to part 2 of the bill, I don't see any impact, as the key parameters are already set out in the legislation.</ParaText>
+              <ParaText id="8907978">With respect to part 3, the tax ceased to apply anyway as of April 1.</ParaText>
+              <ParaText id="8907979">As for part 4, I don't think there will be any repercussions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148426">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907980">So it's set; the bill will help people.</ParaText>
+              <ParaText id="8907981">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148429">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907982">Passing all four parts of the bill and receiving royal assent would allow—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148431">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907983">As long as we have it, that's fine.</ParaText>
+              <ParaText id="8907984">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13148435">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907985"> That's time. Thank you.</ParaText>
+              <ParaText id="8907986">Next, we have Mr. Garon for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148440">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907987">I haven't worked in banks for 20 years, but I've been a member of Parliament for four. People are calling my office to say that the CRA is saying that the GST rebate isn't available.</ParaText>
+              <ParaText id="8907988">For the Liberals, like Mr. Lavoie, it's no big deal if people are waiting for their rebates, because the bank will lend them money and they'll pay interest like a bunch of clowns. They tell that to the people of Mirabel; they tell it to my constituents. Congratulations to the Liberals.</ParaText>
+              <ParaText id="8907989">Here's what happened. The government triggered an election before making a budget, because there was an economic emergency. The Liberals came back to power, but they didn't prepare a budget. They promised countless things during the election campaign without doing a budget exercise, so they introduced Bill <Document DbId="13539746" Type="3">C‑4</Document>, in which they included a few budget measures.</ParaText>
+              <ParaText id="8907990">However, today we learned—and I thank the CRA for telling us this—that the ways and means motion ultimately means that our constituents are unable to assert their rights. We would have needed a budget before the summer for the rebates to take place.</ParaText>
+              <ParaText id="8907991">Can a representative of your services tell me how many Canadians and Quebeckers are currently eligible for the GST rebate for the purchase of a new home, but haven't yet received it from the government?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148472">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907992">I think that is actually a question that could be directed toward the CRA, but I'm not sure they would have those numbers available yet.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148478">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907993">I know. You said earlier that you didn't have the answer. We're not going to waste time on this.</ParaText>
+              <ParaText id="8907994">The CRA doesn't know the number of people who are eligible, because it isn't yet managing the rebate file.</ParaText>
+              <ParaText id="8907995">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148485">
+            <PersonSpeaking>
+              <Affiliation DbId="309115" Type="28">Isabelle Brault</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907996">Thank you for the question.</ParaText>
+              <ParaText id="8907997">People will have a set period of time to apply. In my opinion, it's a false question to ask whether the government missed the boat.</ParaText>
+              <ParaText id="8907998">I understand that your questions are about the government's approach. You can send them to the government.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148490">
+            <PersonSpeaking>
+              <Affiliation DbId="299741" Type="28">Luisa Rizzo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8907999">Mr. Garon, I would like to add something.</ParaText>
+              <ParaText id="8908000">To date, the CRA has received only eight claims.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148492">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908001">Okay. I appreciate that.</ParaText>
+              <ParaText id="8908002">That means that people understood that they had to wait.</ParaText>
+              <ParaText id="8908003">Mr. Chair, I find it rather odd that public servants don't currently have the data they need to tell us who is waiting for a rebate—and rightly so—but a Liberal banker does. Personally, I'm surprised.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13148503">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908004"> That's time.</ParaText>
+              <ParaText id="8908005">We're moving into the third round now. We have Mr. Lefebvre for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148506">
+            <PersonSpeaking>
+              <Affiliation DbId="320189" Type="47">Eric Lefebvre (Richmond—Arthabaska, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908006">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908007">Thank you all for coming to answer our questions, which are not always easy.</ParaText>
+              <ParaText id="8908008">We're here to study Bill <Document DbId="13539746" Type="3">C‑4</Document>, which essentially reiterates three commitments from the Conservative Party of Canada's election platform: lowering income taxes, rebating the GST on new homes and removing the carbon tax for consumers. The difference is that we wanted to go further. The big difference was also about expenses. For every new dollar spent, we would get a dollar in savings.</ParaText>
+              <ParaText id="8908009">What will happen if the government continues to run deficits at the rate of those we'll see in a few weeks?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148518">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908010">Mr. Chair, that's outside the scope of Bill <Document DbId="13539746" Type="3">C‑4</Document>.</ParaText>
+              <ParaText id="8908011">We can forward it to the government, but I don't think the officials around the table can answer it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148521">
+            <PersonSpeaking>
+              <Affiliation DbId="320189" Type="47">Eric Lefebvre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908012">Mr. Chair, I have one more quick question.</ParaText>
+              <ParaText id="8908013">Bill <Document DbId="13539746" Type="3">C‑4</Document> provides for reduced revenues.</ParaText>
+              <ParaText id="8908014">Do we think we can find savings in the public service, savings that would enable us to pay for these tax cuts?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148523">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908015">Mr. Chair, once again, this is a question that goes beyond the scope of Bill <Document DbId="13539746" Type="3">C‑4</Document>. It contains four parts, four fairly well-defined measures.</ParaText>
+              <ParaText id="8908016">However, I can remind you that <Affiliation DbId="318631" Type="4">Minister Champagne</Affiliation> will be tabling a budget in the House of Commons on November 4. That's when other decisions could follow.</ParaText>
+              <ParaText id="8908017">However, I don't think the officials around the table will be able to find an answer to the member's question in Bill <Document DbId="13539746" Type="3">C‑4</Document>.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148525">
+            <PersonSpeaking>
+              <Affiliation DbId="320189" Type="47">Eric Lefebvre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908018">How do you think tax cuts could stimulate economic growth? I hope to have more success with this.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148528">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908019">As mentioned, lowering the first tax rate will provide people with a bit of tax relief. They will pay less than what they would have been paying under the 15% rate.</ParaText>
+              <ParaText id="8908020">In terms of economic impacts, that really depends on how people choose to use their savings, whether they are for additional savings or additional consumption. These are the two ways that economic growth could be stimulated. We don't have any particular projections on exactly what people's behavioural response to the rate change would be, but generally speaking these are the channels through which there would be economic impacts.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148538">
+            <PersonSpeaking>
+              <Affiliation DbId="322828" Type="28">Nina Gormanns</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908021">I'd like to add a clarification.</ParaText>
+              <ParaText id="8908022">Since the fuel charge was already removed through a regulation in March, there is no incremental impact on the economy. However, we estimated that this will increase gross domestic product, or GDP, by 0.5% in 2030.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148542">
+            <PersonSpeaking>
+              <Affiliation DbId="320189" Type="47">Eric Lefebvre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908023">Thank you.</ParaText>
+              <ParaText id="8908024">I would like to digress for a moment to talk about the Parliamentary Budget Officer.</ParaText>
+              <ParaText id="8908025">He told us that the most important fiscal anchor was the debt-to-GDP ratio, that the government was not on track to meet the fiscal objective, that it was the first time in 30 years that he had seen the projected ratio increase in this way and that the path we were currently on was not sustainable. He concluded by saying that everyone should be concerned.</ParaText>
+              <ParaText id="8908026">I, for one, am concerned.</ParaText>
+              <ParaText id="8908027">My question for each of you is: Are you concerned, yes or no?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148549">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908028">Mr. Chair, I would like to respond. We're here as Government of Canada officials to provide technical details and explain the policies put forward by the government. We're not allowed to express our opinions when we're testifying before a committee.</ParaText>
+              <ParaText id="8908029">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13148555">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908030"> That's time.</ParaText>
+              <ParaText id="8908031">Next, we have Mr. Turnbull.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148557">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull (Whitby, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908032">Thanks, Chair.</ParaText>
+              <ParaText id="8908033"> Thanks to all the officials for being here today. I appreciate the work that you do day in and day out.</ParaText>
+              <ParaText id="8908034">I understand that there are political questions that you can't answer, but in terms of the details of this bill, I'd like to ask Ms. Rizzo this. The GST rebate is not in effect yet; it needs royal assent. That's what we heard from you. Can you confirm that?</ParaText>
+              <ParaText id="8908035">I think it was Ms. Rizzo. I'm sorry if I have—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148563">
+            <PersonSpeaking>
+              <Affiliation DbId="299741" Type="28">Luisa Rizzo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908036">I think it was my counterpart, Madame Brault, but yes, that's correct.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148566">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908037">Obviously you don't have the number of people who have applied in Quebec, because it's not in effect yet.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148567">
+            <PersonSpeaking>
+              <Affiliation DbId="299741" Type="28">Luisa Rizzo</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908038">The other thing you have to remember is that, with the residents in Quebec, it's administered by Revenu Québec, not the Canada Revenue Agency.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148571">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908039">Let me clarify the GST rebate. We heard that it's approximately $50,000 on a home of $1 million or less. That's the equivalent value for cost savings.</ParaText>
+              <ParaText id="8908040">I also want to clarify in terms of when the cut-off is set. If you prepurchase a condo or home that's not been built yet, are you still eligible to get the GST rebate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148577">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908041">If you entered into an agreement on or after May 27, you're eligible regardless of the closing date—the closing date has to occur within a period of time, but you have years. Really, it's when you entered into the agreement. It doesn't matter that it's a prepurchase or not.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148580">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908042">We also heard from testimony previously that 97% of new home purchases were under $1 million, I think. Did I get that right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148583">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908043">Yes, it's a little over 97%.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148586">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908044">That's a significant amount. I wouldn't have necessarily expected that, but that was helpful.</ParaText>
+              <ParaText id="8908045">You indicated that there would be a demand response or that you expected a demand response. I'm trying to understand how this measure fits within a number of other measures that were brought forward by the previous government, the tax-free savings account, the cut to mortgage insurance, which I think was 25%, 30-year mortgages, the homebuyers' plan, which I think allows you to take a $35,000 withdrawal out of your RRSP to purchase a first home, and the first-time homebuyer's tax credit.</ParaText>
+              <ParaText id="8908046">Have we done an analysis of how all these things add up for a first-time homebuyer? It seems to me that there's quite a significant number of cost savings. Obviously, a 30-year mortgage doesn't really save you money, but it does on a monthly payment basis, for sure. Have we done an analysis of how those in combination would amount to a significant amount of support? How significant would that be?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148602">
+            <PersonSpeaking>
+              <Affiliation DbId="289397" Type="28">Amanda Riddell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908047">It is very significant. We did look at it, but unfortunately I don't have the number right in front of me. I could provide you with that number and follow up, if you would like. The largest portion obviously comes from the first-time homebuyer rebate, because it can provide up to $50,000. I would say that the next in line would be the first home savings account, and the homebuyers' plan would be after that in terms of savings.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148607">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908048">The mortgage insurance is pretty significant, with a 25% reduction in mortgage insurance. I'm not sure exactly how much that is, but I seem to recall that it's around $10,000 or more. At least that was my impression, so I would love some clarity on that.</ParaText>
+              <ParaText id="8908049">Maybe I'll just say that I've had numerous conversations with individuals concerned about their taxable income being reduced when claiming the disability tax credit, so I'm sure that recipients want us to address that issue. </ParaText>
+              <ParaText id="8908050">Ms. Bartucci, I think you said that the department is looking at a solution for this. I think we all need to take that issue seriously. I know I do.</ParaText>
+              <ParaText id="8908051">Can you comment briefly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148624">
+            <PersonSpeaking>
+              <Affiliation DbId="309682" Type="28">Stefania Bartucci</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908052">Sure. Basically, we've heard the same concerns from stakeholders in the disability community. We're considering that, doing our analysis and proposing options.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148628">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908053">Hopefully there are options to address that issue, because I think we can all agree that individuals with limited income who get that disability tax credit can't afford to lose any of that precious income.</ParaText>
+              <ParaText id="8908054">Last, the federal fuel charge didn't apply to Quebec. Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148634">
+            <PersonSpeaking>
+              <Affiliation DbId="322825" Type="28">Gervais Coulombe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908055"> Yes, that is correct.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148637">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908056">B.C. and Quebec were the only provinces, as I understand it, that had their own system and were not federally backstopped.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148641">
+            <PersonSpeaking>
+              <Affiliation DbId="322828" Type="28">Nina Gormanns</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908057">The third jurisdiction was the Northwest Territories, which had its own carbon tax.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148647">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908058">Thank you for that.</ParaText>
+              <ParaText id="8908059">How could the money collected by the Province of Quebec be owed somehow by the federal government? Does that make sense to you? It doesn't make sense to me.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148654">
+            <PersonSpeaking>
+              <Affiliation DbId="322828" Type="28">Nina Gormanns</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908060">That is a good question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13148659">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908061"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148662">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908062">That's it.</ParaText>
+              <ParaText id="8908063">I want to thank the witnesses.</ParaText>
+              <ParaText id="8908064">We will now suspend for a few minutes to switch over to our next panel.</ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148778">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908065"> Welcome back, everybody. We're resuming the meeting. </ParaText>
+              <ParaText id="8908066">I'd like to welcome our witnesses for the second panel.</ParaText>
+              <ParaText id="8908067">We have, as an individual, Kim Moody, fellow chartered professional accountant. We also have Isabelle Demers, here in person, who is the vice-president of development, public affairs and innovation strategic. We also have Mike Moffatt, who is a founding director. All virtual witnesses have conducted a mandatory witness onboarding test.</ParaText>
+              <ParaText id="8908068">I'd like to make a few comments for the benefit of the new witnesses. </ParaText>
+              <ParaText id="8908069">Please wait until I recognize you by name before speaking. For those participating by video conference, click on the microphone icon to activate your mic. Please mute your mic when you are not speaking. For those on Zoom, at the bottom of your screen you can select the appropriate channel for interpretation: floor, English or French. For those in the room, you can use the earpiece and select the desired channel.</ParaText>
+              <ParaText id="8908070">This is a reminder that all comments should be addressed through the chair.</ParaText>
+              <ParaText id="8908071">You will have five minutes for your opening remarks, after which we will open the floor to questions.</ParaText>
+              <ParaText id="8908072">We'll start with Kim Moody for five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148794">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody (Fellow Chartered Professional Accountant, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908073">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908074">Good afternoon, committee members. My name is Kim Moody. I am appreciative of the opportunity to speak before you today. I have a long history of serving the Canadian tax profession with a variety of significant leadership positions, and I continue to do that. I'm a prolific writer on taxation matters, including writing a weekly column for the Financial Post. </ParaText>
+              <ParaText id="8908075">Today I'd like to briefly comment on whether or not Bill <Document DbId="13539746" Type="3">C-4</Document> lives up to its title, “An Act respecting certain affordability measures for Canadians and another measure”, and offer some suggestions for improvement. Before I do, all committee members and witnesses who have appeared before this committee obviously know that Bill C-4 is not yet law. That's why we're here to discuss and allow the parliamentary process to run its course. If you believe the messaging from the government, this bill is indeed law with respect to the proposed 1% tax cut for the lowest personal tax bracket. In my view, such messaging is misleading. It's only possible because of the CRA's current policy on the provisional administration of tax proposals, which I wrote about in one of my recent articles.</ParaText>
+              <ParaText id="8908076">Canadians' overall financial literacy needs to improve in order for them to make good financial decisions and be better informed come election time. Trumpeting that the proposed 1% tax cut is law when it is not is misleading politics and does nothing to advance the important objective of improving Canadians' financial literacy. The CRA's policy should not be used to suggest that such provisions are law until they are. Anything less undermines our parliamentary process. In my view, this needs to change.</ParaText>
+              <ParaText id="8908077">With respect to the simple question of whether or not the bill lives up to its title, the short answer is “no”. While the government states that the maximum tax savings for the 1% tax cut is $400 per person, the more important statistic is what the average savings will be for Canadians. The Parliamentary Budget Officer stated in the June 18, 2025, costing note that the rate change will save tax filers “an average of $110” in the next year and gradually increase to an average of $200.</ParaText>
+              <ParaText id="8908078">Let's be generous and say that it is $200. For average Canadians, that's 55¢ per day—less than the cost of a daily cup of coffee. To suggest that this tax cut will make a material difference in Canadians' quest to deal with affordability issues, including the millions of Canadians who already don't pay federal income tax, is silly. It won't. For some who suggest that this immaterial tax cut is tax reform, well, think again: It's not. I'll say more on that in a bit.</ParaText>
+              <ParaText id="8908079">While I think tax cuts are necessary to deal with affordability, productivity and competitiveness issues, this minuscule tax cut is not it. It needs to go much further. To balance such revenue loss, significant expenditure reduction by government needs to be completed. The proposed Conservative tax cut of 2.25% that was put forward during the recent election campaign, combined with government expenditure reductions, would have been a much more significant step in that direction.</ParaText>
+              <ParaText id="8908080">As mentioned many times in my writings, a more meaningful and critical tax cut for the country would be to eliminate the highest personal tax bracket, which was unnecessarily introduced in 2016. That introduction included messaging that asked high-income earners to pay “just a little bit more”, an offensive speaking point when one understands how much high-income earners already pay when compared with the whole of Canada. Our country's high personal tax rates stifle productivity and competitiveness. As recently reported by the Fraser Institute, Canada's top combined statutory income tax rate ranks fifth highest out of 38 OECD countries. These personal tax rates have contributed to an exodus of capital and successful Canadians leaving Canada. We need to stop this.</ParaText>
+              <ParaText id="8908081">Before I offer suggestions for improvement, I'll quickly comment on the proposed GST measures in the bill. While a GST holiday for new home purchases can assist with affordability measures, to restrict it to first-time homebuyers significantly reduces access. It's not only first-time homebuyers who are struggling with affordability matters. There are numerous reasons why existing homebuyers may desire or need to purchase a new home. Why restrict this to only first-time homebuyers?</ParaText>
+              <ParaText id="8908082">How do we improve our tax system and improve affordability for Canadians? Is it with immaterial personal tax cuts? No. It's with tax reform. As many tax practitioners who have appeared before this committee over the years have previously stated, our income tax statute is a patchwork quilt and a mess. It's tired and tattered and full of political measures, such as the prohibition of deductions on certain short-term rentals and the recent amendments to the alternative minimum tax. These are counterproductive and ineffective policies, and they contribute to the fact that our tax system is far too complex. A key objective of tax reform should be to simplify and remove obvious ineffective policies, but it should also encompass big-bang personal and corporate tax reforms that incentivize investment in Canada and make a real difference in improving affordability for average Canadians.</ParaText>
+              <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
+              <ParaText id="8908083"> I was hopeful that the tax reform task force proposed by the Conservatives during the election campaign would have been that step in the right direction. While the Liberals have proposed “an expert review of the corporate tax system”, such a proposal does not go far enough. Corporate tax revenues are approximately 17% of overall federal government revenues—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148849">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908084">Mr. Moody, that's time.</ParaText>
+              <ParaText id="8908085">You can continue your remarks once we start the questioning.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13149674">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908086">All right. No problem.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13149675">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908087">Next, we have Ms. Demers.</ParaText>
+              <ParaText id="8908088">You have five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148852">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers (Vice-President, Strategic Development, Public Affairs and Innovation, Association des professionnels de la construction et de l'habitation du Québec)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908089">All right. Thank you so much, Mr. Chair.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908090">Mr. Chair, members of the Standing Committee on Finance, on behalf of our association, thank you for having us here today as part of the study of Bill <Document DbId="13539746" Type="3">C‑4</Document>.</ParaText>
+              <ParaText id="8908091">Please note that our intervention today will be limited to the portion of the bill related to the GST rebate measures.</ParaText>
+              <ParaText id="8908092">My name is Isabelle Demers. I'm vice-president of strategic development, public affairs and innovation at the Association des professionnels de la construction et de l'habitation du Québec, or APCHQ.</ParaText>
+              <ParaText id="8908093">Founded in 1961, the APCHQ represents more than 28,000 businesses in the residential construction and renovation industry. It is the largest voluntary membership association in the construction industry in Canada.</ParaText>
+              <ParaText id="8908094">First of all, the APCHQ welcomes the introduction of Bill <Document DbId="13539746" Type="3">C‑4</Document>, one of the key measures of which, announced by the Prime Minister on March 20, is the full or partial GST rebate for first-time homebuyers under $1.5 million.</ParaText>
+              <ParaText id="8908095">This measure, which the APCHQ has been proposing for a number of years, represents a concrete step towards affordability and home ownership.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8908096">This measure has generated enthusiasm among many households aspiring to become homeowners. However, in early June, the ways and means motion announced that the GST rebate will be retroactive to May 27, 2025, and not to March 20, 2025, the day the government made the official announcement.</ParaText>
+              <ParaText id="8908097">At that time, confusion arose among many first-time homeowners. Several of them had indeed decided to take action and purchase their first homes following the government announcement. The discontent they expressed to home builders is understandable.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908098">Take Michelle, for example, a first-time homebuyer, who has lived for several years in affordable housing in a popular neighbourhood. She had to leave her apartment due to renovations and a rent increase. The retroactive change in the effective date for GST rebates will cost her more than $10,000 in additional expenses.</ParaText>
+              <ParaText id="8908099">Or take Olivier, a first-time homebuyer who was informed of the announced measures, but he signed his contract on May 27, 2025, the deadline. The change in the effective date will cost him more than $25,000.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8908100">The APCHQ, like contractors and buyers, is asking why May 27 was chosen as the start date for the GST rebate, and if it is not retroactive, why it was announced on March 28. The date appears to have been set arbitrarily, without any clear justification. Therefore, the APCHQ is calling on members of Parliament to move the effective date of the measure to March 20, 2025, the official date of the announcement, rather than May 27. The legislative amendment would restore fairness among buyers and honour the original intent of the measure.</ParaText>
+              <ParaText id="8908101">Conversely, and all things being relative, the change would have a minimal financial impact on the government. Based on an estimate from the Parliamentary Budget Officer, the APCHQ estimates that applying the GST rebate to purchases made between March 20 and May 27, 2025, would result in a cost of $53 million but would help nearly 2,000 more households across Canada.</ParaText>
+              <ParaText id="8908102">Becoming a homeowner means putting down roots, feeling at home and building a place to grow and thrive. Buying a home is often the most significant investment of a lifetime, and it is young families who are the most affected. Every financial support offered to them is a breath of air in a very uncertain economic context.</ParaText>
+              <ParaText id="8908103">This is why we believe that correcting the effective date to March 20, 2025, is essential to support as many households as possible during this housing and home ownership crisis while respecting the original intent of the publicly announced measure.</ParaText>
+              <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8908104">Thank you for your attention, and I am available to answer your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13148892">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908105"> Thank you very much. That was less than five minutes.</ParaText>
+              <ParaText id="8908106">Next, we have Mr. Moffat from Missing Middle Initiative.</ParaText>
+              <ParaText id="8908107">You have five minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148895">
+            <PersonSpeaking>
+              <Affiliation DbId="321701" Type="28">Mike Moffatt (Founding Director, Missing Middle Initiative)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908108"> Thank you for having me here today.</ParaText>
+              <ParaText id="8908109">I will speak to the first-time homebuyers' GST rebate in Bill <Document DbId="13539746" Type="3">C-4</Document>. While it is a step forward, it should be expanded to match the existing GST rebate and apply to all buyers of primary residences.</ParaText>
+              <ParaText id="8908110">Taxes on new homes have priced the middle class out of the market. </ParaText>
+              <ParaText id="8908111">In 2004, I bought a new home in London, Ontario, for $168,000. Back then, development charges, PST and GST totalled under $16,000 after rebates. Today, those same charges exceed $110,000 on a similar home—a 600% increase in 20 years. If we add in other fees, land transfer taxes and interest on development charges, the tax bill on a home today approaches the entire cost of the home I bought in 2004. In the GTA, that alphabet soup of taxes can top $300,000 on a new home.</ParaText>
+              <ParaText id="8908112">The golden rule is that a middle-class family shouldn't buy a home that's worth more than three times their income. For a $100,000 household, that's $300,000. When the taxes alone on the new home are that high, we've priced the middle class out of home ownership. Sales prove it. In the GTA and greater Golden Horseshoe areas, preconstruction condo sales are down 89% and ground-oriented home sales are down 70%. If buyers can't afford homes, they won't be built.</ParaText>
+              <ParaText id="8908113">Governments must cut input costs. Ottawa has already acknowledged the harm of high housing taxes by rebating 100% of the GST on purpose-built rental construction. It has also recognized that through a commitment to lowering development charges. However, when the GST was introduced in 1991, a commitment was made to adjust the GST new housing rebate for inflation on a regular basis. Over 30 years later, that promise has never been kept.</ParaText>
+              <ParaText id="8908114">Yes, tax cuts have fiscal costs, but inaction has bigger ones. A 2023 CANCEA report found that a $940,000 new Ontario home generates $110,000 in federal tax revenue. Based on CMHC housing start forecasts, a decline in owner-occupied starts in the GTA alone is projected to cost the federal government $2.4 billion annually. If we add Vancouver to that cost, the losses are well in excess of $3 billion annually. That's more than the annual cost of Build Canada Homes in lost tax revenue.</ParaText>
+              <ParaText id="8908115">It's not just tax revenue. Jobs are at stake. If this slowdown persists, as many as 100,000 housing jobs could be lost nationwide. When 15,000 automotive jobs were at risk during the financial crisis, governments acted. We need the same resolve now.</ParaText>
+              <ParaText id="8908116">There are three points I would like to leave the committee with. First, Canada cannot double housing starts if they're falling. The CMHC projects that housing starts will fall through 2027. We can't go up and go down at the same time. Second, that inaction drains the revenue needed for housing programs. The very money you need to fund Build Canada Homes is not going to be there if housing starts fall. Third, if housing is a human right, we can't keep taxing it like alcohol and tobacco. We can't keep taxing the middle class out of this market.</ParaText>
+              <ParaText id="8908117">I look forward to your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13148923">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908118">Thank you. That was also below five minutes.</ParaText>
+              <ParaText id="8908119">We'll move into our first round of questioning.</ParaText>
+              <ParaText id="8908120">First, we have Mr. Lefebvre for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148925">
+            <PersonSpeaking>
+              <Affiliation DbId="320189" Type="47">Eric Lefebvre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908121">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908122">Thank you all for being with us as we study Bill <Document DbId="13539746" Type="3">C‑4</Document>.</ParaText>
+              <ParaText id="8908123">I said earlier, at the outset, that this bill essentially incorporates three commitments made by the Conservative Party: income tax cuts, GST rebates on new homes, and the elimination of the carbon tax for consumers. We would have liked to have gone further, but it's already a step in the right direction.</ParaText>
+              <ParaText id="8908124">However, we see a problem. We were talking dollar for dollar. For every dollar spent, there had to be a dollar saved. However, that's not what we're seeing right now. Before spending money, we should have had a budget, which we did not.</ParaText>
+              <ParaText id="8908125">I'll start with you, Mr. Moody.</ParaText>
+              <ParaText id="8908126">You're an accountant. You write about tax measures. I would like you to tell me what you think of the Parliamentary Budget Officer's comments when he tells us that the most important fiscal anchor is the debt-to-GDP ratio, that the government isn't on track to meet that fiscal target, that this is the first time in 30 years that there has been a ratio projected to increase in this way, that the path we're currently on isn't sustainable and that everyone should be concerned.</ParaText>
+              <ParaText id="8908127">I, for one, am concerned. I would like to know if you are as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148950">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908128"> Yes, I am obviously concerned. I concern myself with taxation measures and look at increasing debt costs and increased spending. With my expertise, I often wonder how it's going to be paid for, given taxation policy measures.</ParaText>
+              <ParaText id="8908129"> Overall, putting on my layman's economic hat, of course I'm concerned. When there's that kind of strong and blunt language, every Canadian should take notice.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13148955">
+            <PersonSpeaking>
+              <Affiliation DbId="320189" Type="47">Eric Lefebvre</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908130">Thank you.</ParaText>
+              <ParaText id="8908131">My next question is for Ms. Demers.</ParaText>
+              <ParaText id="8908132">First, I want to report a conflict of interest related to my former professional activity. I was a member of the APCHQ for a number of years. At one time, I owned a factory specializing in the manufacture of roof trusses and beams. I'm familiar with the organization and was actively involved in it.</ParaText>
+              <ParaText id="8908133">Ms. Demers, how could we help our contractors? They're in a unique situation right now because of the bureaucracy. As Conservatives, we believe it is important to cut red tape. We need contractors on the ground who are building houses and housing, not filling out paperwork.</ParaText>
+              <ParaText id="8908134">What can we do here?</ParaText>
+              <ParaText id="8908135">What measures could the current Liberal government put in place to help our contractors?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13148971">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908136">I'd like to thank Mr. Lefebvre for his question.</ParaText>
+              <ParaText id="8908137">I want to point out to the committee that I wasn't working at the APCHQ when Mr. Lefebvre was a member of the organization.</ParaText>
+              <ParaText id="8908138">You're asking me what the government can do to help contractors do their job, which is to build houses and housing.</ParaText>
+              <ParaText id="8908139">I can tell you that the APCHQ has proposed a number of measures to the federal government in recent years. One of the proposed measures was indeed to remove the GST for first-time homebuyers.</ParaText>
+              <ParaText id="8908140">Other measures have been proposed, such as measures to facilitate access to housing through tax or financial measures. For example, we propose relaxing the rules related to the stress test or those related to access to that test. That would make it easier to access loans or financing. That's one of the things that should be possible. Someone who pays their $2,500 rent every month and who, for a number of years, has demonstrated sound management when it comes to paying rent should be able to access bank financing. That access is more difficult now, given the rising costs.</ParaText>
+              <ParaText id="8908141">We also made recommendations not only to help people access home ownership, but also to stimulate supply. Stimulating supply would give contractors more predictability. This would make it possible to simplify the regulations, of course.</ParaText>
+              <ParaText id="8908142">It would also make it possible to ensure easier access to Canada Mortgage and Housing Corporation, or CMHC, programs. Instead of taking a one-size-fits-all approach, we need to adopt approaches where we're able to carry out projects that don't force contractors to choose between affordability and energy efficiency, which is counterintuitive. There should be additional measures. That's one of the things we recommend to increase supply.</ParaText>
+              <ParaText id="8908143">There's also the whole issue of regulations. Canada has a very diverse set of regulations, not to mention the fact that the construction code is interpreted very differently from one region of Quebec to another. Regulatory harmonization would certainly help provide predictability.</ParaText>
+              <ParaText id="8908144">The other thing I want to mention is that we also need to make sure we don't lose homes that have already been built. It's not just about building more homes. Our housing stock in Quebec and Canada is aging. We have to make sure that it is renovated and maintained. The most affordable housing is housing that already exists, that's already built.</ParaText>
+              <ParaText id="8908145">That's work for the renovation sector. It's as important as building new homes.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13149009">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908146">Thank you. That's the time.</ParaText>
+              <ParaText id="8908147">Next, we have Mr. Lavoie. You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149012">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908148">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908149">I would like to thank the witnesses for being here today. Their comments are very interesting.</ParaText>
+              <ParaText id="8908150">Ms. Demers, in my riding of Beauport—Limoilou, on the outskirts of Quebec City, there are many young families.</ParaText>
+              <ParaText id="8908151">In your opinion, is the GST rebate measure included in Bill <Document DbId="13539746" Type="3">C‑4</Document> good news?</ParaText>
+              <ParaText id="8908152">Is this measure a good one? If so, why?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149019">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908153">The GST rebate is a measure that the APCHQ has been calling for a long time. The 15% GST and QST tax represents a huge barrier for first-time buyers.</ParaText>
+              <ParaText id="8908154">These taxes are paid in cash. It is important to remember that citizens pay for goods with money that has already been taxed. Citizens therefore set aside money for a down payment to purchase a property that will also be taxed. Yet housing is essential. Without housing, no social and economic development is possible.</ParaText>
+              <ParaText id="8908155">That said, while our organization welcomes the GST rebate measure, its effective date should be the day it was announced. The announcement prompted many buyers to take action and sign agreements. They were then surprised to learn that the measure would take effect retroactively two and a half months later and that they would therefore have to pay even more than expected. This is unfortunate.</ParaText>
+              <ParaText id="8908156">This is a good measure, but the APCHQ recommends that it take effect retroactively on the day it was announced, not on May 27, 2025.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149038">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908157">Thank you, Ms. Demers.</ParaText>
+              <ParaText id="8908158">Mr. Moody, thank you for joining us today.</ParaText>
+              <ParaText id="8908159">I read the articles you recently published in the Financial Post. I'd like to focus on one of the topics you discussed, namely the idea of spending less to invest more. This idea is often repeated in the new government. It really strikes a chord with me because, as a former banker, I am very familiar with this principle. However, in everyday life, for the average person and for young families, is this good advice?</ParaText>
+              <ParaText id="8908160">Let me give you a concrete example. Imagine that instead of buying a luxury car, a family buys a less expensive car. They reinvest the money they save, whether it's $15,000, $20,000, or $30,000, in a Registered Retirement Savings Plan, or RRSP, or in a Registered Education Savings Plan, or RESP, for their children.</ParaText>
+              <ParaText id="8908161"> Does that make sense to you?</ParaText>
+              <ParaText id="8908162"> Is this kind of financial decision good advice for a young family?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149047">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908163"> Off the bat, I find the messaging of “spend less, invest more” very vacuous. As an accountant, it means absolutely nothing. To most Canadians, it should mean absolutely nothing, because it means nothing. When you combine that with the separation of the operating budget from the capital budget, that's very deceptive, and I have criticized that quite often in my writings.</ParaText>
+              <ParaText id="8908164">To answer your question, buying a less expensive car and putting the savings into an RRSP, for most people.... Obviously, it would depend on the facts, but for most people, that would make some sense. Saving is typically always a good strategy.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="00">(1800)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149054">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908165">We agree that spending a little less on luxury items and reinvesting the savings is good advice to give to a young family. We understand the principle.</ParaText>
+              <ParaText id="8908166">However, a government can act in the same way as young families and ordinary people. It can decide to be careful with its spending in order to invest where there will be returns, much like people who invest in RRSPs or RESPs. This can pay off over time. It's about investing your money where there will be gains later on.</ParaText>
+              <ParaText id="8908167">Can a government act in the same way, i.e., choose to spend less and invest the money saved elsewhere today in order to have greater financial leverage later?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149069">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908168"> I think a young family that has the excess cash available to invest in an RRSP and a government that does not have cash are completely different. When you are borrowing to spend more or to invest, that makes absolutely no sense. The comparison is just unrealistic and not comparable.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149077">
+            <PersonSpeaking>
+              <Affiliation DbId="318120" Type="2">Steeve Lavoie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908169">However, young families take out loans to buy a car or a house. It is therefore possible to compare a government and a young family taking out a loan. It's the same thing. Instead of borrowing $50,000 to buy a car, I borrow $20,000.</ParaText>
+              <ParaText id="8908170">Doesn't that make sense?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149085">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908171">Your original example was to take the savings and to put it into an RRSP. If you have the cash and you're putting it aside for savings, that is very good in most cases, but if you're borrowing it to put into your RRSP, then I challenge anybody to show me the mathematics of how that might make some sense. In some cases it might. Believe me, I've run those numbers many times throughout my career, but that's the equivalent comparison to what you're talking about with a government that wants to borrow more money to invest. Of course, the issue is this: What does investment mean in a government context? It's not easy to define.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13149094">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908172">That's time. Thank you.</ParaText>
+              <ParaText id="8908173">Next, we have Mr. Garon for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13149096">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908174">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908175">Since I don't think the federal government will be going back to school or retiring, I won't be advising it to contribute to RRSPs.</ParaText>
+              <ParaText id="8908176">Instead, I'd like to address the issue of GST rebates for new homes.</ParaText>
+              <ParaText id="8908177">Ms. Demers, I will therefore be speaking mainly with you.</ParaText>
+              <ParaText id="8908178">I understand that the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> first announced the measure on March 20.</ParaText>
+              <ParaText id="8908179">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149100">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908180">The announcement was indeed made on March 20, 2025.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149102">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908181">At the time, Mr. Carney was not a candidate for the leadership, and we were not in an election campaign. The campaign was launched on March 23, 2025.</ParaText>
+              <ParaText id="8908182">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149103">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908183">Indeed, the election campaign was launched on March 23, 2025.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149107">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908184">A prime minister was therefore in office, and he had not recalled Parliament. He could not table a motion of ways and means so that this measure could be implemented as soon as possible. That's correct. Parliament had then been prorogued.</ParaText>
+              <ParaText id="8908185">I have the impression that, if the government had been sitting at that time, it would probably have introduced this bill on March 20, 2025, and that is the date that would appear on it.</ParaText>
+              <ParaText id="8908186">However, because of the election, which is part of the democratic process, we are now telling people that they have lost about two months.</ParaText>
+              <ParaText id="8908187">Would a reasonable person who does not spend much time in Parliament have believed that the measure could reasonably be implemented as of March 20, 2025?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149116">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908188">Obviously, I can't know what everyone thought. However, I can tell you what our contractors and developers told us.</ParaText>
+              <ParaText id="8908189">Many of them found themselves having to bear the brunt of this change, which was tragic for some households. In fact, they had to explain to them that the government measures did not apply because the contracts had been signed before May 27, 2025.</ParaText>
+              <ParaText id="8908190">Contractors cannot terminate a contract to accommodate a buyer. It is not possible. The regulations don't allow it.</ParaText>
+              <ParaText id="8908191"> One thing a contractor can do is accept, for example, a request from the buyer to cancel the contract. However, the buyer must then pay the costs associated with such a cancellation and then find another property on the current market, which is not necessarily simple or easy for them.</ParaText>
+              <ParaText id="8908192"> And for their part, a contractor or developer may refuse to terminate a contract for their own reasons.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13149137">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908193">I believe that this measure is intended to simplify the lives of first-time homebuyers. There is nothing simple about what you have just described regarding the methods that could be used to bring the policy in line with what people initially understood. We could simply change the date.</ParaText>
+              <ParaText id="8908194">There are probably reasons why the government decided to make some people lose two months, and one of them is the cost.</ParaText>
+              <ParaText id="8908195">Does the APCHQ have a way of assessing what it would cost the federal government, at least for Quebec, to change the date to March 20, 2025, instead of sticking with May 27, 2025?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149148">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908196">Yes, we have done an assessment. According to that assessment, it would cost the government $53 million to change the date to March 20, 2025. This does not only apply to Quebec, but to Canada as a whole. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149155">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908197">This represents 0% of a deficit of approximately $100 billion.</ParaText>
+              <ParaText id="8908198">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149159">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908199">You're the accountant.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149162">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908200">No, I am not an accountant.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149166">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908201">You're the economist.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149168">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908202">My wife is an accountant, and I have nothing against her or accountants in general.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13150401">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908205">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13150410">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="47">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908206">Earlier, you mentioned the advantages of existing homes. Often, the location is chosen first, and then renovation becomes necessary. The fact that some homes have undergone very little renovation sometimes leads to decay and, ultimately, to the loss of rental housing. We are familiar with this dynamic.</ParaText>
+              <ParaText id="8908207">However, there is also a need for new supply, which means that construction is necessary to maintain or restore affordability.</ParaText>
+              <ParaText id="8908208">In your opinion, what are the main federal barriers to accessing new homes and increasing supply in Quebec?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149176">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908209">If there were a single answer and a single solution to the housing crisis, we would know it, of course. The problem is multifactorial.</ParaText>
+              <ParaText id="8908210">I would say that there are four aspects that need to be addressed.</ParaText>
+              <ParaText id="8908211">First, programs need to be improved to make them easier to use and more consistent, both at the federal level and in the provinces, particularly in Quebec.</ParaText>
+              <ParaText id="8908212">Second, access to home ownership needs to be promoted through tax and financial measures. The GST rebate is one solution, and the Tax-Free Savings Account for First-Time Home Buyers, or TFSA-FTHB, could also be part of the solution. I also mentioned relaxing the stress test rules and improving the CMHC criteria. </ParaText>
+              <ParaText id="8908213">We also need to boost the supply of housing, which may also require that measures be taken. In fact, the announcement regarding the creation of Build Canada Homes is certainly interesting, and this deserves to be explored. It is brand new, but it will allow, for example, for great advances to be made or for more housing to be built.</ParaText>
+              <ParaText id="8908214">However, it is not enough to simply build more housing; we must also build better and in a sustainable manner. This means adapting the construction industry to energy efficiency measures. Otherwise, we will be building using techniques or approaches that will soon be obsolete, which will essentially lead to problems in the future.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13149204">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908215"> Thank you. That's time.</ParaText>
+              <ParaText id="8908216">We're now on to our second round—a five-minute round.</ParaText>
+              <ParaText id="8908217">We'll start with Ms. Cobena.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149207">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908218">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908219">My questions are for Mr. Moody, given his extensive work on taxation, and are about different groups of Canadians and the impact of the tax cut on them.</ParaText>
+              <ParaText id="8908220">The Parliamentary Budget Officer reported that a single senior earning roughly $27,000 will only save about $50 in 2025-26 from this tax cut. Do you agree with that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149215">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908221">At a high level, yes, because a lot of low-income earners do not pay any tax. At $27,000, they're paying a bit of tax but not a lot, so at a high level, yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="10">(1810)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13149221">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908222">Do you believe that the $50, which works out to roughly a dollar a week, will have a material impact on a senior citizen who is struggling with affordability?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149226">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908223">Absolutely not. I alluded to that in my opening remarks. Even if you're generous at $400, which is the maximum amount, that's immaterial to most Canadians, frankly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149233">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908224">Now I'll ask about a different group. A single parent earning roughly $50,000 is expected to save about $140 from the tax cut. Do you agree with that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149238">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908225">At a high level, yes. I don't have the numbers in front of me, but that sounds roughly right.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149242">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908226">The $140 per year works out to roughly three dollars per week. Do you think that this income tax cut would change the life circumstances of that single parent?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149244">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908227">No, obviously not. That's why I think that this is good politics but poor policy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149248">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908228">Thank you.</ParaText>
+              <ParaText id="8908229">A senior couple with an income of roughly of $63,000 would then save $150 from the tax cut, which is, again, roughly three dollars per week. Do you think that this amount will meaningfully ease the financial pressures for the senior couple?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149253">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908230"> No. Obviously, it will not.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149257">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908231">A family of four who, we learned, spend roughly $17,000 on groceries—which is about $800 more than last year—would save maybe $360 because of this income tax cut. </ParaText>
+              <ParaText id="8908232">Do you believe they would be better off because of the income tax cut?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149260">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908233">It's by $360, which is not material.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149262">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908234">Offset against the $800 more that they spent over last year, they're actually out $440.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149263">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908235">There are other inflationary measures as well, right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149265">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908236">That's right.</ParaText>
+              <ParaText id="8908237">Given that this is the signature legislation that the government is putting forward—we've talked about seniors not benefiting meaningfully, as well as single parents, potentially students and unemployed people—what do you think would really be the benefit of this key Liberal affordability plan?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149270">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908238">There's nothing. Frankly, it's an embarrassment if this is their key signature tax policy. It's embarrassing to Canada, and it should be an embarrassment to anybody who understands tax. Unfortunately, not many do.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149274">
+            <PersonSpeaking>
+              <Affiliation DbId="320192" Type="47">Sandra Cobena</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908239">Thank you.</ParaText>
+              <ParaText id="8908240">My next question is for Mr. Moffatt. </ParaText>
+              <ParaText id="8908241">You spoke a little about the impact of the GST cut on the housing crisis that we currently have in Canada. We have learned that this GST cut will apply only to new homes that are less than $1 million, and it's only for first-time homebuyers. </ParaText>
+              <ParaText id="8908242">How effective do you think this measure is in addressing the housing crisis?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149286">
+            <PersonSpeaking>
+              <Affiliation DbId="321701" Type="28">Mike Moffatt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908243">I think it certainly helps. </ParaText>
+              <ParaText id="8908244">The GST applies only to new homes to begin with. There's nothing to rebate on resale. The $1 million works for most of the country, but it is a problem in the GTA, southern Ontario and the Lower Mainland in B.C., where a high proportion of new homes are over $1 million. That portion of it does carve out some homes. </ParaText>
+              <ParaText id="8908245">I think the biggest issue is that it's only for first-time homebuyers, who make up about 20% of primary residence purchasers. It leaves out some very important folks. Think of a couple who own a one-bedroom condo and would like to upgrade into a three-bedroom home that's suitable for raising kids. They have been excluded from this. Seniors who would like to downsize into a new home—which not only helps them but frees up a home for the next generation of families—are not eligible for this.</ParaText>
+              <ParaText id="8908246">I do think that limiting it to first-time homebuyers really diminishes the effectiveness.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="15">(1815)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="13149299">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908247">That's the time. Thank you.</ParaText>
+              <ParaText id="8908248">Next we have Mr. MacDonald for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149301">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald (Cardigan, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908249">Good afternoon. Thanks to all of the witnesses for joining us today. </ParaText>
+              <ParaText id="8908250">This was our affordability measure, Bill <Document DbId="13539746" Type="3">C-4</Document>. We've been asking a lot of questions on the housing. </ParaText>
+              <ParaText id="8908251">Mr. Moffatt, if I may, I'll direct a question to you. </ParaText>
+              <ParaText id="8908252">One of the persistent challenges in the housing market, which you bring up, is the taxes and fees that different levels of government have been laying on homeowners or new-home builders. </ParaText>
+              <ParaText id="8908253">How does removing the GST on new homes under $1 million help these individuals? Can you comment on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149311">
+            <PersonSpeaking>
+              <Affiliation DbId="321701" Type="28">Mike Moffatt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908254">Because the GST only applies to new homes, at the end of the day it's basically a construction tax. There's no real difference from a development charge. </ParaText>
+              <ParaText id="8908255">If you remove $50,000 of taxes on a new home, that makes it easier for families to qualify for a mortgage or save up enough for a down payment. It's important to get those taxes....</ParaText>
+              <ParaText id="8908256">You're absolutely correct that it is across all three orders of government when, for a modest three-bedroom in London, Ontario, the construction taxes have gone up 600% in 20 years. I think we need to look at reducing those back down to more manageable levels.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149319">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908257">I'll ask Ms. Demers. </ParaText>
+              <ParaText id="8908258">In our affordability...or Bill <Document DbId="13539746" Type="3">C-4</Document>, we have measures in there. The GST cut could add up to $50,000 if it's a $1-million home. We removed the carbon tax. We also have the income tax cut. Whether people like it or don't like it, it's a measure that's going to reduce taxes for 22 million Canadians. </ParaText>
+              <ParaText id="8908259">Would you agree that these measures are going to help first-time homebuyers get into the housing market?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149325">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908260">Bill <Document DbId="13539746" Type="3">C-4</Document>, as mentioned, is a measure for a reduction of the tax. It's a measure that we support. We're really pleased to see that the government went forward with it.</ParaText>
+              <ParaText id="8908261">If we want it to go further, not only would we have to move the start date to the date it was announced but we would need to make sure that the tax reduction would be in effect while the acquisition is being made, as opposed to people having to get a loan with taxes and get the rebate after. It would be nice to see how we could simplify the way that the rebate is provided. That would be something.</ParaText>
+              <ParaText id="8908262">It would also be nice to see a measure for students and the elderly. They're not first-time buyers but they're really affected by the crisis. It would be nice to see an opening in terms of the programs for them, if possible.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149337">
+            <PersonSpeaking>
+              <Affiliation DbId="319900" Type="47">Kent MacDonald</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908263">Mr. Moffatt, that leads to another question for you.</ParaText>
+              <ParaText id="8908264">In the article you published recently, you talked about the GST rebate to all owner-occupied purchases. You stated that if this was wide open, it would cover 60,000-65,000 homes annually with a fiscal cost to the government of about $2 billion.</ParaText>
+              <ParaText id="8908265">Where do you think the balance is with the federal government? Where do we strike the balance between expanding the eligibility of the program and staying within reasonable fiscal restraints?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149346">
+            <PersonSpeaking>
+              <Affiliation DbId="321701" Type="28">Mike Moffatt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908266">If we were in a situation where homebuilding was in a boom, this would have a substantial net fiscal cost, and we could argue whether or not it's necessary, but right now, we have home starts and home sales falling by 60%-90% in our major metros.</ParaText>
+              <ParaText id="8908267">With the reduction in sales and the GST and GBA, that's going to cost the federal government $3 billion annually if these trends continue. We need to look at that. We need to examine both the cost of action, which is about $2 billion, but also the cost of inaction, which is going to be in the billions of dollars as well.</ParaText>
+              <ParaText id="8908268">Finally, I would note that we need to hit 500,000 new homes. That is the target that the federal government has set, but if housing starts are falling by 4% a year, which the CMHC forecasted for 2027, we're not going to be able to double housing starts. We need to do what we can to lower the cost of homebuilding to allow us to hit those very ambitious housing start targets.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" id="13149359">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908269">That's time.</ParaText>
+              <ParaText id="8908270">Next, we have Mr. Garon, for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13149362">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908271">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8908272">Ms. Demers, you represent a very large proportion of companies in the residential construction industry in Quebec.</ParaText>
+              <ParaText id="8908273">Based on what you hear in the field, are people eager for the planned measure to be implemented?</ParaText>
+              <ParaText id="8908274">Are the clients of the members of your association eager to receive their refunds?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149367">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908275">This measure is certainly welcome and eagerly awaited. It represents a substantial amount for most buyers—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149371">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908276">So for the people you work with, this is an important political message, and they are eager for Bill <Document DbId="13539746" Type="3">C‑4</Document> to be passed.</ParaText>
+              <ParaText id="8908277">Is that correct?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149373">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908278">That's right. They are very eager for this bill to be passed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149377">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908279">I will proceed quickly because I only have half the speaking time allotted to the other parties, which is normal.</ParaText>
+              <ParaText id="8908280">Do the people in your association tell you that there is no rush to pass Bill <Document DbId="13539746" Type="3">C‑4</Document>, that the banks are taking care of it, that it will resolve itself and that, basically, it could be passed in 2027 and it wouldn't be a problem?</ParaText>
+              <ParaText id="8908281">That is what we have heard from the Liberals today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149379">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908282">I'm going to present things differently.</ParaText>
+              <ParaText id="8908283">We are currently experiencing a housing crisis, and several measures will need to be put in place to overcome it. In Quebec alone, 100,000 homes will need to be built each year over the next 10 years. To restore affordability, one million homes will need to be built in Quebec.</ParaText>
+              <ParaText id="8908284">For the first time since World War II, we are also dealing with a generation that will likely not have access to home ownership.</ParaText>
+              <ParaText id="8908285"> In the current context, owning a home or dwelling also represents a certain degree of financial and economic stability for households.</ParaText>
+              <ParaText id="8908286">However, the members of our association, whether they are builders, renovators, or developers, naturally want to see all the necessary measures put in place to ensure mobility so that people can become homeowners, for example. Mobility also means that when an apartment becomes vacant, someone else can become the tenant.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149390">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908287">Have you heard people say that they contacted Revenu Québec and the Canada Revenue Agency to inform them that their contract had been signed and their house delivered, but that they were still waiting for their refund?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149393">
+            <PersonSpeaking>
+              <Affiliation DbId="301688" Type="28">Isabelle Demers</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908288">What we heard was that people had been told there would be no refund because their contract had been signed before May 27, 2025.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149396">
+            <PersonSpeaking>
+              <Affiliation DbId="320558" Type="40">Jean-Denis Garon</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908289">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" id="13149398">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908290"> That's time.</ParaText>
+              <ParaText id="8908291">Our final round will start with Mr. Kelly for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149401">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908292">Thank you. Welcome back to the finance committee.</ParaText>
+              <ParaText id="8908293">Mr. Moody, in your opening remarks you talked just a bit about the need for things like tax simplification and the need for real, true affordability measures. I presume you might have been referring to how we need to do something about productivity in this country. We've seen over the last 10 years a decline in per capita GDP, wherein Canadians are actually becoming poorer under this government. In response to Ms. Cobena's questions, you laid out the insufficiency of Bill <Document DbId="13539746" Type="3">C-4</Document> as an affordability measure.</ParaText>
+              <ParaText id="8908294">Can you comment further on some of the items you touched in your opening statement?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149405">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908295">Sure. Thank you, Mr. Kelly. Yes.</ParaText>
+              <ParaText id="8908296">Where I was going with my final comments was about the need for tax reform that ultimately looks at a whole bunch of tax measures, including material tax reduction all the way through the system. Canadians pay far too much in tax. I have written about that very many times. I'll debate anybody who wants to challenge me on that. That to me is real affordability measures. The Fraser Institute, for example, does its yearly study of how much tax is paid—not just income tax, but all levels of tax—as a measure of total income. It's an interesting review. Yes, you can debate the methodologies and conclusions, but tax is far, far too high. My conclusion is that by reducing those tax loads, those are real affordability measures.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13149418">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908297">You also talked in your opening statement about financial literacy and how it is challenged by the method by which this government goes about tax changes. You testified at the finance committee late in the previous Parliament about the capital gains tax, which came to mind when you spoke of the chaos over introducing measures, treating them as if they had royal assent or at least leaving Canadians forced to plan as if these changes had royal assent. In that example, they abandoned that poor policy even before Parliament was dissolved.</ParaText>
+              <ParaText id="8908298">Can you comment a bit more on how to properly table and deal with tax measures and communicate them?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149429">
+            <PersonSpeaking>
+              <Affiliation DbId="322823" Type="28">Kim G. C. Moody</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908299">Yes, I'm happy to.</ParaText>
+              <ParaText id="8908300">I wrote an article about that in the Financial Post two months ago. History serves very good lessons. In 1985, then finance minister Michael Wilson introduced a really good paper—which I hyperlinked in the article for anybody who wants to take a look at it—about this very issue of how to deal with provisional tax administration. There is a need for it. The problem is that right now it's being used for political purposes, as I mentioned in my opening remarks, and in inappropriate things like capital gains administration when it was politically a very hot potato. </ParaText>
+              <ParaText id="8908301">I think we should follow the example set out in 1985. We should have statutory provisions that clearly lay out how we should do that. There are good examples in the U.K. to follow on that. I think we have a lot of work to do on that as a country, Mr. Kelly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149439">
+            <PersonSpeaking>
+              <Affiliation DbId="320190" Type="47">Pat Kelly</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908302">Thank you. </ParaText>
+              <ParaText id="8908303">I have about a minute left.</ParaText>
+              <ParaText id="8908304">Mr. Moffat, could you clarify? You quickly went through some statistics in response to Mr. MacDonald's questions about the state of housing starts. From what you said in response to his questions, it sounds like housing starts are in free fall.</ParaText>
+              <ParaText id="8908305">Could you go through some of those statistics on the collapse of housing starts?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149446">
+            <PersonSpeaking>
+              <Affiliation DbId="321701" Type="28">Mike Moffatt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908306">CMHC projects that housing starts will fall about 4% a year for the next couple of years. They will be about 30,000 units lower than they were in 2023. It's housing sales, preconstruction sales, that are in absolute free fall. In the GTA, condo preconstruction sales are down about 90%. Ground-oriented home sales are down about 70%. Today's sales are next year or the year after's housing starts. It's why we're seeing housing starts fall in the future, because we're just not seeing those new home and preconstruction sales today.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13149455">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908307"> That's time.</ParaText>
+              <ParaText id="8908308">Next, we have Mr. Turnbull.</ParaText>
+              <ParaText id="8908309">You have the last round.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149459">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908310">Thanks, Chair, and thanks to all of the witnesses for being here.</ParaText>
+              <ParaText id="8908311"> Mr. Moffatt, I will probably direct most of my questions towards you. I have often admired your work, and you've given lots of great advice on how we can solve the affordable housing crisis in this country. I appreciate your being here. I appreciate your expertise and perspective. I would say I'm inclined to agree with you in many cases. In this case, I'm not sure I agree with some of your opening remarks.</ParaText>
+              <ParaText id="8908312">You said housing starts are projected to fall with the CMHC projections. I wanted to ask you whether those projections would take into account all of the things that the federal government is proposing to do within the Build Canada Homes initiative, some of which hasn't rolled out yet. I assume the answer is no, but could you confirm that for me?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149465">
+            <PersonSpeaking>
+              <Affiliation DbId="321701" Type="28">Mike Moffatt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908313">I can't either confirm or deny that, because I don't have access to the CMHC's modelling. Their forecast came out in July, so I would hope they would include those things, but their model is proprietary, so I don't have access to the assumptions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149466">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908314">I'm wondering whether they would really have the details, when those details are still being worked out. I guess that's why I would suggest that their projection couldn't have taken into account all of the things that would be rolled into Build Canada Homes. Obviously, the GST rebate is one thing that we're doing, as well as cutting development charges. Obviously, municipalities as our partners are using federal lands, which lowers acquisition costs. We're encouraging buy Canadian, which should shorten supply chains slightly, and embracing innovation in terms of construction methods, modular prefab, etc.</ParaText>
+              <ParaText id="8908315">I'm not telling you anything you don't know, but I'm listing these things because they seem pretty significant to me—approvals and permitting and speeding those up through the housing accelerator fund, which, as we've heard from many municipalities across the country, has been dramatically helpful. Interest rates, obviously, we don't control, but the Bank of Canada has also lowered some of the interest rates. We've also committed to helping fund the housing infrastructure that's needed. </ParaText>
+              <ParaText id="8908316">With all of these things together, do you anticipate that housing starts will still continue to fall based on all of those measures in Build Canada Homes?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149480">
+            <PersonSpeaking>
+              <Affiliation DbId="321701" Type="28">Mike Moffatt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908317">Yes, I do, at least through 2027. I think many of those measures, which we certainly support, will take time to show up. Many of those involve homes that are in the design phase. Remember that the CMHC counts a housing start when a foundation reaches grade level. That is often two to three years before sales begin. Part of it is how the CMHC measures what a housing start is. I would hope in the upcoming budget there are projections of housing starts provided by the finance department that do take those things into account. I think that would be incredibly helpful.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13149484">
+            <PersonSpeaking>
+              <Affiliation DbId="319898" Type="47">Ryan Turnbull</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908318">That's great.</ParaText>
+              <ParaText id="8908319">Would you also clarify why you would suggest cutting GST for all homebuyers? I think homebuyers who already have a home are accumulating equity and benefiting from the appreciation value in those homes upon resale. It seems to me that we're here talking about measures that can help first-time homebuyers get into a market that they've been excluded from due to cost barriers.</ParaText>
+              <ParaText id="8908320">We heard from officials just before you came that 97% of new homes are under $1 million and another 3% are between $1 million and $1.5 million. This measure of the GST rebate really does target first-time homebuyers. I'm wondering, because I don't understand the rationale for why we would want to help out individuals who have the benefit of owning equity in a home, rather than targeting first-time homebuyers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13149487">
+            <PersonSpeaking>
+              <Affiliation DbId="321701" Type="28">Mike Moffatt</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908321">There are a couple of things. First, the PBO has different figures from that 97%. I would question that. We've seen different figures out there. It's certainly above 90%. I think the overall way to look at it is that we need to lower costs across the system.</ParaText>
+              <ParaText id="8908322">For example, if we made it easier for a young couple to move out of a one-bedroom condo into a family-sized home, that not only helps that family but also frees up that condo for the first-time homebuyer. Housing is a system, and we shouldn't look at it saying that we want to make the water in this part of the bathtub warmer. We have to realize that what happens on one end of the housing spectrum affects the entire spectrum. The government understands this, because one of the arguments that the government has made on building social housing is that it relieves pressure on market housing. It frees up low-rent market housing and puts downward pressure on those rents. We have to understand that housing is a system. It's not just helping individual people but making the system as a whole work better.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13149500">
+            <PersonSpeaking>
+              <Affiliation DbId="320557" Type="40">The Vice-Chair (Jasraj Hallan)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8908323"> That's time. Thank you to all of our witnesses. Thank you for taking it easy on me today.</ParaText>
+              <ParaText id="8908324">Is it the will of the committee to adjourn the meeting?</ParaText>
+              <ParaText id="8908325">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8908326">
+                <B>The Vice-Chair (Jasraj Hallan):</B> The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

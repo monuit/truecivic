@@ -1,0 +1,1780 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13129080">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Agriculture and Agri-Food</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 003</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Monday, September 22, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le lundi 22 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Agriculture and Agri-Food</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 22, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 003</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 003</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 003</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">03</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">22</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/22 15:45:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'agriculture et de l'agroalimentaire</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Agriculture and Agri-Food</ExtractedItem>
+    <ExtractedItem Name="Acronyme">AGRI</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Michael Coteau</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129083">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair (Michael Coteau (Scarborough—Woburn, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893583"> I'd like to call the meeting to order.</ParaText>
+              <ParaText id="8893584">Welcome to meeting three of the House of Commons Standing Committee on Agriculture and Agri-Food. Today's meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are attending in person in the room and remotely using the Zoom application. </ParaText>
+              <ParaText id="8893585">Before we continue, I'd like to ask all in-person participants to consult the guidelines written on the cards on the table. These measures are in place to help prevent audio and feedback incidents and to protect the health and safety of all participants, including our interpreters. You will also notice a QR code on the cards with a link to a short video. </ParaText>
+              <ParaText id="8893586">I'd like to make a few comments for the benefit of the witnesses and the members. Please wait until I recognize you by your name before speaking. For those participating by teleconference, click on the microphone icon to activate your mic. Please mute yourself when you are not speaking. For those on Zoom, at the bottom of your screen you can see a selection of the appropriate channels for interpretation—floor, English or French. For those in the room, you can use your earpiece and select the desired channel. </ParaText>
+              <ParaText id="8893587">Just as a reminder, all comments should be addressed through the chair. For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can. We appreciate your patience and understanding in this regard. </ParaText>
+              <ParaText id="8893588">Pursuant to Standing Order 108(2) and the motion adopted by the committee on Thursday, September 18, 2025, the committee is commencing its briefing on the impact of tariffs on Canada's agriculture and agri-food sector. </ParaText>
+              <ParaText id="8893589">I would now like to welcome our witnesses today. They are with us in person. We have, from the Department of Agriculture and Agri-Food, Christine Moran and Tom Rosser; from the Department of Finance, Michael Mosier; and from the Department of Foreign Affairs, Trade and Development, Pierre Marier and Darren Smith. </ParaText>
+              <ParaText id="8893590">Welcome, everyone. We appreciate your being here. </ParaText>
+              <ParaText id="8893591"> I think I'm turning it over to you first, Mr. Rosser. You have five minutes.</ParaText>
+              <ParaText id="8893592">We'll do five minutes for the first panel and three minutes for the second panel.</ParaText>
+              <ParaText id="8893593">Go ahead, sir. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129101">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser (Assistant Deputy Minister, Market and Industry Services Branch, Department of Agriculture and Agri-Food)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893594"> Thank you so much, Mr. Chair.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893595">Mr. Chair, members of the Committee, thank you for the opportunity to appear before you today to discuss Canada's agricultural trade interests and the challenges we face in a rapidly shifting global landscape.</ParaText>
+              <ParaText id="8893596">At Agriculture and Agri-Food Canada, we work closely with Global Affairs Canada and Finance Canada as well as other departments to support farmers and food processors. Together our goal is to ensure the products our agricultural sector produces can succeed in international markets. Canada is, at its core, a trading nation and a major supplier of food globally. In 2024, Canada's agri-food and seafood exports were valued at over $100 billion. More than half of our production is exported, which means stable, predictable market access is vital for farmers, ranchers, and processors across the country.</ParaText>
+              <ParaText id="8893597">The trading environment, however, has become more uncertain. Unilateral tariff measures—particularly from our two largest markets, the United States and China—have disrupted supply chains. Russia's ongoing war in Ukraine and instability in the Middle East have further increased volatility in global food and commodity markets.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893598"> Since March 2025, China has imposed 100% tariffs on Canadian canola oil and meal, and peas, as well as 25% on certain seafood and pork products. In addition, China is applying 75.8% duties on imports of Canadian canola seed as of August 14.</ParaText>
+              <ParaText id="8893599"> Unilateral tariff actions are also reshaping the trade environment. While CUSMA compliance provides important protections for the majority of agri-food trade, these actions are creating uncertainty. The upcoming CUSMA review in 2026 will be a critical opportunity to promote and to defend Canada's interests. AAFC will continue working with Global Affairs Canada to ensure farmers' voices are heard as part of the upcoming consultation process. </ParaText>
+              <ParaText id="8893600">Given today's uncertainty, diversification is essential. Canada is expanding its presence in high-growth regions such as the Indo-Pacific, Latin America and north Africa. The new Indo-Pacific agriculture and agri-food office is already helping exporters navigate complex markets and build stronger relationships. Canada now benefits from 15 free trade agreements covering 51 countries. We're pursuing additional opportunities through ASEAN negotiations, CPTPP expansion and exploratory discussions with partners like the Philippines and Mercosur. </ParaText>
+              <ParaText id="8893601">At the same time, our leadership in multilateral institutions, including the WTO, remains critical to defend rules-based trade and to push for the removal of unjustified barriers.</ParaText>
+              <ParaText id="8893602"> In closing, Canada's farmers and food processors are among the most resilient and innovative in the world, but to continue to thrive, they need stable rules and reliable access to markets so that they can plan, invest and grow with confidence. There's been steady and ongoing engagement with stakeholders, including at the highest official and political levels, following recent developments.</ParaText>
+              <ParaText id="8893603"> As we look ahead, we remain steadfast in advocating for fair and predictable market access. Ensuring that Canadian exporters can compete on a level playing field is essential, not only for the strength of our agricultural sector but also for the health of our entire economy. </ParaText>
+              <ParaText id="8893604">Thank you, Mr. Chair. My colleague Christine Moran and I, as well as officials from Global Affairs and the Department of Finance, will be pleased to respond to any questions members may have.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129126">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893605">Thank you very much. I think that was well under five minutes.</ParaText>
+              <ParaText id="8893606">I'll turn to Mr. Barlow first for six minutes. We're going to do a six-minute round. </ParaText>
+              <ParaText id="8893607">Mr. Barlow.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129129">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow (Foothills, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893608"> Thanks very much, Chair.</ParaText>
+              <ParaText id="8893609">Thanks to the officials for being here. </ParaText>
+              <ParaText id="8893610">I know this is a quick turnaround, but I think all of you understand how important this issue is. It's important to get a bit of an update, especially when we see the financial situation Canadian farmers are facing, with the numbers that were released last year. </ParaText>
+              <ParaText id="8893611">Total farm operating expenses rose almost 3% to $78 billion in 2024, but for the second consecutive year, we saw interest expenses up 28.6% and producers taking on more debt. Farm debt rose 14% in 2024, which is the largest increase since 1981, so margins are already tight. When we have limited at-market prices for canola with these additional tariffs, that's making those margins even that much more difficult. </ParaText>
+              <ParaText id="8893612">To Mr. Marier and Mr. Smith from Global Affairs, I know that on November 20 the former agriculture minister flew to China to address this matter. Can you tell me who the minister met with on the Chinese government side?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129145">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893613"> Mr. Chair, if I might, I think I may be in a position to respond. </ParaText>
+              <ParaText id="8893614">It is, in fact, the case that the minister did travel to China in November 2024 to participate in meetings of the Canada China Business Council, but to my recollection, there were no formal engagements with representatives of the Chinese government.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129149">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893615"> Thank you. </ParaText>
+              <ParaText id="8893616">Earlier this summer, another former minister of agriculture, now the <Affiliation DbId="319393" Type="18">Parliamentary Secretary to the Prime Minister</Affiliation>, also went to China. Did he have an opportunity to meet with the minister of agriculture from the Government of China or with any elected officials on that trip? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129155">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893617"> I'm not specifically aware of the full itinerary of the <Affiliation DbId="319393" Type="18">parliamentary secretary</Affiliation> and the Premier of Saskatchewan. My understanding, though, is that they did have opportunities to meet with representatives of the Government of China, but I'm not certain which ones. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129162">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893618">Thank you.</ParaText>
+              <ParaText id="8893619">It seems that we're having some difficulties. We want to try to address this tariff issue and get this resolved, and the current government is having some difficulty getting meetings with high-level officials, with their Chinese counterparts, which is a problem. </ParaText>
+              <ParaText id="8893620">Again, maybe Mr. Rosser can answer this. </ParaText>
+              <ParaText id="8893621">Are there plans for the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> or for the Canadian <Affiliation DbId="318685" Type="4">Minister of Agriculture</Affiliation> to travel to Beijing to meet with their Chinese counterparts? Have those meetings been arranged? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129168">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893622"> Perhaps I'll turn to colleagues at Global Affairs.</ParaText>
+              <ParaText id="8893623">I'm not aware of the <Affiliation DbId="318685" Type="4">minister</Affiliation> having specific plans to travel to China at this time, but high-level engagement does occur regularly with Chinese officials at the embassy in Beijing and through the JETC meeting that took place a couple of weeks ago. There is regular, ongoing engagement with senior levels of the Chinese government.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129171">
+            <PersonSpeaking>
+              <Affiliation DbId="285848" Type="28">Darren Smith (Executive Director, Indo-Pacific Trade Policy Division, Department of Foreign Affairs, Trade and Development)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893624"> I can also confirm, with respect to the <Affiliation DbId="318660" Type="4">Minister of International Trade</Affiliation>, that he has engaged with his interlocutor. There have, of course, been other senior-level discussions, including with the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and Premier Li, for example. There are possibilities that there will be further engagement as we go through the fall.</ParaText>
+              <ParaText id="8893625">I can't confirm at this point in time if those meetings have been scheduled, but I would say that there is engagement at all levels.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129180">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893626">That's what I need. Thank you.</ParaText>
+              <ParaText id="8893627">From the most recent trip with Premier Moe and the <Affiliation DbId="319393" Type="18">parliamentary secretary</Affiliation>, are you aware of any rationale or decisions by the Chinese on these tariffs and what it would take to get those eliminated? Was anything spelled out in terms of the rationale for why these tariffs were put on and what needs to happen for them to be removed?</ParaText>
+              <ParaText id="8893628">Give specifics if you have them, please.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129186">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893629">I should preface by saying that I have received no briefing on that trip beyond what's been reported in the media. I know that Premier Moe has been talking about the importance of continuous and ongoing engagement with China.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129189">
+            <PersonSpeaking>
+              <Affiliation DbId="285848" Type="28">Darren Smith</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893630">I can say that there was an opportunity for Premier Moe as well as for the <Affiliation DbId="319393" Type="18">parliamentary secretary</Affiliation> to reiterate Canada's concerns with a variety of different Chinese measures impacting Canadian exporters, including those from the agriculture and agri-food sector. The Chinese did use the opportunity to articulate some of their concerns with respect to actions undertaken by the Canadian government, but these are clearly well known and something that is part of an ongoing dialogue with them.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129194">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893631"> Thank you. I have time for only one more question here.</ParaText>
+              <ParaText id="8893632">The canola growers said quite strongly that the assistance offered by the Liberal government isn't enough. As they said, canola farmers can't “borrow their way out” of this crisis. It looks like this could be a long-term, ongoing issue as farmers get ready to plan for next season's crop. </ParaText>
+              <ParaText id="8893633">What other assistance is the Liberal government planning to assist canola farmers if this tariff issue goes on long term?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129202">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893634">
+                <Affiliation DbId="318685" Type="4">Minister MacDonald</Affiliation> is in regular, ongoing engagement with the canola sector. Indeed, the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> held a round table with them last week.</ParaText>
+              <ParaText id="8893635">The initial programs announced September 5 were meant to be part of a broader solution. One element of that is continuous engagement with China, with a view to trying to seek relief from the tariff situation. Dialogue continues, and we'll continue to discuss with the canola growers and other affected stakeholders what measures they might need to support them should the situation persist.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129206">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893636"> Thank you.</ParaText>
+              <ParaText id="8893637">In conclusion, I would just hope that this government is able to get high-level meetings with their Chinese counterparts to get this resolved. These trips with no results and no meetings are not consequential and not effective. I'm hoping that's something that will be changed in the very near future.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129211">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893638"> Thank you, Mr. Barlow.</ParaText>
+              <ParaText id="8893639">I'll go to Mr. Connors for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129216">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors (Avalon, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893640"> Thank you.</ParaText>
+              <ParaText id="8893641">I want to welcome you here, same as in previous times. I come from an agricultural background. I was executive director of the Newfoundland and Labrador Federation of Agriculture for the past 14 years before I came to this position. I think I recognize a couple of faces. It's great to be back at this table, especially on this side of the table, where we can look for some solutions to move our agricultural industry forward.</ParaText>
+              <ParaText id="8893642">I want to get an update on the state of international trade with a focus on the impact of tariffs on Canada's agricultural industry and agri-food industry. What specific feedback are you hearing from the agricultural producers and farmers in Canada who have been navigating the current tariff situation? Can you give us some examples of what you've been hearing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129227">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893643"> Mr. Chair, perhaps I can offer an initial reply, and then we'll turn to Chris or other colleagues to add what they will.</ParaText>
+              <ParaText id="8893644">I know the committee will be hearing shortly from the producers directly. Certainly in our conversations with them, I would characterize anxiety as being one of the top-of-mind reactions. It's entirely understandable in these circumstances where they're facing, in some cases, prohibitive tariffs into major markets. In this situation, as in others I'm familiar with, it's the uncertainty of how long the situation will persist and what it means for the future. I think that is probably one of my key take-aways from the dialogue we've had with them to date.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13129234">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran (Assistant Deputy Minister, International Affairs and Vice-President, Canadian Food Inspection Agency, Department of Agriculture and Agri-Food)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893645"> Coupled with the tariff concerns, there are significant concerns about some of the other challenges that face canola producers with respect to regulatory barriers and non-tariff barriers. That is becoming more and more difficult to resolve in the current context as we're engaging with our interlocutors.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129238">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893646"> Could you give us some details on what has already been provided, for the record? Can you talk about the supports in place for farmers and producers who have been impacted by the tariffs? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129243">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893647"> In terms of those programs targeted specifically at the canola sector, there are several. One was an increase in funding to our AgriMarketing program, which will support agri-food stakeholders and their efforts to develop and diversify markets. It will support them in their participation in trade shows and other promotional activities. There was an increase in the interest-free portion of our advance payments program for canola producers for up to half a million dollars in interest-free funding. It's available to support them, given the potential for volatile prices in the months ahead. </ParaText>
+              <ParaText id="8893648">There were also programs that weren't specific to the canola sector, but nonetheless could benefit value-chain stakeholders, specifically the regional tariff response and the strategic response initiatives, which are being administered by the regional development agencies. They are available to businesses that are adversely impacted by tariffs.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13129263">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893649">Given Newfoundland and Labrador's unique agricultural landscape and its growing interest in food self-sufficiency, how is the department working with local producers to ensure that they can benefit from federal trade diversification efforts, like AgriMarketing, despite limited exports in our province? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129268">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893650"> We are in regular dialogue with provincial and national associations across the country. In the design and delivery of our programs, an important consideration for us is to ensure that they are accessible to smaller businesses and smaller associations. Making sure that the programs are widely available to producers and producer representative organizations of different sizes in the full value chain is something we take seriously. We are continuously seeking feedback from stakeholders. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129287">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893651">We know that members have been to China. Outside of China, what other countries have members been to with which we are engaging to diversify our agricultural industry?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129288">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893652"> We have representatives in embassies and consulates around the world engaging in a variety of markets. I know that <Affiliation DbId="318685" Type="4">Minister MacDonald</Affiliation> travelled to Asia over the summer, visiting Indonesia, Singapore and the Philippines. At different levels, we are engaging in target markets around the world on a daily basis.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129293">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893653"> Mr. Perron, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129298">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron (Berthier—Maskinongé, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893654">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8893655">Thank you to officials from the various departments who are giving us their time. We appreciate it, especially since they didn't have a lot of time to prepare.</ParaText>
+              <ParaText id="8893656">People working in the canola sector will be able to tell us more precisely later on, but I would like to hear about the mood in the industry following the implementation of support measures in response to the imposition of Chinese tariffs. I am thinking in particular of the enhancement of the AgriStability program and the Advance Payments Program. What has the response been like? Are people very grateful to you because this assistance meets their needs, or is there still a sense of urgency because it is insufficient?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129301">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893657">I can try to answer. I know the committee will be hearing from live stakeholders shortly.</ParaText>
+              <ParaText id="8893658">I think people recognize that these changes to risk management programs are a step that will help them. Earlier, I forgot to mention that measures had been put in place to promote the biofuel industry. So I think people recognize that it will help, even though I don't think many stakeholders will say it's enough. There is still uncertainty.</ParaText>
+              <ParaText id="8893659">We are continuing the dialogue with stakeholders and we will consider the next steps. We're monitoring the situation closely.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129308">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893660">I'm going to talk to you about another sector, the organic sector, where 45% of Canadian products are exported to the United States. So it is affected by tariffs—in any event, you'll be able to provide me with information on that.</ParaText>
+              <ParaText id="8893661">The Chinese market is enormous, particularly for organic yellow peas. Currently, the Chinese seem to be turning to Australia, whose geographic proximity is attractive to them. That creates uncertainty for people in the industry. People are afraid that they will never recover those markets.</ParaText>
+              <ParaText id="8893662">You spoke earlier about the Asia-Pacific region. Are there many initiatives underway? Is there any specific plans for the organic sector?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129314">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893663">We have regular discussions with representatives of the organic industry. I know that recognition of organic standards and norms is important for international trade in this sector. We are working to obtain statistics on international trade in the organic sector.</ParaText>
+              <ParaText id="8893664">I don't know if Ms. Moran has anything to add. I will simply say that, given the global situation—especially when you consider what is happening in the American and Chinese markets—it is normal for there to be uncertainty and fear throughout the agri-food sector about what might happen from one day to the next.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129328">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893665">I would like some additional information from Mr. Rosser or anyone else. I know there's been an enhancement of the AgriMarketing program with the allocation of an additional $75 million.</ParaText>
+              <ParaText id="8893666">Is any of that money going to the organic sector? That could help develop other markets in the Asia-Pacific region.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129332">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893667">In terms of supports for the sector, the AgriMarketing program is not specifically dedicated to the organic sector, but we are always there to support it. The organic market is like any other market; it takes time to establish. When there are changes or disruptions, for example, it takes a long time to recover.</ParaText>
+              <ParaText id="8893668">There is no amount set aside for the organic sector.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129338">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893669">Are producers in that sector eligible for it? Can they apply?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129339">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893670">Yes, absolutely, just like everyone else.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129341">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893671">Other sectors are also struggling. Today, there is a great deal of talk about customs duties, among other things, but I could also mention Quebec beef producers, who recently contacted me to welcome the decision to raise the ceilings for the Advance Payment Program. However, as it's repeated every year, they said they too could benefit from the program since the price of beef has risen significantly. In addition, financial institutions are not currently willing to finance livestock restocking. A calf that cost $400 to $500 last year costs around $1,500 this year, which makes restocking difficult. If financial institutions do not help them, we will have even less production, whereas Quebec does not currently produce enough beef for consumption.</ParaText>
+              <ParaText id="8893672">I am informing you of the situation so that you can discuss it further. Other sectors would need a permanent increase of this amount so that producers do not have to ask for help again nor wait for an international crisis to see it increased. I know that you cannot make a decision because you are civil servants, but I would still like to convey this message to you. Should the topic arise in discussions, you could seize the opportunity. It's just a suggestion.</ParaText>
+              <ParaText id="8893673">The United States has set tariffs of 25% on everything. How much of our agricultural and agri-food exports are affected by these tariffs? I am very concerned about the agri-food sector. Why were the countermeasures in response to the tariffs withdrawn? Producers are still greatly affected by the tariffs because many inputs come from the United States.</ParaText>
+              <ParaText id="8893674">How much of the sector is affected by the tariffs right now? Do you have any numbers? We'll need a brief answer to that question.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129353">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893675">We estimate that the vast majority of Canada's exports to the U.S.—96.5%—are duty-free as a result of their CUSMA compliance. However, there is indeed the possibility that inputs and such things could be indirectly affected.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129357">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893676">I'm indirectly bringing this to the attention of your department. On top of that, we still have the 5% left over for our main client.</ParaText>
+              <ParaText id="8893677">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129359">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893678"> That's perfect. Thank you.</ParaText>
+              <ParaText id="8893679">We'll go to the second round. We have Monsieur Gourde for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129361">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde (Lévis—Lotbinière, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893680">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893681">Mr. Rosser, what percentage of Canadian canola production is sold to China?</ParaText>
+              <ParaText id="8893682">Are Canadian canola exports to China comparable to those to the United States, or is China our best customer?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129363">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893683">If I remember correctly, China received about two thirds of our total canola seed exports last year.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129365">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893684">Geopolitics often plays a role in these situations. China's tariffs are retaliatory against Canada because we don't want to import cars made in China, so I would point out to you that, if we ever import Chinese cars, the canola issue may be resolved in the months that follow.</ParaText>
+              <ParaText id="8893685">That said, the reflex of Canadian producers next year will probably be to plant a lot less canola. However, after a production change, it can take a few years to get back to the same production levels.</ParaText>
+              <ParaText id="8893686">In addition, China's tariffs will no doubt force Canadian producers to store reserves, because they won't be able to sell everything and won't necessarily want to sell at a discount. Sometimes it's better to keep it in stock than to give it away. This will likely require additional silos. The reflex of our Canadian producers will undoubtedly be to turn to other sectors.</ParaText>
+              <ParaText id="8893687">In the long term, what does Canada's production represent in relation to global production?</ParaText>
+              <ParaText id="8893688">Two thirds of Canada's total exports are to China. What proportion of the global market do they represent? Is it a small share, like one, two or three per cent, or is it rather a considerable share?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129367">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893689">I don't have the exact numbers, but I can assure you that Canada is the largest producer of canola in the world.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129369">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893690">As part of the negotiations, it's important to remind China that, if Canadian producers decided generally to stop producing canola, the world price would likely increase because there would be less canola in stock. There are stock assessments of canola globally. If Canadians shun that production, as inventory declines, China will have to pay more to source it elsewhere. We could present that argument to our Chinese friends. In the short term, it may not scare them, but they're usually very sensitive to those kinds of arguments and they look at global stocks closely.</ParaText>
+              <ParaText id="8893691">Where does the other one third of Canada's canola exports go? Is it to a group of countries or mainly to the United States?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129398">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893692">There are markets for canola pretty much everywhere. The producers who will be testifying soon will no doubt tell you that. Japan is an important market. The U.S. is also an important market, especially for biofuels. There are exports to Europe as well. However, it is clear that China is a very important market in terms of the percentage of exports, although it is a sensitive market in terms of technical barriers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129406">
+            <PersonSpeaking>
+              <Affiliation DbId="320146" Type="47">Jacques Gourde</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893693">Canola could be transformed into oil. Unfortunately, I think China has a tariff on canola oil as well. However, this product is very interesting and is popular around the world. As part of that production, you can also turn the residue into meal. Canola meal sells very well across Canada.</ParaText>
+              <ParaText id="8893694">Could there be a program or an incentive to help Canadian producers and processors move in that direction to increase our self-sufficiency in canola oil production?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129414">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893695">I can confirm that there has been a significant investment in canola processing in recent years, especially in Saskatchewan. More and more canola oil is being manufactured for domestic consumption as well as for export. In addition, to diversify canola markets, we can also try to increase the use of canola oil in biofuel production in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129424">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893696"> Mrs. Harrison, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129425">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison (Peterborough, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893697">Thank you for being here.</ParaText>
+              <ParaText id="8893698"> I was born and raised on a beef farm in my riding of Peterborough. I took that tradition on in the last few years with my husband and my young family. We've experienced a significant drought in central Ontario and across Canada, which has been a huge stress. I just wanted to give a little background. My passion for agriculture runs deep. </ParaText>
+              <ParaText id="8893699">I guess my question for you today is this: How is the department coordinating with Global Affairs Canada and Agriculture and Agri-Food Canada to mitigate the financial impacts of tariffs on affected sectors?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129441">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893700"> Thank you.</ParaText>
+              <ParaText id="8893701"> One thing we have is people working out of embassies in order to support Canadian exporters: value-added processing and the commodity sectors. We see that having people on the ground working in the embassies is a really important avenue to ensure that there is dialogue with the importer and also to support the exporters on the ground.</ParaText>
+              <ParaText id="8893702">We're coordinating with our colleagues at Global Affairs to coordinate on trade missions and ensure that we are plugging agriculture, producers and value-added processing into all of those missions as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129458">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893703"> I might just add to that, Mr. Chair. </ParaText>
+              <ParaText id="8893704">We've already talked about many of the programs and initiatives that have been put in place this year in recognition of the exceptional circumstances facing the agri-food industry. Just to briefly reiterate them, we made important changes to the AgriStability program earlier this year. More recently, on September 5, the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> announced a number of measures—we've talked about them—such as changes to the advance payments program, initiatives to support the biofuels industry and increased support to the AgriMarketing program.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129468">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893705"> To follow up on that, earlier this month, the Government of Canada announced an additional $75 million in funding over the next five years to AgriMarketing, which seeks to develop new export opportunities for Canadian agriculture and agri-food producers. </ParaText>
+              <ParaText id="8893706">What specific activities will Agriculture and Agri-Food Canada use this funding to undertake?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129471">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893707">The program will be used to provide direct financial support to associations in the industry to undertake market development and diversification activities. Certainly participation in trade shows and marketing efforts overseas are often the types of activities that funding in that program is used to support. It's based on what the priorities are of the associations that apply for the funding. </ParaText>
+              <ParaText id="8893708">Chris may have something to add.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129478">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893709">I will add to that. </ParaText>
+              <ParaText id="8893710">We have seen a heightened degree of interest in international trade markets in new countries. That is heartening. We are selling out spaces within days at trade shows that Agriculture Canada is coordinating. It used to take weeks and sometimes months. We're also seeing a lot of interest in looking at new markets. I think that is a testament to the availability of those funds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129482">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893711"> Which international regions would be most receptive to Canadian agri-food exports?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129485">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893712"> I think almost any region is receptive. A lot of work goes on. First of all, I think there's a respectful attitude toward Canadian agricultural products across the globe. That's partly due to the reputation we have for high-quality, safe and nutritious food. It relies heavily on the fact that we have solid regulatory efforts to ensure that all of those exports are safe to eat and meet the relevant regulatory requirements.</ParaText>
+              <ParaText id="8893713"> There is technical co-operation that also goes on with partners globally. We have markets that are growing in new places, taking advantage of free trade agreements like the CPTPP—the comprehensive trans-Pacific partnership—and the CETA—the Canada-Europe trade agreement—for example. They're looking at new markets and building new markets.</ParaText>
+              <ParaText id="8893714">Agricultural markets take a long time to develop, but once they are established, they are avenues for ongoing investment and trade.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129498">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893715"> How does the federal budget balance immediate financial support to producers with investments in trade diversification and market development?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129501">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893716"> Thank you for the question.</ParaText>
+              <ParaText id="8893717">Those investments go hand in hand. There's obviously a tension to be found and there's a balance that's required for domestic supports. At the same time, it's important to look abroad. More than half of all Canadian agriculture is exported, and we continue to look for ways to support industry in its ambitions to look for new markets to promote Canadian value-added processing and to promote Canadian commodities as well.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129509">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893718"> Thank you. </ParaText>
+              <ParaText id="8893719">Mr. Perron, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129512">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893720">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8893721">Earlier, at the end of my round of questions, I brought you to the topic of agri-food. We see a lot of details on the measures for canola, and so on. However, have concrete measures been put in place to help the agri-food sector during this difficult tariff period?</ParaText>
+              <ParaText id="8893722">Perhaps investment should be encouraged. This is a shortcoming that we've been seeing for a few years in our studies in committee. I think the agri-food sector could greatly benefit from an investment program or investment incentive. The danger is that, at some point, the plant or processing site will be too outdated, and it will no longer be profitable to renovate it. Then a new one would have to be built, but that one wouldn't necessarily be built here. So this is an extremely important issue. Everything we produce has to be processed.</ParaText>
+              <ParaText id="8893723">Go ahead, Mr. Rosser.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129520">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893724">I can assure you that we are in constant dialogue with the agri-food sector to find ways the government can encourage investment in this sector. I know you're going to hear from them directly soon.</ParaText>
+              <ParaText id="8893725">I want to add that, of the programs announced by the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> on September 5, two of them can help businesses in the agri-food sector affected by the tariffs.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129526">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893726">Okay. What are those programs?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129528">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893727">I don't have the French names of those programs in front of me. I will send them to you.</ParaText>
+              <ParaText id="8893728">These programs will be managed by the regional development agencies. I will verify the exact names of those two programs and get back to the committee.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129531">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893729">Okay.</ParaText>
+              <ParaText id="8893730">A lot of people talk about trade barriers between Canadian provinces. A lot of this falls under provincial jurisdiction, but other measures could be identified.</ParaText>
+              <ParaText id="8893731">Have you worked on that? Can you identify measures that are currently being developed to promote better internal trade?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129543">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893732">Yes. A meeting of federal, provincial and territorial ministers of agriculture was held earlier this month in Winnipeg. One of the topics on the agenda was to find ways to encourage and improve interprovincial trade in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129547">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893733"> Thank you very much. </ParaText>
+              <ParaText id="8893734">Mr. Bonk, you have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129549">
+            <PersonSpeaking>
+              <Affiliation DbId="320150" Type="49">Steven Bonk (Souris—Moose Mountain, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893735"> Farmers in western Canada are facing a lot of uncertainty right now, be it because of weather, unresolved canola tariffs or the industrial carbon tax. Together, these are putting a lot of pressure on our producers and putting Canadian producers at an unfair disadvantage compared to our global competitors. </ParaText>
+              <ParaText id="8893736">I have a question for finance. Have you done an analysis on how the Liberal clean fuel standard will increase revenue for farmers? Does this include the impact of 17 cents a litre on their fuel costs? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13129553">
+            <PersonSpeaking>
+              <Affiliation DbId="314137" Type="28">Michael Mosier (Senior Director, Trade and Tariff Policy, Department of Finance)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893737"> Mr. Chair, with apologies, that's not my area of expertise. I'm not sure if other colleagues here have that information, but if not, I'd be happy to follow up and come back. It's not my area of expertise. I apologize. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129556">
+            <PersonSpeaking>
+              <Affiliation DbId="320150" Type="49">Steven Bonk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893738"> Could you table that with the committee?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129557">
+            <PersonSpeaking>
+              <Affiliation DbId="314137" Type="28">Michael Mosier</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893739"> Let me see what we can provide and I'll come back. I'll have to speak to colleagues.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129558">
+            <PersonSpeaking>
+              <Affiliation DbId="320150" Type="49">Steven Bonk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893740"> Okay. </ParaText>
+              <ParaText id="8893741">In general, farmers are planners by nature. It's really important for farmers to have stability and predictability, like any business. Canola is a very important part of the crop rotation in western Canada. </ParaText>
+              <ParaText id="8893742">What can you say to the farmers about what they should be planning for next year? When will these trade issues be resolved?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129564">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893743">In reply, I want to assure the committee that we understand fully the importance of canola to the Canadian agricultural sector. We appreciate fully, as I believe we touched on in earlier testimony, that perhaps the most difficult thing about the situation is the uncertainty it creates and how long the situation will persist. We're certainly well aware of that in regular dialogue with stakeholders and in moving forward to try to engage with the Chinese and bring resolution to the sector while supporting producers and the value chain for as long as the situation persists.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129570">
+            <PersonSpeaking>
+              <Affiliation DbId="320150" Type="49">Steven Bonk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893744"> Farmers aren't really looking for handouts. They're looking for a trade deal. I know that in my area, where I farm, we're directly north of the U.S. border with the same climate and the same soil types, yet they're not paying the industrial carbon tax. That's just one measure where we're putting ourselves at an unfair disadvantage. It's really important that we resolve these trade issues very quickly because we're already trying to play on the global markets with one hand tied behind our back. </ParaText>
+              <ParaText id="8893745">How quickly do you think we can engage directly with China, and can you tell us who you're engaging with?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129578">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893746"> At risk of repeating some earlier testimony, we engage with China at every available opportunity. Colleagues at Global Affairs may offer specifics, but there was the JETC meeting that took place with senior officials from China at the end of last month. Through our embassy and in other fora, we take advantage of every available opportunity to engage with our Chinese counterparts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129584">
+            <PersonSpeaking>
+              <Affiliation DbId="285848" Type="28">Darren Smith</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893747">If I can just amplify that, indeed, there is engagement at all levels, both at the political level, as I mentioned earlier, and also at the officials level, working hard for Canadian farmers, to try to resolve this issue vis-à-vis China. </ParaText>
+              <ParaText id="8893748">Of course, we also have our litigation options available to us. We continue to pursue this case at the WTO, defending the rights and interests of Canadian stakeholders. It's a multipronged approach. Unfortunately, it's not possible to put it on a specific time frame, but I can assure you that the effort is there and everyone is working very hard. Our two departments are working hand in hand to try to advance this issue in the best possible interests of Canadian stakeholders.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129590">
+            <PersonSpeaking>
+              <Affiliation DbId="320150" Type="49">Steven Bonk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893749"> I know there has been a lot of talk about securing new trade deals with the Asian Indo-Pacific region. In the committee of the whole—I believe it was June 10—I asked the <Affiliation DbId="318660" Type="4">Minister of International Trade</Affiliation> what countries we're currently looking at expanding our trading relationships with, and he said that they had concluded negotiations with Ecuador and Indonesia.</ParaText>
+              <ParaText id="8893750">I sent an inquiry to the <Affiliation DbId="318685" Type="4">Minister of Agriculture</Affiliation> asking which countries we are directly dealing with and what the proposed export values are that we will be receiving. The answer was that there is no response to the question I asked. I was just wondering if you could clarify that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129603">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893751">Chair, perhaps I can offer an initial reply, and I should preface it by saying that I'm not specifically aware of the inquiry to which he refers.</ParaText>
+              <ParaText id="8893752">It is true that negotiations were concluded with Indonesia and Ecuador in recent months. The next steps will be the signature and ratification of those treaties, which will involve a parliamentary process. I'm quoting from memory, but my recollection is that Indonesia is already about a $2 billion per year export market for Canada's agri-food industry. It may be difficult to estimate precisely by how much that will increase once the trade agreement comes into force, but it certainly will materially improve market access for a number of different agricultural products.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129614">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893753">We'll stop there. Thank you very much. We'll go to the final five minutes in this round. </ParaText>
+              <ParaText id="8893754">MP Dandurand, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129618">
+            <PersonSpeaking>
+              <Affiliation DbId="319875" Type="47">Marianne Dandurand (Compton—Stanstead, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893755"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893756">I'm happy to be here. My constituency has a huge amount of agricultural production. I'm glad to have this opportunity to hear your comments on our international trade situation, because a significant portion of our agricultural production is exported by necessity. Since Canada is such a major producer, its population obviously can't consume everything produced. The country is a breadbasket for the world. We have sustainable and high‑quality agriculture, which is truly a source of pride.</ParaText>
+              <ParaText id="8893757">I would like you to talk a bit about the pork sector, because this sector is affected by Chinese tariffs. My constituency has about 60 pork producers. We also know that about 80% of our pork production is exported. I believe that 25% of this amount goes to China. This raises serious concerns about how to replace this market. Moreover, certain cuts of meat are generally consumed only in China.</ParaText>
+              <ParaText id="8893758">How can we improve the situation or diversify our markets? Who can we focus on? Do programs such as AgriMarketing really help to open up new opportunities for Quebec pork producers, for example?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129646">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893759">Thank you for your question.</ParaText>
+              <ParaText id="8893760"> You're absolutely right to say that China remains a significant market for Canada's pork industry. This market also offers value for certain pork cuts that are much less valuable in other markets. It's a challenge to replace China. That's why we established an office in Manila. This office will give us the chance to help the agri‑food sector tap into other markets in the Indo‑Pacific region.</ParaText>
+              <ParaText id="8893761">It's also true that the pork sector receives significant funding from the AgriMarketing program. Increased program funding will create opportunities to expand this sector's efforts abroad.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13129661">
+            <PersonSpeaking>
+              <Affiliation DbId="319875" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893762"> Thank you.</ParaText>
+              <ParaText id="8893763">You spoke about Canada's Indo‑Pacific strategy. I believe that it was launched in November 2022. Since then, Agriculture and Agri‑Food Canada's first Indo‑Pacific office has opened in Manila.</ParaText>
+              <ParaText id="8893764">My question is for the officials from the Department of Foreign Affairs, Trade and Development.</ParaText>
+              <ParaText id="8893765">Can you provide an update on how everything is working? What results are you seeing? Which agricultural sector, particularly in Quebec, could benefit from the Manila office?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129666">
+            <PersonSpeaking>
+              <Affiliation DbId="322557" Type="28">Christine Moran</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893766">Thank you, Ms. Dandurand.</ParaText>
+              <ParaText id="8893767">The office is there for all producers.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893768"> It's completely agnostic, and we are seeing good success in value-added processing, for example. </ParaText>
+              <ParaText id="8893769">As my colleague notes, there's a particular interest in looking at new markets and replacing those markets, but also in taking advantage of the trade agreements that we've implemented. The bureau, in a very short period of time, has supported a lot of activity. I believe there will be a report issued very shortly on the recent implementation of the strategy, which will point to some of those successes, not only in the grains and oilseed sector but in meat, value-added processing, etc. </ParaText>
+              <ParaText id="8893770">One of the things that office allows us to do by having that presence on the ground is to maintain a very consistent dialogue with importing regulators and to marry up a lot of other activities related to trade shows, conferences and multidisciplinary discussions to allow Canadian excellence in agriculture to shine. </ParaText>
+              <ParaText id="8893771">We're seeing some very good success. I think our colleagues in other departments are looking at the successes of that office as an opportunity for other sectors too, because it is working.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13129680">
+            <PersonSpeaking>
+              <Affiliation DbId="319875" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893772">Thank you.</ParaText>
+              <ParaText id="8893773">Mr. Rosser, I would like to know how the Department of Finance has helped agricultural producers deal with tariffs up until now. Please keep your answer brief.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129683">
+            <PersonSpeaking>
+              <Affiliation DbId="285660" Type="28">Tom Rosser</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893774">We've already discussed this. Many programs focus directly on the canola sector. Changes have also been made to risk management programs. Lastly, in general, there are programs for companies affected by tariffs. These programs don't focus directly on the agri‑food sector.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129687">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893775"> Thank you very much, everyone. </ParaText>
+              <ParaText id="8893776">Thank you to our witnesses for joining us today. We appreciate it.</ParaText>
+              <ParaText id="8893777"> I'd like to end now and take a few minutes to suspend to get everyone queued up for the next round. Then we'll go until about 5:40, if that's okay with folks. </ParaText>
+              <ParaText id="8893778">Thank you. </ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129775">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893779"> Welcome back, everyone.</ParaText>
+              <ParaText id="8893780"> We have, I believe, eight different organizations joining us today. I want to keep time for the members to ask questions, so I'd like to go for an hour until a quarter to six, if that's okay with everyone.</ParaText>
+              <ParaText id="8893781"> I did say originally that each organization had three minutes. I'm going to cut it to two and a half minutes per presentation. Rather than pointing out the exact person—I know some groups have two or three people—I'll just say the organization, and you decide how you're going to split that time among you, the two and a half minutes. </ParaText>
+              <ParaText id="8893782">We'll start with the Canadian Canola Growers Association.</ParaText>
+              <ParaText id="8893783"> Welcome.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129782">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White (President and Chief Executive Officer, Canadian Canola Growers Association)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893784"> Thank you very much, and thank you for the invitation to be here today. </ParaText>
+              <ParaText id="8893785">My name is Rick White, and I'm the president and CEO of the Canadian Canola Growers Association. CCG is the national association for Canada's 40,000 canola farmers and represents them on issues, policies and programs that impact their farms' success. </ParaText>
+              <ParaText id="8893786">Canola is a strong economic contributor to family farms and our rural communities. In 2024, canola continued to be the number one source of crop revenue for our farmers, earning $12.9 billion and accounting for 25% of their total crop receipts. Annually the canola sector contributes $43.7 billion to the Canadian economy and provides for 200,000 jobs. I cannot overstate the importance of this issue to canola farmers and the uncertainty that's been cast over farmers' ability to market their 2025 canola crop, which they are still currently harvesting as we speak.</ParaText>
+              <ParaText id="8893787">With 90% of our canola exported as seed, oil or meal, canola farmers rely on international trade for their farms' viability. China is our largest market for canola seed, our second largest market for canola meal and, at times, a very important market for canola oil. In 2024, Canadian exports of canola seed, oil and meal to China were valued at approximately $4.9 billion. </ParaText>
+              <ParaText id="8893788">The loss of any market is a concern. The loss of our second-largest market and our largest seed market is of particular concern, so what do farmers need? Of most urgency to the entire canola industry is to get the market in China reopened again. That's what we need. We're encouraged by recent engagement with our industry at the highest levels and the efforts by both federal and provincial government officials to engage in China and with China. However, if the market cannot be reopened in the very near term, government needs to be prepared to compensate canola farmers in a manner that is commensurate with the losses they have incurred from the market closure with China. In addition, the government can support the canola industry's efforts to diversify. For example, market diversification in the form of biofuel is a long-standing policy priority of the canola industry. </ParaText>
+              <ParaText id="8893789">Beyond the challenges with China, we're highly attuned to the upcoming CUSMA review with the U.S., because the U.S. is our largest market. Underscoring the uncertainty canola farmers are feeling right now is the fact that the United States and China represented about 87% of our total canola export value in 2024. Without a doubt, canola farmers' profitability is linked to our trade relationships with both the U.S. and China.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129809">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893790">I thank you so much, and I really appreciate your being here today. </ParaText>
+              <ParaText id="8893791">I'm going to go to the Canadian Cattle Association for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13129812">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton (President, Canadian Cattle Association)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893792"> I'll try to be brief here. Thanks for the opportunity.</ParaText>
+              <ParaText id="8893793">My name is Tyler Fulton. I am a beef producer from Birtle, Manitoba. I am currently serving as the president of the Canadian Cattle Association. </ParaText>
+              <ParaText id="8893794">Through our provincial members, we represent about 60,000 beef producers. In total, the Canadian beef industry contributes about $34 billion annually to Canada’s GDP and supports about 347,000 full-time jobs.</ParaText>
+              <ParaText id="8893795">The North American beef sector is highly integrated. To give you an example, you might have a calf that is born in the United States, raised in Canada and then shipped back to the United States for processing, or vice versa. This integration has built supply chains that are not only efficient but resilient. They are benefiting producers, processors and consumers in both countries. </ParaText>
+              <ParaText id="8893796">I can give you more examples on integration. A critical factor behind our integrated success is the unlimited duty-free access for Canadian and U.S. beef established under the 1989 free trade agreement, carried forward through NAFTA and now CUSMA. Cattle and beef flow in two directions over the border without the impediment of tariffs.</ParaText>
+              <ParaText id="8893797">We did get a brief experience with the U.S. tariffs in March before the USMCA compliance exemption was announced. The tariff cost $40,000 per load of cattle and added up to $800,000 for one producer alone in two days. The total annual tariffs collected would have cost the industry $500 million and likely driven Canadian cattle prices down by about 15%.</ParaText>
+              <ParaText id="8893798">Most critically, the U.S. is the most important market for the cattle industry. While diversification is also a critical part of export-driven sectors, it's important to realize that all other markets combined cannot replace the U.S. market for our industry, given the integrated supply chains. </ParaText>
+              <ParaText id="8893799">We are expanding trade into Asia. We are very optimistic about the growth potential for high-quality grain-fed beef in the Indo-Pacific region. In particular, Japan and Vietnam are some of the fastest-growing markets. We've benefited from the CPTPP agreement, which has provided preferential access. South Korea has the potential—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129837">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893800">I'm going to stop you there. I'm sorry about that.</ParaText>
+              <ParaText id="8893801">Next, I'm going to go to the Canadian Meat Council, for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129839">
+            <PersonSpeaking>
+              <Affiliation DbId="322551" Type="28">Sylvain Fournaise (Vice-Chair, Canadian Meat Council)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893802">Good afternoon.</ParaText>
+              <ParaText id="8893803">Thank you for your invitation.</ParaText>
+              <ParaText id="8893804">I'm representing the Canadian Meat Council, where I'm the vice‑chair. I'm also a vice‑president at Olymel.</ParaText>
+              <ParaText id="8893805">As you know, the Meat Council represents many meat processing establishments, which all hold federal licenses that allow them to export.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893806">As one of the largest companies in the food-processing sector, we have annual sales of more than $32 billion and support nearly 300,000 jobs nationwide.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893807">Our members process over 90% of Canada's beef and pork. We represent members involved in exports.</ParaText>
+              <ParaText id="8893808">American tariffs are having a significant impact on the Canadian red meat industry. The United States receives approximately 50% of our exports. The North American meat industry is one of the most globally integrated industries. It accounts for nearly $16 billion in sales and trade with other countries.</ParaText>
+              <ParaText id="8893809">China remains a significant, unique and strategic market. In the past five years, this country accounted for 20% of Canadian pork exports. The volume of exports and access to the Chinese market have been unstable.</ParaText>
+              <ParaText id="8893810">Canadian beef has been largely shut out since 2019. Before the ban, China was Canada's fifth‑largest beef market, worth nearly $100 million annually.</ParaText>
+              <ParaText id="8893811">For pork, the 25% tariff continues to erode Canadian competitiveness, reducing processor margins by an average of $8.80 per hog. This amounts to nearly $177 million in annual losses for our sector. In addition, we bear these direct costs because of trade disputes related to support for other industries.</ParaText>
+              <ParaText id="8893812">For Olymel alone, tariffs are projected to reduce profits by $17 million in the 2025 fiscal year. If current conditions persist, the impact could grow to $30 million for the 12 months of 2026. </ParaText>
+              <ParaText id="8893813"> These tariffs come at a time when the fresh pork sector is already facing significant challenges. As a result, we risk delaying planned investments. Ultimately, we may be forced to make difficult decisions to limit our losses. The amounts resulting from the imposition of tariffs are drawn directly and solely from the pockets of processors.</ParaText>
+              <ParaText id="8893814">As you can see—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129854">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893815"> I'm sorry, but I'm going to stop you there, sir.</ParaText>
+              <ParaText id="8893816">I'm sorry that I'm rushing folks. We had lots of people who wanted to come out and make deputations and be witnesses today, so I'm trying to fit everyone in here. The most important part will be the questions directed to your sectors, where you can provide even more information. I appreciate your patience.</ParaText>
+              <ParaText id="8893817">We'll go to the Canadian Pork Council.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129857">
+            <PersonSpeaking>
+              <Affiliation DbId="302396" Type="28">René Roy (Chair, Canadian Pork Council)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893818">Good afternoon.</ParaText>
+              <ParaText id="8893819">Mr. Chair, thank you for this invitation.</ParaText>
+              <ParaText id="8893820">I would also like to thank all the committee members for letting me work with them on this issue.</ParaText>
+              <ParaText id="8893821">My name is René Roy, and I'm a pork producer in Quebec and the chair of the Canadian Pork Council.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893822">Let me give you a quick summary of three tariff impacts in our sector, impacts we have felt in direct and indirect ways.</ParaText>
+              <ParaText id="8893823">First, China has imposed a 25% tariff on pork products, and that loss has impacted producers and processors. Tariffs introduced from the U.S., although brief for our products and our live animals, also had an impact. We continue to work through the accounting for that with both the federal and provincial governments.</ParaText>
+              <ParaText id="8893824">Second, our producers are paying more for some inputs and for farm machinery, among other items, because of tariffs on inputs such as aluminum, steel and other products. Indeed, producers on both sides of the border are paying for these measures.</ParaText>
+              <ParaText id="8893825">Third, and perhaps having the largest impact, is the uncertainty that has been created for future investment. It is difficult for producers to plan for the future if they can't know the rules of engagement in advance. That's why we're asking the government to negotiate a fair and free CUSMA, so we can understand the business environment we will live in and benefit from it. We also want to recognize the federal government's commitment to provide some measure of support by increasing, notably, AgriMarketing, although we believe that additional support will be required.</ParaText>
+              <ParaText id="8893826">Some producers are currently in Japan today. We are continuing to make sure that we diversify our market. Japan is today our largest customer, because we have changed the way we proceed with our industry. As you are aware, we are exporting about 70% of our pork products around the world. Trade is certainly of major interest to us and has significant tactical and strategic impacts for us.</ParaText>
+              <ParaText id="8893827">Thank you. I'm willing to answer your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129881">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893828">Thank you very much. I appreciate that.</ParaText>
+              <ParaText id="8893829">The Canola Council of Canada is next.</ParaText>
+              <ParaText id="8893830">You have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129884">
+            <PersonSpeaking>
+              <Affiliation DbId="286152" Type="28">Chris Davison (President and Chief Executive Officer, Canola Council of Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893831"> Thanks very much.</ParaText>
+              <ParaText id="8893832"> My name is Chris Davison. I'm the president and CEO of the Canola Council of Canada.</ParaText>
+              <ParaText id="8893833">The council is a national value-chain organization, representing approximately 40,000 canola farmers together with exporters, processors and life science companies. Our industry, as you heard a few minutes ago, represents $43.7 billion in direct, indirect and induced economic activity annually and supports over 200,000 jobs across the country and $16 billion in wages. Canola also represents one of the largest and main sources of farm cash receipts.</ParaText>
+              <ParaText id="8893834">International trade is critical to the success of the industry. The vast majority of canola products are destined for international markets, with exports totalling $14.5 billion in 2024.</ParaText>
+              <ParaText id="8893835">As you know, we are currently shut out of our second-largest export market, China, which represented $4.9 billion in export value in 2024. This is the result of an anti-discrimination investigation, which led to 100% tariffs on Canadian canola oil and meal in March of this year, followed by a preliminary anti-dumping duty of 75.8% on canola seed announced this past August. China's anti-dumping investigation is ongoing and has recently been extended until March 2026.</ParaText>
+              <ParaText id="8893836">While it is still relatively early in terms of the imposition of these tariffs, removal of a demand signal of the magnitude of China has widespread impacts on the industry, starting at the farm gate and extending across the value chain. Farmers, as you heard, are currently harvesting this year's crop and face an uncertain future. What will their marketing options be for this year's crop? What price will they receive if these tariffs remain in place for an extended period of time? What are the implications for cash flow and their ongoing farm operations?</ParaText>
+              <ParaText id="8893837">The uncertainty and unpredictability farmers are facing extends to the full canola value chain, including processors and exporters, whose infrastructure and assets are not being fully utilized. This is not cost-neutral in terms of its impact. It is cost negative, and it comes at a time of significant investment by the industry, including to significantly increase domestic canola-processing capacity.</ParaText>
+              <ParaText id="8893838">While we are fortunate that Canadian canola and canola products have a very strong reputation and that there are other markets that want what we produce for a variety of reasons, they cannot be expected to make the Canadian canola industry whole in terms of volume or value as a result of the demand signal that has been lost with the closure of the Chinese market.</ParaText>
+              <ParaText id="8893839"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129906">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893840"> Thank you very much. You had 30 seconds to spare. I appreciate that. </ParaText>
+              <ParaText id="8893841">From Food and Beverage Canada, we have Ms. Farrell. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129908">
+            <PersonSpeaking>
+              <Affiliation DbId="302704" Type="28">Kristina Farrell (Chief Executive Officer, Food and Beverage Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893842"> Thank you. </ParaText>
+              <ParaText id="8893843">Food and beverage manufacturing is Canada's largest manufacturing sector and largest manufacturing employer, employing more than 318,000 Canadians. When we're talking about this industry, we're talking about the livelihoods of hundreds of thousands of families and the stability of food supply that Canadians rely on. </ParaText>
+              <ParaText id="8893844">The biggest challenge for us today is unpredictable access to our most important market—the U.S. Roughly 80% of Canadian agri-food exports go south of the border. Our supply chains are so tightly integrated that even small shocks cascade quickly. While we appreciate the government's efforts, many existing programs to support our industry still miss the mark. Too often these programs are narrow in scope, slow to deploy and too complex for small companies to take advantage of, or they exclude companies that are integral to our supply chains in their criteria. This leaves many manufacturers without meaningful support. </ParaText>
+              <ParaText id="8893845">We were pleased to see the domestic processing fund in the Liberal Party's platform. However, respectfully, $200 million is simply not enough dedicated support for Canada's largest manufacturing industry. For many companies, annual operating costs go into the millions of dollars, meaning that this fund risks being oversubscribed quickly. Similarly, the regional tariff response initiative is a step in the right direction, but its restriction to companies with fewer than 500 employees excludes many of the larger manufacturers that anchor Canada's domestic food production capacity. </ParaText>
+              <ParaText id="8893846">Given the investment needs of our industry and the gaps in current programs, we're hopeful that the newly announced strategic response fund will prioritize our industry and companies big and small. Supporting this industry is critical not only to Canada's food sovereignty but also to enabling us to compete with imports, diversify our export markets and seize new international opportunities. </ParaText>
+              <ParaText id="8893847">We agree that market diversification is important, but strengthening domestic competitiveness must be part of this strategy. This means tackling key structural challenges—labour shortages, by extending expiring work permits, ensuring pathways to permanent residency and ensuring our access to the temporary foreign worker program; and regulatory burdens, by reducing duplicative or outdated regulations that cause unnecessary costs and delays—providing capital investments and supports, and avoiding new sources of domestic uncertainty, such as ensuring that food is exempt from Bill <Document DbId="13547622" Type="3"> C-5</Document>. </ParaText>
+              <ParaText id="8893848">A competitive domestic processing industry is the foundation that allows Canada to add value to its primary agriculture, to supply quality and affordable food to Canadians and to withstand trade disruption. Without it, we risk losing capacity, jobs and resilience.</ParaText>
+              <ParaText id="8893849"> Thank you. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129925">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893850"> You had 10 seconds to spare. Thank you so much. I appreciate that. </ParaText>
+              <ParaText id="8893851">Next is Mr. Cherewyk from Pulse Canada. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129927">
+            <PersonSpeaking>
+              <Affiliation DbId="203588" Type="28">Greg Cherewyk (President, Pulse Canada)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893852">Good afternoon, Mr. Chair and members of the committee. Thank you for the opportunity to appear today on behalf of Canada's 26,000 farmers and over 100 companies that are part of the Canadian pulse industry. </ParaText>
+              <ParaText id="8893853">Canada accounts for close to one-third of the global pulse trade. Upwards of 85% of what we produce is exported. Put simply, our sector does not work without open access to international markets. The 100% retaliatory tariff imposed by China has had a profound consequence on the Canadian pulse industry. China has been a critical market for us since the mid-1990s. After India restricted its imports in 2017, China emerged as our largest buyer. </ParaText>
+              <ParaText id="8893854">Over decades, the work of farmers and the trade transformed this market from a 20,000-tonne market to one of over two million tonnes. Over the past five years, we've shipped 3.7 billion dollars' worth of Canadian peas to our customers in China. Because of that work, customers have a strong preference for Canadian peas. However, the 100% tariff is too much for them to absorb. They're being forced to look to our competitors in the Black Sea region. </ParaText>
+              <ParaText id="8893855">The reality is that this business will not be easily won back. While we often hear that the industry will have to diversify, let me be clear: There is no ready alternative that can replace sales of this scale. Creation of entirely new demand takes years. </ParaText>
+              <ParaText id="8893856">Since the tariff was announced, the price of yellow peas has fallen 43%, and 50% for greens. These low prices, combined with slow movement and no other readily available markets, have translated into an estimated net loss at the farm gate of $637 million. This figure worsens every day. For many growers, that means the difference between breaking even and falling into the red. Companies who invested in facilities that process one of Canada's biggest pulse crops now face uncertainty about throughput. Support measures in the form of loans are really not the answer. </ParaText>
+              <ParaText id="8893857">Imagine, Mr. Chair, taking a 50% pay cut at your job only to be offered the chance to take out a loan to make up the shortfall. Our farmers would stress to you that they want the emphasis put back on getting their market open. Canada's pulse industry can no longer afford to be collateral damage in a dispute that has nothing to do with the products we produce. The idea that farmers can grow something else and sell it somewhere else betrays a lack of understanding of Canadian agriculture and the markets it serves. </ParaText>
+              <ParaText id="8893858">The pulse sector is resilient, and we are committed to our role as a trusted supplier of high-quality, sustainable food, but we cannot do it alone. To be effective, we need government to champion a trade policy that safeguards the livelihoods of Canadian farmers. </ParaText>
+              <ParaText id="8893859">Today we ask Parliament and the Government of Canada to act with greater urgency, to restore access and to put agriculture back on stable ground. </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129942">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893860"> Thank you very much. </ParaText>
+              <ParaText id="8893861">Our last presenter, from the Union des producteurs agricoles, is Mr. Caron and David Tougas, I believe.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129944">
+            <PersonSpeaking>
+              <Affiliation DbId="286622" Type="28">Martin Caron (General President, Union des producteurs agricoles)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893862">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893863">I would also like to thank the members of the House.</ParaText>
+              <ParaText id="8893864">My name is Martin Caron. I'm the general president of the Union des producteurs agricoles, or UPA. I'm a dairy, grain and processing vegetable producer.</ParaText>
+              <ParaText id="8893865">The UPA represents 42,000 agricultural producers who operate 29,000 farms across Quebec, in each of our regions and rural areas.</ParaText>
+              <ParaText id="8893866">The year 2025 has been marked by a series of shocking statements, suspensions and reversals by the Trump administration, which eventually imposed tariffs on a number of countries. The Canadian agriculture sector was largely exempted thanks to the Canada-United States-Mexico Agreement, or CUSMA. However, the softwood lumber sector wasn't spared, and it has particularly affected timber producers in private forestry.</ParaText>
+              <ParaText id="8893867">On August 5, 2025, Prime Minister Carney unveiled a $1.2‑billion plan to support the forest economy, since tariffs on Canadian softwood lumber recently doubled. However, it should be noted that our private forestry producers don't have access to the planned measures.</ParaText>
+              <ParaText id="8893868">The counter tariffs that Ottawa imposed on American goods, including a number of agri-food inputs, have also weighed heavily. The September removal was welcome.</ParaText>
+              <ParaText id="8893869">I'd like to take a moment to thank all elected officials for passing Bill <Document DbId="13539592" Type="4">C-202</Document> to protect supply management. By passing that bill, Canada has sent a clear message to Canadian producers, the international community and our trading partners, who are also protecting sensitive sectors without hesitation. Just look at the sugar and cotton sectors in the United States or the rice sector in Japan.</ParaText>
+              <ParaText id="8893870">Let's talk about the tariffs that China imposed. As Mr. Davison said, canola production in Quebec is much lower than in western Canada and comes mainly from a few regions, namely Saguenay—Lac-Saint-Jean, Abitibi-Témiscamingue and the Lower St. Lawrence. Canola is suited to our northern regions and provides an option where there is little soy and corn.</ParaText>
+              <ParaText id="8893871">In recent years, this crop has been profitable for the three regions I just mentioned. However, the tariffs imposed this year have had a direct impact on seed crops.</ParaText>
+              <ParaText id="8893872">China has been imposing a 25% surtax on Canadian pork since March. As Mr. Roy said, this decision weakens the strategic export market and leads to an increased need for support and diversification. Let's not forget that the pork sector was hit hard in 2019.</ParaText>
+              <ParaText id="8893873">Canola, like pork, has nothing to do with electric vehicles.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129965">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893874">Can you wrap it up, sir? Thank you so much. </ParaText>
+              <ParaText id="8893875">Again, I apologize that we had to limit your time, but we do appreciate all of your testimony today.</ParaText>
+              <ParaText id="8893876"> We start the first six-minute round, and we'll go to Mr. Barlow, from the Conservatives.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129968">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893877"> Thanks, Chair.</ParaText>
+              <ParaText id="8893878">Thanks to our witnesses for being so accommodating. I know it's odd having seven or eight of you at one panel, but we want to try to get as many of you in as possible.</ParaText>
+              <ParaText id="8893879"> I'm going to ask quick questions, and I'm going to ask the witnesses to give me very concise, quick answers, as best you can, so I can make the best use of my time.</ParaText>
+              <ParaText id="8893880">To Mr. Roy from the pork council, has the Liberal government given you or found you any additional markets that would replace the Chinese market, which you lost as a result of the tariffs?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129976">
+            <PersonSpeaking>
+              <Affiliation DbId="302396" Type="28">René Roy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893881">It's impossible to replace the market of China because it's a really specific market and it's a large market for us. We are working hard, but it's really hard to do it because of the type of market they have. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129981">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893882"> Thank you. </ParaText>
+              <ParaText id="8893883">Tyler, on the cattle side, the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> was in Europe, signing these memoranda. In any of those memoranda, and with the U.K. new free trade agreement, was anything done to get Canadian beef access to the European Union and to the U.K., such as eliminating the carcass wash or the hormone non-tariff trade barriers to give you access to those markets? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129990">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893884">No. We are still dealing with the same non-tariff barriers that we have struggled with since the signing of CETA.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13129993">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893885"> Thanks. </ParaText>
+              <ParaText id="8893886">Greg, you said that, on the pea side, China is a massive market. We've had issues with India. Has the Liberal government found any markets outside of China and India that can replace those markets for Canadian pea producers? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13129998">
+            <PersonSpeaking>
+              <Affiliation DbId="203588" Type="28">Greg Cherewyk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893887"> China and India are 81% of Canada's exports of peas. There is simply no replacing either China or India. A 1.5-million tonne export program into China cannot be replaced with any one market in any short period of time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130002">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893888"> Thank you.</ParaText>
+              <ParaText id="8893889"> I just want to bring this to your attention. Some of you may have heard the panel earlier. The government and the officials were talking about how important it is to diversify markets, and they're finding all of these new markets for Canadian agricultural commodities. However, when we asked them to name specific countries, none of them could name any.</ParaText>
+              <ParaText id="8893890">As a matter of fact, we asked an Order Paper question, and I want to quote the question exactly:</ParaText>
+              <ParaText id="8893891">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> With regard to government measures to open agricultural markets in Southeast Asia to Canadian products: what is the quantity and dollar value of Canadian agricultural products that the government projects will be exported from Canada for each of the next five years, broken down by product and country?</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8893892"> The response from Agriculture and Agri-Food Canada was this: “Agriculture and Agri-Food Canada...does not possess the projected information requested related to Southeast Asia.”</ParaText>
+              <ParaText id="8893893"> I'm finding it very difficult because the government is talking about how important it is to diversify markets as a result of issues with the United Kingdom, the European Union and China, yet it has no data whatsoever in terms of potential access to new markets. It keeps talking about them, but it's done no work to even give a projection of what potential is there.</ParaText>
+              <ParaText id="8893894">To add to that, just a few months ago, Agriculture and Agri-Food Canada put out its self-ranking on how it has done over the last three years in advancing trade and policy through negotiations, agreements and discussions. Its goal as a department is 80%. It gave itself a 90% mark on its success rate in advancing trade policy through negotiations, agreements and discussions. I think, given everything we've discussed here today, I don't know anybody who would give themselves a 90% grade.</ParaText>
+              <ParaText id="8893895">Maybe I'll start with you, Mr. White. Would you agree with that ranking of a 90% success rate?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130018">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893896"> I can't think of it from a canola perspective, no. It doesn't make sense—90% from a canola perspective—no.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13130022">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893897">Maybe, Rick, I'll stick with you while I have you.</ParaText>
+              <ParaText id="8893898"> What was the impact of the 2019 canola crisis, when we went through something similar with China? Do you have an idea of what the economic impact of this latest tariff war would be?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130024">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893899">I'll be as quick as I can.</ParaText>
+              <ParaText id="8893900">Back in 2019, we lived through that one too, and that wasn't very long ago—six years ago. At that point in time, seed exports to China fell from $2.8 billion in 2018, before the restrictions, to $800 million in the following year, in 2019. Then it came up to $1.4 billion in 2020 and up to $1.8 billion in 2021.</ParaText>
+              <ParaText id="8893901">I haven't added all that up for the total economic impact, but the point is that it really sagged in the first year and didn't even get back by two years later. That instance had much less of an impact than we anticipate this one to have. For this one, we're looking at 5.9 million tonnes of demand being locked out of China. If we look at the futures market, we see that it has sagged about $40 per tonne to the farmer. Add on an extra $40 per tonne for the basis on top of that. It's about an $80 per tonne hit right now. For 20 million tonnes, farmers are taking it on the chin for $1.6 billion at this point in time, estimated.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130041">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893902">Thanks, Rick.</ParaText>
+              <ParaText id="8893903"> Chris Davison, would you have similar numbers from your association as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130043">
+            <PersonSpeaking>
+              <Affiliation DbId="286152" Type="28">Chris Davison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893904"> Yes, from 2019, over a 17-month period, there was work done at that time that said that the impact in terms of lost sales and lower prices was between about $1.54 billion and $2.3 billion. As Rick alluded to, that was a partial closure of the market, so we saw exports of seed drop between 50% and 70%.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130044">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893905"> Thank you very much.</ParaText>
+              <ParaText id="8893906">Thank you to our witnesses.</ParaText>
+              <ParaText id="8893907"> MP Chatel, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130045">
+            <PersonSpeaking>
+              <Affiliation DbId="319878" Type="47">Sophie Chatel (Pontiac—Kitigan Zibi, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893908">Thank you very much, Mr. Chair.</ParaText>
+              <ParaText id="8893909">I'd like to thank all our witnesses for being here to discuss a really important topic that affects the entire agricultural sector to varying degrees, but especially our canola, pork and pea producers, as we've heard.</ParaText>
+              <ParaText id="8893910">I completely understand what Mr. Cherewyk said. Tariffs are indeed important; they're the main source of concern for our government and for the sector. Tariffs definitely won't replace negotiations. In fact, Canada considers free trade to be a top priority. We're the only G7 country to have a free trade agreement with all the other G7 countries. That shows just how important free trade is for our government and for the country.</ParaText>
+              <ParaText id="8893911">I heard that Imperial Oil has a facility in Strathcona that's able to use half of the canola production in Alberta. That's an interesting avenue. Global trade is going through turmoil that's here to stay. This is a very difficult time for all countries in this field.</ParaText>
+              <ParaText id="8893912">Can this kind of biofuel production help the sector as part of the solutions for growing the Canadian economy?</ParaText>
+              <ParaText id="8893913">I'd like to hear Mr. White's answer.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130059">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893914"> Domestic biofuels production in Canada has been a long-standing policy of the canola industry, particularly for farmers. What farmers would like out of that is to see domestic usage of their canola going into a domestic biofuels market as a way to diversify our heavy reliance on export markets. It's a market we can control and it's a market we can develop, but it's not there yet. Even though Imperial Oil has invested, we don't see much happening yet.</ParaText>
+              <ParaText id="8893915"> We ship our oil and our product around the world, to the U.S., the EU and other jurisdictions that are doing exactly that. They're grinding it up or they're utilizing it as a fuel. We should be doing that in Canada too. As farmers, we want to see it happen, but there are some hiccups.</ParaText>
+              <ParaText id="8893916">Maybe Chris Davison from the Canola Council, who's closer to the crushers, can answer in more detail why that's not happening now.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130064">
+            <PersonSpeaking>
+              <Affiliation DbId="319878" Type="47">Sophie Chatel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893917">Would you like to add anything, Mr. Davison?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130066">
+            <PersonSpeaking>
+              <Affiliation DbId="286152" Type="28">Chris Davison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893918">Let me build on those comments in terms of the opportunities a domestic biofuels market offers.</ParaText>
+              <ParaText id="8893919">We see it as a very important opportunity, as Rick said, for the Canadian canola industry. Since 2022, we've witnessed over $2 billion in industry investment to expand our domestic crush capacity in Canada. A big catalyst for that is the nascent but growing biofuels market in Canada. We see that as an excellent diversification opportunity, as was alluded to.</ParaText>
+              <ParaText id="8893920"> It means doing more value-added work here in Canada. It means de-risking some of our trade and it means more marketing options for farmers at the farm gate, but these are policy-driven markets. They are subject to changes in policy made by governments, so we need to make sure they are as effective as possible to support a domestic industry.</ParaText>
+              <ParaText id="8893921"> We want to see that in Canada and have canola as an important feedstock for a domestic biofuels industry here in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130071">
+            <PersonSpeaking>
+              <Affiliation DbId="319878" Type="47">Sophie Chatel</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893922">Thank you. You certainly have allies on this committee and in the government on this.</ParaText>
+              <ParaText id="8893923">Mr. White, you were at the meeting with the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> to discuss international trade issues with China, among other things. Mr. MacDonald, the <Affiliation DbId="318685" Type="4">Minister of Agriculture and Agri-Food</Affiliation>, was there. I know that this morning on CBC, Andre Harpe described that meeting as a productive two-way conversation.</ParaText>
+              <ParaText id="8893924">Could you talk about how productive it was to have that conversation with our Prime Minister to find a solution to China's tariffs?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130073">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893925"> Thanks for the question. </ParaText>
+              <ParaText id="8893926">Yes, it was. The <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> called us together because he wanted to hear directly from the canola industry. We really appreciate that. The dialogue was not just talking at us but an actual conversation going back and forth.</ParaText>
+              <ParaText id="8893927"> I think what we impressed upon everyone in the room, including the <Affiliation DbId="318685" Type="4">agriculture minister</Affiliation> and others, was that the gravity of the situation is pretty significant. The longer this goes on, the worse it will get. I think we had a better understanding, and maybe the government had a better understanding, that we have a window of opportunity here to negotiate this thing away. If we can do that, we'll come out pretty quick. I'm talking a few months here—maybe by Christmas. After that, it's going to be more difficult. </ParaText>
+              <ParaText id="8893928">Those are the kinds of conversations we had. Diversification and biofuel opportunities, etc., came up. It was a good conversation, but at the same time, we don't know how long this is going to be. Our advice was to be prepared for longer than anticipated. Be ready for the worst and hope for the best. The best would be that we can get this resolved or negotiated away by the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> with the President of China. This is a political problem and it's going to need a political answer. We got that message across as well. </ParaText>
+              <ParaText id="8893929">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130082">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893930"> Thank you very much.</ParaText>
+              <ParaText id="8893931">Mr. Perron, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130083">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893932">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893933">I'd like to thank the witnesses for giving their valuable time to be with us today.</ParaText>
+              <ParaText id="8893934">Mr. Caron, you piqued my curiosity earlier when you talked about the softwood lumber measure that doesn't affect private producers.</ParaText>
+              <ParaText id="8893935">Do you have any suggestions for the government on that issue? Couldn't the government adjust that measure accordingly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130086">
+            <PersonSpeaking>
+              <Affiliation DbId="286622" Type="28">Martin Caron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893936">Yes, absolutely.</ParaText>
+              <ParaText id="8893937">It should be noted that there have been cost increases and five statements since the start of the softwood lumber dispute a few years ago. That represents $10 billion overall, including $2 billion for private forestry producers. Programs were implemented, as was the case, but private forestry producers aren't feeling the effects because they don't receive subsidies for their softwood lumber or forests. They can't get financial support, but they're still penalized. The tariffs are now at 35%, which is having a major impact on the sector. We're also seeing a decrease in demand in the private forest sector.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13130088">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893938">Okay. Thank you. We'll take good note of that.</ParaText>
+              <ParaText id="8893939">Speaking of programs that don't affect all sectors, financial support has been increased, particularly for canola. We're very pleased with this decision. I think it was justified. Canola farmers will obviously tell us that it still isn't enough. I think we already know the answer.</ParaText>
+              <ParaText id="8893940">Mr. Caron, are there any specific productions? I don't know if you were here for the first hour of the meeting. I asked the deputy minister some questions, including about beef producers, who said they would also have liked to benefit from an increase in financial support under the advance payments program.</ParaText>
+              <ParaText id="8893941">Can you tell us what Quebec's agricultural sector needs right now in terms of federal financial support?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130091">
+            <PersonSpeaking>
+              <Affiliation DbId="286622" Type="28">Martin Caron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893942">I can talk about Quebec, but I can also talk about Canada. We need financial support that reflects the difficulties we're currently experiencing. We would greatly appreciate any financial support for beef production. We're currently in a position to have a vision for our production's export. That's what we're seeing across all sectors.</ParaText>
+              <ParaText id="8893943">Our exports have increased by 57% over the last 10 years, since 2014. However, we need an action plan on diversification. The government should really make the entire food sector a national priority and continue to increase those exports.</ParaText>
+              <ParaText id="8893944">Doing so requires a tool, an action plan, accompanied by investments. That would enable us to meet the needs caused by climate change and all the issues related to animal welfare.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130100">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893945">Okay. Thank you very much.</ParaText>
+              <ParaText id="8893946">Are you also concerned that canola producers, for example, will diversify their production, meaning that they will reduce their canola production to do something else? That was actually discussed in the first hour of the meeting; there was an interesting analysis on the world price.</ParaText>
+              <ParaText id="8893947">I invite Mr. White to answer that question after you, Mr. Caron. I'd like to hear your comments on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130105">
+            <PersonSpeaking>
+              <Affiliation DbId="286622" Type="28">Martin Caron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893948">That's right.</ParaText>
+              <ParaText id="8893949">When the agricultural businesses in our remoter areas diversify, that creates added value while also making it possible to meet the objectives that Canada set for itself on the international stage at the 16th Conference of the Parties to the United Nations' Convention on Biological Diversity, or COP16. For that reason, it's a good thing to support that diversification.</ParaText>
+              <ParaText id="8893950">The same is true when it comes to organic products, which you also talked about. We need support for those markets, which also have to diversify because of what's happening in the United States and because it isn't that simple to find new markets. We have to be able to support businesses.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130116">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893951">Thank you.</ParaText>
+              <ParaText id="8893952">Mr. White, do you have anything to add about the culture change your members are experiencing? Does that worry you?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130119">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893953"> Yes, I could probably add a bit. </ParaText>
+              <ParaText id="8893954">In terms of the advance payments program for farmers, especially canola farmers, the increase of the interest-free amount from $250,000 interest-free to $500,000 for canola farmers specifically, I think farmers in the short term will appreciate that, but it's not the right tool if this ends up to be a protracted crisis. That loan has to be paid back in September next year. It may buy some time and it may decrease some of the interest on it, but it's still a loan. That $500,000 is still going to have to be paid back, and that's where the issue is.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130129">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893955">Thank you.</ParaText>
+              <ParaText id="8893956">I'd be remiss if I didn't get to Ms. Farrell before my time ran out.</ParaText>
+              <ParaText id="8893957">I spoke earlier about the agri-food world. We often talk about what we produce, but we have to process what we produce.</ParaText>
+              <ParaText id="8893958">What are your needs right now? What message do you have for the government?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130132">
+            <PersonSpeaking>
+              <Affiliation DbId="302704" Type="28">Kristina Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893959"> My message today is that, as Canada's largest manufacturing industry, we need to be able to resource it and support it sufficiently, and I don't feel that we have to date. That's not just financial support. It could also be helping us address some of the regulatory burdens that we have under way and working with us to address our labour shortages as well. I hope that's the message I can leave behind today.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130137">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893960">How do we encourage investment in your sector? Are there ways?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130139">
+            <PersonSpeaking>
+              <Affiliation DbId="302704" Type="28">Kristina Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893961"> It's certainly giving us access to existing programs that have recently been announced. I think one of our concerns is that we aren't typically seen as one of the sectors needing investment or where we can really attract global investment as well, so it is working with industry. I think industry has a lot of ideas as to the types of programs that would be helpful to us. Existing programs to date don't really work for us. One example is the strategic innovation fund. Only one food and beverage manufacturing company has ever been successful in accessing that fund, so I think it's working with us to make sure that our existing funds and programs meet the needs of Canada's food and beverage manufacturing industry.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130145">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893962"> Thank you very much, Mr. Perron. </ParaText>
+              <ParaText id="8893963">We have roughly 18 minutes left until we said we were going to end the meeting. We do have another round. The next round will take 22 minutes. Can we just do the one round and then we'll end there, or is there a desire to go an extra round? </ParaText>
+              <ParaText id="8893964">Go ahead, Mr. Barlow. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130150">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893965"> I'm wondering if I can suggest, and I appreciate it, that, because this issue is so important, we do the one round and then every party gets a two-minute last third round. We'll just to try to keep it quick. I know we'll get close to six o'clock, but I think this is an important issue. Is everybody okay with that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130153">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893966"> Yes, so we'll do the final round. We'll do two, two and two, if that's fair. </ParaText>
+              <ParaText id="8893967">Are you okay with that? You have a bonus at the end. Great.</ParaText>
+              <ParaText id="8893968">Go ahead, Mr. Barlow.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130155">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893969"> Thanks, Chair. </ParaText>
+              <ParaText id="8893970">Mr. White, you mentioned in your answer to a previous question that it's important that you have, on the fuel standard, domestic supply—and I think you're carefully choosing those words—and that not much is happening yet. In fact, you have the biodiesel refinery in Hamilton closing, and the reason they were closing was the flood of cheap seed stock and biodiesel from foreign countries, such as used cooking oil, soybean and corn from the United States. </ParaText>
+              <ParaText id="8893971">The reason that we oppose the Liberal fuel standard is that it adds 17¢ a litre to Canadian consumers, so it's another consumer carbon tax. It is also one of the most complicated pieces of legislation in our history, and the regulatory red tape has made it impossible for Canadian canola growers and Canadian biofuel growers, let's say, to compete with cheaper foreign stock. Is that a fair assessment—that the system, the way it is set up now, is not going to benefit Canadian canola growers? </ParaText>
+              <ParaText id="8893972">Have you done an assessment of the impact? Will this be a financial gain? Have you done that analysis for Canadian canola growers as the system is now?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130171">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893973"> For financial gain, to be honest, we need to tighten up some of these things. It's not just about the clean fuel standard. It is about foreign UCO coming in and displacing Canadian canola feedstock. Both of those things need to be fixed before a biofuel industry can take root, and what we're looking for is to increase domestic demand. </ParaText>
+              <ParaText id="8893974">In terms of taxation, there are things the government could do. Detax the renewable component for diesel fuel, for example, to help soften the blow if there are concerns about price increases. I'm not sure about the 17¢ a litre thing. I haven't done those calculations, but at the end of the day, if you detax it, it'll soften the blow for consumers.</ParaText>
+              <ParaText id="8893975"> For farmers, though, it's about 2.5 million tonnes of seed demand. If we can get this right, we can deal with the foreign UCO and get the regulations right to stabilize the investment environment for those investments to be made and to stay. They need a clear signal from the government that these regulations are right and they're long-term.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130184">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893976">Thanks, Mr. White.</ParaText>
+              <ParaText id="8893977">The Parliamentary Budget Officer's analysis was 17¢ a litre as a result of the fuel standard, so that fact is there.</ParaText>
+              <ParaText id="8893978">I'd like to give the rest of my time to Mr. Bonk.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130189">
+            <PersonSpeaking>
+              <Affiliation DbId="320150" Type="49">Steven Bonk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893979"> My question is for the Canadian Cattle Association.</ParaText>
+              <ParaText id="8893980">After many years of a tough slog in the cattle business in Canada, it's turning out to be a bit of a bright spot in Canadian agriculture at the moment. However, the numbers you mentioned in your opening preamble from the brief period of time when the tariffs were applied to the cattle industry send a chill through every cattle producer in Canada.</ParaText>
+              <ParaText id="8893981">Could you talk about the overreliance we have on the American market? I know it's a very integrated market, but could you speak to how we could add more value in Canada through more feeding capacity or more slaughter capacity?</ParaText>
+              <ParaText id="8893982"> I'll let you express your thoughts on that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130199">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893983">We have a generational opportunity in the cattle business now. It's unlike anything I've seen in my career, and we're the same age, I think, or pretty close to it, Steven. I think it would be fair to say that this is across the country. It's not unique to the west, the east or any part of the country.</ParaText>
+              <ParaText id="8893984">There is opportunity in growing the herd. In order for us to do that, we need to see certainty come back into the market, or at least have the government provide some tools that would allow us to gain that certainty. There's an exceptional opportunity, particularly for the cow-calf operations, to grow the herd, start that value chain and really grow that opportunity.</ParaText>
+              <ParaText id="8893985">To reference the exposure that the feeding sector, specifically, has to the CUSMA concerns over possible tariffs, for one individual shipping over the course of two days, there was $800,000 in tariff liability. That was one individual from southern Alberta. It represents an existential risk to the feeding sector if we are to experience a long-term tariff from our U.S. counterparts.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130210">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893986"> Thank you so much.</ParaText>
+              <ParaText id="8893987"> I'm going to the Liberals and Mr. Connors for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130213">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893988">Thank you.</ParaText>
+              <ParaText id="8893989"> I'm going to continue with Tyler for just a bit.</ParaText>
+              <ParaText id="8893990">Tyler, keeping in mind that there is an integrated processing system in place with the U.S., which I understand, and some of the non-tariff barriers in the CETA.... I think someone mentioned that there's a 57% increase in exports for the beef industry. I'm not sure if that was strictly for the beef industry or not.</ParaText>
+              <ParaText id="8893991">How is the local demand now? Are we seeing an increase in local demand, or are we still heavily reliant on exports?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130223">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893992">Just to clarify, the beef industry in Canada exports about half of what it produces in either live cattle or beef, and 70% of the portion that's exported is destined for the U.S. It goes there because that's where they are willing to pay the most. That's over and above our domestic consumption.</ParaText>
+              <ParaText id="8893993">Domestic demand has been exceptionally good. The consumer has effectively told us that they can accept significant price increases and still want to consume just as much product because they see it as a safe, high-protein source. We're very optimistic about the long-term prospects in the beef industry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130226">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893994"> Just to follow up on that, are there any markets that you would probably see potential in—export markets, of course—that you don't think are being fully explored or investigated?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130227">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893995"> I'll mention three in particular. I never got to the comments on China. We've been blocked out of China since 2021. There was a reference to that by the Canadian Meat Council, I think, briefly. Previous to that closure, our trajectory was growing, and we were more than $100 million in sales a year. Korea represents probably one of the biggest opportunities, but right now, we're at a tariff rate disadvantage to our American counterparts by about 8%. We are on a positive trajectory in Korea as well, but you can imagine that, when there's a beef source of high-quality grain-fed beef that is 8% cheaper, the importers look elsewhere.</ParaText>
+              <ParaText id="8893996">Southeast Asia does represent, I think, big opportunities. The first node of the value chain, though, has to grow in order to supply the markets. We just have unbelievable demand around the world right now, and the biggest constraint is that there aren't enough cows.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130237">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893997">I have two minutes left. I'll give you an opportunity. Is there anything else in your comments? </ParaText>
+              <ParaText id="8893998">I know you got cut off quickly when we were going through. Is there anything else in your comments that you wanted to mention? I'll give you a little time to do that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130239">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893999"> I would only say that the cattle industry in particular very much relies on the principle of comparative advantage: free and open trade that is science- and rules-based. That's what should guide any policy decision going forward, because it is the natural advantages that we have here in Canada that support our future growth potential in the beef industry.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13130241">
+            <PersonSpeaking>
+              <Affiliation DbId="319877" Type="47">Paul Connors</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894000"> I'm going to ask Kristina from Food and Beverage Canada a question now. </ParaText>
+              <ParaText id="8894001">FCC released a new report today that proposed a $12-billion diversification strategy that would reduce U.S. market dependency in food and beverage exports to, I think, 50% of the 2023 levels. What are the biggest barriers Food and Beverage Canada faces in expanding Canada's food exports into new international markets, particularly in Europe and Asia?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130242">
+            <PersonSpeaking>
+              <Affiliation DbId="302704" Type="28">Kristina Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894002"> One of the things that FCC referenced in the report, which I appreciated, is that we need infrastructure investments to expand our interprovincial supply chains. That's something I hear about from companies quite often—that it's easier to export to the U.S. than it is to go across Canada, even before we begin to look at other markets.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130243">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894003"> Thank you so much. </ParaText>
+              <ParaText id="8894004">Mr. Perron, you have two and a half minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130245">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894005">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8894006">Ms. Farrell, you always get questions at the end. I'll give you some time.</ParaText>
+              <ParaText id="8894007">You mentioned earlier that you could be given access to existing programs and that you had suggestions to make.</ParaText>
+              <ParaText id="8894008">Could you give us an example of an existing program that you can't access and that could be changed?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130247">
+            <PersonSpeaking>
+              <Affiliation DbId="302704" Type="28">Kristina Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894009">The strategic innovation fund is one of the big ones that now has been rebranded to the strategic response fund initiative. That's one where the details still remain to be seen, but we're hoping that agri-food and food and beverage manufacturing will have access to that program in particular.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130248">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894010">Thank you very much. If you have any other suggestions for us, I encourage you to send them to the committee. We'll take them into careful consideration.</ParaText>
+              <ParaText id="8894011">Mr. Roy, you mentioned earlier that it was impossible to replace China. You may not have said it like that, but that was the meaning behind your statement. I understand that China takes cuts of meat that no one else wants. Even if the Chinese market comes back, the market will remain unstable.</ParaText>
+              <ParaText id="8894012">What more can be done to help your sector develop its share in the Asia-Pacific market? I know you're working hard right now. For example, you're in a good position in Japan.</ParaText>
+              <ParaText id="8894013">What about other regions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130251">
+            <PersonSpeaking>
+              <Affiliation DbId="302396" Type="28">René Roy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894014">Market diversification is indeed still important.</ParaText>
+              <ParaText id="8894015">For example, what's being done in Southeast Asia is excellent. Suppliers are managing to sell certain cuts there that the Chinese market would otherwise take and that would be harder to sell in North American markets.</ParaText>
+              <ParaText id="8894016">However, the Chinese market is extremely important to our sector due to its size, and it will continue to be. Market diversification will enable us to reduce risks, especially when we're exposed to friction, but we still need access to those markets to properly supply our markets.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130254">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894017">Thank you very much.</ParaText>
+              <ParaText id="8894018">Could diversification also enable you to be more resilient to a future disruption, whenever that may be?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130255">
+            <PersonSpeaking>
+              <Affiliation DbId="302396" Type="28">René Roy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894019">You make a very good point. The Japanese market, which has become our largest export market, is an example of our sector's resilience. That didn't happen overnight: We've been investing and present in this market for a long time. In fact, a delegation of producers from various provinces is currently in Japan to explain the importance of our production.</ParaText>
+              <ParaText id="8894020">Processors and producers work together to improve market resilience, especially in value-added markets such as Japan.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130258">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894021"> Thank you very much. </ParaText>
+              <ParaText id="8894022">We have the Conservatives for five minutes and the Liberals for five minutes, and then I said we'd do another two, two and two. I think there was a little confusion, so in fairness we'll do five and five, and then we'll end with two. Is that okay? It's just to balance it out because I made a promise. Are we good? Okay.</ParaText>
+              <ParaText id="8894023">Go ahead, Mr. Barlow. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130261">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894024"> Thank you, Chair. I'm going to share my time with Mr. Steinley. </ParaText>
+              <ParaText id="8894025">I have a quick question for Mr. Roy from the Canadian Pork Council. </ParaText>
+              <ParaText id="8894026">Was there any direct relief, or anything offered, to pork farmers in Canada as a result of the Chinese tariffs on Canadian pork? Did the government offer any direct relief to Canadian pork farmers? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130262">
+            <PersonSpeaking>
+              <Affiliation DbId="302396" Type="28">René Roy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894027"> No direct relief has been presented. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130263">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894028"> Thank you.</ParaText>
+              <ParaText id="8894029"> I have the same question for Tyler. You've been blocked out of China since 2021. Was there any direct relief offered to Canadian cattle producers, from the Liberal government, as a result of being blocked from the Chinese market? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130264">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894030"> No, there was none. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130266">
+            <PersonSpeaking>
+              <Affiliation DbId="320840" Type="40">John Barlow</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894031">I cede the rest of my time to Mr. Steinley.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130268">
+            <PersonSpeaking>
+              <Affiliation DbId="318159" Type="2">Warren Steinley (Regina—Lewvan, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894032"> Thank you very much. </ParaText>
+              <ParaText id="8894033">It's good to be back in agriculture. As a Saskatchewan MP, canola is top of mind for a lot of people that I represent. It does a lot for the Canadian economy and Saskatchewan's economy. </ParaText>
+              <ParaText id="8894034">We heard that you guys had a meeting with the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and the <Affiliation DbId="318685" Type="4">agriculture minister</Affiliation>. Did they commit to go to China to have conversations about canola with their colleagues in the Chinese government? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130270">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894035"> They certainly recognized the need to go over there, but I don't know of their scheduling behind the scenes. They did not disclose that much detail. There was an acknowledgement that a lot needs to happen with the relationship with China.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130273">
+            <PersonSpeaking>
+              <Affiliation DbId="318159" Type="2">Warren Steinley</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894036">We all recognize that there's a need for them to go over there. During the meeting that you guys were in, did the canola sector and organizations ask the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> or the <Affiliation DbId="318685" Type="4">agriculture minister</Affiliation> to get on a plane and go to China?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130276">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894037"> Probably not quite in so many words, but it certainly was indicated that the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> needs to fix the political problem at the highest levels in China in order to pave the way for others to come in after the fact. We don't tell the Prime Minister what to do.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130280">
+            <PersonSpeaking>
+              <Affiliation DbId="318159" Type="2">Warren Steinley</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894038">Technically, he does work for all of us. </ParaText>
+              <ParaText id="8894039">As an industry, this is a problem that needs head-on, face-to-face discussions between the leaders of these two countries. Is that not something that would appear to be apparent to the canola growers? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130283">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894040"> Yes, it's apparent that we do need the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> there. I think he got the message. Maybe not in so many words, but he definitely got the message. We'll have to see if something happens in the next number of months here, I guess. Again, I don't know. That's beyond my scope in terms of understanding what the strategy would be from a political perspective. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130286">
+            <PersonSpeaking>
+              <Affiliation DbId="318159" Type="2">Warren Steinley</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894041">Premier Moe did make that trip along with <Affiliation DbId="319393" Type="18">Kody Blois, Parliamentary Secretary to the Prime Minister</Affiliation>. Have you had a chance to talk with Premier Moe and Mr. Blois about how those meetings went in China?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130287">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894042"> Not directly, but Premier Moe was there. He did update the group in that meeting, because he was at that meeting regarding some of the positive conversations that he'd had. It looked like he had hope that the issue wanted to be resolved from China's perspective as well. <Affiliation DbId="319393" Type="18">Parliamentary Secretary Blois</Affiliation> also indicated the same as Premier Moe.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130288">
+            <PersonSpeaking>
+              <Affiliation DbId="318159" Type="2">Warren Steinley</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894043"> Do you believe that <Affiliation DbId="319393" Type="18">Parliamentary Secretary Blois</Affiliation> would have been there if it weren't for Premier Moe organizing the trip to China? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130289">
+            <PersonSpeaking>
+              <Affiliation DbId="259900" Type="28">Rick White</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894044"> I don't know, and I wouldn't want to speculate. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130290">
+            <PersonSpeaking>
+              <Affiliation DbId="318159" Type="2">Warren Steinley</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894045"> That's fair. Thank you very much. </ParaText>
+              <ParaText id="8894046">I appreciate everything we've been going through as a country. Canola has never been this popular in our country, and I don't think it's for the right reasons. I would ask you guys to continue to talk to all of your counterparts in the provincial and federal governments. Minister Harrison in Saskatchewan has been doing a good job. I really do think we need to have pressure put on our current <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> and the <Affiliation DbId="318685" Type="4">agriculture minister</Affiliation> to get to China, because this needs to be settled. The faster they get on a plane, the sooner it can be settled. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130291">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894047"> Thank you very much.</ParaText>
+              <ParaText id="8894048">I'll go to the Liberals. </ParaText>
+              <ParaText id="8894049">MP Harrison, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130292">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894050"> Thank you.</ParaText>
+              <ParaText id="8894051">Ms. Farrell, I met with Food and Beverage Canada last week. We discussed lots of items, such as the new crush facility that is being developed with Cargill. </ParaText>
+              <ParaText id="8894052">You've mentioned this multiple times. I know this is really broad, but do you have any specific adjustments that you'd make to the programs to better support your industry?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130293">
+            <PersonSpeaking>
+              <Affiliation DbId="302704" Type="28">Kristina Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894053"> One thing we've been talking about a lot over the past week is that we tend to prioritize funding for things that are new and innovative—things that haven't been done before. When it comes to food and beverage manufacturing, the definition of innovation is different. It isn't necessarily a new patent or discovering a new technology. Sometimes it's applying technology in a new way. Sometimes it's adopting a technology in Canada that we didn't previously have. Even though getting a new oven might not sound exciting for a food and beverage manufacturing plant, that could change them from an efficiency standpoint.</ParaText>
+              <ParaText id="8894054">In terms of where the government has been prioritizing its funding, I think it is recognizing that the definition of innovation looks different for this industry.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13130295">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894055"> Thank you.</ParaText>
+              <ParaText id="8894056">I forgot to say that I'm going to share my time with the member next to me. </ParaText>
+              <ParaText id="8894057">This is for Ms. Farrell again. </ParaText>
+              <ParaText id="8894058">In our meeting, there were really strong concerns about interprovincial trade barriers and the reduction of some of the regulations around that. How can we reduce interprovincial trade barriers to make trade easier while maintaining the standards we have?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130296">
+            <PersonSpeaking>
+              <Affiliation DbId="302704" Type="28">Kristina Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894059"> We do have concerns with Bill <Document DbId="13547622" Type="3">C-5</Document> if it's not going to exempt food. Those concerns relate to our ability to export, food safety and food traceability. </ParaText>
+              <ParaText id="8894060">Instead, we've been advocating for identifying those provincially regulated companies that want to be federally regulated, that want to be able to export, identifying what supports they need to get there and then providing the support to them directly to ensure that they can meet those standards. In light of our efforts to diversify markets, we think this would actually help that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130297">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894061"> Thank you so much.</ParaText>
+              <ParaText id="8894062">Mr. Fulton, I can't believe that no one's mentioned your excellent cow painting in the background.</ParaText>
+              <ParaText id="8894063">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
+              <ParaText id="8894064">
+                <B>Emma Harrison:</B> If you don't mind, I'd like you to elaborate a little bit on what market access is like in Japan and Vietnam. I know you mentioned the 8% tariff in Korea, but could you just expand a little bit further? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130298">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894065"> We have exceptional market access in Japan, specifically because of the CPTPP. It was what we consider to be the highest quality trade agreement, which we benefited from. </ParaText>
+              <ParaText id="8894066">What was the other country? Were you asking about Vietnam as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130299">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894067"> Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130300">
+            <PersonSpeaking>
+              <Affiliation DbId="262249" Type="28">Tyler Fulton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894068"> Vietnam represents an emerging market for Canadian beef. As was mentioned in the previous session, it does take a long time to develop those relationships and make those connections, but once they're secure, you can rely on those personal relationships to continue on unless there is some other big threat, tariff or disruption to them. </ParaText>
+              <ParaText id="8894069">Vietnam—again, as part of the CPTPP—provided Canadian beef farmers with preferred market access. That is what allowed us to really start the trajectory on improved access.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130302">
+            <PersonSpeaking>
+              <Affiliation DbId="319874" Type="47">Emma Harrison</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894070"> Thank you so much. </ParaText>
+              <ParaText id="8894071">I'll share my time with MP Dandurand.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13130303">
+            <PersonSpeaking>
+              <Affiliation DbId="319875" Type="47">Marianne Dandurand</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894072"> Thank you so much.</ParaText>
+              <ParaText id="8894073">Madam Farrell, you very briefly mentioned the workforce issue in your sector. I think it's a critical issue that we don't address enough. We've been hearing a lot about the fact that, presumably, we don't need temporary foreign workers. Can you talk about how important temporary foreign workers are in your industry?</ParaText>
+              <ParaText id="8894074">Can we do anything without them? How can we deal with maybe having fewer temporary foreign workers? Is your industry ready to downscale this workforce?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130304">
+            <PersonSpeaking>
+              <Affiliation DbId="302704" Type="28">Kristina Farrell</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894075"> Foreign workers—not just temporary foreign workers—are essential to our workforce in food and beverage manufacturing. I don't think that will change in the coming years because we're also seeing that our workforce is aging compared to other industries.</ParaText>
+              <ParaText id="8894076">We have provided recommendations to the federal government as to how to support our companies when it comes to immigration. That is expanding pathways to permanent residency for workers who are already in our plants and are contributing to their communities. It's maintaining the 20% cap that we currently have under the temporary foreign worker program. That's not to say that all companies are currently meeting that cap, but it is helpful, given the changing nature of the workforce. It's also extending expiring work permits, which we see across some of our plants. </ParaText>
+              <ParaText id="8894077">[<I>Technical difficulty—Editor</I>] workers and foreign workers are essential to our plants.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13133800">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894078"> That's five minutes. Thank you so much. </ParaText>
+              <ParaText id="8894079">Mr. Perron, you have the last two minutes, please.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13130306">
+            <PersonSpeaking>
+              <Affiliation DbId="320844" Type="40">Yves Perron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894080">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8894081">I'll go back to Mr. Caron, specifically about foreign workers in the sector and the agricultural sector's needs.</ParaText>
+              <ParaText id="8894082">I spoke earlier about the advance payments program, which could cover a broader range of productions—that was actually a request that was made before the tariffs were imposed, so it would be relevant.</ParaText>
+              <ParaText id="8894083">Aside from that program, what does the agricultural community need? You're in a good position to answer this question: You sat at the table with the former prime minister during the consultation.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130307">
+            <PersonSpeaking>
+              <Affiliation DbId="286622" Type="28">Martin Caron</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894084">The question was asked when it came to foreign temporary workers, and I agree with the answer. We need support. It should be noted that these workers hold one in three jobs in Quebec's agricultural sector. If we succeed in developing agriculture and agri-food, it's thanks to these people who come and work here.</ParaText>
+              <ParaText id="8894085">Mr. Fournaise would surely agree with me that it's important to stay the course when it comes to processing. Otherwise, if the pace of processing decreases, I will suffer the consequences as a producer. That's paramount. Access to these funds has been simplified in recent years, which has been beneficial.</ParaText>
+              <ParaText id="8894086">One of the topics we haven't touched on yet is the Canada Infrastructure Bank, or CIB. That's an interesting program that has many millions of dollars in funds but that unfortunately isn't suited to our SMEs, meaning our businesses, our farms. That program should be adapted because large sums of money are involved. However, people are having trouble getting these subsidies.</ParaText>
+              <ParaText id="8894087">When it comes to diversification and investments aimed at developing and growing our exports, we need resources like the CIB's to support us and to avoid increasing the debt in the agricultural sector, because we also have to think about the young people to whom we want to transfer businesses. That's another area where we're noticing a slowdown and feeling the impacts.</ParaText>
+              <ParaText id="8894088">We have to have a vision not only for tariffs, but also for the development of agriculture and agri-food.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13130309">
+            <PersonSpeaking>
+              <Affiliation DbId="320830" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8894089"> Thank you, Mr. Perron. </ParaText>
+              <ParaText id="8894090">I want to take this opportunity to thank all of our witnesses today. Thank you for coming on such short notice. Thank you for all of your contributions to this discussion. Most of all, thank you for the contributions of your sector to helping build a strong Canada. It is an economic pillar. Thank you to all your members and everyone you represent. We appreciate your time, and we thank you. </ParaText>
+              <ParaText id="8894091"> The meeting is adjourned. </ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

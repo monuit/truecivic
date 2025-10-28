@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="FR" id="13162252">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>TÉMOIGNAGES</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Sous-comité des affaires émanant des députés du Comité permanent de la procédure et des affaires de la Chambre</ExtractedItem>
+    <ExtractedItem Name="Number">NUMÉRO 001</ExtractedItem>
+    <ExtractedItem Name="Session">1<Sup>re</Sup> SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45<Sup>e</Sup> LÉGISLATURE</ExtractedItem>
+    <ExtractedItem Name="Date">Le mardi 7 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Tuesday, October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Sous-comité des affaires émanant des députés du Comité permanent de la procédure et des affaires de la Chambre</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Enregistrement électronique]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">TÉMOIGNAGES</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">7 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMÉRO 001</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 001</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 001</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">01</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/07 13:15:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Sous-comité des affaires émanant des députés du Comité permanent de la procédure et des affaires de la Chambre</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Subcommittee on Private Members' Business of the Standing Committee on Procedure and House Affairs</ExtractedItem>
+    <ExtractedItem Name="Acronyme">SMEM</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Présidente</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Élisabeth Brière</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="13" Mn="15">(1315)</Timestamp>
+          <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162255">
+            <PersonSpeaking>
+              <Affiliation DbId="322144" Type="35">La présidente (L'hon. Élisabeth Brière (Sherbrooke, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923359"> Bonjour et bon après-midi.</ParaText>
+              <ParaText id="8923360">Je déclare la réunion ouverte.</ParaText>
+              <ParaText id="8923361">J'aimerais d'entrée de jeu vous souhaiter la bienvenue et remercier Émilie Thivierge, la greffière qui nous a accompagnés et qui a préparé la rencontre d'aujourd'hui.</ParaText>
+              <ParaText id="8923362">J'aimerais aussi remercier François Delisle de son travail d'analyse de tous les projets des affaires émanant des députés et des motions qui ont été présentées.</ParaText>
+              <ParaText id="8923363">Nous sommes réunis pour examiner les 30 premières affaires inscrites dans l'ordre de priorité des 23, 24 et 25 septembre afin de décider si elles devraient être désignées non votables. J'espère que vous avez pris connaissance des 30 dossiers.</ParaText>
+              <ParaText id="8923364">Y a-t-il des questions, des commentaires ou des objections?</ParaText>
+              <FloorLanguage language="EN">[<I>Traduction</I>]</FloorLanguage>
+              <ParaText id="8923365">Non? Tout va bien.</ParaText>
+              <FloorLanguage language="FR">[<I>Français</I>]</FloorLanguage>
+              <ParaText id="8923366">Un rapport sera donc présenté au président du Comité permanent de la procédure et des affaires de la Chambre, qui se lira ainsi:</ParaText>
+              <ParaText id="8923367">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2">Que toutes les affaires inscrites à l’ordre de priorité les 23, 24 et 25 septembre 2025 fassent l'objet d'un vote.</QuotePara>
+                  <QuotePara IndentFirst="2" IndentRest="2">Que le Sous-comité présente un rapport énumérant les affaires qui, selon lui, ne devraient pas être désignées non votables et recommandant à la Chambre de les examiner.</QuotePara>
+                </Quote>
+                <Quote>
+                  <QuotePara IndentFirst="2" IndentRest="2">Que la présidence fasse rapport dès que possible des conclusions du Sous-comité au Comité permanent de la procédure et des affaires de la Chambre.</QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8923368">Est-ce que tout le monde est d'accord sur ces conclusions?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162261">
+            <PersonSpeaking>
+              <Affiliation DbId="318151" Type="2">Ernie Klassen (Surrey-Sud—White Rock, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923369">D'accord.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162262">
+            <PersonSpeaking>
+              <Affiliation DbId="322144" Type="35">La présidente</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8923370">Voilà.</ParaText>
+              <ParaText id="8923371">La séance est levée.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

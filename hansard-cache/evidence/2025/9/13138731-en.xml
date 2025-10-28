@@ -1,0 +1,1483 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13138731">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Wednesday, September 24, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mercredi 24 septembre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">September 24, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 004</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 004</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">04</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">24</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">09</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/09/24 16:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de l'industrie et de la technologie</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on Industry and Technology</ExtractedItem>
+    <ExtractedItem Name="Acronyme">INDU</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Ben Carr</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138734">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair (Ben Carr (Winnipeg South Centre, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893101">Hello everyone.</ParaText>
+              <ParaText id="8893102">Good afternoon.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893103"> I hope you have had a great week.</ParaText>
+              <ParaText id="8893104">We have some guests here with us today in both the first and second hours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention ToC="No" id="13138807" Type="Debate">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair (Ben Carr (Winnipeg South Centre, Lib.)) </Affiliation>
+            </PersonSpeaking>
+            <Content>
+              <ParaText id="8893105">For our witnesses, if you're not using your translator and it is plugged in, keep it on the sticker in front of you, please. We do that to protect the health and safety of our interpreters.</ParaText>
+              <ParaText id="8893106">Colleagues, the first hour today is to hear from officials from the CRTC. This was something the committee felt was important in our first meeting last week. The second hour will be the commencement of our study on productivity. At that point, we will need to very briefly suspend in order to accommodate the technological provisions that need to be put in place, as our guest will be joining us virtually.</ParaText>
+              <ParaText id="8893107">Having said all of this, I would like to welcome a couple of folks here today.</ParaText>
+              <ParaText id="8893108">I can remember in university knowing what CRTC was but not knowing the actual long form. I like that it's all coming full circle now and I have it here in front of my nose. We have, from the Canadian Radio-television and Telecommunications Commission, Vicky Eatrides, who is the chairperson and the chief executive officer; Scott Hutton, who is the vice-president for consumer, analytics and strategy; and Scott Shortliffe, who is the vice-president for broadcasting.</ParaText>
+              <ParaText id="8893109">Madam Eatrides, as the commissioner, I'm going to turn it over to you.</ParaText>
+              <ParaText id="8893110">You have upwards of five minutes, give or take a little bit, if necessary, for opening remarks. We will then enter into a variety of lines of questioning, which have been divided in accordance with the seating in Parliament. That questioning will begin with my colleagues from the Conservative Party, the Liberal Party and the Bloc, and we will rotate from there.</ParaText>
+              <ParaText id="8893111">If you have any questions at any point, please don't hesitate to ask. I will remind you that all questions and responses come through the chair. </ParaText>
+              <ParaText id="8893112">With that, Madam Eatrides, I turn the floor over to you. Welcome to the industry committee.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138813">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides (Chairperson and Chief Executive Officer, Canadian Radio-television and Telecommunications Commission)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893113"> Good afternoon, and thank you very much for inviting us to join you today.</ParaText>
+              <ParaText id="8893114">I would like to acknowledge that we are appearing here on the traditional unceded territory of the Algonquin Anishinabe people.</ParaText>
+              <ParaText id="8893115">I am pleased to be joined by Scott and Scott, to make things easier or, perhaps, more complicated. Scott Shortliffe is head of broadcasting at the CRTC, and Scott Hutton is head of consumer, analytics and strategy.</ParaText>
+              <ParaText id="8893116">Before we get into the committee members' questions, perhaps I could share a bit of context about the CRTC and some of the work we have been doing.</ParaText>
+              <ParaText id="8893117">To start with a quick overview, the CRTC is an independent, quasi-judicial tribunal that regulates the communications sector in the public interest. We hold consultations on telecommunications and broadcasting matters, and we make decisions that are based on the public record. </ParaText>
+              <ParaText id="8893118">The commission consists of nine members. There's a chairperson, a vice-chairperson for broadcasting and a vice-chairperson for telecommunications, and we have six regional commissioners who are located across the country. The commission is supported by a team of expert staff, who help us make informed decisions. We are moving quickly to make those decisions, because we know that everybody needs certainty with respect to the regulatory regime. At the same time, we're consulting broadly, because we know that better policy happens when we listen to individuals, businesses and organizations that help bring diverse voices into the conversation.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893119">With that in mind, I'd like to talk to you about some of the work that we're doing to give Canadians a chance to tell their stories and to discover, watch and listen to content that interests them.</ParaText>
+              <ParaText id="8893120">Through the amended Broadcasting Act, Parliament has mandated us to establish a modern broadcasting framework and ensure that online streaming supports Canadian and indigenous content.</ParaText>
+              <ParaText id="8893121">One of the first important decisions we made under the amended act was to require that online streaming services contribute to areas of immediate need, such as local news, French-language content and indigenous content. These contributions were expected to inject roughly $200 million into the broadcasting system each year.</ParaText>
+              <ParaText id="8893122">Our work continues. For example, since this decision was published, we've taken steps to support local news, especially in small markets where the options are limited.</ParaText>
+              <ParaText id="8893123">Our public consultations with various government authorities are ongoing, and we will be publishing decisions this fall that will introduce significant changes to the broadcasting system.</ParaText>
+              <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893124">That is a glimpse into our work on the broadcasting side.</ParaText>
+              <ParaText id="8893125">On the telecommunications side, we have heard how critical high-quality Internet and cellphone services are for employment opportunities, education, health care, safety, connecting to loved ones, and so much more. As an example, just last week my colleagues and I met with an indigenous-led non-profit community group in Winnipeg, which shared with us the challenges that its community members are facing because of a lack of what they call “meaningful connectivity”, due, in large part, to affordability issues. We know that this problem is not unique to Winnipeg; we have heard the same thing across the country, and I'm sure that committee members have heard that as well. </ParaText>
+              <ParaText id="8893126">We are doing our part to help address Internet and cellphone affordability and connectivity. For Internet services, we provided competitors with the ability to deliver more choice for Canadians, and lower prices, by allowing them to sell plans using the networks of the large telephone companies. More than a dozen companies are already using that new framework to offer new Internet options to consumers. For cellphone services, we are allowing competitors to operate on the networks of large cellphone providers, and competitors are now offering Canadians cellphone plans in new regions. According to StatsCan data, prices for cellphone services fell by 16.7% between 2023 and 2024.</ParaText>
+              <ParaText id="8893127">At the same time, we want to ensure that we have a healthy and innovative industry. To that end, we put measures in place to make sure that companies continue to invest in high-quality networks.</ParaText>
+              <ParaText id="8893128"> That includes fair rates, so that large companies are paid for the cost of building fibre networks, and we delayed competitive access to brand-new fibre until 2029. </ParaText>
+              <ParaText id="8893129">As we continue to promote competition and investment in Internet and cell phone services, we are also doing our part to help connect rural, remote and indigenous communities across Canada.</ParaText>
+              <ParaText id="8893130"> In 2019, the CRTC launched a broadband fund as a small part of a broad effort by federal, provincial and territorial governments to address gaps in connectivity. To date, the CRTC has allocated over $750 million to projects that provide Internet or cell phone services to nearly 50,000 homes in over 290 communities. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893131">This is just some of the work being done in the telecommunications sector.</ParaText>
+              <ParaText id="8893132">The third and final point that I'd like to make concerns our consumer protection efforts. Last year, the CRTC created a comprehensive consumer protection action plan.</ParaText>
+              <ParaText id="8893133">To implement this plan, we created four public entities designed to prevent unexpected bills, limit charges and make it easier to cross-compare deals and package changes.</ParaText>
+              <ParaText id="8893134">This important aspect of our work will remain a key component of the CRTC's action. Stay tuned.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893135">To wrap things up, we are doing work on multiple fronts. I touched on a few of them this afternoon, but the list is long. We are also taking action in areas like international roaming, service outages, and the Online News Act.</ParaText>
+              <ParaText id="8893136">We are always listening to what Canadians need, and we know the committee is doing the same. We look forward to hearing your questions and your views. </ParaText>
+              <ParaText id="8893137">Thank you again for inviting us to appear before you today. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138820">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893138"> Thank you very much for the opening remarks.</ParaText>
+              <ParaText id="8893139"> We'll turn now to the Conservative Party for the first round, which will be six minutes. </ParaText>
+              <ParaText id="8893140"> Mr. Guglielmin, the floor is yours.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138856">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin (Vaughan—Woodbridge, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893141">Thank you, Chair.</ParaText>
+              <ParaText id="8893142">Again, thank you, guys, for taking the time to be with us here today and providing us this briefing from the Canadian Radio-television and Telecommunications Commission. I share the chair's remarks on now fully understanding the full name but knowing what it was only in short form before now.</ParaText>
+              <ParaText id="8893143"> I want to ask you today about the Online News Act, Bill <Document DbId="11668222" Type="3">C-18</Document>. One of the factors the CRTC must consider under the act is whether local and independent news outlets are truly benefiting.</ParaText>
+              <ParaText id="8893144"> However, we've already heard from local outlets, such as the River Valley Sun, that their audience essentially disappeared overnight when Meta pulled out. Before Bill <Document DbId="11668222" Type="3">C-18</Document>, the River Valley Sun, which distributes 6,000 free newspapers monthly, relied heavily on Facebook to share its content. It saw around half a million engagements in a typical month before the news ban saw the audience abruptly cut off.</ParaText>
+              <ParaText id="8893145"> The ban is also causing financial pain. The River Valley Sun, Theresa Blackburn's newspaper, “used to go live on Facebook at some local events, with the businesses paying for that coverage.” Blackburn said that losing that ability has cost them “the equivalent of two months of printing newspapers, or the cost of hiring a summer student.”</ParaText>
+              <ParaText id="8893146">Given what we've seen so far, do you think you can confidently say that independent rural and start-up publishers are benefiting from this legislation, or do you feel that they're being further marginalized? </ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138870">
+            <PersonSpeaking>
+              <Affiliation DbId="322513" Type="28">Scott Shortliffe (Vice-President, Broadcasting, Canadian Radio-television and Telecommunications Commission)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893147">It's very important that we support local newspapers in Canada, as well as local radio and television. As the tribunal, we were not responsible for the legislation. We were asked to administer it, so I have to be very careful, because it's not our role either to criticize or to applaud legislation. It's our role to administer it.</ParaText>
+              <ParaText id="8893148">What I can say is that we do see that $100 million is flowing into the news system, and it is going to a wide variety of news outlets across Canada. That is not to say that means there are not news outlets that are being negatively affected. It's not to say that there is not more that can be done for news in Canada, but what we can say is that our part of it, which is to ensure that the money flows to both print outlets and broadcasting outlets, is happening.</ParaText>
+              <ParaText id="8893149">We will be presenting shortly a public report on what we've seen to date. We will be presenting annual reports. It is part of the legislation, where we try to assess the impact of the Online News Act. Because we're in the first year—I'll be very frank—there's not much for us to say yet, but we certainly want to have an understanding of how it's affecting the news industry in Canada and where the positive effects are. We think that by making this information available, it will also help parliamentarians in the future look at what is necessary to take action.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138877">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893150"> Thank you for that detailed response.</ParaText>
+              <ParaText id="8893151">Professor Alfred Hermida at the University of British Columbia School of Journalism, who has researched Canadian digital start-ups, estimates that about 30% of local news audiences disappeared overnight due to Meta's blackout.</ParaText>
+              <ParaText id="8893152"> He stated:</ParaText>
+              <ParaText id="8893153">
+                <Quote>
+                  <QuotePara Align="Left" IndentFirst="2" IndentRest="2"> If you're a local startup, the key thing you need to do is develop your audience and social media has become [a] very important [tool] for audience engagement. You don't have the marketing budget and the reach [of] the larger players...so social media is a good way to alert people that you exist. </QuotePara>
+                </Quote>
+              </ParaText>
+              <ParaText id="8893154">I'm just curious to know if this kind of fallout was anticipated in the initial consultations. If so, was there feedback given to Parliament or to committee at the time, so that the impact could be considered as part of the legislation implementation?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138881">
+            <PersonSpeaking>
+              <Affiliation DbId="322513" Type="28">Scott Shortliffe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893155">I have to say, in terms of our public consultations, that that is really more of a question for the Department of Canadian Heritage. We were not responsible for the legislation and what it says. We were people who received the legislation and then had to implement it.</ParaText>
+              <ParaText id="8893156"> When we've done our public processes around Bill <Document DbId="11668222" Type="3">C-18</Document>, it was really saying, “This is the state of the legislation.” The legislation says that companies have to self-identify to us, which Google did. Meta chose not to and chose instead to withdraw news from its platform. That was within the ambit of the law, which we had no say on one way or another.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138891">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893157"> The CRTC has been tasked with ensuring fairness and transparency in bargaining, but that framework kicks in only after the negotiations begin. In cases where a platform exists before any bargaining even starts, what options, if any, are available to small publishers? Would you say that this creates a gap in the process that leaves the most vulnerable players without meaningful protection? </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138900">
+            <PersonSpeaking>
+              <Affiliation DbId="322513" Type="28">Scott Shortliffe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893158"> I would say that the legislation and the regulations that empowered it were set up so that Google had the option of making a deal with a single distributor, which is called the Canadian Journalism Collective. Although we had to approve that, we did not set up that organization. It has an independent board, and it makes the decisions on whether individual news outlets are eligible to receive funds.</ParaText>
+              <ParaText id="8893159"> I think it was—and here, I am taking an interpretation—that Parliament intentionally did not want the CRTC to be the ones choosing which news outlets receive funds. Therefore, there is an independent body that does that. We certified that it is a legitimate body, and we will audit it, but we removed ourselves—I'm sorry, we didn't remove ourselves, the legislation removed us—from the question of who exactly will receive funds and whether they qualify under the act.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138907">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893160"> Thanks very much, Mr. Guglielmin. </ParaText>
+              <ParaText id="8893161">Ms. Acan, the floor is yours for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138914">
+            <PersonSpeaking>
+              <Affiliation DbId="317808" Type="2">Sima Acan (Oakville West, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893162"> Thank you very much, Mr. Chair. </ParaText>
+              <ParaText id="8893163">Thank you very much, witnesses, for coming here today. </ParaText>
+              <ParaText id="8893164">I have a few questions, and I will start with the CRTC. </ParaText>
+              <ParaText id="8893165">With the growing demand for data and digital services, network reliability is critical to maintaining affordability. What steps is the CRTC taking in collaboration with service providers to strengthen Canada's telecommunications infrastructure against outages and cybersecurity threats? </ParaText>
+              <ParaText id="8893166">Also, could you please explain to us how the recent CRTC decision improves affordability and access to high-quality and reliable Internet for Canadians from coast to coast to coast? </ParaText>
+              <ParaText id="8893167">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138920">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893168"> I can start, and then I will turn things over to Scott Hutton, who leads the work on reliability. Maybe I'll start with your second question first. </ParaText>
+              <ParaText id="8893169">In terms of Internet competition, our recent decision opens things up so that competitors can use the networks of big companies to offer Internet services to consumers in areas where they haven't offered before, so it opens up choice. More competition isn't for the sake of more competition; it's for the sake of lower prices, more choice and all of the good benefits that come from that. That was the thinking behind that decision to open things up and increase competition. It was very focused on Canadians.</ParaText>
+              <ParaText id="8893170"> At the same time, and coming to your first question before I turn things over to Scott, we also made sure that there were measures in place to continue to promote investment in high-quality networks, because we know that this is very, very important, both on the Internet side and the cellphone side. </ParaText>
+              <ParaText id="8893171">We made sure, through the cost, because it's an actual cost-based analysis, that the rates that we have put in place take into account investing in fibre. I mentioned that we have a head start rule. There's a certain period of time when competitors can't access the fibre, and that'll go on. That's the five-year head start rule. There are things that we put in place so that we can ensure continued investment, because we know how important that is.</ParaText>
+              <ParaText id="8893172"> I'll turn things over to Scott, who leads the work on resiliency for the CRTC, and, again, we work with ISED and many others in that space. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138924">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton (Vice-President, Consumer, Analytics and Strategy, Canadian Radio-television and Telecommunications Commission)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893173"> Certainly the CRTC has been very mindful of what we've seen as a likely growing number of outages and major outages that are having a significant impact on Canadians, so we have put in place a number of different measures, and we are currently doing some work on our regulatory proceedings on a few fronts. </ParaText>
+              <ParaText id="8893174">Our first area of concern was that, when an outage occurs, there are certainly impacts on Canadians, but there are also impacts with respect to the safety and security of Canadians, whether it's for alerting purposes or for reaching emergency services.</ParaText>
+              <ParaText id="8893175"> Our first step was to put in place an interim regime that we've now finalized to prioritize just that, emergency services in that regime, to make sure, when there is an outage, that all parties in a certain area, the emergency response personnel, the teams and the municipalities, are made aware of that, because they need to be able to react and not be surprised in that particular case. We need to be able to report on that front. </ParaText>
+              <ParaText id="8893176">Following that piece of work, we are now working in a regulatory proceeding going forward with all of the companies to establish, if I can put it more on the technical side, good practices for network resiliency. How can we work on robustness to get to there? How can we work on making sure of network resiliency for whatever reason, whether it's serious weather events, whether it's breakages or whether it is damage, physical or cyber in nature? We will be looking at that with those companies.</ParaText>
+              <ParaText id="8893177">That's a role that we share with the Department of Industry, or ISED, on that front, because they have certain roles with respect to safety of the network, and we're also working with Public Safety. </ParaText>
+              <ParaText id="8893178">We're also going to be looking at—and this is where my team does come in a bit more—ensuring that Canadians get information. I mentioned earlier telling emergency personnel right away, but as we're all using our phones and our Internet either running businesses, working from home or doing schooling, there's a whole bunch of situations where people need to know. You need that connection, and you need to know when it's going to come back. You need the right information. </ParaText>
+              <ParaText id="8893179">We are looking at that right now to ensure that there are clear guidelines in place about informing Canadians as to what is down. We'll be asking questions as to what is important to Canadians. We clearly know that knowing when service is going to come back up is another one, and there are questions of outage mapping and certain issues of that nature. These are all things that we will be considering in that domain. </ParaText>
+              <ParaText id="8893180">We'll also be looking at rebates on that front, because if your service is down for a long period of time, there should be clear rules around that.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138931">
+            <PersonSpeaking>
+              <Affiliation DbId="317808" Type="2">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893181"> Thank you.</ParaText>
+              <ParaText id="8893182">The second question is about transparency, which is the key to customer retention in the telecommunications sector.</ParaText>
+              <ParaText id="8893183">In reference to Bill <Document DbId="11876139" Type="4">C-288</Document>, which also includes measures to improve broadband services and transparency and became law last year on June 20, what initiatives has the CRTC undertaken to improve the clarity of pricing and contract terms so that consumers can make informed decisions? Also, what data is available to demonstrate the effectiveness of these measures?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138942">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893184">We are moving expeditiously to answer all of the elements that were put in law by that bill and the Budget Implementation Act. We are looking at information—making it easy for Canadians to switch, making sure they're not surprised by bills and that they have a clear place to go to complain, get compensation or have their issues addressed.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138951">
+            <PersonSpeaking>
+              <Affiliation DbId="317808" Type="2">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893185">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138960">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893186">It's good to know there are others in the country whom people can complain to, Mr. Hutton.</ParaText>
+              <ParaText id="8893187">
+                <B>Some hon. members:</B> Oh, oh!</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893188">Mr. Ste‑Marie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138968">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie (Joliette—Manawan, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893189">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893190">I want to welcome the three witnesses and thank them for joining us.</ParaText>
+              <ParaText id="8893191">I still don't know a lot about the CRTC. I know that it's an independent organization, but that the government can issue it instructions through various ministers. Its activities are also subject to government policy directions.</ParaText>
+              <ParaText id="8893192">Is that right?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138973">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893193">Yes, that's exactly right.</ParaText>
+              <ParaText id="8893194">It's an independent, quasi-judicial tribunal. There are government instructions, including some that concern telecommunications and others that concern broadcasting. The CRTC also receives directives from the government.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13138978">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893195">I'm going to completely change topics.</ParaText>
+              <ParaText id="8893196">I've been contacted by people involved in community radio and they drew a few things to my attention. For example, during their dealings with the CRTC, especially when it comes to making parameter changes, the response time is extremely long. It often takes several years to get an answer.</ParaText>
+              <ParaText id="8893197">Are you looking into reducing these wait times? Are you trying to correct this issue?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138986">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893198">Yes, that is happening.</ParaText>
+              <ParaText id="8893199">Allow me to start answering the question and then hand the floor over to Scott Shortliffe, since he's the one in charge of broadcasting.</ParaText>
+              <ParaText id="8893200">We had actually agreed to discuss this problem, and we understand the situation. We've done a lot of things internally to speed up the process. Our priorities are now very clearly defined.</ParaText>
+              <ParaText id="8893201">The problem concerns the fact that the CRTC is a tribunal. Everything it undertakes has to go through public consultations. The CRTC holds public hearings and consultations, and that takes time. However, things can be done differently and that's what the CRTC is doing.</ParaText>
+              <ParaText id="8893202">I'll now give the floor to Scott Shortliffe.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13138995">
+            <PersonSpeaking>
+              <Affiliation DbId="322513" Type="28">Scott Shortliffe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893203">I can add a few clarifications.</ParaText>
+              <ParaText id="8893204">After the Broadcasting Act was adopted, we launched some consultations. I think there were 15 consultations in all, including four public hearings. One of them focused specifically on modernizing the Broadcasting Act. We asked questions to determine whether there was some way to ease the regulatory load. It's important to strike the right balance between complying with public policies and ensuring that companies operate effectively. At present, our files suggest that the process may be too onerous.</ParaText>
+              <ParaText id="8893205">Certain decisions expected in the near future may resolve this issue.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139004">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893206">That's encouraging. Thank you very much. </ParaText>
+              <ParaText id="8893207">My next questions concern a report by the forum for research and policy in communications, published in August 2025. The report's authors analyzed your performance from 1969 to 2025.</ParaText>
+              <ParaText id="8893208">At page 86, for example, they estimate the number of staffpersons involved per decision. They say that the number of decisions per staffperson fell from approximately 80 to 27 decisions per staffperson over the last two decades, despite an increase in available staff. </ParaText>
+              <ParaText id="8893209">How would you respond to this analysis?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139011">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893210">We're going to meet with stakeholders and interested parties. We're doing a lot of work on the items mentioned in that report, and progress has already been made, specifically in the area of engagement. The report talks a lot about engagement and about what we are doing with stakeholders and interested parties. We are getting a lot done.</ParaText>
+              <ParaText id="8893211">Scott Shortliffe leads several teams, including an indigenous team. We also have a team that works with official language minority communities.</ParaText>
+              <ParaText id="8893212">I can assure you that we're getting a lot of work done. Scott Shortliffe can give you more details.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139021">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893213">Of course, this report spans several decades. It covers a number of things. Broadly speaking, the report addresses transparency, the publication of information and assurance that Canadians are kept properly informed and able to effectively monitor what's going on at the CRTC. Together with our chair, we are making a huge effort in this area.</ParaText>
+              <ParaText id="8893214">The CRTC is a tribunal. It can be difficult for the public to come and see us in person. Even here, on this committee, some people are learning the full name of the CRTC for the first time. You are parliamentarians, but for ordinary Canadians, it's a different story.</ParaText>
+              <ParaText id="8893215">We are making an enormous effort in this area, whether by simplifying our language, overhauling our data entry or changing the ways that Canadians can come see us and take part in our work. All of these are important.</ParaText>
+              <ParaText id="8893216">Through engagement, we also need to build ties with communities that have not taken part in the CRTC's work, including indigenous or racialized communities and consumer groups. These are the groups and communities that we are trying to attract.</ParaText>
+              <ParaText id="8893217">As for resources, I am not entirely sure of the specific measure. Mr. Ste‑Marie, you asked earlier on if we could get rid of some rules. Over the past two or three decades, we've eliminated a lot of rules that required minor, perhaps irrelevant decisions. We put a stop to that work so that we could focus on new work.</ParaText>
+              <ParaText id="8893218">Parliament has the ability to implement new laws, like the one we spoke of earlier or the one we may have the opportunity to discuss later, concerning the introduction of broadcasting standards. A lot of new work remains to be done. </ParaText>
+              <ParaText id="8893219">Indeed, it may not be the ideal solution.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139026">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893220">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139035">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893221">Thank you, Mr. Ste‑Marie.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893222"> Madam Dancho, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139043">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho (Kildonan—St. Paul, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893223">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893224">Thank you again, witnesses, for being here.</ParaText>
+              <ParaText id="8893225">I want to talk to you about scams and frauds today. The Canadian anti-fraud centre has reported that Canadians lost $647 million to scams in 2024 and estimates that only 5% to 10% of frauds are reported. The Canadian Bankers Association estimates that the true cost to Canadians could have been as much as $6 billion to $12 billion in 2024—a staggering number. Clearly more needs to be done, and this committee has agreed to investigate this issue in a future study.</ParaText>
+              <ParaText id="8893226">At my constituency office recently, we actually had quite a sophisticated scam call where an individual called—it was “RBC Banking” on the caller ID—who was quite sophisticated in their speech. My very clever staffer who picked up on it saved the day for us. I was just quite shocked that it said “RBC” on the caller ID.</ParaText>
+              <ParaText id="8893227">My understanding is that in 2021 the CRTC put out a compliance and enforcement directive to telecommunications companies to authenticate and verify caller ID for Internet protocol-based voice calls as a condition of offering their services. To my knowledge, there is no equivalent directive for traditional landlines. Either way, scam calls are getting through to Canadians as we speak and costing them thousands of dollars.</ParaText>
+              <ParaText id="8893228">What, in your view, can the CRTC do to enforce these protocols for both Internet-based calls and traditional phone lines?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139050">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893229"> I fully appreciate that these scam calls are beyond an annoyance for many people, because a lot of money is being lost. It's a challenge with enforcement, because it's like Whac-a-Mole, and obviously it's a global issue. </ParaText>
+              <ParaText id="8893230">We do have a part to play. We have a very small team at the CRTC—fewer than 20 people—who work on spam. That's in collaboration with the Competition Bureau and the Office of the Privacy Commissioner. A lot of the activity that is happening right now falls more into cybercrime and is more criminal in nature. We have a civil regime, so the work we do is only on the civil side.</ParaText>
+              <ParaText id="8893231">I don't know if you can add anything in terms of the specifics on that, Scott.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139058">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893232"> Well, I think you've highlighted the overall approach that we take. With respect to the precise question, that is a practice that people commonly refer to as spoofing. The measures that we have put in place do apply to all landlines on that front. </ParaText>
+              <ParaText id="8893233">If I can put it this way, the source of the issue is that there are nefarious players connecting through IP, and it's because of that IP technology that they are able to spoof. We are trying to close that IP door to minimize spoofing on that front.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139065">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893234">Thank you.</ParaText>
+              <ParaText id="8893235">That was in 2021, and it's still happening. What more can be done on your end? I understand you're not an enforcement agency in this way, but you are, to a large part.... Perhaps I'm just not understanding the division of powers, but you've put out the directive, and telecommunications companies don't seem to be doing enough. </ParaText>
+              <ParaText id="8893236">I'm not trying to blame them. I'd like to learn more about what the challenges are there, and we will, hopefully, in due time, but the directive doesn't seem to be effective. Is there anything else that you can do to enforce it further?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139070">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893237"> The innovation in this domain knows no bounds, if I can say that simply. We have continued. That is certainly an element that we did work on with respect to the telephone companies and trying to halt spoofing. There are a number of other measures that are constantly being put in place, whether they are telephone companies using new abilities to block or to identify calls that are not legitimate on that front. </ParaText>
+              <ParaText id="8893238">In the network, there are various working groups that are being put together collectively with the industry. Each company is also, and our teams in that domain are working with them and following closely and encouraging various efforts, including using AI to identify instantaneously calls that are not legitimate. That work is continuing on a constant basis, but unfortunately the innovation there knows no bounds.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139080">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893239">Thank you very much. </ParaText>
+              <ParaText id="8893240">It's my understanding, though, that of course telecommunications in this country are governed by the act and that you have the powers within that act to impose any sort of conditions on telecoms. Again, there's this directive. It seems fairly clear. I recognize that the technology is evolving. It's a very difficult issue, but from your regulatory side, you've put forward this directive. It's not being fulfilled, perhaps for very good reasons, but is there nothing more that you can do to sort of further enforce this directive? I'm hearing that perhaps not.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139087">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893241"> No, I think the message is that we are continuously working with the companies to improve this situation and to make sure that, from a telecommunications standpoint, these forms of calls are minimized. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139093">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893242">Thank you, Madam Dancho.</ParaText>
+              <ParaText id="8893243"> Madame O'Rourke, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139097">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke (Guelph, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893244">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893245">I was a member of the Groupe Média TFO board of directors for a total of four years and served as its vice-chair for one of those years. The availability of French-language broadcasting and services, especially in official language minority communities, is therefore an issue very close to my heart.</ParaText>
+              <ParaText id="8893246">Ms. Eatrides, I'd like to get a clearer picture of your role.</ParaText>
+              <ParaText id="8893247">How do you intend to ensure that francophones outside Quebec, but also anglophones inside Quebec, have access to secure and affordable network services in both official languages?</ParaText>
+              <ParaText id="8893248">Can you answer these questions as they relate both to broadcasting and to telecommunications services?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139103">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893249">I'll give a brief answer to start with and then hand the floor over to Mr. Shortliffe.</ParaText>
+              <ParaText id="8893250">This topic is a key focus of our current consultations in connection with work we started following amendments to the act. We will be publishing decisions on that shortly.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139111">
+            <PersonSpeaking>
+              <Affiliation DbId="322513" Type="28">Scott Shortliffe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893251"> I'd like to add something because that's a really important question.</ParaText>
+              <ParaText id="8893252">First of all, it's important to acknowledge Canada's two broadcasting markets. There's the English-language market, which faces a number of concerns and challenges, and then there's the French-language market, which is different to some degree. The French-language market has two components: the market inside Quebec and the market outside Quebec. We have to keep this reality front of mind at all times. We've asked very specific questions about broadcasting by certain stations to ensure that good francophone content is available everywhere in Canada.</ParaText>
+              <ParaText id="8893253">We hold weekly meetings with a working group on official language minority communities, or OLMCs, to discuss and assess challenges and explore ways to ensure not only good quality French, but also good quality English, in programs broadcast in Quebec.</ParaText>
+              <ParaText id="8893254">That's really one of our key concerns, and we ask these questions all the time.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139117">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893255">I would also mention that this distinction is enshrined in law. We can also discuss telecommunications briefly.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139124">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893256">I can certainly speak about telecommunications. Where it gets really important is when it comes to the 911 and alert system services, for example. As we see it, these are both priority services in emergencies, when the ability to understand messages clearly and communicate effectively is critical.</ParaText>
+              <ParaText id="8893257">In both cases, we play a role with other stakeholders. The 911 service is essentially a bridge between the Canadian telecommunications system and responders. Responders, incidentally, come under provincial jurisdiction.</ParaText>
+              <ParaText id="8893258">We make sure that telecommunications services travel across the right bridge in the right language. This is a priority for the 911 service.</ParaText>
+              <ParaText id="8893259">We ensure the same thing when it comes to the alert system, including amber alerts or Environment Canada alerts. Once again, we hold open consultations to better regulate the availability of this service in both official languages.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139129">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893260"> Thank you.</ParaText>
+              <ParaText id="8893261">I just wanted to ask a separate question in English. We saw catastrophic wildfires in this country this year. I'm wondering if you can help me understand what the impact is of these wildfires on critical infrastructure. How do we create redundancies to ensure that these systems are robust? Also, if you have a moment—and I know I'm probably running out of time—how do we ensure the security of those networks as well?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139141">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893262">With climate change, whether it's wildfires, storms or towers going down, we're looking at what we have done. For the first part, as I mentioned earlier, let's look at advising both Canadians and emergency personnel.</ParaText>
+              <ParaText id="8893263"> The other work we're doing is with the technical people, to try to see what the good practices are, to look internationally to see how it's done elsewhere, and to see what some companies that are doing better on that front are doing here so that we can see if there is a way for us to help in that environment.</ParaText>
+              <ParaText id="8893264"> It's a shared responsibility between us, because we regulate and have certain powers, ISED has certain responsibilities, and so does Public Safety. Therefore, it's a shared environment on that front. We are certainly looking at that, and we don't have answers as to how to do better yet, but that's what we're trying to find.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139147">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893265">Thank you, Ms. O'Rourke and Mr. Hutton.</ParaText>
+              <ParaText id="8893266">Mr. Ste‑Marie, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139156">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893267">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893268">I also find the issue of French content very important, particularly on digital platforms. It's important to make sure it's available.</ParaText>
+              <ParaText id="8893269">I'm going to continue the discussion on the report I was quoting earlier. It says on page 37 that you no longer publish data on the affordability of telecommunications services by income quintile.</ParaText>
+              <ParaText id="8893270">How do you ensure that you meet Parliament's objectives of ensuring affordable communication services for everyone?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139162">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893271">We pass data collection on to various bodies. That study was conducted and put forward by Statistics Canada. Given that that organization has decided to end the study, we no longer have the ability to publish it.</ParaText>
+              <ParaText id="8893272">We've had more discussions with Statistics Canada over the past year. They're in the process of resuming the study so that we can release it to Canadians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139170">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893273">That's very interesting. Thank you very much.</ParaText>
+              <ParaText id="8893274">On page 91, I believe, it says that there isn't a public register of Privy Council orders to the CRTC.</ParaText>
+              <ParaText id="8893275">Is that normal? Should that be changed? Should there be a public register of orders in council?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139175">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893276">I may have to follow up on that. I think those are orders in council that are published to us.</ParaText>
+              <ParaText id="8893277">If I understand correctly, that product isn't ours. It's produced by the government, either by the Minister of Industry or the Minister of Canadian Heritage.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139181">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893278"> It isn't your information. That's very clear. Thank you for your answer.</ParaText>
+              <ParaText id="8893279">I have one last question. On page 71 of that same report, it says that the CRTC ignored an order in council in 2022 for over 34 months.</ParaText>
+              <ParaText id="8893280">Is that standard practice at the CRTC? Is that normal?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139187">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893281">I'll have to follow up on that order as well. I'm sorry. The report is quite comprehensive. I know that the authority to issue orders includes a number of elements.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139200">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893282">We can send you the detailed question through the clerk.</ParaText>
+              <ParaText id="8893283">Thank you very much for your offer to follow up on that.</ParaText>
+              <ParaText id="8893284">Last April, there was a Supreme Court decision—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139207">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893285">Mr. Ste‑Marie, you don't have much time left.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139215">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893286">Okay.</ParaText>
+              <ParaText id="8893287">Thank you very much for all the answers.</ParaText>
+              <ParaText id="8893288">I see that we have a chair who's very tough on committee members.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139224">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893289">You know that's not the case.</ParaText>
+              <ParaText id="8893290">You started a question when you had already exceeded your speaking time. I'll try to find a few minutes for you later.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893291">Mr. Falk, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139234">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk (Provencher, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893292">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8893293">Thank you to our witnesses and to the commission for attending here today. Thank you for the opening comments you made. </ParaText>
+              <ParaText id="8893294">In your opening comments, one of the take-aways I picked up on was that you would contribute some success in making cellphone plans more affordable, or the use of cellphones more affordable. That's maybe one of the commission's successes.</ParaText>
+              <ParaText id="8893295">One thing I've noticed in the last couple of years is that there's been a shift in the whole cellphone industry. Monthly fees used to be higher, but the cost of the cellphone was minimal or almost non-existent. You just had to commit to two years. Most people replace their phones every two to three years. The monthly fees are down, but the cost of phones now is $2,000. It seems to me they've pursued the Costco model, where they take the profits up front before you've even bought anything.</ParaText>
+              <ParaText id="8893296">Can you comment a bit on the overall cost of a two- or three-year contract and whether it's really more affordable than it used to be three or four years ago?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139240">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893297">We do know that overall, cellphone prices are coming down. That's based on StatsCan data. I pointed to the 2023-24 decrease of 16.7%. I think more recently, just over the past year, it's been roughly 10%. That's the figure we have.</ParaText>
+              <ParaText id="8893298">With respect to specifically the devices, Scott, I don't know if you want to address that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139244">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893299">Yes. Our area of responsibility, or who we have authority over, are the service providers—your Bells, your Teluses, your Rogers. We do not have authority over the Apples or Googles or Ericssons who make those phones available on that plan.</ParaText>
+              <ParaText id="8893300"> What we have put in place, certainly, are measures to make sure that as the service providers make their offers to you, the information you receive is made very, very clear. You understand that you are paying for a phone. You understand that if you are paying for it through your monthly bill, then it's occurring. You understand what happens at the end of your contract period, and that you are able to renegotiate your service plan at the end of two years. Those are all measures that we put in place to help make sure that Canadians are able to get the best possible price and they are not surprised at the end of the day by certain situations on that front.</ParaText>
+              <ParaText id="8893301">Yes, we work diligently. There's a whole bunch of other market impacts. It's not just the CRTC that claims we've lowered cellphone prices. It's something that has been occurring for a number of different years now. It's probably 50% lower now than what it was about five years ago on that front. There is the impact. What we're working a lot on, as we mentioned earlier, is making sure that Canadians have the ability to switch. They can get the right information, switch easily, shop and get the better deal. They can get a deal for exactly what they want. They also have to think about whether they need a $2,000 phone or some other product on that front. That's part of that regime.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139251">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893302">I appreciate that answer. As you say, you have control over the service providers, but those are the ones who are usually bundling the phones and the monthly fees together. My question is really this: When you compare what a bundle would have been five years ago with what it is today, is it really that much cheaper over a period of two or three years?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139262">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893303">What Canadians have been feeling is that over the last number of years, companies have been selling them plans with maybe more data, more speed and more options on that front—or more phone, to put it quite frankly. Yes, over the last number of years, Canadians have not been feeling, or haven't had the impression, that they were getting better prices. In the last year or so, with a lot of the elements that have been put into place to ensure choice, to be able to help Canadians shop and do better, they are starting to feel that this is changing. </ParaText>
+              <ParaText id="8893304">We are starting to see it with the measurement of the average revenue per subscriber by the telephone companies. That is going down. That's an indication. Through surveys, people are also telling us they are shopping around and starting to feel better about the prices.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139269">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893305">They're feeling happier. </ParaText>
+              <ParaText id="8893306">
+                <B>Scott Hutton:</B> Yes.</ParaText>
+              <ParaText id="8893307">
+                <B>Ted Falk:</B> Okay. Good.</ParaText>
+              <ParaText id="8893308">I want to shift gears over to the Internet side. In terms of rural connectivity, you were tasked with disbursing $750 million to get fibre optics for the most part into the rural communities. Were the contracts you issued to make that happen sole-source contracts or were they competitive bid contracts?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139276">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893309">Essentially, it's a program we put in place whereby effectively, yes, there's $150 million a year, which amounts to $750 million over five years. We have a process whereby we make calls for applications. When people qualify and receive funding through that element, it's done through essentially a competitive bidding process. It is an open process for which we render decisions at the end of the day. We inform Canadians as to what has happened with the various applications on that front. </ParaText>
+              <ParaText id="8893310">We are a tribunal. That's how we have exercised that approach. It is essentially a competitive bidding approach.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139282">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893311">There were no sole-source contracts.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139288">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893312">Mr. Falk, I'm afraid we're out of time. However, we are a bit ahead of schedule, so let me explain what we are going to do.</ParaText>
+              <ParaText id="8893313">Mr. Bains will have five minutes to conclude the round. Then I would like to offer, just keeping our ratio, two and a half additional minutes to the Conservatives, two and a half additional to the Liberals and one minute and 25 seconds to the Bloc. </ParaText>
+              <ParaText id="8893314">Would the parties like to exercise that?</ParaText>
+              <ParaText id="8893315">
+                <B>Some hon. members:</B> Agreed.</ParaText>
+              <ParaText id="8893316">
+                <B>The Chair:</B> Okay. </ParaText>
+              <ParaText id="8893317">In that event, Mr. Falk, we'll come back to you, if your team agrees that you will be the one to speak. That will provide you an opportunity to follow up. Thanks very much.</ParaText>
+              <ParaText id="8893318">Mr. Bains, you have five minutes, followed by a Conservative member for two and a half, Mr. Bardeesy for two and a half, and Monsieur Ste-Marie.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139293">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains (Richmond East—Steveston, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893319">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8893320">Thank you to our guests for coming here today.</ParaText>
+              <ParaText id="8893321">Earlier this month, the CRTC launched consultations on “improving the resiliency of telecommunications networks and reliability of telecommunications services”. Have you made a definition of what “resiliency” is, or will that definition be informed by consultations?</ParaText>
+              <ParaText id="8893322">As another little part to it, will this include hostile foreign actors and transnational issues and challenges? I know that my colleague across the way talked about scams and fraud. Will resiliency against hostile foreign actors, both state and non-state, be part of that definition also?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139298">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893323"> The process we have open is asking all of those questions. Should there be a definition? What is the definition? What is an outage? What are the technical parameters around that? </ParaText>
+              <ParaText id="8893324">Yes, we are looking at all that. We don't have the answer yet because we are asking those questions and working with all of the players here in our country, as we mentioned earlier. We're also looking across the world to see what are great practices elsewhere to integrate into the Canadian system. </ParaText>
+              <ParaText id="8893325">We are looking at all forms of outages, to answer your latter question.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139305">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893326">Thank you.</ParaText>
+              <ParaText id="8893327">I'll go back to Ms. Eatrides. </ParaText>
+              <ParaText id="8893328">There's been a lot of press regarding the wholesale mandated access to “fibre to the premises”, which is better understood as fibre infrastructure for Internet services. It was obviously a complex issue. It's one on which your regulatory body was asked to provide recommendations to government. </ParaText>
+              <ParaText id="8893329">I'm wondering if you could speak to why this issue has such an impact on Canadians.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139314">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893330">Sure. This was a process that was run over a period of roughly 18 months. We did a public proceeding and a public consultation. We welcomed a number of different intervenors from major companies to smaller competitors, consumer groups, the Competition Bureau and a number of others.</ParaText>
+              <ParaText id="8893331">Following a large public proceeding and a public hearing over a period of a week in February 2024, we issued the decision that we would be giving access to the fibre of major companies, so that competitive options could be offered where they hadn't been offered before and consumers would have new options. Again, more choice means lower prices and more innovation. That's why we opened that up for Canadians.</ParaText>
+              <ParaText id="8893332">At the same time, we are always mindful of making sure we're promoting investment. That is why we imposed some of those measures in that same decision.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139321">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893333">Ultimately, it's levelling the playing field for competition.</ParaText>
+              <ParaText id="8893334">Thank you for that.</ParaText>
+              <ParaText id="8893335">Through the broadband fund, the CRTC has awarded over $500 million to over 50 projects across the country, connecting communities from Newfoundland to Nunavut with emergency services infrastructure and Internet. </ParaText>
+              <ParaText id="8893336">Why is it important for rural and remote communities to have access to this infrastructure?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139333">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893337">The very first public hearing that I chaired was in Whitehorse. The stories we heard there about telecommunications in the far north were troubling, to say the least. We heard about kids losing one, two and three years of school during the pandemic because they did not have connectivity. We heard a lot of other troubling stories. </ParaText>
+              <ParaText id="8893338">You hear that across the country when you meet with Canadians. Again, I'm sure this committee and committee members have heard similar stories. Telecommunications are so important to every part of our lives. Making sure we're reaching rural, remote and indigenous communities is so critical.</ParaText>
+              <ParaText id="8893339">It's expensive to get out there. We've heard from telecommunications companies that it can cost tens of thousands of dollars to reach a single home in very remote areas. We know it's expensive. That's one of the reasons we have the broadband fund to help. The reality is that our broadband fund is a tiny sliver of the bigger funding initiatives from federal, provincial and territorial governments to roll out broadband funding.</ParaText>
+              <ParaText id="8893340">It's critically important to people's lives.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139338">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893341">Thank you for your time and for your work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139341">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893342">Thank you very much, Mr. Bains.</ParaText>
+              <ParaText id="8893343">Colleagues, what we'll do here is go to Madam Dancho for two and a half minutes or so. </ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893344">She will be followed by Mr. Ste‑Marie, who will have around a minute and a half, and then Ms. O'Rourke will have the floor for two and a half minutes.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893345">The floor is yours, Madam Dancho.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139347">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893346">Thank you.</ParaText>
+              <ParaText id="8893347">I'm just following up on my earlier line of questioning. </ParaText>
+              <ParaText id="8893348">I'm sure you're familiar with this. In February 2025, Australia passed a scams prevention framework, which required banks, telcos and digital platforms “to prevent, detect, disrupt, respond to and report scams”.</ParaText>
+              <ParaText id="8893349"> ACMA—they are Australia's CRTC, as I'm sure you know, their telecom and media regulator—can now issue legally enforceable rules to carry out audits and impose multi-million dollar fines for non-compliance. </ParaText>
+              <ParaText id="8893350">Would we require legislative change for you to have those powers? Would you find them useful in enforcing the directives you've put forward?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139353">
+            <PersonSpeaking>
+              <Affiliation DbId="322514" Type="28">Scott Hutton</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893351"> The first answer is we do not have those legislative powers right now. Our regime in this domain is very much a civil one, and it's meant to address spam—the annoyance and the nuisance of it—and regulate how legitimate companies deal with Canadians, customers and consumers on that front. That's what we do primarily in that domain.</ParaText>
+              <ParaText id="8893352">We are in contact with ACMA—we chat with them often enough—so we're following up with them to see how they will be implementing this and what the effect of that new law will be in that domain, but we are not in that business right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139358">
+            <PersonSpeaking>
+              <Affiliation DbId="320553" Type="40">Raquel Dancho</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893353">Thank you very much for that.</ParaText>
+              <ParaText id="8893354">I think in terms of the effects so far, since just February 2025, there's been a 26% decrease in fraud and scams, the only decrease being experienced in the world. They're doing something right. I don't know if it's the right fit for Canada, but I appreciate the further insight you're able to provide today. It certainly gives us a bit of a foundation to work on, should we move forward with the study on this.</ParaText>
+              <ParaText id="8893355">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139362">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893356">Okay, we're just getting time back all over the place here.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893357">Mr. Ste‑Marie, you have the floor for two minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139366">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893358">People are watching less of traditional cable television, especially younger people, who are consuming more and more content online. They're often doing so on platforms managed by large foreign conglomerates.</ParaText>
+              <ParaText id="8893359">How can we ensure a certain fairness in the market and ensure that Canadian producers can compete with those giants and succeed?</ParaText>
+              <ParaText id="8893360">Does that have to be done through new government legislation? Can you intervene right now to restore balance?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139370">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893361">We have an answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139377">
+            <PersonSpeaking>
+              <Affiliation DbId="322513" Type="28">Scott Shortliffe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893362">Yes, that's the big question for us today.</ParaText>
+              <ParaText id="8893363">As I mentioned, we had some public hearings. I can't talk about the results, because the CRTC is currently studying that, but we asked that exact question.</ParaText>
+              <ParaText id="8893364">We also wonder what the right balance is between digital media and traditional media. We recognize that they have different strengths and weaknesses and that it's not about imposing exactly the same thing on digital companies like Netflix and all the other digital platforms.</ParaText>
+              <ParaText id="8893365">We're currently looking at how we can contribute to a comprehensive system that includes digital and traditional media, as well as what would constitute the right level of requests. We asked all these questions at a public hearing that lasted three weeks and where there were more than 500 interventions.</ParaText>
+              <ParaText id="8893366">That's really our concern right now, and I hope to come back to you in the near future with the results.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139389">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893367">Thank you, Mr. Ste‑Marie.</ParaText>
+              <ParaText id="8893368">Ms. O'Rourke, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139395">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893369">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893370">I really liked Mr. Ste‑Marie's question. Having worked at Groupe Média TFO, I know that there are excellent Franco-Ontarian and Canadian producers across the country. It's important to support them so that we have Canadian productions that talk about our stories, because that's part of our sovereignty.</ParaText>
+              <ParaText id="8893371">That said, my question is on a completely different topic.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893372">I wanted to tack on to my colleague's question about the broadband fund, because you talked about the importance of access to e-learning in rural and remote areas, and in the Arctic, which is also a sovereignty issue about having Canadians live across the territory.</ParaText>
+              <ParaText id="8893373">I'm wondering if you could expand on just how critical it is for individuals, for businesses and for the provision of e-health, which is more and more prevalent. Tell us just how critical this expansion of access to telecommunication is for rural and remote communities, which can often be more affordable places to live than the larger cities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139402">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893374">I don't think it is dramatic to say that in some cases it's a matter of life and death. We heard that in Whitehorse as well, where there was a situation where, because of a lack of connectivity, an elder was lying on the floor and couldn't access any sort of telecommunication services because of a failure in connectivity.</ParaText>
+              <ParaText id="8893375">I mentioned that last week we were in Winnipeg. Scott and I were there with a couple of others in the north end of Winnipeg, and we were just hearing the very human stories about how people cannot find employment, they don't have connectivity, they don't have devices in many cases, or they can't apply for jobs. It comes down to people, and the impact is significant. Again, I'm sure committee members hear these troubling stories all the time.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139404">
+            <PersonSpeaking>
+              <Affiliation DbId="319733" Type="47">Dominique O'Rourke</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893376"> Through you, Mr. Chair, when you have these conversations, are you also talking with businesses that would like to establish in smaller centres if they had that kind of connectivity, so that they also would be able to do business with the world?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139413">
+            <PersonSpeaking>
+              <Affiliation DbId="296798" Type="28">Vicky Eatrides</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893377">The broadband fund is a big part of that. A lot of that is working with municipalities and provinces. We work closely with ISED on that. Companies build. They get out there and they build, because we're able to fund that. </ParaText>
+              <ParaText id="8893378">For sure, we're able to bring companies in to help build this connectivity that's so desperately needed by communities.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139422">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893379">Thank you very much, Madam O'Rourke.</ParaText>
+              <ParaText id="8893380">Colleagues, that concludes our first hour of today's meeting. </ParaText>
+              <ParaText id="8893381">Thank you very much to the representatives from the CRTC for being here. There was certainly a swath of different topics there, and I think it's always interesting because the beauty of these committees and appearances like this is the opportunity for members of Parliament to bring back the very grassroots things they are hearing from constituents and pose those questions to folks who are senior in these departments and making important decisions that have ramifications for them. It was quite useful to hear from you today. We appreciate your time and look forward to the next time we have the chance to speak with you. </ParaText>
+              <ParaText id="8893382">Colleagues, we are going to suspend briefly. It will take about five minutes for us to turn over, and then we will begin our productivity study. </ParaText>
+              <Pause>
+                <StartPause>
+                  <Timestamp Hr="17" Mn="30">(1730)</Timestamp>
+                </StartPause>
+                <EndPause>
+                  <Timestamp Hr="17" Mn="35">(1735)</Timestamp>
+                </EndPause>
+              </Pause>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139430">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893383"> Colleagues, we're going to go ahead.</ParaText>
+              <ParaText id="8893384">We have with us, from the C.D. Howe Institute, Mr. William Robson, president and chief executive officer.</ParaText>
+              <ParaText id="8893385">I wanted to start on a personal note, actually. Whenever I see C.D. Howe's name, I feel a bit of pride. The reason is that my great-uncle, David Golden, not only was the first Jewish deputy minister in Canadian history but, more importantly, served as deputy minister under C.D. Howe in the post-war years. That's a little piece of family history that my father always ensured we were aware of. When I see the name C.D. Howe, I always think of my great-uncle David. I thought I would use that to help us transition into this second round.</ParaText>
+              <ParaText id="8893386">Mr. Robson, I understand you have made yourself available to us on quite short notice, so we are appreciative of that.</ParaText>
+              <ParaText id="8893387">I'm going to turn the floor over to you for upwards of five minutes, sir, for introductory remarks, at which point we will then go into some questioning from the various parties around the table here. If you at any point have issues with your headset, please let us know. I may try to very gently interrupt should I feel as though we're starting to go over the allocated time.</ParaText>
+              <ParaText id="8893388">With that, Mr. Robson, I'll turn the floor over to you for five minutes to introduce yourself and your expertise on the matter.</ParaText>
+              <ParaText id="8893389">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="40">(1740)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139440">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson (President and Chief Executive Officer, C.D. Howe Institute)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893390"> Thank you for having me here. Congratulations to the technical crew, who did such a good job connecting us.</ParaText>
+              <ParaText id="8893391">Allan Levine has a book that's just about to come out on the dollar-a-year men, so if you're interested in reading more about the accomplishments of your ancestors and C.D. Howe himself, there's a great new source coming out.</ParaText>
+              <ParaText id="8893392">To get to the business here, I hope that my remarks and answers to your questions will help your work. The stagnation of Canadian productivity and Canadians' real earnings and living standards is a critical topic. I congratulate the committee for taking it on.</ParaText>
+              <ParaText id="8893393">I'll gladly answer questions on any aspect. In my opening remarks I want to focus on business investment, because investment has been so weak for a decade that the stock of capital per worker in Canada has been falling. If we don't turn that around, the sustained improvements in productivity and earnings and living standards we all want to see and that motivate this committee's work will not happen.</ParaText>
+              <ParaText id="8893394">The capital I'm focusing on is built capital. That means non-residential buildings and engineering, machinery and equipment—M and E—plus intellectual property products. Other types of capital matter, and the efficiency that we use our capital with matters, but the built capital is absolutely critical. If you look around the world, high-income countries have lots of built capital, lots of non-residential structures, M and E and intellectual property products per worker. Low-income countries have little built capital per worker.</ParaText>
+              <ParaText id="8893395">The crux here is that over the past decade our investments in these types of capital in Canada have not kept pace with depreciation and have not kept pace with population growth, so the capital stock per worker has fallen. You won't find anything like that since the days of C.D. Howe.</ParaText>
+              <ParaText id="8893396">This institute publishes an annual report that compares investment per worker in Canada with the past and with other countries. The international comparisons matter for many reasons. One reason is that if we saw other developed countries also investing less, we might take comfort that we weren't standing out in a bad way or losing ground against countries that are equipping their workers better, but that's not what we find. Even when we're looking only at the more developed countries—so leaving out rapid industrializers like China and India—we see gaps between investment per worker abroad and in Canada that have widened over the past decade. The contrast with the United States, which is, as everyone knows, our closest neighbour, our biggest trading partner and also our fiercest competitor, is very alarming.</ParaText>
+              <ParaText id="8893397">Comparing investment across the two countries is not straightforward. In Canada, we have tended to invest more in non-residential structures. That's partly because our economy is more natural resource-focused, but the gap in our favour in that area has narrowed. We invest less in intellectual property products, which the two countries don't measure in exactly the same way. That gap has widened.</ParaText>
+              <ParaText id="8893398">I focus on M and E in particular, though, because the types of capital there are more straightforward to compare—vehicles, industrial machinery and electronic equipment, such as you were discussing in your previous session. Those tend to be more similar between the United States and Canada, and it's more salient because M and E investment is critical to making so many of the tradeable products that are vulnerable to U.S. protectionism. We want to be as competitive as possible in those areas.</ParaText>
+              <ParaText id="8893399">Now here's an area where U.S. businesses have invested more for as long as we have. In terms of numbers, if you go back 30 years, for example, and adjust for purchasing power, as we do in our report, you'll see U.S. investment in machinery and equipment in Canadian dollars was about $5,600 per worker annually, and in Canada it was $2,800. If you compare those numbers, you'll see that for every dollar of new M and E investment enjoyed by the typical U.S. worker, the typical Canadian worker was getting about 51¢ back then.</ParaText>
+              <ParaText id="8893400">Over the next decade and more, we closed the gap. By 2008, business investment in M and E stood at about $7,000 Canadian per U.S. worker, and the Canadian figure was $4,400, so it was better. For every dollar of new M and E per U.S. worker that year, Canadian workers got 63¢.</ParaText>
+              <ParaText id="8893401">However, the change since then is that U.S. investment is up and ours is down. In the second quarter of this year, the most recent data we have, U.S. businesses invested in M and E at an annual rate of nearly $12,800 Canadian per worker, and the equivalent Canadian figure was $4,100. If you compare those, for every dollar of new M and E for every U.S. worker, on average, the Canadian worker was getting only 32¢.</ParaText>
+              <Timestamp Hr="17" Mn="45">(1745)</Timestamp>
+              <ParaText id="8893402"> Witnesses' opening remarks should not exceed five minutes, so I'll wrap up. I'd be glad to respond to questions about why this is happening and what we can do about it. </ParaText>
+              <ParaText id="8893403">I do want to underline that I focused on built capital and especially the gap between machinery and equipment investment per worker in the U.S. and Canada, because it's such a key indicator of our recent attractiveness to investment and our prospects for productivity in the future. </ParaText>
+              <ParaText id="8893404">If U.S. businesses are equipping their workers at triple the rate that we are, that's an annual gap of about $8,500 in M and E alone. We've got a big problem. Everyone will remember—it will probably be in your report—that Bank of Canada senior deputy governor Carolyn Rogers said 18 months ago now that Canada had a productivity emergency and it was “time to break the glass”. Things have gotten worse since then, and I hope this committee's work will help us find the hammer.</ParaText>
+              <ParaText id="8893405">Thank you again for having me with you today. I look forward to your comments and your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139446">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893406">Thank you very much, Mr. Robson.</ParaText>
+              <ParaText id="8893407">Mr. Falk, the floor is yours for six minutes to start us off.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139451">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893408">Thank you, Mr. Chair. </ParaText>
+              <ParaText id="8893409">Thank you, Mr. Robson, for your attendance here at committee today. I appreciate your comments and the insight that you and your organization provide.</ParaText>
+              <ParaText id="8893410">In a recent report that you co-authored, you suggested that “The Carney government is poised to post a massive deficit of over $92 billion during this fiscal year”. As you know, this is almost double what has been forecasted by the government itself. </ParaText>
+              <ParaText id="8893411">The independent Parliamentary Budget Officer also recently told the government operations and estimates committee that he doesn't “know that the government currently has [any] fiscal anchors, which...causes...a considerable degree of concern”, or at least it should. </ParaText>
+              <ParaText id="8893412">Given these realities, can you communicate to the committee whether your projection of the federal deficit has risen?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139459">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893413">We haven't updated since we did those numbers, which were based on a variety of sources, including some platform commitments that may or may not come to pass. </ParaText>
+              <ParaText id="8893414">To tie this together with the topic of investment and productivity, I am concerned that the growth of government spending and government borrowing over the past decade had something to do with the fact that our investment rates have been so low. </ParaText>
+              <ParaText id="8893415">During most of that time, the economy was operating at capacity. We've got a bit of slack now, but for most of that period, as the high inflation that we endured for a while illustrated, the economy was pretty much working at capacity. If the economy is working at capacity, for every dollar you spend in a given area—it could be government, and it could be other things as well, like consumption and residential housing—it's necessarily going to come from somewhere else you otherwise might have been able to invest.</ParaText>
+              <ParaText id="8893416">When I look at the low investment rates in Canada over the period we've been talking about, I do think that some crowding out as a result of the growth of government spending and the amount of borrowing that was absorbing saving probably had something to do with it.</ParaText>
+              <ParaText id="8893417">When I look at the fiscal trajectory, I have a few things in mind. One of the things I have in mind—and I hope we'll get to this—is the possibility that we could make some tax changes that I think would be helpful for investment. </ParaText>
+              <ParaText id="8893418">In addition to that, and as a precondition, it would be nice to have government taking up a bit less of the share of funds that's available in the economy every year, because we do need more investment and it has to come from somewhere. A smaller government would make a bit more room for higher investment.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139463">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893419">Okay. </ParaText>
+              <ParaText id="8893420">Getting back to my question, you predicted that there would be a $92-billion deficit. Is that a number that you still stand behind? </ParaText>
+              <ParaText id="8893421">You also indicated in that report that you used a more optimistic Bank of Canada scenario and that there was a more pessimistic one. If you were to look at the worst-case scenario that was also provided by the Bank of Canada, where would that land you as far as a deficit projection?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139471">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893422">I can follow up with a number if that's of interest to you, because we did use the more optimistic projection, as you point out.</ParaText>
+              <ParaText id="8893423">We have not updated those numbers. I look forward to the fall budget. I hope that we will see numbers that are less than those, but that was the best we could do with the information we had at the time.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="50">(1750)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139477">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893424">Okay. </ParaText>
+              <ParaText id="8893425">When you look at the reluctance of Canadians to invest in workers, is it actually a machinery and equipment investment that's missing, or is it an outflow? You made one comment that you think the economy is actually functioning at capacity. Is it because we're doing low-value-added work, and is the part that we're missing the high-valued manufacturing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139482">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893426"> Look around the world to see the countries that have high levels of capital per worker and high incomes. Certainly, when you look at the countries that are in that favourable position, you do see that the capital endowment tends to be reflected in high productivity and high wages, with workers who are, essentially, using tools that are newer and more up to date than ours. It seems to be a very strong rule of economic development that an essential precondition is that you have a good endowment of capital per worker. </ParaText>
+              <ParaText id="8893427">I think that Canadian business investment has fallen in a number of areas as a result of many circumstances. For the sake of highlighting one that I think we can do something about, I'll highlight taxes. People say a lot of things about Canada being a colder climate, with a population that's dispersed in certain ways and more risk averse.... Those things may all be true, but why did it get worse over the last little while?</ParaText>
+              <ParaText id="8893428">One reason we've seen U.S. investment leap ahead in the last few years, going back to their tax reform of 2017, is that they did some important tax changes that made domestic investment more rewarding. Some of the investment that we saw in the United States after that tax reform probably did come from Canada, because it was designed to repatriate capital. When people have looked at the investment performance of businesses on either side of the border following those reforms, it seems clear that U.S. businesses were investing more. Canadian companies in similar lines of work did not seem to do the same thing, so it's very likely that some investment from Canada went south of the border to pursue those opportunities. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139485">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893429">Since <Affiliation DbId="314774" Type="1">Mr. Carney</Affiliation> became our Prime Minister, we've seen $60 billion of investment flee our country and end up in other jurisdictions, primarily in the United States. Do you think that's driven because of government policy or legislation—very punitive bills, like Bill <Document DbId="9630600" Type="3">C-69</Document>—which prevent resource development in our country? What would you attribute that to?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139490">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893430">It's probable that the environment for natural resource investment in Canada has been worse than in the United States, in a way that has affected investment performance. What I've been talking about over last 10 years.... Many of you will recall, some with a fair amount of pain, that there was a big collapse in the price of oil in 2014, so fossil fuel extraction everywhere in the world suffered at that point, including in Canada, but one of the starkest points of contrast between the United States and Canada since then is that the resource industries in the United States have come back far more than in Canada. I mentioned there are some difficulties in comparing the two economies—the structures of the energy industries are different—but it's very striking that Canada did not recover the same way the United States did. </ParaText>
+              <ParaText id="8893431">I think that if we could get some of the problems that are afflicting major projects out of the way, we would certainly see a better performance there. Those are very high value-added and capital-intensive industries, and they do affect machinery and equipment investment as well, so I think that would make a difference. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13146400">
+            <PersonSpeaking>
+              <Affiliation DbId="319785" Type="47">Ted Falk</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893432">By “problems”, do you mean—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139500">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893433">Mr. Falk, we're 50 seconds over now, so I'm going to move to the next speaker. </ParaText>
+              <ParaText id="8893434">Mr. Bardeesy, you have six minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139510">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy (Taiaiako'n—Parkdale—High Park, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893435">Good day, Mr. Robson. It's good to see you in this new context for me. </ParaText>
+              <ParaText id="8893436">I want to start with a follow-up question on the comment you made on the U.S. corporate tax changes. Since then, the U.S. seems to be pursuing a model of state capitalism, which I don't know if we've seen in western countries, by continuing to drive down corporate tax rates but also taking shares in companies, doing very aggressive mercantilist work to try to repatriate investment. Generally, what do you see as implications for Canada in this, what appears to be a new, emerging model?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139513">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893437"> U.S. aggressiveness on the trade front and in some of the ways that you have mentioned is concerning for a variety of reasons. I don't think some of the state capitalism that is being undertaken on this almost ad hoc basis, it seems, is necessarily going to work out very well.</ParaText>
+              <ParaText id="8893438">When I talk about potentially doing something on the tax side, one of the reasons that I tend to focus in that area is that there are things we can do that will have reasonably predictable effects. For example, if we were to cut the top corporate income tax rate to try to restore our tax competitiveness to what it was before the U.S. tax changes, I'm fairly confident that it would have the effects we want. If we were to have a temporary investment tax credit, again, I'm fairly confident that it would have predictable and positive effects.</ParaText>
+              <ParaText id="8893439">If we try to outmuscle the U.S. when it comes to subsidies or taking these ownership stakes in companies, I fear that we will not be able to make very good choices. I don't think they're making very good choices. I think that will take a lot of time, produce a lot of friction and produce a lot of lobbying and other types of things that are a bit wasteful from an economic point of view. I would much prefer for us to react to some of the things the U.S. is doing with instruments that are more neutral in their application and that are easier to implement with confidence so that they will have the effects that we want.</ParaText>
+              <ParaText id="8893440">I know we're not ready to talk about cuts in corporate tax rates at the moment—it doesn't seem to be the right atmosphere for it—but we know what that would do. It's easy to design, and it's a lot better than deciding that we're going to take a stake in one of the big tech companies, for example.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="55">(1755)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139519">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893441">You mentioned the relative investment in capital between the U.S. and Canada. One of the areas in which we have a relatively large endowment of capital is through our pension plans. I know you've done lots of work on pensions in the past. Do you have a view on the role of Canadian pension plan investment in the Canadian economy?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139524">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893442">I would love to see Canadian pension plans invest more in Canada. If I may speak for them, I think they would be very happy to do so.</ParaText>
+              <ParaText id="8893443">The difficulty they face is that many of the assets that are most attractive for them to invest in are not easy to come by in Canada. It makes a lot of sense for a Canadian pension fund to invest in the types of assets that Canadians, including Canadian pensioners, will use themselves. It makes a lot of sense for them to own airports that Canadians and Canadian pensioners are flying through. If we have toll roads, toll bridges or other types of infrastructure that pay a return, Canadian pension funds would love to invest in that as opposed to investing in other countries, especially in countries where they don't understand the environment as well or where there may be political risks. It's a great hedge for them.</ParaText>
+              <ParaText id="8893444">I would like to see more of that kind of investment. I think the best way to attract it.... The federal government could do something here in the airport area, for example, in the short run. That's a very good way of thinking about how to boost investment here and attract capital of a kind that will be very happy to invest here at home.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139530">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893445">Do you see any high-capital, stable return projects that could be on the table around the corner? There's a lot of conversation in Canada, and we have a proposal around high-speed rail. Is that the kind of project that could attract pension plan investment along the lines that you're discussing?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139535">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893446">It could. High-speed rail is very attractive. It's also a little risky.</ParaText>
+              <ParaText id="8893447">Pension funds like to do things that are a little safer when they're first getting into an area. The sorts of things that are very attractive to them—and we have some examples of this already—are electric utilities. Water isn't such a big thing for private investment in Canada, but it could be. We are going to need a lot of investment in water—drinking water and sewers—in the coming years.</ParaText>
+              <ParaText id="8893448">I mentioned airports already, but I'll just underline it, because that's an area that the federal government has some control over.</ParaText>
+              <ParaText id="8893449">There is a lot of potential for pension fund investment in Canada. I don't know if your question was inspired by some of the proposals that have been made to restrict foreign investment by our pension funds. We've had regimes like that in the past with foreign investment restrictions. I wouldn't favour that. If there's interest on the committee's part, I can elaborate on why.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139540">
+            <PersonSpeaking>
+              <Affiliation DbId="319735" Type="47">Karim Bardeesy</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893450">Thank you.</ParaText>
+              <ParaText id="8893451">I know we're doing a tour of a number of issues here, and I appreciate your engagement on them.</ParaText>
+              <ParaText id="8893452">I'm going to switch briefly to talent and IP. You mentioned that IP and intangibles are in an asset class that we need to be generating more of in Canada as well, and Canadian firms face pressure from abroad to relocate or to sell their IP. Generally, what role can federal policy play in keeping and attracting talent in this country?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139547">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893453"> Just give a quick, concise answer, please, Mr. Robson.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="00">(1800)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139554">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893454">Thank you. I'll quickly say there is a lot of concern about the difficulty of developing a lot of these applications in Canada. For the sake of giving a quick and concise answer, I'll say again that I would look at the tax system. On both the corporate and the personal side, a lot of the talent that flows south of the border is doing so in response to the fact that they get to keep a lot more of the return on their investment in the United States, and that matters to people who are in that line of work.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139557">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893455">Thank you very much, Mr. Bardeesy.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893456">Mr. Ste‑Marie, you have the floor for six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139563">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893457">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893458">Mr. Robson, thank you for your participation. Your comments are very interesting.</ParaText>
+              <ParaText id="8893459">My questions will be on the low productivity of Canada's manufacturing sector compared with other countries.</ParaText>
+              <ParaText id="8893460">What's your analysis of that?</ParaText>
+              <ParaText id="8893461">What would be the barriers that keep producers from investing more in state-of-the-art equipment and production technologies?</ParaText>
+              <ParaText id="8893462">Do you have any potential solutions to remedy the situation?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139570">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893463">Yes, in focusing on machinery and equipment investment, I'm acutely conscious of the competitive pressures that we face there and the need to upscale. We will always have manufacturing in Canada, but if we don't have a good endowment of tools per worker, we're going to do low value-added stuff. We don't want to be making T-shirts; we want to be making the machines that make the T-shirts or designing the software that runs those machines.</ParaText>
+              <ParaText id="8893464">It's clear, from the low investment rates I was referring to, that businesses are hesitating to invest in this type of capital in Canada. It's very concerning for many of the industries that are under pressure as a result of U.S. protectionism. There are certain things that we cannot very easily do anything about. I wish our negotiators on the Canada-U.S.-Mexico agreement every success in the world in maintaining our market access. </ParaText>
+              <ParaText id="8893465">One of the reasons that I focused on, for example, an investment tax credit as a potential response to this pressure is that—I'm repeating myself, and I apologize, but the point is worth making—it's a tool that we know how to design and that we know how to use, and we can have a lot of confidence that it will do something helpful. </ParaText>
+              <ParaText id="8893466">There's a recent survey from the Canadian Federation of Independent Business—so that's smaller than some of the businesses that we would also like to see tooling up in manufacturing. Interestingly, the highest number ever in their survey cited the cost of capital equipment as an obstacle to their plans. Perhaps we can do something on the tax side to make it easier for them to afford to tool up.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139577">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893467">Thank you.</ParaText>
+              <ParaText id="8893468">More broadly, there are many key areas across all sectors of the Canadian economy that seem to be exploited by subsidiaries of American companies. Let's take the example of Ontario's automotive sector, the major contractors or the oil and gas industry.</ParaText>
+              <ParaText id="8893469">Would that explain why productivity is lagging for those sectors?</ParaText>
+              <ParaText id="8893470">My hypothesis is that research, development and innovation would be done more within the parent companies. For example, productivity-enhancing technologies would be applied more in the United States before being exported to Canada.</ParaText>
+              <ParaText id="8893471">What do you think?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139583">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893472">I share the concerns of many, and perhaps your question reflects this, on the difficulty that Canada has in retaining head offices and head office functions.</ParaText>
+              <ParaText id="8893473">When I talk to people who work for multinational companies and ask them what it is that attracts them to Canada, they cite a number of positive factors. They cite the quality of the workforce, they cite the rule of law, and they cite the predictability of policy. We have lots of assets, and that's one of the reasons that you see as much activity by multinationals here in Canada as you do.</ParaText>
+              <ParaText id="8893474">When it comes to the head office functions, I think there's a bit of a critical mass issue for us. I apologize for not attempting to say that in French. We do not want to see the professional services going south of the border, and as it becomes easier for people to work remotely and for functions in different companies to be spread out, I would like to see Canada doing what it can to retain talent. In Quebec, in Ontario, in several other provinces, we have top marginal personal income tax rates that are over 50%. I think when you get over 50%, you're sending a strong signal to somebody who is wondering where they would like to deploy their talents. It's not surprising to me that we see some head office functions moving to areas where the bite on that extra dollar earned is a bit less.</ParaText>
+              <ParaText id="8893475">I don't think we can go down very far. Both politically and economically it would be difficult to do, but it would be very nice to see that top rate get down below 50%. Very often, including in Canada, when we've contemplated tax reform, people have said that when you get over 50%, that's psychologically and economically damaging.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="05">(1805)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139590">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893476">Okay, thank you.</ParaText>
+              <ParaText id="8893477">I have one last question on another topic.</ParaText>
+              <ParaText id="8893478">I get the impression that there are a lot of innovative small businesses—by which I mean start-ups in various leading-edge sectors, or small or medium-sized businesses, or SMEs—that are very often sold to larger American companies as they grow. That might suggest that higher productivity is being shifted to the United States.</ParaText>
+              <ParaText id="8893479">What are your thoughts on that?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139597">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893480"> I have already expressed the concerns that I share about the movement of some of these high-value jobs south of the border. Most of the income in the economy flows to labour. We would like more capital owners, including Canadian pension funds, to be reaping the returns from investment, but, when I focus on investment per worker, it's because that is the key driver of higher wages and better living standards for people.</ParaText>
+              <ParaText id="8893481">I would love to see the pie sliced a little differently, so that Canadian owners of capital, Canadian entrepreneurs, are getting a bigger slice of pie. If we have higher investment per worker, I guarantee that the workers themselves will benefit from it, because they earn most of the income in the economy.</ParaText>
+              <ParaText id="8893482">I would start with looking at those investment numbers. I said in my presentation how critical I think it is to watch those numbers. If this committee is successful in its work, we will be talking about better numbers than that. If we do not get those investments per worker numbers up, I fear for the future of manufacturing in this country. I fear for the future of wages in this country, and I fear that we will continue to lose talent.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139604">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893483">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139611">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893484">Thank you, Mr. Ste‑Marie.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8893485">Mr. Guglielmin, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139619">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893486">Thank you, Mr. Robson, for being here. I appreciate your time. </ParaText>
+              <ParaText id="8893487">I want to turn to the energy sector, which is key to Canada's economic recovery. The C.D. Howe Institute's September 2024 report highlights a decline in investment per worker in the oil and gas sector compared to the U.S., citing less favourable regulatory environments since 2015.</ParaText>
+              <ParaText id="8893488">Just yesterday we learned that TC Energy, a Canadian company, is investing $8.5 billion in energy infrastructure; however, unfortunately, that's in the United States. Additionally, the Parliamentary Budget Officer warned that policies restricting Canadian energy production could reduce GDP by $20 billion annually and cost tens of thousands of jobs by 2032.</ParaText>
+              <ParaText id="8893489">How do regulatory and policy uncertainties around energy restrictions affect Canada's ability to attract and retain capital investment? What are the implications for productivity and economic growth?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139626">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893490">I will repeat something that I said in response to an earlier question about the very capital-intensive nature of natural resource industries. When you have high amounts of capital per worker, you pay very high wages. You alluded to this already, so I'll say that the knock-on effects from investment in natural resource projects, including oil and gas extraction, are considerable. One of the reasons that machinery and equipment investment has been weaker in Canada than in the United States is the amount of machinery and equipment that is used in the fossil fuel sector and in the energy sector generally.</ParaText>
+              <ParaText id="8893491">I would like to see us do a more thorough revamp. Bill <Document DbId="13547622" Type="3">C-5</Document>, as we call it, is sort of addressing in a piecemeal fashion some of the obstacles that face individual projects, but there's no question in my mind from talking to industry executives, as you do, and you will know this, that they see that Canada has been a very difficult environment to operate in.</ParaText>
+              <ParaText id="8893492">For those who are interested in the details, the structure of the industry is different. One of the reasons the United States was able to rebound faster from the oil price collapse is that there's more fracking there, and there's more quick turnaround stuff, whereas we have the oil sands, which are, by their nature, more like baseload, if you like that comparison. The United States has moved ahead quickly on LNG, and we have not. I think we can see some comparisons with our performance versus that of the Americans. The world wants our fossil fuels. We will need them for a long time to come. It makes sense for us to develop those resources more fulsomely than we've done over the past decade.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="10">(1810)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139631">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893493">Thank you for your response. </ParaText>
+              <ParaText id="8893494">We just heard in response to your previous question how the opportunity will be decimated for future manufacturing growth and jobs if we don't correct our productivity, and investment is an issue. What immediate policy actions would you recommend to help reverse Canada's productivity and investment challenges and ensure that we can share in a future of economic prosperity?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139638">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893495"> I have mentioned taxation several times already. I'll come back to it again for the reasons that I've already mentioned. It's a tool where, if you turn the knob in a certain direction, you can have a fair amount of confidence that you'll see a certain result. Many levers of economic policy are not as straightforward as that. I don't think Canada is ready for any kind of thoroughgoing revamp of the corporate tax system. It takes a long time to talk about that and to get people comfortable with the idea. Ideally, you would have a federal fiscal situation that could tolerate some revenue cost, because it's a lot easier to do a tax reform if you can allow revenue to be a little softer for a few years. That way the losers don't lose so much compared with what the winners win.</ParaText>
+              <ParaText id="8893496">I will go back to the suggestion of a temporary investment tax credit for the reasons I've already mentioned. It's easy to design. It will have quite predictable effects. If it's temporary, the fiscal hit will be temporary. Then you can recapture a little of what you gave up. I think that would help bridge the gap between where we are now and where we would like to be with a more competitive corporate tax system over time.</ParaText>
+              <ParaText id="8893497">If the federal government is planning on spending billions of dollars in new subsidies of various kinds, I'd say forget all that stuff. It takes a long time to do. It's very politically complicated, and it gives rise to all sorts of lobbying. If you do something on the tax side, it's big, it's dramatic, it's more neutral, and you know it's going to have a positive effect.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139641">
+            <PersonSpeaking>
+              <Affiliation DbId="319784" Type="47">Michael Guglielmin</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893498">Thanks for your response. It's appreciated.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139646">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893499">Thanks very much, Mr. Guglielmin.</ParaText>
+              <ParaText id="8893500">Ms. Acan, the floor is yours for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139648">
+            <PersonSpeaking>
+              <Affiliation DbId="317808" Type="2">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893501">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893502">Welcome, Mr. Robson. Thank you for being here with us today.</ParaText>
+              <ParaText id="8893503">It's great to have the opportunity to talk about one of Canada's biggest strengths—our diverse and talented workforce. Canada attracts many immigrants, including myself, with a range of skills and talents. However, we can see a labour mismatch in key industry sectors. From your perspective, what policies or programs could help better align the skills of immigrants with the needs of these sectors, ensuring both economic growth and the full utilization of the Canadian talent pool?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139653">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893504">There are several aspects to your question. It's tempting to try to address them all, but I would run us out of time.</ParaText>
+              <ParaText id="8893505">I do have concern about the direction of immigration policy over the last few years. We brought in a lot of people who did not have the same skills and attributes that had been correlated with success in the Canadian labour market in the past. We did it at a time when, as I've been emphasizing, capital investment was so low that we were moving the economy in a direction of less skilled labour and less well-endowed labour in terms of the capital they were working with. That's not a healthy direction to go in.</ParaText>
+              <ParaText id="8893506">One thing that I think we need to remind ourselves of is how successful Canadian immigration policy was over time at bringing in people who would do well in Canada. Going along with that, of course, we had very strong political support for that kind of immigration system. I think we need to remind ourselves of the value of ensuring that people who come to Canada do have more of the skills that will be successful.</ParaText>
+              <ParaText id="8893507">As you may know, a very disturbingly high proportion of people who come to Canada subsequently leave. Now, I'm very happy to see people moving around the world. We make connections. It promotes economic efficiency as well as human happiness, but when you see how many immigrants come to Canada and subsequently leave, especially for the United States, you have to worry that they're not finding the opportunities here as rich as what they think they'll find in the United States. </ParaText>
+              <ParaText id="8893508">I would love to see us doing things, including getting those higher investment rates, that would create more attractive opportunities for people with skills, high education and lots of ambition and get that flow of immigrants who come to Canada and then leave again to keep coming, but then perhaps stay a little longer, or for their lifetimes.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="15">(1815)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139656">
+            <PersonSpeaking>
+              <Affiliation DbId="317808" Type="2">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893509">Thank you very much for your response.</ParaText>
+              <ParaText id="8893510">One of our priorities as a government is ensuring that Canadian companies, especially in such strategic sectors as technology, clean energy and critical minerals, have the ability to scale here at home and remain under Canadian ownership rather than be acquired before reaching their full potential. In your view, what are the most effective measures to help retain and grow Canadian firms domestically?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139661">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893511"> I'll go back to the question of talent, because in many of the areas that are most cutting edge, including technologies such as quantum computing and a lot of the leading-edge work that's being done in artificial intelligence, the talent there is flowing south of the border at a rate that is very concerning.</ParaText>
+              <ParaText id="8893512">It's a complicated thing to address all at once, but I do think it would be helpful if we lowered our tax rate on the most talented people. I think that if the talent wants to be here, then the head offices will tend to be here as well, because people are gregarious and people like to work together. There's a lot of benefit from collaboration in person in hubs that already have an advantage. In Canada, we do have a number of them; we're not starting from scratch in that area. I think if we can provide a more hospitable environment for talent, then a lot of the industrial policy benefits that we seek will come here as a result of the attraction.</ParaText>
+              <ParaText id="8893513">You didn't say anything about ways of trying to prevent foreign investment...like putting barriers up or perhaps government taking a stake in companies to prevent them from moving. I think that's a very difficult thing to pull off in an effective way and over time compared to looking at the policies of broad application that you know are going to be helpful for encouraging Canadians who've perhaps gone abroad to come back to Canada and encouraging Canadians who are already here—who've graduated and are putting down roots—to stay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139666">
+            <PersonSpeaking>
+              <Affiliation DbId="317808" Type="2">Sima Acan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893514">Thank you very much, Mr. Robson.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139669">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893515">Thank you, Ms. Acan.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8893516">Mr. Ste‑Marie, you have the floor for two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139673">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893517">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893518">Mr. Robson, I get the impression that there could be a better alignment between the innovations made in universities and their transfer to businesses in the country.</ParaText>
+              <ParaText id="8893519">Is that something you think should be explored?</ParaText>
+              <ParaText id="8893520">Can there be a better alignment, which would enable businesses to work more with talented people in universities and thus increase the productivity of our economy?</ParaText>
+              <ParaText id="8893521">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139678">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893522">I think we probably could. The post-secondary sector in Canada is under a lot of financial pressure lately, as you'll know. For the federal government to support basic research, I think there's a very substantial consensus that there are good effects from that.</ParaText>
+              <ParaText id="8893523">The area that is potentially toughest to address, or one of the ones where I admit I don't have definitive answers, is with the ownership of the intellectual property. It strikes me that we have some lessons to learn from different models that you see abroad, including in the United States, where it's a bit more straightforward to say who the intellectual property belongs to and who has the rights to it. It's natural, if public money has gone into research, for us to think about ways we would try to make sure there's a return to the public from it, but at the same time, sometimes that ambiguity about who owns the intellectual property can make it difficult for us to develop the kinds of synergies and the ecosystem you're alluding to when you talk about university research. </ParaText>
+              <ParaText id="8893524">It's a complicated area. I wish I had better answers for you.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13139683">
+            <PersonSpeaking>
+              <Affiliation DbId="320555" Type="40">Gabriel Ste-Marie</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893525">Thank you very much. That's very interesting.</ParaText>
+              <ParaText id="8893526">I'll move on to another topic.</ParaText>
+              <ParaText id="8893527">Many entrepreneurs tell me that, given the uncertainty arising from the constantly shifting economic, trade, tax and tariff policies of our neighbour to the south, their current instinct is to wait before investing more in our businesses.</ParaText>
+              <ParaText id="8893528">Do you have any comments or solutions to propose on that matter?</ParaText>
+              <ParaText id="8893529">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="20">(1820)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139687">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893530"> As far as the observation is concerned, I have no doubt at all that some of the weak numbers that I was citing just now have to do with the threat of U.S. protectionism, some of the tariffs that are already in place and some of the things that we're worried the U.S. administration may do next. I wish we could control that more easily than we can.</ParaText>
+              <ParaText id="8893531"> One of the reasons I have been focusing on taxation, perhaps more than some would like, is that it's an area that we can control, and as I have said several times already with a fair amount of confidence, the measures we take will have the effects we want.</ParaText>
+              <ParaText id="8893532">I am not opposed to a temporary measure. One of the reasons I talked about a temporary investment tax credit is that some of the problems we are facing right now are to do, as you say, with people who are hesitating. A lot of the temporary impetus that people have is to locate on the U.S. side of the border because that's where the larger market is. To that limited extent, I think what President Trump is doing is bearing fruit.</ParaText>
+              <ParaText id="8893533"> We can't play that game, because we have the smaller market. What we can do is make Canada more competitive as a place to produce things. Even if we face U.S. tariffs in many sectors where we previously didn't, if we get a competitive edge, we'll be able to ship.</ParaText>
+              <ParaText id="8893534">Aside from the tax side, I would actually commend the government for dropping retaliatory tariffs. We have had some success in Canada in making it easy to import capital equipment and easy to import inputs. As we look further ahead, when companies are wondering if they want to be in the United States, where policy is so erratic and you never know what's going to happen one day to the next, or would they like to be in Canada, where it's a very competitive place to produce, they know they can get their inputs and they know there isn't suddenly going to be a tariff that is going to prevent them from getting what they need.</ParaText>
+              <ParaText id="8893535"> If you have the quality of workforce that we have here in Canada, I think we can get through this. In the short run—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139693">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893536">Mr. Robson, I apologize. That was a very detailed answer and I hate to cut you off, but I let that run an extra couple of minutes. To be fair to those who have questions remaining—</ParaText>
+              <ParaText id="8893537">
+                <B>William Robson:</B> Of course.</ParaText>
+              <ParaText id="8893538">
+                <B>The Chair:</B> —I'm going to give the floor to Ms. Borrelli for five minutes, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139700">
+            <PersonSpeaking>
+              <Affiliation DbId="319786" Type="47">Kathy Borrelli (Windsor—Tecumseh—Lakeshore, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893539">Mr. Robson, thank you so much for being here today to answer our questions.</ParaText>
+              <ParaText id="8893540">You previously told a committee that “too many people find government finances mysterious” and that budgets are often late.</ParaText>
+              <ParaText id="8893541"> With key numbers buried hundreds of pages deep in an annex, would you agree that this lack of fiscal transparency not only discourages public confidence but also undermines investor confidence? Since we currently do not have a budget, restoring fiscal discipline is critical to signalling that Canada is a reliable place to invest capital.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139703">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893542">I do think that the form budgets take, the schedule on which they are released and the timing of public accounts and these other elements of accountability do make a difference. I wouldn't want to overstate it. It's not something that everybody pays attention to, but when you have a lot of uncertainty about the economic environment, and when inevitably the things going on south of the border are raising all kinds of concerns in the fiscal area as well—what's going to happen to interest rates, for example—it's helpful to have an anchor of stability in federal finances.</ParaText>
+              <ParaText id="8893543">I hope this fall budget is a one-off. I would very much prefer to see the federal government go back to a budget cycle where the budget comes out before the beginning of the fiscal year and lays out a fiscal plan that gives people more confidence. I accept that the circumstances we're in right now are a little unusual, but I would be very sorry to see budgets so late in the year become a pattern, because I think that does unnecessarily add to uncertainty, and it creates a bit of a sense that perhaps the government isn't running the way it should.</ParaText>
+              <ParaText id="8893544"> Some provinces have managed this very consistently with a budget that comes out before the beginning of the fiscal year. I think that creates a bit more of a sense that everything is being run competently, and people can have a bit more confidence that there aren't going to be sudden changes throughout the year.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="25">(1825)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139710">
+            <PersonSpeaking>
+              <Affiliation DbId="319786" Type="47">Kathy Borrelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893545">Thank you.</ParaText>
+              <ParaText id="8893546">Also, you've pointed out that provinces such as Saskatchewan and Alberta are in the A range on fiscal accountability, while the federal government is scoring only Ds and C-minuses in your institute's report card.</ParaText>
+              <ParaText id="8893547"> Meanwhile, countries like Ireland and Australia have created investment climates that attract capital and boost productivity. What lessons should Canada take from those success stories if we want to stop capital from leaving and to restore our competitiveness?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139714">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893548"> Just to recap a few themes, I think it is helpful to control the size of the public sector and to control the size of public sector borrowing. Ultimately, there is competition for talent and labour in the economy, competition for investable funds and competition for capital. There's no doubt that a fairly significant size of government is popular among Canadians generally. We like the services we get, but we also want value for money. I am confident that we could see better value for money in some areas of government activity.</ParaText>
+              <ParaText id="8893549">I hesitate to point to the United States when it comes to fiscal management, because their record is not very impressive, but they have a few advantages that we don't. They have the world's reserve currency. They have a very high credit rating as a practical matter, whatever the credit agencies may put in terms of the letters. One thing that is very clear, though, is that the United States has created a tax advantage that it didn't use to have. They could get by with a tax disadvantage and a relatively hostile atmosphere for investment when it came to the tax system because of their large market and because of some other advantages they have. </ParaText>
+              <ParaText id="8893550">It would be very nice to see Canada establish an advantage of its own. We need something. We can't rival them for size of market. We can't rival them for some of the hubs of activity in the short run that they have, but we can make it more attractive for businesses to invest that marginal dollar in Canada and for talented people to say they'd rather be on the north side of the border.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139719">
+            <PersonSpeaking>
+              <Affiliation DbId="319786" Type="47">Kathy Borrelli</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893551">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139724">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893552">Thanks very much, Ms. Borrelli.</ParaText>
+              <ParaText id="8893553">Mr. Bains, you have five minutes, sir.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139730">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893554">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8893555">Thank you, Mr. Robson, for joining us today.</ParaText>
+              <ParaText id="8893556">I'm going to ask you about internal trade barriers. Can you please share some thoughts on whether the removal of internal trade barriers can help to improve productivity?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139737">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893557">I think the short answer is yes. We've seen some fairly big numbers. I don't know that I would subscribe to some of the biggest numbers. They perhaps create exaggerated notions of how large and how quick some of these effects could be. You'll know, without my elaborating, how diverse some of these barriers are and how difficult it is to tackle them as some kind of big project. I think we can look at regulated professions, where it's difficult for people to move across the country, or at such particular areas as electric utilities, where there's a lot of reluctance to collaborate across provincial borders. </ParaText>
+              <ParaText id="8893558">I'll mention supply management. I apologize, but I can't resist. It's a huge fragmenter of the internal market. The federal government is very complicit in that. I think we could have a more dynamic dairy and poultry industry if the interprovincial barriers that are part of that system were to get lower or perhaps even disappear.</ParaText>
+              <ParaText id="8893559">I thoroughly support efforts that the federal government is making to promote freer internal trade. I would just urge the federal government, as it does that, to look at the ways in which it itself fragments the internal market. It's not only the provinces that are to blame.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13139741">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893560">Thank you for that.</ParaText>
+              <ParaText id="8893561">I come from Richmond, British Columbia. Years ago they had the TILMA with Alberta. It was an agreement that allowed certain professions, such as notaries, insurance and these kinds of areas.... You indicated a couple of skilled professions. Could you perhaps shed some light on transportation or on the other barriers in certain sectors that are the most burdensome?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139744">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893562">The difficulty with addressing this area is that.... </ParaText>
+              <ParaText id="8893563">You mentioned transportation. It's common for me to hear people say that we shouldn't get bogged down on fire extinguisher regulations and other small-seeming things that can make it difficult for somebody to drive a rig across the country for reasons that do not have to do with legitimate things, such as needing a different braking system in the mountains than you do on the prairies. There's just no substitute for tackling some of that stuff. It's not exciting work. It's not sexy. It probably wouldn't make very good testimony in front of a parliamentary committee.</ParaText>
+              <ParaText id="8893564">With regard to the growth of regulations over time, I'm not criticizing the purpose of the regulations. We have safer working environments than we used to have, and we have safer consumer products than we used to have, but you have to be able to get down to the nitty-gritty of that stuff and be ready to do some very painstaking work. We are making progress in these areas. It's by no means impossible. I'm heartened by what's happened. </ParaText>
+              <ParaText id="8893565">I'm heartened by what's happening on the provincial front. You mentioned one particular interprovincial agreement, and we've seen expansions of that. We have seen some provinces lay down challenges to others, so it can be done, but in many of the regulated professions—for example, in health care—it really is a line-by-line exercise. We need persistence and we need perspiration in order to reap some of those benefits.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="18" Mn="30">(1830)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13139749">
+            <PersonSpeaking>
+              <Affiliation DbId="319736" Type="47">Parm Bains</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893566"> Thank you.</ParaText>
+              <ParaText id="8893567">I have two final questions. I'll ask for a short answer, if you have one, on your favourite topic of the day. How much can taxes be lowered in order for us to compete with our southern neighbours? Where does increasing competition through lower taxes bring us?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13139753">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893568">I think that in many cases the corporate income tax rates we currently have are not actually yielding much revenue and, in fact, perhaps are high enough that they're actually costing both federal and provincial treasuries revenue. I think you could actually lower some of those rates without having any impact on a budget of a kind that you'd have to offset with higher taxes elsewhere or with spending cuts.</ParaText>
+              <ParaText id="8893569">Here's what I would like to see us do, and I know you asked for a short answer. There are better models of taxation than the one we currently have. My former colleague and friend Jack Mintz has some very important ideas about going to more cash-flow-based taxes and maybe exempting reinvested profits from taxation.</ParaText>
+              <ParaText id="8893570"> In order to get there, though, that takes time. That's one of the reasons I've continually mentioned an investment tax credit, because that's something you can do temporarily, and that gives us the time we would need in order to prepare ourselves for a more thoroughgoing reform.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13141818">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893571">Thank you very much, Mr. Bains.</ParaText>
+              <ParaText id="8893572">Mr. Robson, that brings us to the end of our time together today. You are the first witness we have had on this productivity study, so we very much appreciate your ability to get things in order quickly and to share your insights with us. Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13141843">
+            <PersonSpeaking>
+              <Affiliation DbId="154382" Type="28">William Robson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893573">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13141848">
+            <PersonSpeaking>
+              <Affiliation DbId="320551" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8893574">Take good care.</ParaText>
+              <ParaText id="8893575">Colleagues, I have a couple of quick things. Just as a reminder, we are not meeting on Monday, because the House is not sitting on Monday as a result of the fact that Tuesday is the National Day for Truth and Reconciliation. Our next meeting, therefore, is Wednesday, October 1. This will be our first meeting on the defence industrial strategy study.</ParaText>
+              <ParaText id="8893576">The clerk is going to do her best to try to alternate us, Mondays on productivity and Wednesday on defence, just so there is consistency built in. However, we need your help, and I'm going to start to apply a bit more pressure. We need witness lists. We need those sent in to the clerk, and we need them in soon. They must have contact information.</ParaText>
+              <ParaText id="8893577">Two things will happen if you don't provide witness lists. One, either we can't hold the meeting, or two, I'm just going to go find the witnesses, and whether members of the committee like it or not, those are the witnesses who are going to appear because we have to keep going. I don't think it's going to come to that, but I do need everybody to please elevate this on their list of priorities. We have a nice gap between now and the first day of our study. We ought to be able to come up with some witnesses in the first few weeks.</ParaText>
+              <ParaText id="8893578">Colleagues, thank you very much. We're doing an excellent job of keeping ourselves pretty much right on time, particularly given a transition. </ParaText>
+              <ParaText id="8893579">Thank you, as always, to our interpreters for your good work today.</ParaText>
+              <ParaText id="8893580">Thank you very much to our analysts, our clerk, our support staff and everybody else who is here. </ParaText>
+              <ParaText id="8893581">I hope colleagues have a great rest of the week, and we will see you again in seven days' time.</ParaText>
+              <ParaText id="8893582">The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>

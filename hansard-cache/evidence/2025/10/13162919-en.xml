@@ -1,0 +1,1611 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hansard xml:lang="EN" id="13162919">
+  <StartPageNumber>1</StartPageNumber>
+  <DocumentTitle>
+    <DocumentName>EVIDENCE</DocumentName>
+  </DocumentTitle>
+  <ExtractedInformation>
+    <ExtractedItem Name="InstitutionDebate">Standing Committee on National Defence</ExtractedItem>
+    <ExtractedItem Name="Number">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="Session">1st SESSION</ExtractedItem>
+    <ExtractedItem Name="Parliament">45th PARLIAMENT</ExtractedItem>
+    <ExtractedItem Name="Date">Tuesday, October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="DateOtherLang">Le mardi 7 octobre 2025</ExtractedItem>
+    <ExtractedItem Name="Institution">Standing Committee on National Defence</ExtractedItem>
+    <ExtractedItem Name="Country">CANADA</ExtractedItem>
+    <ExtractedItem Name="RecordingNote">[Recorded by Electronic Apparatus]</ExtractedItem>
+    <ExtractedItem Name="HeaderTitle">EVIDENCE</ExtractedItem>
+    <ExtractedItem Name="HeaderDate">October 7, 2025</ExtractedItem>
+    <ExtractedItem Name="MetaDocumentCategory">Committee</ExtractedItem>
+    <ExtractedItem Name="MetaTitle">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleEn">NUMBER 006</ExtractedItem>
+    <ExtractedItem Name="MetaTitleFr">NUMÉRO 006</ExtractedItem>
+    <ExtractedItem Name="MetaNumberNumber">06</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumDay">07</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumMonth">10</ExtractedItem>
+    <ExtractedItem Name="MetaDateNumYear">2025</ExtractedItem>
+    <ExtractedItem Name="MetaCreationTime">2025/10/07 15:30:00</ExtractedItem>
+    <ExtractedItem Name="MetaInstitution">House Of Commons</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateFr">Comité permanent de la défense nationale</ExtractedItem>
+    <ExtractedItem Name="InstitutionDebateEn">Standing Committee on National Defence</ExtractedItem>
+    <ExtractedItem Name="Acronyme">NDDN</ExtractedItem>
+    <ExtractedItem Name="SpeakerTitle">Chair</ExtractedItem>
+    <ExtractedItem Name="SpeakerName">Charles Sousa</ExtractedItem>
+    <ExtractedItem Name="SessionNumber">1</ExtractedItem>
+    <ExtractedItem Name="ParliamentNumber">45</ExtractedItem>
+    <ExtractedItem Name="InCameraNote" />
+  </ExtractedInformation>
+  <HansardBody>
+    <OrderOfBusiness>
+      <CatchLine />
+      <SubjectOfBusiness>
+        <SubjectOfBusinessContent>
+          <Timestamp Hr="15" Mn="30">(1530)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162922">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair (Charles Sousa (Mississauga—Lakeshore, Lib.))</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926529"> Welcome to meeting number six of the House of Commons Standing Committee on National Defence.</ParaText>
+              <ParaText id="8926530">Pursuant to the motions adopted on September 16, 2025, and September 23, 2025, the committee is meeting to commence its study of the modernization of NORAD.</ParaText>
+              <ParaText id="8926531">Today’s meeting is taking place in a hybrid format, pursuant to the Standing Orders. Members are attending in person in the room and remotely using the Zoom application.</ParaText>
+              <ParaText id="8926532">Before we continue, I would ask all in-person participants to consult the guidelines on the cards on the table and help to prevent, in this case, audio feedback incidents and protect the health and safety of our interpreters. </ParaText>
+              <ParaText id="8926533">I'd also like to take a few moments to comment for the benefit of the witnesses and the members.</ParaText>
+              <ParaText id="8926534">Please wait until you're recognized by name before speaking. For those participating by video conferencing, click on the microphone icon to activate your mic and please mute your mic when you are not speaking. </ParaText>
+              <ParaText id="8926535">For those on Zoom, at the bottom of your screen, you can select the appropriate channel for interpretation—floor, English or French. For those in the room, you can use the earpiece and select the desired channel. I would remind you that all comments should be addressed through the chair.</ParaText>
+              <ParaText id="8926536">For members in the room, if you wish to speak, please raise your hand. For members on Zoom, please use the “raise hand” function. The clerk and I will manage the speaking order as best we can. We appreciate your patience and understanding in this regard.</ParaText>
+              <ParaText id="8926537">I would now like to welcome our witnesses. </ParaText>
+              <ParaText id="8926538">We have Mr. Jean-Pierre Hickey, associate professor; Mr. Robert Huebert, professor at the Centre for Military Security and Strategic Studies at the University of Calgary, via video conference; Dr. Jessica M. Shadian, president and chief executive officer for Arctic 360; Mr. Richard Shimooka, senior fellow at Macdonald-Laurier Institute, also by video conference; and Madeleine Redfern, chief operating officer at CanArctic Inuit Networks Inc.</ParaText>
+              <ParaText id="8926539">I would now like to invite Mr. Hickey to make his opening statement.</ParaText>
+              <ParaText id="8926540">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" id="13162948">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey (Associate Professor, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926541"> Thank you, Chair and committee members, for the opportunity to speak today. </ParaText>
+              <ParaText id="8926542">My name is Jean-Pierre Hickey. I am a professor at the University of Waterloo in mechanical and mechatronics engineering, specializing in hypersonic aerodynamics and propulsion. Through NATO working groups, government and industry collaborations, my research advances hypersonic technologies. It's a dual-use area that touches civilian space and also defence applications.</ParaText>
+              <ParaText id="8926543">Today, I want to emphasize the need for a coordinated national effort under the NORAD modernization plan to build hypersonic expertise and infrastructure in Canada. Doing so will strengthen our defence capabilities, but also synergize Canadian industry.</ParaText>
+              <ParaText id="8926544">Hypersonic weapons are no longer a theoretical threat. They are already being used in Ukraine. Russia’s Avangard glider can reach North America. Both China and Russia have hundreds of operational hypersonic weapons. Like traditional ballistic missiles, hypersonic weapons can travel up to and beyond Mach 10, which is two to three kilometres per second, but they do so while manoeuvring unpredictably at low altitude. They are difficult to track, difficult to intercept, and they compress decision-making time. These systems pose a serious challenge to Arctic defence, as our current radar and response infrastructure were not designed to detect or counter them.</ParaText>
+              <ParaText id="8926545">Canada’s NORAD modernization plan and the defence innovation strategy acknowledges this threat, committing that Canada “will harness innovation in hypersonic and cruise missile defence”.</ParaText>
+              <ParaText id="8926546">At hypersonic speeds, the air molecules impacting the vehicle cause aerospace materials to actually melt. They bring complex control stability issues, and require completely different propulsion systems. However, Canada does not currently have any specialized facilities to reproduce these extreme flight conditions. </ParaText>
+              <ParaText id="8926547">High enthalpy tunnels are needed to recreate these flight conditions to study flight dynamics, propulsion, thermal protection and even to help identify threats, yet Canada does not have a fully functional high enthalpy hypersonic facility. Without such facilities, we cannot validate and train the next generation of hypersonic experts. It's not about developing offensive capabilities. It's about understanding the threat, modelling trajectories and identifying hypersonic signatures so that we can defend against it. That requires the right infrastructure and skilled personnel.</ParaText>
+              <ParaText id="8926548">If Canada wants “to adapt to rapid technological change faster than its adversaries and as fast as its allies”, as stated in our vision for defence, we must act now.</ParaText>
+              <ParaText id="8926549">Our adversaries and allies are moving very quickly in this space. Since 2007, China has built one new large hypersonic test facility every year. The University Consortium on Applied Hypersonics links over 120 U.S. institutions with advanced hypersonic capabilities. Australia, Europe and others have made similar investments in hypersonics, combining national scale facilities with university expertise and research.</ParaText>
+              <ParaText id="8926550">In Canada, the talent base is thin. Since 2001, only four doctoral fellowships by NSERC were given to students whose titles even mention hypersonics. All are from Waterloo, and all did their studies in the U.S. and Australia.</ParaText>
+              <ParaText id="8926551">Canada needs a national hypersonic strategy that fits within the NORAD modernization plan and advances our understanding, modelling capabilities and identification of hypersonic threats while simultaneously growing the space launch industry that relies on this advanced R and D. Unlike other areas of investment in research, development and innovation within the NORAD plan where Canada has a thriving ecosystem of innovation, such as quantum, AI or advanced materials, we need a dedicated and coordinated effort to build out our expertise in hypersonics. We need to synergize Canada's industrial base, such as Reaction Dynamics in Longueuil or Tekna plasma systems in Sherbrooke.</ParaText>
+              <ParaText id="8926552">In the short term, this means establishing university-based hypersonic facilities that enable collaboration with DRDC, DND, NRC, and even the CSA, while creating training programs possibly in collaboration with our allies to develop high-quality personnel in this field.</ParaText>
+              <ParaText id="8926553"> In the long term, Canada should develop a national hypersonic test facility, ideally at DRDC Valcartier, where much of our historical expertise in high-speed aerodynamics already resides.</ParaText>
+              <ParaText id="8926554">For Canada to harness innovation in hypersonics, we need to invest in people, infrastructure, and coordination. This will ensure that Canada not only keeps pace with our allies, but also helps shape the future of hypersonic defence and civilian space research. </ParaText>
+              <ParaText id="8926555">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="35">(1535)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162974">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926556">Thank you very much, Mr. Hickey.</ParaText>
+              <ParaText id="8926557">I will pass it over to Mr. Huebert, by video conference, for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13162978">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert (Professor, Centre for Military Security and Strategic Studies, University of Calgary, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926558"> Thank you very much. </ParaText>
+              <ParaText id="8926559">As the chair said, my name is Rob Huebert. I'm a professor at the University of Calgary, but I'm also the director of the Centre for Military Security and Strategic Studies.</ParaText>
+              <ParaText id="8926560">The focus of my five minutes is to introduce the concept of why we are actually doing NORAD modernization and how serious it is for Canada. We are seeing, since approximately 2002, efforts that have redeveloped the nuclear deterrent system. We, of course, have had the narrative that there was a peace dividend, that in fact the use of force, more or less, had been eliminated at the end of the Cold War. But if we look very closely at the developments particularly of our enemies, Russia and China, and also in terms of our ally, the United States, we will see—and it follows very closely to some of the issues that Professor Hickey just raised—that the technologies of the delivery system of nuclear weapons have fundamentally changed this balance. </ParaText>
+              <ParaText id="8926561">Canada now faces an existential threat to the possibility of becoming engaged in a nuclear war if, in fact, a deterrent system is not maintained. What we have to understand is that the new geopolitical transformations that have been occurring since the early 2000s now mean that the nuclear deterrent system that most people have assumed existed, the idea that we will be able to detect and fire our missiles at them when they fire their missiles and that knowledge, the MAD policy, mutual assured destruction, will prevent us from ever engaging in the use of nuclear weapons against each other.... I would contend that the technological and geopolitical transformations have, in fact, fundamentally changed that to the degree that Canada now faces the reality that it must demonstrate with its allies that it has a war-fighting capability in a nuclear environment to actually act as a deterrent.</ParaText>
+              <ParaText id="8926562"> In other words, we have to show that we can actually fight our enemies in such an environment to ensure that they never engage in a fight in the first place. The challenge we are facing now is the technological challenges are vast, but even more important, there is the danger, whenever you are getting into such a sensitive system, that we may find ourselves in a war-fighting environment. This means that we not only have to worry about the deterrent forces but we also have to worry about the ability to actually fight if we find ourselves in it.</ParaText>
+              <ParaText id="8926563">One of the contexts that is often lost in all of our discussions is that we are seeing a massive modernization of the nuclear capabilities of the Americans, Russians and Chinese along with the lesser powers. We know that China is changing from a limited deterrent stance of 300 nuclear weapons to where the United States Department of Defense now predicts at the end of the decade there will be up to 5,000 weapons. We know about the Russians in terms of some of the missile delivery systems that we have talked about already in this meeting, the hypersonics, but we also have maritime delivery systems, such as Poseidon, that are designed to be fast, stealth and undetectable, which again goes to the point.</ParaText>
+              <ParaText id="8926564">The United States is about to entirely replace its deterrent force. They are changing from a triad system into a fourth leg of introducing air-launched nuclear-capable missiles. We also have to take into consideration not only facing our enemies, but the impact of the Trump effect which, of course, is causing serious questions over our aligned systems. </ParaText>
+              <ParaText id="8926565">What are the main attributes of this to Canada? First and foremost, a nuclear weapon environment has fundamentally shifted, and Canada has to appreciate that if it is to ensure the security of Canadians, we are in fact willing to take up this necessity to demonstrate that we can in fact engage and stop attacks on and over Canadian soil. Russia, China and the U.S. have been rebuilding their weapons and delivery systems, and that is the real challenge Canada faces. </ParaText>
+              <ParaText id="8926566">Deterrence now means that you need to show that you can fight a nuclear war, not merely respond to one. Ultimately, NORAD must be able to detect new delivery systems. NORAD also must show that it can respond and respond quickly. No longer is it only required that we give warning of any incoming missiles, but we now actually have to go out and be able to defend against the delivery systems that will be bringing in the hypersonics, the Poseidons and so forth. Ultimately, the system has to be as fast and of the highest level of technology possible. Even in spite of the difficulties we are having with our American ally, almost all of these systems are ultimately tied to the Americans or American technology.</ParaText>
+              <Timestamp Hr="15" Mn="40">(1540)</Timestamp>
+              <ParaText id="8926567"> Ultimately, the speed of the threat is increasing so much that, in Canada's modernization, as much as we are trying to catch up, the question still remains whether we are doing enough to avoid what many predict is to be the next war. Therefore, NORAD modernization is not just simply about getting the most recent equipment to try to show the Americans that we are a trustworthy ally; it is truly about doing what is necessary to protect Canadians from the most serious existential threat we have faced in a lifetime.</ParaText>
+              <ParaText id="8926568">Thank you very much.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163006">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926569">Thank you, Mr. Huebert.</ParaText>
+              <ParaText id="8926570">I will now pass it over to Dr. Shadian for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163008">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian (President and Chief Executive Officer, Arctic 360, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926571"> Thank you.</ParaText>
+              <ParaText id="8926572">
+                <I>Bonjour et merci</I> for the kind invitation to speak today. Assuming it's not for my expertise on defence weaponry, I'm going to focus on two specific issues: infrastructure and Greenland.</ParaText>
+              <ParaText id="8926573">The new government has made clear Canada that will be strong on defence and strong on the economy. The approach then to fast-track, nation-building infrastructure merges the two. Critical infrastructure tied to NORAD modernization fits squarely here. It spans everything: digital infrastructure and data storage, ports, airports, runways, roads, etc. </ParaText>
+              <ParaText id="8926574">Several Arctic projects are regularly named for potential fast-track approval, but missing from the discussion is innovation, whether it is costs, necessity or opportunities. Innovation is core, of course, to every dual-use asset and is literally what we mean when we're talking about NORAD modernization. </ParaText>
+              <ParaText id="8926575">Before specifics, I'm going to put my conclusion up front, which is that infrastructure discussions on NORAD modernization cannot be independent of a broader national Arctic infrastructure investment strategy designed for next generation transportation systems, not the last, tethered to Canada's innovation, defence strategies and updated critical minerals strategies for national security and, per the new defence procurement office, to build Canadian-made technologies. These must then be what the new major projects office business development teams use to build their business case from. Add in an updated Arctic foreign policy all under, as Vincent Rigby and others have repeated, a strategic national foreign policy umbrella. We need a vision of who we are, our role as an Arctic nation in the world and how we will get there.</ParaText>
+              <ParaText id="8926576">In perspective, no single Arctic project stands on its own. Each project, big or small, depends on every other. Fibre needs reliable, affordable energy. Energy requires high-speed Internet for data collection, cybersecurity, efficiency and operations, etc. Transportation, roads to ports, connects energy to grids and supply chains. </ParaText>
+              <ParaText id="8926577">Critical infrastructure must be sensor- and AI-embedded to guard against cyber-attacks and, in the Arctic, to measure and monitor everything from permafrost melt to subsea activity and infrastructure interoperability. All is for naught if Canada’s Arctic sovereignty does not include data sovereignty, in other words, future-proofing to defend and protect Canada from our adversaries. With China, it is not future-proofing, it is today-proofing to meet its emerging defence technologies that every other adversary may soon adopt in tow. We are stuck at saying multi-purpose. Okay, so then what? </ParaText>
+              <ParaText id="8926578">It's also about opportunity. What should be low-hanging fruit is Canada’s potential as a world leader in cold weather technology. When we do build Arctic infrastructure, often we use U.S. cold-weather IP. We are laggards, but not for a lack of Canadian expertise or competence. It's the lack of a strategic national vision and plan. </ParaText>
+              <ParaText id="8926579">Our NATO allies, for example, are well ahead. Finland’s VTT Technical Research Centre has a dedicated cold-weather marine R and D program based in the Arctic, not Helsinki. Pilot testing covers infrastructure and digital portals, sensors and systems for cold climate operations, modelling and predicting ice behaviour for shipping and also offshore structures in icy seas. </ParaText>
+              <ParaText id="8926580">Canada has launched BOREALIS, which is focused on frontier tech from AI and robotics to quantum and space. It should live up to its name, be rooted in the Arctic and develop the cold-weather frontier technologies needed for NORAD modernization, for Arctic security, mining and critical infrastructure, housing and energy for Canada and for export. </ParaText>
+              <ParaText id="8926581">As a hub, CHARS comes to mind, driving industry, researchers and private capital north to innovate with northerners out of the north. This is literally how NORAD modernization then enables defence research and development in the Arctic. It may also be the ROI for Arctic nation-building projects. Data is the new gold.</ParaText>
+              <ParaText id="8926582">My second point is that times are tough for our U.S. relationship. Defence diversification is a laudable aim, but it's about leverage as much as it is diversification. Canada–U.S. Arctic co-operation will remain critical to Canadian and North American Arctic security and defence and to support our transatlantic NATO commitments. </ParaText>
+              <ParaText id="8926583">Canada’s North American Arctic, though, is also bookended by Alaska and Greenland. Greenland sits at the intersection of NORAD and NATO. As we consider how to best proceed with our bilateral NORAD commitments, whether strengthening, maintaining or retreating, we should also consider our North American Arctic ally Greenland/Denmark. Sharing an Arctic maritime border is reason enough for defence and security co-operation. Greenland is also part of NATO. </ParaText>
+              <ParaText id="8926584">On NORAD infrastructure, we should consider strategic opportunities for dual-use critical infrastructure co-operation—call it hedging—including under the legally binding Arctic coast guard co-operation. Again, it is vision, will and national foreign policy strategy.</ParaText>
+              <Timestamp Hr="15" Mn="45">(1545)</Timestamp>
+              <ParaText id="8926585">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163051">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926586"> Thank you, Dr. Shadian.</ParaText>
+              <ParaText id="8926587">I'm going to call on Mr. Shimooka, who is here via video conferencing.</ParaText>
+              <ParaText id="8926588">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163053">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka (Senior Fellow, Macdonald-Laurier Institute, As an Individual)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926589"> Thank you very much, Chair.</ParaText>
+              <ParaText id="8926590">To start, I want to thank the committee for holding this timely meeting to discuss this topic and for inviting me to speak. It's very much appreciated.</ParaText>
+              <ParaText id="8926591">NORAD modernization is clearly a critical topic of conversation, not just in Canada's bilateral defence relationship with the United States, but in its broader diplomatic relations as well.</ParaText>
+              <ParaText id="8926592">Successive U.S. administrations have highlighted the growing threat of adversary systems, particularly, but not limited to, the People's Republic of China and the Russian Federation. These include a qualitative improvement in existing and new systems, such as in low-level cruise missiles and hypersonic missiles, as well as a quantitative increase in the number of systems. I'd point to the March 25 statement by General Anthony Cotton, commander of U.S. Strategic Command, to the Senate armed services committee in the United States, which provides a detailed, unclassified survey of the emerging threats today.</ParaText>
+              <ParaText id="8926593">These developments are not new. China's buildup of its strategic nuclear forces started over a decade ago, and Russian systems were at least five years before that. The reality is that, to some degree, both the United States and Canada were tardy in their initial response, but have made some significant moves over the past decades to address this challenge.</ParaText>
+              <ParaText id="8926594">The Trump administration has made homeland defence a signature component of its defence policy for its second term and is attempting to pursue an aggressive modernization agenda, officially known as the golden dome for America, or GD4A. This involves a large networked array of different surveillance and targeting systems, as well as new and improved capabilities intended to defeat these threats. A key enabler will be a highly advanced, AI-driven data processing capability that will improve the sensitivity and reactiveness of the entire system.</ParaText>
+              <ParaText id="8926595">It should be noted that many of the key programs that will improve homeland defence, like the space-based communication layer, are already facing significant delays. The administration seems more willing to pursue technically risky, space-based in nature capabilities, due to the capability and survivability advantages offered by them, over more traditional ground and air-based systems. The technical feasibility of the space-based interceptor program, which is arguably the centrepiece of the golden dome for America system, is deeply in question and its cost is likely to be extreme. I'd point to the work of former congressional budget analyst Todd Harrison at the American Enterprise Institute as a leading voice in this area.</ParaText>
+              <ParaText id="8926596">Canada, for its part, has also realized the need to address these threats. The 2022 announcement concerning NORAD modernization and earmarking of approximately $38 billion was a good first step, but the process is seeing delays in program execution, in part due to austerity measures placed on the Department of National Defence over the past few decades. This is in front of the backdrop of an aging set of capabilities, a large portion of which was acquired during the Mulroney era, over 30-plus years ago.</ParaText>
+              <ParaText id="8926597">Consequently, Canada's contribution to the existing NORAD capabilities is highly limited in the face of this new threat environment and the delivery of new systems will potentially take over a decade to accomplish in full. For example, the purchase of the F-35s for the Royal Canadian Air Force fleet, which is arguably one of the most critical defence capabilities we provide to NORAD, is now being questioned for the fifth time in 15 years. A full operating capability is likely to slip beyond 2032.</ParaText>
+              <ParaText id="8926598">A deep bipartisan consensus in the United States has pushed Canada to do more in this area. The frustration over the lack of alacrity and actual defence deliverables is palpable. It is one of the core impediments to the bilateral relationship today. The relatively limited state of Canada's contribution to NORAD must be addressed. </ParaText>
+              <ParaText id="8926599">Canada must play a stronger role in this area by becoming more proactive in its efforts. There are areas where the U.S.'s plans for the golden dome have obvious deficiencies and if Canada was agile and reactive, it could complement their efforts to create a more secure North America. This approach could help build a stronger foundation for the two countries' bilateral relationship going forward.</ParaText>
+              <ParaText id="8926600">Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="15" Mn="50">(1550)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163107">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926601">Thank you very much.</ParaText>
+              <ParaText id="8926602">The last five minutes go to Ms. Redfern.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163108">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern (Chief Operating Officer, CanArctic Inuit Networks Inc.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926603">Thank you.</ParaText>
+              <ParaText id="8926604"> I am an Inuk woman from Iqaluit, Nunavut, in high tech and innovation. I'm actively involved in transformative technologies in the areas of transportation, energy, telecommunication and digital infrastructure. As the chief operating officer of CanArctic Inuit Networks, I and my partners are committed to build 3,000 kilometres of marine fibre optic cable into Canada's Arctic and to connect with as many existing or proposed fibre networks. As the chief executive officer of SednaLink Marine Systems, we would transform segments of SednaLink fibre optic into a SMART cable. What is that? It's a cable with sensors in order to monitor marine climate changes and to assist with environmental monitoring, especially near marine-protected areas, as well as assist with collecting marine intelligence.</ParaText>
+              <ParaText id="8926605">I am also a special adviser to Canadian Nuclear Laboratories, and I sit as an indigenous member at the nuclear energy leadership table, a group of mostly CEOs and presidents of energy or power corporations who have signed onto Canada's SMR action plan advancing the potential of micro and small modular reactors to provide a full energy solution throughout our country including in rural, remote and northern Canada. </ParaText>
+              <ParaText id="8926606">I am also a director with the Canadian Arctic Innovation Association, which undertook and completed a similar report done by DND into the viability of airships for commercial and surveilling perspectives. </ParaText>
+              <ParaText id="8926607">The reason I am in these spaces is the necessity of our northern communities to have basic or fundamental infrastructure related to transportation, energy and telecommunications, including data, digital infrastructure. At the same time, we need these investments to be dual purpose or multi-purpose insomuch as being able to assist with local security to national security, security as it relates to reliable, stable, abundant and affordable energy that supports economic development opportunities, but also powers other infrastructure, whether it is fibre, ground stations or data centres. We need that for all-domain awareness.</ParaText>
+              <ParaText id="8926608">We need to be able to assist with security as it relates to reliable, stable, abundant and affordable telecommunications—telecommunications that not only allow us northerners to communicate with individuals within our communities, our regions and the rest of Canada and the world, but also the infrastructure that supports economic development and our Canadian Armed Forces when they are based in or come into our region, whether for their annual exercises, to respond and support search and rescue, or to also support our defence requirements for all-domain awareness.</ParaText>
+              <ParaText id="8926609">In order for Canada to fulfill its sovereignty, it needs to know who is in our northern and Arctic spaces from seabed to space. This means being able to monitor in real time, but also to notify those coming into Canada's domain and, if necessary, to be able to deploy resources to defend or strike. </ParaText>
+              <ParaText id="8926610">It also means infrastructure or assets to collect and process huge amounts of data from seabed to space in our marine environment, on the ground or in the air. We need fibre optic networks. We need fibre going into and through strategic routes of Canada's northern Arctic regions. Satellite, of course, also has a role to play, but nothing beats fibre with respect to being able to move large amounts of data, everything from regular telecommunications to photos, video imagery and audio. We also need strategic ground stations, and attached to those stations should be data centres in the Arctic, but that requires energy. Every second counts when you are monitoring and defending Canada's sovereignty. We need to be able to download that data and ideally understand what it means. </ParaText>
+              <ParaText id="8926611">We also know that the future, as others have said, is now. We also need AI, sensors and robotics, from both unmanned autonomous aircraft—drones—to unmanned underwater vehicles that monitor or do more than protect, defend and strike in order to protect themselves, but also we need those critical infrastructures and assets.</ParaText>
+              <ParaText id="8926612">Historically, Canada's investments in the north have been as cheap as possible and more often than not, not being cheap, have not even been meeting their objectives, because politicians and bureaucrats love fulfilling political objectives focused on the look and photo ops, rather than what's needed or necessary.</ParaText>
+              <Timestamp Hr="15" Mn="55">(1555)</Timestamp>
+              <ParaText id="8926613"> Thank you.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163189">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926614">Thank you for your comments.</ParaText>
+              <ParaText id="8926615">I'd like to thank the witnesses for their opening remarks.</ParaText>
+              <ParaText id="8926616">We'll kick off our first round of questions with Mr. James Bezan.</ParaText>
+              <ParaText id="8926617">You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163194">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan (Selkirk—Interlake—Eastman, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926618">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926619">I want to thank all of our witnesses for their testimony today. I think it's very important that we have these frank discussions. The threat environment, as Dr. Huebert laid out, is escalating and evolving so rapidly that it makes it difficult for us to keep up, especially when we're starting from behind the eight ball.</ParaText>
+              <ParaText id="8926620">My first question is for Dr. Huebert and Mr. Shimooka. </ParaText>
+              <ParaText id="8926621">Knowing that we have a limited amount of time to start playing catch-up, and that we know where the threats are, what's the first place we should be investing in to make sure we're meeting the mandate under NORAD and under Canadian sovereignty and ensuring that we have the defence and deterrence systems required? List your top three or four things that we need to do right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163218">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926622">The first one is to recognize that in the new environment, we have to give decision-makers as much time as possible to know that the missiles and torpedoes are coming toward us. Under the traditional MAD system, or mutual assured destruction, the American president had approximately 10 to 15 minutes to make the decision to basically launch his missiles against the Soviets and conceivably the Chinese. That has been cut down even shorter.</ParaText>
+              <ParaText id="8926623">We need to put our emphasis on systems that will allow the decision-makers...which means, within the context of NORAD, the Prime Minister, of course, but the president, most importantly. That means the sensor systems that are now being talked about in terms of over-the-horizon radars and in terms of many of these other types of very advanced quantum calculations...whatever you want to call it, golden shield.... I know that some people see a political terminology in it, but the reality is that it represents those sensors that tell us a hypersonic is coming, tell the president he can respond, and if necessary—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="00">(1600)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13163232">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926624">So you're saying, Dr. Huebert, on the concept of the golden dome, essentially add that into the NORAD mandate. We know that over-the-horizon radar is in the works, but the north warning system is supposed to age out this year. We don't have anything in the interim until we have over-the-horizon in place. You're also talking ballistic missile defence, I assume, as part of that.</ParaText>
+              <ParaText id="8926625">Richard, you had talked about the F-35 and ongoing political interference five times over. How quickly do we need these F-35s and the infrastructure to support them so that we can do our part, as Canada, in the NORAD responsibilities we have in defending our Arctic as well as the coasts?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163246">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926626">Arguably, it's one of the two most major capabilities required for our north immediately. Given, if we have seen Chinese and Russian collocated drills just in the past six months here, our ability to provide an effective aerial defence in the north is a vital necessity. Given the age of the aircraft that we have currently, crew shortages due to this aging system and morale issues as well to some degree, I think it's absolutely vital that this capability needs to be replaced. I would say other areas, such as AEW or even having an effective patrol submarine would be effective, because that would allow us to have a greater deterrence in this area.</ParaText>
+              <ParaText id="8926627">Just as a very quick point, I would say that we need to be faster at how we procure systems overall. That is the underlying issue across the entire system. It has taken basically 15 years to make a decision on the F-35 or on some of these other programs. It's really what's hamstringing the forces to actually deal with these issues. I'll leave it at that.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163292">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926628">Thank you.</ParaText>
+              <ParaText id="8926629">Professor Hickey, you talked about hypersonics and the need to do more research here in Canada. You mentioned Valcartier as a location. Should the DRDC also be doing research on it out at Suffield, where we have a little bit of space? Which other universities and/or private corporations would have the capacity to develop and test hypersonics in Canada so that we have our own sovereign capability?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163300">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926630">I think the DRDC is well positioned at both Suffield and Valcartier to develop this. They have some efforts ongoing. We could also think of the NRC as being another potential site to be able to develop these capabilities. We don't have, to my knowledge, any hypersonics or anything coming close to hypersonics at the university level. There could be a couple of sites in Canada that would enable such capabilities, at least university scale, as we see in the U.S. or even in Europe.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163309">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926631"> Thank you.</ParaText>
+              <ParaText id="8926632">Madam Redfern, I appreciate your comments. We need to start thinking about infrastructure beyond ports and runways. As much as those are important, we have to think about energy, and I'm glad to hear you talk about SMRs as a way to provide energy for our communities in the north but also for our defence infrastructure.</ParaText>
+              <ParaText id="8926633">You talked about fibre. With the grey zone tactics we're witnessing in Europe as well as in Canada, we're seeing undersea fibre cables severed accidentally on purpose or by others with the capability to go down and cut cables, as we're seeing often in the Atlantic Ocean.</ParaText>
+              <ParaText id="8926634">You talked about sensors in the ocean to monitor that traffic. What's the redundancy we need, first, to ensure that we get fibre up there, and what other options do we have if they go down?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163329">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926635">There are a couple of things.</ParaText>
+              <ParaText id="8926636">One is there are already a number of existing fibre optic networks in the Northwest Territories, all the way up to Inuvik. You also now have fibre optic networks in and around Hudson Bay, with Nunavik. There are also other proposed fibre systems, but they are integrated with satellite. We definitely recognize the need and necessity for that.</ParaText>
+              <ParaText id="8926637">With respect to the risks of cutting the fibre optic systems, that's why I'm very keen about, interested in and aware of Cellula Robotics and their underwater unmanned vehicles that can monitor that space. There are developments for batteries that allow up to 40 months of monitoring. Also, they can be weaponized. If there are incursions into our marine environment that have been identified as posing a risk to critical infrastructure, they not only can warn but also be deployed to strike.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="05">(1605)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163354">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926638">Thank you.</ParaText>
+              <ParaText id="8926639">I'll pass it over to Mr. Watchorn. </ParaText>
+              <ParaText id="8926640">You have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163357">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="2">Tim Watchorn (Les Pays-d'en-Haut, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926641">I want to thank the witnesses for joining us today. It's very important.</ParaText>
+              <ParaText id="8926642">I'm hearing you talk about hypersonic missiles. As you know, the Government of Canada has made a major investment in defence.</ParaText>
+              <ParaText id="8926643">Professor Huebert, Mr. Shimooka or Mr. Hickey, what are your thoughts on an investment in hypersonic missiles? Where could sites be located? What delivery systems should be involved? Where should we position them in Canada to ensure their effectiveness within NORAD?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163370">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926644">One of the challenges we face right now, of course, is that we are so far behind in trying to understand the lethal nature of what the Russians and Chinese have been creating. We're still trying to go through the various infrastructure examinations of where they have to go.</ParaText>
+              <ParaText id="8926645"> We know that the high north has to be the location of some of the hypersonics in order to be able to respond, but it also runs into and goes back to the previous question about what systems. We also have to be talking about where we are going to be placing an air interceptor such as the F-35. I agree with Richard when he says it's the only real plane we should be looking at.</ParaText>
+              <ParaText id="8926646">We also have to talk about having infrastructure that then can be looking eastward and where we can put the fuelling resupply equipment for these aircraft, because they have to be in the air.</ParaText>
+              <ParaText id="8926647"> We also need a higher capability to have our submarine assets going into what's called the GIUK gap, which is the Greenland-Iceland-U.K. gap, where we think the Russians will be coming in with this latest generation of hypersonics that are coming.</ParaText>
+              <ParaText id="8926648"> As well, we have to have the ability to be watching the Bering Strait. I don't have to remind this committee that the Chinese had four research vessels sailing up the Bering Strait obviously doing examinations for future submarine transportation routes, so we have to be watching that in that context.</ParaText>
+              <ParaText id="8926649"> I say those choke points are the most important to be covering.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163401">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926650">I think there are a couple of ways to answer this, and perhaps Dr. Hickey can elaborate or has a different view.</ParaText>
+              <ParaText id="8926651"> In my view, the challenges of hypersonics, given the threat actors that we face such as the Russian Federation and China, mean that it will be very difficult for us to do this alone. If we look at how the U.S. government is starting to develop its golden dome system, they are looking at multiple layers of sensors and capabilities at different orbital heights. A large portion of this is space-based, but there's not just that; there are also ground-based and sea-based systems. </ParaText>
+              <ParaText id="8926652">The core part of that system is the development of new AI programs, which are basically taking synergistically all of this data and sifting through, developing a much more in-depth situational awareness that can allow us to deal with some of the inherent challenges, which Dr. Hickey outlined with the hypersonic systems, that make them much more difficult to detect than traditional ICBMs or other systems. They bring all that data in to provide a better ability to detect and target these systems with potentially new space-based, ground-based or air-based interceptors. To some degree in a NORAD context and in light of the negotiations that are potentially occurring right now in Washington, our response to this area would have to work with the United States given just the amount of assets they are willing to put into this problem set and maybe complement it or work through that system in order to provide a much more effective defence in this area.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="10">(1610)</Timestamp>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163425">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="2">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926653">Thank you.</ParaText>
+              <ParaText id="8926654">Mr. Hickey, I have a question about engineering. I have a background in engineering. I'm curious about the technical options available. You said that there isn't much expertise in hypersonic technology at the moment.</ParaText>
+              <ParaText id="8926655">What would you say if a group of academics set up shop in Valcartier to promote this technology? How long would it take to be able to manufacture these weapons at home?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163433">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926656">Thank you for your question.</ParaText>
+              <ParaText id="8926657"> On the one hand, programs in Australia and Europe have been in the works for decades. They have a clear head start on our programs in Canada. Given the threat posed right now, we need to move full steam ahead to catch up with our peers.</ParaText>
+              <ParaText id="8926658">On the other hand, I believe that it will take time to train students and establish a research base in universities. At a number of Canadian universities, a few people are conducting research in hypersonics, but it's really quite limited.</ParaText>
+              <ParaText id="8926659">If we want to develop this technology, we'll need to expand the research base, develop our capabilities and work with Defence Research and Development Canada, or DRDC, and other stakeholders in Canada to promote it. We need to invest in infrastructure that will support this research development.</ParaText>
+              <ParaText id="8926660">We also need to understand the capabilities of our adversaries and how they develop these capabilities. We currently have no means of testing and advancing our understanding in these areas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163447">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="2">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926661">Thank you.</ParaText>
+              <ParaText id="8926662">Mr. Huebert, I have one last question. In hopefully the near future, Canada will be purchasing 12 submarines. You're saying today that these submarines must be fitted with hypersonic systems to counter the current threats. Is that right?</ParaText>
+              <ParaText id="8926663">Furthermore, what strategic options do these submarines provide for NORAD's defence strategy?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163455">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926664">If I could jump in on this, remember that we are not talking about the need to put hypersonics on submarines. This is something that the Russians are, in fact, doing and the Chinese are doing because they are thinking in an offensive context. </ParaText>
+              <ParaText id="8926665">What Canada needs to be doing is developing and getting these submarines as quickly as possible to eliminate those submarines coming close to our waters. It's not a question of us having hypersonics. You're not going to use a hypersonic to sink a submarine. However, you will use a submarine to sink those submarines before they are able to launch those hypersonics. That is why it's so critical that we get the submarines as quickly as possible.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163461">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926666">Thank you very much.</ParaText>
+              <ParaText id="8926667">Mr. Savard-Tremblay, you have six minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13163462">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay (Saint-Hyacinthe—Bagot—Acton, BQ)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926668">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926669">I want to thank all the witnesses for their remarks. I must say that they provided valuable insight into a key issue that continues to make headlines.</ParaText>
+              <ParaText id="8926670">Let's talk about hypersonic technology, Mr. Hickey. First, where does Canada rank in the development of hypersonic technologies compared to its peers?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163466">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926671"> Canada lags far behind its peers.</ParaText>
+              <ParaText id="8926672">For example, in the 1960s and 1970s, Australia developed facilities for conducting hypersonic testing. Europe did this in the 1990s, while the United States did this in the 1950s. Canada is several decades behind.</ParaText>
+              <ParaText id="8926673">As far as I know, Canada currently has no facilities for conducting tests in high‑enthalpy hypersonics. This means that we lack the resources to make progress in research or to truly test its effects. As I said in my remarks, very little hypersonics research is being carried out at Canadian universities. This is an issue in itself.</ParaText>
+              <ParaText id="8926674">Canada isn't represented at the hypersonics conferences currently taking place. I'm the only Canadian representative on the NATO committee. There isn't any representation commensurate with our international presence in other areas.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163475">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926675">However, the expertise and infrastructure are still there.</ParaText>
+              <ParaText id="8926676">In geographical terms, where can we find all this in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163477">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926677">The Defence Research and Development Canada, or DRDC, research centre in Valcartier has always played a major role in developing the hypersonics fields. It has been carrying out a number of research projects in these fields for a long time. As far as I know, the expertise is really based at DRDC in Valcartier. The DRDC research centre in Suffield has also always had a great deal of expertise in these fields. However, when it comes to hypersonics, the expertise is really in Valcartier.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="15">(1615)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13163482">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926678">So it's in Quebec.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163483">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926679">In Quebec, the National Research Council Canada also has useful facilities for the hypersonics field and may have some skills. However, in my opinion, most of the expertise is really in Valcartier.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163484">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926680">I understand that we have Valcartier, but that it isn't as well developed as it should be.</ParaText>
+              <ParaText id="8926681">What could we do? How much should we invest and for how long? If we have the infrastructure and expertise, what are we waiting for to hit the jackpot?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163486">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926682">Let's take the example of testing a supersonic combustion ramjet, which is a hypersonic propulsion system. Right now, no Canadian company has the means to develop a technology and bring it to market. We really need to look in other places.</ParaText>
+              <ParaText id="8926683">I contacted some of my colleagues who manage hypersonics facilities at the German Aerospace Center in Germany. They're a year and a half behind schedule. This means that, even if a company wanted to run tests right now, it would have to wait a year and a half before it could use these facilities. In short, the lack of infrastructure is putting companies that would like to grow here, in Quebec and Canada, at a disadvantage.</ParaText>
+              <ParaText id="8926684">There's also the issue of highly qualified personnel. We don't have any training programs. If we can't train highly qualified personnel, people in these industries will have less interest in pursuing development in the hypersonics field.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163509">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926685">You briefly gave Germany as an example, so I'll frame my question around that.</ParaText>
+              <ParaText id="8926686">Are there any examples of hypersonic research programs abroad that could serve as inspiration?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163511">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926687">Let's take Australia as an example. In the 2000s, Australia developed the HyShot program. The Australians invested $1.1 million and saw a return on their investment and absolutely magnificent results in hypersonic research. This led to another investment. It resulted in the HIFiRE program, a collaboration between the Defence Technology Group in Australia and the Air Force Research Laboratory in the United States. Australia is a perfect example for us. With a limited budget, the Australians managed to develop hypersonic propulsion technology and attract American interest.</ParaText>
+              <ParaText id="8926688">Australia is one example. Germany is another. Germany really has infrastructure on a national scale in both research facilities and universities. For example, there are hypersonics facilities in Stuttgart, Ahrens, Munich and Brunswick.</ParaText>
+              <ParaText id="8926689">We could draw inspiration from these examples.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163532">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926690">I see all this and think that our allies have this technology and that the west is already quite well equipped in terms of hypersonic wind tunnels. Why would Canada need its own?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163538">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926691">In my opinion, the main issue is that, without the infrastructure to develop a skilled workforce, our level of expertise in hypersonics won't improve. On the one hand, we have the workforce capacity issue, but on the other hand, we have the fact that, in order to develop hypersonic propulsion or hypersonic threat detection, we must have the means to conduct tests.</ParaText>
+              <ParaText id="8926692">Moreover, a lack of this infrastructure in Canada will adversely affect industries seeking to make progress in these fields and our ability to understand threats posed in other places.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163550">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926693">To what extent—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163552">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926694"> That's the end. You're done.</ParaText>
+              <ParaText id="8926695">Mr. Shimooka, you have your hand up.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163555">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926696">Yes. I would just like to add that I think the unique nature of the Canada-U.S. relationship in regard to the defence co-operation sharing agreements and the subsequent agreements through NORAD as well, allows a pretty large opportunity for Canadian industries, if they are developed and cultivated in the way that Dr. Hickey suggested, to enable industrial opportunities that are far in excess of those of other countries. The U.S. industries are able to support and utilize their relationship with Canada in order to give a much greater market access than any other country would be able to.</ParaText>
+              <ParaText id="8926697">To add to that point, if it is effectively cultivated, there are significant opportunities in this area as there are in others.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="20">(1620)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163569">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926698">Thank you.</ParaText>
+              <ParaText id="8926699">That was beyond the six minutes, Monsieur Savard-Tremblay.</ParaText>
+              <ParaText id="8926700">Cheryl Gallant, we're in the second round, and you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163575">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant (Algonquin—Renfrew—Pembroke, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926701">Thank you.</ParaText>
+              <ParaText id="8926702">The <Affiliation DbId="318688" Type="4">defence minister</Affiliation> promised a decision on the F-35s by the end of the summer, but the <Affiliation DbId="318684" Type="4">procurement minister</Affiliation> seems to be dragging the decision out. </ParaText>
+              <ParaText id="8926703">Mr. Shimooka, what are the additional risks posed to Canada over this indecision?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163580">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926704">They're significant. </ParaText>
+              <ParaText id="8926705">If you are looking at the age of the CF-18 fighters, they are at the end of their lives. Even with the current HEP, phase two, to upgrade for their avionics, they are at the very cusp of their operational relevance. Going forward, if we think about our ability to mobilize in a potential war-fighting scenario or to deal with even a very low level of threat, our CF-18s are not really commensurate to the challenge that we face, not just domestically. You could think about what's going on in eastern Europe with continual incursions by the Russian Federation over our NATO allies, and you could look at what's going on in the western Pacific. This aircraft needs to be replaced now and—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163597">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926706">I'm sorry. What do you think is behind the indecision or the refusal to announce what the decision is?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163600">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926707">I can think of several. </ParaText>
+              <ParaText id="8926708"> I think there's a reticence, given the comments of the current administration, specifically the president, on what he has said, which has certainly put a pause. It makes it potentially look politically unpalatable from his view. I also think there is potentially some effort to make it a bargaining chip on a broader discussion on trade negotiations, that this is something Canada could force on. </ParaText>
+              <ParaText id="8926709">However, I would say this. For at least the last three years, Canadian officials have gone to the United States and said that they are committed to NORAD defence, and the F-35 program is part of that. They've basically been a partner for over 25 years, in some form or another. </ParaText>
+              <ParaText id="8926710">Utilizing this as a bargaining chip, when you've already promised and used this as an example that you are seriously committed to the sovereign defence of North America, and then turning around and saying that you're not too sure about it because of some of the comments.... This goes beyond just this administration. It goes to previous administrations, but it's also a wide variety of bipartisan leaders within the United States, including strong Democrats who are raising these very concerns that Canada needs to do more.</ParaText>
+              <ParaText id="8926711">To go back on this sort of decision, honestly, it's really problematic. It defies some logic, given the deep need for capability modernization in this area.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163621">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926712">Rob.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163622">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926713"> To answer your first question, there is a direct threat right now coming from the Russians and increasingly one from the Chinese, so we have to have a modern capability.</ParaText>
+              <ParaText id="8926714">Remember, when we see that each of our Nordic neighbours has actually purchased or is in the processing of purchasing the F-35, it takes time. Even when you get them delivered, you have to learn how to use them. You have to learn how to integrate them. You have to have the pilots. Even if the Americans turned around and said, “Hey, we have 88 of them built for you right now; make your decision and here you go,” we are still talking about a lag.</ParaText>
+              <ParaText id="8926715">There is an operational lag, and that's a threat. There is also a threat, building on what Richard said, when we see every single one of our Nordic allies saying, “Yes, we need the F-35 because it's the integrated system that is so important.” It sends a message to the Russians. When they sit there and see us without it—and this goes to the second part of your question—they then see us as a weak link.</ParaText>
+              <ParaText id="8926716">It also gets into the issue of why we keep making ourselves the weak link. It's because we are so complacent as a nation. I mean, the helicopter replacement for the navy stands out as one of the worst sights for how not to do it. We don't seem to take this seriously.</ParaText>
+              <ParaText id="8926717">Once again, I go to my main point in my opening comments. We are facing the very real possibility of a coming war. This is something where Canadians have said that no, it's not possible, or that if it does come, the Americans will take care of it and therefore we don't have to do any of this heavy lifting or thinking or anything like that.</ParaText>
+              <ParaText id="8926718">That is at the heart of why we had the helicopters, why the submarines have been so difficult and also why we haven't built an icebreaker: We said in 1985 that we were going to do it and now we're building four in four different shipyards, which means that it is about the most inefficient way that you can do it. The Coast Guard needs it, no question about it, but the question arises: Why does it take us so long? We simply don't think the threat is real, and I think that is going to be a disaster for Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="25">(1625)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13163648">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926719">How are Canada's, and, by extension, NORAD's, capability and readiness when detecting and destroying a hostile unmanned aircraft if it ever intrudes into North American airspace? How are our capability and readiness for that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163653">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926720">The one example we have is the responsibility that we had in terms of the Chinese UAVs, the balloons or whatever ultimately they were sending through. Again, we are reliant in terms of what the government published in terms of its ability to respond. It's for obvious security reasons that academics are not going to know the true ability of the speed by which that was taken, but I do know from conversations I've had with serving members that they were fairly satisfied with how quickly they were able to respond.</ParaText>
+              <ParaText id="8926721">The problem we face is that we don't know how badly we responded to ones that we might have missed. There have been allegations that this is not the first time the Chinese did this. Now, it's not so much the point of the balloons, but if that is in fact true, that points to our inability to have actually responded. That's very hard for us to be able make an assertation on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163672">
+            <PersonSpeaking>
+              <Affiliation DbId="319801" Type="47">Cheryl Gallant</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926722">Okay.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163673">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926723">The time is up.</ParaText>
+              <ParaText id="8926724"> I know that we have a few hands up there, but we're now at six minutes, which is about a minute over.</ParaText>
+              <ParaText id="8926725">I will now pass it over to Chris Malette.</ParaText>
+              <ParaText id="8926726">Maybe some of those who had their hands up can respond to your questions.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163677">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="2">Chris Malette (Bay of Quinte, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926727">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926728">My questions are going to drill down a little more on the nuts and bolts.</ParaText>
+              <ParaText id="8926729">This is for Dr. Shadian and perhaps some of our other panellists.</ParaText>
+              <ParaText id="8926730">Canadian Forces Station Alert in Nunavut is the most northern permanently inhabited location in the world. As many here know, it's a unit of 8 Wing CFB Trenton, which is headquartered in my riding of Bay of Quinte.</ParaText>
+              <ParaText id="8926731"> As NORAD can send planes to this location, which is of course challenging geographically and environmentally, how can modernizing NORAD improve connectivity and efficiency of resources for this Alert station? Are we looking at a need for more stations such as Alert, or is the whole notion of Alert outdated in today's threat world?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163691">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926732">In my mind, we're missing the underbelly. We're missing the foundation. We're missing all of the critical infrastructure to do really anything big or more in the north.</ParaText>
+              <ParaText id="8926733"> Even if we try to put up a few more people and bases, what's the energy for that? What are the telecommunications for that? What's the water situation? We are not prepared with just the basic fundamentals in the north to actually have an economy, much less defence, right?</ParaText>
+              <ParaText id="8926734">That's why I was saying that in a sense here, it's not because we need to make all of these new strategies. It's because we don't have time to get it right. We also need to be thinking cognizantly about the reality and what all of these things we talk about mean. What does it mean to put up another base? Okay, let's think that through.</ParaText>
+              <ParaText id="8926735">We are also in a time of austerity. I just think that we need to think with much more coordination and be purposeful. As much as we need all of the hypersonics and all of this kind of stuff, we can't still neglect as the side piece or the leftover $15 the fundamental critical infrastructure we need, because then we are still going to lose our sovereignty. It's going to be undermined, but in various other nefarious ways.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163709">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="2">Chris Malette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926736"> I'll ask the same question of Ms. Redfern, whose expertise in that region is most welcome.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163712">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926737">Without a doubt, we need to see more investments, and not only in Alert, with respect to, almost certainly, MMR technology. You need an energy source. You definitely want a ground station there. You ideally want it connected potentially to, in the future, fibre optic, but it's really high up, so I appreciate that satellite is much more preferable there. We see the strategic importance of Pituffik, historically known as Thule.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="30">(1630)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163743">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="2">Chris Malette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926738">I have one more question further to that. </ParaText>
+              <ParaText id="8926739">With regard to our supply chain issues, you mentioned.... I was going to bring up Pituffik, formerly Thule, and YTR in Trenton to Alert. Inuvik, does that play into further developing that network in the north?</ParaText>
+              <ParaText id="8926740"> I'm trying to get a handle on how we can have.... As you said, we're familiar with the length from Trenton. I'm very aware of that. As you said, it's ungainly; it's untimely. Where do you see Inuvik in all of this?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163756">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926741">Inuvik, without a doubt, is a strategic hub. It already has fibre optic cable. It already has a road network there. What I would say is that it needs an energy solution, and the $100-million wind turbine did not address that problem. You also need redundancy. It does have a couple of ground or earth stations there. It has some of the essential existing elements, but it actually needs more.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163761">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926742">Thank you very much.</ParaText>
+              <ParaText id="8926743">Mr. Savard-Tremblay, you have two and a half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13163765">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926744"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926745">Mr. Hickey, let's continue the discussion on hypersonics capabilities.</ParaText>
+              <ParaText id="8926746">You touched on the topic. However, how much of the current situation is a direct result of the delay in universities?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163772">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926747">It's actually difficult to determine whether the delay stems from the universities or whether the lack of investment has prevented universities from conducting research. I don't know what causes what.</ParaText>
+              <ParaText id="8926748">In any case, this hypersonic infrastructure is quite expensive. This major infrastructure requires highly qualified personnel. With this infrastructure, we can develop these capabilities and skills and train highly qualified personnel to help us identify and address hypersonic threats.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163780">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926749">I understand that it's a bit like the chicken and the egg. Is the lack of political interest in this area affecting universities, or are universities contributing to the issue by failing to train the next generation in this field? It's a vicious circle.</ParaText>
+              <ParaText id="8926750">You spoke about the Defence Research and Development Canada, or DRDC, Valcartier research centre. However, I believe that there are other centres in Longueuil and Sherbrooke, for example. You can list other examples of centres. I don't mind.</ParaText>
+              <ParaText id="8926751">Clearly, some centres are already working in this field. What more could we do?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163791">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926752">When we talk about hypersonics, we're also talking about the ability to bring rockets back to Earth. All aspects of developing rockets' abilities to deliver cargo into orbit are related to hypersonics. The development of these capabilities will also benefit companies such as Reaction Dynamics and NorthSpace in Toronto, and other companies. The investment isn't just for the military. It also benefits civilian companies. Tekna is another example of a company developing the ability to increase the temperature and enthalpy for hypersonic flows.</ParaText>
+              <ParaText id="8926753">These companies could benefit directly from an investment in Canada.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163802">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926754">Your time is up, but we can ask.</ParaText>
+              <ParaText id="8926755">Mr. Huebert, do you want to respond?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163803">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926756">Yes. Very quickly, one important thing to understand here is that the open literature starts talking about the Russian hypersonics as early as 2002. You can go to Janes. You can go any of these aspects. It was fairly obvious to everybody that they were looking for a system to defeat the American anti-missile systems, such as the Patriot. We therefore knew, in terms of the community of scholars who looked at this issue, that the Russians were looking for a system to have a missile delivery that, in fact, would beat what the Americans had.</ParaText>
+              <ParaText id="8926757">One problem we face in Canada—and it very much follows on a point made in terms of the lack of hypersonic research—is that very few Canadian universities, or even the Canada research chairs, at that point in time addressed issues of security. You can find, to my knowledge, out of all the CRCs out there, there are probably only about two or three who are hard-core security. We used to have a community of scholars with what was called a security and defence forum under DND. That was changed to the MINDS program, but the MINDS program wasn't in existence during the period when this threat developed.</ParaText>
+              <ParaText id="8926758">Again, with the theme that's developing here, Canada basically said, “The Cold War is over. The Americans are here. Even though we see the evidence, we're not going to worry about it.” That's why we are where we are today.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="35">(1635)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163822">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926759">Thank you, Mr. Huebert.</ParaText>
+              <ParaText id="8926760">I'm sensitive about the time. I want to give Mr. Kibble his five minutes, and then I know there are a few people who are anxious to respond. It's over to you for five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163825">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble (Cowichan—Malahat—Langford, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926761">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926762">Thank you to the panel for joining us and helping us all learn about these important systems. I appreciate your opening statements.</ParaText>
+              <ParaText id="8926763">Ms. Redfern, I'll start with you, to follow on with the fibre optic—and I liked your comment “all domain awareness”—for gathering intelligence in terms of surface and subsurface. Is that on par with or better than current traditional array systems?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163830">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926764">I would say that, from what I know, we're relatively good with knowing what's happening on the surface of the water and in space, especially with respect to our satellites. Where we seriously lack all domain awareness is in the marine. We do not have good, even baseline, data, let alone real-time data.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163839">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926765">Thank you.</ParaText>
+              <ParaText id="8926766">You mentioned the systems can be configured for strike capability. Could you explain that, briefly?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163845">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926767">What we're seeing in Ukraine is that a lot of the small...either drones or even the ones that are for and in the marine environment are starting to be weaponized. They're being very successful and are even taking out the Russian ships from the Black Sea. They're very agile in also dealing with tanks and personnel on the ground. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163849">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926768">You're referring to underwater fibre optic arrays.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163852">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926769">Oh, I apologize. They're integrated technologies, so you would want, actually, what Cellula Robotics is working on, which is the ability to have unmanned systems connect into the fibre optic networks for energy and to relay the data.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163855">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926770">That would be controlling strike capability.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163858">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926771">Yes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163861">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926772">Thank you.</ParaText>
+              <ParaText id="8926773">Who presently monitors these systems that are in the Arctic that you described?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163862">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926774">A lot of the systems actually don't exist, except for satellite, ground stations and whoever's personnel is on the ground, which include our Arctic rangers.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163863">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926775">I understood that there was already fibre optic cable under the ocean right now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163864">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926776">No.</ParaText>
+              <ParaText id="8926777">No.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163866">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926778">Okay, so nothing has been deployed since 2022 in that area.</ParaText>
+              <ParaText id="8926779">I'm going to switch to Dr. Huebert. </ParaText>
+              <ParaText id="8926780">You said that the North Warning System is 30 years old. When is it going to be obsolete, or are we effectively already there?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163869">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926781">There's no question we're already there in terms of what we are seeing within the capability.</ParaText>
+              <ParaText id="8926782">There's another point, and this is critical for you as elected leaders too. We've been talking about the technology and the infrastructure, but recognize that, when we talk about all domain awareness, we're talking about getting the information to decision-makers. The Prime Minister now has to make decisions in a speed frame that hasn't existed before. If we are going to any form of interception of, let's say, the submarines carrying the hypersonics or the bombers carrying in any of these weapons systems, the Prime Minister has to be able to respond within about a five- to 10-minute bracket.</ParaText>
+              <ParaText id="8926783">There's a question I have to ask you, as decision-makers, because we don't have good studies on this. Have we adapted our political system that you exist within such that the Prime Minister is aware of the decisions that he or she will have to make, and do they have the capability to respond? You can have the best of all domain awareness in terms of whatever NORAD modernization looks like, but can the Prime Minister act upon it, and will there be the capability for his substitutes in that context?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163886">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926784"> Thank you.</ParaText>
+              <ParaText id="8926785">I just want to confirm that these hypersonic weapons that we can't defend against are nuclear capable.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163889">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926786">All of them are nuclear capable. This is what the Russians were doing.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="40">(1640)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13163894">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926787">We're seeing drones being used a lot. Would this new upgraded NORAD system we're looking at be capable of defending against the very different threat that modern drones present?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163897">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926788">The big thing for drones is that there has to be a carrier that gets you within that location. What we're seeing in Ukraine are, of course, closer locations. Now there are some drones that are capable of extreme distances, but the reality is that the type of swarming we see occurring in Ukraine is not what we're really talking about.</ParaText>
+              <ParaText id="8926789">Your question raises a critical point, which is that even if we get this infrastructure in place, we also have to add the thing that we're not thinking about, which is defending that infrastructure. As Madeleine knows—and she is one of the best people speaking on this—once we get the fibre optics in, we do have to defend that against the Chinese capability. Some of those icebreakers that came north already have it. You have to be able to defend it, so there is an added dimension for what we have to do. We haven't got to that stage yet in terms of NORAD modernization.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163908">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926790">Thank you.</ParaText>
+              <ParaText id="8926791">Quickly, if I may, just looking at the timelines between an F-35 acquisition and F-35 infrastructure construction, we've seen that it takes a lot of infrastructure to support that. I'm wondering about the gap between those two if we decided to go ahead right now today. Do you have any thoughts on that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163912">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926792">I can answer that very quickly, Chair.</ParaText>
+              <ParaText id="8926793">The current plan basically will have a temporary facility and structure that's built, I think, around 2030 or so, with the final infrastructure being built presumably by 2032. The dates are around there. The biggest issue there is pilots and maintainers and gaining the capacity, which is why this potential delay could seriously harm that delivery schedule.</ParaText>
+              <ParaText id="8926794">If I can go back to your last question about the threat to the north and the capabilities of the North Warning System, the one aspect that hasn't been highlighted is the development of a large family of long-range, low-level cruise missiles, which was a significant problem set. Not just for the last five or 10 years but for over two decades, this was seen as a serious potential threat to the NORAD North Warning System. </ParaText>
+              <ParaText id="8926795">In the intervening time, almost every single Russian major surface combatant and submarine now carries weapons like the Kalibr missile, which have been early tested and utilized widely in the war on Ukraine, so we know they're highly accurate and highly able to undertake these missions. Arguably, they may actually pose the largest threat to our ability to defend the north in such an attack, beyond hypersonics, given the prevalence of those systems and their accuracy.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165487">
+            <PersonSpeaking>
+              <Affiliation DbId="319800" Type="47">Jeff Kibble</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926796">Thank you very much.</ParaText>
+              <ParaText id="8926797">Thank you, Mr. Chair. I appreciate it.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163927">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926798">It's over to you, Ms. Lapointe. You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163929">
+            <PersonSpeaking>
+              <Affiliation DbId="319757" Type="47">Viviane Lapointe (Sudbury, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926799">Thank you, Chair.</ParaText>
+              <ParaText id="8926800">Dr. Shadian, from your perspective, what is most concerning about relying on foreign or privately owned satellite networks for critical northern communications? What tends to be overlooked about those risks?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163939">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926801">We're not in control of them. They could be turned on. They could be turned off. We don't have sovereignty over our own basic telecommunications in the north. That is essentially what we're saying. I don't know. Are we overlooking this? I think we're just not paying attention.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163945">
+            <PersonSpeaking>
+              <Affiliation DbId="319757" Type="47">Viviane Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926802">What guardrails would you suggest be put in place to protect sovereignty and community trust?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163948">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926803">This goes back to a larger question. It goes back to the fact that we need to be, again, controlling our own data. I don't know how it would work in a NORAD situation, but we're collecting a lot of data. Even if we are going to have a collaboration, collaboration is a co-operation. Codependency is never great, and an uneven relationship is never great either, so how do we set...? This is where I'm not in the weeds of these sorts of defence situations, but how do we then also have sovereignty over our data and be collaborating and sharing that data?</ParaText>
+              <ParaText id="8926804">I think this also goes back to just a general sense in Canada. I want to go back to Rob's statement, when he said that this is very urgent and that we need to be serious. Really bad things could happen, and there could be a world war. It kind of goes a little bit to the hypersonics discussion. I think that feeds a bit into the fact that we just haven't been paying attention to the north, and we have kind of cast it aside. In my world and Rob's world, when it comes to Arctic research, really, all the Arctic research is focused on studying climate change. That's it. </ParaText>
+              <ParaText id="8926805">Okay, so now what? What are we going to do about it? This is where this whole kind of AI, the technology and the innovation.... We're just not thinking that way about our north at all, much less a defence kind of construct. We cannot afford to just rely on others to defend our north.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="45">(1645)</Timestamp>
+          <Intervention Type="" ToC="No" ToCText="" id="13163964">
+            <PersonSpeaking>
+              <Affiliation DbId="319757" Type="47">Viviane Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926806"> Thank you, Doctor.</ParaText>
+              <ParaText id="8926807">Robert Huebert, leading off on the witness testimony that we just heard, you've argued that the real Arctic challenge is security, not sovereignty.</ParaText>
+              <ParaText id="8926808">From that lens, which parts of Canada's NORAD modernization delivers the clearest near-term deterrent effect? Where should NORAD modernization focus in terms of threats derived from Russia?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163965">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926809">There are two responses. The first one is the political response. We need to show that we are serious.</ParaText>
+              <ParaText id="8926810">The biggest challenge that we face from the sovereignty perspective is the moment the Americans.... Trump, of course, is Trump, but even previous American presidents, as Richard has alluded to, have not trusted what we are doing. We are seen as a laggard. It's called a defence against help, in academic terms.</ParaText>
+              <ParaText id="8926811">We have to be showing that we are serious moving ahead. It's almost like, do anything, but just make the decision. That's the first thing, so that we are allaying any American concerns that they have.</ParaText>
+              <ParaText id="8926812">We then have to get the systems that we say we're going to get. In some ways, “Strong, Secure, Engaged”, back in 2017, had a lot of very promising elements, but we didn't act upon them. We also didn't act upon subsequent announcements of modernization.</ParaText>
+              <ParaText id="8926813">Remember, the Russian war against Ukraine started in 2014 and we pretended that all it was was an illegal occupation. Territory was seized, and Ukrainians died defending it. That's a war, yet we said that it was not a problem. We have to prove that we are past that.</ParaText>
+              <ParaText id="8926814">The second thing is that we have to get the F-35s up. We need to get the listening. </ParaText>
+              <ParaText id="8926815">Those are the two critical points at this time, I'd say, but a third point is that we have to get the political elites taking this seriously.</ParaText>
+              <ParaText id="8926816">We need <Affiliation DbId="314774" Type="1">Carney</Affiliation> walking around with an equivalent of the American black bag. All American presidents always have the nuclear codes with them. We need to have Carney, or any successive Prime Minister, in the mindset that they have to be able to make this decision and understand it, so that when something happens, they're ready to act, so that the Americans are then able to actually respond. That's the only way you're going to convince the Russians that we can't be surprised. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163982">
+            <PersonSpeaking>
+              <Affiliation DbId="319757" Type="47">Viviane Lapointe</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926817">In your opinion, do you consider the classification, the export control rules and organizational seams between Canada and the U.S. departments to be an obstacle to faster NORAD early warning and tracking? Should anything be done to address those governance issues within NORAD?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163986">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926818">There are two answers to your question.</ParaText>
+              <ParaText id="8926819">The first one, of course, is whether the technical elements of these agreements are hindering us. That's a little bit beyond what I study. I can't get into the actual details of what's happening.</ParaText>
+              <ParaText id="8926820">The critical point is that we've shown time and time again that when there is political will, when we basically say that we need to get this acted upon as quickly as possible and it's at the prime ministerial levels—i.e., it's the attention of the Prime Minister and he says we'll overcome that—I've noted that we've been able to overcome all these issues.</ParaText>
+              <ParaText id="8926821">The best example is when we considered buying nuclear submarines. Of course, we were running into all sorts of issues back in 1985 to 1987. Ultimately, when the Prime Minister of the time said that we needed to do it, we were able to get through because of the direct participation.</ParaText>
+              <ParaText id="8926822">It gets into that political question, and that's part of the problem. We see this. It goes back to Richard's point that this is a bipartisan problem. If you don't have the buy-in of the Prime Minister basically saying to the bureaucracy that he doesn't care about these agreements, that we need this piece of kit and we are going to go ahead and get it from the Americans, as soon as you see that happen, we do know that it can occur.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13163993">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926823">Thank you, Mr. Huebert.</ParaText>
+              <ParaText id="8926824"> Mr. Shimooka, I know your hand is up. I'm sensitive to the time and I want to give Mr. Scott Anderson the opportunity to do his round. We're going to be starting round three. Maybe you can interject at that point.</ParaText>
+              <ParaText id="8926825">Mr. Anderson, you have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13163995">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson (Vernon—Lake Country—Monashee, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926826">Thank you very much.</ParaText>
+              <ParaText id="8926827">This question, first of all, is for Robert Huebert.</ParaText>
+              <ParaText id="8926828">We saw from Ukraine the lessons we've taken away from them. The two main lessons that I've seen are drone and anti-drone activity and the weight. We didn't think before that symmetrical warfare would involve the need for weight, I think.</ParaText>
+              <ParaText id="8926829">With regard to drone technology, we've seen the effectiveness of both drones and anti-drone technology. How much weight do you think we should be putting behind drone development in Canada, given the vast expanses of the Arctic in both defence and surveillance?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="50">(1650)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164004">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926830"> There's no question we have to be paying attention. </ParaText>
+              <ParaText id="8926831">I sat on the air force board back in the 1990s, and they were desperately trying to get funding to support that type of research. It was a question of what type of drones we had. Again, because of political decisions not to take it seriously—once again, this is bipartisan, I saw it occur over both—it did not go forward.</ParaText>
+              <ParaText id="8926832">The more critical point to your question is how we pay attention to the adaptivity of new forms of warfare. In other words, drones right now are a critical element in the context of Ukraine for a whole host of good reasons. The question we need to be asking is how we think about these new adaptations. It's not simply saying we get fixated on hypersonics, fixated on drones, but we really have to get back into the mindset of what war is and how we adapt to the war. What are the technologies China is now developing that go beyond?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164017">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926833">With regard to that, you've written about our lack of undersea capability when it comes to drone technology. Do you want to expand on that just a bit?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164020">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926834">Absolutely.</ParaText>
+              <ParaText id="8926835">Part of the problem, of course, is that we haven't taken seriously the fact that, as Madeleine has brought forward, there are going to be all sorts of targets of necessity, if, in fact, we go get the infrastructure we need to support the NORAD modernization. The undersea cables she talks about are absolutely essential, but if you look at our capability of defending against the type of threat that, say, the Danes, Finns and the Swedes have to defend from in the Baltic Sea, we don't have that capability. We haven't had a capability of protecting our own cables, let alone in terms of cables of any allies in this context. </ParaText>
+              <ParaText id="8926836">It's tied into that capability of having submarines. That's where you're going to be able to have it. We know we've had the challenges with the Victoria class. I do believe those were good boats, but we simply let them sit in the water for too long, and in terms of the prepurchase, you need to be getting that technology now.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164029">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926837">Thank you.</ParaText>
+              <ParaText id="8926838">This question is for Richard Shimooka.</ParaText>
+              <ParaText id="8926839">I remember back in the nineties when I was in grad school the helicopter debate we had, and that was quite something. The problem there was procurement is very politically driven. Is that still the case now?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164033">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926840">It depends on which program. </ParaText>
+              <ParaText id="8926841">Certainly, if we think about the F-35, it is arguably the number one reason why we're at this state today. As my previous comments alluded to, the current pause or reassessment is completely politically based. I think, given we've already bought 16 aircraft, and we are in the process of training for this aircraft, to divert from this path at this stage.... Also, given the fact the air force has built much of its modernization of its data processing, its networking capabilities, it's pure folly in some ways to divert at this stage, and this is arguably for political reasons.</ParaText>
+              <ParaText id="8926842">For other programs, it's less so, I think, but there are greater challenges with how we have set up the bureaucracy to avoid any sort of assumption of risk by the government, which basically adds more layers of processes and whatnot that are delaying systems. In some ways, you could argue there too that there's some politicization of this just to avoid any negative consequences.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164052">
+            <PersonSpeaking>
+              <Affiliation DbId="319803" Type="47">Scott Anderson</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926843">Thank you very much.</ParaText>
+              <ParaText id="8926844">We've heard from several of you arguing for infrastructure. We're starting from ground zero here. We have to start the infrastructure and complete everything else in a very short time period because of the changing world situation. We've just moved about 10% short of the shortfall, between 1.4% that we're supposed to spend and 2%, and we've already spent 10% by moving the Coast Guard under DND with no enhancement of capability. </ParaText>
+              <ParaText id="8926845">Is this the time for that? The whole process is back-end loaded, should it be front-end loaded instead?</ParaText>
+              <ParaText id="8926846">I'll direct that question to Robert.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="16" Mn="55">(1655)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164100">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926847">I'm chuckling a little bit, because remember, we first had an observation of what countries do when they get so fixated on just the percentage when Japan moved a whole bunch of their defence act acquisitions outside of it so they remained under 1%.</ParaText>
+              <ParaText id="8926848">The addition of the Coast Guard was necessary. I think the security requirements of what they have to do within DND, rather than continuing to operate under DFO, are completely necessary and required. But we get into the issue of did we do it because of the strategic purposes we need to do, or did we do it simply for the political theatre of saying that we're going to get close to the 2%?</ParaText>
+              <ParaText id="8926849">Having put them into the DND, we now have to figure out how we integrate what the Coast Guard is going to be able to offer, particularly in terms of as a platform and as a surveillance, and that is going to require some very significant expenditures and a different way of training. This is something, again, that follows through. It goes to a point Jessica was making that it's fine to have the infrastructure, but you also have to have the follow through to actually utilize it. That is what's going to be happening with the Coast Guard if we're doing what we say we're going to do, as opposed to simply having it as a means of meeting that 2%.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164116">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926850"> Thank you, Mr. Huebert. </ParaText>
+              <ParaText id="8926851">I apologize, but your time is up.</ParaText>
+              <ParaText id="8926852">We'll go over to Parliamentary Secretary Romanado.</ParaText>
+              <ParaText id="8926853">You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164122">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado (Longueuil—Charles-LeMoyne, Lib.)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926854">Thank you very much, Mr. Chair, and through you, I'd like to thank the witnesses for being here.</ParaText>
+              <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+              <ParaText id="8926855"> Professor Hickey, you spoke about Longueuil. As the member for Longueuil—Charles‑LeMoyne, I'm quite pleased to see that the city of Longueuil is represented.</ParaText>
+              <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+              <ParaText id="8926856">I want to follow up on that last conversation with respect to the Coast Guard. Currently, the NORAD agreement is for aerospace warning, aerospace control and maritime warning. It does not include maritime control. </ParaText>
+              <ParaText id="8926857">Robert, if the Coast Guard is used for the capability to enhance and amplify the surveillance capabilities of maritime awareness, would you agree it's a good idea to incorporate them and move them with that intent of making sure we're bringing that augmentation—that is the word I would use—of maritime surveillance?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164130">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926858">The timing is very good, because remember, we're finally getting to the point of reinvesting in the Coast Guard. We're building the four icebreakers. I'm throwing in the two AOPS the Coast Guard is being given to keep the Halifax shipyard going until it starts building the River class destroyers. The Coast Guard is getting two AOPS. You're getting those two; you're getting the ship that's being built in Vancouver and you're getting the one that's being built both in Finland and in Quebec.</ParaText>
+              <ParaText id="8926859">Now is the time to be thinking about how we go to the pan-domain awareness so that we have the communication systems. We have the training, and we have the ability to take the helicopters that the navy has in the context. Just as an aside, of course, the navy has had all sorts of difficulties with that helicopter as part of that agony of the helicopter decision. It sees the long-term impacts of the politicization that Richard was talking about earlier. All of this should be thought out right now. </ParaText>
+              <ParaText id="8926860">Therefore, this is how we basically go into a ready-made capability, but it gets back to a point that Jessica was making about the fact that all of our science and all of the Coast Guard, of course, is being focused on climate change. This is going to require a real mindset to say you can still do the climate change, but you're going to also have to be playing this role in terms of a security requirement. That's something that's going to take money and it's going to take determination.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164147">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926861">On that note, we talked about our capabilities in the north, and part of our investment of $40 billion in NORAD modernization included the Arctic over-the-horizon radar system. We announced that the receiver and transmitter sites are going to be located in southern Ontario and should be operational by 2029. </ParaText>
+              <ParaText id="8926862">With the move of the Canadian Coast Guard into the Department of National Defence in tandem with this investment and, of course, conversations about whether or not we should be expanding NORAD to include cyber, to include intelligence, and Canada's change in position with respect to our participation in ballistic missile defence, which was something we announced this summer, do you feel that we are now in a position to move the needle on Canada's contribution to NORAD? </ParaText>
+              <ParaText id="8926863">I believe we are. I believe there's a very significant willingness and demonstration of our commitment to NORAD in ensuring that continental defence is taken as seriously as possible given the new threats we are facing.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="00">(1700)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164164">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926864">We're in an entirely different environment in terms of planning. The challenge that I face as a long-term observer of Canadian defence policy is that we've often had very good plans. The question becomes: What happens in the three- to four-year period in which the political attention is no longer on? </ParaText>
+              <ParaText id="8926865">We had a very good plan coming from Joe Clark in terms of Arctic sovereignty when we announced it back on September 10, 1985, in Parliament. That was a great plan, but we're only seeing bits of it being implemented today. For example, the AOPS, Arctic capability and getting the icebreakers were all promised in 1985. </ParaText>
+              <ParaText id="8926866">My concern is that the moment we convince ourselves we are safe—and we are not going to be safe—all of a sudden we'll say we really don't have to follow through on this. The plan, as you've isolated, is great. It is a great plan and we see significant movement in actual monies flowing. Can we sustain it? That's my biggest worry.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164176">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926867">On that note, we've seen all-party support, I believe. I think we can agree that all parties right now in the House of Commons are in agreement that we must be investing heavily in national defence. I think Canadians are there. I also think the creation of the defence industrial agency is a demonstration of our willingness to work closer with industry.</ParaText>
+              <ParaText id="8926868"> I know the issue was brought up earlier of the importance of engaging Canadian industry and investing in the talent as well. It's one thing to invest in assets, but one of those assets is human assets, so there is the importance of investing in research, in post-doc, in training and so on and so forth.</ParaText>
+              <ParaText id="8926869">Would you agree with that?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164192">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926870"> Absolutely. A critical point is will you as decision-makers all around—all parties, as you say—sustain that effort? I think that each and every one of you can see the moment—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164196">
+            <PersonSpeaking>
+              <Affiliation DbId="319755" Type="47">Sherry Romanado</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926871">I'm going to intervene because I know I'm just about to be cut off by the chair.</ParaText>
+              <ParaText id="8926872">I'm just going to mention that I have three kids in the military. I can guarantee they are making sure that my decision is there.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164202">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926873">Thank you for the interchange.</ParaText>
+              <ParaText id="8926874">I have Mr. Savard-Tremblay.</ParaText>
+              <ParaText id="8926875">You have two and half minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13164204">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926876">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926877">My next question is for you, Mr. Huebert.</ParaText>
+              <ParaText id="8926878">I believe that, in one of your books, you point out that the expansion of defensive capabilities could trigger a new arms race.</ParaText>
+              <ParaText id="8926879">How can we reconcile the modernization of NORAD, which everyone agrees is necessary, with a foreign policy focused on de‑escalation and regional stability?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164215">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926880">I think in that particular article I was saying that it could be perceived as an arms race. There's a difference in terms of understanding an arms race. An arms race is creating a conflict when neither side has intent of offensive action against the other. You start buying equipment, and then the other side thinks, “I don't know what they're thinking about. I better buy those battleships or aircraft carriers myself.” That facilitates and creates a tension of its own.</ParaText>
+              <ParaText id="8926881">The difference, I would argue now, is that we are facing an aggressor state. In other words, we know that the Russians have utilized military force in putting down the Chechen effort to get self-rule. We know that the Georgian war occurred in 2008, and we know about the Ukrainian war. In other words, what we are doing is responding to the actions of what the Russian state has done. It's not an arms race but rather trying to develop that capability of deterring an aggressor. It's different from World War I, when the Germans entered into that arms race with battleships and other contexts. It didn't necessarily want to have World War I as opposed to World War II, when the Germans were clearly the aggressor state and we needed to build up. We did not have an arms race in World War II, even though we were trying to build up.</ParaText>
+              <ParaText id="8926882"> That's the difference, I would say.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13164243">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926883">You can interpret my words however you want. However, I gather that this marks a return to the mutually assured destruction of the Ronald Reagan era. In other words, it's a type of arms race that would also serve as a de‑escalation, since each side would be afraid to attack the other.</ParaText>
+              <ParaText id="8926884">Is that right?</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="05">(1705)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164251">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926885">Absolutely. That's what an aggressor state wants to achieve. An aggressor state wants to have such a series of weapon systems that its opponent says, “These are so overwhelming, I will give you what you want. Just leave me alone. Take what you want in terms of territory.” Where they would be acting is in trying to divide the alliance. In this case, it's NATO basically trying to have each say, “Maybe if we don't do anything, they won't notice us.”</ParaText>
+              <ParaText id="8926886"> To your point, the critical situation we are in now is the protection of collective security. That's what we're trying to do.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164265">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926887">Thank you, Mr. Savard-Tremblay.</ParaText>
+              <ParaText id="8926888">I noticed, Ms. Shadian, that you had your hand up a number of times. Do you want say something?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164268">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926889">Madeleine does as well.</ParaText>
+              <ParaText id="8926890">I want to say one thing very quickly. </ParaText>
+              <ParaText id="8926891">Rob was mentioning that this is real, that this is a potential war. The golden dome is a lot taken off of what Israel's iron dome was about. That has a lot of autonomous drones and all these kinds of things.</ParaText>
+              <ParaText id="8926892">I would say it's not just a war; it's how to fight a war in cold weather. I also think there's a whole dual-use aspect to this. There are these other pieces that happen when you get yourself ready to be able to defend and protect yourself. Look at both United States and Israel. They are world leaders in innovation. Instead of being reactive and getting drones, missiles or hypersonics, we need to be thinking about what we need and how we protect and defend ourselves in the Arctic if there's going to be a war in that region.</ParaText>
+              <ParaText id="8926893">Also, I would say that already China and Russia are thinking like that. Their technologies are equipped for cold weather. They are thinking in those terms. You see it through all of the ships and everything else that China is building. I think we also just need to think about a war and what it means in our north.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164283">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926894">I appreciate that.</ParaText>
+              <ParaText id="8926895">Do you want to speak very quickly? I'm trying to respect the time for the members here.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164287">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926896"> Very quickly, to Madam Lapointe's comment from earlier, I believe procurement is a security risk in Canada. It is too slow. The people involved aren't necessarily trained in the way they should be, especially in the area of security.</ParaText>
+              <ParaText id="8926897">I also wanted to add to what Jessica had said about ownership control and access matters. We have the issue of the CLOUD Act. We have more people recognizing that Canadian data, if it touches anything with respect to the United States...and, of course, we are very aware that we're never quite certain where the United States is right now. Also, hardware is software and software is hardware. The possibility of not having control of not only your telecommunication systems but your digital infrastructure, which is connected to your energy systems, which is connected to your transportation systems.... If any one of those goes down, we are at immense risk.</ParaText>
+              <ParaText id="8926898"> Many of us remember when the Rogers network went down. That was one big telecommunications company, and almost every single customer on all the other networks had no access to the economy or to telecommunications.</ParaText>
+              <ParaText id="8926899"> We are literally extremely vulnerable. I want to use the words “tech security”, because it's more than cybersecurity.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164306">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926900">Thank you, Ms. Redfern.</ParaText>
+              <ParaText id="8926901">Mr. Zimmer, welcome to the committee. You have five minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164309">
+            <PersonSpeaking>
+              <Affiliation DbId="317897" Type="2">Bob Zimmer (Prince George—Peace River—Northern Rockies, CPC)</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926902">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926903">I have a question for Madeleine.</ParaText>
+              <ParaText id="8926904"> Thanks for coming.</ParaText>
+              <ParaText id="8926905">I was recently in Finland at some Arctic parliamentarian meetings. Finland has a term for readiness. It's “<I>valmius</I>”. It's more than just a term. It's a culture, because of the proximity of their 1,300-kilometre border with Russia.</ParaText>
+              <ParaText id="8926906"> In terms of Canada being able to defend itself against our adversaries, especially with Russia and China building up in the Arctic, are we ready in Canada?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164318">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926907">First of all, I'd like to remind you that Canada actually has the largest border adjacent to Russia. It's in the Arctic, and we are not ready. We are nowhere even near ready with respect to everything that Rob and all of the witnesses have said with respect to maritime, our air or our ground. There isn't any area where we are ready for any type of incursion, let alone a war type of act.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164327">
+            <PersonSpeaking>
+              <Affiliation DbId="317897" Type="2">Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926908">Thanks, Madeleine.</ParaText>
+              <ParaText id="8926909">Dr. Shadian, it's good to have you here. I will commend you as somebody who very much cares about our Canadian Arctic sovereignty. With Arctic 360, you've done great work just to bring about awareness of the Arctic. You've often been instrumental in heightening the awareness in Canada.</ParaText>
+              <ParaText id="8926910">You mentioned the Canadian High Arctic Research Station. I was there a month ago. It's a great project that was initiated by former Conservative prime minister Harper.</ParaText>
+              <ParaText id="8926911"> You mentioned multi-use infrastructure being critical. We've talked about the Grays Bay project. We also are looking at other projects in the north as key infrastructure points. Shadow minister James Bezan and I drove the Inuvik-Tuk Highway this summer, seeing how important that kind of infrastructure is to national security and sovereignty.</ParaText>
+              <ParaText id="8926912">What multi-use infrastructure projects would you have us put at the top of our list, Doctor? You can name one or two. I know time is short.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="10">(1710)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164340">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926913">Yes, to be placed out of charge you're saying...?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164343">
+            <PersonSpeaking>
+              <Affiliation DbId="317897" Type="2">Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926914">No, just any multi-use infrastructure project in the north. What would you prioritize?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164347">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926915">I would say anything that's related to critical infrastructure, because it's cold weather, and there's still a lot that we need to learn. Even though there are a lot of countries that are far more advanced than we are, we absolutely should be in this space. This goes to national security all the way down to social infrastructure.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164353">
+            <PersonSpeaking>
+              <Affiliation DbId="317897" Type="2">Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926916">Right. I think it's instrumental too. It's one thing to talk about planes in the air and boats in the water, but if you can't have highway access to certain areas in the north, that's severely limiting.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164357">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926917">Yes, and also ports. It's interconnectivity. We talk a lot about maybe putting in one port, but it's the interoperability, because soon we're going to have autonomous ships, and road is going to be autonomous vehicles. Everything is going to be interoperable, and we're not even thinking in that headspace when it comes to the Arctic. It's like maybe we'll get a concrete slab and call it a port.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164360">
+            <PersonSpeaking>
+              <Affiliation DbId="317897" Type="2">Bob Zimmer</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926918">Yes, and even those are delayed.</ParaText>
+              <ParaText id="8926919">My next question is for Dr. Huebert.</ParaText>
+              <ParaText id="8926920">I was up in Inuvik with James Bezan this summer at the forward operating location. What we didn't see was a busy construction site preparing those hangars that house the F-18 currently to house the F-35s. The F-35 capability is not only necessary for our own fleet, as you know, Doctor, but for our southern NORAD allies and also for our NATO allies that operate the F-35s.</ParaText>
+              <ParaText id="8926921">Currently, we can't even land our aerial refuelling tankers in Inuvik, as the runway extension won't be ready until late 2027, or maybe even later, and that's at least $80 million overbudget currently. As a colleague from the European Parliament said at our meeting in Finland, Putin sees weakness as provocation.</ParaText>
+              <ParaText id="8926922">Dr. Huebert, do our adversaries see Canada as weak?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164375">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926923"> That's super easy to answer—of course. Consider this fact. Going through the element of Russian development of its Arctic security capabilities, throughout the period of the post-Cold War, we see Russia's GDP roughly is in the ballpark of Canada's GDP. We get to the conversation of looking at the agony—and this committee dealt with it. I remember listening to the testimony from the former owner of the hangar in Inuvik, and remember how we couldn't figure that out until the Chinese threatened to buy that hangar, and the Americans put pressure on us. We think in terms of what's happening in Nanisivik and then compare and contrast to Russia. Now, how you count it varies, but there are about 22 Arctic bases that the Russians built, revised or extended. Again, on the GDPs it's hard to have any formal comparison, but we're not that far off in the ballpark. Remember, we were all part of the G8 at one point, because we had similar economies.</ParaText>
+              <ParaText id="8926924">We come back to the fact that the Russians look at what they have and what they're capable of providing. They look at us and say, “Oh, look at Canada sitting on relatively similar resources. It has done absolutely nothing and refuses to think about this issue.” That's the critical point. We don't see anybody talking of the strategic rather than the tactical, or the “in the weeds”, as one of your colleagues put it.</ParaText>
+              <ParaText id="8926925">Again, look at Russia in terms of what it did to Georgia, what it did to Ukraine in 2014. I want to hammer that point again. What are they doing? Again, they've always acted whenever NATO has refused to take either Georgia or Ukraine in, so if they see a weak point, they will act. We know that. That's obvious to everybody. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164393">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926926">Mr. Huebert and Mr. Zimmer, the time is up. I'm sorry. </ParaText>
+              <ParaText id="8926927">Mr. Watchorn, you have five minutes. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164395">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="2">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926928"> Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926929">I want to thank the witnesses.</ParaText>
+              <ParaText id="8926930">This week, the Government of Canada announced that it would create a single agency for military procurement. Do you see the advantage of purchasing military equipment from a single agency instead of three separate agencies involved in the military equipment procurement process?</ParaText>
+              <ParaText id="8926931">Dr. Huebert, you may start responding.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="15">(1715)</Timestamp>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164399">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926932">Absolutely. You can have three agencies, four agencies, however many agencies you want. If you do not have directions from the highest political level to go on, it really doesn't matter, does it? </ParaText>
+              <ParaText id="8926933">I point out how quickly a government was able to move on getting the C-17s when we had the opportunity. That's the golden child of how to do it. We think in terms of the agony that we faced with the F-35, and it's over governments. Again, not to blame any one particular partisan in this context, we look at the agony of the F-35s, and we look at the agony of the helicopter replacement. We compare that to the C-17s, and basically we come back to the point.</ParaText>
+              <ParaText id="8926934">On getting into the weeds of it, if we could only come up with a procurement design that was perfect, boy, that would solve our problems. The problem is political will, and we've seen it. That's what the evidence points to. </ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164408">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="2">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926935">Mr. Shimooka, you can respond now.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164410">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926936">Given what we know from the announcement and the information that's been put out, I don't believe there is an amalgamation of a lot of the capabilities going on. I think this may reflect something of how the Major Projects Office was announced last month, that this agency is going to be layered on top of the existing system. It only works for major projects over $100 million, as well, and my real worry is that this will not actually help that much.</ParaText>
+              <ParaText id="8926937">A serious challenge within the procurement enterprise as a whole is a lack of personnel and individuals. There are project offices within DND that are at 50% manning levels. You cannot gear a job.</ParaText>
+              <ParaText id="8926938">In key areas of technical competence such as in cybersecurity, there's just no personnel available to undertake these critical tasks. Basically, these are essential to pushing a project along, and that person doesn't exist, because we've cut in this area.</ParaText>
+              <ParaText id="8926939">My worry is that if you're adding another layer on top of the existing system, you aren't removing PSPC, Industry Canada, or even making more of a focus on Canadian industrial development on top of that. It will not help with defence procurement; it may actually in some ways hinder it in some areas. Again, this is only for projects over $100 million. Projects below that point may still have the same challenges going forward. There is real concern that this may not actually help. </ParaText>
+              <ParaText id="8926940">There are some regulation changes that have been made on the national security exemption and whatnot that may help. As Professor Huebert said, there is political imprimatur of the <Affiliation DbId="314774" Type="1">Prime Minister</Affiliation> to push forward these projects and make this a major political commitment, which, I think, helps immensely in getting them moved forward.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164428">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="2">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926941">Thank you for your response.</ParaText>
+              <ParaText id="8926942">Over the past few weeks, I've consulted with a number of procurement experts. They told me that this would help speed up the execution of these contracts.</ParaText>
+              <ParaText id="8926943">To change the subject, I'll turn to you, Dr. Shadian. You spoke about the energy needed for bases in the north. What would be the best options or solutions for providing the energy needed to power a base in the north? Would it be biomass, nuclear power or diesel generators?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164434">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926944"> I'll defer that over to Madeleine.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164435">
+            <PersonSpeaking>
+              <Affiliation DbId="319753" Type="2">Tim Watchorn</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926945">The person who best knows the answer can respond.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164440">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926946">One of the problems is that we don't have, for most of the territories, any energy strategy, even for our communities that are diesel dependent. </ParaText>
+              <ParaText id="8926947">The answer to your question would first of all start with the energy solutions or options based on geographical realities. What we learned is that, for the most part, wind and solar are supplemental energies; they're not baseload. That means it's either diesel, hydro where it is available because you have a large lake or a large river, or is more likely going to be nuclear, small modular or micromodular. It is old technology that is being redeveloped. It's not new technology in the sense that it's been used, especially in defence by the United States, for nuclear subs and space exploration. It's just a question of developing it in a way that allows for the communities, the military or the mines to have an energy source that can last 20 to 40 years as most of the lifespan.</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="20">(1720)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164452">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926948">Thank you. That round is done.</ParaText>
+              <ParaText id="8926949">We're into our last round, and we're sensitive about time. I may go down to four minutes, four minutes and two minutes.</ParaText>
+              <ParaText id="8926950">Mr. Bezan, we'll go over to you first.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164456">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926951">Thank you, Mr. Chair.</ParaText>
+              <ParaText id="8926952">As we're meeting here, over in the public accounts committee the Auditor General is appearing on the F-35s and the report she just did. We also have over there the deputy minister of national defence, Stefanie Beck, along with air force commander Lieutenant-General Jamie Speiser-Blanchet. They said that we should be buying the F-35s. They support the F-35s. They're going to continue to build infrastructure to support the fleet of F-35s.</ParaText>
+              <ParaText id="8926953">Minister <Affiliation DbId="318688" Type="4">McGuinty</Affiliation> said back in the summer that he would take the recommendation that comes from the Canadian Armed Forces and the department as to what we should be doing, yet Secretary of State for Defence Procurement <Affiliation DbId="318703" Type="5"> Stephen Fuhr</Affiliation> continues to drag his feet in this review and refuses to come forward with a recommendation based upon the experts within the department and within the Canadian Armed Forces.</ParaText>
+              <ParaText id="8926954">I want to quickly ask each and every one of you, should Canada buy the F-35, yes or no?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165611">
+            <PersonSpeaking>
+              <Affiliation DbId="270425" Type="28">Richard Shimooka</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926955">Yes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165619">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926956">Yes. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164471">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926957">The only thing I'll say is if, in terms of interoperability and being reliant on the United States, if there is a way then to not be, then, wholeheartedly reliant on somebody else in another party to function our own equipment....</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164476">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926958">It will be sovereign, as I've always said. </ParaText>
+              <ParaText id="8926959">Go ahead, Madeleine.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164478">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926960">I would say yes, plus unmanned vehicles. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164482">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926961">Okay.</ParaText>
+              <ParaText id="8926962">Mr. Hickey, what do you think?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164487">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926963">I'm not qualified to answer.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164489">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926964">That's fine, I appreciate that honesty because, with NORAD—that's our study—is there mode interoperability with the Americans? As said, it's in America's best interest that Canada take care of our own territory, which includes the Arctic and the entire country on all three coasts.</ParaText>
+              <ParaText id="8926965">In the discussions around nuclear reactors, because I think this is something that is going to be key when we have our polar over-the-horizon radar system, where should that be located? It's going to take a pile of energy. It's going to be an SMR if it's up in the high Arctic. Ultimately, where else should we be having more of a permanent presence in the Arctic?</ParaText>
+              <ParaText id="8926966">I'll start with you, Madam Redfern.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164496">
+            <PersonSpeaking>
+              <Affiliation DbId="322915" Type="28">Madeleine Redfern</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926967"> It's already been identified where some of the strategic locations can and should be. We have Happy Valley-Goose Bay. Iqaluit would probably be another one. Churchill has been identified as strategic, as has Yellowknife and Inuvik. Alert of course comes to mind. Nanisivik is seen as probably not the most strategic choice, but we need another one. Whether or not it ends up being in a place like Pond Inlet or Resolute has yet to be determined, but I think it speaks to the project that Arctic 360 has been pushing, which is that we need to map it all out not only for security but for investments for the regions in the north. It just hasn't been done to the extent that it could and should. </ParaText>
+              <ParaText id="8926968">My concern is that by just doing it for one purpose in isolation of all the other actors, we may be missing critical locations for those investments where they meet the security needs of the community and national security. </ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="" ToC="No" ToCText="" id="13164511">
+            <PersonSpeaking>
+              <Affiliation DbId="320718" Type="40">James Bezan</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926969"> Ms. Shadian, you talked about the relationship with Greenland. How does that, in your mind, fit in? Should they also be included as part of NORAD in continental security? Americans already have a base up at Thule. Should Canada have more of a presence there in co-operation with the Danes?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164515">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926970">Generally speaking, we should definitely have more co-operation with Greenland and Denmark combined. As I was mentioning, just in terms of maritime space itself, we know that Greenland is very eager to have strength and co-operation with Canada. There are going to be representations from both coming online.</ParaText>
+              <ParaText id="8926971">Whether or not it becomes part of NORAD, though, I keep thinking about it in my mind, and I'm not sure I have the answer to that. I think it's very specific. It's something that would have to be sat down and discussed with Greenland. Does it make things more subject to some of the discussions coming out of the United States? Is it in a more precarious position, or does it strengthen their own defence? That's something I don't have....</ParaText>
+              <ParaText id="8926972">Regardless, we should be strengthening our bilateral relationship with Greenland and Denmark in the defence space and thinking in terms of dual assets and critical infrastructure, because we should be looking out of both sides, our left eye and our right eye, on the way that supply chains, shipping and these kinds of things—</ParaText>
+            </Content>
+          </Intervention>
+          <Timestamp Hr="17" Mn="25">(1725)</Timestamp>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164529">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926973">Ms. Shadian, thank you.</ParaText>
+              <ParaText id="8926974">We're almost done, and I want to get everybody in.</ParaText>
+              <ParaText id="8926975">Mr. Malette, you have four minutes.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164531">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="2">Chris Malette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926976">Thank you.</ParaText>
+              <ParaText id="8926977">I guess I'm batting cleanup. </ParaText>
+              <ParaText id="8926978">Mr. Hickey, what role is DND playing in research and development, if any, of artificial intelligence, quantum computing, machine learning, cyber-defence capabilities, advanced robotics and other emerging defence technologies? You outlined some of what you saw as some of our deficiencies in those areas, or at least where we're lagging. Are there any areas in any of those where we are progressing at pace?</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164548">
+            <PersonSpeaking>
+              <Affiliation DbId="322911" Type="28">Jean-Pierre Hickey</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926979">What we have currently are ideas programs. DND is pushing a lot of that, and it's very productive.</ParaText>
+              <ParaText id="8926980">In those areas where we are very strong—I'm thinking quantum, AI, machine learning, advanced manufacturing, advanced materials—we have an ecosystem in Canada: We have researchers and that ability to build. I think that in those specific areas, we have a lot of opportunity to be world leaders.</ParaText>
+              <ParaText id="8926981">It is in the areas that are not our central focus or historical strengths where we lack some abilities. That's where, potentially, these ideas programs that are well thought out may not be as effective for programs, for example, hypersonics, where we need infrastructure, developments and an industrial base to build on.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164558">
+            <PersonSpeaking>
+              <Affiliation DbId="319756" Type="2">Chris Malette</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926982">I have the same question for Mr. Huebert.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164561">
+            <PersonSpeaking>
+              <Affiliation DbId="309808" Type="28">Robert Huebert</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926983">That's such a difficult one in terms of trying to think of how we get ahead of the curve. It gets back to the fact that we're not observing the reasons that people are trying to get these different technologies. I mean, to think back to World War II when everybody was saying, “Okay, we have to get on top of radar,” it's that individualistic thinking that is the problem.</ParaText>
+              <ParaText id="8926984">Part of the reason the Brits won the Battle of Britain is that they thought in systems contexts. It's not just about getting a good Spitfire, which was the tooth of everything; it was also getting the radar. In fact, we can think of gender or the fact that you don't really care whether women are operating and serving as the receivers. It's an overall picture.</ParaText>
+              <ParaText id="8926985">We think of AI, quantum and all of this, but, ultimately, what we're saying is this: How are our enemies using this to kill us? How, then, do we detect it? How do we get into the mindset to have technology so that we are able to stop being killed? It probably means, as part of that, how do we kill our enemies? It's a very un-Canadian way of thinking.</ParaText>
+              <ParaText id="8926986">Again, going back to World War II, remember, we were leading on certain technologies at a point, but we did not think strategically, and that cost us. I mean, we had good radar development, but the Brits never really shared the huff-duff, which are underwater listening devices, because we didn't have the ability to really handle those at that point. That's the point: You have to think about how we get ready to stop someone who's trying to kill us and take all of this technology.</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164568">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926987">Mr. Malette, do you mind sharing one minute with Monsieur Savard-Tremblay?</ParaText>
+              <ParaText id="8926988">Do you want to ask the last question? Then I have some more things to discuss with the committee.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13164569">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926989"> Mr. Chair, you said that I have about a minute to ask another question. Is that right?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164570">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926990"> You can ask one question.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13164571">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926991">Ms. Shadian, you answered yes to the question about the F‑35, provided that we don't become totally dependent.</ParaText>
+              <ParaText id="8926992">Do you think that it makes sense to bring the source code back anyway?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164574">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926993">What was that about the source code?</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13164575">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926994">The source code has been reclaimed.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164576">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926995">You're getting above my technical grade. </ParaText>
+              <ParaText id="8926996">My only point is that we have to be able to figure out, if we need to do something, that we don't have to rely on someone else to help us defend ourselves. Co-operation is good—</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="FR">[<I>Translation</I>]</FloorLanguage>
+          <Intervention Type="" ToC="No" ToCText="" id="13164579">
+            <PersonSpeaking>
+              <Affiliation DbId="320719" Type="40">Simon-Pierre Savard-Tremblay</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926997">So this means that you agree.</ParaText>
+            </Content>
+          </Intervention>
+          <FloorLanguage language="EN">[<I>English</I>]</FloorLanguage>
+          <Intervention Type="Debate" ToC="No" ToCText="" id="13165470">
+            <PersonSpeaking>
+              <Affiliation DbId="243661" Type="28">Jessica M. Shadian</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926998">—but it has to be—</ParaText>
+            </Content>
+          </Intervention>
+          <Intervention Type="Interjection" ToC="No" ToCText="" id="13164583">
+            <PersonSpeaking>
+              <Affiliation DbId="320717" Type="35">The Chair</Affiliation>: </PersonSpeaking>
+            <Content>
+              <ParaText id="8926999">Thank you.</ParaText>
+              <ParaText id="8927000">Thank you to the witnesses for attending and for participating.</ParaText>
+              <ParaText id="8927001">I have one last item to discuss. We have our next meeting on Thursday. We have the witnesses. You'll be receiving a notice. I think we have already shared it.</ParaText>
+              <ParaText id="8927002"> The <Affiliation DbId="318688" Type="4">Minister of Defence</Affiliation> has confirmed his availability as well. He'll appear on Tuesday, October 21, from 3:30 to 4:30, and then the officials from DND will remain to answer questions during the second hour of that meeting.</ParaText>
+              <ParaText id="8927003">Ladies and gentlemen, thank you very much.</ParaText>
+              <ParaText id="8927004">The meeting is adjourned.</ParaText>
+            </Content>
+          </Intervention>
+        </SubjectOfBusinessContent>
+      </SubjectOfBusiness>
+    </OrderOfBusiness>
+  </HansardBody>
+</Hansard>
