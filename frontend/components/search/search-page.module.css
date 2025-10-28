@@ -1,0 +1,41 @@
+.section {
+  margin-bottom: 3rem;
+}
+
+.layout {
+  align-items: start;
+}
+
+.primary {
+  gap: 1.75rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.title {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 2.75rem);
+  color: var(--op-color-brand-navy);
+}
+
+.summary {
+  margin: 0;
+  color: var(--op-color-ink-muted);
+  font-size: 1rem;
+}
+
+.secondary {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  min-width: 0;
+}
+
+.secondary h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+}
