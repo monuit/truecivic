@@ -1,4 +1,4 @@
-// EDITED mm@openparliament -- see EDITED comment below
+// EDITED mm@truecivic -- see EDITED comment below
 
 // This is the annotated source code for
 // [VisualSearch.js](http://documentcloud.github.com/visualsearch/),
@@ -216,7 +216,7 @@ VS.ui.SearchBox = Backbone.View.extend({
     });
 
     if (model.get('value') == '') {
-      // EDITED mm@openparliament: don't focus added facet if it already has a value
+      // EDITED mm@truecivic: don't focus added facet if it already has a value
       _.defer(function() {
         facetView.enableEdit();
       });
