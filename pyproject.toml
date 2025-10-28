@@ -1,5 +1,5 @@
 [project]
-name = "openparliament"
+name = "truecivic"
 version = "0.1.0"
 description = "A website to present the goings-on of Canada's House of Commons"
 readme = "README.md"
@@ -20,6 +20,7 @@ dependencies = [
     "pysolr",
     "requests",
     "psycopg",
+    "python-dotenv",
     "webob",
     "oauth2client",
     "whitenoise",
