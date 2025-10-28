@@ -97,8 +97,8 @@
       e.preventDefault();
       OP.utils.openShareWindow('https://twitter.com/share?'
         + $.param({'url': $element.find('.statement-url').val(),
-        'via': 'openparlca',
-        'related': 'openparlca:openparliament.ca',
+        'via': 'TrueCivic',
+        'related': 'TrueCivic:truecivic.ca',
         'text': _statementDescription()
       }));
     })
