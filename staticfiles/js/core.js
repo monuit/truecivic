@@ -34,7 +34,7 @@ OP.utils = {
         if (screen.height > height) {
             top = Math.round((screen.height / 2) - (height / 2));
         }
-        window.open(url, "openparliament_share", "width=" + width +
+        window.open(url, "truecivic_share", "width=" + width +
             ",height=" + height + ",left=" + left, ",top=" + top +
             "personalbar=no,toolbar=no,scrollbars=yes,location=yes,resizable=yes");
     },
