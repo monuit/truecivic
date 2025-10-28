@@ -10,6 +10,7 @@ class KnowledgeSource(models.TextChoices):
     DEBATE = "debate", "Debate"
     COMMITTEE = "committee", "Committee"
     MEMBER = "member", "Member"
+    VOTE = "vote", "Vote"
 
 
 class KnowledgeChunk(models.Model):
