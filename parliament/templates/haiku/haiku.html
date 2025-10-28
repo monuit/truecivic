@@ -91,9 +91,9 @@
 </style>
 <meta property="og:title" content="{{ haiku.line1 }} / {{ haiku.line2 }} / {{ haiku.line3 }}">
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://openparliament.ca/labs/haiku/{{ haiku.id }}/">
+<meta property="og:url" content="https://truecivic.ca/labs/haiku/{{ haiku.id }}/">
 <meta property="og:image" content="{{ STATIC_URL }}haiku/leaves.jpg">
-<meta property="og:site_name" content="openparliament.ca">
+<meta property="og:site_name" content="TrueCivic">
 <meta property="fb:admins" content="michael.mulley">
 <script src="{{ STATIC_URL }}haiku/raphael.js" type="text/javascript" charset="utf-8"></script>
 {% endblock headextra %}
@@ -178,7 +178,7 @@ $(function () {
         return $.trim($('#line1').text()) + '\n' + $.trim($('#line2').text()) + '\n' + $.trim($('#line3').text()) + '\n';
     }
     function currentURL() {
-        return 'https://openparliament.ca' + getRelativeURL(currentHaiku);
+        return 'https://truecivic.ca' + getRelativeURL(currentHaiku);
     }
     function getRelativeURL(haiku_id) {
         return '/labs/haiku/' + haiku_id + '/';
@@ -191,15 +191,15 @@ $(function () {
         if (screen.height > height) {
             top = Math.round((screen.height / 2) - (height / 2));
         }
-        window.open(url, "openparliament_share", "width=" + width +
+        window.open(url, "truecivic_share", "width=" + width +
             ",height=" + height + ",left=" + left, ",top=" + top +
             "personalbar=no,toolbar=no,scrollbars=yes,location=yes,resizable=yes");
     }    
     $('#share_twitter').click(function (e) {
-        openShareWindow('http://twitter.com/share?'
+        openShareWindow('https://twitter.com/share?'
             + $.param({'url': currentURL(),
-            'via': 'openparlca',
-            'related': 'openparlca:openparliament.ca',
+            'via': 'TrueCivic',
+            'related': 'TrueCivic:truecivic.ca',
             'text': textHaiku()
             }));
     })
