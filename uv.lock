@@ -676,7 +676,7 @@ wheels = [
 ]
 
 [[package]]
-name = "openparliament"
+name = "truecivic"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
@@ -698,6 +698,7 @@ dependencies = [
     { name = "pillow" },
     { name = "psycopg" },
     { name = "pysolr" },
+    { name = "python-dotenv" },
     { name = "qdrant-client" },
     { name = "requests" },
     { name = "webob" },
@@ -738,6 +739,7 @@ requires-dist = [
     { name = "pillow" },
     { name = "psycopg" },
     { name = "pysolr" },
+    { name = "python-dotenv" },
     { name = "qdrant-client", specifier = ">=1.11.0" },
     { name = "redis", marker = "extra == 'production'", specifier = "<6" },
     { name = "requests" },
@@ -922,6 +924,15 @@ dependencies = [
     { name = "setuptools" },
 ]
 sdist = { url = "https://files.pythonhosted.org/packages/6d/f5/59f3375b12172651c02615ed54b9ca8e5ca7cbf6d89a8506a5daec4ed813/pysolr-3.10.0.tar.gz", hash = "sha256:127b4a2dd169234acb1586643a6cd1e3e94b917921e69bf569d7b2a2aa0ef409", size = 59110, upload-time = "2024-09-18T22:49:01.395Z" }
+
+[[package]]
+name = "python-dotenv"
+version = "1.2.1"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/f0/26/19cadc79a718c5edbec86fd4919a6b6d3f681039a2f6d66d14be94e75fb9/python_dotenv-1.2.1.tar.gz", hash = "sha256:42667e897e16ab0d66954af0e60a9caa94f0fd4ecf3aaf6d2d260eec1aa36ad6", size = 44221, upload-time = "2025-10-26T15:12:10.434Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/14/1b/a298b06749107c305e1fe0f814c6c74aea7b2f1e10989cb30f544a1b3253/python_dotenv-1.2.1-py3-none-any.whl", hash = "sha256:b81ee9561e9ca4004139c6cbba3a238c32b03e4894671e181b671e8cb8425d61", size = 21230, upload-time = "2025-10-26T15:12:09.109Z" },
+]
 
 [[package]]
 name = "pywin32"
