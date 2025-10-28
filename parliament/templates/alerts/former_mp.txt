@@ -4,14 +4,14 @@ You're signed for email alerts whenever {{ politician.name }} speaks in the Hous
 
 The new MP for the riding of {{ riding.name }} is {{ new_politician.name }}. To sign up for email alerts for {{ new_politician|himher|lower }}, visit:
 
-http://openparliament.ca/alerts/signup/?politician={{ new_politician.id }}
+https://truecivic.ca/alerts/signup/?politician={{ new_politician.id }}
 
 And to read more about {{ new_politician.name }}, visit:
 
-http://openparliament.ca{{ new_politician.get_absolute_url }}
+https://truecivic.ca{{ new_politician.get_absolute_url }}
 
 This is the last e-mail you'll get from us about {{ politician.name }}. (I'm nostalgic already.)
 
 bittersweetly yours,
-the openparliament.ca robot
+The TrueCivic robot
 {% endfilter %}{% endautoescape %}
