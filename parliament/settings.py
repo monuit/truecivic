@@ -2,9 +2,27 @@
 Production settings for truecivic Django application on Railway
 """
 
+from pathlib import Path
+
 import dj_database_url
 import os
+from dotenv import load_dotenv
+
 from .default_settings import *
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+load_dotenv(BASE_DIR / '.env', override=False)
+
+LEGACY_ENV_MAPPING = {
+    'DJANGO_DEBUG': 'DEBUG',
+    'DJANGO_SECRET_KEY': 'SECRET_KEY',
+    'DJANGO_ALLOWED_HOSTS': 'ALLOWED_HOSTS',
+}
+
+for legacy_key, canonical_key in LEGACY_ENV_MAPPING.items():
+    legacy_value = os.getenv(legacy_key)
+    if legacy_value and not os.getenv(canonical_key):
+        os.environ[canonical_key] = legacy_value
 
 # Debug must be False in production
 DEBUG = os.getenv('DEBUG', 'False') == 'True'
