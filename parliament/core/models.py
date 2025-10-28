@@ -828,7 +828,7 @@ class ElectedMember(models.Model):
 
 
 class SiteNews(models.Model):
-    """Entries for the semi-blog on the openparliament homepage."""
+    """Entries for the semi-blog on the TrueCivic homepage."""
     date = models.DateTimeField(default=datetime.datetime.now)
     title = models.CharField(max_length=200)
     text = models.TextField()
