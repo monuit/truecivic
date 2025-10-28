@@ -22,9 +22,11 @@ from parliament.summaries.models import Summary
 
 logger = logging.getLogger(__name__)
 
+
 def bill_pk_redirect(request, bill_id):
     bill = get_object_or_404(Bill, pk=bill_id)
     return HttpResponsePermanentRedirect(bill.get_absolute_url())
+
 
 class BillDetailView(ModelDetailView):
 
@@ -49,10 +51,12 @@ class BillDetailView(ModelDetailView):
 
         if request.GET.get('speech'):
             try:
-                idx = list(qs.values_list('urlcache', flat=True)).index(request.GET['speech'])
+                idx = list(qs.values_list('urlcache', flat=True)
+                           ).index(request.GET['speech'])
                 pagenum = int(idx / per_page) + 1
             except ValueError:
-                logger.warning("Speech %s not found in BillDetailView", request.GET['speech'])            
+                logger.warning(
+                    "Speech %s not found in BillDetailView", request.GET['speech'])
         try:
             return paginator.page(pagenum)
         except (EmptyPage, InvalidPage):
@@ -63,11 +67,12 @@ class BillDetailView(ModelDetailView):
 
         mentions = Statement.objects.filter(mentioned_bills=bill, document__document_type=Document.DEBATE).order_by(
             '-time', '-sequence').select_related('member', 'member__politician', 'member__riding', 'member__party')
-        
+
         debate_stages = {
             r['bill_debate_stage']: r['words']
             for r in
-            Statement.objects.filter(bill_debated=bill, procedural=False).values('bill_debate_stage').annotate(words=Sum("wordcount"))
+            Statement.objects.filter(bill_debated=bill, procedural=False).values(
+                'bill_debate_stage').annotate(words=Sum("wordcount"))
             if r['words'] > 150
         }
         meetings = bill.get_committee_meetings()
@@ -75,12 +80,12 @@ class BillDetailView(ModelDetailView):
         has_meetings = meetings.exists()
 
         tab = request.GET.get('tab', '')
-        if tab == 'major-speeches': # keep compatibility with old URLs
+        if tab == 'major-speeches':  # keep compatibility with old URLs
             tab = 'stage-2'
         if tab not in ('stage-1', 'stage-2', 'stage-3', 'stage-report', 'mentions', 'meetings'):
-            tab = ''            
+            tab = ''
         if not tab:
-            for priority in ('3','2','1'):
+            for priority in ('3', '2', '1'):
                 if debate_stages.get(priority):
                     tab = 'stage-' + priority
                     break
@@ -112,8 +117,9 @@ class BillDetailView(ModelDetailView):
             if debate_stages.get(stage_code):
                 qs = bill.get_debate_at_stage(stage_code)
                 reading_speeches = qs.select_related(
-                    'member', 'member__politician', 'member__riding', 'member__party')            
-                c['page'] = self._render_page(request, reading_speeches, per_page=per_page)
+                    'member', 'member__politician', 'member__riding', 'member__party')
+                c['page'] = self._render_page(
+                    request, reading_speeches, per_page=per_page)
                 if stage_code in ('2', '3', 'report'):
                     try:
                         c['reading_summary'] = Summary.objects.get(
@@ -130,8 +136,11 @@ class BillDetailView(ModelDetailView):
         else:
             t = loader.get_template("bills/bill_detail.html")
         return HttpResponse(t.render(c, request))
+
+
 bill = vary_on_headers('X-Requested-With')(BillDetailView.as_view())
-    
+
+
 class BillListView(ModelListView):
 
     resource_name = 'Bills'
@@ -139,14 +148,14 @@ class BillListView(ModelListView):
     filters = {
         'session': APIFilters.dbfield(help="e.g. 41-1"),
         'introduced': APIFilters.dbfield(filter_types=APIFilters.numeric_filters,
-            help="date bill was introduced, e.g. introduced__gt=2010-01-01"),
+                                         help="date bill was introduced, e.g. introduced__gt=2010-01-01"),
         'legisinfo_id': APIFilters.dbfield(help="integer ID assigned by Parliament's LEGISinfo"),
         'number': APIFilters.dbfield('number',
-            help="a string, not an integer: e.g. C-10"),
+                                     help="a string, not an integer: e.g. C-10"),
         'law': APIFilters.dbfield('law',
-            help="did it become law? True, False"),
+                                  help="did it become law? True, False"),
         'private_member_bill': APIFilters.dbfield('privatemember',
-            help="is it a private member's bill? True, False"),
+                                                  help="is it a private member's bill? True, False"),
         'status_code': APIFilters.dbfield('status_code'),
         'sponsor_politician': APIFilters.politician('sponsor_politician'),
         'sponsor_politician_membership': APIFilters.fkey(lambda u: {'sponsor_member': u[-1]}),
@@ -157,10 +166,13 @@ class BillListView(ModelListView):
 
     def get_html(self, request):
         sessions = Session.objects.with_bills()
-        len(sessions) # evaluate it
-        bills = Bill.objects.filter(session=sessions[0]).select_related('sponsor_member', 'sponsor_member__party')
-        votes = VoteQuestion.objects.select_related('bill').filter(session=sessions[0])[:6]
-        recently_debated = bills.filter(latest_debate_date__isnull=False).order_by('-latest_debate_date')[:12]
+        len(sessions)  # evaluate it
+        bills = Bill.objects.filter(session=sessions[0]).select_related(
+            'sponsor_member', 'sponsor_member__party')
+        votes = VoteQuestion.objects.select_related(
+            'bill').filter(session=sessions[0])[:6]
+        recently_debated = bills.filter(
+            latest_debate_date__isnull=False).order_by('-latest_debate_date')[:12]
 
         t = loader.get_template('bills/index.html')
         c = {
@@ -173,6 +185,8 @@ class BillListView(ModelListView):
         }
 
         return HttpResponse(t.render(c, request))
+
+
 index = BillListView.as_view()
 
 
@@ -185,7 +199,8 @@ class BillSessionListView(ModelListView):
     def get_html(self, request, session_id):
         session = get_object_or_404(Session, pk=session_id)
         bills = Bill.objects.filter(session=session)
-        votes = VoteQuestion.objects.select_related('bill').filter(session=session)[:6]
+        votes = VoteQuestion.objects.select_related(
+            'bill').filter(session=session)[:6]
 
         t = loader.get_template('bills/bill_list.html')
         c = {
@@ -195,6 +210,8 @@ class BillSessionListView(ModelListView):
             'title': 'Bills for the %s' % session
         }
         return HttpResponse(t.render(c, request))
+
+
 bills_for_session = BillSessionListView.as_view()
 
 
@@ -209,15 +226,15 @@ class VoteListView(ModelListView):
     filters = {
         'session': APIFilters.dbfield(help="e.g. 41-1"),
         'yea_total': APIFilters.dbfield(filter_types=APIFilters.numeric_filters,
-            help="# votes for"),
+                                        help="# votes for"),
         'nay_total': APIFilters.dbfield(filter_types=APIFilters.numeric_filters,
-            help="# votes against, e.g. nay_total__gt=10"),
+                                        help="# votes against, e.g. nay_total__gt=10"),
         'paired_total': APIFilters.dbfield(filter_types=APIFilters.numeric_filters,
-            help="paired votes are an odd convention that seem to have stopped in 2011"),
+                                           help="paired votes are an odd convention that seem to have stopped in 2011"),
         'date': APIFilters.dbfield(filter_types=APIFilters.numeric_filters,
-            help="date__gte=2011-01-01"),
+                                   help="date__gte=2011-01-01"),
         'number': APIFilters.dbfield(filter_types=APIFilters.numeric_filters,
-            help="every vote in a session has a sequential number"),
+                                     help="every vote in a session has a sequential number"),
         'bill': APIFilters.fkey(lambda u: {
             'bill__session': u[-2],
             'bill__number': u[-1]
@@ -247,13 +264,16 @@ class VoteListView(ModelListView):
             'title': 'Votes for the %s' % session
         }
         return HttpResponse(t.render(c, request))
+
+
 votes_for_session = VoteListView.as_view()
-        
+
+
 def vote_pk_redirect(request, vote_id):
     vote = get_object_or_404(VoteQuestion, pk=vote_id)
     return HttpResponsePermanentRedirect(
         reverse('vote', kwargs={
-        'session_id': vote.session_id, 'number': vote.number}))
+            'session_id': vote.session_id, 'number': vote.number}))
 
 
 class VoteDetailView(ModelDetailView):
@@ -268,7 +288,7 @@ class VoteDetailView(ModelDetailView):
     def get_related_resources(self, request, obj, result):
         return {
             'ballots_url': reverse('vote_ballots') + '?' +
-                urlencode({'vote': result['url']}),
+            urlencode({'vote': result['url']}),
             'votes_url': reverse('votes')
         }
 
@@ -287,6 +307,8 @@ class VoteDetailView(ModelDetailView):
         }
         t = loader.get_template("bills/votequestion_detail.html")
         return HttpResponse(t.render(c, request))
+
+
 vote = VoteDetailView.as_view()
 
 
@@ -300,10 +322,10 @@ class BallotListView(ModelListView):
                                 help="e.g. /votes/41-1/472/"),
         'politician': APIFilters.politician(),
         'politician_membership': APIFilters.fkey(lambda u: {'member': u[-1]},
-            help="e.g. /politicians/roles/326/"),
+                                                 help="e.g. /politicians/roles/326/"),
         'ballot': APIFilters.choices('vote', MemberVote),
         'dissent': APIFilters.dbfield('dissent',
-            help="does this look like a vote against party line? not reliable for research. True, False")
+                                      help="does this look like a vote against party line? not reliable for research. True, False")
     }
 
     def get_qs(self, request):
@@ -312,30 +334,33 @@ class BallotListView(ModelListView):
 
     def object_to_dict(self, obj):
         return obj.to_api_dict(representation='list')
+
+
 ballots = BallotListView.as_view()
+
 
 class BillListFeed(Feed):
     title = 'Bills in the House of Commons'
-    description = 'New bills introduced to the House, from openparliament.ca.'
+    description = 'New bills introduced to the House, from truecivic.ca.'
     link = "/bills/"
-    
+
     def items(self):
         return Bill.objects.filter(introduced__isnull=False).order_by('-introduced', 'number_only')[:25]
-    
+
     def item_title(self, item):
         return "Bill %s (%s)" % (item.number,
-            "Private member's" if item.privatemember else "Government")
-    
+                                 "Private member's" if item.privatemember else "Government")
+
     def item_description(self, item):
         return item.name
-        
+
     def item_link(self, item):
         return item.get_absolute_url()
-    
+
     def item_pubdate(self, item):
         return datetime.datetime(item.introduced.year, item.introduced.month, item.introduced.day, 12)
-        
-    
+
+
 class BillFeed(Feed):
 
     def get_object(self, request, bill_id=None, session_id=None, bill_number=None):
@@ -348,14 +373,14 @@ class BillFeed(Feed):
         return "Bill %s" % bill.number
 
     def link(self, bill):
-        return "http://openparliament.ca" + bill.get_absolute_url()
+        return "https://truecivic.ca" + bill.get_absolute_url()
 
     def description(self, bill):
-        return "From openparliament.ca, speeches about Bill %s, %s" % (bill.number, bill.name)
+        return "From truecivic.ca, speeches about Bill %s, %s" % (bill.number, bill.name)
 
     def items(self, bill):
         statements = Statement.objects.filter(document__document_type=Document.DEBATE,
-            bill_debated=bill).order_by('-time', '-sequence').select_related('member', 'member__politician', 'member__riding', 'member__party')[:10]
+                                              bill_debated=bill).order_by('-time', '-sequence').select_related('member', 'member__politician', 'member__riding', 'member__party')[:10]
         votes = bill.votequestion_set.all().order_by('-date', '-number')[:3]
         merged = list(votes) + list(statements)
         merged.sort(key=lambda i: i.date, reverse=True)
