@@ -3,7 +3,7 @@ import os
 DEBUG = False
 
 ADMINS = [
-    ('Michael Mulley', 'michael@michaelmulley.com'),
+    ('Mo Abdulhussain', 'hi@monuit.dev'),
 ]
 
 MANAGERS = ADMINS
@@ -93,7 +93,7 @@ SESSION_COOKIE_HTTPONLY = True
 SESSION_COOKIE_AGE = 60*60*24*60  # 60 days
 SESSION_COOKIE_SECURE = True
 
-PARLIAMENT_API_HOST = 'api.openparliament.ca'
+PARLIAMENT_API_HOST = 'api.truecivic.ca'
 PARLIAMENT_ROBOTS_TXT = """
 User-agent: *
 Disallow: /search
@@ -173,9 +173,14 @@ INSTALLED_APPS = [
     'parliament.text_analysis',
     'parliament.haiku',
     'parliament.summaries',
+    'parliament.orchestration',
 ]
 
 DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
+
+# Weekday ETL scheduler configuration
+ENABLE_ETL_SCHEDULER = False
+ETL_SCHEDULER_TIME_ZONE = TIME_ZONE
 
 LOGGING = {
     'version': 1,
