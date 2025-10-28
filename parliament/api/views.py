@@ -3,20 +3,23 @@ from django.shortcuts import get_object_or_404
 from parliament.hansards.models import Document
 from parliament.utils.views import JSONView
 
+
 class LegacyAPIHansardListView(JSONView):
 
     wrap = False
 
     def get(self, request):
         return [{
-            'note': "This API is deprecated. Please use the API documented on the openparliament.ca Developers page.",
+            'note': "This API is deprecated. Please use the API documented on the truecivic.ca Developers page.",
             'date': str(h.date),
             'id': h.id,
             'number': h.number,
             'api_url': '/api/hansards/%s/' % h.id
         } for h in Document.debates.all()]
 
+
 hansard_list = LegacyAPIHansardListView.as_view()
+
 
 def _serialize_statement(s):
     v = {
@@ -38,6 +41,7 @@ def _serialize_statement(s):
         }
     return v
 
+
 class LegacyAPIHansardView(JSONView):
 
     wrap = False
@@ -52,9 +56,10 @@ class LegacyAPIHansardView(JSONView):
             'parliament': doc.session.parliamentnum,
             'session': doc.session.sessnum,
             'statements': [_serialize_statement(s)
-                for s in doc.statement_set.all()
-                    .order_by('sequence')
-                    .select_related('member__politician', 'member__party', 'member__riding')]
+                           for s in doc.statement_set.all()
+                           .order_by('sequence')
+                           .select_related('member__politician', 'member__party', 'member__riding')]
         }
+
 
 hansard = LegacyAPIHansardView.as_view()
