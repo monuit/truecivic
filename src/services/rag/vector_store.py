@@ -7,8 +7,15 @@ from dataclasses import dataclass
 from typing import Iterable, Iterator, Mapping, Sequence
 from urllib.parse import urlparse
 
-from qdrant_client import QdrantClient
-from qdrant_client.http import models as qmodels
+try:  # pragma: no cover - optional dependency guard
+    from qdrant_client import QdrantClient
+    from qdrant_client.http import models as qmodels
+except ModuleNotFoundError as exc:  # pragma: no cover - exercised in tests
+    QdrantClient = None  # type: ignore[assignment]
+    qmodels = None  # type: ignore[assignment]
+    _QDRANT_IMPORT_ERROR = exc
+else:
+    _QDRANT_IMPORT_ERROR = None
 
 
 DEFAULT_HTTP_PORT = 6333
@@ -84,6 +91,10 @@ class QdrantVectorStore:
     """Thin wrapper around the Qdrant client for chunk storage."""
 
     def __init__(self, config: QdrantConfig) -> None:
+        if _QDRANT_IMPORT_ERROR is not None:  # pragma: no cover - defensive guard
+            raise RuntimeError(
+                "qdrant_client package is required to use QdrantVectorStore"
+            ) from _QDRANT_IMPORT_ERROR
         self._collection = config.collection
         self._client = QdrantClient(
             host=config.host,
