@@ -1,0 +1,215 @@
+:root {
+  color-scheme: light;
+
+  /* MARK: Brand palette */
+  --op-color-brand-primary: #0f5c6e;
+  --op-color-on-brand-primary: #ffffff;
+  --op-color-brand-secondary: #db9a18;
+  --op-color-on-brand-secondary: #1c1300;
+  --op-color-brand-tertiary: #1e3d53;
+  --op-color-on-brand-tertiary: #f4faff;
+
+  /* MARK: Surfaces */
+  --op-color-background: #f4f7f9;
+  --op-color-surface: #ffffff;
+  --op-color-surface-variant: #e3edf2;
+  --op-color-surface-container: #f1f4f6;
+  --op-color-surface-container-low: #f5f8fa;
+  --op-color-surface-container-lowest: #ffffff;
+  --op-color-surface-container-high: #e6edf1;
+  --op-color-surface-container-highest: #dce6ec;
+  --op-color-surface-body-top: #0f5c6e;
+  --op-color-surface-body-mid: #134355;
+  --op-color-surface-header: rgba(15, 92, 110, 0.94);
+  --op-color-surface-header-search: rgba(12, 68, 83, 0.9);
+  --op-color-surface-footer: #0f2e3d;
+  --op-color-surface-footer-accent: rgba(255, 255, 255, 0.08);
+
+  /* MARK: Content */
+  --op-color-on-background: rgba(17, 27, 33, 0.87);
+  --op-color-on-surface: rgba(17, 27, 33, 0.87);
+  --op-color-on-surface-variant: rgba(17, 27, 33, 0.6);
+  --op-color-on-disabled: rgba(17, 27, 33, 0.38);
+  --op-color-on-inverse-surface: rgba(248, 251, 255, 0.9);
+  --op-color-inverse-surface: #203644;
+  --op-color-surface-tint: #0f5c6e;
+  --op-color-inverse-primary: #58b5c4;
+
+  /* MARK: Status */
+  --op-color-success: #1b7a5a;
+  --op-color-on-success: #ffffff;
+  --op-color-warning: #db9a18;
+  --op-color-on-warning: #1c1300;
+  --op-color-error: #b3261e;
+  --op-color-on-error: #ffffff;
+  --op-color-info: #0f5c6e;
+  --op-color-on-info: #ffffff;
+
+  /* MARK: Outline & shadows */
+  --op-color-outline: rgba(15, 92, 110, 0.28);
+  --op-color-outline-variant: rgba(15, 92, 110, 0.12);
+  --op-color-shadow: rgba(0, 0, 0, 0.2);
+
+  /* MARK: UI element tokens */
+  --op-color-link: #0f5c6e;
+  --op-color-link-hover: #0b4350;
+  --op-color-highlight: rgba(15, 92, 110, 0.08);
+  --op-color-pill-border: rgba(15, 92, 110, 0.18);
+  --op-color-field-border: rgba(15, 92, 110, 0.2);
+  --op-color-search-button-bg: #db9a18;
+  --op-color-search-button-text: #1c1300;
+  --op-color-button-alt-bg: rgba(15, 92, 110, 0.08);
+  --op-color-button-alt-text: rgba(17, 27, 33, 0.87);
+
+  /* MARK: Motion tokens */
+  --op-motion-duration-short-1: 120ms;
+  --op-motion-duration-short-2: 200ms;
+  --op-motion-duration-medium-1: 320ms;
+  --op-motion-duration-long-1: 480ms;
+  --op-motion-ease-standard: cubic-bezier(0.2, 0, 0, 1);
+  --op-motion-ease-emphasized: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --op-motion-ease-decelerated: cubic-bezier(0.05, 0.7, 0.1, 1);
+  --op-motion-ease-accelerated: cubic-bezier(0.3, 0, 0.8, 0.15);
+
+  /* MARK: Legacy token aliases (to be deprecated) */
+  --op-color-brand-navy: var(--op-color-brand-tertiary);
+  --op-color-brand-navy-soft: #155066;
+  --op-color-brand-teal: var(--op-color-brand-primary);
+  --op-color-brand-teal-strong: #0c4857;
+  --op-color-brand-gold: var(--op-color-brand-secondary);
+  --op-color-brand-gold-muted: rgba(219, 154, 24, 0.18);
+  --op-color-brand-gold-deep: #4a3500;
+  --op-color-text-primary: var(--op-color-on-surface);
+  --op-color-text-muted: var(--op-color-on-surface-variant);
+  --op-color-text-inverse: var(--op-color-on-inverse-surface);
+  --op-color-text-link: var(--op-color-link);
+  --op-color-text-link-hover: var(--op-color-link-hover);
+  --op-color-bg-page: var(--op-color-background);
+  --op-color-bg-body-top: var(--op-color-surface-body-top);
+  --op-color-bg-body-mid: var(--op-color-surface-body-mid);
+  --op-color-bg-header: var(--op-color-surface-header);
+  --op-color-bg-header-search: var(--op-color-surface-header-search);
+  --op-color-bg-card: var(--op-color-surface-container-lowest);
+  --op-color-bg-card-alt: var(--op-color-surface-container-high);
+  --op-color-bg-footer: var(--op-color-surface-footer);
+  --op-color-bg-footer-accent: var(--op-color-surface-footer-accent);
+  --op-color-border-header: var(--op-color-outline);
+  --op-color-border-search: var(--op-color-outline);
+  --op-color-border-card: var(--op-color-outline-variant);
+  --op-color-border-pill: var(--op-color-pill-border);
+  --op-color-border-field: var(--op-color-field-border);
+  --op-color-shadow-card: rgba(15, 92, 110, 0.12);
+  --op-color-shadow-card-strong: rgba(15, 92, 110, 0.16);
+  --op-color-tag-success-bg: rgba(27, 122, 90, 0.12);
+  --op-color-tag-success-text: var(--op-color-success);
+  --op-color-tag-danger-bg: rgba(179, 38, 30, 0.12);
+  --op-color-tag-danger-text: var(--op-color-error);
+  --op-color-tag-warning-bg: rgba(219, 154, 24, 0.16);
+  --op-color-tag-warning-text: var(--op-color-warning);
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --op-color-brand-primary: #4ec4cc;
+  --op-color-on-brand-primary: #042529;
+  --op-color-brand-secondary: #ffc861;
+  --op-color-on-brand-secondary: #2a1a00;
+  --op-color-brand-tertiary: #7fd1f0;
+  --op-color-on-brand-tertiary: #04161f;
+
+  --op-color-background: #121212;
+  --op-color-surface: #121212;
+  --op-color-surface-variant: #22333a;
+  --op-color-surface-container: #182327;
+  --op-color-surface-container-low: #131c20;
+  --op-color-surface-container-lowest: #0d1417;
+  --op-color-surface-container-high: #1f2e36;
+  --op-color-surface-container-highest: #273944;
+  --op-color-surface-body-top: #0a1b24;
+  --op-color-surface-body-mid: #0f2b36;
+  --op-color-surface-header: rgba(7, 25, 34, 0.9);
+  --op-color-surface-header-search: rgba(6, 27, 36, 0.92);
+  --op-color-surface-footer: #091920;
+  --op-color-surface-footer-accent: rgba(78, 196, 204, 0.12);
+
+  --op-color-on-background: rgba(226, 238, 245, 0.87);
+  --op-color-on-surface: rgba(226, 238, 245, 0.87);
+  --op-color-on-surface-variant: rgba(226, 238, 245, 0.6);
+  --op-color-on-disabled: rgba(226, 238, 245, 0.38);
+  --op-color-on-inverse-surface: #0a1a21;
+  --op-color-inverse-surface: #e7f3f6;
+  --op-color-surface-tint: #4ec4cc;
+  --op-color-inverse-primary: #0f5c6e;
+
+  --op-color-success: #78e1b9;
+  --op-color-on-success: #06291c;
+  --op-color-warning: #ffc861;
+  --op-color-on-warning: #2a1a00;
+  --op-color-error: #f2b8b5;
+  --op-color-on-error: #601410;
+  --op-color-info: #4ec4cc;
+  --op-color-on-info: #042529;
+
+  --op-color-outline: rgba(78, 196, 204, 0.32);
+  --op-color-outline-variant: rgba(78, 196, 204, 0.16);
+  --op-color-shadow: rgba(0, 0, 0, 0.7);
+
+  --op-color-link: #7fd1f0;
+  --op-color-link-hover: #a8ebff;
+  --op-color-highlight: rgba(78, 196, 204, 0.14);
+  --op-color-pill-border: rgba(78, 196, 204, 0.2);
+  --op-color-field-border: rgba(78, 196, 204, 0.22);
+  --op-color-search-button-bg: #ffc861;
+  --op-color-search-button-text: #2a1a00;
+  --op-color-button-alt-bg: rgba(78, 196, 204, 0.14);
+  --op-color-button-alt-text: rgba(226, 238, 245, 0.87);
+
+  /* MARK: Overlay tokens for elevation */
+  --op-overlay-0dp: rgba(255, 255, 255, 0);
+  --op-overlay-1dp: rgba(255, 255, 255, 0.05);
+  --op-overlay-2dp: rgba(255, 255, 255, 0.07);
+  --op-overlay-3dp: rgba(255, 255, 255, 0.08);
+  --op-overlay-4dp: rgba(255, 255, 255, 0.09);
+  --op-overlay-6dp: rgba(255, 255, 255, 0.11);
+  --op-overlay-8dp: rgba(255, 255, 255, 0.12);
+  --op-overlay-12dp: rgba(255, 255, 255, 0.14);
+  --op-overlay-16dp: rgba(255, 255, 255, 0.15);
+  --op-overlay-24dp: rgba(255, 255, 255, 0.16);
+
+  /* MARK: Legacy token aliases (to be deprecated) */
+  --op-color-brand-navy: var(--op-color-brand-tertiary);
+  --op-color-brand-navy-soft: #244c5a;
+  --op-color-brand-teal: var(--op-color-brand-primary);
+  --op-color-brand-teal-strong: #3b94a0;
+  --op-color-brand-gold: var(--op-color-brand-secondary);
+  --op-color-brand-gold-muted: rgba(255, 200, 97, 0.24);
+  --op-color-brand-gold-deep: #fed68d;
+  --op-color-text-primary: var(--op-color-on-surface);
+  --op-color-text-muted: var(--op-color-on-surface-variant);
+  --op-color-text-inverse: var(--op-color-on-inverse-surface);
+  --op-color-text-link: var(--op-color-link);
+  --op-color-text-link-hover: var(--op-color-link-hover);
+  --op-color-bg-page: var(--op-color-background);
+  --op-color-bg-body-top: var(--op-color-surface-body-top);
+  --op-color-bg-body-mid: var(--op-color-surface-body-mid);
+  --op-color-bg-header: var(--op-color-surface-header);
+  --op-color-bg-header-search: var(--op-color-surface-header-search);
+  --op-color-bg-card: color-mix(in srgb, var(--op-color-surface-container) 88%, var(--op-overlay-2dp));
+  --op-color-bg-card-alt: color-mix(in srgb, var(--op-color-surface-container-high) 82%, var(--op-overlay-4dp));
+  --op-color-bg-footer: var(--op-color-surface-footer);
+  --op-color-bg-footer-accent: var(--op-color-surface-footer-accent);
+  --op-color-border-header: var(--op-color-outline);
+  --op-color-border-search: var(--op-color-outline);
+  --op-color-border-card: var(--op-color-outline-variant);
+  --op-color-border-pill: var(--op-color-pill-border);
+  --op-color-border-field: var(--op-color-field-border);
+  --op-color-shadow-card: rgba(0, 0, 0, 0.6);
+  --op-color-shadow-card-strong: rgba(0, 0, 0, 0.7);
+  --op-color-tag-success-bg: rgba(120, 225, 185, 0.22);
+  --op-color-tag-success-text: var(--op-color-success);
+  --op-color-tag-danger-bg: rgba(242, 184, 181, 0.18);
+  --op-color-tag-danger-text: var(--op-color-error);
+  --op-color-tag-warning-bg: rgba(255, 200, 97, 0.22);
+  --op-color-tag-warning-text: var(--op-color-warning);
+}
