@@ -26,7 +26,8 @@ class TopicManager(models.Manager):
     def get_or_create_by_query(self, query):
         query_obj = SearchQuery(query)
         if 'Date' in query_obj.filters:
-            del query_obj.filters['Date']  # Date filters make no sense in alerts
+            # Date filters make no sense in alerts
+            del query_obj.filters['Date']
         normalized_query = query_obj.normalized_query
         if not normalized_query:
             raise ValueError("Invalid query")
@@ -53,11 +54,11 @@ class Topic(models.Model):
 
     def get_search_query(self, limit=25):
         query_obj = SearchQuery(self.query, limit=limit,
-            user_params={'sort': 'date desc'},
-            full_text=self.politician_hansard_alert,
-            solr_params={
-                'mm': '100%' # match all query terms
-            })
+                                user_params={'sort': 'date desc'},
+                                full_text=self.politician_hansard_alert,
+                                solr_params={
+                                    'mm': '100%'  # match all query terms
+                                })
 
         # Only look for items newer than 60 days
         today = datetime.date.today()
@@ -79,8 +80,9 @@ class Topic(models.Model):
         result_ids = set((result['url'] for result in query_obj.documents))
         if result_ids:
             ids_seen = set(
-                SeenItem.objects.filter(topic=self, item_id__in=list(result_ids))
-                    .values_list('item_id', flat=True)
+                SeenItem.objects.filter(
+                    topic=self, item_id__in=list(result_ids))
+                .values_list('item_id', flat=True)
             )
             result_ids -= ids_seen
 
@@ -95,12 +97,13 @@ class Topic(models.Model):
                 for result_id in result_ids
             ])
 
-        items = [r for r in reversed(query_obj.documents) if r['url'] in result_ids]
+        items = [r for r in reversed(
+            query_obj.documents) if r['url'] in result_ids]
 
         if self.politician_hansard_alert:
             # Remove procedural stuff by the Speaker
             items = [r for r in items
-                if 'Speaker' not in r['politician'] or len(r['full_text']) > 1200]
+                     if 'Speaker' not in r['politician'] or len(r['full_text']) > 1200]
 
         return items
 
@@ -202,7 +205,7 @@ class Subscription(models.Model):
             else:
                 subj = documents[0]['politician'] + ' spoke in the House'
         else:
-            subj = 'New from openparliament.ca for %s' % self.topic.query
+            subj = 'New from truecivic.ca for %s' % self.topic.query
         return subj[:200]
 
     def send_email(self, documents):
@@ -210,7 +213,7 @@ class Subscription(models.Model):
         msg = EmailMultiAlternatives(
             self.get_subject_line(documents),
             rendered['text'],
-            '"openparliament.ca alerts" <alerts@contact.openparliament.ca>',
+            '"TrueCivic alerts" <alerts@contact.truecivic.ca>',
             [self.user.email],
             headers={
                 'List-Unsubscribe': '<' + self.get_unsubscribe_url(full=True) + '>',
@@ -235,6 +238,7 @@ class Subscription(models.Model):
             self.last_sent = datetime.datetime.now()
             self.save()
         else:
-            logger.error("settings.PARLIAMENT_SEND_EMAIL must be True to send mail")
+            logger.error(
+                "settings.PARLIAMENT_SEND_EMAIL must be True to send mail")
             print(msg.subject)
             print(msg.body)
