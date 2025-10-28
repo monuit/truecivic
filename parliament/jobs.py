@@ -130,3 +130,5 @@ def rag_ingest():
         return
     ingestor.sync_recent_hansards()
     ingestor.sync_recent_bills()
+    ingestor.sync_members()
+    ingestor.sync_committees()
