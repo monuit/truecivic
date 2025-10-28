@@ -23,21 +23,23 @@ from parliament.core.models import Politician
 from parliament.core.views import disable_on_readonly_db
 from parliament.utils.views import JSONView
 
+
 class PoliticianAlertForm(forms.Form):
 
     email = forms.EmailField(label='Your email',
-        widget=forms.widgets.EmailInput(attrs={'class': 'input-group-field'}))
+                             widget=forms.widgets.EmailInput(attrs={'class': 'input-group-field'}))
     politician = forms.IntegerField(widget=forms.HiddenInput)
     captcha = ReCaptchaField(widget=ReCaptchaV2Invisible)
+
 
 @disable_on_readonly_db
 def politician_hansard_signup(request):
     try:
         politician_id = int(re.sub(r'\D', '',
-            (request.POST if request.method == 'POST' else request.GET).get('politician', '')))
+                                   (request.POST if request.method == 'POST' else request.GET).get('politician', '')))
     except ValueError:
         raise Http404
- 
+
     pol = get_object_or_404(Politician, pk=politician_id)
     success = False
     if request.method == 'POST':
@@ -54,22 +56,23 @@ def politician_hansard_signup(request):
                     _generate_query_for_politician(pol),
                     request.authenticated_email_user
                 )
-                messages.success(request, "You're signed up for alerts for %s." % pol.name)
+                messages.success(
+                    request, "You're signed up for alerts for %s." % pol.name)
                 return HttpResponseRedirect(reverse('alerts_list'))
 
             key = "%s,%s" % (politician_id, form.cleaned_data['email'])
             signed_key = TimestampSigner(salt='alerts_pol_subscribe').sign(key)
             activate_url = reverse('alerts_pol_subscribe',
-                kwargs={'signed_key': signed_key})
+                                   kwargs={'signed_key': signed_key})
             activation_context = {
                 'pol': pol,
                 'activate_url': activate_url,
             }
             t = loader.get_template("alerts/activate.txt")
             send_mail(subject='Confirmation required: Email alerts about %s' % pol.name,
-                message=t.render(activation_context, request),
-                from_email='alerts@contact.openparliament.ca',
-                recipient_list=[form.cleaned_data['email']])
+                      message=t.render(activation_context, request),
+                      from_email='alerts@contact.truecivic.ca',
+                      recipient_list=[form.cleaned_data['email']])
 
             success = True
     else:
@@ -79,7 +82,7 @@ def politician_hansard_signup(request):
         if request.authenticated_email:
             initial['email'] = request.authenticated_email
         form = PoliticianAlertForm(initial=initial)
-        
+
     c = {
         'form': form,
         'success': success,
@@ -95,15 +98,17 @@ def politician_hansard_signup(request):
 def alerts_list(request):
     if not request.authenticated_email:
         return render(request, 'alerts/list_unauthenticated.html',
-            {'title': 'Email alerts'})
+                      {'title': 'Email alerts'})
 
     user = User.objects.get(email=request.authenticated_email)
 
     if request.session.get('pending_alert'):
-        Subscription.objects.get_or_create_by_query(request.session['pending_alert'], user)
+        Subscription.objects.get_or_create_by_query(
+            request.session['pending_alert'], user)
         del request.session['pending_alert']
 
-    subscriptions = Subscription.objects.filter(user=user).select_related('topic')
+    subscriptions = Subscription.objects.filter(
+        user=user).select_related('topic')
 
     t = loader.get_template('alerts/list.html')
     c = {
@@ -133,10 +138,13 @@ class CreateAlertView(JSONView):
             return self.redirect(reverse('alerts_list'))
         user = User.objects.get(email=user_email)
         try:
-            subscription = Subscription.objects.get_or_create_by_query(query, user)
+            subscription = Subscription.objects.get_or_create_by_query(
+                query, user)
             return True
         except ValueError:
             raise NotImplementedError
+
+
 create_alert = CreateAlertView.as_view()
 
 
@@ -158,10 +166,14 @@ class ModifyAlertView(JSONView):
             subscription.delete()
 
         return True
+
+
 modify_alert = ModifyAlertView.as_view()
+
 
 def _generate_query_for_politician(pol):
     return 'MP: "%s" Type: "debate"' % pol.identifier
+
 
 @disable_on_readonly_db
 def politician_hansard_subscribe(request, signed_key):
@@ -169,7 +181,8 @@ def politician_hansard_subscribe(request, signed_key):
         'key_error': False
     }
     try:
-        key = TimestampSigner(salt='alerts_pol_subscribe').unsign(signed_key, max_age=60*60*24*90)
+        key = TimestampSigner(salt='alerts_pol_subscribe').unsign(
+            signed_key, max_age=60*60*24*90)
         politician_id, _, email = key.partition(',')
         pol = get_object_or_404(Politician, id=politician_id)
         if not pol.current_member:
@@ -203,7 +216,7 @@ def unsubscribe(request, key):
     try:
         subscription_id = Signer(salt='alerts_unsubscribe').unsign(key)
         subscription = get_object_or_404(Subscription, id=subscription_id)
-        
+
         if request.method == 'POST':
             # Only unsubscribe on POST request
             if settings.PARLIAMENT_DB_READONLY:
@@ -228,7 +241,7 @@ def unsubscribe(request, key):
 def bounce_webhook(request):
     """
     Simple view to process bounce reports delivered via webhook.
-    
+
     Currently support Mandrill and Amazon SES.
     """
     sns_message_type = request.META.get('HTTP_X_AMZ_SNS_MESSAGE_TYPE')
@@ -238,14 +251,18 @@ def bounce_webhook(request):
             data = json.loads(json.loads(request.body)['Message'])
             ntype = data['notificationType']
             if ntype == 'Bounce':
-                recipients = [b['emailAddress'] for b in data['bounce']['bouncedRecipients']]
+                recipients = [b['emailAddress']
+                              for b in data['bounce']['bouncedRecipients']]
             elif ntype == 'Complaint':
-                recipients = [b['emailAddress'] for b in data['complaint']['complainedRecipients']]
-                mail_admins("SES complaint (%r)" % recipients, json.dumps(data, indent=2))
+                recipients = [b['emailAddress']
+                              for b in data['complaint']['complainedRecipients']]
+                mail_admins("SES complaint (%r)" %
+                            recipients, json.dumps(data, indent=2))
             else:
-                mail_admins("Unhandled SES notification", json.dumps(data, indent=2))
+                mail_admins("Unhandled SES notification",
+                            json.dumps(data, indent=2))
                 return HttpResponse('OK')
-            
+
             for recipient in recipients:
                 if ntype == 'Bounce' and data['bounce']['bounceType'] in ('Transient', 'Undetermined'):
                     try:
@@ -257,14 +274,14 @@ def bounce_webhook(request):
                         pass
                 else:
                     User.objects.filter(email=recipient).update(email_bouncing=True,
-                        email_bounce_reason=request.body)
+                                                                email_bounce_reason=request.body)
         except KeyError:
             mail_admins("Unhandled SES notification", request.body)
     elif 'mandrill_events' in request.POST:
         for event in json.loads(request.POST['mandrill_events']):
             if 'bounce' in event['event']:
                 User.objects.filter(email=event['msg']['email']).update(email_bouncing=True,
-                    email_bounce_reason=json.dumps(event))
+                                                                        email_bounce_reason=json.dumps(event))
     else:
         raise Http404
 
