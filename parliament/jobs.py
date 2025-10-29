@@ -3,6 +3,7 @@ import time
 
 from django.db import transaction, models
 from django.conf import settings
+from django.utils import timezone
 
 from parliament.imports import parlvotes, legisinfo, parl_document, parl_cmte
 from parliament.imports.mps import update_mps_from_ourcommons
@@ -12,6 +13,7 @@ from parliament.activity import utils as activityutils
 from parliament.activity.models import Activity
 from parliament.text_analysis import corpora
 from parliament.summaries.generation import update_hansard_summaries, update_reading_summaries
+from parliament.orchestration.watermarks import get_watermark, update_watermark
 from parliament.rag.ingest import RagIngestor
 from src.services.ai.embedding_service import EmbeddingConfig, EmbeddingService
 
@@ -73,10 +75,17 @@ def hansards_load():
     parl_document.fetch_latest_debates()
 
 
-def hansards_parse():
-    for hansard in Document.objects.filter(document_type=Document.DEBATE)\
-        .annotate(scount=models.Count('statement'))\
-            .exclude(scount__gt=0).exclude(skip_parsing=True).order_by('date').iterator():
+def hansards_parse() -> list[Document]:
+    processed: list[Document] = []
+    queryset = (
+        Document.objects.filter(document_type=Document.DEBATE)
+        .annotate(scount=models.Count('statement'))
+        .exclude(scount__gt=0)
+        .exclude(skip_parsing=True)
+        .order_by('date')
+        .iterator()
+    )
+    for hansard in queryset:
         with transaction.atomic():
             try:
                 with transaction.atomic():
@@ -86,14 +95,42 @@ def hansards_parse():
                 logger.exception(
                     "Hansard parse failure on #%s: %r" % (hansard.id, e))
                 continue
-            # now reload the Hansard to get the date
             hansard = Document.objects.get(pk=hansard.id)
             hansard.save_activity()
+            processed.append(hansard)
+    return processed
 
 
 def hansards():
     hansards_load()
-    hansards_parse()
+    processed = hansards_parse()
+    if not processed:
+        return
+
+    watermark = get_watermark("hansards")
+
+    def _timestamp(doc: Document):
+        ts = doc.last_imported or timezone.now()
+        if timezone.is_naive(ts):
+            ts = timezone.make_aware(ts, timezone=timezone.utc)
+        return ts
+
+    latest_doc = max(processed, key=_timestamp)
+    latest_ts = _timestamp(latest_doc)
+    if (
+        watermark.timestamp is None
+        or latest_ts > watermark.timestamp
+        or str(latest_doc.source_id) != (watermark.token or "")
+    ):
+        update_watermark(
+            "hansards",
+            token=str(latest_doc.source_id),
+            timestamp=latest_ts,
+            metadata={
+                "source_id": latest_doc.source_id,
+                "date": latest_doc.date.isoformat() if latest_doc.date else None,
+            },
+        )
 
 
 def reimport():
