@@ -11,6 +11,7 @@ import difflib
 import re
 import sys
 from xml.sax.saxutils import quoteattr
+from typing import Protocol
 
 from django.urls import reverse
 from django.db import transaction, models
@@ -23,9 +24,22 @@ from parliament.core.models import Politician, ElectedMember, Session
 from parliament.hansards.models import Statement, Document, OldSlugMapping
 from . import alpheus
 from .legisinfo import OldBillException
+from .hansard_downloader import (
+    DebateSource,
+    NoDocumentFound,
+    build_numeric_debate_source,
+    download_debate,
+)
 
 import logging
 logger = logging.getLogger(__name__)
+
+
+class DebateListingProvider(Protocol):
+    """Provides a sequence of debates to import for a session."""
+
+    def iter_new_debates(self, session: Session) -> Iterable[DebateSource]:
+        ...
 
 class ReimportException(Exception):
     pass
@@ -341,21 +355,14 @@ def _build_tag(name, attrs):
         ''.join([" %s=%s" % (k, quoteattr(str(v))) for k,v in sorted(attrs.items())])
     )
 
-def _test_has_paragraph_ids(elem):
-    """Do all, or almost all, of the paragraphs in this document have ID attributes? 
-    Sometimes they're missing at first."""
-    paratext = elem.xpath('//ParaText')
-    paratext_with_id = [pt for pt in paratext if pt.get('id')]
-    return (len(paratext_with_id) / float(len(paratext))) > 0.95
-
-HANSARD_URL = 'https://www.ourcommons.ca/Content/House/{parliamentnum}{sessnum}/Debates/{sitting:03d}/HAN{sitting:03d}-{lang}.XML'
-
-class NoDocumentFound(Exception):
-    pass
-
-def fetch_latest_debates(session=None):
+def fetch_latest_debates(session=None, listing_provider: DebateListingProvider | None = None):
     if not session:
         session = Session.objects.current()
+
+    if listing_provider:
+        for source in listing_provider.iter_new_debates(session):
+            download_debate(session, source)
+        return
 
     sittings = Document.objects.filter(
         document_type=Document.DEBATE, session=session).values_list(
@@ -371,51 +378,10 @@ def fetch_latest_debates(session=None):
     while True:
         max_sitting += 1
         try:
-            fetch_debate_for_sitting(session, max_sitting)
+            source = build_numeric_debate_source(session, max_sitting)
+            download_debate(session, source)
         except NoDocumentFound:
             break
-
-
-def fetch_debate_for_sitting(session, sitting_number, import_without_paragraph_ids=True):
-    url_en = HANSARD_URL.format(parliamentnum=session.parliamentnum,
-        sessnum=session.sessnum, sitting=sitting_number, lang='E')
-    resp = requests.get(url_en)
-    if resp.status_code != 200:
-        if resp.status_code != 404:
-            logger.error("Response %d from %s", resp.status_code, url_en)
-        raise NoDocumentFound
-    print(url_en)
-    xml_en = resp.content.replace(b'\r\n', b'\n')
-
-    url_fr = HANSARD_URL.format(parliamentnum=session.parliamentnum,
-        sessnum=session.sessnum, sitting=sitting_number, lang='F')
-    resp = requests.get(url_fr)
-    resp.raise_for_status()
-    xml_fr = resp.content.replace(b'\r\n', b'\n')
-
-    doc_en = etree.fromstring(xml_en)
-    doc_fr = etree.fromstring(xml_fr)
-
-    source_id = int(doc_en.get('id'))
-    if Document.objects.filter(source_id=source_id).exists():
-        raise Exception("Document at source_id %s already exists but not sitting %s" %
-            (source_id, sitting_number))
-    assert int(doc_fr.get('id')) == source_id
-
-    if ((not import_without_paragraph_ids) and
-            not (_test_has_paragraph_ids(doc_en) and _test_has_paragraph_ids(doc_fr))):
-        logger.warning("Missing paragraph IDs, cancelling")
-        return
-
-    with transaction.atomic():
-        doc = Document.objects.create(
-            document_type=Document.DEBATE,
-            session=session,
-            source_id=source_id,
-            number=str(sitting_number)
-        )
-        doc.save_xml(url_en, xml_en, xml_fr)
-        logger.info("Saved sitting %s", doc.number)
 
 def _remove_whitespace(text: str) -> str:
     return re.sub(r'\s+', '', text)
