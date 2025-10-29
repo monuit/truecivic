@@ -2,17 +2,18 @@
 
 from collections import defaultdict, OrderedDict
 import datetime
+import hashlib
 import os
-from pathlib import Path
 import re
 from typing import Literal
 
-from django.db import models
+from django.db import models, transaction
 from django.conf import settings
 from django.urls import reverse
 from django.template.defaultfilters import slugify
 from django.utils.html import strip_tags
 from django.utils.safestring import mark_safe
+from django.utils import timezone
 
 from parliament.core.models import Session, ElectedMember, Politician
 from parliament.core import parsetools
@@ -22,6 +23,11 @@ from parliament.search.index import register_search_model
 
 import logging
 logger = logging.getLogger(__name__)
+
+
+class DocumentXmlMissing(Exception):
+    """Raised when XML blobs are unavailable for a document."""
+
 
 class DebateManager(models.Manager):
 
@@ -272,38 +278,144 @@ class Document(models.Model):
                         'wordcount': wordcount,
                     }, politician=pol, date=self.date, guid='cmte_%s' % url, variety='committee')
         
-    def get_xml_path(self, language: Literal['en', 'fr']) -> Path:
-        assert language in ('en', 'fr')
-        if hasattr(settings, 'HANSARD_CACHE_DIR'):
-            basepath = Path(settings.HANSARD_CACHE_DIR)
-        else:
-            basepath = Path(settings.MEDIA_ROOT) / 'document_cache'
-        
-        if self.document_type == self.DEBATE:
-            assert self.number
-            return (basepath / 'debates' / self.session.id /
-                                f"{self.session.id}-{self.number}-{language}.xml")
-        elif self.document_type == self.EVIDENCE:
-            assert self.date
-            return (basepath / 'evidence' / str(self.date.year) / str(self.date.month) /
-                                f"{self.source_id}-{language}.xml")
+    def _get_xml_record(
+        self,
+        *,
+        create: bool = False,
+        for_update: bool = False,
+    ) -> "DocumentXml":
+        queryset = DocumentXml.objects
+        if for_update:
+            queryset = queryset.select_for_update()
+        try:
+            return queryset.get(document=self)
+        except DocumentXml.DoesNotExist:
+            if not create:
+                raise DocumentXmlMissing(f"No XML cached for document #{self.pk}")
+            return DocumentXml(document=self)
 
-    def get_cached_xml(self, language: Literal['en', 'fr']) -> bytes:
-        if not self.downloaded:
-            raise Exception("Not yet downloaded")
-        return self.get_xml_path(language).read_bytes()
-   
-    def save_xml(self, source_url, xml_en: bytes, xml_fr: bytes, overwrite=False):
-        path_en = self.get_xml_path('en')
-        path_fr = self.get_xml_path('fr')
-        if not overwrite and (path_en.exists() or path_fr.exists()):
-            raise Exception("XML files already exist")
-        path_en.parent.mkdir(parents=True, exist_ok=True)
-        path_en.write_bytes(xml_en)
-        path_fr.write_bytes(xml_fr)
-        self.xml_source_url = source_url
-        self.downloaded = True
+    def get_cached_xml(self, language: Literal['en', 'fr'], *, verify: bool = True) -> bytes:
+        record = self._get_xml_record()
+        blob = record.get_xml(language)
+        if blob is None:
+            raise DocumentXmlMissing(f"Missing {language} XML for document #{self.pk}")
+        if verify and not record.verify_checksum(language, blob):
+            raise DocumentXmlMissing(
+                f"Checksum mismatch for document #{self.pk} language={language}"
+            )
+        return blob
+
+    def has_cached_xml(self, language: Literal['en', 'fr']) -> bool:
+        try:
+            record = self._get_xml_record()
+        except DocumentXmlMissing:
+            return False
+        return record.get_xml(language) is not None
+
+    def save_xml(
+        self,
+        source_url: str,
+        xml_en: bytes,
+        xml_fr: bytes,
+        *,
+        overwrite: bool = False,
+    ) -> None:
+        if not xml_en or not xml_fr:
+            raise ValueError("Both English and French XML payloads are required")
+
+        with transaction.atomic():
+            record = self._get_xml_record(create=True, for_update=True)
+            if not overwrite and record.has_payload:
+                raise Exception("XML payload already exists; pass overwrite=True to replace")
+            record.store_xml(
+                source_url_en=source_url,
+                xml_en=xml_en,
+                xml_fr=xml_fr,
+            )
+            self.xml_source_url = source_url
+            self.downloaded = True
+            self.save(update_fields=["xml_source_url", "downloaded"])
+
+
+class DocumentXml(models.Model):
+    document = models.OneToOneField(
+        'hansards.Document',
+        on_delete=models.CASCADE,
+        related_name="xml_blob",
+    )
+    xml_en = models.BinaryField(blank=True, null=True)
+    xml_fr = models.BinaryField(blank=True, null=True)
+    checksum_en = models.CharField(max_length=64, blank=True)
+    checksum_fr = models.CharField(max_length=64, blank=True)
+    source_url_en = models.URLField(blank=True)
+    source_url_fr = models.URLField(blank=True)
+    last_verified_at = models.DateTimeField(blank=True, null=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        verbose_name = "Document XML"
+        verbose_name_plural = "Document XML"
+
+    @property
+    def has_payload(self) -> bool:
+        return bool(self.xml_en or self.xml_fr)
+
+    def store_xml(
+        self,
+        *,
+        source_url_en: str,
+        xml_en: bytes,
+        xml_fr: bytes,
+    ) -> None:
+        if not xml_en or not xml_fr:
+            raise ValueError("Both English and French XML payloads are required")
+
+        self.xml_en = xml_en
+        self.xml_fr = xml_fr
+        self.checksum_en = hashlib.sha256(xml_en).hexdigest()
+        self.checksum_fr = hashlib.sha256(xml_fr).hexdigest()
+        self.source_url_en = source_url_en
+        if source_url_en and "-E." in source_url_en:
+            self.source_url_fr = source_url_en.replace("-E.", "-F.")
+        elif source_url_en:
+            self.source_url_fr = source_url_en
+        else:
+            self.source_url_fr = ""
+        self.last_verified_at = timezone.now()
         self.save()
+
+    def get_xml(self, language: Literal['en', 'fr']) -> bytes | None:
+        if language == 'en':
+            return self.xml_en
+        if language == 'fr':
+            return self.xml_fr
+        raise ValueError(f"Unsupported language: {language}")
+
+    def verify_checksum(self, language: Literal['en', 'fr'], payload: bytes) -> bool:
+        checksum = self.checksum_en if language == 'en' else self.checksum_fr
+        if not payload:
+            return False
+        computed = hashlib.sha256(payload).hexdigest()
+        if not checksum:
+            # Backfill checksum if missing
+            if language == 'en':
+                self.checksum_en = computed
+            else:
+                self.checksum_fr = computed
+            self.last_verified_at = timezone.now()
+            self.save(update_fields=[
+                'checksum_en' if language == 'en' else 'checksum_fr',
+                'last_verified_at',
+                'updated_at',
+            ])
+            return True
+        if checksum == computed:
+            self.last_verified_at = timezone.now()
+            self.save(update_fields=['last_verified_at', 'updated_at'])
+            return True
+        return False
+
 
 @register_search_model
 class Statement(models.Model):
