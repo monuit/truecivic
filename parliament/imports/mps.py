@@ -1,14 +1,18 @@
 # coding: utf-8
 
+import json
 import logging
-from parliament.core.models import Politician, Session, Riding, Party
-from django.db import transaction
 from time import sleep
-import hashlib
 from urllib.parse import urljoin
 
+import hashlib
 import lxml.html
 import requests
+from django.db import transaction
+from django.utils import timezone
+
+from parliament.core.models import Politician, Session, Riding, Party
+from parliament.orchestration.watermarks import get_watermark, update_watermark
 
 logger = logging.getLogger(__name__)
 
@@ -20,6 +24,16 @@ IMAGE_PLACEHOLDER_SHA1 = ['e4060a9eeaf3b4f54e6c16f5fb8bf2c26962e15d']
 Importers for MP data, from ourcommons.ca or represent.opennorth.ca
 """
 
+
+def _fingerprint_dataset(records):
+    canonical = [
+        json.dumps(record, sort_keys=True, separators=(',', ':'))
+        for record in records
+    ]
+    canonical.sort()
+    payload = '\n'.join(canonical).encode('utf-8')
+    return hashlib.sha1(payload).hexdigest()
+
 def update_mps_from_represent(download_headshots=False, update_all_headshots=False):
 
     resp = requests.get(
@@ -27,11 +41,61 @@ def update_mps_from_represent(download_headshots=False, update_all_headshots=Fal
     resp.raise_for_status()
     data = resp.json()
 
-    return _import_mps(data['objects'], download_headshots, update_all_headshots)
+    return import_mps_dataset(
+        data['objects'],
+        download_headshots=download_headshots,
+        update_all_headshots=update_all_headshots,
+        source='represent',
+    )
 
 def update_mps_from_ourcommons(download_headshots=False, update_all_headshots=False):
     data = scrape_mps_from_ourcommons()
-    return _import_mps(data, download_headshots, update_all_headshots)
+    return import_mps_dataset(
+        data,
+        download_headshots=download_headshots,
+        update_all_headshots=update_all_headshots,
+        source='ourcommons',
+    )
+
+
+def import_mps_dataset(
+    dataset,
+    download_headshots=False,
+    update_all_headshots=False,
+    *,
+    source: str = 'generic',
+):
+    """Import MPs using a pre-fetched iterable of dictionaries."""
+
+    records = list(dataset)
+    if not records:
+        return False
+
+    fingerprint = _fingerprint_dataset(records)
+    job_name = f"mps.{source}"
+    watermark = get_watermark(job_name)
+    metadata = dict(watermark.metadata or {})
+    unchanged_dataset = metadata.get('fingerprint') == fingerprint
+
+    if (
+        unchanged_dataset
+        and not download_headshots
+        and not update_all_headshots
+    ):
+        return False
+
+    _import_mps(records, download_headshots, update_all_headshots)
+    update_watermark(
+        job_name,
+        token=fingerprint,
+        timestamp=timezone.now(),
+        metadata={
+            'fingerprint': fingerprint,
+            'count': len(records),
+            'source': source,
+        },
+    )
+    return True
 
 def _import_mps(objs, download_headshots=False, update_all_headshots=False):
     """
