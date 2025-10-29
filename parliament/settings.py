@@ -24,6 +24,14 @@ for legacy_key, canonical_key in LEGACY_ENV_MAPPING.items():
     if legacy_value and not os.getenv(canonical_key):
         os.environ[canonical_key] = legacy_value
 
+ENABLE_ETL_SCHEDULER = os.getenv("ENABLE_ETL_SCHEDULER", "false").strip().lower() in {
+    "1",
+    "true",
+    "yes",
+    "on",
+}
+ETL_SCHEDULER_TIME_ZONE = os.getenv("ETL_SCHEDULER_TIME_ZONE", TIME_ZONE)
+
 # Debug must be False in production
 DEBUG = os.getenv('DEBUG', 'False') == 'True'
 
