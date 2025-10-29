@@ -3,6 +3,25 @@ from __future__ import annotations
 from django.db import models
 
 
+class EtlJobWatermark(models.Model):
+    """Persisted high-water mark for incremental ETL jobs."""
+
+    job_name = models.CharField(max_length=120, unique=True)
+    last_token = models.CharField(max_length=255, blank=True)
+    last_timestamp = models.DateTimeField(blank=True, null=True)
+    metadata = models.JSONField(default=dict, blank=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+
+    class Meta:
+        ordering = ["job_name"]
+
+    def __str__(self) -> str:
+        token = self.last_token or "<unset>"
+        ts = self.last_timestamp.isoformat() if self.last_timestamp else "<unset>"
+        return f"{self.job_name} watermark token={token} ts={ts}"
+
+
 class EtlJobCheckpoint(models.Model):
     """Checkpoint status for an ETL job within an hourly window."""
 
