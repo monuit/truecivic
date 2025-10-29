@@ -5,16 +5,23 @@ import time
 from urllib.parse import urljoin
 
 from django.db import transaction
+from django.utils import timezone
 
 import lxml.html
 import lxml.etree
-import requests
 
 from parliament.committees.models import (Committee, CommitteeMeeting,
     CommitteeActivity, CommitteeActivityInSession,
     CommitteeInSession)
 from parliament.core.models import Session
 from parliament.hansards.models import Document
+from parliament.imports.http_retry import fetch_with_backoff, HttpRequestError
+from parliament.orchestration.watermarks import (
+    JobWatermark,
+    get_watermark,
+    should_process,
+    update_watermark,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -41,14 +48,12 @@ def import_committee_list(session=None):
                 committee=committee, session=session, acronym=acronym)
             return committee
     
-    resp = requests.get(COMMITTEE_LIST_URL.format(
+    resp = fetch_with_backoff(COMMITTEE_LIST_URL.format(
         lang='en', parl=session.parliamentnum, sess=session.sessnum))
-    resp.raise_for_status()
     root = lxml.html.fromstring(resp.text)
 
-    resp = requests.get(COMMITTEE_LIST_URL.format(
+    resp = fetch_with_backoff(COMMITTEE_LIST_URL.format(
         lang='fr', parl=session.parliamentnum, sess=session.sessnum))
-    resp.raise_for_status()
     root_fr = lxml.html.fromstring(resp.text)
 
     found = False
@@ -113,12 +118,22 @@ def _parse_date(d):
     )
 
 
+def _meeting_timestamp(date_value, start_time):
+    if not date_value:
+        return None
+    start = start_time or datetime.time.min
+    moment = datetime.datetime.combine(date_value, start)
+    if timezone.is_naive(moment):
+        moment = timezone.make_aware(moment, timezone=datetime.timezone.utc)
+    return moment
+
+
 def import_committee_documents(session):
     for comm in Committee.objects.filter(sessions=session).order_by('-parent'):
         # subcommittees last
         try:
             import_committee_meetings(comm, session)
-        except requests.exceptions.HTTPError as e:
+        except HttpRequestError as e:
             logger.exception("Error importing committee %s, #%s", comm, comm.id)
         #import_committee_reports(comm, session)
         #time.sleep(1)
@@ -128,12 +143,20 @@ COMMITTEE_MEETINGS_URL = 'https://www.%(domain)s.ca/Committees/en/%(acronym)s/Me
 def import_committee_meetings(committee, session):
 
     acronym = committee.get_acronym(session)
+    job_name = f"committee_meetings.{session.id}.{committee.id}"
+    watermark = get_watermark(job_name)
+    original_token = watermark.token
+    original_timestamp = watermark.timestamp
+    original_metadata = dict(watermark.metadata or {})
+    current_token = original_token
+    current_timestamp = original_timestamp
+    current_metadata = dict(original_metadata)
+
     url = COMMITTEE_MEETINGS_URL % {'acronym': acronym,
         'parliamentnum': session.parliamentnum,
         'sessnum': session.sessnum,
         'domain': 'parl' if committee.joint else 'ourcommons'}
-    resp = requests.get(url)
-    resp.raise_for_status()
+    resp = fetch_with_backoff(url)
     root = lxml.html.fromstring(resp.text)
     for mtg_row in root.cssselect('#meeting-accordion .accordion-item'):
         source_id = mtg_row.get('id')
@@ -155,13 +178,41 @@ def import_committee_meetings(committee, session):
                 pass
             continue
 
+        date_string = mtg_row.cssselect('.meeting-title .date-label')[0].text_content().strip()
+        if date_string in ('Earlier Today', 'Later Today', 'In Progress', 'Tomorrow', 'Yesterday', 'Suspended'):
+            match = re.search(r'-(20\d\d)-(\d\d)-(\d\d)', mtg_row.get('class'))
+            assert match
+            meeting_date = datetime.date(int(match.group(1)), int(match.group(2)), int(match.group(3)))
+        else:
+            try:
+                meeting_date = _parse_date(date_string.partition(', ')[2])
+            except ValueError:
+                raise Exception("Unrecognized date string %s for meeting %r" % (date_string, number))
+
+        timestring = mtg_row.cssselect('.the-time')[0].text_content()
+        match = re.search(r'(\d\d?):(\d\d) ([ap]\.?.m\.?)(?: - (\d\d?):(\d\d) ([ap]\.?.m\.?))?\s\(',
+            timestring, re.UNICODE)
+        start_time = datetime.time(_12hr(match.group(1), match.group(3)), int(match.group(2)))
+        end_time = None
+        if match.group(4):
+            end_time = datetime.time(_12hr(match.group(4), match.group(6)), int(match.group(5)))
+
+        notice_nodes = mtg_row.cssselect('a.btn-meeting-notice')
+        minutes_nodes = mtg_row.cssselect('a.btn-meeting-minutes')
+        evidence_nodes = mtg_row.cssselect('a.btn-meeting-evidence')
+
+        webcast_flag = bool(mtg_row.cssselect('.btn-meeting-parlvu'))
+        in_camera_flag = bool(mtg_row.cssselect('.meeting-title i[title*="In Camera"]'))
+        televised_flag = bool(mtg_row.cssselect('.meeting-title .icon-television'))
+        travel_flag = bool(mtg_row.cssselect('.meeting-title .icon-plane'))
+
         try:
             meeting = CommitteeMeeting.objects.select_related('evidence').get(
                 committee=committee, session=session, number=number)
         except CommitteeMeeting.DoesNotExist:
             meeting = CommitteeMeeting(committee=committee,
                 session=session, number=number)
-        
+
         if meeting.source_id:
             if meeting.source_id != source_id:
                 if meeting.evidence_id:
@@ -179,50 +230,54 @@ def import_committee_meetings(committee, session):
             if meeting.id:
                 meeting.save()
 
-        date_string = mtg_row.cssselect('.meeting-title .date-label')[0].text_content().strip()
-        if date_string in ('Earlier Today', 'Later Today', 'In Progress', 'Tomorrow', 'Yesterday', 'Suspended'):
-            match = re.search(r'-(20\d\d)-(\d\d)-(\d\d)', mtg_row.get('class'))
-            assert match
-            meeting.date = datetime.date(int(match.group(1)), int(match.group(2)), int(match.group(3)))
-        else:
-            try:
-                meeting.date = _parse_date(date_string.partition(', ')[2]) # partition is to split off day of week
-            except ValueError:
-                raise Exception("Unrecognized date string %s for meeting %r" % (date_string, meeting))
-        
-        timestring = mtg_row.cssselect('.the-time')[0].text_content()
-        match = re.search(r'(\d\d?):(\d\d) ([ap]\.?m\.?)(?: - (\d\d?):(\d\d) ([ap]\.?m\.?))?\s\(',
-            timestring, re.UNICODE)
-        meeting.start_time = datetime.time(_12hr(match.group(1), match.group(3)), int(match.group(2)))
-        if match.group(4):
-            meeting.end_time = datetime.time(_12hr(match.group(4), match.group(6)), int(match.group(5)))
-        
-        notice_link = mtg_row.cssselect('a.btn-meeting-notice')
-        if notice_link:
+        meeting_timestamp = _meeting_timestamp(meeting_date, start_time)
+        token = str(source_id) if source_id else f"{session.id}:{committee.id}:{number}"
+
+        needs_refresh = (
+            not meeting.id
+            or meeting.date != meeting_date
+            or meeting.start_time != start_time
+            or meeting.end_time != end_time
+            or meeting.webcast != webcast_flag
+            or meeting.in_camera != in_camera_flag
+            or (televised_flag and not meeting.televised)
+            or (travel_flag and not meeting.travel)
+            or (bool(notice_nodes) and not meeting.notice)
+            or (bool(minutes_nodes) and not meeting.minutes)
+            or (bool(evidence_nodes) and not meeting.evidence_id)
+        )
+
+        current_mark = JobWatermark(current_token, current_timestamp, current_metadata)
+        if not should_process(job_name, token=token, timestamp=meeting_timestamp, watermark=current_mark):
+            if not needs_refresh:
+                continue
+
+        meeting.date = meeting_date
+        meeting.start_time = start_time
+        meeting.end_time = end_time
+        meeting.webcast = webcast_flag
+        meeting.in_camera = in_camera_flag
+        if televised_flag:
+            meeting.televised = True
+        if travel_flag:
+            meeting.travel = True
+        if notice_nodes:
             meeting.notice = 1
-        minutes_link = mtg_row.cssselect('a.btn-meeting-minutes')
-        if minutes_link:
+        if minutes_nodes:
             meeting.minutes = 1
-        
-        evidence_link = mtg_row.cssselect('a.btn-meeting-evidence')
+
+        evidence_link = evidence_nodes[0] if evidence_nodes else None
         if evidence_link and not meeting.evidence:
-            evidence_viewer_url = urljoin(url, evidence_link[0].get('href'))
+            evidence_viewer_url = urljoin(url, evidence_link.get('href'))
             try:
                 _download_evidence(meeting, evidence_viewer_url)
             except NoXMLError:
                 if acronym not in ('REGS', 'BILI'):
                     # REGS never has XML
                     logger.error("No XML evidence for %s", meeting)
-        
-        meeting.webcast = bool(mtg_row.cssselect('.btn-meeting-parlvu'))
-        meeting.in_camera = bool(mtg_row.cssselect('.meeting-title i[title*="In Camera"]'))
-        if not meeting.televised:
-            meeting.televised = bool(mtg_row.cssselect('.meeting-title .icon-television'))
-        if not meeting.travel:
-            meeting.travel = bool(mtg_row.cssselect('.meeting-title .icon-plane'))
-        
+
         meeting.save()
-        
+
         for study_link in mtg_row.cssselect('.meeting-card-study a'):
             name = study_link.text.strip()
             try:
@@ -232,15 +287,50 @@ def import_committee_meetings(committee, session):
             except:
                 logger.exception("Error fetching committee activity for %r %s %s",
                     committee, name, study_link.get('href'))
-    
+        if meeting_timestamp:
+            should_update_latest = False
+            if current_timestamp is None or meeting_timestamp > current_timestamp:
+                should_update_latest = True
+            elif current_timestamp and meeting_timestamp == current_timestamp:
+                try:
+                    token_int = int(token)
+                    current_token_int = int(current_token) if current_token is not None else -1
+                except (TypeError, ValueError):
+                    should_update_latest = token != current_token
+                else:
+                    should_update_latest = token_int > current_token_int
+            if should_update_latest:
+                current_timestamp = meeting_timestamp
+                current_token = token
+                current_metadata = {
+                    'session_id': session.id,
+                    'committee_id': committee.id,
+                    'acronym': acronym,
+                    'number': meeting.number,
+                    'source_id': source_id,
+                    'date': meeting_date.isoformat() if meeting_date else None,
+                }
+
+    if current_timestamp and (
+        original_timestamp is None
+        or current_timestamp > original_timestamp
+        or current_token != original_token
+        or current_metadata != original_metadata
+    ):
+        update_watermark(
+            job_name,
+            token=current_token,
+            timestamp=current_timestamp,
+            metadata=current_metadata,
+        )
+
     return True
 
 class NoXMLError(Exception):
     pass
 
 def get_xml_url_from_documentviewer_url(url):
-    resp = requests.get(url)
-    resp.raise_for_status()
+    resp = fetch_with_backoff(url)
     root = lxml.html.fromstring(resp.text)
     try:
         xml_button = root.cssselect('a.btn-export-xml')[0]
@@ -254,12 +344,10 @@ def _download_evidence(meeting, evidence_viewer_url):
     assert xml_url_fr.upper().endswith('-F.XML')
     assert not meeting.evidence
 
-    resp = requests.get(xml_url_en)
-    resp.raise_for_status()
+    resp = fetch_with_backoff(xml_url_en)
     xml_en = resp.content
 
-    resp = requests.get(xml_url_fr)
-    resp.raise_for_status()
+    resp = fetch_with_backoff(xml_url_fr)
     xml_fr = resp.content
 
     source_id = int(lxml.etree.fromstring(xml_en).get('id'))
@@ -286,8 +374,7 @@ def get_activity_by_url(activity_url, committee, session):
 
     activity = CommitteeActivity(committee=committee)
     activity.study = True # not parsing this at the moment
-    resp = requests.get(activity_url)
-    resp.raise_for_status()
+    resp = fetch_with_backoff(activity_url)
     root = lxml.html.fromstring(resp.text)
 
     activity.name_en = root.cssselect('.core-content .study-title-label, .core-content .study-bill-label')[0].text.strip()[:500]
@@ -301,7 +388,7 @@ def get_activity_by_url(activity_url, committee, session):
         )
     except CommitteeActivity.DoesNotExist:
         url = activity_url.replace('/en/', '/fr/')
-        root = lxml.html.fromstring(requests.get(url).text)
+        root = lxml.html.fromstring(fetch_with_backoff(url).text)
         activity.name_fr = root.cssselect('.core-content .study-title-label, .core-content .study-bill-label')[0].text.strip()[:500]
         activity.save()
 
