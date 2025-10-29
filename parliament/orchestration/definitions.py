@@ -20,7 +20,13 @@ def default_job_definitions() -> Tuple[EtlJobDefinition, ...]:
     from parliament import jobs as job_module
 
     return (
-        EtlJobDefinition("votes", job_module.votes, max_attempts=3),
+        EtlJobDefinition("mps", job_module.mps, max_attempts=2),
+        EtlJobDefinition(
+            "votes",
+            job_module.votes,
+            max_attempts=3,
+            dependencies=("mps",),
+        ),
         EtlJobDefinition("bills", job_module.bills, max_attempts=2),
         EtlJobDefinition("hansards", job_module.hansards, max_attempts=3),
         EtlJobDefinition("committees", job_module.committees, max_attempts=2),
@@ -41,6 +47,7 @@ def default_job_definitions() -> Tuple[EtlJobDefinition, ...]:
             job_module.rag_ingest,
             max_attempts=2,
             dependencies=(
+                "mps",
                 "votes",
                 "bills",
                 "hansards",
